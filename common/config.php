@@ -8,11 +8,17 @@ error_reporting(E_ALL ^ E_NOTICE);
 
 session_start();
 
-/* Variáveis para acesso a base de dados */
-$db_user = "root";
-$db_pass = "1234";
-$db_db = "scielo";
-$db_server = "localhost";
+/* Variáveis para acesso a base de dados local */
+//$db_user = "root";
+//$db_pass = "1234";
+//$db_db = "scielo";
+//$db_server = "localhost";
+
+/* Variáveis para acesso a base de dados remota */
+$db_user = "thyagosimas24";
+$db_pass = "abacabb123";
+$db_db = "thyagosimas24";
+$db_server = "mysql23.torradeira.com";
 
 /* Conectando a base de dados */
 $sql = mysqli_connect($db_server, $db_user, $db_pass, $db_db);

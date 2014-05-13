@@ -10,6 +10,8 @@ class class_pid_revistas {
 	var $pidrev_id;
 	var $rev_id;
 	var $pid;
+
+	var $error;
 	
 	function select($sql) {
 		$query = "SELECT pd.pidrev_id,
@@ -38,8 +40,10 @@ class class_pid_revistas {
 									VALUES (".
 										$this->rev_id.", '"
 										.$this->pid."');";
-		if (!$sql->query($query))
-			die("Error insert: ".$sql->error);
+		if (!$sql->query($query)) {
+			$this->error = "Error insert: ".$sql->error;
+			return false;
+		}
 		
 		return true;
 	}

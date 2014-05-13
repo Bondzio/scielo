@@ -7,12 +7,19 @@ require "common/bizobj/class_pid_revistas.php";
 
 echo "[Inicio] \n";
 
+echo "Pegando na base de dados a listagem de revistas \n";
+
 $revistas = new class_revistas;
 if ($revistas->select($sql)) {
 	while ($revistas->fetch()) {
-		$file = "files/revistas/".date("Y-m-d")."_".str_replace(" ", "_", retirarAcento($revistas->rev_nome)).".txt";
+	
+		echo " - Acessando a revista salva offline: ".retirarAcento($revistas->rev_nome)."\n";
+		
+		$file = "files/revistas/".$revistas->rev_dt_download."_".str_replace(" ", "_", retirarAcento($revistas->rev_nome)).".html";
 		$handle = @fopen($file, "r");
 		if ($handle) {
+			echo "  + Extraindo os pIDs da revista e salvando no banco de dados...";
+			
 			$pid = array();
 			
 			while (!feof($handle)) {
@@ -30,8 +37,9 @@ if ($revistas->select($sql)) {
 					}
 				}
 			}
+			fclose($handle);
+			echo "[OK] \n";
 		}
-		fclose($handle);
 	}
 } else
 	die("Não há revistas cadastradas");

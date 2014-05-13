@@ -1,18 +1,18 @@
 <?php
 
 require "common/config.php";
+require "common/function/retirarAcento.php";
 require "common/bizobj/class_revistas.php";
 require "common/bizobj/class_pid_revistas.php";
+
+echo "[Inicio] \n";
 
 $revistas = new class_revistas;
 if ($revistas->select($sql)) {
 	while ($revistas->fetch()) {
-		//$file = $revistas->rev_url;
-		$file = "files/revistas/volume2.html";
-		
+		$file = "files/revistas/".date("Y-m-d")."_".str_replace(" ", "_", retirarAcento($revistas->rev_nome)).".txt";
 		$handle = @fopen($file, "r");
 		if ($handle) {
-			
 			$pid = array();
 			
 			while (!feof($handle)) {
@@ -35,5 +35,7 @@ if ($revistas->select($sql)) {
 	}
 } else
 	die("Não há revistas cadastradas");
+
+echo "[Fim]"
 
 ?>

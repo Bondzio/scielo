@@ -32,8 +32,12 @@ class class_pid_revistas {
 	}
 	
 	function insert($sql) {
-		$query = "INSERT INTO pid_revistas (rev_id, pid) VALUES (".$this->rev_id.", '".$this->pid."')";
-		
+		$query = "INSERT INTO pid_revistas (
+										rev_id, 
+										pid) 
+									VALUES (".
+										$this->rev_id.", '"
+										.$this->pid."');";
 		if (!$sql->query($query))
 			die("Error insert: ".$sql->error);
 		
@@ -54,6 +58,24 @@ class class_pid_revistas {
 			return true;
 		} else
 			return false;
+	}
+	
+	function begin(&$sql){
+		if (!$sql->query("BEGIN;"))
+			die("Error BEGIN: ".$sql->error);
+		return true;
+	}
+	
+	function commit(&$sql) {
+		if (!$sql->query("COMMIT;"))
+			die("Error COMMIT: ".$sql->error);
+		return true;
+	}
+	
+	function rollback(&$sql) {
+		if (!$sql->query("ROLLBACK;"))
+			die("Error ROLLBACK: ".$sql->error);
+		return true;
 	}
 	
 }

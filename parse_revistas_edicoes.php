@@ -27,21 +27,19 @@ if ($edicoes->select($sql)) {
 				
 				//<a href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0011-52582014000100001&amp;lng=pt&amp;nrm=iso&amp;tlng=pt">
 				$pattern = '/http:\/\/www\.scielo\.br\/scielo\.php\?script=sci_arttext&amp;pid=S([0-9]{4}-[0-9]*)&amp;lng=pt&amp;nrm=iso&amp;tlng=pt/';
-				if (preg_match_all($pattern, $buffer, $pid_arr)) {
-					/*for ($i = 0; $i < sizeof($pid_arr[1]); ++$i) {
-						$p_rev = new class_pid_revistas;
-				
-						$p_rev->rev_id = $revistas->rev_id;
-						$p_rev->pid = $pid_arr[1][$i];
-						$p_rev->insert($sql);
-					}*/
-					print_r($pid_arr);
+				if (preg_match($pattern, $buffer, $pid_arr)) {
+					$artigos = new class_artigos;
+					
+					$artigos->pidrev_id = $edicoes->pidrev_id;
+					$artigos->art_num = substr($pid_arr[1], -5);
+					$artigos->art_url = $pid_arr[0];
+					
+					$artigos->insert($sql);
 				}
 			}
 			fclose($handle);
 			echo "[OK] \n";
 		}
-		die($file);
 	}
 } else
 	die("Não há revistas cadastradas");

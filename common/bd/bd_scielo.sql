@@ -63,3 +63,5 @@ CREATE TABLE artigos (
 
 ALTER TABLE artigos ADD CONSTRAINT fk_pidrev_id 	FOREIGN KEY ( pidrev_id ) 	REFERENCES pid_revistas ( pidrev_id ) ;
 ALTER TABLE artigos ADD CONSTRAINT fk_tart_id 	FOREIGN KEY ( tart_id ) 	REFERENCES tipo_artigo 	( tart_id ) ;
+
+ALTER TABLE artigos ADD UNIQUE INDEX unique_pid (art_num, pidrev_id);

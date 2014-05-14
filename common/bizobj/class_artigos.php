@@ -7,28 +7,50 @@ class class_artigos {
 	
 	var $result;
 	
+	var $art_id;
+	var $art_num;
+	var $art_titulo;
+	var $art_ano;
+	var $art_volume;
+	var $art_paginas;
+	var $art_url;
+	var $art_resumo_br;
+	var $art_resumo_fr;
+	var $art_resumo_en;
+	var $art_resumo_es;
+	
 	var $pidrev_id;
-	var $rev_id;
-	var $pid;
-	var $pidrev_dt_download;
-	var $rev_nome;
+	
+	var $tart_id;
+	var $tart_nome;
 
 	var $error;
 	
 	function select($sql) {
-		$query = "SELECT pd.pidrev_id,
-						pd.rev_id,
-						pd.pid,
-						pd.pidrev_dt_download,
-						r.rev_nome
-							FROM pid_revistas pd JOIN revistas r ON (pd.rev_id = r.rev_id)
+		$query = "SELECT a.art_id,
+						a.art_num,
+						a.art_titulo,
+						a.art_ano,
+						a.art_volume,
+						a.art_paginas,
+						a.art_url,
+						a.art_resumo_br,
+						a.art_resumo_fr,
+						a.art_resumo_en,
+						a.art_resumo_es,
+						a.pidrev_id,
+						t.tart_id
+						t.tart_nome
+							FROM artigos a LEFT JOIN tipo_artigo t ON (a.tart_id = t.tart_id)
 								WHERE 1 = 1";
+		if ($this->art_id)
+			$query .= " AND art_id = ".$this->art_id;
 		if ($this->pidrev_id)
 			$query .= " AND pidrev_id = ".$this->pidrev_id;
-		if ($this->rev_id)
-			$query .= " AND rev_id = ".$this->rev_id;
-		if ($this->pid)
-			$query .= " AND pid = '".$this->pid."' ORDER BY pd.pidrev_id";
+		if ($this->tart_id)
+			$query .= " AND tart_id = ".$this->tart_id;
+		if ($this->art_num)
+			$query .= " AND art_num = '".$this->art_num."' ORDER BY a.art_id";
 		$query .= ";";
 		
 		if (!$this->result = $sql->query($query))
@@ -38,12 +60,14 @@ class class_artigos {
 	}
 	
 	function insert($sql) {
-		$query = "INSERT INTO pid_revistas (
-										rev_id, 
-										pid) 
-									VALUES (".
-										$this->rev_id.", '"
-										.$this->pid."');";
+		$query = "INSERT INTO artigos (
+										art_num,
+										art_url,
+										pidrev_id) 
+									VALUES ('".
+										$this->art_num."', '"
+										.$this->art_url."', "
+										.$this->pidrev_id.");";
 		if (!$sql->query($query)) {
 			$this->error = "Error insert: ".$sql->error;
 			return false;
@@ -55,11 +79,21 @@ class class_artigos {
 	function fetch() {
 		
 		if ($row = $this->result->fetch_array(MYSQLI_ASSOC)) {
+			$this->art_id = $row["art_id"];
+			$this->art_num = $row["art_num"];
+			$this->art_titulo = $row["art_titulo"];
+			$this->art_ano = $row["art_ano"];
+			$this->art_volume = $row["art_volume"];
+			$this->art_paginas = $row["art_paginas"];
+			$this->art_url = $row["art_url"];
+			$this->art_resumo_br = $row["art_resumo_br"];
+			$this->art_resumo_fr = $row["art_resumo_fr"];
+			$this->art_resumo_en = $row["art_resumo_en"];
+			$this->art_resumo_es = $row["art_resumo_es"];
+			
 			$this->pidrev_id = $row["pidrev_id"];
-			$this->rev_id = $row["rev_id"];
-			$this->pid = $row["pid"];
-			$this->pidrev_dt_download = $row["pidrev_dt_download"];
-			$this->rev_nome = $row["rev_nome"];
+			$this->tart_id = $row["tart_id"];
+			$this->tart_nome = $row["tart_nome"];
 			
 			$this->num_row += 1;
 			if ($this->num_row == 1)

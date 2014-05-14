@@ -70,24 +70,6 @@ class class_pid_revistas {
 			return false;
 	}
 	
-	function begin(&$sql){
-		if (!$sql->query("BEGIN;"))
-			die("Error BEGIN: ".$sql->error);
-		return true;
-	}
-	
-	function commit(&$sql) {
-		if (!$sql->query("COMMIT;"))
-			die("Error COMMIT: ".$sql->error);
-		return true;
-	}
-	
-	function rollback(&$sql) {
-		if (!$sql->query("ROLLBACK;"))
-			die("Error ROLLBACK: ".$sql->error);
-		return true;
-	}
-	
 	function update($sql) {
 		
 		if (!is_numeric($this->pidrev_id))

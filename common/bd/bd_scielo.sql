@@ -30,3 +30,34 @@ CREATE TABLE pid_revistas (
 
 ALTER TABLE pid_revistas ADD UNIQUE (pid);
 ALTER TABLE pid_revistas ADD CONSTRAINT fk_rev_id FOREIGN KEY ( rev_id ) REFERENCES revistas ( rev_id ) ;
+
+-- ATUALIZAÇÕES: 13/05/2014
+
+CREATE TABLE tipo_artigo (
+	tart_id 	INT(11) 		NOT NULL,
+	tart_nome 	VARCHAR(100) 	NOT NULL,
+	PRIMARY KEY (tart_id)
+);
+
+INSERT INTO tipo_artigo (tart_id, tart_nome) VALUES (1, 'Journal Article');
+
+CREATE TABLE artigos (
+	art_id			INT(11)			NOT NULL AUTO_INCREMENT,
+	art_num			VARCHAR(4) 		NOT NULL,
+	art_titulo		VARCHAR(400),
+	art_ano			VARCHAR(4),
+	art_volume		VARCHAR(100),
+	art_paginas		VARCHAR(100),
+	art_url			VARCHAR(100),
+	art_resumo_br	TEXT,
+	art_resumo_fr	TEXT,
+	art_resumo_en	TEXT,
+	art_resumo_es	TEXT,
+	
+	pidrev_id		INT(11) 		NOT NULL,
+	tart_id			INT(11),
+	PRIMARY KEY (art_id)
+);
+
+ALTER TABLE artigos ADD CONSTRAINT fk_pidrev_id 	FOREIGN KEY ( pidrev_id ) 	REFERENCES pid_revistas ( pidrev_id ) ;
+ALTER TABLE artigos ADD CONSTRAINT fk_tart_id 	FOREIGN KEY ( tart_id ) 	REFERENCES tipo_artigo 	( tart_id ) ;

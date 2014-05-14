@@ -1,6 +1,6 @@
 <?php
 
-class class_pid_revistas {
+class class_artigos {
 	
 	var $num_row = 0;
 	var $tot_row = 0;

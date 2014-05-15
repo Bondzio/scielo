@@ -50,7 +50,7 @@ CREATE TABLE artigos (
 	art_ano			VARCHAR(4),
 	art_volume		VARCHAR(100),
 	art_paginas		VARCHAR(100),
-	art_url			VARCHAR(100),
+	art_url			VARCHAR(300),
 	art_resumo_br	TEXT,
 	art_resumo_fr	TEXT,
 	art_resumo_en	TEXT,
@@ -65,3 +65,5 @@ ALTER TABLE artigos ADD CONSTRAINT fk_pidrev_id 	FOREIGN KEY ( pidrev_id ) 	REFE
 ALTER TABLE artigos ADD CONSTRAINT fk_tart_id 	FOREIGN KEY ( tart_id ) 	REFERENCES tipo_artigo 	( tart_id ) ;
 
 ALTER TABLE artigos ADD UNIQUE INDEX unique_pid (art_num, pidrev_id);
+
+ALTER TABLE artigos ADD COLUMN art_dt_download VARCHAR(10);

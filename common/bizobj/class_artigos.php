@@ -18,12 +18,15 @@ class class_artigos {
 	var $art_resumo_fr;
 	var $art_resumo_en;
 	var $art_resumo_es;
+	var $art_dt_download;
 	
 	var $pidrev_id;
 	
 	var $tart_id;
 	var $tart_nome;
-
+	
+	var $pid;
+	
 	var $error;
 	
 	function select($sql) {
@@ -38,10 +41,13 @@ class class_artigos {
 						a.art_resumo_fr,
 						a.art_resumo_en,
 						a.art_resumo_es,
+						a.art_dt_download,
 						a.pidrev_id,
-						t.tart_id
-						t.tart_nome
-							FROM artigos a LEFT JOIN tipo_artigo t ON (a.tart_id = t.tart_id)
+						t.tart_id,
+						t.tart_nome,
+						r.pid
+							FROM artigos a 	JOIN pid_revistas r ON (a.pidrev_id = r.pidrev_id)
+											LEFT JOIN tipo_artigo t ON (a.tart_id = t.tart_id)
 								WHERE 1 = 1";
 		if ($this->art_id)
 			$query .= " AND art_id = ".$this->art_id;
@@ -90,10 +96,12 @@ class class_artigos {
 			$this->art_resumo_fr = $row["art_resumo_fr"];
 			$this->art_resumo_en = $row["art_resumo_en"];
 			$this->art_resumo_es = $row["art_resumo_es"];
+			$this->art_dt_download = $row["art_dt_download"];
 			
 			$this->pidrev_id = $row["pidrev_id"];
 			$this->tart_id = $row["tart_id"];
 			$this->tart_nome = $row["tart_nome"];
+			$this->pid = $row["pid"];
 			
 			$this->num_row += 1;
 			if ($this->num_row == 1)
@@ -124,16 +132,16 @@ class class_artigos {
 	
 	function update($sql) {
 		
-		if (!is_numeric($this->pidrev_id))
+		if (!is_numeric($this->art_id))
 			die("O código para alteração é inválido. Classe: class_pid_revistas.");
 		
-		$query = "UPDATE pid_revistas SET ";
-		if ($this->pidrev_dt_download)
-			$query .= " pidrev_dt_download = '".$this->pidrev_dt_download."'";
+		$query = "UPDATE artigos SET ";
+		if ($this->art_dt_download)
+			$query .= " art_dt_download = '".$this->art_dt_download."'";
 		else
 			die("Problema com a data de download do arquivo");
 		
-		$query .= " WHERE pidrev_id = ".$this->pidrev_id.";";
+		$query .= " WHERE art_id = ".$this->art_id.";";
 		
 		if (!$sql->query($query))
 			die("Error update: ".$sql->error);

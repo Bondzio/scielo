@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0102-6909</journal-id>
+<journal-title><![CDATA[Revista Brasileira de Ciências Sociais]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. bras. Ci. Soc.]]></abbrev-journal-title>
+<issn>0102-6909</issn>
+<publisher>
+<publisher-name><![CDATA[Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais - ANPOCS]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0102-69091998000200004</article-id>
+<article-id pub-id-type="doi">10.1590/S0102-69091998000200004</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Determinantes da criminalidade em Minas Gerais]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Beato F.]]></surname>
+<given-names><![CDATA[Claudio C.]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A">
+<institution><![CDATA[,  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>1998</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>1998</year>
+</pub-date>
+<volume>13</volume>
+<numero>37</numero>
+<fpage>74</fpage>
+<lpage>87</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0102-69091998000200004&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0102-69091998000200004&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0102-69091998000200004&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O artigo tem um duplo objetivo. Primeiro, estabelecer uma discussão acerca das abordagens que tratam da distribuição espacial da criminalidade. Quais as implicações teóricas da utilização de dados espaciais para o estudo da criminalidade? Segundo o autor, ao deslocar a atenção para os locais de incidência de crimes, ao invés das características dos criminosos, é possível uma análise dos componentes racionais e utilitaristas de determinados tipos de delitos. O outro objetivo do artigo é fazer uma análise, a partir das premissas teóricas estabelecidas anteriormente, da incidência da criminalidade nos 756 municípios de Minas Gerais durante o ano de 1991. Para tal, são utilizados índices corrigidos através dos estimadores empíricos de Bayes para todos os municípios, correlacionados com indicadores socioeconômicos.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The article has a double aim. First, an approach that deal with the spatial distribution of crime and its theoretical consequences is discussed. It is argued that this kind of approach allows us to make an analysis of rational and utilitarian components of crime. This is possible by focusing our attention on local incidences of crime instead of the characteristics of the criminals. Secondly, crime incidence in the 756 cities of Minas Gerais throughout the year of 1991 is analyzed using the theoretical approach mentioned. For that, empirical Bayes indexes are used.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="fr"><p><![CDATA[Cet article a deux objectifs. Le premier, debattre les abordages théoriques à propos de la distribution spatiale de la criminalité. Quelles sont les implications théoriques de l'utilisation de donnés spatiales pour l'étude de la criminalité? Tenir en compte le lieu d'incidence des crimes et non pas les caractéristiques des individus criminels permet une analyse des composants rationnels et utilitaristes de certains types de délits. Le deuxième objectif, c'est d'analyser l'incidence de la criminalité dans les 756 municipalités de Minas Gerais en 1991, à partir des préalables théoriques établis ci-dessus. Seront utilisés des indicateurs retifiés par estimators empiriques de Bayes.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Criminalidade violenta]]></kwd>
+<kwd lng="pt"><![CDATA[Crime e racionalidade]]></kwd>
+<kwd lng="pt"><![CDATA[Minas Gerais e criminalidade]]></kwd>
+<kwd lng="pt"><![CDATA[Georeferenciamento e criminalidade]]></kwd>
+<kwd lng="pt"><![CDATA[Espaço e crime]]></kwd>
+<kwd lng="en"><![CDATA[Violent criminality]]></kwd>
+<kwd lng="en"><![CDATA[Crime and rationality]]></kwd>
+<kwd lng="en"><![CDATA[Minas Gerais and criminality]]></kwd>
+<kwd lng="en"><![CDATA[Space and crime]]></kwd>
+<kwd lng="fr"><![CDATA[Criminalité violente]]></kwd>
+<kwd lng="fr"><![CDATA[Crime et rationalité]]></kwd>
+<kwd lng="fr"><![CDATA[Minas Gerais et criminalité]]></kwd>
+<kwd lng="fr"><![CDATA[Space et crime]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <h4><font size="5"><strong><a name="home"></a>DETERMINANTES DA CRIMINALIDADE EM MINAS GERAIS<a href="#back">*</a> </strong></font></h4>  <p>&nbsp;</p><p><font size="4"><strong>Claudio C. Beato F.</strong></font></p><p>&nbsp;</p><p>&nbsp;</p><p><font size="4">Introdução</font></p><p>O estudo da distribuição espacial de delitos<b> </b>tem uma longa tradição nas ciências sociais, na qual Quetelet e Durkheim ocupam uma posição conspícua. O influente trabalho de Shaw e McKey (1942) mostrou como existia um gradiente<b> </b>nas taxas de delinqüência, com altas taxas nos centros das cidades, que iam declinando nos subúrbios. Outros autores analisaram, por meio de conceitos como o de "espaço defensivo", as circunstâncias físicas e ambientais imediatas relacionadas com a incidência de delitos criminais (Newman, 1972). Mais recentemente, tem-se discutido com intensidade a importância da "geografia do crime" (Brantinghan e Brantinghan, 1981) nas estratégias de policiamento e no combate à criminalidade (Evans, 1995; Murray, 1995; Eck, 1997). Existem importantes trabalhos que procuram relacionar a incidência de crimes com a estrutura socioeconômica de Estados-nações (Messner, 1980), regiões (Loftin e Hill, 1974) e áreas metropolitanas (Blau e Blau, 1982). </p><p>Neste artigo, gostaria de salientar algumas implicações do estudo da distribuição espacial do crime para a sociologia do crime: </p><p>(a) A confecção de mapas de criminalidade desloca a análise dos criminosos para o delito propriamente dito.<a href="#1not"><sup>1</sup></a><a name="not1"></a><sup>&nbsp;</sup> Do ponto de vista teórico, isto significa uma análise dos processos de tomada de decisão por parte dos criminosos relativos à<b> </b>escolha de locais e alvos viáveis para a realização de determinados tipos de crime. Abordagens espaciais são particularmente apropriadas para a demonstração dos componentes racionais da atividade criminosa, bem como referendam modelos afins à teoria das oportunidades do crime (Cohen e Felson, 1979; Wilson e Herrenstein, 1985; Tedeschi e Felson, 1994; Glaeser <i>et al</i>., 1996). </p><p>(b) Em segundo lugar, uma implicação de natureza metodológica muito importante diz respeito ao fato de que abordagens espaciais não tratam do "crime" de uma forma geral, mas das condições de incidência de determinados tipos de crime. Quando falamos de "crime" estamos falando de fenômenos muito distintos: "roubar uma revista em quadrinhos, esmurrar um colega, sonegar impostos, assassinar a esposa, roubar um banco, corromper políticos, seqüestrar aviões — esses e inumeráveis outros atos são crimes" (Wilson e Herrenstein, 1985, p. 21). A importância dessa mudança de enfoque é mostrar como alguns tipos de crime tornam mais visíveis os processos de <i>decision-making</i> cuja orientação é estritamente instrumental. Isto não significa qualificar alguns crimes como sendo mais "racionais" e utilitários que outros; ao contrário, é um convite para utilizarmos amplamente o<b> </b>"princípio de caridade" (Golguer, 1995; Davidson, 1974) a fim de avaliarmos o componente racional de crimes aparentemente <i>non-sensical</i> (Katz, 1988). </p><p>(c) Esta estratégia aproxima-se muito da lógica das organizações encarregadas de lidar com o "problema do crime", especialmente a polícia. O combate ao crime por parte de organizações policiais pode perfeitamente prescindir de um diagnóstico de suas "causas" para<b> </b>orientar-se pela idéia de que crimes não ocorrem aleatoriamente<b> </b>no tempo e no espaço. Logo, uma orientação pró-ativa deve detectar padrões espaciais e temporais de determinados tipos de delitos a fim de poder antecipar a ocorrência dos eventos (Rich, 1997). </p>]]></body>
+<body><![CDATA[<p>(d) Finalmente, a implementação de políticas públicas preventivas de combate à criminalidade requer a identificação das comunidades e locais que serão objeto da ação assistencialista e preventiva (Sherman, 1997). A literatura sobre políticas públicas de combate à criminalidade tem enfatizado crescentemente a busca por soluções" locais" e descentralizadas, o que conduz necessariamente à identificação de problemas nos contextos específicos de sua ocorrência. </p><p>&nbsp;</p><p><big>Dados e metodologia</big></p><p>Uma discussão inicial acerca de uma sociologia do espaço <i>stricto sensu</i> diz<b> </b>respeito ao nível de agregação necessário a este tipo de análise (Parker, 1989; Patterson,1991). Alguns autores tratam as abordagens ecológicas a partir de uma definição estrita de local: "um ambiente físico estável que pode ser visto completa e simultaneamente, ao menos em sua superfície, a olho nu" (Sherman <i>et al</i>., 1989, p. 31). Gostaria, neste artigo, de explorar algumas das implicações da abordagem espacial na análise das taxas de criminalidade para o Estado de Minas Gerais a partir das características dos 756 municípios mineiros existentes no ano de 1991, na suposição de que muitas dessas implicações podem ser verificadas nesta unidade de análise. O presente estudo é baseado em dados de criminalidade violenta no ano de 1991 em todos os 756 municípios do estado<a href="#2not"><sup>2</sup></a><a name="not2"></a><sup>&nbsp;</sup> e seus correlatos socioeconômicos. </p><p><i>Variáveis dependentes.</i> As variáveis a serem explicadas são as taxas de criminalidade violenta (homicídio, tentativa de homicídio, estupro, roubo e roubo à mão armada) por cem mil habitantes. Essas taxas foram corrigidas através de estimadores empíricos de Bayes. A opção por corrigir as taxas deve-se ao fato de tomarmos como unidade de análise pequenas regiões geográficas, muitas delas com populações de risco pequenas, o que implicaria taxas brutas muito instáveis. Suponhamos que tenha ocorrido um homicídio em um município com mil habitantes; sua taxa seria de 100. Mas, se por uma circunstância absolutamente fortuita tivesse havido dois homicídios, teríamos uma taxa colombiana de 200 por cem mil habitantes. Em termos estatísticos, esta seria uma taxa incomparável com as outras devido à sua variância. Empiricamente, a discrepância nas taxas observadas em municípios muito pequenos pode ser resultado de flutuações aleatórias.<a href="#3not"><sup>3</sup></a><a name="not3"></a><sup>&nbsp;</sup> </p><p><i>Variáveis independentes.</i> São utilizadas aqui como variáveis independentes a arrecadação do ICMS por setores de atividade em cada município mineiro, o PIB por habitante municipal,<a href="#4not"><sup>4</sup></a><a name="not4"></a><sup>&nbsp;</sup> o tamanho da população e a densidade populacional por município, o grau de urbanização, o coeficiente de Gini, o Índice de Desenvolvimento Humano,<a href="#5not"><sup>5</sup></a><a name="not5"></a><sup>&nbsp;</sup> o percentual de casas com esgoto e o percentual de famílias que ganham menos de um salário mínimo.<a href="#6not"><sup>6</sup></a><a name="not6"></a><sup>&nbsp;</sup> </p><p>&nbsp;</p><p><big>Hipóteses clássicas para a distribuição da incidência de criminalidade </big></p><p>Sociólogos são bastante familiarizados com duas teorias contrastantes na definição das causas da criminalidade. Uma delas nos diz que criminalidade e violência são fenômenos cuja origem se deve essencialmente a fatores de natureza econômica; privação de oportunidades, desigualdade social e marginalização seriam estímulos decisivos para o comportamento criminoso (Parker e Smith, 1979; Taylor <i>et al</i>., 1980). A outra teoria credita ao delinqüente e aos atos criminosos uma agressão ao consenso moral e normativo da sociedade; um baixo grau de integração moral produziria o fenômeno do crime. Conseqüentemente, a punição do crime é uma necessidade imperiosa para o restabelecimento dos valores centrais do núcleo normativo (Durkheim, 1978; Sherman e Berk, 1984; Clarke, 1983; Kraut, 1976). </p><p>Vários estudos quantitativos (Bayley, 1984; Blau e Blau, 1982; Land <i>et al</i>., 1990; Schuerman e Kobrin, 1986) têm procurado explicar a variação das taxas de crime violento entre várias cidades, áreas metropolitanas ou estados. Para isto, sociólogos e criminólogos têm aplicado uma grande variedade de técnicas estatísticas, usando diversas variáveis sociais, demográficas e econômicas. Os resultados destes estudos têm mostrado que alguns fatores estão invariavelmente associados com altas taxas de criminalidade, ao passo que outros fatores apresentam comportamento mais volátil, algumas vezes sendo estatisticamente significantes, outras vezes não. </p>]]></body>
+<body><![CDATA[<p>Nos Estados Unidos, os fatores que sistematicamente estão relacionados com o crime, por ordem decrescente de importância, são os seguintes (Land <i>et al</i>., 1990): índices de desigualdade econômica (áreas com maior desigualdade apresentam taxas mais elevadas); índices de estrutura populacional, englobando o total da população e a densidade populacional (áreas maiores/mais densas têm taxas maiores); índices de desemprego (surpreendentemente, com efeito negativo, o que tem sido explicado pela teoria da oportunidade criminal por Cohen e Felson (1979) e por Cook (1986), entre outros). Após levar em conta estes fatores, outras variáveis tradicionalmente associadas à criminalidade violenta, como a estrutura etária (jovens cometem mais crimes), mostram-se estatisticamente não significativas. </p><p>Assim, uma das hipóteses clássicas sugeridas por essas abordagens teóricas para a explicação da incidência da criminalidade violenta seria<b> </b>a desigualdade de condições socioeconômicas nas localidades, regiões ou municípios. O crime seria resultado de dois mecanismos distintos, embora correlacionados entre si: a privação relativa (Blau e Blau, 1982; Merton, 1968) e a privação absoluta (Messner, 1980). A abordagem que parte da privação relativa sugere que o mecanismo responsável pela maior ou menor incidência da criminalidade surge da percepção dos indivíduos a respeito de sua posição econômica relativamente aos ideais de sucesso de uma sociedade. A violência seria o resultado de um processo de frustração de indivíduos privados relativamente na realização de objetivos socialmente legítimos. O segundo tipo de abordagem tem raízes na literatura sociológica clássica e trata<b> </b>da pobreza absoluta como fonte de violência (Engels, 1976). As poucas opções disponíveis àqueles que se encontram submetidos a um estado de penúria para lidar com problemas econômicos, por um lado, e a dificuldade para enfrentar situações emocionais difíceis, por outro, levariam a uma escalada de ações violentas. Alguns estudos sugerem a importância de fatores como o desemprego dos chefes de família e a instabilidade marital como causas de violência doméstica não-letal (Straus,1980, <i>apud </i>Parker, 1989). </p><p>Na realidade, estas abordagens possuem uma série de elementos de continuidade, na medida em que a realidade estrutural da pobreza, relativa ou absoluta, é que possibilita o florescimento de uma subcultura da violência (Wolfang e Ferracuti, 1967). Os elementos desta subcultura da violência causariam a violência indiretamente através da pobreza (Parker, 1989). De qualquer maneira, resta a convicção firmada em muitos desses estudos de que existe uma interação estreita, embora não causal, entre a criminalidade violenta e as condições socioeconômicas. Daí que muitas avaliações de programas bem-sucedidos no combate à criminalidade encontrem em intervenções sociais seus resultados mais positivos (Greenwood <i>et al</i>., 1996; Sherman, 1997). </p><p>Contudo, quando analisadas à luz dos dados disponíveis para o Estado de Minas Gerais, essas hipóteses não encontram respaldo empírico. Se correlacionarmos a taxa de criminalidade violenta com o coeficiente de Gini, que é um indicador de pobreza relativa, e com o percentual de famílias que vivem com menos de um salário mínimo, que é um indicador de pobreza absoluta, obteremos os seguintes resultados, ilustrados nos <a href="#grafico1">Gráficos 1</a> e <a href="#grafico2">2</a>: </p><p align="left"><a name="grafico1"></a></p><p align="left"><big>Gráfico 1</big></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatograf1.gif" alt="beatograf1.GIF (4844 bytes)"></p>
+<p><a name="grafico2"></a></p><p><big>Gráfico 2</big></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatograf2.gif" alt="beatograf2.GIF (5594 bytes)"></p>
+]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p><p>&nbsp;</p><p>Conforme podemos ver, a variância explicada pela hipótese da privação relativa e<b> </b>pela hipótese da pobreza absoluta é de pouco mais de 1% (R<sup>2</sup>= .0139 e .0266, respectivamente). Pouca, quase nenhuma, variação nas taxas de criminalidade violenta parece estar associada às medidas de desigualdade adotadas. </p><p>Uma explicação para essa discrepância em relação a alguns estudos existentes parece ser a presença de variáveis intervenientes importantes no contexto americano e ausentes no caso brasileiro, especialmente a raça. No caso americano, pobreza, violência e subcultura estão muitas vezes associadas através da interação com a variável raça, especialmente nos estados do Sul dos Estados Unidos (Blau e Blau, 1982; Huff-Corzine <i>et al</i>., 1991). </p><p>Conforme sugeri no início deste artigo, gostaria de analisar algumas implicações de uma abordagem espacial dos delitos criminosos. Duas delas são de particular interesse para a abordagem adotada a seguir: (a) a mudança de enfoque dos criminosos para os correlatos espaciais da ocorrência dos delitos e (b) o tratamento<b> </b>em separado das variáveis que compõem a criminalidade violenta. Este tipo de abordagem permitirá que tratemos os municípios a partir de suas características estruturais<b> </b>em relação<b> </b>à incidência de determinados tipos de crimes. Quais as características estruturais dos municípios — tais como o tamanho da população e sua densidade, a estrutura de produção de bens e serviços, o grau de desenvolvimento — que fornecem um contexto favorável à ocorrência de diferentes tipos de delitos? </p><p>&nbsp;</p><p><big>Padrões de criminalidade em Minas Gerais</big></p><p>As desigualdades sociais e regionais ainda persistem em grau bastante elevado em Minas Gerais. Na realidade, esta desigualdade expressa a heterogeneidade do estado. Embora exista uma mitologia a respeito da identidade e unidade cultural dos mineiros, a verdade é que a disparidade cultural, econômica e social entre as regiões sempre foi muito acentuada. Se tomarmos o Índice de Desenvolvimento Humano (IDH) adotado pela ONU, veremos que existem regiões em Minas com fronteiras muito nítidas. À prosperidade e desenvolvimento humano de regiões como a Central e o Triângulo Mineiro contrapõem-se alguns índices quase africanos no Vale do Jequitinhonha, Mucuri ou na Região Norte. Os índices de desigualdade são tão maiores quanto mais pobres as regiões. A maioria da população do Norte de Minas, Jequitinhonha, Mucuri, Rio Doce, Vertente do Caparaó e Vale do Rio Piranga, quase a metade do território do Estado de Minas, ainda está abaixo da linha de pobreza. </p><p>Municípios como Uberlândia, Belo Horizonte, Varginha, Itajubá, Juiz de Fora, Pouso Alegre, Poços de Caldas, Guaxupé e Alfenas, dentre outros, destacam-se por deterem elevados índices em educação ou saúde. Mas mesmo nessas aparentes ilhas de prosperidade ainda persistem fortes desigualdades. </p><p><a name="mapa1"></a></p>]]></body>
+<body><![CDATA[<p align="center"><big>Mapa 1 - </big><strong>Índice de Desenvolvimento Humano - IDH</strong></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatomapa1.gif" alt="beatomapa1.GIF (10434 bytes)"></p>
+<p>&nbsp;</p><p>Se os níveis de pobreza e desigualdade ainda são bastante elevados, outros indicadores sociais têm melhorado. Uma comparação entre os mapas de desenvolvimento da década de 70 e o de 1991 indica que existe um progressivo movimento na direção de melhores posições. A Região Central e o Triângulo Mineiro alcançaram um grau de desenvolvimento humano alto apenas na década de 80. O<b> </b>IDH nas regiões intermediárias de desenvolvimento foi incrementado nas décadas de 70 e 80. Restam ainda manchas de pobreza na Região Norte e no Vale do Jequitinhonha. </p><p>A diversidade regional de Minas Gerais parece refletir um<b> </b>gradiente de desenvolvimento dado pelos estados vizinhos. O Sul de Minas e o Triângulo Mineiro sofrem a influência de São Paulo; o Norte e o Jequitinhonha, da Bahia, e o Vale do Mucuri e o Rio Doce, da Bahia e do Espírito Santo. Esta é uma outra forma de pensarmos a questão da identidade mineira: a<b> </b>partir da heterogeneidade regional da base socioeconômica de cada região. </p><p>Quando agregamos as taxas medianas de criminalidade violenta em torno das grandes unidades adotadas pela Polícia Militar — os Comandos Regionais de Policiamento (CRP)—  obtemos os resultados do <a href="#grafico3">Gráfico 3</a>. </p><p><a name="grafico3"></a></p><p><big>Gráfico 3</big></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatograf3.gif" alt="beatograf3.GIF (4244 bytes)"></p>
+<p><a name="mapa2"></a></p>]]></body>
+<body><![CDATA[<p align="center"><big>Mapa 2 - </big><strong>Criminalidade Violenta em Minas Gerais - 1991</strong></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatomapa2.gif" alt="beatomapa2.GIF (7928 bytes)"></p>
+<p>&nbsp;</p><p>Conforme vemos, as maiores concentrações encontram-se na Região Metropolitana de Belo Horizonte (RMBH), seguida pelo Triângulo Mineiro e a região compreendida pelo Vale do Rio Doce, Mucuri e Vale do Jequitinhonha. A região que apresenta maior variabilidade nas taxas é a RMBH, que congrega áreas metropolitanas tais como Belo Horizonte, Contagem e Betim, que são densamente povoadas e têm estruturas econômicas diversificadas, ao lado de municípios e subúrbios com baixo grau de urbanização e base produtiva simples. As outras regiões são bastante homogêneas na distribuição das taxas, embora distintas em suas posições relativas. Esta homogeneidade deve-se, parcialmente, ao nível de agregação dos Comandos Regionais de Policiamento, que podem agregar áreas com mais de cem municípios. Este é o caso do CRP Sudoeste, com 172 municípios, do CRP Centro-Leste, com 133 municípios, e do CRP Norte, com 106 municípios. </p><p>Conforme vemos no <a href="#mapa2">Mapa 2</a>, as zonas mais escuras correspondem aos municípios com maiores índices de criminalidade violenta. Se os mapas de desenvolvimento e população forem superpostos aos mapas de criminalidade, veremos que existem intersecções importantes, como será discutido a seguir. </p><p>&nbsp;</p><p><big>População e criminalidade</big></p><p>Delitos criminais são fenômenos bastante concentrados espacial e temporalmente. Conforme<b> </b>mostra o <a href="#quadro1">Quadro 1</a>, apenas dez cidades do Estado de Minas Gerais concentram mais de 50% dos crimes violentos. </p><p><a name="quadro1"></a></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatot1.gif" alt="beatot1.gif (10301 bytes)"></p>
+]]></body>
+<body><![CDATA[<p>&nbsp;</p><p>Das dez cidades com o maior número de crimes violentos, quatro fazem parte da RMBH (Belo Horizonte, Contagem, Betim e Ribeirão das Neves), duas pertencem ao Triângulo Mineiro, e as demais são importantes centros urbanos de suas regiões. Qual a razão desta concentração? Em influente<b> </b>artigo, Cohen e Felson (1979) terminam com uma proposição desconcertante para uma certa criminologia tradicional: </p><blockquote>   <blockquote>     <blockquote>       <p><small>É irônico que os mesmos fatores que incrementam as oportunidades para       desfrutarmos dos benefícios da vida podem igualmente incrementar a oportunidade para as       violações predatórias [...] Ao invés de tomarmos os crimes predatórios simplesmente       como indicadores de colapso social, podemos concebê-los como subprodutos da liberdade e       da prosperidade tal como se manifestam nas atividades rotineiras de nosso cotidiano.<b> </b>(Cohen       e Felson, 1979, pp. 604-605) </small></p></blockquote>   </blockquote> </blockquote>  <p>Ao contrário do proposto em pilhas de produção intelectual e pesquisa sistemática, a correlação a ser estabelecida para a explicação do crime não é com a pobreza, mas com a riqueza. Isto porque a prosperidade termina por ensejar um incremento nas oportunidades para a ação criminosa, na medida em que fornece alvos viáveis e compensadores, bem como dificulta os mecanismos tradicionais de controle social e vigilância. </p><p>Naturalmente os autores não se estavam referindo aos delinqüentes, estes sim recrutados amplamente nas camadas mais desfavorecidas da população, mas aos delitos. Quais as condições socioeconômicas que favorecem a ocorrência de determinados tipos de delitos? O suposto deste tipo de abordagem é que decisões para a seleção de alvos são racionais, pois envolvem ponderação de custos e benefícios acerca da viabilidade da realização de certos tipos de delitos em condições particulares. Embora os agressores não tenham domínio total das informações necessárias para esta ponderação, eles deliberam racionalmente de acordo com um contexto espacial e temporalmente definido, envolvendo pessoas e objetos: </p><blockquote>   <blockquote>     <blockquote>       <p><small>Distintamente de muitas investigações criminológicas, nós não examinamos       por que indivíduos ou grupos são propensos à criminalidade, mas, ao contrário, nós       tomamos essa propensão como dada e examinamos as formas pelas quais a organização       espaço-temporal das atividades sociais leva pessoas a traduzirem suas inclinações       criminosas em ação. Violações criminais são tratadas aqui como rotinas que       compartilham muitos atributos e são interdependentes com outras atividades rotineiras.       (Cohen e Felson, 1979, p. 589) </small></p></blockquote>   </blockquote> </blockquote>  <p>Uma das conseqüências importantes sugeridas pela exploração do modelo é a de que cada um destes fatores deve ser observado a partir de indicadores distintos conforme o contexto socioeconômico. Em termos teóricos, isto significará<b> </b>que, em determinados contextos, os constrangimentos socioinstitucionais da atividade criminosa serão mais centrais na definição do tipo de atividade delinqüente do que os custos de oportunidade derivados dos recursos controlados pelos agentes dos delitos. Em outras palavras, ao grau de desenvolvimento de uma região, município ou localidade corresponderá uma pauta de delitos consistente com as referências de ordem cultural ordenadoras das estruturas de preferências que orientam a ação criminosa. Assim, será possível lançar a hipótese de que as regiões do estado pouco desenvolvidas têm altas taxas de homicídio em virtude de preferências determinadas por valores oriundos de códigos tradicionais de honra e da valorização da mediação violenta de conflitos entre membros de um mesmo grupo, bem como da pequena possibilidade de punição. </p><p>&nbsp;</p><p><big>A estrutura urbana como contexto da atividade criminosa </big></p><p>Conforme podemos ver no <a href="#grafico4">Gráfico 4</a>, o fenômeno da criminalidade urbana violenta em Minas Gerais, à exceção do homicídio, ocorre predominantemente nas cidades de portes médio e grande. Trata-se de resultado consistente com a observação de Blau e Blau (1982) para os EUA e que vem confirmar o modelo de que delitos são dependentes de oportunidades para contato social (Glaeser, 1996). </p>]]></body>
+<body><![CDATA[<p><a name="grafico4"></a></p><p><big>Gráfico 4</big></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatograf4.gif" alt="beatograf4.GIF (3714 bytes)"></p>
+<p align="center">&nbsp;</p><p>Se tomarmos os diferentes tipos de crime que compõem a criminalidade violenta, veremos que sua concentração em torno de cidades de médio e grande portes obedece a padrões distintos de distribuição (<a href="#quadro2">Quadro 2</a>). As taxas de homicídio por cem mil habitantes estão igualmente distribuídas em cidades de qualquer porte, à exceção das que têm menos de dez mil habitantes.<a href="#7not"><sup>7</sup></a><a name="not7"></a><sup>&nbsp;</sup> Os casos de estupro e agressões graves são mais típicos de cidades maiores, mas os delitos mais tipicamente relacionados ao tamanho da cidade são o roubo e o roubo à mão armada. Segundo Wilson e Herrenstein (1985), isto se dá porque regiões urbanas e mais desenvolvidas são contextos favoráveis à ocorrência de determinados tipos de delitos: </p><blockquote>   <blockquote>     <blockquote>       <p><small>A vida urbana modifica a escala de interação humana pela redução das       distâncias que separam (e possivelmente protegem) as pessoas, aumenta o número de       oportunidades criminais numa dada área (se as pessoas roubam bancos é porque é lá que       o dinheiro está; então, as cidades têm mais roubos de bancos porque elas têm mais       bancos), e modifica as interações entre as pessoas através da disposição física de       ruas, prédios e janelas. (Wilson e Herrenstein, 1985, p. 306) </small></p></blockquote>   </blockquote> </blockquote>  <p><a name="quadro2"></a></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatot2.gif" alt="beatot2.gif (11144 bytes)"></p>
+<p>&nbsp;</p><p>Enfim, as oportunidades para o crime oferecidas por contextos urbanos incrementariam a atividade criminosa. Segundo o teorema de Cohen <i>et al.</i> (1980), o incremento da atividade criminal corresponde ao decréscimo da vigilância por parte dos grupos primários: </p>]]></body>
+<body><![CDATA[<blockquote>   <blockquote>     <blockquote>       <p><small>Mantidas as outras condições, um decréscimo na densidade de uma população       em locações físicas que são locais de atividades rotineiras de grupos primários (isto       é, comportamentos orientados por papéis) produz um incremento na oportunidade criminal       e, portanto, um incremento na taxa de ocorrência de violações de crimes contra a       propriedade. (Cohen <i>et al</i>., 1980, p. 99) </small></p></blockquote>   </blockquote> </blockquote>  <p>Outro aspecto a destacar é a diferença entre as taxas de homicídio e de delitos contra a propriedade. Conforme vemos, as taxas de homicídio distribuem-se igualmente entre as cidades de todos os tamanhos, o que indica que o tamanho da população não exerce influência sobre as taxas deste tipo de crime violento. A explicação para isto é que homicídios não dependem da seleção de alvos viáveis, já que envolvem, em boa parte dos casos, situações entre pessoas conhecidas, ou discussões casuais e freqüentemente regadas a altas doses de álcool; apenas uma pequena parcela dos homicídios envolve motivações instrumentais. Os crimes de roubo e roubo à mão armada, ao contrário, exigem o anonimato e a disponibilidade de alvos que somente cidades com um certo porte podem garantir (Wilson e Herrenstein, 1985). </p><p>&nbsp;</p><p><big>Desenvolvimento e criminalidade </big></p><p>Outra forma de analisarmos a distribuição de delitos seria não pelo tamanho das cidades, mas pelo seu grau de desenvolvimento. Utilizando o Índice de Desenvolvimento Humano da ONU, obtive resultados que indicam que o grau de desenvolvimento dos municípios está associado positivamente a alguns tipos de crimes, tais como o roubo e o roubo à mão armada, conforme vemos nos <a href="#grafico5">Gráficos 5</a> e <a href="#grafico6">6</a>. </p><p><a name="grafico5"></a></p><p><big>Gráfico 5</big></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatograf5.gif" alt="beatograf5.GIF (3370 bytes)"></p>
+<p><a name="grafico6"></a></p><p><big>Gráfico 6</big></p>]]></body>
+<body><![CDATA[<p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatograf6.gif" alt="beatograf6.GIF (3632 bytes)"></p>
+<p><big>&nbsp;</big></p><p>Municípios com maior grau de desenvolvimento concentram uma taxa mediana maior de crimes contra a propriedade. A explicação óbvia é a de que tais delitos requerem um contexto material de oportunidades para ocorrerem. Como já ressaltaram diversos autores, o aumento da criminalidade é a contraface do desenvolvimento, devido ao aumento das oportunidades para o crime (Cohen e Felson, 1979; Wilson e Herrenstein, 1985). Cidades mais desenvolvidas são habitadas por pessoas anônimas,<b> </b>transeuntes, e por famílias nucleares, o que diminui as formas tradicionais de controle social. </p><blockquote>   <blockquote>     <blockquote>       <p><small>O anonimato da vida urbana também significa estar rodeado por pessoas       estranhas, antes do que, como ocorria na tradicional sociedade rural, por pessoas       familiares ansiosas e dispostas a impor padrões de conduta. Se a cidade é uma escola do       crime, como dizem alguns, o campo poder ser o reverso, uma escola para o não crime.<b> </b>(Wilson       e Herrenstein, 1985, p. 445) </small></p></blockquote>   </blockquote> </blockquote>  <p>O mesmo não ocorre com os homicídios, cuja incidência é maior em municípios menos desenvolvidos, como mostra o<b> </b><a href="#grafico7">Gráfico 7</a>.<b> </b>Uma resposta parcial para isso é indicada nas teorias clássicas de criminalidade e refere-se ao fato de que crimes de sangue são característicos de sociedades tradicionais, em virtude dos laços de solidariedade prevalecentes, nos quais valores de honra são centrais e a mediação violenta de conflitos é freqüente. </p><p><a name="grafico7"></a></p><p><big>Gráfico 7</big></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatograf7.gif" alt="beatograf7.GIF (3724 bytes)"></p>
+<p><big>&nbsp;</big></p><p>O segundo problema é de ordem metodológica, embora tenha implicações teóricas que dizem respeito ao componente motivacional na ação criminosa . Ao tomarmos as definições oficiais da ocorrência de homicídios, somos conduzidos à falsa idéia de que todos eles têm uma mesma motivação estruturalmente definida (Katz, 1988). No entanto, algumas análises têm insistido na diversificação das motivações de crimes como o homicídio, as quais poderiam ser definidas a partir do relacionamento entre o agressor e a vítima (Parker e Smith, 1979; Smith e Parker, 1980; Parker, 1989). Desta perspectiva, foram classificados quatro tipos de homicídio: (a) homicídio não-primário resultante de roubo; (b) homicídio não-primário como resultado de outros crimes; (c) homicídio primário entre pessoas não íntimas tais como amigos e; (d) homicídios primários entre pessoas íntimas tais como familiares. Apenas o homicídio primário, isto é, aquele que ocorre entre pessoas que têm um prévio relacionamento, correlaciona-se com indicadores socioeconômicos de desenvolvimento. Os homicídios não-primários, vinculados a casos de assalto ou roubo, tendem a seguir o mesmo padrão de outros delitos contra a propriedade. </p>]]></body>
+<body><![CDATA[<p>O que os dados parecem sugerir são padrões distintos de organização dos homicídios como decorrência do grau de desenvolvimento dos municípios analisados. Em algumas regiões do Estado de Minas, especialmente aquelas mais tradicionais e menos desenvolvidas, os homicídios primários têm uma incidência maior. Trata-se de uma hipótese bastante plausível, derivada da referida diversidade regional, em termos de desenvolvimento, do Estado de Minas Gerais. </p><p>O que poderíamos objetar é que estas formas de delitos, com maior conteúdo expressivo do que instrumental, contrariariam a hipótese de que eles são racionalmente orientados. Entretanto, a teoria da racionalidade das escolhas não veta a possibilidade de que quaisquer tipos de preferências possam servir como causas da ação individual (Opp, 1989; Hechter <i>et al.</i>, 1990). Isto é realizado mediante a adoção do "princípio de caridade", segundo o qual a "maioria das crenças <i>sempre</i> deve estar correta" (Davidson, 1974). Não se trata de uma aplicação tautológica do conceito de racionalidade, mas da demonstração de como comportamentos podem ser lidos como "comportamentos-conforme-regras", num sentido wittgensteiniano. As propriedades da racionalidade já não são apenas um princípio metodológico para interpretar ações; elas quase passam a ser o próprio material empírico a ser tratado. O "princípio de caridade" nos sugere uma estratégia narrativa que conecta reflexivamente ações, intenções, objetos e eventos, estabelecendo relações causais entre intenções e comportamentos, na suposição de que esta conexão exista. Assim, delitos tais como a violência política ou os crimes de honra justificam-se moralmente como preferências instrumentalmente realizadas por meio do crime violento. </p><p>&nbsp;</p><p><big>Alvos preferenciais da ação criminosa</big></p><p>Um aspecto central na tomada de decisão da atividade criminosa tem a ver com a seleção de alvos em contextos localizados. Boa parte das recomendações das agências policiais, bem como da prosperidade das indústrias de alarmes provém da constatação de que os delinqüentes ponderam sempre as dificuldades para atingir determinado alvo. Durante os anos 60, a companhia telefônica britânica conseguiu virtualmente eliminar o roubo em telefones públicos substituindo os receptáculos para moedas feitos de alumínio por outros de aço espesso. Também durante esta década, a indústria automobilística alemã reduziu significativamente o roubo de automóveis simplesmente introduzindo travas de direção como equipamento de série (Clarke, 1983). </p><p><a name="grafico8"></a></p><p><big>Gráfico 8</big></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatograf8.gif" alt="beatograf8.GIF (4739 bytes)"></p>
+<p>&nbsp;</p><p>O <a href="#grafico8">Gráfico 8</a> mostra que os alvos preferenciais nos assaltos à mão armada ocorridos em Belo Horizonte durante o ano de 1996 foram transeuntes. Roubos a transeuntes ocorrem em maior número devido à limitada capacidade defensiva das vítimas; as armas são geralmente utilizadas para minimizar a possibilidade de reação das pessoas. Gottfredson (1990), ao discutir os resultados de várias pesquisas de vitimização, mostra que 70% dos assaltos ocorrem nas ruas. As perdas das vítimas em geral são modestas (R$50 ou menos). Metade dos assaltos envolveu o uso de armas, e um quinto o uso de armas de fogo. A presença de armas de fogo diminui a probabilidade de danos à vítima.<a href="#8not"><sup>8</sup></a><a name="not8"></a><sup>&nbsp;</sup> Em mais de 60% dos casos existe mais de um ofensor, geralmente com um mesmo perfil: pessoas jovens, homens e não-brancos, muitos deles alcoolizados ou drogados. Eles tendem a escolher<b> </b>suas vítimas nas proximidades dos locais em que vivem. Metade dos arrombamentos ocorre durante o dia, quando as casas estão vazias. Períodos de férias são de grande risco. Entrevistas com arrombadores mostram que os maiores fatores dissuasórios são: cachorros, a presença de pessoas na casa, a visibilidade aos vizinhos e acessos de fuga difíceis (Gottfredson, 1990). </p>]]></body>
+<body><![CDATA[<p>Na <a href="#tabela1">Tabela 1</a> correlacionamos os diferentes tipos de crimes violentos com variáveis que buscam mensurar o contexto de oportunidades da ação criminosa. Como vemos, a tabela não apresenta índices de correlação fortes, mas seus resultados são coerentes com as hipóteses aqui sugeridas. O crime violento correlaciona-se positivamente com todos os indicadores de contextos de oportunidades para a ação criminosa. Ele está presente sempre em cidades maiores, em que há um volume significativo de comércio varejista e de empresas. O homicídio, por sua vez, não compartilha desses atributos estruturais para sua ocorrência. Um pequeno índice, entretanto, chama a atenção: a correlação negativa com o percentual de casas com esgoto. É possível supor, com base nessa indicação, que em localidades onde a companhia de água e esgoto ainda não chegou a polícia e o sistema judiciário estejam igualmente distantes. </p><p><a name="tabela1"></a></p><p align="center"><img src="/img/fbpe/rbcsoc/v13n37/beatot3.gif" alt="beatot3.gif (12852 bytes)"></p>
+<p>&nbsp;</p><p><strong><big>Conclusão </big></strong></p><p>A abordagem espacial contém limitações. A primeira delas diz respeito ao nível de agregação das taxas de criminalidade. É clássica a noção de que a comunidade é a dimensão mais importante para a compreensão do fenômeno da violência. Resta, entretanto, a questão: o que é uma comunidade e quais seus limites? Como observou Patterson (1991, p. 761): </p><blockquote>   <blockquote>     <blockquote>       <p><small>A noção de comunidade coloca muitos problemas operacionais devido à       dificuldade em se definir os limites de uma comunidade. Muitas unidades ecológicas para       as quais os dados estão disponíveis correspondem a unidades administrativas de       conveniência, e podem não representar as comunidades dentro do espírito geral dos       primeiros trabalhos. </small></p></blockquote>   </blockquote> </blockquote>  <p>Daí que muitas fontes de informação para a confecção das taxas de criminalidade incorporem todos os problemas e percalços subjacentes à utilização de dados oficiais. Uma forma de corrigi-los seria pela produção mais intensa de dados, mediante, por exemplo, <i>surveys</i> de vitimização. </p><p>De qualquer maneira, a análise precedente demonstrou a importância e a contribuição de uma abordagem que busca explicitar os componentes racionais dos delitos criminosos. Este resultado foi alcançado por meio do exame da incidência de crimes violentos ocorridos em todo o Estado de Minas Gerais, e não apenas nos maiores centros urbanos. Trata-se de uma abordagem que certamente produziria resultados similares se fosse examinada a ocorrência desses delitos em espaços e áreas urbanas. </p><p>&nbsp;</p>]]></body>
+<body><![CDATA[<p><big>NOTAS </big></p><p><small><a name="1not"></a><a href="#not1"><sup>1</sup></a> Mapas de criminalidade têm sido produzidos crescentemente nos últimos dois anos no Brasil, sem que se saiba muito bem para que servem, ou qual o procedimento adotado na sua confecção. A simples elaboração de mapas termina sendo uma curiosidade para o público leigo, ou material de análise de uma Sociologia semileiga, tornando-a vulnerável à crítica de que" pesquisas ecológicas são primariamente exercícios ateóricos de mapeamento de fenômenos criminais" (Bursik, 1986, p. 36). </small></p><p><small><a name="2not"></a><a href="#not2"><sup>2</sup></a><b> </b>Estarei trabalhando com os dados produzidos pela Polícia Militar de Minas Gerais. </small></p><p><small><a name="3not"></a><a href="#not3"><sup>3</sup></a> Para uma discussão detalhada das técnicas e de como utilizá-las, ver Assunção (1996) e Marshal (1991). </small></p><p><small><a name="4not"></a><a href="#not4"><sup>4</sup></a> Nestes dois casos utilizarei<b> </b>dados da Fundação João Pinheiro para o ano de 1995, uma vez que não se encontravam disponíveis dados para o ano de 1991. </small></p><p><small><a name="5not"></a><a href="#not5"><sup>5</sup></a> O Índice de Desenvolvimento Humano (IDH) foi criado pela ONU no início da década de 90 e é composto de três índices, aos quais são atribuídos pesos iguais: longevidade, educação e renda. Portanto, </small><br> <small>IDH = Índice de Desenvolvimento Humano </small><br> <small>IDHL = IDH Longevidade </small><br> <small>IDHE = IDH Educação </small><br> <small>IDHR = IDH Renda </small><br> <small>O IDH varia entre 0 e 1, sendo que quanto maior o índice, maior o desenvolvimento humano da região. Com base no valor obtido para o IDH, a ONU classifica os países segundo três níveis de desenvolvimento humano: países com baixo desenvolvimento humano (IDH até 0,5); países com médio desenvolvimento humano (IDH entre 0,5 e 0,8) e países com alto desenvolvimento humano (IDH acima de 0,8). Cf. Fundação João Pinheiro (1996). </small></p><p><small><a name="6not"></a><a href="#not6"><sup>6</sup></a> Todos esses dados foram produzidos pela Fundação João Pinheiro, à exceção daqueles relativos a domicílios, famílias e Gini, que foram produzidos pelo IBGE, Censo de 1991. </small></p><p><small><a name="7not"></a><a href="#not7"><sup>7</sup></a> Este padrão de distribuição de taxas de homicídio é contrastante com o observado nas cidades americanas, onde as taxas são tão mais elevadas quanto maiores as populações (Dobrin <i>et al</i>.,1996). </small></p><p><small><a name="8not"></a><a href="#not8"><sup>8</sup></a> É interessante notar que, de acordo com estes estudos, a probabilidade de a vítima sofrer um dano sério à sua integridade física é inversamente proporcional à letalidade da arma utilizada. </small></p><p>&nbsp;</p>]]></body>
+<body><![CDATA[<p>&nbsp;</p><p><big>BIBLIOGRAFIA</big></p><!-- ref --><p>ASSUNÇÃO, Renato Martins. (1996), Mapas de mortalidade. Mimeo. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0102-6909199800020000400001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>BAYLEY, Willian C. (1984), "Poverty, inequality and city homicide rates: some not so unexpected findings". <i>Criminology</i>, 22: 531-550. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0102-6909199800020000400002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>BLAU, Judith e BLAU, Peter M. (1982), "The cost of inequality: metropolitan structure and violent crime". <i>American Sociological Review</i>, 47: 114-129. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S0102-6909199800020000400003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>BRANTINGHAN,<b> </b>P. e BRANTINGHAN, P. (1981), "Notes on the geometry of crime", <i>in</i> P.Brantinghan e P.Brantinghan (eds.), <i>Environmental criminology</i>, Sage, Beverly Hills. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0102-6909199800020000400004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>BURSIK JR., Robert J. (1986), "Ecological stability and the dynamics of delinquency", <i>in </i>Albert J. Reiss e Michael Tonry (eds.),<b> </b><i>Communities and crime</i> (Crime and Justice, vol. 8), Chicago, The University of Chicago Press. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S0102-6909199800020000400005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>CLARKE, Ronald V.G. (1983), "Approved school boy absconders and corporal punishment". <i>British Journal of Criminology</i>, 6: 364-375. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0102-6909199800020000400006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>COHEN, Lawrence e FELSON, Marcus. (1979), "Social change and crime rate trends: a routine approach". <i>American Sociological Review</i>, 44: 588-608. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0102-6909199800020000400007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>COHEN, Lawrence, FELSON, Marcus e LAND, Kenneth C. (1980), "Property crime rates in the United States: a macrodynamic analysis, 1947-1977".<i> American Journal of Sociology</i>, 86, 1: 90-119. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0102-6909199800020000400008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>COHEN, Lawrence e LAND, Kenneth C. (1989), "Age structure and crime: symmetry versus asymetry and the projection of crime rates through the 1990s"<i>. American Sociological Review</i>, 52: 170-183. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S0102-6909199800020000400009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>COOK, Philip J. (1986), "The demand and supply of criminal opportunities", <i>in </i>Michael Tonry e Norval Morris (eds.), <i>Crime and justice</i>, vol. 7, Chicago, The University of Chicago Press. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0102-6909199800020000400010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>DAVIDSON, Donald. (1974), "On the very idea of a conceptual scheme", <i>in</i> D. Davidson, <i>Inquiries into truth and interpretation</i>, Oxford, Clarendon Press. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0102-6909199800020000400011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>DOBRIN, Adam, WIERSEMA, Brian, LOFTIN, Colin e McDOWALL, David. (1996),<i> Statistical handbook on violence in America</i>. Oryx<b> </b>Press. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0102-6909199800020000400012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>DURKHEIM, Emile. (1978), <i>A divisão do trabalho social. </i>Lisboa, Presença. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0102-6909199800020000400013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>ECK, John. (1997), "Preventing crime at places", <i>in</i> Lawrence Sherman, Denise Gottfredson, Doris MacKenzie, John Eck, Peter Reuter e Shawn Bushway, <i>Preventing crime: what works, what doesn't, what's promising</i>, Washington, National Institute of Justice. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0102-6909199800020000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>ELSTER, Jon. (1996), "Rationality and the emotions". <i>The Economic Journal</i>, 106 (438): 1.386-1.397. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S0102-6909199800020000400015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>ENGELS, Friedrich. (1976), <i>A situação da classe trabalhadora na Inglaterra</i>. São Paulo, Global. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0102-6909199800020000400016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>EVANS, David J. (1995), <i>Crime and policing: spatial approaches</i>. Aldershot, Avebury. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0102-6909199800020000400017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>FUNDAÇÃO JOÃO PINHEIRO. (1996), <i>Condições de vida nos municípios mineiros: 1970-1980-1991</i>. Belo Horizonte, Fundação João Pinheiro. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0102-6909199800020000400018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>GLAESER, Edward L., SACERDOTE, Bruce e<b> </b>SCHEINKMAN, José A. (1996), "Crime and social interactions". <i>The Quarterly Journal of Economics</i>, maio. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0102-6909199800020000400019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>GOLGUER, Bruno. (1995), <i>Racionalidade e ação social</i>. Dissertação de mestrado em Sociologia, Belo Horizonte, FAFICH/UFMG. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0102-6909199800020000400020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>GOTTFREDSON, Michael R. e HIRSCHI, Travis. (1990), <i>A general theory of crime. </i>Stanford, Stanford University Press. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0102-6909199800020000400021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>GREENWOOD, Peter W., MODEL, Karin E. e RYDELL, Peter. (1996),<i> Diverting children from a life of crime: measuring costs and benefits</i>.<b> </b>Rand Corporation. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0102-6909199800020000400022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>HECHTER, Michael, OPP, Karl-Dieter e WIPPLER, Reinhard. (1990),<i> Social institutions: their emergence. Maintenance and effects</i>. Nova York, Aldine de Gruyter. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0102-6909199800020000400023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>HIRSCHI, Travis e GOTTFREDSON, Michael. (1983), "Age and the explanation of crime". <i>American Journal of Sociology</i>, 91: 1-21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0102-6909199800020000400024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>HUFF-CORZINE, Lin, CORZINE, Jay e MOORE, David. (1991), "Deadly connections: culture, poverty, and the direction of lethal violence". <i>Social Forces</i>, 69, 3: 715-732. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0102-6909199800020000400025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>KATZ, Jack. (1988), <i>Seductions of crime: moral and sensual attractions in doing evil</i>. Nova York, Basic Book. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0102-6909199800020000400026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>KRAUT, Robert E. (1976), "Deterrent and definitional influences on shoplifting"<i>. Social Problems</i>, 23: 358-368. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0102-6909199800020000400027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>LAND, Kenneth C., McCALL, Patricia L. e COHEN, Lawrence. (1990), "Structural covariates of homicide rates: are there any invariances accross time and social space?". <i>American Sociological Review</i>, 95: 922-963. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0102-6909199800020000400028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>LOFTIN, Colin e HILL, Robert. (1974), "Regional subculture and homicide: an examination of the Gastil-Hackney hypothesis". <i>American Sociological Review</i>, 39: 714-724. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0102-6909199800020000400029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>MARSHALL, Roger J. (1991), "Mapping disease and mortality rates using empirical Bayes estimators". <i>Applied Statistics</i>, 40, 2: 283-294. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0102-6909199800020000400030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>MERTON, Robert K. (1968), <i>Sociologia: teoria e estrutura</i>. São Paulo, Mestre Jou. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0102-6909199800020000400031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>MESSNER, Steven. (1980), "Income inequality and murder rates: some cross-sectional findings". <i>Comparative Social Research</i>, 3: 185-198. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0102-6909199800020000400032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>MURRAY, Charles. (1995), "The physical environment", <i>in</i> James Q. Wilson e Joan Petersilia (eds.), <i>Crime</i>, San Francisco, Institute for Contemporary Studies, cap.15. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0102-6909199800020000400033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>NEWMAN, O. (1972), <i>Defensible space</i>. Nova York, MacMillan. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0102-6909199800020000400034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>OPP, Karl-Dieter. (1989), "The economics of crime and the sociology of deviant behaviour: a theoretical confrontation of basic propositions". <i>Kyklos</i>, 42, 3: 405-430. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0102-6909199800020000400035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>PARKER, Robert Nash. (1989), "Poverty, subculture of violence, and type of homicide". <i>Social Forces</i>, 67, 4: 983-1.007. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0102-6909199800020000400036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>PARKER, Robert Nash e SMITH, M. Dwayne. (1979), "Deterrence, poverty, and type of homicide". <i>American Journal of Sociology</i>, 85: 614-624. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0102-6909199800020000400037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>PATTERSON, E. Britt. (1991), "Poverty, income inequality, and community crime rates". <i>Criminology</i>, 29, 4: 755-776. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0102-6909199800020000400038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>RICH, Thomas F. (1997),<i> The use of computerized mapping in crime control and prevention programs</i>. Washington, National Institute of Justice, U.S. Department of Justice. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0102-6909199800020000400039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>SCHUERMAN, Leo e KOBRIN, Solomon. (1986), "Community careers in crime", <i>in </i>&nbsp;Michael Tonry e Norval Morris (eds.), <i>Crime and justice</i>, vol. 8, Chicago, The University of Chicago Press. </p><!-- ref --><p>SHAW, C.R. e McKAY, H.D. (1942), <i>Juvenile delinquency and urban areas.</i> Chicago, University of Chicago Press. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0102-6909199800020000400041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>SHERMAN, Lawrence W. (1997), "Thinking about crime prevention", <i>in</i> L. Sherman, Denise Gottfredson, Doris MacKenzie, John Eck, Peter Reuter e Shawn Bushway, <i>Preventing crime: what works, what doesn't, what's promising</i>, Washington, National Institute of Justice. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0102-6909199800020000400042&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>SHERMAN, Lawrence W. e BERK, Richard A. (1984), "The specific deterrent effects of arrests for domestic assault". <i>American Sociological Review</i>, 84: 261-272. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0102-6909199800020000400043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>SHERMAN, Lawrence W., GARTIN, Patrick R. e BUERGER, Michael E. (1989), "Hot spots of predatory crime: routine activities and the criminology of place". <i>Criminology</i>, 27, 1: 27-55. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0102-6909199800020000400044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>SMITH, M. Dwayne e PARKER, Robert Nash. (1980), "Type of homicide and variation in regional rates". <i>Social Forces</i>, 59: 136-147. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0102-6909199800020000400045&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>TAYLOR, I., WALTON, P. e YOUNG, J. (1980), <i>Criminologia crítica</i>. São Paulo, Graal. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0102-6909199800020000400046&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>TEDESCHI, James T. e FELSON, Richard B. (1994), <i>Violence, aggresion &amp; coercive actions</i>. Washington, DC, American Psychological Association. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0102-6909199800020000400047&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>WILSON, James Q. (1983), <i>Thinking about crime</i>. Nova York, Vintage Books. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0102-6909199800020000400048&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>WILSON, James Q. e HERRENSTEIN, Richard J. (1985),<i> Crime and human nature: the definitive study of the causes of crime</i>. Nova York, Touchstone Book/Simon &amp; Schuster, Inc. </p><!-- ref --><p>WOLFGANG, Marvin E. e FERRACUTI, Franco. (1967), <i>The subculture of violence.</i> Londres, Tavistock. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0102-6909199800020000400050&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p><p>&nbsp;</p><p><font size="4"><b>RESUMO / ABSTRACT / RÉSUMÉ</b></font></p><p><b>Palavras-chave</b>: Criminalidade violenta; Crime e racionalidade; Minas Gerais e criminalidade; Georeferenciamento e criminalidade; Espaço e crime. <br> O artigo tem um duplo objetivo. Primeiro, estabelecer uma discussão acerca das abordagens que tratam da distribuição espacial da criminalidade. Quais as implicações teóricas da utilização de dados espaciais para o estudo da criminalidade? Segundo o autor, ao deslocar a atenção para os locais de incidência de crimes, ao invés das características dos criminosos, é possível uma análise dos componentes racionais e utilitaristas de determinados tipos de delitos. O outro objetivo do artigo é fazer uma análise, a partir das premissas teóricas estabelecidas anteriormente, da incidência da criminalidade nos 756 municípios de Minas Gerais durante o ano de 1991. Para tal, são utilizados índices corrigidos através dos estimadores empíricos de Bayes para todos os municípios, correlacionados com indicadores socioeconômicos. </p><p>&nbsp;</p><p><b>Key words</b>: Violent criminality; Crime and rationality, Minas Gerais and criminality; Space and crime.<br> The article has a double aim. First, an approach that deal with the spatial distribution of crime and its theoretical consequences is discussed. It is argued<b> </b>that this kind of approach allows us to make an analysis of rational and utilitarian components of crime. This is possible by focusing our attention on local incidences of crime instead of the characteristics of the criminals. Secondly, crime incidence in the 756 cities of Minas Gerais throughout the year of 1991 is analyzed using the theoretical approach mentioned. For that, empirical Bayes indexes are used. </p><p>&nbsp;</p><p><b>Mots-clé</b>: Criminalité violente; Crime et rationalité; Minas Gerais et criminalité; Space et crime. <br> Cet article a deux objectifs. Le premier, debattre les abordages théoriques à propos de la distribution spatiale de la criminalité. Quelles sont les implications théoriques de l'utilisation de donnés spatiales pour l'étude de la criminalité? Tenir en compte le lieu d'incidence des crimes et non pas les caractéristiques des individus criminels permet une analyse des composants rationnels et utilitaristes de certains types de délits. Le deuxième objectif, c'est d'analyser l'incidence de la criminalité dans les 756 municipalités de Minas Gerais en 1991, à partir des préalables théoriques établis ci-dessus. Seront utilisés des indicateurs retifiés par estimators empiriques de Bayes. </p>]]></body>
+<body><![CDATA[<p>&nbsp;</p><p>&nbsp;</p><p><a name="back"></a></p><p><small><a href="#home">*</a> Gostaria de agradecer ao professor Renato Martins Assunção pela discussão de alguns aspectos deste artigo; aos professores Alba Zaluar, Yolanda Catão, Domício Proença e Edmundo Campos Coelho pelos comentários feitos a uma versão anterior do trabalho, apresentada em setembro de 1997 em<b> </b>congresso da Associação Latino-Americana de Sociologia (ALAS) realizado em São Paulo; ao capitão Marcos e à Polícia Militar de Minas Gerais pela gentileza na cessão de dados. Esta pesquisa contou com o apoio do CNPq. </small></p> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ASSUNÇÃO]]></surname>
+<given-names><![CDATA[Renato Martins]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mapas de mortalidade]]></source>
+<year>1996</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAYLEY]]></surname>
+<given-names><![CDATA[Willian C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Poverty, inequality and city homicide rates: some not so unexpected findings]]></article-title>
+<source><![CDATA[Criminology]]></source>
+<year>1984</year>
+<volume>22</volume>
+<page-range>531-550</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLAU]]></surname>
+<given-names><![CDATA[Judith]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLAU]]></surname>
+<given-names><![CDATA[Peter M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The cost of inequality: metropolitan structure and violent crime]]></article-title>
+<source><![CDATA[American Sociological Review]]></source>
+<year>1982</year>
+<volume>47</volume>
+<page-range>114-129</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRANTINGHAN]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRANTINGHAN]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Notes on the geometry of crime]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Brantinghan]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brantinghan]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Environmental criminology]]></source>
+<year>1981</year>
+<publisher-loc><![CDATA[Beverly Hills ]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BURSIK JR.]]></surname>
+<given-names><![CDATA[Robert J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecological stability and the dynamics of delinquency]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Reiss]]></surname>
+<given-names><![CDATA[Albert J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tonry]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Communities and crime]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLARKE]]></surname>
+<given-names><![CDATA[Ronald V.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Approved school boy absconders and corporal punishment]]></article-title>
+<source><![CDATA[British Journal of Criminology]]></source>
+<year>1983</year>
+<volume>6</volume>
+<page-range>364-375</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COHEN]]></surname>
+<given-names><![CDATA[Lawrence]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FELSON]]></surname>
+<given-names><![CDATA[Marcus]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Social change and crime rate trends: a routine approach]]></article-title>
+<source><![CDATA[American Sociological Review]]></source>
+<year>1979</year>
+<volume>44</volume>
+<page-range>588-608</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COHEN]]></surname>
+<given-names><![CDATA[Lawrence]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FELSON]]></surname>
+<given-names><![CDATA[Marcus]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAND]]></surname>
+<given-names><![CDATA[Kenneth C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Property crime rates in the United States: a macrodynamic analysis, 1947-1977]]></article-title>
+<source><![CDATA[American Journal of Sociology]]></source>
+<year>1980</year>
+<volume>86</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>90-119</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COHEN]]></surname>
+<given-names><![CDATA[Lawrence]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAND]]></surname>
+<given-names><![CDATA[Kenneth C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Age structure and crime: symmetry versus asymetry and the projection of crime rates through the 1990s]]></article-title>
+<source><![CDATA[American Sociological Review]]></source>
+<year>1989</year>
+<volume>52</volume>
+<page-range>170-183</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COOK]]></surname>
+<given-names><![CDATA[Philip J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The demand and supply of criminal opportunities]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Tonry]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morris]]></surname>
+<given-names><![CDATA[Norval]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crime and justice]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DAVIDSON]]></surname>
+<given-names><![CDATA[Donald]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the very idea of a conceptual scheme]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Davidson]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Inquiries into truth and interpretation]]></source>
+<year>1974</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Clarendon Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DOBRIN]]></surname>
+<given-names><![CDATA[Adam]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WIERSEMA]]></surname>
+<given-names><![CDATA[Brian]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOFTIN]]></surname>
+<given-names><![CDATA[Colin]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McDOWALL]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Statistical handbook on violence in America]]></source>
+<year>1996</year>
+<publisher-name><![CDATA[Oryx Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DURKHEIM]]></surname>
+<given-names><![CDATA[Emile]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A divisão do trabalho social]]></source>
+<year>1978</year>
+<publisher-loc><![CDATA[Lisboa ]]></publisher-loc>
+<publisher-name><![CDATA[Presença]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ECK]]></surname>
+<given-names><![CDATA[John]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Preventing crime at places]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Sherman]]></surname>
+<given-names><![CDATA[Lawrence]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gottfredson]]></surname>
+<given-names><![CDATA[Denise]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MacKenzie]]></surname>
+<given-names><![CDATA[Doris]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Eck]]></surname>
+<given-names><![CDATA[John]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reuter]]></surname>
+<given-names><![CDATA[Peter]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bushway]]></surname>
+<given-names><![CDATA[Shawn]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Preventing crime: what works, what doesn't, what's promising]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[National Institute of Justice]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ELSTER]]></surname>
+<given-names><![CDATA[Jon]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Rationality and the emotions]]></article-title>
+<source><![CDATA[The Economic Journal]]></source>
+<year>1996</year>
+<volume>106</volume>
+<numero>438</numero>
+<issue>438</issue>
+<page-range>1.386-1.397</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGELS]]></surname>
+<given-names><![CDATA[Friedrich]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A situação da classe trabalhadora na Inglaterra]]></source>
+<year>1976</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Global]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EVANS]]></surname>
+<given-names><![CDATA[David J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crime and policing: spatial approaches]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Aldershot ]]></publisher-loc>
+<publisher-name><![CDATA[Avebury]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<collab>FUNDAÇÃO JOÃO PINHEIRO</collab>
+<source><![CDATA[Condições de vida nos municípios mineiros: 1970-1980-1991]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação João Pinheiro]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GLAESER]]></surname>
+<given-names><![CDATA[Edward L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SACERDOTE]]></surname>
+<given-names><![CDATA[Bruce]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHEINKMAN]]></surname>
+<given-names><![CDATA[José A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Quarterly Journal of Economics]]></source>
+<year>1996</year>
+<month>ma</month>
+<day>io</day>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLGUER]]></surname>
+<given-names><![CDATA[Bruno]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Racionalidade e ação social]]></source>
+<year>1995</year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOTTFREDSON]]></surname>
+<given-names><![CDATA[Michael R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HIRSCHI]]></surname>
+<given-names><![CDATA[Travis]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A general theory of crime]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Stanford ]]></publisher-loc>
+<publisher-name><![CDATA[Stanford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENWOOD]]></surname>
+<given-names><![CDATA[Peter W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MODEL]]></surname>
+<given-names><![CDATA[Karin E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RYDELL]]></surname>
+<given-names><![CDATA[Peter]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diverting children from a life of crime: measuring costs and benefits]]></source>
+<year>1996</year>
+<publisher-name><![CDATA[Rand Corporation]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HECHTER]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OPP]]></surname>
+<given-names><![CDATA[Karl-Dieter]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WIPPLER]]></surname>
+<given-names><![CDATA[Reinhard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Social institutions: their emergence. Maintenance and effects]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Aldine de Gruyter]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HIRSCHI]]></surname>
+<given-names><![CDATA[Travis]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOTTFREDSON]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Age and the explanation of crime]]></article-title>
+<source><![CDATA[American Journal of Sociology]]></source>
+<year>1983</year>
+<volume>91</volume>
+<page-range>1-21</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HUFF-CORZINE]]></surname>
+<given-names><![CDATA[Lin]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CORZINE]]></surname>
+<given-names><![CDATA[Jay]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MOORE]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Deadly connections: culture, poverty, and the direction of lethal violence]]></article-title>
+<source><![CDATA[Social Forces]]></source>
+<year>1991</year>
+<volume>69</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>715-732</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KATZ]]></surname>
+<given-names><![CDATA[Jack]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Seductions of crime: moral and sensual attractions in doing evil]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Basic Book]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KRAUT]]></surname>
+<given-names><![CDATA[Robert E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Deterrent and definitional influences on shoplifting]]></article-title>
+<source><![CDATA[Social Problems]]></source>
+<year>1976</year>
+<volume>23</volume>
+<page-range>358-368</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAND]]></surname>
+<given-names><![CDATA[Kenneth C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McCALL]]></surname>
+<given-names><![CDATA[Patricia L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COHEN]]></surname>
+<given-names><![CDATA[Lawrence]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Structural covariates of homicide rates: are there any invariances accross time and social space?]]></article-title>
+<source><![CDATA[American Sociological Review]]></source>
+<year>1990</year>
+<volume>95</volume>
+<page-range>922-963</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOFTIN]]></surname>
+<given-names><![CDATA[Colin]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HILL]]></surname>
+<given-names><![CDATA[Robert]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Regional subculture and homicide: an examination of the Gastil-Hackney hypothesis]]></article-title>
+<source><![CDATA[American Sociological Review]]></source>
+<year>1974</year>
+<volume>39</volume>
+<page-range>714-724</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARSHALL]]></surname>
+<given-names><![CDATA[Roger J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mapping disease and mortality rates using empirical Bayes estimators]]></article-title>
+<source><![CDATA[Applied Statistics]]></source>
+<year>1991</year>
+<volume>40</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>283-294</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MERTON]]></surname>
+<given-names><![CDATA[Robert K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sociologia: teoria e estrutura]]></source>
+<year>1968</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Mestre Jou]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MESSNER]]></surname>
+<given-names><![CDATA[Steven]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Income inequality and murder rates: some cross-sectional findings]]></article-title>
+<source><![CDATA[Comparative Social Research]]></source>
+<year>1980</year>
+<volume>3</volume>
+<page-range>185-198</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MURRAY]]></surname>
+<given-names><![CDATA[Charles]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The physical environment]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Wilson]]></surname>
+<given-names><![CDATA[James Q.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Petersilia]]></surname>
+<given-names><![CDATA[Joan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crime]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[San Francisco ]]></publisher-loc>
+<publisher-name><![CDATA[Institute for Contemporary Studies]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEWMAN]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Defensible space]]></source>
+<year>1972</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[MacMillan]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OPP]]></surname>
+<given-names><![CDATA[Karl-Dieter]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The economics of crime and the sociology of deviant behaviour: a theoretical confrontation of basic propositions]]></article-title>
+<source><![CDATA[Kyklos]]></source>
+<year>1989</year>
+<volume>42</volume><volume>3</volume>
+<page-range>405-430</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PARKER]]></surname>
+<given-names><![CDATA[Robert Nash]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Poverty, subculture of violence, and type of homicide]]></article-title>
+<source><![CDATA[Social Forces]]></source>
+<year>1989</year>
+<volume>67</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>983-1.007</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PARKER]]></surname>
+<given-names><![CDATA[Robert Nash]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[M. Dwayne]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Deterrence, poverty, and type of homicide]]></article-title>
+<source><![CDATA[American Journal of Sociology]]></source>
+<year>1979</year>
+<volume>85</volume>
+<page-range>614-624</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PATTERSON]]></surname>
+<given-names><![CDATA[E. Britt]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Poverty, income inequality, and community crime rates]]></article-title>
+<source><![CDATA[Criminology]]></source>
+<year>1991</year>
+<volume>29</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>755-776</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RICH]]></surname>
+<given-names><![CDATA[Thomas F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The use of computerized mapping in crime control and prevention programs]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[National Institute of Justice, U.S. Department of Justice]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHUERMAN]]></surname>
+<given-names><![CDATA[Leo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KOBRIN]]></surname>
+<given-names><![CDATA[Solomon]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Community careers in crime]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Tonry]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morris]]></surname>
+<given-names><![CDATA[Norval]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crime and justice]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAW]]></surname>
+<given-names><![CDATA[C.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McKAY]]></surname>
+<given-names><![CDATA[H.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Juvenile delinquency and urban areas]]></source>
+<year>1942</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHERMAN]]></surname>
+<given-names><![CDATA[Lawrence W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Thinking about crime prevention]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Sherman]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gottfredson]]></surname>
+<given-names><![CDATA[Denise]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MacKenzie]]></surname>
+<given-names><![CDATA[Doris]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Eck]]></surname>
+<given-names><![CDATA[John]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reuter]]></surname>
+<given-names><![CDATA[Peter]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bushway]]></surname>
+<given-names><![CDATA[Shawn]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Preventing crime: what works, what doesn't, what's promising]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[National Institute of Justice]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHERMAN]]></surname>
+<given-names><![CDATA[Lawrence W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERK]]></surname>
+<given-names><![CDATA[Richard A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The specific deterrent effects of arrests for domestic assault]]></article-title>
+<source><![CDATA[American Sociological Review]]></source>
+<year>1984</year>
+<volume>84</volume>
+<page-range>261-272</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHERMAN]]></surname>
+<given-names><![CDATA[Lawrence W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GARTIN]]></surname>
+<given-names><![CDATA[Patrick R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BUERGER]]></surname>
+<given-names><![CDATA[Michael E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Hot spots of predatory crime: routine activities and the criminology of place]]></article-title>
+<source><![CDATA[Criminology]]></source>
+<year>1989</year>
+<volume>27</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>27-55</page-range></nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[M. Dwayne]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARKER]]></surname>
+<given-names><![CDATA[Robert Nash]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Type of homicide and variation in regional rates]]></article-title>
+<source><![CDATA[Social Forces]]></source>
+<year>1980</year>
+<volume>59</volume>
+<page-range>136-147</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WALTON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[YOUNG]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Criminologia crítica]]></source>
+<year>1980</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Graal]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TEDESCHI]]></surname>
+<given-names><![CDATA[James T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FELSON]]></surname>
+<given-names><![CDATA[Richard B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Violence, aggresion &amp; coercive actions]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[American Psychological Association]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WILSON]]></surname>
+<given-names><![CDATA[James Q.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Thinking about crime]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Vintage Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WILSON]]></surname>
+<given-names><![CDATA[James Q.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HERRENSTEIN]]></surname>
+<given-names><![CDATA[Richard J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crime and human nature: the definitive study of the causes of crime]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Touchstone Book/Simon Schuster, Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WOLFGANG]]></surname>
+<given-names><![CDATA[Marvin E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERRACUTI]]></surname>
+<given-names><![CDATA[Franco]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The subculture of violence]]></source>
+<year>1967</year>
+<publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Tavistock]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

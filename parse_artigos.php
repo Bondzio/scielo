@@ -19,13 +19,14 @@ echo "[Inicio] \n";
 		$pid = "S0102-69092013000100001";
 		$dt = "2014-05-15";
 		$file = "files/artigos/".$dt."_".$pid.".xml";
-		
 		$xml = new XMLtoArray(file_get_contents($file, "r"));
 		
 		$xml->getArray();
 		
 		$open_article = false;
 		$open_pub_date = false;
+		$open_abstract = false;
+		$language_abstract = true;
 		foreach ($xml->arr as $tag) {
 			if ($tag["tag"] == "article-meta") {
 				if ($tag["type"] == "open")
@@ -44,29 +45,49 @@ echo "[Inicio] \n";
 				
 				if ($open_pub_date) {
 					if ($tag["tag"] == "month") {
-						echo "Mês: ".$tag["value"]."\n";
+						$item["month"] = $tag["value"]."\n";
 					}
 					if ($tag["tag"] == "year") {
-						echo "Ano: ".$tag["value"]."\n";
+						$item["year"] = $tag["value"]."\n";
 					}
 				}
 				
 				if ($tag["tag"] == "volume") {
-					echo "Volume: ".$tag["value"]."\n";					
+					$item["volume"] = $tag["value"]."\n";					
 				}
 				
 				if ($tag["tag"] == "numero") {
-					echo "Numero: ".$tag["value"]."\n";					
+					$item["numero"] = $tag["value"]."\n";					
 				}
 				
 				if ($tag["tag"] == "fpage") {
-					echo "Primeira Pagina: ".$tag["value"]."\n";					
+					$item["fpage"] = $tag["value"]."\n";					
+				}
+				
+				if ($tag["tag"] == "lpage") {
+					$item["lpage"] = $tag["value"]."\n";					
 				}
 				
 				if ($tag["tag"] == "abstract") {
-					print_r($tag);
-					echo "Abstract: ".$tag["value"]."\n";					
+					if ($tag["attributes"]["xml:lang"]) {
+						$language_abstract = $tag["attributes"]["xml:lang"];
+					} else {
+						$language_abstract = "pt";
+					}
+					if (!$tag["value"]) {
+						$open_abstract = true;
+					} else {
+						$item["abstract"][$language_abstract]["text"] = $tag["value"];
+					}
 				}
+				
+				if ($open_abstract) {
+					if ($tag["tag"] == "p") {
+						$item["abstract"][$language_abstract] = $tag["value"];
+						$open_abstract = false;
+					}
+				}
+				print_r($item);
 			}
 		}
 	//}

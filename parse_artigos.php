@@ -26,8 +26,13 @@ echo "[Inicio] \n";
 		$open_article = false;
 		$open_pub_date = false;
 		$open_abstract = false;
-		$language_abstract = true;
+		$language_abstract = false;
+		
+		$open_ref_lst = false;
+		$open_ref = false;
 		foreach ($xml->arr as $tag) {
+			
+			// DADOS PRINCIPAIS DO ARTIGO
 			if ($tag["tag"] == "article-meta") {
 				if ($tag["type"] == "open")
 					$open_article = true;
@@ -87,7 +92,30 @@ echo "[Inicio] \n";
 						$open_abstract = false;
 					}
 				}
-				print_r($item);
+			}
+			// FIM DADOS PRINCIPAIS DO ARTIGO 
+			
+			// ********************************
+			
+			// REFERÊNCIA BIBLIOGRÁFICA
+			if ($tag["tag"] == "ref-list") {
+				if ($tag["type"] == "open")
+					$open_ref_lst = true;
+				else
+					$open_ref_lst = false;
+			}
+			
+			if ($open_ref_lst) {
+				if ($tag["tag"] == "ref") {
+					if ($tag["type"] == "open") {
+						$open_ref = true;
+						$ref_id = $tag["attributes"]["id"];
+					} else {
+						$open_ref = false;
+						$ref_id = "";
+					}
+				}
+				
 			}
 		}
 	//}

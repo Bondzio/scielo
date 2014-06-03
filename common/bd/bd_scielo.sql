@@ -67,3 +67,57 @@ ALTER TABLE artigos ADD CONSTRAINT fk_tart_id 	FOREIGN KEY ( tart_id ) 	REFERENC
 ALTER TABLE artigos ADD UNIQUE INDEX unique_pid (art_num, pidrev_id);
 
 ALTER TABLE artigos ADD COLUMN art_dt_download VARCHAR(10);
+
+-- ATUALIZAÇÕES: 03-06-2014
+
+ALTER TABLE artigos CHANGE art_resumo_br art_resumo_pt TEXT;
+
+ALTER TABLE artigos DROP INDEX fk_tart_id;
+ALTER TABLE artigos DROP tart_id;
+ALTER TABLE artigos DROP art_paginas;
+ALTER TABLE artigos ADD art_fpage VARCHAR(100);
+ALTER TABLE artigos ADD art_lpage VARCHAR(100);
+ALTER TABLE artigos ADD art_mes VARCHAR(100);
+ALTER TABLE artigos ADD art_tipo VARCHAR(100);
+
+DROP TABLE tipo_artigo;
+
+CREATE TABLE autores (
+	aut_id					INT(11)			NOT NULL AUTO_INCREMENT,
+	aut_givennames			VARCHAR(300) 		NOT NULL,
+	aut_surname				VARCHAR(300)		NOT NULL,
+	aut_urllattes			VARCHAR(300),
+	
+	art_id					INT(11) 		NOT NULL,
+	PRIMARY KEY (aut_id)
+	);
+
+ALTER TABLE autores ADD CONSTRAINT fk_art_aut_id 	FOREIGN KEY ( art_id ) 	REFERENCES artigos ( art_id ) ;
+
+CREATE TABLE bibliografia (
+	bib_id					INT(11)			NOT NULL AUTO_INCREMENT,
+	bib_titulo				VARCHAR(400) 		NOT NULL,
+	bib_revista				VARCHAR(400),		
+	bib_volume				VARCHAR(100),
+	bib_paginas				VARCHAR(100),
+	bib_ano					VARCHAR(4),
+	
+	art_id					INT(11) 		NOT NULL,
+	PRIMARY KEY (bib_id)
+	);
+
+ALTER TABLE autores ADD CONSTRAINT fk_art_bib_id 	FOREIGN KEY ( art_id ) 	REFERENCES artigos ( art_id ) ;
+
+CREATE TABLE autores_bibliografia (
+	abi_id					INT(11)			NOT NULL AUTO_INCREMENT,
+	abi_givennames			VARCHAR(300) 		NOT NULL,
+	abi_surname				VARCHAR(300)		NOT NULL,
+
+	bib_id					INT(11) 		NOT NULL,
+	PRIMARY KEY (abi_id)
+	);
+
+ALTER TABLE autores_bibliografia ADD CONSTRAINT fk_bib_id 	FOREIGN KEY ( bib_id ) 	REFERENCES bibliografia ( bib_id ) ;
+
+
+

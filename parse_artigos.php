@@ -23,10 +23,14 @@ echo "[Inicio] \n";
 		
 		$xml->getArray();
 		
+		$open_journal = false;
+		
 		$open_article = false;
 		$open_pub_date = false;
+		
 		$open_abstract = false;
 		$language_abstract = false;
+		$language_title = false;
 		
 		$open_ref_lst = false;
 		$open_ref = false;
@@ -37,6 +41,23 @@ echo "[Inicio] \n";
 		foreach ($xml->arr as $tag) {
 			
 			// DADOS PRINCIPAIS DO ARTIGO
+			if ($tag["tag"] == "journal-meta") {
+				if ($tag["type"] == "open")
+					$open_journal = true;
+				else
+					$open_journal = false;
+			}
+			
+			if ($open_journal) {
+				if ($tag["tag"] == "publisher-name") {
+					$item["publisher-name"] = $tag["value"];					
+				}
+			
+				if ($tag["tag"] == "issn") {
+					$item["issn"] = $tag["value"];					
+				}
+			}
+			
 			if ($tag["tag"] == "article-meta") {
 				if ($tag["type"] == "open")
 					$open_article = true;
@@ -45,6 +66,36 @@ echo "[Inicio] \n";
 			}
 			
 			if ($open_article) {
+				if ($tag["tag"] == "contrib") {
+					if ($tag["type"] == "open" && $tag["attributes"]["contrib-type"] == "author") {
+						$open_authors = true;
+						$cnt_author = -1;
+					} else
+						$open_authors = false;
+				}
+				
+				if ($open_authors) {
+					if ($tag["tag"] == "name" && $tag["type"] == "open") {
+						$cnt_author++;
+					}
+					
+					if ($tag["tag"] == "surname") {
+						$item["authors"][$cnt_author]["surname"] = $tag["value"];
+					}
+					
+					if ($tag["tag"] == "given-names") {
+						$item["authors"][$cnt_author]["given-names"] = $tag["value"];
+					}
+				}
+				
+				if ($tag["tag"] == "contrib") {
+					if ($tag["type"] == "open" && $tag["attributes"]["contrib-type"] == "author") {
+						$open_authors = true;
+						$cnt_author = -1;
+					} else
+						$open_authors = false;
+				}
+				
 				if ($tag["tag"] == "pub-date") {
 					if ($tag["type"] == "open" && $tag["attributes"]["pub-type"] == "pub")
 						$open_pub_date = true;
@@ -59,6 +110,15 @@ echo "[Inicio] \n";
 					if ($tag["tag"] == "year") {
 						$item["year"] = $tag["value"];
 					}
+				}
+				
+				if ($tag["tag"] == "article-title") {
+					if ($tag["attributes"]["xml:lang"]) {
+						$language_title = $tag["attributes"]["xml:lang"];
+					} else {
+						$language_title = "pt";
+					}
+					$item["title"][$language_title] = $tag["value"];
 				}
 				
 				if ($tag["tag"] == "volume") {

@@ -8,9 +8,11 @@ require "common/class/class-XMLtoArray.php";
 
 echo "[Inicio] \n";
 
-$artigos = new class_artigos;
+//echo "Pegando os artigos das revistas na base de dados \n";
 
+$artigos = new class_artigos;
 if ($artigos->select($sql)) {
+	//echo "  + Salvando os dados das edicoes offline...";
 	while ($artigos->fetch()) {
 		$pid = "S".$artigos->pid.$artigos->art_num;
 		$file = "files/artigos/".$artigos->art_dt_download."_".$pid.".xml";
@@ -35,6 +37,9 @@ if ($artigos->select($sql)) {
 		$open_abstract = false;
 		$language_abstract = false;
 		$language_title = false;
+		
+		$open_ref_lst = false;
+		$open_ref = false;
 		
 		$open_authors = false;
 		$open_author_name = false;
@@ -179,6 +184,91 @@ if ($artigos->select($sql)) {
 					}
 				}
 			}
+			// FIM DADOS PRINCIPAIS DO ARTIGO 
+			
+			// ********************************
+			
+			// REFERÊNCIA BIBLIOGRÁFICA
+			if ($tag["tag"] == "ref-list") {
+				if ($tag["type"] == "open")
+					$open_ref_lst = true;
+				else
+					$open_ref_lst = false;
+			}
+			
+			if ($open_ref_lst) {
+				if ($tag["tag"] == "ref") {
+					if ($tag["type"] == "open") {
+						$open_ref = true;
+						$ref_id = $tag["attributes"]["id"];
+					} else {
+						$open_ref = false;
+						$ref_id = "";
+					}
+				}
+				
+				if ($tag["tag"] == "nlm-citation" && $tag["type"] == "open") {
+					$biblio[$ref_id]["nlm-citation"] = $tag["attributes"]["citation-type"];
+				}
+				
+				if ($tag["tag"] == "publisher-name") {
+					$biblio[$ref_id]["publisher-name"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "publisher-loc") {
+					$biblio[$ref_id]["publisher-loc"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "article-title") {
+					$biblio[$ref_id]["article-title"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "source") {
+					$biblio[$ref_id]["source"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "year") {
+					$biblio[$ref_id]["year"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "page-range") {
+					$biblio[$ref_id]["page-range"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "numero") {
+					$biblio[$ref_id]["numero"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "volume") {
+					$biblio[$ref_id]["volume"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "issue") {
+					$biblio[$ref_id]["issue"] = $tag["value"];
+				}
+				
+				if ($tag["tag"] == "person-group") {
+					if ($tag["type"] == "open" && $tag["attributes"]["person-group-type"] == "author") {
+						$open_authors = true;
+						$cnt_author = -1;
+					} else
+						$open_authors = false;
+				}
+				
+				if ($open_authors) {
+					if ($tag["tag"] == "name" && $tag["type"] == "open") {
+						$cnt_author++;
+					}
+					
+					if ($tag["tag"] == "surname") {
+						$biblio[$ref_id]["authors"][$cnt_author]["surname"] = $tag["value"];
+					}
+					
+					if ($tag["tag"] == "given-names") {
+						$biblio[$ref_id]["authors"][$cnt_author]["given-names"] = $tag["value"];
+					}
+				}
+			}
 		}
 		//print_r($item);
 		//print_r($biblio);
@@ -278,17 +368,16 @@ if ($artigos->select($sql)) {
 			$autores->aut_surname = $aut["given-names"];
 			$autores->art_id = $artigos->art_id;
 			
-			if (isset($aut["affiliation"])) {
-				foreach ($aut["affiliation"] as $a) {
-					$autores->aut_instituicao = $a["institution"]." | ";
-				}
-				$autores->aut_instituicao = trim(substr($autores->aut_instituicao, 0, -3));
+			foreach ($aut["affiliation"] as $a) {
+				$autores->aut_instituicao = $a["institution"]." | ";
 			}
-			$autores->insert($sql);
+			$autores->aut_instituicao = substr($autores->aut_instituicao, 0, -3);
+			//$autores->insert($sql);
 		}
+		
+		print_r($item);
+		print_r($biblio);
 	}
 }
-
-echo "[Fim] \n";
 
 ?>

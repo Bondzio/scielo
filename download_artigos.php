@@ -35,7 +35,7 @@ if ($artigos->select($sql)) {
 			
 			$artigos2->art_id = $artigos->art_id;
 			$artigos2->art_dt_download = date("Y-m-d");
-			$artigos2->update($sql);
+			$artigos2->update2($sql);
 			
 			fclose($handle);
 			

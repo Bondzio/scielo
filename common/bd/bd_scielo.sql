@@ -90,7 +90,7 @@ CREATE TABLE autores (
 	
 	art_id					INT(11) 		NOT NULL,
 	PRIMARY KEY (aut_id)
-	);
+);
 
 ALTER TABLE autores ADD CONSTRAINT fk_art_aut_id 	FOREIGN KEY ( art_id ) 	REFERENCES artigos ( art_id ) ;
 
@@ -104,7 +104,7 @@ CREATE TABLE bibliografia (
 	
 	art_id					INT(11) 		NOT NULL,
 	PRIMARY KEY (bib_id)
-	);
+);
 
 ALTER TABLE autores ADD CONSTRAINT fk_art_bib_id 	FOREIGN KEY ( art_id ) 	REFERENCES artigos ( art_id ) ;
 
@@ -115,9 +115,32 @@ CREATE TABLE autores_bibliografia (
 
 	bib_id					INT(11) 		NOT NULL,
 	PRIMARY KEY (abi_id)
-	);
+);
 
 ALTER TABLE autores_bibliografia ADD CONSTRAINT fk_bib_id 	FOREIGN KEY ( bib_id ) 	REFERENCES bibliografia ( bib_id ) ;
 
+-- ATUALIZAÇÕES: 06-06-2014
 
+ALTER TABLE artigos CHANGE art_titulo art_titulo_pt VARCHAR(400);
+
+ALTER TABLE artigos ADD art_titulo_fr VARCHAR(400);
+ALTER TABLE artigos ADD art_titulo_en VARCHAR(400);
+ALTER TABLE artigos ADD art_titulo_es VARCHAR(400);
+
+ALTER TABLE artigos ADD art_issn VARCHAR(100);
+
+ALTER TABLE artigos ADD art_publisher_name VARCHAR(400);
+
+ALTER TABLE bibliografia ADD CONSTRAINT fk_art_bib_id 	FOREIGN KEY ( art_id ) 	REFERENCES artigos ( art_id ) ;
+
+ALTER TABLE autores ADD art_instituicao TEXT;
+
+ALTER TABLE bibliografia DROP bib_revista;
+
+ALTER TABLE bibliografia ADD bib_tipo VARCHAR(100);
+ALTER TABLE bibliografia ADD bib_pub_name VARCHAR(400);
+ALTER TABLE bibliografia ADD bib_pub_loc VARCHAR(400);
+ALTER TABLE bibliografia ADD bib_source VARCHAR(400);
+ALTER TABLE bibliografia ADD bib_numero VARCHAR(400);
+ALTER TABLE bibliografia ADD bib_issue VARCHAR(400);
 

@@ -62,20 +62,20 @@ class class_bibliografia {
 										bib_source,
 										art_id) 
 									VALUES ('".
-										addslashes($this->bib_titulo)."', '"
-										.addslashes($this->bib_tipo)."', '"
-										.addslashes($this->bib_pub_name)."', '"
-										.addslashes($this->bib_pub_loc)."', '"
-										.addslashes($this->bib_ano)."', '"
-										.addslashes($this->bib_paginas)."', '"
-										.addslashes($this->bib_numero)."', '"
-										.addslashes($this->bib_volume)."', '"
-										.addslashes($this->bib_issue)."', '"
-										.addslashes($this->bib_source)."', "
+										addslashes(utf8_decode($this->bib_titulo))."', '"
+										.addslashes(utf8_decode($this->bib_tipo))."', '"
+										.addslashes(utf8_decode($this->bib_pub_name))."', '"
+										.addslashes(utf8_decode($this->bib_pub_loc))."', '"
+										.addslashes(utf8_decode($this->bib_ano))."', '"
+										.addslashes(utf8_decode($this->bib_paginas))."', '"
+										.addslashes(utf8_decode($this->bib_numero))."', '"
+										.addslashes(utf8_decode($this->bib_volume))."', '"
+										.addslashes(utf8_decode($this->bib_issue))."', '"
+										.addslashes(utf8_decode($this->bib_source))."', "
 										.$this->art_id.");";
 		
 		if (!$sql->query($query)) {
-			$this->error = "Error insert: ".$sql->error;
+			$this->error = "Error update: ".$sql->error. " | QUERY: ".$query;
 			return false;
 		} else {
 			$query = "SELECT MAX(bib_id) as bib_id FROM bibliografia";

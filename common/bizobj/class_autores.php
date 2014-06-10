@@ -43,12 +43,12 @@ class class_autores {
 										aut_instituicao, 
 										art_id) 
 									VALUES ('".
-										addslashes($this->aut_givennames)."', '"
-										.addslashes($this->aut_surname)."', '"
-										.addslashes($this->aut_instituicao)."', "
+										addslashes(utf8_decode($this->aut_givennames))."', '"
+										.addslashes(utf8_decode($this->aut_surname))."', '"
+										.addslashes(utf8_decode($this->aut_instituicao))."', "
 										.$this->art_id.");";
 		if (!$sql->query($query)) {
-			$this->error = "Error insert: ".$sql->error;
+			$this->error = "Error insert: ".$sql->error." | QUERY: ".$query;
 			return false;
 		} 
 		

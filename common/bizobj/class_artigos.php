@@ -58,14 +58,15 @@ class class_artigos {
 						a.pidrev_id,
 						r.pid
 							FROM artigos a 	JOIN pid_revistas r ON (a.pidrev_id = r.pidrev_id)
-								WHERE 1 = 1 AND art_id = 7681";
+								WHERE 1 = 1 AND art_id = 5075";
 		if ($this->art_id)
 			$query .= " AND art_id = ".$this->art_id;
 		if ($this->pidrev_id)
 			$query .= " AND pidrev_id = ".$this->pidrev_id;
 		if ($this->art_num)
-			$query .= " AND art_num = '".$this->art_num."' ORDER BY a.art_id";
-		$query .= ";";
+			$query .= " AND art_num = '".$this->art_num."'";
+		$query .= " ORDER BY a.art_id;";
+		
 		if (!$this->result = $sql->query($query))
 			die("Error select: ".$sql->error);
 		
@@ -168,45 +169,110 @@ class class_artigos {
 			die("O código para alteração é inválido. Classe: class_pid_revistas.");
 		
 		$query = "UPDATE artigos SET ";
-		if ($this->art_titulo_pt)
-			$query .= " art_titulo_pt = '".addslashes($this->art_titulo_pt)."', ";
-		if ($this->art_titulo_fr)
-			$query .= " art_titulo_fr = '".addslashes($this->art_titulo_fr)."', ";
-		if ($this->art_titulo_en)
-			$query .= " art_titulo_en = '".addslashes($this->art_titulo_en)."', ";
-		if ($this->art_titulo_es)
-			$query .= " art_titulo_es = '".addslashes($this->art_titulo_es)."', ";
-		if ($this->art_ano)
-			$query .= " art_ano = '".addslashes($this->art_ano)."', ";
-		if ($this->art_mes)
-			$query .= " art_mes = '".addslashes($this->art_mes)."', ";
-		if ($this->art_volume)
-			$query .= " art_volume = '".addslashes($this->art_volume)."', ";
-		if ($this->art_resumo_pt)
-			$query .= " art_resumo_pt = '".addslashes($this->art_resumo_pt)."', ";
-		if ($this->art_resumo_fr)
-			$query .= " art_resumo_fr = '".addslashes($this->art_resumo_fr)."', ";
-		if ($this->art_resumo_en)
-			$query .= " art_resumo_en = '".addslashes($this->art_resumo_en)."', ";
-		if ($this->art_resumo_es)
-			$query .= " art_resumo_es = '".addslashes($this->art_resumo_es)."', ";
-		if ($this->art_fpage)
-			$query .= " art_fpage = '".addslashes($this->art_fpage)."', ";
-		if ($this->art_lpage)
-			$query .= " art_lpage = '".addslashes($this->art_lpage)."', ";
-		if ($this->art_tipo)
-			$query .= " art_tipo = '".addslashes($this->art_tipo)."', ";
-		if ($this->art_issn)
-			$query .= " art_issn = '".addslashes($this->art_issn)."', ";
-		if ($this->art_publisher_name)
-			$query .= " art_publisher_name = '".addslashes($this->art_publisher_name)."', ";
+		if ($this->art_titulo_pt) {
+			$query .= " art_titulo_pt = '".addslashes(utf8_decode($this->art_titulo_pt))."', ";
+		} else {
+			$query .= " art_titulo_pt = NULL, ";
+		}
+		
+		if ($this->art_titulo_fr) {
+			$query .= " art_titulo_fr = '".addslashes(utf8_decode($this->art_titulo_fr))."', ";
+		} else {
+			$query .= " art_titulo_fr = NULL, ";
+		}
+		
+		if ($this->art_titulo_en) {
+			$query .= " art_titulo_en = '".addslashes(utf8_decode($this->art_titulo_en))."', ";
+		} else {
+			$query .= " art_titulo_en = NULL, ";
+		}
+		
+		if ($this->art_titulo_es) {
+			$query .= " art_titulo_es = '".addslashes(utf8_decode($this->art_titulo_es))."', ";
+		} else {
+			$query .= " art_titulo_es = NULL, ";
+		}
+		
+		if ($this->art_ano) {
+			$query .= " art_ano = '".addslashes(utf8_decode($this->art_ano))."', ";
+		} else {
+			$query .= " art_ano = NULL, ";
+		}
+		
+		if ($this->art_mes) {
+			$query .= " art_mes = '".addslashes(utf8_decode($this->art_mes))."', ";
+		} else {
+			$query .= " art_mes = NULL, ";
+		}
+		
+		if ($this->art_volume) {
+			$query .= " art_volume = '".addslashes(utf8_decode($this->art_volume))."', ";
+		} else {
+			$query .= " art_volume = NULL, ";
+		}
+		
+		if ($this->art_resumo_pt) {
+			$query .= " art_resumo_pt = '".addslashes(utf8_decode($this->art_resumo_pt))."', ";
+		} else {
+			$query .= " art_resumo_pt = NULL, ";
+		}
+		
+		if ($this->art_resumo_fr) {
+			$query .= " art_resumo_fr = '".addslashes(utf8_decode($this->art_resumo_fr))."', ";
+		} else {
+			$query .= " art_resumo_fr = NULL, ";
+		}
+		
+		if ($this->art_resumo_en) {
+			$query .= " art_resumo_en = '".addslashes(utf8_decode($this->art_resumo_en))."', ";
+		} else {
+			$query .= " art_resumo_en = NULL, ";
+		}
+		
+		if ($this->art_resumo_es) {
+			$query .= " art_resumo_es = '".addslashes(utf8_decode($this->art_resumo_es))."', ";
+		} else {
+			$query .= " art_resumo_es = NULL, ";
+		}
+		
+		if ($this->art_fpage) {
+			$query .= " art_fpage = '".addslashes(utf8_decode($this->art_fpage))."', ";
+		} else {
+			$query .= " art_fpage = NULL, ";
+		}
+		
+		if ($this->art_lpage) {
+			$query .= " art_lpage = '".addslashes(utf8_decode($this->art_lpage))."', ";
+		} else {
+			$query .= " art_lpage = NULL, ";
+		}
+		
+		if ($this->art_tipo) {
+			$query .= " art_tipo = '".addslashes(utf8_decode($this->art_tipo))."', ";
+		} else {
+			$query .= " art_tipo = NULL, ";
+		}
+		
+		if ($this->art_issn) {
+			$query .= " art_issn = '".addslashes(utf8_decode($this->art_issn))."', ";
+		} else {
+			$query .= " art_issn = NULL, ";
+		}
+		
+		if ($this->art_publisher_name) {
+			$query .= " art_publisher_name = '".addslashes(utf8_decode($this->art_publisher_name))."', ";
+		} else { 
+			$query .= " art_publisher_name = NULL, ";
+		}
 		
 		$query = substr($query, 0, -2);
 		$query .= " WHERE art_id = ".$this->art_id.";";
 		
-		if (!$sql->query($query))
-			die("Error update: ".$sql->error);
-			
+		if (!$sql->query($query)) {
+			$this->error = "Error update: ".$sql->error. " | QUERY: ".$query;
+			return false;
+		}
+		
 		return true;
 	}
 	

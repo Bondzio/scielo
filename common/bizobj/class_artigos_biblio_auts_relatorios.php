@@ -13,7 +13,7 @@ class class_bibliografia_autores {
 	var $art_id;
 	
 	function select($sql) {
-		$query = "SELECT a.abi_id, a.abi_givennames, a.abi_surname, a.bib_id 
+		$query = "SELECT DISTINCT a.abi_givennames, a.abi_surname
 						FROM bibliografia b JOIN autores_bibliografia a ON (a.bib_id = b.bib_id) 
 								WHERE 1 = 1";
 		if ($this->art_id)

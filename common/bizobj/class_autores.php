@@ -24,12 +24,13 @@ class class_autores {
 								WHERE 1 = 1";
 		if ($this->aut_id)
 			$query .= " AND aut_id = ".$this->aut_id;
+		if ($this->art_id)
+			$query .= " AND art_id = ".$this->art_id;
 		if ($this->aut_givennames)
 			$query .= " AND aut_givennames = '".$this->aut_givennames."'";
 		if ($this->aut_surname)
 			$query .= " AND aut_surname = '".$this->aut_surname."'";
 		$query .= " ORDER BY a.aut_id;";
-		
 		if (!$this->result = $sql->query($query))
 			die("Error select: ".$sql->error);
 		

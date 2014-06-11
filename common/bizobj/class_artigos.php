@@ -58,7 +58,7 @@ class class_artigos {
 						a.pidrev_id,
 						r.pid
 							FROM artigos a 	JOIN pid_revistas r ON (a.pidrev_id = r.pidrev_id)
-								WHERE 1 = 1 AND art_id = 5075";
+								WHERE 1 = 1 ";
 		if ($this->art_id)
 			$query .= " AND art_id = ".$this->art_id;
 		if ($this->pidrev_id)

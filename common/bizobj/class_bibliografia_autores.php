@@ -38,8 +38,8 @@ class class_bibliografia_autores {
 										abi_surname,
 										bib_id) 
 									VALUES ('".
-										addslashes($this->abi_givennames)."', '"
-										.addslashes($this->abi_surname)."', "
+										addslashes(utf8_decode($this->abi_givennames))."', '"
+										.addslashes(utf8_decode($this->abi_surname))."', "
 										.$this->bib_id.");";
 		if (!$sql->query($query)) {
 			$this->error = "Error insert: ".$sql->error;

@@ -147,7 +147,7 @@ class class_artigos {
 	function update2($sql) {
 		
 		if (!is_numeric($this->art_id))
-			die("O código para alteração é inválido. Classe: class_pid_revistas.");
+			die("O cï¿½digo para alteraï¿½ï¿½o ï¿½ invï¿½lido. Classe: class_pid_revistas.");
 		
 		$query = "UPDATE artigos SET ";
 		if ($this->art_dt_download)
@@ -166,7 +166,7 @@ class class_artigos {
 	
 	function update($sql) {
 		if (!is_numeric($this->art_id))
-			die("O código para alteração é inválido. Classe: class_pid_revistas.");
+			die("O cï¿½digo para alteraï¿½ï¿½o ï¿½ invï¿½lido. Classe: class_pid_revistas.");
 		
 		$query = "UPDATE artigos SET ";
 		if ($this->art_titulo_pt) {

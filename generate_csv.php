@@ -15,7 +15,7 @@ echo "[Inicio] \n";
 $artigos = new class_artigos;
 if ($artigos->select($sql)) {
 	$c = "pid; numero; url; titulo_pt; titulo_fr; titulo_en; titulo_es; autores_givennames; autores_surname; ";
-	$c .= "autores_completo; autores_instituicao; revista; ano; resumo_pt; publisher_name; ";
+	$c .= "autores_completo; autores_instituicao; revista; ano; resumo_pt; resumo_fr; resumo_en; resumo_es; publisher_name; ";
 	$c .= "autores_biblio_givennames; autores_biblio_surname; autores_biblio_completo\n";
 	
 	$file = "output/output_".date("Y-m-d_his").".csv";
@@ -76,15 +76,18 @@ if ($artigos->select($sql)) {
 		$l .= escapar($artigos->art_titulo_es)."; ";
 		$l .= escapar($givennames)."; ";
 		$l .= escapar($surname)."; ";
-                $l .= escapar($autores_completo)."; ";
+		$l .= escapar($autores_completo)."; ";
 		$l .= $instituicao."; ";
 		$l .= $artigos->rev_nome."; ";
 		$l .= $artigos->art_ano."; ";
 		$l .= escapar($artigos->art_resumo_pt)."; ";
+		$l .= escapar($artigos->art_resumo_fr)."; ";
+		$l .= escapar($artigos->art_resumo_en)."; ";
+		$l .= escapar($artigos->art_resumo_es)."; ";
 		$l .= $artigos->art_publisher_name."; ";
 		$l .= $biblio_givennames."; ";
 		$l .= $biblio_surname."; ";
-                $l .= $biblio_completo."\n";
+		$l .= $biblio_completo."\n";
 		fwrite($fp, $l);
 	}
 	fclose($fp);

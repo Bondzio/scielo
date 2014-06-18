@@ -144,3 +144,16 @@ ALTER TABLE bibliografia ADD bib_source VARCHAR(400);
 ALTER TABLE bibliografia ADD bib_numero VARCHAR(400);
 ALTER TABLE bibliografia ADD bib_issue VARCHAR(400);
 
+
+-- ATUALIZAÇÕES: 18-06-2014
+
+CREATE TABLE palavras_chave (
+	pch_id					INT(11)			NOT NULL AUTO_INCREMENT,
+	pch_palavra				VARCHAR(300) 		NOT NULL,
+	pch_idioma				VARCHAR(2)		NOT NULL,
+
+	art_id					INT(11) 		NOT NULL,
+	PRIMARY KEY (pch_id)
+);
+
+ALTER TABLE palavras_chave ADD CONSTRAINT fk_art_pch_id 	FOREIGN KEY ( art_id ) 	REFERENCES artigos ( art_id ) ;

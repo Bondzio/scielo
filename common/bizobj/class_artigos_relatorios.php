@@ -48,7 +48,7 @@ class class_artigos {
 						WHERE 1 = 1";
 		if ($this->art_id)
 			$query .= " AND art_id = ".$this->art_id;
-		$query .= " ORDER BY a.art_id;";
+		$query .= " ORDER BY a.art_id LIMIT 1;";
 		
 		if (!$this->result = $sql->query($query))
 			die("Error select: ".$sql->error);

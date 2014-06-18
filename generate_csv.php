@@ -5,6 +5,7 @@ require "common/function/retirarAcento.php";
 require "common/bizobj/class_artigos_relatorios.php";
 require "common/bizobj/class_autores.php";
 require "common/bizobj/class_artigos_biblio_auts_relatorios.php";
+require "common/bizobj/class_palavras_chave.php";
 
 function escapar($m) {
     return str_replace(array(";", "\""), array(",", "'"), trim($m));
@@ -15,7 +16,7 @@ echo "[Inicio] \n";
 $artigos = new class_artigos;
 if ($artigos->select($sql)) {
 	$c = "pid; numero; url; titulo_pt; titulo_fr; titulo_en; titulo_es; autores_givennames; autores_surname; ";
-	$c .= "autores_completo; autores_instituicao; revista; ano; resumo_pt; publisher_name; ";
+	$c .= "autores_completo; autores_instituicao; revista; ano; resumo_pt; palavras_chave; publisher_name; ";
 	$c .= "autores_biblio_givennames; autores_biblio_surname; autores_biblio_completo\n";
 	
 	$file = "output/output_".date("Y-m-d_his").".csv";
@@ -34,6 +35,8 @@ if ($artigos->select($sql)) {
 		$biblio_givennames = "";
 		$biblio_surname = "";
 		$biblio_completo = "";
+                
+                $kwd = "";
                 
 		$autores = new class_autores;
 		
@@ -55,7 +58,7 @@ if ($artigos->select($sql)) {
 		
 		$bib_autores->art_id = $artigos->art_id;
 		if ($bib_autores->select($sql)) {
-			while ($bib_autores->fetch()) {
+                        while ($bib_autores->fetch()) {
 				$biblio_givennames .= utf8_decode($bib_autores->abi_givennames).", ";
 				$biblio_surname .= utf8_decode($bib_autores->abi_surname).", ";
                                 
@@ -67,6 +70,15 @@ if ($artigos->select($sql)) {
                         $biblio_completo = substr($biblio_completo, 0, -2);
 		}
 		
+                $palavras = new class_palavras_chave;
+                $palavras->art_id = $artigos->art_id;
+                if ($palavras->select($sql)) {
+                    while ($palavras->fetch()) {
+                       $kwd .= $palavras->pch_palavra.", ";
+                    }
+                    $kwd = substr($kwd, 0 , -2);
+                }
+                
 		$l = $artigos->pid."; ";
 		$l .= $artigos->art_num."; ";
 		$l .= str_replace("amp;", "", $artigos->art_url)."; ";
@@ -81,6 +93,7 @@ if ($artigos->select($sql)) {
 		$l .= $artigos->rev_nome."; ";
 		$l .= $artigos->art_ano."; ";
 		$l .= escapar($artigos->art_resumo_pt)."; ";
+                $l .= escapar($kwd)."; ";
 		$l .= $artigos->art_publisher_name."; ";
 		$l .= $biblio_givennames."; ";
 		$l .= $biblio_surname."; ";

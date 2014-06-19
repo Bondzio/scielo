@@ -25,7 +25,7 @@ if ($artigos->select($sql)) {
         $xml->getArray();
 		
         unset($kwd);
-			
+	
         $open_article = false;
         $open_kwd = false;
         $cnt_kwd = false;

@@ -74,7 +74,7 @@ if ($artigos->select($sql)) {
                 $palavras->art_id = $artigos->art_id;
                 if ($palavras->select($sql)) {
                     while ($palavras->fetch()) {
-                       $kwd .= $palavras->pch_palavra.", ";
+                       $kwd .= utf8_decode($palavras->pch_palavra).", ";
                     }
                     $kwd = substr($kwd, 0 , -2);
                 }

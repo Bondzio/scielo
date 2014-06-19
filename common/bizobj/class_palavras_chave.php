@@ -39,8 +39,8 @@ class class_palavras_chave {
                                 pch_idioma,
                                 art_id) 
                             VALUES ('".
-                                addslashes(utf8_decode($this->pch_palavra))."', '"
-                                .addslashes(utf8_decode($this->pch_idioma))."', "
+                                addslashes($this->pch_palavra)."', '"
+                                .addslashes($this->pch_idioma)."', "
                                 .$this->art_id.");";
             if (!$sql->query($query)) {
                 $this->error = "Error insert: ".$sql->error." | QUERY: ".$query;

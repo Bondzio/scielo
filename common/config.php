@@ -17,8 +17,8 @@ $db_server = "********";
 /* Conectando a base de dados */
 $sql = mysqli_connect($db_server, $db_user, $db_pass, $db_db);
 if (mysqli_connect_errno()) {
-	$err =  "Failed to connect to MySQL: " . mysqli_connect_error();
-	die($err);
+    $err =  "Failed to connect to MySQL: " . mysqli_connect_error();
+    die($err);
 }
 
 

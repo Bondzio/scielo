@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0011-5258</journal-id>
+<journal-title><![CDATA[Dados]]></journal-title>
+<abbrev-journal-title><![CDATA[Dados]]></abbrev-journal-title>
+<issn>0011-5258</issn>
+<publisher>
+<publisher-name><![CDATA[Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ)]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0011-52582000000200003</article-id>
+<article-id pub-id-type="doi">10.1590/S0011-52582000000200003</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Grupos de interesse, regimes políticos e crescimento econômico no Brasil (1970-1995): alguma evidência empírica]]></article-title>
+<article-title xml:lang="en"><![CDATA[Interest groups, political regimes, and economic growth in Brazil (1970-1995): some empirical evidence]]></article-title>
+<article-title xml:lang="fr"><![CDATA[Groupes d’intérêts, régimes politiques et croissance économique au Brésil (1970-1995): quelques arguments empiriques]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Shikida]]></surname>
+<given-names><![CDATA[Cláudio Djissey]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Monasterio]]></surname>
+<given-names><![CDATA[Leonardo M.]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A">
+<institution><![CDATA[,  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2000</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2000</year>
+</pub-date>
+<volume>43</volume>
+<numero>2</numero>
+<fpage>00</fpage>
+<lpage>00</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0011-52582000000200003&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0011-52582000000200003&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0011-52582000000200003&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[The article examines the impact of the density of trade unions and business associations on state growth rates in Brazil during 1970-1995. Various econometric specifications are tested, based on Mancur Olson’s approach. Results corroborate Olsonian hypotheses and suggest that changes in the political environment modified the relation between these unions and associations, on the one hand, and state economic performance, on the other.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="fr"><p><![CDATA[Ce travail cherche à évaluer l’impact de la présence des syndicats des travailleurs et des patrons sur les taux de croissance des États au Brésil, pendant la période 1970-1995. Prenant comme point de départ l’approche de Mancur Olson, plusieurs critères économétriques sont testés. Les résultats confirment les hypothèses olsoniennes et suggèrent que les changements dans le milieu politique ont modifié le rapport entre ces syndicats et les performances économiques des États.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[economic growth]]></kwd>
+<kwd lng="en"><![CDATA[unions]]></kwd>
+<kwd lng="en"><![CDATA[collective action]]></kwd>
+<kwd lng="fr"><![CDATA[croissance économique]]></kwd>
+<kwd lng="fr"><![CDATA[syndicats]]></kwd>
+<kwd lng="fr"><![CDATA[action collective]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <b>      <p ALIGN="left"><a name="titulo"></a><font size="4">Grupos de Interesse, Regimes Políticos e Crescimento Econômico no Brasil (1970-1995): Alguma Evidência Empírica<sup><a href="#nota">*</a></font></p></b> </sup>      <p align="left"><font size="3">Cláudio Djissey Shikida<sup> </sup><br> Leonardo M. Monasterio </font><sup></p> </sup>      <p align="left">&nbsp;</p>  <dir>   <dir>     <dir>       <dir>         <dir>           <dir>             <dir>                   <p ALIGN="right"><font size="3">&quot;O problema crucial do Brasil, portanto, não               consiste prioritariamente na ausência de um pacto político ou constitucional, mas na               inexistência de um contrato social de boa-fé entre todos os grupos organizados do país.               Seja enfatizado, de imediato, que tal contrato haverá de incluir provisões relativas a               todos os desorganizados e civilmente incapacitados, sob pena que continuem a servir de               pretexto para que os organizados, à esquerda e à direita, rompam o compromisso social e               busquem extrair vantagens em mudanças constitucionais-institucionais&quot; (Santos,               1998:186).</font></p>             </dir>           </dir>         </dir>       </dir>     </dir>   </dir> </dir> <b>      <p ALIGN="left">&nbsp;</p> </b>      <p ALIGN="left">&nbsp;</p>      <p ALIGN="left"><b><font size="3">1 - INTRODUÇÃO </font></b></p>      <p ALIGN="left"><font size="3">Há muito se verificou que as explicações baseadas nos fatores de produção tradicionais são insuficientes para o entendimento do fenômeno do crescimento econômico. A incorporação do conceito de capital humano à análise foi um notável avanço, e poucos economistas discordariam hoje da sua importância. Porém, mesmo que se considere a qualificação da mão-de-obra, as amplas diferenças no desempenho econômico dos países e regiões não podem ser totalmente explicadas sem que se atente para as instituições e políticas econômicas vigentes<a href="#N1"><sup>1</sup></a><a name="T1"></a>.</font></p>      <p ALIGN="left"><font size="3">A percepção de que &quot;as instituições importam&quot; tem sido sustentada pelas mais diversas correntes, desde a Escola Francesa da Regulação até a <i>New Institutional Economics</i> <font face="Symbol">¾</font> NIE<a href="#N2"><sup>2</sup></a><a name="T2"></a>. Esta última tem uma de suas origens intelectuais no influente trabalho <i>The Logic of Collective Action</i> (1965), de Mancur Olson (1932-1998), no qual este trabalho se baseia. Grande parte de sua notável produção acadêmica trata da relação instituições/desempenho econômico. Sem se desfazer da teoria da escolha racional, Olson forneceu o instrumental teórico para o estudo das questões relativas ao surgimento dos grupos de interesse e à ação coletiva. É com base em seus <i>insights</i>, especialmente em sua obra <i>The Rise and Decline of the Nations</i> (1982), que o presente trabalho procura dar sua contribuição. </font></p>      ]]></body>
+<body><![CDATA[<p ALIGN="left"><font size="3">Protestos contra as ineficiências institucionais da economia brasileira e contra o papel dos <i>lobbies</i> são lugar-comum. A abordagem de Olson permite que essas questões sejam abordadas a partir de uma teoria com sólidos microfundamentos e hipóteses testáveis que tiveram amplo suporte em diversos estudos empíricos<a href="#N3"><sup>3</sup></a><a name="T3"></a>. Outras teorias, mesmo no âmbito da NIE, poderiam ser utilizadas para considerar a análise dos <i>lobbies</i>. Contudo, haja vista a semelhança de objetivos, optei pelo marco teórico da ação coletiva olsoniana<a href="#N4"><sup>4</sup></a><a name="T4"></a>.</font></p>      <p ALIGN="left"><font size="3">Nesse sentido, o objetivo deste trabalho é aplicar tal análise à experiência brasileira recente, especificamente ao tema das diferenças entre taxas de crescimento estaduais no período 1970-1995. Como houve ao longo desse intervalo uma substancial mudança no regime político, considerei por bem cindi-lo em duas partes: a década de 70, marcadamente ditatorial; e o período de 1980 a 1995 que será tratado como democrático. Cabe ressaltar que a escolha dos anos limites dos intervalos se deu por razões históricas e pela disponibilidade de dados. O teste da teoria em momentos políticos distintos ilumina alguns pontos relevantes sobre o papel dos grupos de interesse na economia brasileira.</font></p>      <p ALIGN="left"><font size="3">As formas funcionais aqui avaliadas são inspiradas naquelas apresentadas pelo próprio Olson em seu estudo sobre a experiência norte-americana no pós-guerra (Olson Jr., 1982:98-117). Obviamente, existem diferenças político-institucionais e outras tantas referentes à disponibilidade de dados que impedem a reprodução imediata de tal modelo para o caso brasileiro. Nesse caso, procurei usar <i>proxies </i>e modelos mais adequados às informações disponíveis, buscando assim superar alguns dos problemas colocados pelas regressões feitas por Olson.</font></p>      <p ALIGN="left"><font size="3">Na próxima seção exponho sucintamente os fundamentos e as implicações da análise de Olson; na terceira seção detalho as <i>proxies</i> e formas funcionais utilizadas; a apresentação dos resultados das regressões ocupa a quarta parte; na conclusão, discuto o significado de tais resultados, esboçando considerações sobre os caminhos da pesquisa futura sobre o tema. Por fim, o <a href="#anexo">Anexo</a> contém informações sobre as fontes de dados.</font></p>      <p ALIGN="left">&nbsp;</p> <b>      <p ALIGN="left"><font size="3">2 &#150; COALIZÕES DISTRIBUTIVAS E CRESCIMENTO </font><a name="T5"></a><font size="3"> ECONÔMICO<a href="#N5"><sup>5</sup></a></font></p>      <p ALIGN="left"><font size="3">2.1 &#150; A Lógica da Ação Coletiva</font></p> </b>      <p ALIGN="left"><font size="3">A teoria da ação coletiva parte de uma constatação: diversas vezes a interação de agentes com interesses comuns não gera resultados coletivamente eficientes. Em outras palavras, sob certas condições, indivíduos racionais são incapazes de, espontaneamente, alcançar resultados que estejam de acordo com seus interesses. A análise de Olson busca identificar quais são as circunstâncias em que a afirmativa anterior se verifica, ou seja, quando a racionalidade individual não é suficiente para a racionalidade coletiva.</font></p>      <p ALIGN="left"><font size="3">Olson (1965, cap. 1) mostra que o fato de os benefícios conjuntos de uma ação superarem os custos para um grupo <i>não</i> implica sua efetivação. A ação coletiva, geralmente, está voltada para a produção de bens públicos para seus membros, pois bens privados podem ser produzidos através do mercado. Ora, em tal caso, como não se pode excluir os não contribuintes, o grupo fracassa na produção de potenciais bens coletivos, visto que a decisão racional de cada agente será a defecção. Exemplificando: os trabalhadores recebem aumento salarial quer tenham contribuído ou não para uma greve bem-sucedida, ou cada empresário de um determinado setor se beneficia da imposição de uma tarifa de importação mesmo que não tenha contribuído para o <i>lobby</i>. </font></p>      <p ALIGN="left"><font size="3">De acordo com a análise de Olson, o número de participantes de um grupo é uma variável-chave para as questões da ação coletiva. Utilizando um modelo formal, ele demonstrou que quanto menor o grupo, maiores são as chances de um de seus membros arcar com todos os custos do bem coletivo (<i>idem</i>:22-29). Já em grupos maiores, essa possibilidade é mais restrita e a ação coletiva tem de ser obtida através de incentivos seletivos (<i>selective incentives</i>), i.e., benefícios que se aplicam apenas aos agentes que contribuíram para a provisão de um bem público (Olson Jr., 1982:21). Conhecidos casos de incentivos seletivos são os descontos em planos de saúde para os membros de sindicatos e o fornecimento de informações qualificadas para os componentes de um grupo de interesse patronal. Existem ainda outros incentivos mais informais, mas não por isso menos eficazes, que vão desde o ostracismo até a violência física contra, por exemplo, os que &quot;furam&quot; uma greve ou rompem um cartel.</font></p>      ]]></body>
+<body><![CDATA[<p ALIGN="left"><font size="3">Mesmo levando-se em conta a possibilidade de recurso aos incentivos seletivos, é fácil notar que grupos com poucos membros, cujos benefícios prováveis estão concentrados, têm mais incentivos e facilidades de organização e ação do que os grandes grupos pulverizados. O resultado são pequenos grupos ativos e uma maioria desorganizada inerte, apesar de seus interesses comuns<a href="#N6"><sup>6</sup></a><a name="T6"></a>. Segundo Olson, &quot;pequenos grupos em uma sociedade, geralmente, terão maior poder de <i>lobby</i> e de cartel <i>per capita</i> (ou mesmo por dólar da renda agregada) do que grupos maiores&quot; (<i>idem</i>:41).</font></p>      <p ALIGN="left"><font size="3">Olson também argumentou que os pequenos grupos tendem a incorrer em ações redistributivas em seu favor, em detrimento de práticas que aumentariam a eficiência em geral (<i>idem</i>:41-47). Um grupo pequeno é atingido apenas por uma ínfima parte dos danos que porventura atinjam toda a sociedade, uma vez que, por definição, sua participação nesta é deveras restrita. Logo, mesmo que as ações redistributivas dos grupos com poucos membros piorem a situação geral, seus participantes serão mais do que compensados pelos &quot;desvios&quot; dos ganhos em seu favor<a href="#N7"><sup>7</sup></a><a name="T7"></a>. Sindicatos de trabalhadores e patronais, associações profissionais, <i>lobbies</i> e cartéis, ou qualquer outro grupo que vise à provisão de bens coletivos para seus membros, foram incluídos sob a designação &quot;coalizões distributivas&quot; (<i>distributional coalitions</i>)<a href="#N8"><sup>8</sup></a><a name="T8"></a>.</font></p> <b>      <p ALIGN="left"><font size="3">2.2 &#150; Esclerose Institucional e Desempenho Econômico</font></p> </b>      <p ALIGN="left"><font size="3">Como a organização da ação coletiva aparece lentamente, conforme demonstra a experiência histórica de surgimento dos sindicatos de trabalhadores, as sociedades estáveis tendem a acumular coalizões distributivas ao longo do tempo (<i>idem</i>:38-41). Uma vez organizados, os grupos agem sob forte inércia e muitas vezes uma estrutura administrativa mantém-se mesmo que o bem coletivo que motivou o seu surgimento não seja mais desejado. Os incentivos seletivos permitem que, ao longo do tempo, diversos bens coletivos sejam produzidos de acordo com situações muito distintas entre si. O destino das sociedades que não sofrem revoluções ou invasões estrangeiras é inexorável: uma progressiva saturação de coalizões distributivas que tendem a enrijecer a vida econômica<a href="#N9"><sup>9</sup></a><a name="T9"></a>.</font></p>      <p ALIGN="left"><font size="3">A acumulação de coalizões distributivas reduz as eficiências estática e dinâmica da economia (<i>idem</i>:41-47, 53-58, 61-65). Surgem as conhecidas perdas de bem-estar decorrentes da formação de cartéis, imposição de tarifas de importação, preços máximos ou mínimos e outras distorções do sistema de preços. Entretanto, de acordo com Olson (<i>idem</i>:61-65), estas indesejadas conseqüências são diminutas em face dos empecilhos ao crescimento econômico que aparecem a longo prazo. Em primeiro lugar, a inovação tecnológica é restringida, já que a adoção de novos produtos e processos passa a estar submetida aos lentos procedimentos decisórios das coalizões distributivas. Mais ainda, os membros do grupo podem postar-se deliberadamente contra ganhos de produtividade. Isto ocorre, por exemplo, quando uma inovação potencial de uma firma é bloqueada ou postergada pelas outras empresas componentes de um cartel, ou por um sindicato de trabalhadores. Quanto maior o poder e a concentração setorial das coalizões distributivas, maior a eficácia dos estratagemas que reduzem o desenvolvimento tecnológico<a href="#N10"><sup>10</sup></a><a name="T10"></a>.</font></p>      <p ALIGN="left"><font size="3">Outra proposição olsoniana sustenta que a <i>taxa</i> de crescimento da renda é reduzida pelas barreiras à realocação de recursos impostas pelas coalizões distributivas (<i>idem</i>:63-65; Hicks, 1983). Intuitivamente, é fácil perceber que quando um <i>lobby </i>obtém proteção governamental para um setor decadente, mascarando sua ineficiência, a taxa de crescimento da economia se reduz, visto que se cerceia a realocação de fatores na direção de atividades mais produtivas. Assim, a taxa de crescimento do produto será influenciada negativamente mesmo que o poder das coalizões distributivas se mantenha constante.</font></p>      <p ALIGN="left"><font size="3">É importante notar que a presente análise de Olson supõe um ambiente político com certas características mínimas. Não são necessários todos os componentes de uma democracia para que as previsões do modelo se realizem. Deve haver, no mínimo, liberdade de organização e de ação dos grupos de interesse. É fácil perceber que as coalizões distributivas teriam menor importância em sociedades em que fosse proibida qualquer organização patronal ou dos trabalhadores (ver, p. ex., Olson Jr., 1990). No outro pólo, nos regimes sem quaisquer restrições aos grupos de interesse, tenderiam a ocorrer os processos de estagnação institucional já tratados. Em termos concretos, as sociedades acham-se entre esses dois extremos, podendo apresentar graus diferentes de permeabilidade às pressões dos setores operários e empresariais a cada momento histórico. Países que, como o Brasil no período sob escopo, passaram por mudanças no ambiente político sem maiores rupturas proporcionam uma boa oportunidade para que as hipóteses olsonianas sejam testadas.</font></p>      <p ALIGN="left">&nbsp;</p> <b>      <p ALIGN="left"><font size="3">3 &#150; <i>PROXIES</i> E ESPECIFICAÇÕES DOS MODELOS</font></p>      <p ALIGN="left"><font size="3">3.1 &#150; Variáveis <i>Proxy</i> dos Fatores Institucionais</font></p> </b>      ]]></body>
+<body><![CDATA[<p ALIGN="left"><font size="3">Criaram-se duas <i>proxies</i> para a mensuração da presença das coalizões distributivas nas unidades federativas brasileiras:</font></p>        <p ALIGN="center"><img src="/img/fbpe/dados/v43n2//a03fig01.gif"   alt="a03fig01.gif (16035 bytes)"></p>      
+<blockquote>       <p ALIGN="left"><font size="3">x = tipo de sindicato (L para sindicatos de empregados; K   para empregadores)</font></p> </blockquote>      <p ALIGN="left"><font size="3">As variáveis LS<sub>x</sub>CAP<sub>it</sub> indicam a presença e o fracionamento das coalizões distributivas em relação à sociedade como um todo; já as variáveis LAS<sub>x</sub>PEA<sub>it</sub> representam o grau de sindicalização da força de trabalho para o caso de x=L e de relevância das associações patronais em relação à população economicamente ativa (x=K).</font></p> <b>      <p ALIGN="left"><font size="3">3.2 - Modelo I</font></p> </b>      <p ALIGN="left"><font size="3">A primeira forma funcional procura testar a validade da hipótese olsoniana de que as coalizões distributivas reduzem o crescimento econômico. Para tal, regrediu-se a taxa de crescimento do produto estadual sobre as <i>proxies</i> institucionais, para os dois períodos sob análise e para ambos os tipos de associação, separadamente. Para que os efeitos de <i>catching-up</i> não fossem absorvidos pela variável institucional, incluiu-se nas regressões o logaritmo natural do produto estadual no começo do período<a href="#N11"><sup>11</sup></a><a name="T11"></a>. Tem-se, então, as seguintes especificações:</font></p>      <p ALIGN="left"><font size="3">DLY<sub>tT</sub> = <font face="Symbol">a</font> <sub>0</sub> + <font face="Symbol">a</font> <sub>1 </sub>LS<sub>x</sub>CAP<sub>t</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>2 </sub>LY<sub>t</sub> + <font face="Symbol">e</font> </font></p>      <p ALIGN="left"><font size="3">DLY<sub>tT</sub> = </font><font size="3" face="Symbol">a</font><font size="3"> <sub>3</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>4 </sub>LAS<sub>x</sub>PEA<sub>t</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>5 </sub>LY<sub>t</sub> + </font><font size="3" face="Symbol">e</font><font size="3"> </font></p>      <p ALIGN="left"><font size="3">onde:</font></p>      ]]></body>
+<body><![CDATA[<p ALIGN="left"><font size="3">LY<sub>t= </sub>LN (produto no ano t).</font></p>      <p ALIGN="left"><font size="3">DLY<sub>tT</sub>= LN (produto no ano T) &#150; LN (produto no ano t).</font></p>      <p ALIGN="left"><font size="3">Para o período 1970-1980: T=1980 e t=1970.</font></p>      <p ALIGN="left"><font size="3">Para o período 1980-1995: T=1995 e t=1980.</font></p> <b>      <p ALIGN="left"><font size="3">3.3 &#150; Modelo II</font></p> </b>      <p ALIGN="left"><font size="3">Uma maior qualificação educacional da mão-de-obra implica, via de regra, uma maior sindicalização e, ao mesmo tempo, contribui para o crescimento do produto. Se não for adicionada ao modelo uma variável que reflita o nível de capital humano, o efeito das coalizões distributivas estará sendo abrandado, visto que seu estimador estará capturando o impacto dos fatores educacionais. Assim, incluiu-se o logaritmo natural da escolaridade média no início de cada período por estados entre as variáveis explicativas, de tal sorte que se tem as seguintes formas funcionais:</font></p>      <p ALIGN="left"><font size="3">DLY<sub>tT</sub> = </font><font size="3" face="Symbol">a</font><font size="3"> <sub>0</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>1 </sub>LS<sub>x</sub>CAP<sub>t</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>2 </sub>LY<sub>t</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>3 </sub>LEM<sub>t</sub> + </font><font size="3" face="Symbol">e</font></p>      <p ALIGN="left"><font size="3">DLY<sub>tT</sub> = </font><font size="3" face="Symbol">a</font><font size="3"> <sub>4</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>5 </sub>LAS<sub>x</sub>PEA<sub>t</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>6 </sub>LY<sub>t</sub> + </font><font size="3" face="Symbol">a</font><font size="3"> <sub>7 </sub>LEM<sub>t</sub> + </font><font size="3" face="Symbol">e</font><font size="3"> </font></p>      <p ALIGN="left">&nbsp;</p> <b>      <p ALIGN="left"><font size="3">4 &#150; REGRESSÕES E RESULTADOS</font></p> </b>      ]]></body>
+<body><![CDATA[<p ALIGN="left"><font size="3">Quando necessário, os dados referentes aos Estados de Tocantins e Mato Grosso do Sul foram agregados aos relativos às unidades federativas das quais originalmente faziam parte, isto é, a Goiás e ao Mato Grosso, respectivamente. De acordo com a orientação de Olson (1982:99), eliminaram-se da amostra as unidades federativas onde <i>frontier effects</i> fossem intensos. Assim, retirou-se a região Norte da amostra, visto que seus estados, especialmente Rondônia e Roraima, por estarem sendo desbravados durante o período, obtiveram taxas de crescimento elevadíssimas em especial entre 1970 e 1980<a href="#N12"><sup>12</sup></a><a name="T12"></a>. A exclusão do Distrito Federal, devido às suas peculiaridades (alta concentração de servidores públicos, em especial), fez com que restassem apenas dezoito unidades federativas na amostra.</font></p>      <p ALIGN="left"><font size="3">As estimações <i>cross-section</i> foram feitas pelo método de mínimos quadrados com o auxílio do programa econométrico <i>Microfit 4.0</i>. Vale apontar que os testes apropriados sugerem que todos os erros das regressões são normais e houve correção da heterocedasticidade através da matriz de White.</font></p> <b>      <p ALIGN="left"><font size="3">4.1 &#150; Testes com <i>Proxies</i> das Coalizões Distributivas de Trabalhadores</font></p> </b>      <p ALIGN="left"><font size="3">Nos testes originais de Olson para a economia norte-americana, considera-se que o efeito das organizações de trabalhadores sobre o crescimento local é negativo, pois sua presença, além de elevar os custos da mão-de-obra, enrijece o funcionamento do mercado de trabalho. Vejamos os principais resultados do modelo no caso brasileiro (<a href="#tab01">Tabelas 1</a> e <a href="#tab02">2</a>). </font></p>      <p ALIGN="left"><a name="tab01"></a></p>      <p ALIGN="left">&nbsp;</p> <b>      <p align="center"><img src="/img/fbpe/dados/v43n2//a03tab01.gif" alt="a03tab01.gif (61953 bytes)"></p>      
+<p align="left"><a name="tab02"></a></p> </b>      <p align="left">&nbsp;</p>      <p align="center"><img src="/img/fbpe/dados/v43n2//a03tab02.gif" alt="a03tab02.gif (46995 bytes)"></p>      
+]]></body>
+<body><![CDATA[<p ALIGN="left">&nbsp;</p>      <p ALIGN="left"><font size="3">No período de 1970 a 1980, para ambas as especificações testadas, os estimadores referentes à variável LS<sub>L</sub>CAP mostraram-se estatisticamente nulos. Isto é, conforme era esperado, a evidência sugere que a simples presença de associações de trabalhadores não teve impacto sobre o crescimento econômico estadual durante o período militar. Mesmo em uma unidade da federação com elevado número de sindicatos, como São Paulo, a maior parte destes esteve inerte durante quase toda da década de 70. Como se sabe, o ambiente político da época não era dos mais estimulantes para práticas sindicais combativas. Uma pesquisa clássica de localização industrial realizada em 1977 (Azzoni e Vieira, 1985), em São Paulo, apontou que apenas 0,02% dos empresários da amostra consideraram que a baixa sindicalização era um atrativo decisivo em suas decisões espaciais de investimento. O ano de 1978 marca o início da adoção de estratégias de confrontação pelas novas lideranças operárias que, superando o peleguismo, desafiavam os órgãos de repressão. Apenas a partir de 1983 o número de greves no Brasil sofre uma expressiva elevação (Almeida, 1996:42, 158; Buchanan, 1989).</font></p>      <p ALIGN="left"><font size="3">Ainda no período autoritário, os coeficientes estimados da <i>proxy</i> referente à sindicalização da população economicamente ativa <font face="Symbol">¾</font>&nbsp; PEA (LAS<sub>L</sub>PEA) mostraram-se significativamente negativos. Contudo, as regressões sugerem que os efeitos dessas coalizões sobre o crescimento do Produto Interno Bruto <font face="Symbol">¾</font>&nbsp; PIB estadual foram muito mais fracos entre os anos 70 e 80 do que no período seguinte.</font></p>      <p ALIGN="left"><font size="3">Considerando-se o interregno democrático, 1980-1995, a informação marcante obtida através dos Modelos I e II é que todos os coeficientes das variáveis que refletem o grau de organização dos trabalhadores foram negativos com significância maior que 99%. E, conforme já foi dito, os estimadores da variável LAS<sub>L</sub>PEA tiveram um sensível incremento em relação ao período anterior. Essas evidências sugerem que, no caso brasileiro, quanto mais livre o ambiente político mais intensamente o resultado da ação das coalizões distributivas de trabalhadores se aproximou daqueles previstos por Olson<a href="#N13"><sup>13</sup></a><a name="T13"></a>.</font></p>      <p ALIGN="left"><font size="3">Vale notar que em todos os modelos testados, a inclusão no modelo da variável referente ao capital humano (LEM<sub>t</sub>) fez com que se elevasse o módulo do coeficiente estimado para as variáveis sindicais. Isto sugere que nas regressões do Modelo I, como já era esperado, a estimativa do impacto perverso das coalizões distributivas sobre a taxa de crescimento econômico foi subestimada, pois o efeito positivo da maior escolaridade da população estava sendo indevidamente absorvido pelas variáveis sindicais<font COLOR="#0000ff">.</font> </font></p> <b>      <p ALIGN="left"><font size="3">4.2 &#150; Testes com <i>Proxies</i> das Coalizões Distributivas Patronais</font></p> </b>      <p ALIGN="left"><font size="3">Olson argumentou que as coalizões distributivas de empresários reduziriam a taxa nacional de crescimento, mas, nas esferas estadual ou local, os resultados seriam ambíguos. Por exemplo, os <i>lobbies</i> empresariais ao conseguirem subsídios para as firmas instaladas em uma determinada região estão promovendo a atividade econômica local. É claro que, em contrapartida, o restante do país tem que arcar com uma carga tributária maior para financiar os incentivos locais. Ainda no âmbito local, existem fenômenos como os citados na seção 2.2 que sugerem o efeito prejudicial das coalizões distributivas patronais. A resultante dessas forças opostas não pode ser determinada <i>a priori</i>.</font></p>      <p ALIGN="left"><font size="3">Vejamos agora as principais evidências fornecidas pelas regressões com variáveis que envolviam as <i>proxies</i> dos grupos de interesse patronais no Brasil (<a href="#tab03">Tabelas 3</a> e <a href="#tab04">4</a>).</font></p>      <p ALIGN="left"><a name="tab03"></a></p>      <p ALIGN="left">&nbsp;</p> <b>      ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/fbpe/dados/v43n2//a03tab03.gif" alt="a03tab03.gif (46005 bytes)"></p>  </b>      
+<p align="left"><a name="tab04"></a></p>      <p align="left">&nbsp;</p>      <p align="center"><img src="/img/fbpe/dados/v43n2//a03tab04.gif" alt="a03tab04.gif (47721 bytes)"></p>      
+<p ALIGN="left">&nbsp;</p>      <p ALIGN="left"><font size="3">Durante o período de 1970 a 1980 tem-se resultados bem claros. Em todas as especificações para esse intervalo, os estimadores das variáveis relacionadas com a concentração dos <i>lobbies</i> patronais foram negativos com significância maior que 95%. Isto sugere que na resultante das ações de tais grupos organizados predominou o componente nocivo para o desempenho econômico estadual.</font></p>      <p ALIGN="left"><font size="3">Já durante o período democrático (1980-1995), fazem-se necessárias maiores reflexões sobre os resultados obtidos. O estimador para a variável LS<sub>K</sub>CAP, indicadora da presença e fracionamento dos <i>lobbies</i> perante a sociedade, mostrou-se estatisticamente igual a zero. Isto é, tal <i>proxy</i> não parece ser significativa para a explicação do crescimento no período. Todavia, quando se utiliza a variável LAS<sub>K</sub>PEA como indicador da ação dos grupos de interesse patronais, a evidência sugere que estes contribuíram para o crescimento estadual no período visto e que nos Modelos I e II há sinais positivos com 90% de significância. Na próxima seção examinam-se algumas possíveis razões para a mudança do sinal do estimador de LAS<sub>K</sub>PEA entre o período ditatorial e o democrático.</font></p>      <p ALIGN="left">&nbsp;</p> <b>      <p ALIGN="left"><font size="3">5 &#150; CONSIDERAÇÕES FINAIS</font></p> </b>      <p ALIGN="left"><font size="3">Em uma avaliação geral, pode-se afirmar que os resultados das estimações corroboram as hipóteses de Olson. Suas previsões pressupõem um ambiente democrático no qual haja liberdade de formação de associações e estas possam agir no sentido de seus interesses. Assim, o fato de os efeitos da sindicalização sobre a taxa de crescimento estadual terem sido mais intensos a partir de 1980 está plenamente de acordo com a teoria.</font></p>      ]]></body>
+<body><![CDATA[<p ALIGN="left"><font size="3">Já a relação entre a atuação das coalizões distributivas patronais e o desempenho econômico nos períodos sob escopo necessita de maior atenção. À primeira vista, a redemocratização não deveria ter impacto algum sobre a atuação das associações patronais, uma vez que mesmo durante a ditadura tais coalizões seguiram ativas. No entanto, as regressões feitas levam a crer que os <i>lobbies </i>empresariais foram prejudiciais ao crescimento estadual na década de 70 e favoráveis no período entre 1980 e 1995. Uma hipótese explicativa, dentre várias possíveis, parece ser mais convincente para a compreensão dessa mudança no sinal do estimador, a saber: os governos militares durante os anos 70 foram centralizadores e deixaram pouco espaço para a pressão dos <i>lobbies </i>empresariais de alcance regional. Conforme sugeriu Castro (1985), o governo militar, especialmente a partir do II Plano Nacional de Desenvolvimento <font face="Symbol">¾</font> PND, adotou uma estratégia de desenvolvimento cujas prioridades eram discrepantes das defendidas pelo empresariado brasileiro. Incapazes de influenciar as políticas regionais do governo federal, visto que estas estavam submetidas a uma orientação maior, as coalizões distributivas teriam exercido com mais intensidade suas funções inibidoras do crescimento na esfera estadual. </font></p>      <p ALIGN="left"><font size="3">Entre 1980 e 1995, com a progressiva descentralização das políticas públicas, especialmente após a Constituição de 1988, abriu-se espaço para a atuação dos setores empresariais estaduais. Rezende (1997) analisou as mudanças das preferências alocativas do gasto público estadual ao longo do mesmo período e concluiu que estas ocorreram em decorrência das ações redistributivas dos grupos de interesse locais. É razoável supor que as pressões destes chegaram a Brasília, especialmente quando se leva em conta que nesse período, mais democrático e estagnado, os governos centrais, em busca de apoio político, foram mais atentos às vozes das elites empresariais estaduais. Logo, aquelas unidades federativas com maior concentração de coalizões distributivas foram melhor sucedidas na captação das benesses do governo central. Para que essa hipótese seja avaliada, será necessário investigar os meandros das relações entre as associações patronais, seus membros e o Estado.</font></p>      <p ALIGN="left"><font size="3">Mais recentemente, a perspectiva de Olson tem sido desafiada pelos seguidores da abordagem do <i>capital social</i>, os quais obtiveram evidências empíricas expressivas de que o crescimento é positivamente afetado pela &quot;densidade&quot; de associações, inclusive sindicatos, nas regiões<a href="#N14"><sup>14</sup></a><a name="T14"></a>. Mesmo que a evidência apresentada no presente estudo aponte para uma direção oposta, é possível que trabalhos posteriores indiquem quais tipos de associações contribuem para o desempenho econômico no Brasil.</font></p>      <p ALIGN="left"><font size="3">Este estudo pretende ser apenas um primeiro passo para uma ampla compreensão do papel das instituições, do qual fazem parte as coalizões distributivas, para a economia brasileira<a href="#N15"><sup>15</sup></a><a name="T15"></a>. Ainda persistem alguns problemas de estimação a serem superados, talvez mediante um instrumental mais sofisticado, como por exemplo a econometria espacial<a href="#N16"><sup>16</sup></a><a name="T16"></a>, ou através da utilização de bases de dados mais amplas. Desse modo, espera-se que as evidências permitam iluminar algumas questões e destacar os pontos de convergência, ou não, entre a experiência do Brasil e a de outros países. Não obstante, será mister que a pesquisa futura capture as peculiaridades e tradições da sociedade brasileira, voltando sua atenção para os mecanismos efetivos envolvidos na relação entre os fatores institucionais e os estritamente econômicos.</font></p>      <p ALIGN="left">&nbsp;</p>      <p align="right"><font size="3">(Recebido para publicação em julho de 1999)<br> (Versão definitiva em agosto de 2000)</font></p>      <p align="left">&nbsp;</p> <b>      <p ALIGN="left"><font size="3">NOTAS:</font></p> </b><sup>      <p ALIGN="left"></sup><a name="nota"></a><font size="3"><a href="#titulo"><sup>*</sup></a> Os autores agradecem as críticas e sugestões que os professores Erik Sasdelli Camarano (Pontifícia Universidade Católica do Rio Grande do Sul <font face="Symbol">¾</font> PUC-RS), Huáscar Fialho Pessali (Universidade Federal do Paraná <font face="Symbol">¾</font> UFPR) e Sérgio M. M. Monteiro (Fundação Universidade do Rio Grande <font face="Symbol">¾</font> FURG) efetuaram em relação a uma versão anterior deste trabalho. Houve também a colaboração do acadêmico Dante Reis Jr. (Universidade Federal de Pelotas <font face="Symbol">¾</font> UFPel). Eles estão isentos de responsabilidade sobre os erros porventura remanescentes.</font></p>      <p ALIGN="left"><a name="N1"></a><font size="3"><a href="#T1">1</a>. Ver La Porta <i>et alii</i> (1998) para uma síntese das diversas vertentes que comungam dessa visão, bem como abundantes resultados empíricos da relação entre as instituições e o desempenho econômico.</font></p> <sup>      ]]></body>
+<body><![CDATA[<p ALIGN="left"></sup><a name="N2"></a><font size="3"><a href="#T2">2</a>. Clague (1997) apresenta uma síntese das posições da NIE em relação à questão do desenvolvimento econômico, com ênfase na questão do <i>capital social.</i> Um teste <i>cross-section</i> internacional para o período 1969-1990 acha-se em Clague <i>et alii</i> (1997). Vale ver também os últimos trabalhos do próprio Olson (1992; 1996; 1997) para convincentes argumentações acerca da prioridade das instituições. Uma outra abordagem que também pertence à tradição neo-institucionalista é a de Scully (1992), que incorpora o conceito de direito de propriedade ao modelo neoclássico padrão (Solow, 1956). Para um resumo geral da NIE, ver Furubotn e Richter (1997).</font></p> <sup>      <p ALIGN="left"></sup><a name="N3"></a><font size="3"><a href="#T3">3</a>. O modelo de Olson foi não falseado para os Estados Unidos, Alemanha Ocidental, Inglaterra, França, Suíça e Itália, conforme os <i>papers</i> reunidos em Mueller (1983). Recentes testes <i>cross-section</i> e <i>panel data</i> envolvendo países sugerem a relevância dos aspectos institucionais para o desenvolvimento (Clague <i>et alii</i>, 1997; Olson Jr., Sarna e Swamy, 1998; Hall e Jones, 1996). Algumas evidências contrárias às hipóteses de Olson podem ser encontradas em Booth, Melling e Dartmann (1997) e em Wallis e Oates (1988).</font></p> <sup>      <p ALIGN="left"></sup><a name="N4"></a><font size="3"><a href="#T4">4</a>. A escolha pública (<i>public choice</i>), que alguns incluem no programa de pesquisa da NIE, seria uma outra alternativa teórica viável. Para um contraponto em relação a alguns conceitos adotados por ambas as linhas de pesquisa, ver Ekelund Jr. e Tollison (1996). A propósito, Furubotn e Richter (1997) chamam a atenção para o fato de que os autores dessas tradições parecem não apresentar interesse em uma maior integração teórica. Nesse sentido, este trabalho pretende ser uma pequena colaboração para essa aproximação.</font></p> <sup>      <p></sup><a name="N5"></a><font size="3"><a href="#T5">5</a>. Omitiram-se as sutilezas e a formalização do modelo de Olson. Sandler (1992) fornece um <i>survey </i>da teoria, ressaltando os desenvolvimentos e qualificações feitos a partir de <i>The Logic of Collective Action</i>. Orenstein (1998), além de sintetizar a literatura sobre o tema, sugere novas soluções para os dilemas da ação coletiva.</font></p> <sup>      <p></sup><a name="N6"></a><font size="3"><a href="#T6">6</a>. A mesma idéia foi formulada por Marshall em <i>Princípios de Economia</i>: &quot;Um pequeno número de pessoas fortemente interessadas levanta a sua voz em conjunto, ruidosa e persistentemente. Enquanto isso, pouco se ouve da grande massa cujos interesses estão voltados para a direção oposta, pois, mesmo que sua atenção seja vivamente atraída para a matéria, poucos cuidarão de esforçar-se muito por uma causa em que nenhum deles tem mais do que um pequeno interesse. Aquela minoria, portanto, abrirá caminho, enquanto [...] poder-se-ia provar que os interesses dos poucos eram tão só a décima ou a centésima parte dos interesses globais da silenciosa maioria&quot; (1982:137).</font></p> <sup>      <p ALIGN="left"></sup><a name="N7"></a><font size="3"><a href="#T7">7</a>. Apenas grupos organizados que englobem uma parte significativa da sociedade têm incentivos para defender políticas que os beneficiem.</font></p> <sup>      <p ALIGN="left"></sup><a name="N8"></a><font size="3"><a href="#T8">8</a>. Ao contrário do que sustenta Haggard (1997:125), Olson tem consciência de que existem grupos de interesse restrito que, involuntariamente, contribuem para a eficiência geral da economia. Sua proposição básica é que a <i>resultante</i> das ações desses grupos será prejudicial à atividade econômica. </font></p> <sup>      <p ALIGN="left"></sup><a name="N9"></a><font size="3"><a href="#T9">9</a>. Encontramos alguma evidência econométrica de que o acúmulo das associações está positivamente relacionado com a idade de formação dos núcleos urbanos no Brasil. Contudo, optou-se por avaliar a validade dessa hipótese com maior afinco e profundidade em um trabalho posterior.</font></p> <sup>      <p ALIGN="left"></sup><a name="N10"></a><font size="3"><a href="#T10">10</a>. Uma proposição interessante a ser testada seria verificar a presença do &quot;efeito Ricardo&quot; (ver Hayek <i>apud</i> Blaug, 1967), com a inclusão de uma diferenciação setorial. Ou seja, usando o conceito de &quot;estrutura de produção&quot; dos economistas austríacos, a hipótese que se poderia testar seria a de que setores com diferentes estruturas capital-intensivas teriam diferentes arranjos sindicais voltados para o retardo tecnológico em prol do emprego. Para detalhes, ver Blaug (1967).</font></p> <sup>      <p ALIGN="left"></sup><a name="N11"></a><font size="3"><a href="#T11">11</a>. Por efeito <i>catching-up</i> entende-se a hipótese de que o <i>gap</i> tecnológico e oportunidades não aproveitadas das regiões pobres viabilizariam ritmos de crescimento econômico mais intensos do que os das áreas mais desenvolvidas (ver Olson Jr., 1982:114). </font></p> <sup>      ]]></body>
+<body><![CDATA[<p ALIGN="left"></sup><a name="N12"></a><font size="3"><a href="#T12">12</a>. Manteve-se a região Norte fora das regressões mesmo no período 1980-1995, para que as regressões nos dois períodos fossem comparáveis.</font></p> <sup>      <p ALIGN="left"></sup><a name="N13"></a><font size="3"><a href="#T13">13</a>. Sobre isso, ver Santos (1998). Entre 1960 e 1988 criaram-se quase 50% de todos os sindicatos urbanos existentes no país, desde o início da República; a escala correspondente para os sindicatos rurais é de 96%. Além disso, também surgiram as associações profissionais, as associações de interesses empresariais e intensificou-se o alargamento da participação político-eleitoral (<i>idem</i>:116).</font></p> <sup>      <p ALIGN="left"></sup><a name="N14"></a><font size="3"><a href="#T14">14</a>. A referência básica é Putnam (1996). Knack (1999) e Feldman e Assaf (1999) sintetizam o estado da arte na área.</font></p> <sup>      <p ALIGN="left"></sup><a name="N15"></a><font size="3"><a href="#T15">15</a>. A bibliografia registra apenas outro estudo que envolve o teste das hipóteses olsonianas para o Brasil: Amelung (1989). Ele busca explicar a estrutura de proteção à indústria nacional, levando em conta, dentre outros fatores, a concentração regional e dois índices de ligações interindustriais que tentam captar o conflito de coalizões na estrutura produtiva no período 1973-1975. Seus resultados são favoráveis ao modelo de Olson.</font></p> <sup>      <p ALIGN="left"></sup><a name="N16"></a><font size="3"><a href="#T16">16</a>. Aqui entendida como o uso, nas análises econométricas, de elementos que permitam medir a existência de autocorrelação espacial nas variáveis estudadas. Ver, nesse sentido, para o caso de coalizões regionais, Gray e Lowery (1998).</font><b></p>      <p ALIGN="left">&nbsp;</p>      <p ALIGN="left">&nbsp;</p>      <p ALIGN="left"><font size="3">REFERÊNCIAS BIBLIOGRÁFICAS</font></p> </b>      <!-- ref --><p ALIGN="left"><font size="3">ALMEIDA, M. H. T. de. (1996), <i>Crise Econômica e Interesses Organizados</i>. São Paulo, Edusp.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S0011-5258200000020000300001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">AMELUNG, T. (1989), &quot;The Determinants of Protection in Developing Countries: An Extended Interest-Group Approach&quot;. <i>Kyklos</i>, vol. 42, pp. 515-532.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S0011-5258200000020000300002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">AZZONI, C. R. (1997), &quot;Concentração Regional e Dispersão das Rendas <i>per capita</i> Estaduais: Análise a partir das Séries Históricas Estaduais do PIB, 1939-1945&quot;. <i>Estudos Econômicos</i>, vol. 27, nº 3.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0011-5258200000020000300003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">___ e VIEIRA, C. A. (1985), &quot;Fatores Determinantes das Escolhas Locacionais em São Paulo&quot;, <i>in</i> C. R. Azzoni (org.), <i>Onde Produzir: Aplicações da Teoria da Localização no Brasil</i>. São Paulo, IPE/USP.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S0011-5258200000020000300004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">BLAUG, M. (1967), <i>Economic Theory in Retrospect</i>. Cambridge, Cambridge University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0011-5258200000020000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">BOOTH, A., MELLING, J. e DARTMANN, C. (1997), &quot;Institutions and Economic Growth: The Politics of Productivity in West Germany, Sweden, and the United Kingdom (1945-1955)&quot;.<i> The Journal of Economic History</i>, vol. 57, nº 2, pp. 417-444.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S0011-5258200000020000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">BUCHANAN, P. (1989), &quot;<i>Plus ça Change</i>?<i> </i>A Administração Nacional do Trabalho e a Democracia no Brasil 1985-1987&quot;. <i>Dados</i>,<i> </i>vol. 32, nº 1, pp. 75-123.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0011-5258200000020000300007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">CASTRO, A. B. de. (1985), &quot;Ajustamento X Transformação: A Economia Brasileira de 1974 a 1984&quot;, <i>in</i> A. B. Castro e F. E. P. Souza,<i> A Economia Brasileira em Marcha Forçada</i>. Rio de Janeiro, Paz e Terra.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0011-5258200000020000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">CLAGUE, C. (ed.). (1997), <i>Institutions and Economic Development: Growth and Governance in Less Developed and Post-Socialist Countries</i>. Maryland, The Johns Hopkins University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S0011-5258200000020000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">CLAGUE, C. <i>et alii</i>. (1997), &quot;Institutions and Economic Performance&quot;, <i>in</i> C. Clague (ed.), <i>Institutions and Economic Development: Growth and Governance in Less Developed and Post-Socialist Countries</i>. Maryland, The Johns Hopkins University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0011-5258200000020000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">EKELUND JR., R. B. e TOLLISON, R. D. (1996), <i>Politicized Economics <font face="Symbol">¾</font> Monarchy, Monopoly, and Mercantilism</i>. Texas, A&amp;M.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S0011-5258200000020000300011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">FELDMAN, T. R. e ASSAF, S. (1999), &quot;Social Capital: Conceptual Frameworks and Empirical Evidence, an Annotated Bibliography&quot;. <i>Working Paper</i>, nº 5, Social Capital Initiative, World Bank. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0011-5258200000020000300012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">FURUBOTN, E. e RICHTER, R. (1997), <i>Institutions and Economic Theory: The Contribution of the New Institutional Economics</i>. Michigan, Michigan University Press. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S0011-5258200000020000300013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">GRAY, V. e LOWERY, D. (1998), &quot;The Density of State Interest-Communities: Do Regional Variables Matter?&quot;. <i>Publius</i>, vol. 28, nº 2.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0011-5258200000020000300014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">HAGGARD, S. (1997), &quot;Democratic Institutions, Economic Policy, and Development&quot;, <i>in</i> C. Clague (ed.),<i> Institutions and Economic Development: Growth and Governance in Less Developed and Post-Socialist Countries</i>. Maryland, The Johns Hopkins University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S0011-5258200000020000300015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">HALL, R. e JONES, C. (1996), &quot;The Productivity of the Nations&quot;. <i>Working Paper</i>, nº 5812,<i> </i>NBER.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0011-5258200000020000300016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">HICKS, Sir John. (1983), &quot;Structural Unemployment and Economic Growth: A &#145;Labor Theory of Value&#146; Model&quot;, <i>in</i> D. C. Mueller (ed.), <i>The Political Economy of Growth</i>. New Haven/London, Yale University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000127&pid=S0011-5258200000020000300017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA &#150; IBGE. (1970, 1995), <i>Anuário Estatístico do Brasil</i>. Rio de Janeiro, IBGE.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0011-5258200000020000300018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">KNACK, S. (1999), &quot;Social Capital, Growth, and Poverty: A Survey of Cross Country Evidence&quot;. <i>Working Paper</i>,<i> </i>nº 7, Social Capital Initiative, World Bank.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000129&pid=S0011-5258200000020000300019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">LA PORTA, R. <i>et alii</i>. (1998), The Quality of Government. Mimeo (second draft).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0011-5258200000020000300020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">LAU, L. J. <i>et alii</i>. (1993), &quot;Education and Economic Growth: Some Cross-Sectional Evidence from Brazil&quot;. <i>Journal of Development Economics</i>, vol. 41, pp. 45-70.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000131&pid=S0011-5258200000020000300021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">MARSHALL, A. (1982), <i>Princípios de Economia</i>. São Paulo, Nova Cultural.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0011-5258200000020000300022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">MUELLER, D. C. (ed.). (1983), <i>The Political Economy of Growth</i>. New Haven/London, Yale University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S0011-5258200000020000300023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">OLSON JR., M. (1965), <i>The Logic of Collective Action: Public Goods and the Theory of Groups</i>. Cambridge, Harvard Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0011-5258200000020000300024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">___. (1982), <i>The Rise and Decline of the Nations</i>. New Haven/London, Yale University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0011-5258200000020000300025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">___. (1990), &quot;The Logic of Collective Action in Soviet Type Societies&quot;. <i>IRIS Reprint</i>, nº 3. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0011-5258200000020000300026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">___. (1992), &quot;The Hidden Path to a Successful Economy&quot;, <i>in</i> C. Clague e G. Rausser (eds.), <i>The Emergence of Market Economies in Eastern Europe. </i>New York, Basil Blackwell.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S0011-5258200000020000300027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">___. (1996), &quot;Big Bills Left on the Sidewalk: Why some Nations Are Rich, and Others Are Poor&quot;. <i>Journal of Economic Perspectives</i>, vol. 10, nº 2, pp. 3-24.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0011-5258200000020000300028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">___. (1997), &quot;The New Institutional Economics: The Collective Action Approach to Economic Development&quot;, <i>in</i> C. Clague (ed.), <i>Institutions and Economic Development: Growth and Governance in Less Developed and Pos-Socialist Countries</i>. Maryland, The Johns Hopkins University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S0011-5258200000020000300029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">___, SARNA, N. e SWAMY, A. V. (1998), &quot;Governance and Growth: A Simple Hypothesis Explaining Cross-Country Differences in Productivity Growth&quot;. <i>IRIS Working Paper</i>, nº 218.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0011-5258200000020000300030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">ORENSTEIN, Luiz. (1998), <i>A Estratégia da Ação Coletiva.</i> Rio de Janeiro, Revan/IUPERJ.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0011-5258200000020000300031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">PUTNAM, R. (1996), <i>Comunidade e Democracia: A Experiência da Itália Moderna</i>. Rio de Janeiro, Fundação Getulio Vargas Editora. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0011-5258200000020000300032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">REZENDE, F. (1997), &quot;Descentralização, Gastos Públicos e Preferências Alocativas dos Governos Locais no Brasil (1980-1994)&quot;. <i>Dados</i>, vol. 40, nº 3, pp. 413-440.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S0011-5258200000020000300033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">SANDLER, T. (1992), &quot;Collective Action&quot;. <i>Theory and Applications</i>. Michigan, Michigan University Press. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0011-5258200000020000300034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">SANTOS, W. G. dos. (1998), <i>Décadas de Espanto e uma Apologia Democrática</i>. Rio de Janeiro, Rocco.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0011-5258200000020000300035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">SCULLY, G. W. (1992), <i>Constitutional Environments and Economic Growth</i>. Princeton, Princeton University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0011-5258200000020000300036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">SOLOW, R. A. (1956), &quot;Contribution on the Theory of Economic Growth&quot;. <i>Quarterly Journal of Economics</i>, vol. 70, pp. 65-94.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0011-5258200000020000300037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p ALIGN="left"><font size="3">WALLIS, J. e OATES, W. (1988), &quot;Does Economic Sclerosis Set in with Age? An Empirical Study of the Olson Hypothesis&quot;. <i>Kyklos</i>, vol. 41, fasc. 3, pp. 397-417.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0011-5258200000020000300038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p ALIGN="left">&nbsp;</p>      <p ALIGN="left">&nbsp;</p> <b>      <p ALIGN="left"><a name="anexo"></a><font size="3">Anexo</font></p>      <p align="left"><font size="3">Fontes dos dados:</font></p> </b>      ]]></body>
+<body><![CDATA[<p ALIGN="left"><font size="3">Dados sindicais: <i>Anuário Estatístico do IBGE</i> (1970, 1995).<br> Escolaridade Média: Lau <i>et alii</i> (1993). Anos de estudo médios da PEA.<br> PEA: <i>Anuário Estatístico do IBGE</i>.<br> PIB Estadual: Azzoni (1997).<br> População: <i>Anuário Estatístico do IBGE</i>.</font></p>      <p ALIGN="left"><font size="3">&nbsp;</font></p>      <p ALIGN="left"><font size="3">&nbsp;</font></p>      <p ALIGN="left"><font size="3"><b>ABSTRACT<br> <i>Interest Groups, Political Regimes, and Economic Growth in Brazil (1970-1995): Some Empirical Evidence </i></b><br> The article examines the impact of the density of trade unions and business associations on state growth rates in Brazil during 1970-1995. Various econometric specifications are tested, based on Mancur Olson&#146;s approach. Results corroborate Olsonian hypotheses and suggest that changes in the political environment modified the relation between these unions and associations, on the one hand, and state economic performance, on the other. <br> <b>Keywords:</b> economic growth; unions; collective action</font></p>      <p ALIGN="left">&nbsp;</p>      <p ALIGN="left"><font size="3"><b>RÉSUMÉ<br> <i>Groupes d&#146;Intérêts, Régimes Politiques et Croissance Économique au Brésil (1970-1995): Quelques Arguments Empiriques<br> </i></b>Ce travail cherche à évaluer l&#146;impact de la présence des syndicats des travailleurs et des patrons sur les taux de croissance des États au Brésil, pendant la période 1970-1995. Prenant comme point de départ l&#146;approche de Mancur Olson, plusieurs critères économétriques sont testés. Les résultats confirment les hypothèses olsoniennes et suggèrent que les changements dans le milieu politique ont modifié le rapport entre ces syndicats et les performances économiques des États.<br> <b>Mots-clé:</b> croissance économique; syndicats; action collective</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[M. H. T. de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crise Econômica e Interesses Organizados]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Edusp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMELUNG]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Determinants of Protection in Developing Countries: An Extended Interest-Group Approach]]></article-title>
+<source><![CDATA[Kyklos]]></source>
+<year>1989</year>
+<volume>42</volume>
+<page-range>515-532</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AZZONI]]></surname>
+<given-names><![CDATA[C. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Concentração Regional e Dispersão das Rendas per capita Estaduais: Análise a partir das Séries Históricas Estaduais do PIB, 1939-1945]]></article-title>
+<source><![CDATA[Estudos Econômicos]]></source>
+<year>1997</year>
+<volume>27</volume>
+<numero>3</numero>
+<issue>3</issue>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AZZONI]]></surname>
+<given-names><![CDATA[C. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Fatores Determinantes das Escolhas Locacionais em São Paulo]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Azzoni]]></surname>
+<given-names><![CDATA[C. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Onde Produzir: Aplicações da Teoria da Localização no Brasil]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[IPE/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLAUG]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic Theory in Retrospect]]></source>
+<year>1967</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOOTH]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MELLING]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DARTMANN]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Institutions and Economic Growth: The Politics of Productivity in West Germany, Sweden, and the United Kingdom (1945-1955)]]></article-title>
+<source><![CDATA[The Journal of Economic History]]></source>
+<year>1997</year>
+<volume>57</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>417-444</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUCHANAN]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Plus ça Change?: A Administração Nacional do Trabalho e a Democracia no Brasil 1985-1987]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>1989</year>
+<volume>32</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>75-123</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[A. B. de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Ajustamento X Transformação: A Economia Brasileira de 1974 a 1984]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Castro]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Souza]]></surname>
+<given-names><![CDATA[F. E. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Economia Brasileira em Marcha Forçada]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Paz e Terra]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLAGUE]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Institutions and Economic Development: Growth and Governance in Less Developed and Post-Socialist Countries]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Maryland ]]></publisher-loc>
+<publisher-name><![CDATA[The Johns Hopkins University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLAGUE]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Institutions and Economic Performance]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Clague]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Institutions and Economic Development: Growth and Governance in Less Developed and Post-Socialist Countries]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Maryland ]]></publisher-loc>
+<publisher-name><![CDATA[The Johns Hopkins University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EKELUND JR.]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOLLISON]]></surname>
+<given-names><![CDATA[R. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Politicized Economics: Monarchy, Monopoly, and Mercantilism]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Texas ]]></publisher-loc>
+<publisher-name><![CDATA[A&M]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FELDMAN]]></surname>
+<given-names><![CDATA[T. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ASSAF]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Social Capital: Conceptual Frameworks and Empirical Evidence, an Annotated Bibliography]]></article-title>
+<source><![CDATA[Working Paper]]></source>
+<year>1999</year>
+<numero>5</numero>
+<issue>5</issue>
+<publisher-name><![CDATA[Social Capital Initiative, World Bank]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FURUBOTN]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RICHTER]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Institutions and Economic Theory: The Contribution of the New Institutional Economics]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Michigan ]]></publisher-loc>
+<publisher-name><![CDATA[Michigan University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRAY]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOWERY]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Density of State Interest-Communities: Do Regional Variables Matter?]]></article-title>
+<source><![CDATA[Publius]]></source>
+<year>1998</year>
+<volume>28</volume>
+<numero>2</numero>
+<issue>2</issue>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAGGARD]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Democratic Institutions, Economic Policy, and Development]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Clague]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Institutions and Economic Development: Growth and Governance in Less Developed and Post-Socialist Countries]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Maryland ]]></publisher-loc>
+<publisher-name><![CDATA[The Johns Hopkins University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HALL]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JONES]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Productivity of the Nations]]></article-title>
+<source><![CDATA[Working Paper]]></source>
+<year>1996</year>
+<numero>5812</numero>
+<issue>5812</issue>
+<publisher-name><![CDATA[NBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HICKS]]></surname>
+<given-names><![CDATA[Sir John]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Structural Unemployment and Economic Growth: A ‘Labor Theory of Value’ Model]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Mueller]]></surname>
+<given-names><![CDATA[D. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Political Economy of Growth]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[New Haven/London ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA - IBGE</collab>
+<source><![CDATA[Anuário Estatístico do Brasil]]></source>
+<year></year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IBGE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KNACK]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Social Capital, Growth, and Poverty: A Survey of Cross Country Evidence]]></article-title>
+<source><![CDATA[Working Paper]]></source>
+<year>1999</year>
+<numero>7</numero>
+<issue>7</issue>
+<publisher-name><![CDATA[Social Capital Initiative, World Bank]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LA PORTA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Quality of Government]]></source>
+<year>1998</year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAU]]></surname>
+<given-names><![CDATA[L. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Education and Economic Growth: Some Cross-Sectional Evidence from Brazil]]></article-title>
+<source><![CDATA[Journal of Development Economics]]></source>
+<year>1993</year>
+<volume>41</volume>
+<page-range>45-70</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARSHALL]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Princípios de Economia]]></source>
+<year>1982</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Nova Cultural]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[D. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Political Economy of Growth]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[New Haven/London ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLSON JR.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Logic of Collective Action: Public Goods and the Theory of Groups]]></source>
+<year>1965</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLSON JR.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[The Rise and Decline of the Nations]]></source>
+<year>1982</year>
+<publisher-loc><![CDATA[New Haven/London ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLSON JR.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Logic of Collective Action in Soviet Type Societies]]></article-title>
+<source><![CDATA[IRIS Reprint]]></source>
+<year>1990</year>
+<numero>3</numero>
+<issue>3</issue>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLSON JR.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Hidden Path to a Successful Economy]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Clague]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rausser]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Emergence of Market Economies in Eastern Europe]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Basil Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLSON JR.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Big Bills Left on the Sidewalk: Why some Nations Are Rich, and Others Are Poor]]></article-title>
+<source><![CDATA[Journal of Economic Perspectives]]></source>
+<year>1996</year>
+<volume>10</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>3-24</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLSON JR.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The New Institutional Economics: The Collective Action Approach to Economic Development]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Clague]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Institutions and Economic Development: Growth and Governance in Less Developed and Pos-Socialist Countries]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Maryland ]]></publisher-loc>
+<publisher-name><![CDATA[The Johns Hopkins University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLSON JR.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SARNA]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SWAMY]]></surname>
+<given-names><![CDATA[A. V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Governance and Growth: A Simple Hypothesis Explaining Cross-Country Differences in Productivity Growth]]></article-title>
+<source><![CDATA[IRIS Working Paper]]></source>
+<year>1998</year>
+<numero>218</numero>
+<issue>218</issue>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ORENSTEIN]]></surname>
+<given-names><![CDATA[Luiz]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Estratégia da Ação Coletiva]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Revan/IUPERJ]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PUTNAM]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comunidade e Democracia: A Experiência da Itália Moderna]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação Getulio Vargas Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REZENDE]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Descentralização, Gastos Públicos e Preferências Alocativas dos Governos Locais no Brasil (1980-1994)]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>1997</year>
+<volume>40</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>413-440</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANDLER]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Collective Action]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Michigan ]]></publisher-loc>
+<publisher-name><![CDATA[Michigan University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[W. G. dos]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Décadas de Espanto e uma Apologia Democrática]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Rocco]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCULLY]]></surname>
+<given-names><![CDATA[G. W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Constitutional Environments and Economic Growth]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Pre]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOLOW]]></surname>
+<given-names><![CDATA[R. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Contribution on the Theory of Economic Growth]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>1956</year>
+<volume>70</volume>
+<page-range>65-94</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WALLIS]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OATES]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Does Economic Sclerosis Set in with Age?: An Empirical Study of the Olson Hypothesis]]></article-title>
+<source><![CDATA[Kyklos]]></source>
+<year>1988</year>
+<volume>41</volume>
+<page-range>397-417</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

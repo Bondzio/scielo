@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-4014</journal-id>
+<journal-title><![CDATA[Estudos Avançados]]></journal-title>
+<abbrev-journal-title><![CDATA[Estud. av.]]></abbrev-journal-title>
+<issn>0103-4014</issn>
+<publisher>
+<publisher-name><![CDATA[Instituto de Estudos Avançados da Universidade de São Paulo]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-40141994000100006</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-40141994000100006</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Dinâmica não-linear, sistemas caóticos e aplicações]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Palis]]></surname>
+<given-names><![CDATA[Jacob]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Conselho Nacional de Desenvolvimento Científico e Tecnológico Instituto de Matemática Pura e Aplicada ]]></institution>
+<addr-line><![CDATA[Rio de Janeiro ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>1994</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>1994</year>
+</pub-date>
+<volume>8</volume>
+<numero>20</numero>
+<fpage>22</fpage>
+<lpage>23</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-40141994000100006&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-40141994000100006&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-40141994000100006&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri></article-meta>
+</front><body><![CDATA[ <p align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>DOSSI&Ecirc;    CI&Ecirc;NCIA E DESENVOLVIMENTO SUSTENT&Aacute;VEL</b></font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>Din&acirc;mica    n&atilde;o-linear, sistemas ca&oacute;ticos e aplica&ccedil;&otilde;es</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Jacob Palis</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Instituto de Matem&aacute;tica    Pura e Aplicada CNPq, Rio de Janeiro, Brasil</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Muitos dos fen&ocirc;menos    da natureza podem ser modelados por processos iterativos expressos em termos    matem&aacute;ticos por (itera&ccedil;&otilde;es de) uma transforma&ccedil;&atilde;o    em certo espa&ccedil;o de eventos, representando o caso de evolu&ccedil;&atilde;o    temporal discreta ou o caso de uma evolu&ccedil;&atilde;o cont&iacute;nua por    uma equa&ccedil;&atilde;o diferencial ou um campo de vetores. Em ambas as situa&ccedil;&otilde;es,    processos iterativos s&atilde;o chamados sistemas din&acirc;micos. Considera-se    que esse campo teve in&iacute;cio com o grande matem&aacute;tico franc&ecirc;s    Henri Poincar&eacute;, h&aacute; cerca de 100 anos. Mas sua origem est&aacute;    claramente vinculada &agrave; Mec&acirc;nica Celeste e, nesse sentido, podemos    mencionar Newton, Galileu e muitos outros como pioneiros.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Dentre muitas outras    aplica&ccedil;&otilde;es, tais modelos s&atilde;o empregados na previs&atilde;o    de eventos, seja a curto, seja a longo prazo. Assim, est&aacute;-se freq&uuml;entemente    interessado no comportamento a longo prazo das solu&ccedil;&otilde;es, isto    &eacute;, no futuro das trajet&oacute;rias da transforma&ccedil;&atilde;o ou    da equa&ccedil;&atilde;o diferencial. Isso leva &agrave; no&ccedil;&atilde;o    de <i>atratores:</i> eles s&atilde;o o conjunto de eventos limitantes que exibem    a gama de possibilidades para o comportamento futuro das trajet&oacute;rias    iniciadas em diferentes pontos do espa&ccedil;o de eventos. A situa&ccedil;&atilde;o    mais simples corresponde a um atrator que consiste de um ponto fixo, o qual    &eacute; robusto sob perturba&ccedil;&otilde;es pequenas dos coeficientes da    transforma&ccedil;&atilde;o original, ou da equa&ccedil;&atilde;o diferencial    original. E como certos modelos cl&aacute;ssicos em Economia, que levam a pontos    &oacute;timos de equil&iacute;brio robusto. Considera&ccedil;&otilde;es semelhantes    aplicam-se aos atratores pontuais peri&oacute;dicos, nos quais a &oacute;rbita    de atra&ccedil;&atilde;o &eacute; peri&oacute;dica, com per&iacute;odo dado.    Atratores ainda mais complicados, mesmo que muito estruturados e robustos, foram    estudados nos anos sessenta.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com o grande desenvolvimento    das t&eacute;cnicas computacionais, esses modelos revelaram riqueza muito maior    e, na verdade, inesperado grau de incerteza quanto ao comportamento das solu&ccedil;&otilde;es    a longo prazo! Os novos atratores, descobertos nas d&eacute;cadas de 70 e 80,    receberam o nome de estranhos: a incerteza quanto ao comportamento futuro de    suas trajet&oacute;rias e suas forma e robustez s&atilde;o muito mais sutis.    Ainda assim, parecem ser muito comuns em sistemas n&atilde;o-lineares. Note    que estamos falando de sistemas determin&iacute;sticos, algumas vezes representados    por equa&ccedil;&otilde;es muito simples, como polinomiais quadr&aacute;ticas    ou de segundo grau, tais como as que, na verdade, a biologia usa como modelo    simples para crescimento de popula&ccedil;&otilde;es. Novamente, n&atilde;o    estamos introduzindo qualquer incerteza nas equa&ccedil;&otilde;es do sistema,    como na Mec&acirc;nica Qu&acirc;ntica e, apesar disso, as solu&ccedil;&otilde;es    t&ecirc;m um grau intr&iacute;nseco de incerteza: n&atilde;o se trata de ru&iacute;dos    ou limita&ccedil;&otilde;es dos experimentos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As implica&ccedil;&otilde;es    s&atilde;o imensas, tanto do ponto de vista matem&aacute;tico como da perspectiva    que podemos obter dos fen&ocirc;menos assim modelados e, at&eacute; mesmo, a    uma postura filos&oacute;fica nas Ci&ecirc;ncias. As aplica&ccedil;&otilde;es    s&atilde;o abundantes em Biologia, F&iacute;sica, Engenharia, Economia etc.</font></p>      ]]></body>
+</article>

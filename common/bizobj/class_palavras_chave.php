@@ -39,8 +39,8 @@ class class_palavras_chave {
                                 pch_idioma,
                                 art_id) 
                             VALUES ('".
-                                addslashes($this->pch_palavra)."', '"
-                                .addslashes($this->pch_idioma)."', "
+                                addslashes(utf8_decode($this->pch_palavra))."', '"
+                                .addslashes(utf8_decode($this->pch_idioma))."', "
                                 .$this->art_id.");";
             if (!$sql->query($query)) {
                 $this->error = "Error insert: ".$sql->error." | QUERY: ".$query;
@@ -51,19 +51,19 @@ class class_palavras_chave {
 	}
 	
 	function fetch() {
-		if ($row = $this->result->fetch_array(MYSQLI_ASSOC)) {
-			$this->pch_id = $row["pch_id"];
-			$this->pch_palavra = $row["pch_palavra"];
-			$this->pch_idioma = $row["pch_idioma"];
-			$this->art_id = $row["art_id"];
+            if ($row = $this->result->fetch_array(MYSQLI_ASSOC)) {
+                $this->pch_id = $row["pch_id"];
+                $this->pch_palavra = $row["pch_palavra"];
+                $this->pch_idioma = $row["pch_idioma"];
+                $this->art_id = $row["art_id"];
 			
-			$this->num_row += 1;
-			if ($this->num_row == 1)
-				$this->tot_row = $this->result->num_rows;
+                $this->num_row += 1;
+                if ($this->num_row == 1)
+                    $this->tot_row = $this->result->num_rows;
 			
-			return true;
-		} else
-			return false;
+                return true;
+            } else
+                return false;
 	}
 	
 }

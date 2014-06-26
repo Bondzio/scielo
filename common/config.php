@@ -8,13 +8,13 @@ error_reporting(E_ALL ^ E_NOTICE);
 
 session_start();
 
-/* Variáveis para acesso a base de dados local */
+/* Variï¿½veis para acesso a base de dados local */
 //$db_user = "root";
 //$db_pass = "1234";
 //$db_db = "scielo";
 //$db_server = "localhost";
 
-/* Variáveis para acesso a base de dados remota */
+/* VariÃ¡veis para acesso a base de dados remota */
 $db_user = "thyagosimas24";
 $db_pass = "abacabb123";
 $db_db = "thyagosimas24";

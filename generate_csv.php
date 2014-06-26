@@ -59,11 +59,11 @@ if ($artigos->select($sql)) {
 		$bib_autores->art_id = $artigos->art_id;
 		if ($bib_autores->select($sql)) {
                         while ($bib_autores->fetch()) {
-				$biblio_givennames .= utf8_decode($bib_autores->abi_givennames).", ";
-				$biblio_surname .= utf8_decode($bib_autores->abi_surname).", ";
+				$biblio_givennames .= $bib_autores->abi_givennames.", ";
+				$biblio_surname .= $bib_autores->abi_surname.", ";
                                 
-                                $aux = utf8_decode($bib_autores->abi_givennames);
-                                $biblio_completo .= strtoupper($aux[0]).". ".utf8_decode($bib_autores->abi_surname).", ";
+                                $aux = $bib_autores->abi_givennames;
+                                $biblio_completo .= strtoupper($aux[0]).". ".$bib_autores->abi_surname.", ";
 			}
 			$biblio_givennames = substr($biblio_givennames, 0 , -2);
 			$biblio_surname = substr($biblio_surname, 0, -2);

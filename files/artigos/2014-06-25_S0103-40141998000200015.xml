@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-4014</journal-id>
+<journal-title><![CDATA[Estudos Avançados]]></journal-title>
+<abbrev-journal-title><![CDATA[Estud. av.]]></abbrev-journal-title>
+<issn>0103-4014</issn>
+<publisher>
+<publisher-name><![CDATA[Instituto de Estudos Avançados da Universidade de São Paulo]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-40141998000200015</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-40141998000200015</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Auto-organização e complexidade: o problema do desenvolvimento do ciclo vigília-sono]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Piqueira]]></surname>
+<given-names><![CDATA[José Roberto Castilho]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Benedito-Silva]]></surname>
+<given-names><![CDATA[Ana Amélia]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade de São Paulo Escola Politécnica ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal de São Paulo Escola Paulista de Medicina ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>08</month>
+<year>1998</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>08</month>
+<year>1998</year>
+</pub-date>
+<volume>12</volume>
+<numero>33</numero>
+<fpage>197</fpage>
+<lpage>212</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-40141998000200015&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-40141998000200015&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-40141998000200015&amp;lng=en&amp;nrm=iso&amp;tlng=en"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[NESTE ARTIGO tenta-se estabelecer algumas interpretações teóricas para os conceitos de auto-organização e complexidade em sistemas biológicos, utilizando-se idéias originárias da Teoria da Informação e da Teoria dos Sistemas Dinâmicos. Além disso, apresenta-se um exemplo de aplicação dos métodos propostos ao problema da caracterização do grau de organização do ciclo vigília-sono em bebês.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[THIS ARTICLE is a trial on stablishing some theoretical formalisms for the concepts of self-organizing and complex biological systems, using ideas from Information Theory and Dynamical Systems Theory. As an example the organization of the sleep-wake cycle in babies is studied, applying the methods proposed.]]></p></abstract>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><b>TEXTOS</b></font></p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="4">Auto-organiza&ccedil;&atilde;o    e complexidade: o problema do desenvolvimento do ciclo vig&iacute;lia-sono</font></b></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Jos&eacute;    Roberto Castilho Piqueira; Ana Am&eacute;lia Benedito-Silva</font></b></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr noshade size="1">     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">RESUMO</font></b></p>     <p><font face="Verdana" size="2">NESTE ARTIGO tenta-se estabelecer algumas interpreta&ccedil;&otilde;es    te&oacute;ricas para os conceitos de auto-organiza&ccedil;&atilde;o e complexidade    em sistemas biol&oacute;gicos, utilizando-se id&eacute;ias origin&aacute;rias    da Teoria da Informa&ccedil;&atilde;o e da Teoria dos Sistemas Din&acirc;micos.    Al&eacute;m disso, apresenta-se um exemplo de aplica&ccedil;&atilde;o dos m&eacute;todos    propostos ao problema da caracteriza&ccedil;&atilde;o do grau de organiza&ccedil;&atilde;o    do ciclo vig&iacute;lia-sono em beb&ecirc;s.</font></p> <hr noshade size="1">     ]]></body>
+<body><![CDATA[<p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">ABSTRACT</font></b></p>     <p><font face="Verdana" size="2">THIS ARTICLE is a trial on stablishing some theoretical    formalisms for the concepts of self-organizing and complex biological systems,    using ideas from Information Theory and Dynamical Systems Theory. As an example    the organization of the sleep-wake cycle in babies is studied, applying the    methods proposed.</font></p> <hr noshade size="1">     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana" size="2">OS CONCEITOS DE auto-organiza&ccedil;&atilde;o    e complexidade t&ecirc;m, nos &uacute;ltimos anos, sido objeto de estudo nos    mais diversos ramos da ci&ecirc;ncia e relacionados a uma grande diversidade    de sistemas: f&iacute;sicos, biol&oacute;gicos, comportamentais, sociais, pol&iacute;ticos,    econ&ocirc;micos e culturais (Coveney &amp; Highfield, 1995).</font></p>     <p><font face="Verdana" size="2">Dentro desse panorama, interessa-nos o trabalho    sobre sistemas biol&oacute;gicos e, principalmente, a tentativa de estabelecer    rela&ccedil;&otilde;es entre conceitos da Matem&aacute;tica e da F&iacute;sica    e os fen&ocirc;menos biol&oacute;gicos, enfatizando processos e suas explana&ccedil;&otilde;es,    em vez privilegiar resultados e classifica&ccedil;&otilde;es (Gould, 1977).</font></p>     <p><font face="Verdana" size="2">Nesse sentido, um artigo sobre o assunto proposto    por Piqueira (1992) apresentou uma tentativa de definir organiza&ccedil;&atilde;o    de um sistema por meio do conceito de medida entr&oacute;pica de um sistema    din&acirc;mico. A id&eacute;ia de aplicar a Teoria de Sistemas Din&acirc;micos    a problemas biol&oacute;gicos sempre nos pareceu interessante, principalmente    levando-se em conta a possibilidade de incluir din&acirc;micas, em escalas temporais    diferentes, gerando as id&eacute;ias de din&acirc;micas r&aacute;pidas, lentas    e intermedi&aacute;rias.</font></p>     <p><font face="Verdana" size="2">Embora pass&iacute;vel de muitas cr&iacute;ticas,    o referido artigo suscitou debates proveitosos que redundaram em um segundo    (Piqueira, 1994), explorando a associa&ccedil;&atilde;o das id&eacute;ias de    complexidade e o conceito de entropia informacional (Shannon &amp; Weaver, 1949).    Ambos os artigos t&ecirc;m norteado nosso trabalho de an&aacute;lise de experimentos    biol&oacute;gicos, proporcionando-nos ind&iacute;cios do tipo de contribui&ccedil;&atilde;o    que a Matem&aacute;tica pode dar &agrave; Biologia.</font></p>     <p><font face="Verdana" size="2">A tentativa de entender complexidade e auto-organiza&ccedil;&atilde;o    levou-nos &agrave; leitura de algumas obras cl&aacute;ssicas da Biologia (Darwin,    1859; 1871) as quais, dada a nossa pobre forma&ccedil;&atilde;o no assunto,    geraram grande dificuldade e a consci&ecirc;ncia da necessidade de outra vida    para o in&iacute;cio de um melhor entendimento da Teoria da Evolu&ccedil;&atilde;o,    fundamento b&aacute;sico da Biologia moderna.</font></p>     <p><font face="Verdana" size="2">Felizmente tivemos acesso a um livro que, dada    sua clareza e qualidade cient&iacute;fica, est&aacute; nos ajudando bastante    na tarefa que temos em mente (Dawkins, 1986) e, acreditamos, ter encontrado    algumas id&eacute;ias de Biologia Evolutiva que nos pareceram pass&iacute;veis    de formaliza&ccedil;&atilde;o mediante conceitos origin&aacute;rios da Matem&aacute;tica.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">&Eacute; disso que pretendemos tratar. Discutiremos    os pontos relativos &agrave;s condi&ccedil;&otilde;es necess&aacute;rias para    caracterizar complexidade biol&oacute;gica e auto-organiza&ccedil;&atilde;o    indicados por Dawkins, procurando lhes dar o formalismo matem&aacute;tico que    nos for poss&iacute;vel.</font></p>     <p><font face="Verdana" size="2">Todas as interpreta&ccedil;&otilde;es feitas    a seguir s&atilde;o de nossa inteira responsabilidade. Caso alguma id&eacute;ia    esteja incorreta, a origem n&atilde;o foi o texto de Dawkins, mas a nossa prov&aacute;vel    incompreens&atilde;o desses conceitos.</font></p>     <p><font face="Verdana" size="2">Trataremos inicialmente da defini&ccedil;&atilde;o    de complexidade, levando em conta que, na linguagem coloquial, o termo significa    algo dif&iacute;cil de ser descrito,compreendido, montado ou concebido. Com    tais id&eacute;ias em mente, tentaremos definir complexidade por meio de seus    atributos essenciais: decomposi&ccedil;&atilde;o, heterogeneidade, auto-organiza&ccedil;&atilde;o    e adequa&ccedil;&atilde;o.</font></p>     <p><font face="Verdana" size="2">Finalizaremos com um problema de cronobiologia:    o estudo do estabelecimento do ritmo circadiano, no ciclo vig&iacute;lia-sono    de beb&ecirc;s, utilizando a medida da entropia informacional associada aos    conjuntos de dados experimentais.</font></p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3">Complexidade    e heterogeneidade</font></b></p>     <p><font face="Verdana" size="2">Nesta se&ccedil;&atilde;o procuraremos estabelecer    os fundamentos te&oacute;ricos da primeira condi&ccedil;&atilde;o necess&aacute;ria    estabelecida por Dawkins, para considerar que um dado sistema &eacute; complexo.    Essa condi&ccedil;&atilde;o, a heterogeneidade, parte da hip&oacute;tese que    um sistema &eacute; composto por partes as quais, se vistas isoladamente, n&atilde;o    d&atilde;o uma perspectiva do todo.</font></p>     <p><font face="Verdana" size="2">Aproveitaremos o exemplo de Dawkins: duas metades    de um carro n&atilde;o formam necessariamente um carro quando justapostas, superpostas    ou combinadas. Um sistema complexo &eacute; pass&iacute;vel de decomposi&ccedil;&otilde;es    sucessivas sem que nenhuma delas, isolada, traduza o comportamento do sistema.</font></p>     <p><font face="Verdana" size="2">A tentativa de coloca&ccedil;&atilde;o desse    conceito, em linguagem matem&aacute;tica, deve ser iniciada pela suposi&ccedil;&atilde;o    de que o sistema em apre&ccedil;o, embora complexo, seja pass&iacute;vel de    modelagem por meio de vari&aacute;veis de estado as quais, uma vez conhecidas,    descrevam o sistema de maneira satisfat&oacute;ria (Piqueira, 1994; Mainzer,    1994).</font></p>     <p><font face="Verdana" size="2">A seguir consideraremos que determinado sistema    pode ser decomposto em <i>m</i> partes, cada uma delas pass&iacute;vel de descri&ccedil;&atilde;o    por vari&aacute;veis de estado. A cada uma das partes estar&atilde;o associadas    <i>n<sub>i</sub></i> vari&aacute;veis de estado, com <i>i</i> assumindo valores    entre <i>1</i> e <i>m</i>.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">De acordo com esse crit&eacute;rio de indexa&ccedil;&atilde;o,    a vari&aacute;vel de estado <i>x<sub>i</sub></i>, <i>j</i> ser&aacute; a <i>j-&eacute;sima</i>    vari&aacute;vel de estado, relativa &agrave; <i>i-&eacute;sima</i> parte do    sistema, com o &iacute;ndice <i>i</i> assumindo valores de <i>1</i> at&eacute;    <i>m</i> e o &iacute;ndice <i>j</i> assumindo valores de <i>1</i> at&eacute;    <i>n<sub>i</sub></i>. Assim, a cada <i>i-&eacute;sima</i> parte do sistema estar&atilde;o    associadas <i>n<sub>i</sub></i> vari&aacute;veis de estado.</font></p>     <p><font face="Verdana" size="2">Do exposto, &eacute; poss&iacute;vel concluir    que o n&uacute;mero total de vari&aacute;veis de estado do sistema em quest&atilde;o    ser&aacute; dado por:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x1.gif"></p>     <p><font face="Verdana" size="2">Conforme discutido por Piqueira (1994), esse    n&uacute;mero pode expressar o grau de complexidade estrutural de um sistema,    uma vez que se relaciona com a dimens&atilde;o do espa&ccedil;o de estados necess&aacute;ria    para descrever o sistema.</font></p>     <p><font face="Verdana" size="2">Para expressar a heterogeneidade e a emerg&ecirc;ncia    de sistemas qualitativamente diferentes das combina&ccedil;&otilde;es de suas    partes, consideraremos que as equa&ccedil;&otilde;es din&acirc;micas de uma    certa <i>i-&eacute;sima</i> parte isolada s&atilde;o dependentes, exclusivamente,    das <i>n<sub>i</sub></i> vari&aacute;veis de estado relativas a essa parte,    de seus par&acirc;metros constitutivos e do tempo (von Bertalanffy, 1968).</font></p>     <p><font face="Verdana" size="2">Matematicamente, as equa&ccedil;&otilde;es din&acirc;micas    relativas &agrave;s vari&aacute;veis de estado e suas taxas de varia&ccedil;&atilde;o    s&atilde;o expressas como dependentes das vari&aacute;veis <i>x<sub>i</sub></i>    ,<i>j</i> , fixando-se <i>i</i> e variando-se <i>j</i>, de <i>1</i> at&eacute;    <i>n<sub>i</sub></i>. Al&eacute;m disso, entram nas equa&ccedil;&otilde;es <i>l<sub>i</sub></i>    par&acirc;metros constitutivos <font face="Symbol" size="3">l</font><i><sub>i</sub></i>,<i><sub>k</sub></i>    e a vari&aacute;vel temporal <i>t</i>.</font></p>     <p><font face="Verdana" size="2">Chamando de <i>Fi</i> cada uma das aplica&ccedil;&otilde;es    do tipo <i>F<sub>i</sub></i> : <i>R<sup>ni</sup> x R<sup>li</sup> x R</i><font face="Symbol">&reg;</font><i>R<sup>ni</sup></i>,    cada uma das <i>i</i> partes do sistema ser&aacute; descrita por <i>n<sub>i</sub></i>    equa&ccedil;&otilde;es din&acirc;micas do tipo:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x2.gif"></p>     <p><font face="Verdana" size="2">O ponto colocado sobre <i>x<sub>i</sub></i>,<i><sub>j</sub></i>    indica a derivada temporal dessa vari&aacute;vel e as equa&ccedil;&otilde;es,    na forma apresentada em (2), relacionam-se com a evolu&ccedil;&atilde;o din&acirc;mica    das partes do sistema quando consideradas isoladamente.</font></p>     <p><font face="Verdana" size="2">O fato de o sistema ser complexo implica altera&ccedil;&otilde;es    na forma dessas equa&ccedil;&otilde;es, origin&aacute;rias da reorganiza&ccedil;&atilde;o    das partes integradas, formando o sistema como um todo. Ao tentar expressar    o fato por um formalismo matem&aacute;tico, definiremos algumas vari&aacute;veis    e par&acirc;metros de maneira vetorial com o intuito de compactar a nota&ccedil;&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">Chamaremos de <i>X<sub>i</sub></i> a vari&aacute;vel    vetorial de dimens&atilde;o <i>n<sub>i</sub></i>, cujas componentes ser&atilde;o    as vari&aacute;veis <i>x<sub>i</sub></i>,<i><sub>j</sub></i>, com <i>j</i> variando    de <i>1</i> at&eacute; <i>n<sub>i</sub></i>. Da mesma maneira, chamaremos <font face="Symbol" size="3">G</font><i><sub>i</sub></i>    o vetor de dimens&atilde;o <i>l<sub>i</sub></i>, relativo aos par&acirc;metros    constitutivos da <i>i-&eacute;sima</i> parte do sistema tendo, portanto, componentes    <font face="Symbol" size="3">l</font><i><sub>i</sub></i>,<i><sub>k</sub></i>,    com <i>k</i> variando de <i>1</i> at&eacute; <i>l<sub>i</sub></i>.</font></p>     <p><font face="Verdana" size="2">De acordo com a nota&ccedil;&atilde;o estabelecida,    quando um sistema &eacute; complexo, composto de m partes associadas a vari&aacute;veis    de estado vetoriais <i>X<sub>i</sub></i>, com <i>i</i> variando de <i>1</i>    at&eacute; <i>m</i>, com equa&ccedil;&otilde;es din&acirc;micas relativas &agrave;s    partes do tipo (2), suas equa&ccedil;&otilde;es din&acirc;micas relativas ao    todo s&atilde;o do tipo:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x3.gif"></p>     <p><font face="Verdana" size="2">Na express&atilde;o (3), a rela&ccedil;&atilde;o:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x3a.gif"></p>     <p><font face="Verdana" size="2">que expressa a din&acirc;mica do sistema, cont&eacute;m,    em todos os seus componentes, todas as vari&aacute;veis de estado e par&acirc;metros    constitutivos correspondentes a todas as partes.</font></p>     <p><font face="Verdana" size="2">Dessa maneira expressamos a primeira condi&ccedil;&atilde;o    necess&aacute;ria para complexidade proposta por Dawkins: o sistema complexo    &eacute; particion&aacute;vel, suas partes t&ecirc;m a din&acirc;mica descrita    por equa&ccedil;&otilde;es do tipo (2) e o sistema, como um todo, a descrita    por equa&ccedil;&otilde;es do tipo (3).</font></p>     <p><font face="Verdana" size="2">A argumenta&ccedil;&atilde;o apresentada &eacute;    pass&iacute;vel de questionamentos matem&aacute;ticos, biol&oacute;gicos e filos&oacute;ficos.    A seguir, relacionaremos e discutiremos aqueles percebidos.</font></p>     <p><font face="Verdana" size="2">Do ponto de vista matem&aacute;tico, poderiam    ser feitos questionamentos sobre a continuidade e a diferenciabilidade das rela&ccedil;&otilde;es    <i>F<sub>i</sub></i> e <i>G<sub>i</sub></i> e, at&eacute; mesmo, sobre o fato    de elas serem ou n&atilde;o fun&ccedil;&otilde;es.</font></p>     <p><font face="Verdana" size="2">Neste estudo assumimos que tal aspecto &eacute;    irrelevante, pois n&atilde;o estamos preocupados em assegurar exist&ecirc;ncia,    unicidade, continuidade ou qualquer outra propriedade matem&aacute;tica a respeito    das supostas solu&ccedil;&otilde;es das equa&ccedil;&otilde;es. Preferimos supor    que eventuais irregularidades matem&aacute;ticas possam estar relacionadas com    imprevisibilidades e diversidades dos comportamentos biol&oacute;gicos.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">Uma interessante quest&atilde;o biol&oacute;gica    relativa a tal abordagem refere-se a se determinada vari&aacute;vel poderia    ser indicativa do estado do sistema ou de um certo par&acirc;metro constitutivo.    A resposta a esse tipo de quest&atilde;o passaria pela ado&ccedil;&atilde;o    de uma certa escala temporal.</font></p>     <p><font face="Verdana" size="2">Para um engenheiro ou para um f&iacute;sico,    o problema parece n&atilde;o existir. Vari&aacute;veis de estado s&atilde;o    grandezas f&iacute;sicas que variam rapidamente: tens&atilde;o, corrente, posi&ccedil;&atilde;o,    velocidade, acelera&ccedil;&atilde;o. Par&acirc;metros s&atilde;o grandezas    f&iacute;sicas cujas varia&ccedil;&otilde;es s&atilde;o impercept&iacute;veis,    em uma certa escala temporal: resist&ecirc;ncia, capacit&acirc;ncia, indut&acirc;ncia,    massa, densidade, momento de in&eacute;rcia.</font></p>     <p><font face="Verdana" size="2">Para o bi&oacute;logo, entretanto, a escala temporal    poder&aacute; n&atilde;o ser t&atilde;o bem definida. H&aacute; processos que    devem ser encarados de acordo com o objeto de estudo do ponto de vista de uma    escala temporal filogen&eacute;tica, ontogen&eacute;tica ou din&acirc;mica atual.    Como conseq&uuml;&ecirc;ncia, uma mesma vari&aacute;vel biol&oacute;gica pode    ser considerada indicativa do estado em uma certa escala temporal e indicativa    de par&acirc;metro constitutivo em outra.</font></p>     <p><font face="Verdana" size="2">Citaremos, a t&iacute;tulo de exemplo, a quest&atilde;o    dos ritmos circadianos estabelecidos na esp&eacute;cie humana. A filog&ecirc;nese    desses ritmos poderia ser estudada sob uma perspectiva evolutiva.</font></p>     <p><font face="Verdana" size="2">Os mesmos ritmos, entretanto, poderiam ser estudados    ontogeneticamente por meio de suas varia&ccedil;&otilde;es ao longo da vida.    H&aacute;, ainda, a preocupa&ccedil;&atilde;o de como um v&ocirc;o transmeridiano    alteraria tais ritmos em um certo indiv&iacute;duo, ao longo de uma certa viagem    (Benedito-Silva, 1993).</font></p>     <p><font face="Verdana" size="2">&Eacute; evidente que o mesmo processo de estabelecimento    de ritmos biol&oacute;gicos pode ser estudado em escalas temporais completamente    diferentes e, em cada caso, uma certa vari&aacute;vel pode ser considerada indicativa    de estado ou de par&acirc;metro constitutivo. Ressaltamos, entretanto, que isso    n&atilde;o invalida o formalismo. Tudo &eacute; uma quest&atilde;o de escolher    corretamente, em cada caso, os elementos pertencentes ao conjunto das vari&aacute;veis    <i>X</i> e os pertencentes ao conjunto dos par&acirc;metros <font face="Symbol" size="3">G</font>.</font></p>     <p><font face="Verdana" size="2">A cr&iacute;tica de um f&iacute;sico seria, talvez,    sobre a observabilidade do sistema, uma vez que o n&uacute;mero de vari&aacute;veis    de estado poderia ser muito grande, impossibilitando a abordagem nos termos    aqui propostos. A essa cr&iacute;tica n&atilde;o saber&iacute;amos responder    sem usar uma pequena evasiva: talvez pudessem ser definidas vari&aacute;veis    de estado que englobassem outras, assim como a termodin&acirc;mica trabalha,    macroscopicamente, com press&atilde;o, volume e temperatura, com o intuito de    expressar o estado de movimento de uma infinidade de mol&eacute;culas de um    g&aacute;s.</font></p>     <p><font face="Verdana" size="2">Finalmente, um fil&oacute;sofo diria que nossa    abordagem &eacute; determin&iacute;stica, com o que concordar&iacute;amos. Entretanto,    acrescentamos que a estocasticidade poderia ser introduzida, tanto nas equa&ccedil;&otilde;es    do tipo (2) como do tipo (3), considerando os par&acirc;metros como vari&aacute;veis    aleat&oacute;rias, e as fun&ccedil;&otilde;es F e G como processos estoc&aacute;sticos    (Lo&egrave;ve, 1963).</font></p>     <p><font face="Verdana" size="2">Al&eacute;m disso, h&aacute; a estocasticidade    natural origin&aacute;ria da sensibilidade &agrave;s condi&ccedil;&otilde;es    iniciais, pass&iacute;vel de aparecimento uma vez que <i>F</i> e <i>G</i> podem    perfeitamente ser n&atilde;o-lineares. Nessas condi&ccedil;&otilde;es, embora    haja equa&ccedil;&otilde;es determin&iacute;sticas modelando o fen&ocirc;meno,    seu comportamento din&acirc;mico torna-se ca&oacute;tico e, portanto, imprevis&iacute;vel    (Bai-Lin, 1990).</font></p>     <p><font face="Verdana" size="2">Outra quest&atilde;o seria tanto f&iacute;sica    e biol&oacute;gica quanto filos&oacute;fica e consideraria, em equa&ccedil;&otilde;es    como as propostas, a irreversibilidade presente em todos os processos naturais.    A quest&atilde;o poderia ser respondida pelo simples fato de as fun&ccedil;&otilde;es    <i>F</i> e <i>G</i> poderem ser dissipativas, ou seja, poderem expressar aumento    ou diminui&ccedil;&atilde;o de volume no espa&ccedil;o de estados (Ott, 1993).</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">Talvez a quest&atilde;o relativa ao fato de o    mesmo sistema biol&oacute;gico responder de maneira diferente ao mesmo est&iacute;mulo,    aplicado em momentos diferentes, seja dif&iacute;cil de responder. Acreditamos    que a resposta a essa quest&atilde;o fique por conta da sensibilidade &agrave;s    condi&ccedil;&otilde;es iniciais e das bifurca&ccedil;&otilde;es inerentes a    certos processos din&acirc;micos n&atilde;o-lineares (Ruelle, 1991).</font></p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3">Complexidade,    probabilidade,    <br>   evolu&ccedil;&atilde;o temporal: um pouco de auto-organiza&ccedil;&atilde;o</font></b></p>     <p><font face="Verdana" size="2">Nesta se&ccedil;&atilde;o trataremos de outra    condi&ccedil;&atilde;o para que, do ponto de vista biol&oacute;gico, um sistema    possa ser considerado complexo. Assumiremos que a condi&ccedil;&atilde;o expressa    anteriormente, a respeito da heterogeneidade, esteja satisfeita. Isto &eacute;,    que o sistema biol&oacute;gico complexo seja composto de partes descritas por    equa&ccedil;&otilde;es din&acirc;micas do tipo (2) e esteja agrupado de maneira    a seguir uma evolu&ccedil;&atilde;o temporal governada por equa&ccedil;&otilde;es    do tipo (3). A condi&ccedil;&atilde;o a ser discutida aqui referir-se-&aacute;    ao agrupamento das partes, atribuindo a ele um mecanismo que aparentemente n&atilde;o    seguir&aacute; apenas o acaso.</font></p>     <p><font face="Verdana" size="2">Retomando o texto de Dawkins, verificamos a exist&ecirc;ncia    de diferentes formas de se agrupar as pe&ccedil;as de um avi&atilde;o, mas apenas    uma, ou uma pequena quantidade delas, resulta efetivamente em um arranjo capaz    de satisfazer aquilo que se esperaria de um avi&atilde;o. Ou seja, por tr&aacute;s    do agrupamento das pe&ccedil;as, h&aacute; um projeto a ser satisfeito.</font></p>     <p><font face="Verdana" size="2">Analogamente, h&aacute; muitas maneiras de se    agrupar as diversas partes de um organismo complexo, mas apenas uma, ou uma    pequena quantidade delas, resultaria em algo capaz de exercer certas fun&ccedil;&otilde;es    naturais como reprodu&ccedil;&atilde;o, alimenta&ccedil;&atilde;o e adapta&ccedil;&atilde;o    ao meio ambiente.</font></p>     <p><font face="Verdana" size="2">Seria como se um sistema biol&oacute;gico complexo    tivesse sido projetado com determinada finalidade e de acordo com certas especifica&ccedil;&otilde;es.    Entretanto, tais especifica&ccedil;&otilde;es n&atilde;o foram estabelecidas    previamente, o que sugeriria a sele&ccedil;&atilde;o natural atuando na auto-organiza&ccedil;&atilde;o    (Darwin, 1859).</font></p>     <p><font face="Verdana" size="2">Do ponto de vista da formaliza&ccedil;&atilde;o    da id&eacute;ia, haveria duas coisas diferentes a serem combinadas: a grande    quantidade de arranjos poss&iacute;veis das partes e uma esp&eacute;cie de avalia&ccedil;&atilde;o    da adequa&ccedil;&atilde;o do arranjo visando uma certa finalidade.</font></p>     <p><font face="Verdana" size="2">Apesar de termos d&uacute;vidas quanto a essas    id&eacute;ias serem matematiz&aacute;veis, tentaremos faz&ecirc;-lo partindo    do pressuposto de que o sistema complexo, constitu&iacute;do das <i>m</i> partes    j&aacute; citadas e descrito pelas equa&ccedil;&otilde;es (2) e (3), resulta    de uma evolu&ccedil;&atilde;o temporal no sentido de aumento de complexidade,    ou seja, resulta naturalmente de sistemas mais simples mediante processos de    agrupamento e divis&atilde;o. A esse processo de aumento de complexidade chamaremos    de processo de auto-organiza&ccedil;&atilde;o do sistema biologicamente complexo.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">As id&eacute;ias que acabamos de expor nos levaram    a concluir pela necessidade de serem estabelecidas grandezas que pudessem medir    a complexidade de um sistema de maneira objetiva, associando valores num&eacute;ricos    &agrave;s situa&ccedil;&otilde;es pelas quais passa ao longo de sua hist&oacute;ria.</font></p>     <p><font face="Verdana" size="2">A evolu&ccedil;&atilde;o temporal dessas grandezas    deve, em princ&iacute;pio, dar uma id&eacute;ia do mecanismo de organiza&ccedil;&atilde;o    subjacente e ser aplic&aacute;vel &agrave;s mais diversas escalas temporais.    Assim, ser&aacute; poss&iacute;vel estabelecer as varia&ccedil;&otilde;es de    complexidade sob os pontos de vista filogen&eacute;tico, ontogen&eacute;tico    e da din&acirc;mica de um processo ao longo da vida de um dado sistema.</font></p>     <p><font face="Verdana" size="2">Considerando as hip&oacute;teses anteriores,    definiremos inicialmente a grandeza (<i>C<sub>e</sub></i>), que chamaremos de    complexidade estrutural. Essa complexidade (<i>C<sub>e</sub></i>) ser&aacute;    definida levando-se em conta a quantidade de partes do sistema e o n&uacute;mero    de agrupamentos poss&iacute;veis dessas partes, fazendo uso da id&eacute;ia    de entropia informacional que em alguns casos tem defini&ccedil;&atilde;o an&aacute;loga    &agrave; de entropia termodin&acirc;mica (Denis-Papin &amp; Cullmann, 1976).</font></p>     <p><font face="Verdana" size="2">Para levarmos em conta o n&uacute;mero de partes    do sistema, definiremos a grandeza <i>C<sub>1</sub></i>, que ser&aacute; denominada    complexidade estrutural parcial e dada por:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x4.gif"></p>     <p><font face="Verdana" size="2">A constante de proporcionalidade <i>k</i> e a    base da fun&ccedil;&atilde;o logar&iacute;tmica <i>b</i> podem ser escolhidas    arbitrariamente e, uma vez selecionadas, definem a unidade de complexidade utilizada.</font></p>     <p><font face="Verdana" size="2">Por uma quest&atilde;o de comodidade escolheremos    <i>k = 1, b = 2</i> e a complexidade ser&aacute; medida em <i>bits</i>. Isto    &eacute;, tentaremos medir a complexidade do sistema pelo n&uacute;mero de <i>bits</i>    que um sistema de computa&ccedil;&atilde;o precisaria memorizar para poder descrev&ecirc;-lo    (Hopf, 1988).</font></p>     <p><font face="Verdana" size="2">Para completar a defini&ccedil;&atilde;o da medida    da complexidade estrutural, conceituaremos um termo que considera os agrupamentos    poss&iacute;veis das <i>m</i> partes e a probabilidade de ocorr&ecirc;ncia de    cada um desses agrupamentos. Para tanto, ser&aacute; definida a grandeza <font size="3">    <font face="Symbol"> h</font></font>, que denominaremos &iacute;ndice de corre&ccedil;&atilde;o    da complexidade estrutural.</font></p>     <p><font face="Verdana" size="2">Consideraremos, ent&atilde;o, que as m partes    do sistema possam se agrupar de <i>Q</i> maneiras poss&iacute;veis, sendo a    cada uma delas associada uma certa probabilidade <i>p<sub>i</sub></i>. Nessas    condi&ccedil;&otilde;es ser&aacute; poss&iacute;vel definir a entropia informacional    (<i>H<sub>g</sub></i>) relativa aos agrupamentos pela equa&ccedil;&atilde;o:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x5.gif"></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">Como o m&aacute;ximo valor te&oacute;rico da    entropia informacional relativa aos agrupamentos (<i>Hgm</i>) ocorre quando    todos eles s&atilde;o eq&uuml;iprov&aacute;veis (Guiasu &amp; Theodorescu,1968),    ela &eacute; dada por:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x6.gif"></p>     <p><font face="Verdana" size="2">A partir dessa equa&ccedil;&atilde;o, definiremos    o &iacute;ndice de corre&ccedil;&atilde;o da complexidade estrutural (<font face="Symbol" size="3">h</font>)pelo    quociente entre a entropia informacional relativa aos agrupamentos (<i>H<sub>g</sub></i>)    e seu m&aacute;ximo valor te&oacute;rico (<i>H<sub>gm</sub></i>). Assim,</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x7.gif"></p>     <p><font face="Verdana" size="2">Antes de completar a defini&ccedil;&atilde;o    de complexidade estrutural (<i>C<sub>e</sub></i>) usando as grandezas definidas    pelas equa&ccedil;&otilde;es (4) e (7), procuraremos discutir o significado    de cada uma delas, enfatizando seus mecanismos de evolu&ccedil;&atilde;o temporal.</font></p>     <p><font face="Verdana" size="2">A complexidade estrutural parcial (<i>C<sub>1</sub></i>)    mede a quantidade de partes relevantes em que o sistema pode ser decomposto.    Dos pontos de vista filogen&eacute;tico e ontogen&eacute;tico &eacute; uma grandeza    que aumenta ao longo do tempo.</font></p>     <p><font face="Verdana" size="2">O &iacute;ndice de corre&ccedil;&atilde;o da    complexidade estrutural (<font face="Symbol" size="3">h</font>) &eacute; expresso    por um n&uacute;mero real, compreendido no intervalo &#91<i>0 ; 1</i>&#93; e pode ser    utilizado para expressar a adequa&ccedil;&atilde;o do sistema biol&oacute;gico    ao meio. Assim, &agrave; medida que o n&uacute;mero de agrupamentos adequados    e poss&iacute;veis diminui, o valor de <i>h</i> diminui, uma vez que as diversas    possibilidades deixam de ser eq&uuml;iprov&aacute;veis.</font></p>     <p><font face="Verdana" size="2">Tal racioc&iacute;nio permite concluir que quanto    mais complexo o sistema, maior o valor de <i>C<sub>1</sub></i> e menor o valor    de <i>h</i>, levando-nos a definir complexidade estrutural (<i>C<sub>e</sub></i>)    como:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x8.gif"></p>     <p><font face="Verdana" size="2">Para completar a defini&ccedil;&atilde;o de complexidade,    &eacute; necess&aacute;rio levar em conta os processos din&acirc;micos que podem    ocorrer no sistema por interm&eacute;dio das solu&ccedil;&otilde;es atratoras    poss&iacute;veis. Tais solu&ccedil;&otilde;es s&atilde;o relacionadas com o    regime permanente das equa&ccedil;&otilde;es din&acirc;micas dadas em (3).</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">Considerando que o n&uacute;mero de solu&ccedil;&otilde;es    atratoras poss&iacute;veis do sistema seja <i>P</i>, a complexidade funcional    do sistema (<i>C<sub>f</sub></i> ) poder&aacute; ser definida por:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x9.gif"></p>     <p><font face="Verdana" size="2">Agora ser&aacute; poss&iacute;vel definir complexidade    global do sistema (<i>C<sub>s</sub></i>) pelo produto de suas complexidades    estrutural e funcional:</font></p>     <p align="center"><img src="/img/revistas/ea/v12n33/15x10.gif"></p>     <p><font face="Verdana" size="2">A defini&ccedil;&atilde;o dada pela equa&ccedil;&atilde;o    (10) permitir&aacute; considerarmos que a grandeza <i>C<sub>s</sub></i> ser&aacute;    vari&aacute;vel no tempo e, quando seu valor for crescente, o processo evolutivo    ser&aacute; chamado de temporalmente auto-organizado.</font></p>     <p><font face="Verdana" size="2">Encerraremos esta se&ccedil;&atilde;o ressaltando    que alguns pontos importantes das id&eacute;ias de Dawkins foram discutidos.    A id&eacute;ia de complexidade, associada &agrave; grande quantidade de partes    envolvidas, foi expressa atrav&eacute;s da grandeza <i>C<sub>1</sub></i>. Al&eacute;m    disso, a diversidade de arranjos poss&iacute;veis, associada &agrave; aparente    intencionalidade do arranjo, foi expressa atrav&eacute;s da grandeza <i>h</i>.    Os comportamentos poss&iacute;veis do sistema t&ecirc;m sua multiplicidade expressa    na defini&ccedil;&atilde;o da complexidade funcional (<i>C<sub>f</sub></i> ).    Todos esses fatores, agrupados, estabelecem o conceito de complexidade global    do sistema (<i>C<sub>s</sub></i>). O aumento da complexidade global do sistema    (<i>C<sub>s</sub></i>) implica organiza&ccedil;&atilde;o do sistema nas escalas    filogen&eacute;tica, ontogen&eacute;tica e da din&acirc;mica de um dado processo.</font></p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3">A adequa&ccedil;&atilde;o    do sistema biol&oacute;gico</font></b></p>     <p><font face="Verdana" size="2">Outro ponto central no texto de Dawkins refere-se    ao sistema biol&oacute;gico complexo ser, de maneira aparentemente proposital,    arranjado de tal forma a ser adequado &agrave; execu&ccedil;&atilde;o de certas    tarefas b&aacute;sicas necess&aacute;rias &agrave; sua sobreviv&ecirc;ncia e    adapta&ccedil;&atilde;o ao meio.</font></p>     <p><font face="Verdana" size="2">Nas palavras de Dawkins, o sistema composto de    partes, aparentemente ligadas de acordo com um certo projeto, tem essas partes    relacionadas. Nessas condi&ccedil;&otilde;es, uma certa complexidade est&aacute;    associada ao sistema de maneira a torn&aacute;-lo apto a manter sua vida.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">Ao longo do tempo, o sistema biol&oacute;gico    complexo muda seus mecanismos de agrupamento e seus par&acirc;metros constitutivos,    criando para si a capacidade de aplicar certos tipos de for&ccedil;as especiais    que, sob certas circunst&acirc;ncias, podem realizar trabalho, provendo a energia    necess&aacute;ria para tarefas como nadar, voar ou andar em busca de alimento    e manuten&ccedil;&atilde;o da vida.</font></p>     <p><font face="Verdana" size="2">A tentativa de formalizar tal id&eacute;ia considera    como pressuposto b&aacute;sico, que, embora o sistema, em determinado instante    seja composto por m partes e que sua din&acirc;mica seja descrita por equa&ccedil;&otilde;es    do tipo (3), o n&uacute;mero de partes, par&acirc;metros constitutivos e mecanismos    de interliga&ccedil;&atilde;o podem variar ao longo do tempo nas suas mais diversas    escalas.</font></p>     <p><font face="Verdana" size="2">Assim, &agrave; medida que o sistema se ajusta    ao meio ao longo do tempo, os valores das grandezas <i>C<sub>1</sub></i>, <font face="Symbol" size="3">h</font>,    <i>C<sub>e</sub></i>, <i>C<sub>f</sub></i> e <i>C<sub>s</sub></i> assumem valores    vari&aacute;veis dos pontos de vista filogen&eacute;tico, ontogen&eacute;tico    e da din&acirc;mica local de um dado processo.</font></p>     <p><font face="Verdana" size="2">Do ponto de vista filogen&eacute;tico, as compara&ccedil;&otilde;es    devem ser feitas entre indiv&iacute;duos de diversas esp&eacute;cies, tomados    em situa&ccedil;&otilde;es temporais diferentes. A adequa&ccedil;&atilde;o do    sistema ao meio, viabilizando a vida, talvez seja feita com valores de <i>C<sub>1</sub></i>,    <i>C<sub>e</sub></i>, <i>C<sub>f</sub></i> e <i>C<sub>s</sub></i>, que podem    ser crescentes ou decrescentes, pois o n&uacute;mero de partes e o n&uacute;mero    de atratores poss&iacute;veis pode aumentar ou diminuir &agrave; medida que    o sistema melhora seus mecanismos de adequa&ccedil;&atilde;o ao meio. O &iacute;ndice    de corre&ccedil;&atilde;o da complexidade estrutural (<i>h</i>), entretanto,    diminui uma vez que nessas condi&ccedil;&otilde;es alguns arranjos ficam cada    vez mais prov&aacute;veis do que os outros.</font></p>     <p><font face="Verdana" size="2">Do ponto de vista ontogen&eacute;tico, as compara&ccedil;&otilde;es    devem ser feitas entre situa&ccedil;&otilde;es temporais diferentes de um mesmo    indiv&iacute;duo, que &eacute; observado em conjunto com seus diversos processos    ao longo da vida.</font></p>     <p><font face="Verdana" size="2">Considerando agora um certo processo din&acirc;mico,    ao compar&aacute;-lo instante por instante, a vari&aacute;vel <i>C<sub>f</sub></i>    &eacute; a mais relevante. Tal relev&acirc;ncia se deve ao fato de essa vari&aacute;vel    relacionar-se com os atratores do sistema, fundamentais para a descri&ccedil;&atilde;o    do comportamento particular dos processos que t&ecirc;m lugar em determinado    indiv&iacute;duo.</font></p>     <p><font face="Verdana" size="2">Todas as considera&ccedil;&otilde;es feitas at&eacute;    aqui, embora de interesse, referem-se apenas &agrave;s medidas comparativas    entre sistemas ao longo de processos de adequa&ccedil;&atilde;o ao meio ambiente.    Falta ainda expressar o que significa, do ponto de vista formal, o processo    de adequa&ccedil;&atilde;o de um sistema ao seu meio.</font></p>     <p><font face="Verdana" size="2">Talvez o mecanismo de adequa&ccedil;&atilde;o    possa ser expresso, nas escalas filogen&eacute;tica e ontogen&eacute;tica, pelo    conceito de estabilidade estrutural. Na din&acirc;mica de processos particulares    que ocorrem em um certo indiv&iacute;duo, a adequa&ccedil;&atilde;o ambiental    pode ser expressa definindo-se uma fun&ccedil;&atilde;o do vetor das vari&aacute;veis    de estado <i>X<sub>i</sub></i>, de maneira semelhante &agrave;s fun&ccedil;&otilde;es    de Liapunov, utilizadas para expressar a estabilidade de solu&ccedil;&otilde;es    atratoras em sistemas din&acirc;micos (Guckenheimer &amp; Holmes, 1983).</font></p>     <p><font face="Verdana" size="2">Para maior clareza, recorreremos a outro exemplo    citado por Dawkins. Apesar de vivermos em ambientes com as mais variadas temperaturas,    nosso sistema termo-regulador mant&eacute;m a temperatura do organismo em um    valor de aproximadamente 36,5ºC. Isso se d&aacute; por meio de mecanismos    internos de convers&atilde;o de energia qu&iacute;mica em mec&acirc;nica e t&eacute;rmica    que proporcionam condi&ccedil;&otilde;es suficientes &agrave; manuten&ccedil;&atilde;o    da temperatura ideal para a ocorr&ecirc;ncia de rea&ccedil;&otilde;es qu&iacute;micas,    caracterizando processos de controle e regula&ccedil;&atilde;o retroalimentados    (Segel, 1984).</font></p>     <p><font face="Verdana" size="2">Assim, consideraremos que um processo din&acirc;mico    particular que ocorre em um certo indiv&iacute;duo, cuja din&acirc;mica ser&aacute;    descrita por equa&ccedil;&otilde;es do tipo (3) admitindo solu&ccedil;&otilde;es    atratoras em torno das quais ser&aacute; poss&iacute;vel definir fun&ccedil;&otilde;es    de Liapunov do tipo <i>V</i> (<i>X<sub>i</sub></i>).</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">A escolha das fun&ccedil;&otilde;es de Liapunov    &eacute; em geral fundamentada no conceito de energia do sistema e sua rela&ccedil;&atilde;o    de depend&ecirc;ncia com as vari&aacute;veis de estado expressa a tend&ecirc;ncia    &agrave; estabilidade das solu&ccedil;&otilde;es atratoras. Essas fun&ccedil;&otilde;es,    em vizinhan&ccedil;as abertas das solu&ccedil;&otilde;es atratoras, devem seguir    as seguintes condi&ccedil;&otilde;es:</font></p> <ul>       <li><font face="Verdana" size="2"><i>V</i> (<i>X<sub>i</sub></i>) = 0 para todo      <i>X<sub>i</sub></i> pertencente &agrave; solu&ccedil;&atilde;o atratora.    <br>         <br>     </font></li>       <li><font face="Verdana" size="2"><i>V</i> (<i>X<sub>i</sub></i>) &gt; 0 para      todo <i>X<sub>i</sub></i> fora da solu&ccedil;&atilde;o atratora.    <br>         <br>     </font></li>       <li><font face="Verdana" size="2"><i>V</i> (<i>X<sub>i</sub></i>) &lt; 0 para      todo <i>X<sub>i</sub></i> nas vizinhan&ccedil;as da solu&ccedil;&atilde;o      atratora.</font></li>     </ul>     <p><font face="Verdana" size="2">Tais condi&ccedil;&otilde;es indicam que as solu&ccedil;&otilde;es    atratoras, correspondentes aos processos din&acirc;micos que ocorrem em sistemas    complexos, s&atilde;o assintoticamente est&aacute;veis (Guckenheimer &amp; Holmes,    1983). O racioc&iacute;nio descrito significa que os organismos, operando em    condi&ccedil;&otilde;es normais, possuem din&acirc;mica determinada por atratores    no espa&ccedil;o de estados correspondentes a condi&ccedil;&otilde;es homeost&aacute;ticas.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">Condi&ccedil;&otilde;es patol&oacute;gicas correspondem    a mudan&ccedil;as nos par&acirc;metros <font face="Symbol" size="3">G</font><i><sub>i</sub></i>    da equa&ccedil;&atilde;o do tipo (3), que descrevem o comportamento do sistema    nessa escala temporal. A mudan&ccedil;a de par&acirc;metros <font face="Symbol" size="3">G</font><i><sub>i</sub></i>    traz como conseq&uuml;&ecirc;ncia mudan&ccedil;as qualitativas nos atratores    do sistema. Os novos atratores assim formados deixam o sistema fora das condi&ccedil;&otilde;es    energ&eacute;ticas necess&aacute;rias para que os processos de controle e regula&ccedil;&atilde;o    ocorram, e requerem para seu restabelecimento que os par&acirc;metros <font face="Symbol" size="3">G</font><i><sub>i</sub></i>    voltem aos valores habituais por mecanismos end&oacute;genos e ex&oacute;genos.</font></p>     <p><font face="Verdana" size="2">A ontog&ecirc;nese desses processos poderia ser    considerada supondo-se tamb&eacute;m equa&ccedil;&otilde;es do tipo (3), cujos    par&acirc;metros <font face="Symbol" size="3">G</font><i><sub>i</sub></i> correspondentes    aos mecanismos fisiol&oacute;gicos do indiv&iacute;duo, variam ao longo da vida.    Essas varia&ccedil;&otilde;es podem ser acompanhadas por mudan&ccedil;as qualitativas,    nos processos descritos, correspondendo a bifurca&ccedil;&otilde;es (Murray,    1993).</font></p>     <p><font face="Verdana" size="2">Do ponto de vista matem&aacute;tico, tais bifurca&ccedil;&otilde;es    correspondem &agrave;s situa&ccedil;&otilde;es de instabilidade estrutural;    do ponto de vista biol&oacute;gico, &agrave; organiza&ccedil;&atilde;o ontogen&eacute;tica    do sistema complexo.</font></p>     <p><font face="Verdana" size="2">Exemplificando: um beb&ecirc;, ao nascer, possui    uma grande variedade de ritmos ultradianos na composi&ccedil;&atilde;o do espectro    de seu ciclo vig&iacute;lia-sono. &Agrave; medida que o tempo vai passando,    esses ritmos v&atilde;o diminuindo de import&acirc;ncia, estabelecendo-se como    mais significativo o circadiano. Essas mudan&ccedil;as qualitativas correspondem    a passagens de alguns par&acirc;metros neuro-biol&oacute;gicos por valores de    bifurca&ccedil;&atilde;o, alterando qualitativamente a din&acirc;mica do ciclo    vig&iacute;lia-sono (Benedito-Silva, 1993).</font></p>     <p><font face="Verdana" size="2">Na escala filogen&eacute;tica seria, talvez,    poss&iacute;vel a associa&ccedil;&atilde;o de mudan&ccedil;as qualitativas ao    longo das esp&eacute;cies, mediante bifurca&ccedil;&otilde;es globais correspondentes    a mudan&ccedil;as na forma das express&otilde;es de <i><font face="Symbol">G</font><sub>i</sub></i>,    representativas dos mecanismos din&acirc;micos gerais das equa&ccedil;&otilde;es    do tipo (3), utilizadas na modelagem dos processos biol&oacute;gicos complexos.</font></p>     <p><font face="Verdana" size="2">Assim, processos de controle e regula&ccedil;&atilde;o    descritos por equa&ccedil;&otilde;es do tipo (3) e restritos a certa fun&ccedil;&otilde;es    de Liapunov, resultam de adequa&ccedil;&atilde;o de par&acirc;metros <font face="Symbol" size="3">G</font><i><sub>i</sub></i>    ao longo da vida. A forma das equa&ccedil;&otilde;es, entretanto, resulta da    filog&ecirc;nese dos mecanismos de adequa&ccedil;&atilde;o do sistema complexo    &agrave;s condi&ccedil;&otilde;es ambientais.</font></p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3">A ontog&ecirc;nese    do ciclo vig&iacute;lia-sono</font></b></p>     <p><font face="Verdana" size="2">As id&eacute;ias te&oacute;ricas aqui apresentadas    podem ser utilizadas em problemas biol&oacute;gicos, conforme exemplificaremos    a seguir, utilizando dados a respeito do estabelecimento do ritmo circadiano    do ciclo vig&iacute;lia-sono (CVS) no in&iacute;cio da vida.</font></p>     <p><font face="Verdana" size="2">A altern&acirc;ncia entre o sono e a vig&iacute;lia    &eacute; um ritmo biol&oacute;gico cujo padr&atilde;o temporal &eacute; caracterizado    pela freq&uuml;&ecirc;ncia dessas altern&acirc;ncias. No CVS humano podem ser    detectadas simultaneamente freq&uuml;&ecirc;ncias ultradianas, correspondentes    a per&iacute;odos menores que 20 horas; circadianas, correspondentes a per&iacute;odos    maiores que 20 e menores que 28 horas; infradianas, correspondentes a per&iacute;odos    maiores que 28 horas (Halberg <i>et al</i>., 1977).</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">O padr&atilde;o temporal do CVS modifica-se ao    longo da ontog&ecirc;nese, e essas modifica&ccedil;&otilde;es apresentam varia&ccedil;&otilde;es    interindividuais importantes.</font></p>     <p><font face="Verdana" size="2">No rec&eacute;m-nascido, a altern&acirc;ncia    da vig&iacute;lia com o sono &eacute; pouco est&aacute;vel, com hor&aacute;rios    incertos de in&iacute;cio e fim, que tendem a assumir gradativamente uma organiza&ccedil;&atilde;o    circadiana, inicialmente desvinculada de fatores ambientais. A partir de certa    idade, o CVS passa a apresentar sincroniza&ccedil;&atilde;o com os ciclos ambientais,    isto &eacute;, a crian&ccedil;a passa a dormir um sono longo &agrave; noite,    fazendo uma sesta pela manh&atilde; e outra &agrave; tarde que tendem a desaparecer    com o passar do tempo.</font></p>     <p><font face="Verdana" size="2">Esse padr&atilde;o persiste durante a inf&acirc;ncia    e adolesc&ecirc;ncia, etapa do desenvolvimento em que o CVS continua com um    padr&atilde;o circadiano est&aacute;vel, mas os in&iacute;cios de sono ficam    mais incertos e passam a ocorrer mais tarde (Carskadon <i>et al</i>., 1993).</font></p>     <p><font face="Verdana" size="2">Durante a fase adulta o componente circadiano    predomina, mantendo-se est&aacute;vel e previs&iacute;vel, tendendo a se atenuar    na velhice com o aparecimento dos cochilos (Bliwise, 1993).</font></p>     <p><font face="Verdana" size="2">Parece-nos, ent&atilde;o, razo&aacute;vel descrever    o desenvolvimento do CVS por meio da medida de entropia de agrupamento (<i>H<sub>g</sub></i>)    dada em (5), considerando como partes poss&iacute;veis os diversos componentes    do espectro de freq&uuml;&ecirc;ncias.</font></p>     <p><font face="Verdana" size="2">Assim, o CVS seria inicialmente considerado inst&aacute;vel    e imprevis&iacute;vel, pois v&aacute;rios componentes do espectro de freq&uuml;&ecirc;ncias    podem aparecer, caracterizando uma certa uniformidade na distribui&ccedil;&atilde;o    de probabilidades. Com o passar do tempo o CVS migra para uma condi&ccedil;&atilde;o    mais est&aacute;vel e previs&iacute;vel com a predomin&acirc;ncia do componente    circadiano, desbalanceando a distribui&ccedil;&atilde;o de probabilidades. Na    terceira idade parece haver uma retomada parcial da condi&ccedil;&atilde;o inicial    de instabilidade e baixa previsibilidade, pois o componente circadiano se atenua    e os ultradianos ganham for&ccedil;a relativa com o aparecimento dos cochilos.</font></p>     <p><font face="Verdana" size="2">Dados de CVS de rec&eacute;m-nascidos ser&atilde;o    utilizados neste trabalho com o intuito de mostrar a aplica&ccedil;&atilde;o    da medida de entropia de agrupamento como indicativa do grau de complexidade    do sistema de temporiza&ccedil;&atilde;o ao longo do processo de estabelecimento    do padr&atilde;o circadiano.</font></p>     <p><font face="Verdana" size="2">Fundamentalmente apresentaremos uma maneira de    calcular o par&acirc;metro relacionado com a entropia de agrupamento (<i>H<sub>g</sub></i>),    mostrando que sua evolu&ccedil;&atilde;o temporal pode medir o grau de complexidade    e organiza&ccedil;&atilde;o do sistema de temporiza&ccedil;&atilde;o representado    pelo ciclo vig&iacute;lia-sono em fun&ccedil;&atilde;o do tempo. Assim, seria    esperado que <i>H<sub>g</sub></i> diminu&iacute;sse, implicando a diminui&ccedil;&atilde;o    de h. Mantidas as outras condi&ccedil;&otilde;es relativas ao processo, teremos    caracterizado um aumento de complexidade e uma conseq&uuml;ente auto-organiza&ccedil;&atilde;o.</font></p>     <p><font face="Verdana" size="2">Cinco beb&ecirc;s, tr&ecirc;s do sexo feminino    (F1, F2 e F3) e dois do sexo masculino (M1 e M2), nascidos a termo e saud&aacute;veis,    foram selecionados dentre fam&iacute;lias conhecidas (<a name="1not"></a><a href="#not1">1</a>). Foi solicitado aos    pais que observassem e anotassem todos os hor&aacute;rios de in&iacute;cio e    fim de sono desses beb&ecirc;s durante os seus tr&ecirc;s primeiros meses de    vida.</font></p>     <p><font face="Verdana" size="2">Agrupados em blocos de uma semana, esses dados    foram utilizados no c&aacute;lculo das dura&ccedil;&otilde;es dos epis&oacute;dios    de sono e de vig&iacute;lia para cada crian&ccedil;a separadamente. Tais dura&ccedil;&otilde;es    foram divididas em intervalos de 10 minutos, com o intuito de se construir s&eacute;ries    temporais com dados eq&uuml;idistantes.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana" size="2">Dessa forma, o CVS de cada crian&ccedil;a foi    semanalmente descrito por uma s&eacute;rie temporal de sete dias, na qual cada    ponto representa um estado entre dois poss&iacute;veis: ou a crian&ccedil;a    est&aacute; dormindo ou est&aacute; acordada. As s&eacute;ries temporais do    CVS das cinco crian&ccedil;as, separadas em blocos de uma semana, foram submetidas    &agrave; transformada r&aacute;pida de Fourier. Assim, produziram um periodograma    para cada semana de vida de cada crian&ccedil;a.</font></p>     <p><font face="Verdana" size="2">Os componentes espectrais presentes nos periodogramas    foram considerados no c&aacute;lculo da medida de entropia de agrupamento H<sub>g</sub>.    Em cada periodograma, cada componente espectral foi tomado como uma mensagem    que continha certa quantidade de informa&ccedil;&atilde;o relacionada &agrave;    freq&uuml;&ecirc;ncia relativa de ocorr&ecirc;ncia.</font></p>     <p><font face="Verdana" size="2">A partir da quantidade de informa&ccedil;&atilde;o    contida em cada componente espectral, calculamos a medida de entropia de agrupamento    correspondente &agrave; quantidade de informa&ccedil;&atilde;o total contida    no periodograma (2). Na <a href="#fig1">figura 1</a>, mostramos a evolu&ccedil;&atilde;o    da entropia de agrupamento (<i>H<sub>g</sub></i>), medida em bits, em fun&ccedil;&atilde;o    da idade da crian&ccedil;a, em semanas.</font></p>     <p><a name="fig1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/ea/v12n33/15f1.gif"></p>     <p>&nbsp;</p>     <p><font face="Verdana" size="2">Como pode ser observado, a medida de entropia    diminui com a idade, caracterizando um aumento na complexidade do CVS ao longo    do tempo. Apesar disso, a taxa dessa diminui&ccedil;&atilde;o varia dependendo    da crian&ccedil;a e, conseq&uuml;entemente, para uma mesma idade as crian&ccedil;as    apresentam muitas vezes H<sub>g</sub> diferentes.</font></p>     <p><font face="Verdana" size="2">Do ponto de vista biol&oacute;gico &eacute; interessante    notar ser o resultado obtido coerente: indica auto-organiza&ccedil;&atilde;o    no CVS das diversas crian&ccedil;as e ressalta as diferen&ccedil;as individuais    expressas pelos diferentes valores de H<sub>g</sub> para as diferentes crian&ccedil;as    em uma certa idade.</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3">Conclus&otilde;es</font></b></p>     <p><font face="Verdana" size="2">Tentamos relacionar as id&eacute;ias de complexidade    expostas por Dawkins com conceitos matem&aacute;ticos origin&aacute;rios da    Teoria da Informa&ccedil;&atilde;o e da Teoria dos Sistemas Din&acirc;micos,    procurando contribuir para uma modelagem n&atilde;o limitada &agrave; an&aacute;lise    de sinais.</font></p>     <p><font face="Verdana" size="2">A procura de conceitos visa estabelecer algum    corpo formal aos problemas biol&oacute;gicos, adapt&aacute;vel aos seus diversos    tipos nas diversas escalas temporais. O estudo apresentado procurou mostrar    um caso de aplica&ccedil;&atilde;o a dados biol&oacute;gicos, descrevendo fen&ocirc;menos    qualitativamente observ&aacute;veis de maneira quantitativa.</font></p>     <p><font face="Verdana" size="2">V&aacute;rias quest&otilde;es deixaram de ser    discutidas como, por exemplo, a dos n&iacute;veis de organiza&ccedil;&atilde;o,    perfeitamente compat&iacute;veis com o enfoque desse artigo e que, talvez, possam    ser objeto de estudo e de trabalhos futuros.</font></p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3">Notas</font></b></p>     <p><font face="Verdana" size="2"><a name="not1"></a><a href="#1not">1</a> Estes dados fazem parte do projeto de Inicia&ccedil;&atilde;o    Cient&iacute;fica de Clarissa Bueno, sob orienta&ccedil;&atilde;o do Prof. Dr.    Luiz Menna-Barreto, que autorizou a sua publica&ccedil;&atilde;o.</font></p>     <p><font face="Verdana" size="2">2 Os c&aacute;lculos detalhados fazem parte da    tese de doutorado de Ana Am&eacute;lia Benedito-Silva, apresentada na EP-USP.</font></p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3">Refer&ecirc;ncias    bibliogr&aacute;ficas</font></b></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana" size="2">BAI-LIN, H. Chaos II. Singapure, World Scientific    Publishing Co., 1990.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-4014199800020001500001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">BENEDITO-SILVA, A..A. <i>Ontog&ecirc;nese do    ciclo vig&iacute;lia-sono em beb&ecirc;s</i>. S&atilde;o Paulo, 1993. Disserta&ccedil;&atilde;o    (Mestrado). Escola Polit&eacute;cnica da Universidade de S&atilde;o Paulo.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-4014199800020001500002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">BERTALANFFY, L. von. <i>General systems theory.</i>    New York, George Braziller, Inc., 1968.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-4014199800020001500003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">BLIWISE, D.L. Sleep in normal aging and dementia.    <i>Sleep</i>, v.16, p. 40-81, 1993.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-4014199800020001500004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">CARSKADON, M.A.; VIEIRA, C. &amp; ACEBO, C. Association    between puberty and delayed phase reference. <i>Sleep</i>, v.16, p. 258-262,    1993.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-4014199800020001500005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">COVENEY, P. &amp; HIGHFIELD, R. <i>Frontiers    of complexity.</i> New York, Fawcett Columbine, 1995.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-4014199800020001500006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p><font face="Verdana" size="2">DARWIN, C. <i>The origin of species</i>. USA,    Mentor Book Co., 1958 &#91reprinted from 1859&#93;.</font></p>     <p><font face="Verdana" size="2">___________. <i>The descent of man</i>. New Jersey,    Princeton University Press, 1981 &#91reprinted from 1871&#93;.</font></p>     <!-- ref --><p><font face="Verdana" size="2">DAWKINS, R. <i>The blind watchmaker</i>. London,    Penguin Books, 1986.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-4014199800020001500007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">DENIS-PAPIN, M. &amp; CULLMANN, G. <i>Elementos    de c&aacute;lculo informacional</i>. Bilbao, Urmo S.A.Ediciones, 1976.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-4014199800020001500008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">GOULD, S.J. <i>Ontogeny and phylogeny</i>. Massachusetts,    The Belknap Press of Harvard University Press, 1977.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-4014199800020001500009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">GUCKENHEIMER, J. &amp; HOLMES, P. <i>Nonlinear    oscillations, dynamical systems, and bifurcation of vector fields</i>. New York,    Springer Verlag, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S0103-4014199800020001500010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">GUIASU, S. &amp; THEODORESCU, R. <i>La th&eacute;orie    math&eacute;matique de l'information</i>. Paris, Dunod, 1968.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-4014199800020001500011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">HALBERG, F.; CARADENTE, F.; CORN&Eacute;LISSEN,    G. &amp; KATINAS, G.S. Glossary of chronobiology. <i>Chronobiologia</i>, v.4,    suppl.1, p.189, 1977.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-4014199800020001500012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">HOPF, F.A. Entropy and evolution. In: <i>Entropy,    information and evolution</i>. Cambridge, Massachusetts, MIT Press, 1988.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-4014199800020001500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">LO&Egrave;VE, M. <i>Probability theory</i>. Berlin,    Springer Verlag, 1963.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-4014199800020001500014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">MAINZER, K. <i>Thinking in complexity</i>. Berlin,    Springer Verlag, 1994.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-4014199800020001500015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">MURRAY, J.D. <i>Mathematical biology</i>, 2nd.    Ed. Berlin, Springer Verlag, 1993.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-4014199800020001500016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">OTT, E. <i>Chaos in dynamical systems</i>. Massachusetts,    Cambridge University Press, 1993.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-4014199800020001500017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">PIQUEIRA, J.R.C. Estabilidade estrutural e organiza&ccedil;&atilde;o.    <i>Cole&ccedil;&atilde;o Documentos</i>. S&atilde;o Paulo, IEA-USP, jul. 1992.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-4014199800020001500018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">__________. Structural and functional complexity:    an informational approach. <i>IEEE Systems, Man and Cybernetics</i>, San Antonio,    Texas, p. 1974-1978, Oct. 1994.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-4014199800020001500019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">RUELLE, D. <i>Chance and chaos</i>. Oxford, Princeton    University Press, 1991.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0103-4014199800020001500020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana" size="2">SEGEL, L.A. <i>Modeling dynamic phenomena in    molecular and cellular biology</i>. Massachusetts, Cambridge University Press,    1984.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-4014199800020001500021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p><font face="Verdana" size="2">SHANNON, C. &amp; WEAVER, W. <i>The mathematical    theory of communication</i>, 12th printing. Chicago, University of Illinois    Press, 1971 &#91reprinted from 1949&#93;.</font></p>     <p><font face="Verdana" size="2">SHUMWAY, R.H. Applied statistical time series    analysis. New Jersey, Englewood Cliffs, Prentice-Hall, 1988.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana" size="2">Os autores agradecem ao Grupo Multidisciplinar    de Ritmos Biol&oacute;gicos do ICB-USP, ao CLE-HC da Unicamp e ao LAC da EP-USP.    Em especial, ao IEA-USP pela oportunidade de desenvolverem os semin&aacute;rios    de Biomatem&aacute;tica, fundamentais para a elabora&ccedil;&atilde;o do artigo.</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana" size="2"><i>Jos&eacute; Roberto Castilho Piqueira</i>    &eacute; professor da Escola Polit&eacute;cnica da Universidade de S&atilde;o    Paulo. E-mail: <a href="mailto:piqueira@lac.usp.br">piqueira@lac.usp.br</a>    ]]></body>
+<body><![CDATA[<br>   <i>Ana Am&eacute;lia Benedito-Silva</i> &eacute; pesquisadora da Escola Paulista    de Medicina da Universidade Federal de S&atilde;o Paulo.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAI-LIN]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Chaos II]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Singapure ]]></publisher-loc>
+<publisher-name><![CDATA[World Scientific Publishing Co.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BENEDITO-SILVA]]></surname>
+<given-names><![CDATA[A..A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ontogênese do ciclo vigília-sono em bebês]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERTALANFFY]]></surname>
+<given-names><![CDATA[L. von.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[General systems theory]]></source>
+<year>1968</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[George Braziller, Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLIWISE]]></surname>
+<given-names><![CDATA[D.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sleep in normal aging and dementia]]></article-title>
+<source><![CDATA[Sleep]]></source>
+<year>1993</year>
+<volume>16</volume>
+<page-range>40-81</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARSKADON]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ACEBO]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Association between puberty and delayed phase reference]]></article-title>
+<source><![CDATA[Sleep]]></source>
+<year>1993</year>
+<volume>16</volume>
+<page-range>258-262</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COVENEY]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HIGHFIELD]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Frontiers of complexity]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Fawcett Columbine]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DAWKINS]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The blind watchmaker]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Penguin Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DENIS-PAPIN]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CULLMANN]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Elementos de cálculo informacional]]></source>
+<year>1976</year>
+<publisher-loc><![CDATA[Bilbao ]]></publisher-loc>
+<publisher-name><![CDATA[Urmo S.A.Ediciones]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOULD]]></surname>
+<given-names><![CDATA[S.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ontogeny and phylogeny]]></source>
+<year>1977</year>
+<publisher-loc><![CDATA[Massachusetts ]]></publisher-loc>
+<publisher-name><![CDATA[The Belknap Press of Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUCKENHEIMER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOLMES]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Nonlinear oscillations, dynamical systems, and bifurcation of vector fields]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Springer Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUIASU]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THEODORESCU]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La théorie mathématique de l'information]]></source>
+<year>1968</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Dunod]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HALBERG]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARADENTE]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CORNÉLISSEN]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KATINAS]]></surname>
+<given-names><![CDATA[G.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Glossary of chronobiology]]></article-title>
+<source><![CDATA[Chronobiologia]]></source>
+<year>1977</year>
+<volume>4</volume>
+<numero>^s1</numero>
+<issue>^s1</issue>
+<supplement>1</supplement>
+<page-range>189</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOPF]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Entropy and evolution]]></article-title>
+<source><![CDATA[Entropy, information and evolution]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Cambridge^eMassachusetts Massachusetts]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOÈVE]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Probability theory]]></source>
+<year>1963</year>
+<publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAINZER]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Thinking in complexity]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MURRAY]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mathematical biology]]></source>
+<year>1993</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OTT]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Chaos in dynamical systems]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[^eMassachusetts Massachusetts]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIQUEIRA]]></surname>
+<given-names><![CDATA[J.R.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estabilidade estrutural e organização]]></source>
+<year>jul.</year>
+<month> 1</month>
+<day>99</day>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[IEA-USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIQUEIRA]]></surname>
+<given-names><![CDATA[J.R.C.]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Structural and functional complexity: an informational approach]]></source>
+<year>Oct.</year>
+<month> 1</month>
+<day>99</day>
+<page-range>1974-1978</page-range><publisher-loc><![CDATA[San Antonio ]]></publisher-loc>
+<publisher-name><![CDATA[IEEE Systems, Man and CyberneticsTexas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUELLE]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Chance and chaos]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SEGEL]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modeling dynamic phenomena in molecular and cellular biology]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[^eMassachusetts Massachusetts]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

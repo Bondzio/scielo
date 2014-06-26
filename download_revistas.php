@@ -10,39 +10,40 @@ echo "Pegando na base de dados a listagem de revistas \n";
 
 $revistas = new class_revistas;
 if ($revistas->select($sql)) {
-	while ($revistas->fetch()) {
-		$conteudo = "";
+    while ($revistas->fetch()) {
+        $conteudo = "";
 		
-		echo " - Acessando a revista: ".retirarAcento($revistas->rev_nome)."\n";
+        echo " - Acessando a revista: ".retirarAcento($revistas->rev_nome)."\n";
 		
-		$file = "files/revistas/".date("Y-m-d")."_".str_replace(array(" ",":"), "_", retirarAcento($revistas->rev_nome)).".html";
-		$handle = @fopen($revistas->rev_url, "r");
-		if ($handle) {
-			echo "  + Salvando os dados da revista offline...";
+        $file = "files/revistas/".date("Y-m-d")."_".str_replace(array(" ",":"), "_", retirarAcento($revistas->rev_nome)).".html";
+        $handle = @fopen($revistas->rev_url, "r");
+        if ($handle) {
+            echo "  + Salvando os dados da revista offline...";
 			
-			while (!feof($handle))
-				$conteudo .= fgets($handle, 4096);
-			$handle2 = fopen($file, "w+");
-			if ($handle2) {
-				fwrite($handle2, $conteudo);
-				fclose($handle2);
-				echo "[OK] \n";
-			}
+            while (!feof($handle))
+                $conteudo .= fgets($handle, 4096);
 			
-			echo "  + Atualizando a data de download da revista...";
+            $handle2 = fopen($file, "w+");
+            if ($handle2) {
+                fwrite($handle2, $conteudo);
+                fclose($handle2);
+                echo "[OK] \n";
+            }
 			
-			$revistas2 = new class_revistas;
+            echo "  + Atualizando a data de download da revista...";
 			
-			$revistas2->rev_id = $revistas->rev_id;
-			$revistas2->rev_dt_download = date("Y-m-d");
-			$revistas2->update($sql);
-			echo "[OK] \n";
+            $revistas2 = new class_revistas;
 			
-			fclose($handle);
-		}
-	}
+            $revistas2->rev_id = $revistas->rev_id;
+            $revistas2->rev_dt_download = date("Y-m-d");
+            $revistas2->update($sql);
+            echo "[OK] \n";
+			
+            fclose($handle);
+        }
+    }
 } else
-	die("N„o h· revistas cadastradas");
+    die("N√£o h√° revistas cadastradas");
 
 echo "[Fim]"
 

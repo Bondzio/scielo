@@ -157,3 +157,38 @@ CREATE TABLE palavras_chave (
 );
 
 ALTER TABLE palavras_chave ADD CONSTRAINT fk_art_pch_id 	FOREIGN KEY ( art_id ) 	REFERENCES artigos ( art_id ) ;
+
+-- ATUALIZAÇÕES 24-06-2014
+
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Brazilian Political Science Review', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=1981-3821&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Caderno CRH', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0103-4979&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Cadernos Pagu', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0104-8333&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Contexto Internacional', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0102-8529&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Horizontes Antropológicos', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0104-7183&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Mana', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0104-9313&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Novos Estudos - CEBRAP', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0101-3300&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Opinião Pública', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0104-6276&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Religião & Sociedade', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0100-8587&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Revista Brasileira de Ciência Política', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0103-3352&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Revista Brasileira de Política Internacional', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0034-7329&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Revista Estudos Feministas', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0104-026X&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Revista de Sociologia e Política', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0104-4478&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Sociologias', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=1517-4522&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Tempo Social', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0103-2070&lng=pt&nrm=iso');
+INSERT INTO revistas (rev_nome, rev_url) 
+	VALUES ('Sociedade e Estado', 'http://www.scielo.br/scielo.php?script=sci_issues&pid=0102-6992&lng=pt&nrm=iso');

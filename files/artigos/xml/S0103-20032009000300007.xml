@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032009000300007</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032009000300007</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Análise da eficiência técnica de talhões de café irrigados e não-irrigados em Minas Gerais: 2004-2006]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[Vladimir Faria dos]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vieira]]></surname>
+<given-names><![CDATA[Wilson da Cruz]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rufino]]></surname>
+<given-names><![CDATA[José Luís dos Santos]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Lima]]></surname>
+<given-names><![CDATA[João Ricardo F. de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Viçosa  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal de Viçosa Departamento de Economia Rural ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidade Federal de Viçosa Programa de Pós-Doutorado em Economia Aplicada ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Universidade Federal da Paraíba Departamento de Ciências Fundamentais e Sociais ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2009</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2009</year>
+</pub-date>
+<volume>47</volume>
+<numero>3</numero>
+<fpage>677</fpage>
+<lpage>698</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032009000300007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032009000300007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032009000300007&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este trabalho teve como objetivo mensurar a eficiência técnica de 228 talhões de café das regiões do Cerrado e Sul de Minas Gerais e identificar seus principais determinantes, considerando-se lavouras irrigadas e não-irrigadas. Para mensurar a eficiência, utilizou-se a Análise Envoltória de Dados (DEA) e, para investigar seus determinantes, empregou-se um modelo Tobit. Os resultados obtidos mostram que a maioria das lavouras cafeeiras da amostra analisada apresenta ineficiência técnica, com destaque para as não-irrigadas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The objective of this study was to measure the technical efficiency of 228 plots of coffee from the regions of the Brazilian Savannas (Cerrado) and South of Minas Gerais and to identify the determining factors of that efficiency, considering irrigated and non-irrigated crops. The analyses were carried out using both Data Envelopment Analysis (DEA) and an econometric Tobit model. The results show that most of the coffee crops present technical inefficiency and among the most inefficient are the non-irrigated crops.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Produção de café]]></kwd>
+<kwd lng="pt"><![CDATA[DEA]]></kwd>
+<kwd lng="pt"><![CDATA[modelo Tobit]]></kwd>
+<kwd lng="pt"><![CDATA[Minas Gerais]]></kwd>
+<kwd lng="en"><![CDATA[Coffee production]]></kwd>
+<kwd lng="en"><![CDATA[DEA]]></kwd>
+<kwd lng="en"><![CDATA[Tobit model]]></kwd>
+<kwd lng="en"><![CDATA[Minas Gerais]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><a name="nt01a"></a><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>An&aacute;lise da efici&ecirc;ncia t&eacute;cnica de talh&otilde;es de caf&eacute; irrigados e n&atilde;o-irrigados em Minas Gerais: 2004-2006<a href="#nt01b"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Vladimir Faria dos Santos<sup>I</sup>; Wilson da Cruz Vieira<sup>II</sup>; Jos&eacute; Lu&iacute;s dos Santos Rufino<sup>III</sup>; Jo&atilde;o Ricardo F. de Lima<sup>IV</sup></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <sup>I</sup>Economista. Doutorando em Economia Aplicada pela Universidade Federal de Vi&ccedil;osa.  E-mail: <a href="mailto:vladi_fs@yahoo.com.br">vladi_fs@yahoo.com.br</a>    <br>   <sup>II</sup>Professor Associado do Departamento de Economia Rural da Universidade Federal de  Vi&ccedil;osa. E-mail: <a href="mailto:wvieira@ufv.br">wvieira@ufv.br</a>    <br>   <sup>III</sup>Pesquisador da Embrapa em Programa de P&oacute;s-Doutorado em Economia Aplicada na  Universidade Federal de Vi&ccedil;osa. E-mail: <a href="mailto:jlsrufino@vicosa.ufv.br">jlsrufino@vicosa.ufv.br</a>    <br>   <sup>IV</sup>Professor Adjunto do Departamento de Ci&ecirc;ncias Fundamentais e Sociais da  Universidade Federal da Para&iacute;ba. E-mail: <a href="mailto:jricardo@cca.ufpb.br">jricardo@cca.ufpb.br</a></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este trabalho teve como objetivo mensurar a efici&ecirc;ncia t&eacute;cnica de 228 talh&otilde;es de caf&eacute; das regi&otilde;es do Cerrado e Sul de Minas Gerais e identificar seus principais determinantes, considerando-se lavouras irrigadas e n&atilde;o-irrigadas. Para mensurar a efici&ecirc;ncia, utilizou-se a An&aacute;lise Envolt&oacute;ria de Dados (DEA) e, para investigar seus determinantes, empregou-se um modelo <i>Tobit. </i>Os resultados obtidos mostram que a maioria das lavouras cafeeiras da amostra analisada apresenta inefici&ecirc;ncia t&eacute;cnica, com destaque para as n&atilde;o-irrigadas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chaves:</b> Produ&ccedil;&atilde;o de caf&eacute;, DEA, modelo <i>Tobit, </i>Minas Gerais. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> The objective of this study was to measure the technical efficiency of 228 plots of coffee from the regions of the Brazilian Savannas (Cerrado) and South of Minas Gerais and to identify the determining factors of that efficiency, considering irrigated and  non-irrigated crops. The analyses were carried out using both Data Envelopment Analysis (DEA) and an econometric <i>Tobit</i> model. The results show that most of the coffee crops present technical inefficiency and among the most inefficient are the non-irrigated crops. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Keywords:</b> Coffee production, DEA, Tobit model, Minas Gerais. </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O caf&eacute; &eacute; uma das mais importantes <i>commodities</i> agr&iacute;colas e movimenta  anualmente, no mercado internacional, mais de US$ 60 bilh&otilde;es (OLIVEIRA et al.,  2005). O setor cafeeiro constitui importante atividade econ&ocirc;mica, visto que gera  renda e trabalho para milhares de pessoas nos pa&iacute;ses produtores. O Brasil, Vietn&atilde;  e Col&ocirc;mbia, principais pa&iacute;ses produtores de caf&eacute;, produziram, em 2006, 69.112  mil sacas de 60 kg, o que representa mais de 55% da produ&ccedil;&atilde;o mundial do gr&atilde;o  (ABIC, 2007). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No Brasil, a economia cafeeira tem-se mostrado importante ao longo do tempo, mas sua participa&ccedil;&atilde;o relativa tem diminu&iacute;do gradativamente, com a diversifica&ccedil;&atilde;o da economia brasileira. Apesar disso, o caf&eacute; continua sendo um produto de destaque, sobretudo pela gera&ccedil;&atilde;o de divisas. De acordo com o Conselho dos Exportadores de Caf&eacute;, Cecaf&eacute; (2007), o Brasil embarcou, em 2006, cerca de 27,3 milh&otilde;es de sacas de 60 kg, gerando uma receita de quase US$ 3,3 bilh&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Minas Gerais &eacute; o maior produtor brasileiro do gr&atilde;o. Na safra 2006/2007, o estado produziu 21.987 mil sacas de 60 kg, o que corresponde a 51 % do total do Pa&iacute;s (CONAB, 2007). Dessa forma, o caf&eacute; tem contribu&iacute;do, significativamente, para a gera&ccedil;&atilde;o de riqueza no estado mineiro. De acordo com o Banco de Desenvolvimento de Minas Gerais, o BDMG (2002), o setor cafeeiro participa com cerca de 26% do Produto Interno Bruto agropecu&aacute;rio de Minas Gerais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Atualmente, a tecnologia da irriga&ccedil;&atilde;o permite que o estado de Minas Gerais  produza caf&eacute; de alta qualidade em regi&otilde;es anteriormente consideradas  impr&oacute;prias devido ao elevado d&eacute;ficit h&iacute;drico, destacando-se o Tri&acirc;ngulo Mineiro  e o Alto Parana&iacute;ba. No Brasil, o uso da irriga&ccedil;&atilde;o na cafeicultura &eacute; crescente -  estimativas indicam que essa t&eacute;cnica j&aacute; atinge cerca de 10% da cafeicultura  brasileira, totalizando 200.000 ha. Desse total, cerca de 25% situa-se em Minas  Gerais (MANTOVANI, 2007; e EMBRAPA, 1999).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A irriga&ccedil;&atilde;o apresenta muitas vantagens, entre estas, eleva&ccedil;&atilde;o da produ&ccedil;&atilde;o e da produtividade e decr&eacute;scimo do risco clim&aacute;tico (BERNARDO et al., 2005). Diante da elevada concorr&ecirc;ncia no setor cafeeiro e da constante oscila&ccedil;&atilde;o dos pre&ccedil;os, a efici&ecirc;ncia produtiva pode ser considerada um dos fatores primordiais para que o cafeicultor permane&ccedil;a em sua atividade. Assim, a an&aacute;lise da efici&ecirc;ncia pode ser importante tanto para fins de planejamento, quanto para tomadas de decis&otilde;es que visam uma melhor gest&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diante do exposto, objetivou-se, neste trabalho, investigar o desempenho de 228 talh&otilde;es de caf&eacute; (irrigados e n&atilde;o-irrigados) das regi&otilde;es do Cerrado e Sul de Minas Gerais e identificar aquelas lavouras que podem ser consideradas (in)eficientes em seus processos produtivos. Especificamente, buscou-se mensurar os graus de (in)efici&ecirc;ncia t&eacute;cnica de unidades de produ&ccedil;&atilde;o irrigadas e n&atilde;o-irrigadas e identificar os principais determinantes dessa (in)efici&ecirc;ncia. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Metodologia </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para alcan&ccedil;ar os objetivos propostos, utilizou-se, primeiramente, a t&eacute;cnica n&atilde;o-param&eacute;trica An&aacute;lise Envolt&oacute;ria de Dados (DEA) para mensurar a efici&ecirc;ncia t&eacute;cnica e, em seguida, um modelo econom&eacute;trico <i>Tobit </i>para identificar os fatores que determinam tal (in)efici&ecirc;ncia. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entende-se por efici&ecirc;ncia a capacidade de alcan&ccedil;ar objetivos por meio de  uma rela&ccedil;&atilde;o desej&aacute;vel entre insumos e produtos ou, em outras palavras, a  exist&ecirc;ncia de m&aacute;xima produtividade dos insumos empregados e/ou do m&iacute;nimo  custo na obten&ccedil;&atilde;o do produto (PASCUAL, 2000). A efici&ecirc;ncia refere-se, portanto,  ao modo como os agentes econ&ocirc;micos alcan&ccedil;am, da melhor forma poss&iacute;vel, os  objetivos de produ&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As medidas de efici&ecirc;ncias s&atilde;o representadas, geralmente, por uma fun&ccedil;&atilde;o de  fronteira constru&iacute;da no sistema de coordenadas, sendo eficientes as unidades de  produ&ccedil;&atilde;o que se posicionam sobre essa fronteira (FERREIRA, 2005). Nesse  sentido, uma medida de efici&ecirc;ncia &eacute; obtida ao mensurar a dist&acirc;ncia que uma  firma se encontra da fronteira de produ&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><b>2.1. Mensura&ccedil;&atilde;o da efici&ecirc;ncia t&eacute;cnica </b></i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A t&eacute;cnica n&atilde;o-param&eacute;trica DEA, desenvolvida inicialmente por Charnes et al. (1978), tem o objetivo de mensurar a efici&ecirc;ncia de unidades tomadoras de decis&atilde;o, denominadas DMUs <i>(Decision Making Units), </i>na presen&ccedil;a de <i>inputs </i>(recursos ou insumos) e <i>outputs </i>(produtos) comuns. De acordo com Charnes et al. (1978), esses <i>outputs </i>e <i>inputs, </i>normalmente, s&atilde;o m&uacute;ltiplos em car&aacute;ter e podem tamb&eacute;m assumir diversas formas, por exemplo, medidas ordinais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Essas efici&ecirc;ncias, calculadas por meio da DEA, s&atilde;o obtidas pela programa&ccedil;&atilde;o  matem&aacute;tica, na qual s&atilde;o constru&iacute;das fronteiras de efici&ecirc;ncias. &Eacute; a partir dessas  fronteiras que se verificam a efici&ecirc;ncia relativa das DMUs e as medidas, se for o  caso, a serem tomadas para se chegar a tal situa&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na DEA h&aacute; dois modelos cl&aacute;ssicos: o CCR e o BCC<a name="nt02a"></a><a href="#nt02b"><sup>2</sup></a>. O primeiro pressup&otilde;e  tecnologias com retornos constantes &agrave; escala, enquanto o segundo pressup&otilde;e  retornos vari&aacute;veis &agrave; escala. Neste trabalho, foram utilizados os dois modelos,  sendo aplicados com orienta&ccedil;&atilde;o insumo, isto &eacute;, dando &ecirc;nfase na redu&ccedil;&atilde;o de  insumos, sem, no entanto, comprometer o n&iacute;vel de produ&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No que se refere ao modelo CCR, tem-se, segundo Coelli et al. (1998), a seguinte formula&ccedil;&atilde;o matem&aacute;tica: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for01.gif"></p> <table width="189" border="0" cellspacing="0" cellpadding="0">   <tr>     <td width="71" valign="top"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sujeito a:</font></td>     <td width="118" valign="top"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> - <i>y<sub>i</sub></i> + <i>Y</i> </font>&#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <u>&gt;</u> 0</font></td>   </tr>   <tr>     <td valign="top">&nbsp;</td>     <td valign="top">&#952;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <img src="/img/revistas/resr/v47n3/xcar.gif"><i><sub>i</sub></i> - <i>X</i> </font>&#955; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><u>&gt;</u>0</font></td>   </tr>   <tr>     <td valign="top">&nbsp;</td>     <td valign="top">&#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <u>&gt;</u> 0</font></td>   </tr> </table>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que </font>&#952; <font size="2" face="Verdana, Arial, Helvetica, sans-serif">&eacute; um escalar, cujo valor ser&aacute;a medida de efici&ecirc;ncia da <i>i-&eacute;sima</i> DMU. Caso o valor de </font>&#952; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> seja igual a um, a DMU ser&aacute; considerada eficiente; caso contr&aacute;rio, ser&aacute; ineficiente. O par&acirc;metro </font>&#955; <font size="2" face="Verdana, Arial, Helvetica, sans-serif">&eacute; um vetor de constantes <i>n<img src="/img/revistas/resr/v47n3/xcar.gif">1, </i>em que os valores s&atilde;o calculados para obter a solu&ccedil;&atilde;o &oacute;tima. Caso uma DMU seja eficiente, todos os valores de </font>&#955; <font size="2" face="Verdana, Arial, Helvetica, sans-serif">ser&atilde;o zero; para uma DMU ineficiente, os valores de </font>&#955; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> ser&atilde;o os pesos utilizados na combina&ccedil;&atilde;o linear de outras DMUs eficientes que influenciam a proje&ccedil;&atilde;o da DMU ineficiente sobre a fronteira calculada; <i>y<sub>i</sub> </i>&eacute; um vetor <i>(m<img src="/img/revistas/resr/v47n3/xcar.gif" align="absmiddle">1) </i>de quantidade de produtos da <i>i-&eacute;sima</i> DMU; <i><img src="/img/revistas/resr/v47n3/xcar.gif" align="absmiddle"><sub>i</sub></i> &eacute; um vetor (k<img src="/img/revistas/resr/v47n3/xcar.gif" align="absmiddle">1) de insumos da <i>i-&eacute;sima</i> DMU; <i>Y</i> &eacute; uma matriz de produtos, de dimens&atilde;o <i>(n <img src="/img/revistas/resr/v47n3/xcar.gif" align="absmiddle"> m); X</i> &eacute; uma matriz de insumos, de dimens&atilde;o <i>(n <img src="/img/revistas/resr/v47n3/xcar.gif" align="absmiddle" > k). </i>Nota-se que o problema de programa&ccedil;&atilde;o linear deve ser resolvido <i>n </i>vezes, um para cada DMU, visto que </font>&#952; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> deve ser obtido para cada DMU (COELLI et al., 1998), </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo com retornos constantes ser&aacute; apropriado apenas quando todas as  firmas (DMUs) estiverem operando em escala &oacute;tima; todavia, em competi&ccedil;&atilde;o  imperfeita, pode haver DMUs que n&atilde;o estejam operando nessas condi&ccedil;&otilde;es.  Dessa forma, o uso do modelo CCR, quando nem todas as DMUs estiverem  operando em escala &oacute;tima, resulta em medidas de efici&ecirc;ncia t&eacute;cnica que se  confundem com efici&ecirc;ncia de escala. Assim, o uso do modelo BCC permite o  c&aacute;lculo das efici&ecirc;ncias t&eacute;cnicas livres desses efeitos de escala (COELLI et al., 1998)</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para incorporar os retornos vari&aacute;veis &agrave;s DMUs analisadas, deve-se fazer uma reformula&ccedil;&atilde;o no modelo CCR, incluindo uma restri&ccedil;&atilde;o de convexidade. Essa restri&ccedil;&atilde;o &eacute; a &uacute;nica diferen&ccedil;a entre os modelos CCR e BCC. Portanto, de acordo com Coelli et al. (1998), o modelo com retornos vari&aacute;veis &agrave; escala (BCC) pode ser representado da seguinte forma: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for02.gif"></p> <table width="180" border="0" cellspacing="0" cellpadding="0">   <tr>     <td width="75"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sujeito a:</font></td>     <td width="105"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i> - y<sub>i</sub> </i>+ <i>Y </i></font>&#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <u>&gt;</u> 0</font></td>   </tr>   <tr>     <td>&nbsp;</td>     <td>&#952; <img src="/img/revistas/resr/v47n3/xcar.gif" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub><i>i </i></sub>- X </font>&#955; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><u>&gt;</u> 0</font></td>   </tr>   <tr>     <td>&nbsp;</td>     <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>N</i><img src="/img/revistas/resr/v47n3/um.gif" align="absmiddle"> </font>&#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> =1 </font></td>   </tr>   <tr>     <td>&nbsp;</td>     <td>&#955; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><u>&gt;</u> 0 </font></td>   </tr> </table>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que<i> N</i><sub>1 </sub>&eacute; um vetor <i>n </i><img src="/img/revistas/resr/v47n3/xcar.gif" align="absmiddle"> 1 de algarismos unit&aacute;rios. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por meio dos modelos CCR e BCC, &eacute; poss&iacute;vel encontrar os valores de  efici&ecirc;ncia de escala para cada unidade analisada. Assim, segundo Coelli et al.  (1998), se os valores de efici&ecirc;ncia t&eacute;cnica encontrados nos dois modelos (CCR e  BCC) forem diferentes, para dada DMU, ela ter&aacute; inefici&ecirc;ncia de escala. Ao  contr&aacute;rio, se forem iguais, significa que a DMU estar&aacute; operando na escala &oacute;tima.  Algebricamente, pode-se calcular a efici&ecirc;ncia/inefici&ecirc;ncia de escala pela raz&atilde;o  entre os escores de efici&ecirc;ncia t&eacute;cnica com retornos constantes e vari&aacute;veis:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for03.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <i>ET<sub>CCR</sub> </i>&eacute; a efici&ecirc;ncia t&eacute;cnica sob retornos constantes; <i>ET<sub>BCC</sub> </i>&eacute; a efici&ecirc;ncia t&eacute;cnica sob retornos vari&aacute;veis; e <i>ES</i> &eacute; a efici&ecirc;ncia de escala. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com Coelli et al. (1998), uma falha dessa medida de efici&ecirc;ncia de escala &eacute; que ela n&atilde;o indica se a firma (DMU) est&aacute; operando na &aacute;rea de retornos crescentes ou retornos decrescentes. Para contornar isso, &eacute; necess&aacute;rio formular outro problema de programa&ccedil;&atilde;o linear, a qual &eacute; imposta a pressuposi&ccedil;&atilde;o de retornos n&atilde;o-crescentes; para isso, &eacute; necess&aacute;rio substituir, no modelo (2), a restri&ccedil;&atilde;o <i>N</i><img src="/img/revistas/resr/v47n3/um.gif" align="absmiddle"> </font>&#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = 1 pela restri&ccedil;&atilde;o <i>N</i><img src="/img/revistas/resr/v47n3/um.gif" align="absmiddle"> </font>&#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <u>&gt;</u> 1, isto &eacute;, </font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for04.gif"></p> <table width="186" border="0" cellspacing="0" cellpadding="0">   <tr>     <td width="81"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sujeito a:</font></td>     <td width="127"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>- y<sub>i</sub> </i>+ <i>Y</i></font> &#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <u>&gt;</u> 0,</font></td>   </tr>   <tr>     <td>&nbsp;</td>     <td>&#952; <img src="/img/revistas/resr/v47n3/xcar.gif"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub><i>i</i></sub><i> - X</i> </font> &#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <u>&gt;</u> 0, </font></td>   </tr>   <tr>     <td>&nbsp;</td>     <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>N<img src="/img/revistas/resr/v47n3/um.gif" align="absmiddle"></i></font> &#955;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <u>&gt;</u> 1 </font></td>   </tr>   <tr>     <td>&nbsp;</td>     <td>&#955; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><u> &gt;</u> 0 </font></td>   </tr> </table>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nesse contexto, para identificar se a DMU est&aacute; operando com retornos crescentes ou decrescentes, deve-se comparar o resultado encontrado para efici&ecirc;ncia t&eacute;cnica, no modelo com retornos vari&aacute;veis (RV), com o encontrado no modelo com retornos n&atilde;o-crescentes (RNC), isto &eacute;, se ET<sub>RNC</sub> = ET<sub>RV</sub> implica retornos decrescentes. Alternativamente, se ET<sub>RNC <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" align="absmiddle"></sub>ET<sub>RV'</sub> implica retornos crescentes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mais importante do que verificar se uma DMU &eacute; eficiente, &eacute; encontrar os determinantes que a levaram a ocupar essa posi&ccedil;&atilde;o. Diante disso, utilizou-se, neste trabalho, um modelo econom&eacute;trico para identificar quais fatores foram relevantes para explicar os n&iacute;veis de efici&ecirc;ncia. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><b>2.2. Determinantes da (in)efici&ecirc;ncia </b></i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os escores de efici&ecirc;ncia no modelo DEA t&ecirc;m valores m&aacute;ximos iguais a 1.  V&aacute;rias DMUs da amostra atingem esse valor; por isso, o regressor em um modelo  para explicar a efici&ecirc;ncia fica limitado a um teto igual a 1, ou seja, &eacute; truncado nesse  valor (GON&Ccedil;ALVES et al., 2008). O modelo <i>Tobit</i> &eacute; uma alternativa aos M&iacute;nimos  Quadrados Ordin&aacute;rios (MQO) e &eacute; empregado quando a vari&aacute;vel dependente &eacute;  truncada.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nos anos recentes, o modelo <i>Tobit </i>tem sido utilizado conjuntamente com a an&aacute;lise DEA para verificar os determinantes da efici&ecirc;ncia. Entre os trabalhos que utilizam esses dois modelos anal&iacute;ticos, citam-se os de Chilingerian (1995), Kirjavainen e Loikkanen (1998), Jackson e Fethi (2000), Fethi et al. (2002), Hoff (2007), entre outros.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com Greene (2003), a formula&ccedil;&atilde;o geral do modelo <i>Tobit </i>&eacute;, normalmente, dada pela fun&ccedil;&atilde;o &iacute;ndice:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for05.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <img src="/img/revistas/resr/v47n3/ycar.gif" align="absmiddle" >&eacute; a vari&aacute;vel-&iacute;ndice, tamb&eacute;m conhecida como vari&aacute;vel latente; <i>X<sub>i</sub></i> representa o vetor das vari&aacute;veis explicativas; e </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> &eacute; o vetor dos par&acirc;metros a ser estimado. Assume-se que </font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>i</sub></i> seja normalmente distribu&iacute;do, com m&eacute;dia zero e vari&acirc;ncia constante, </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>2</sup>, ou seja, (</font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> &#126; N(0, </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>2</sup>)). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Apesar de o escore de efici&ecirc;ncia possuir limite superior igual a um, Greene (1993) sugeriu usar a truncagem em zero. Portanto, o escore de efici&ecirc;ncia da DEA &eacute; transformado e o valor truncado &eacute; concentrado em zero e isso pode ser feito usando a seguinte f&oacute;rmula: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for06.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O escore da DMU de efici&ecirc;ncia igual a 1 &eacute; transformado para zero. Com essa transforma&ccedil;&atilde;o, os escores menores que 1 tornam-se valores positivos. Dessa forma, a equa&ccedil;&atilde;o estimada (5) revela quais as vari&aacute;veis que reduzem a inefici&ecirc;ncia.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diante do exposto, o modelo <i>Tobit </i>padr&atilde;o pode ser definido da seguinte forma, para a observa&ccedil;&atilde;o <i>i</i>:</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se<img src="/img/revistas/resr/v47n3/ycar.gif" align="absmiddle"> &gt; 0, ent&atilde;o <i>y<sub>i</sub></i> = <img src="/img/revistas/resr/v47n3/ycar.gif" align="absmiddle" >* </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se<img src="/img/revistas/resr/v47n3/ycar.gif" align="absmiddle"> <u>&lt;</u> 0, ent&atilde;o <i>y<sub>i</sub></i> = 0</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Normalmente, a t&eacute;cnica padr&atilde;o para estimar o modelo <i>Tobit</i> &eacute; a da m&aacute;xima   verossimilhan&ccedil;a. Assim, de acordo com Johnston e Dinardo (1997), para as   observa&ccedil;&otilde;es em que <img src="/img/revistas/resr/v47n3/ycar.gif" align="absmiddle"> <u>&lt;</u> 0, a contribui&ccedil;&atilde;o da verossimilhan&ccedil;a ser&aacute; dada por Prob   (<img src="/img/revistas/resr/v47n3/ycar.gif" align="absmiddle"> <u>&gt;</u> 0), que &eacute;:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for07.gif" ></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Padronizando as vari&aacute;veis em (7), obt&eacute;m-se:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for08.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para uma observa&ccedil;&atilde;o <img src="/img/revistas/resr/v47n3/ycar.gif" align="absmiddle">&gt; 0, a contribui&ccedil;&atilde;o para a verossimilhan&ccedil;a &eacute;:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for09.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que </font>&#934;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">( ) &eacute; a fun&ccedil;&atilde;o de distribui&ccedil;&atilde;o cumulativa normal padr&atilde;o; e </font>&#248;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">( ) &eacute; a   fun&ccedil;&atilde;o de densidade probabilidade normal padr&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Considerando esses dois componentes, pode-se formar a fun&ccedil;&atilde;o de   verossimilhan&ccedil;a:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n3/a07for10.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Logaritimizando a equa&ccedil;&atilde;o (10), tem-se a fun&ccedil;&atilde;o de log-verossimilhan&ccedil;a:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for11.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que a primeira soma se refere ao conjunto de observa&ccedil;&otilde;es, no qual <i>y<sub>i</sub></i> = 0, e   a segunda, ao conjunto de observa&ccedil;&otilde;es, em que <i>y<sub>i</sub></i> &gt; 0.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No tocante ao efeito marginal, tem-se, segundo Greene (2003), a seguinte   equa&ccedil;&atilde;o:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07for12.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O efeito marginal fornece, de forma geral, o impacto de cada vari&aacute;vel na   probabilidade de a DMU ser eficiente.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para avaliar o modelo <i>Tobit </i>como um todo, foi usado o teste de raz&atilde;o de verossimilhan&ccedil;a (LR <i>statistic). </i>A interpreta&ccedil;&atilde;o desse teste &eacute; semelhante ao teste F utilizado em modelos de m&iacute;nimos quadrados ordin&aacute;rios, ou seja, pelo teste LR <i>statistic </i>verifica-se se as vari&aacute;veis explicativas inclu&iacute;das no modelo influ&ecirc;ncia, conjuntamente, a vari&aacute;vel dependente. O LR <i>statistic </i>&eacute; igual a 2 (FVLI - FVLR), em que FVLI &eacute; a fun&ccedil;&atilde;o verossimilhan&ccedil;a em <i>log</i> irrestrita, obtida por meio da regress&atilde;o formada pelos coeficientes e pelo intercepto; e FVLR &eacute; a fun&ccedil;&atilde;o verossimilhan&ccedil;a em <i>log </i>com restri&ccedil;&atilde;o, na qual se consideram todos os coeficientes de inclina&ccedil;&atilde;o iguais a zero, mantendo apenas o intercepto. A estat&iacute;stica do teste segue a distribui&ccedil;&atilde;o de qui-quadrado (<img src="/img/revistas/resr/v47n3/xmcar.gif" align="absmiddle"><sup>2</sup>), com graus de liberdade iguais ao n&uacute;mero de coeficientes. As conclus&otilde;es procedem da seguinte maneira: se LR &gt; <img src="/img/revistas/resr/v47n3/xmcar.gif" align="absmiddle"><sup>2</sup> tabelado, implica que a regress&atilde;o ser&aacute; v&aacute;lida como um todo, ou seja, haver&aacute; pelo menos uma vari&aacute;vel explicativa inserida no modelo que exercer&aacute; algum tipo de influencia sobre a vari&aacute;vel explicada. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>2.3. Fonte </i>e <i>tratamento dos dados</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os dados foram obtidos do Educampo-Caf&eacute;, que &eacute; um projeto de   desenvolvimento conduzido pelo Sebrae-MG, em parceria com treze   associa&ccedil;&otilde;es de produtores de caf&eacute; (listadas no Quadro 1A do Anexo), que tem o   objetivo de orientar grupos de produtores rurais, por meio da capacita&ccedil;&atilde;o   t&eacute;cnica e gerencial, sobre aspectos econ&ocirc;micos e sociais, tornando-os mais   eficientes e competitivos.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste trabalho, foram utilizadas informa&ccedil;&otilde;es sobre a m&eacute;dia de dois anos agr&iacute;colas consecutivos (2004/05 e 2005/06). Foram utilizados dados de 228 talh&otilde;es de caf&eacute; das regi&otilde;es do Cerrado e Sul de Minas Gerais, os quais foram divididos em duas subamostras: os que utilizam a irriga&ccedil;&atilde;o na produ&ccedil;&atilde;o, que inclui 89 talh&otilde;es com &aacute;rea m&eacute;dia de 25,12 ha, e os que n&atilde;o utilizam essa tecnologia, que inclui 139 talh&otilde;es com &aacute;rea m&eacute;dia de 16,3 ha. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No enfoque do projeto Educampo-Caf&eacute;, o talh&atilde;o refere-se a determinada   &aacute;rea da lavoura cafeeira que pode ser considerada homog&ecirc;nea, por ter a mesma   variedade de caf&eacute; plantada na mesma data, em um solo de caracter&iacute;sticas f&iacute;sicas,   qu&iacute;micas e topogr&aacute;ficas semelhantes, al&eacute;m de receber o mesmo manejo   agron&ocirc;mico e o mesmo tratamento administrativo. O talh&atilde;o &eacute; o Centro de Custo   do Projeto, ou seja, &eacute; a unidade para a qual se registram dados, elaboram   indicadores, efetuam as an&aacute;lises de desempenho e s&atilde;o propostas medidas de   adequa&ccedil;&atilde;o ao &acirc;mbito do projeto Educampo-Caf&eacute;.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A metodologia empregada pelo projeto Educampo-Caf&eacute; prev&ecirc; que um engenheiro agr&ocirc;nomo acompanhe entre 15 e 20 propriedades cafeeiras. O levantamento das informa&ccedil;&otilde;es &eacute; feito mediante a utiliza&ccedil;&atilde;o de um programa de computador, elaborado para essa finalidade.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Deve-se ressaltar que nas duas subamostras de talh&otilde;es foi aplicado o modelo   DEA, sendo os talh&otilde;es considerados como DMUs neste trabalho.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para aplicar o modelo DEA, foi considerado como output (Y) o Valor Bruto da   Produ&ccedil;&atilde;o (VBP), enquanto os <i>inputs</i> (X's) foram definidos com base no m&eacute;todo   I-O <i>stepwise</i>, de sele&ccedil;&atilde;o de vari&aacute;veis. Os resultados da aplica&ccedil;&atilde;o deste m&eacute;todo   podem ser observados nos Quadros 2A a 9A, contidas no Anexo<a name="nt03b"></a><a href="#nt03a"><sup>3</sup></a>. Na aplica&ccedil;&atilde;o do   m&eacute;todo I-O <i>stepwise</i> consideraram-se, a princ&iacute;pio, cinco <i>inputs</i>, dos quais foram   selecionados os seguintes: </font></p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">     <blockquote>       <p>&#149; M&atilde;o-de-obra total envolvida na atividade (MDO), em R$;</p>       <p> &#149; Gasto com aduba&ccedil;&atilde;o (GA), em R$; </p>       <p>&#149; Gasto com colheita e p&oacute;s-colheita (GC), em R$; e</p>       <p> &#149; Energia e combust&iacute;vel (EC), em R$.</p> </blockquote> </font>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em m&eacute;dia, esses insumos correspondem, aproximadamente, a 78% dos   gastos realizados nos talh&otilde;es da amostra.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> As vari&aacute;veis explicativas, inclu&iacute;das no modelo econom&eacute;trico, foram definidas   de acordo com a sua import&acirc;ncia no processo produtivo do caf&eacute;. Segundo Reis et   al. (2005), a fun&ccedil;&atilde;o de produ&ccedil;&atilde;o de uma lavoura de caf&eacute; &eacute; composta pelos   seguintes insumos: terra, capital (m&aacute;quinas, equipamentos e benfeitorias),   m&atilde;o-de-obra (fixa e tempor&aacute;ria), custo de forma&ccedil;&atilde;o da lavoura e outros insumos   (adubos, herbicidas, fungicidas e inseticidas). Com base nesse trabalho,   definiram-se as seguintes vari&aacute;veis:</font></p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">     <blockquote>       <p> &#149; Produtividade da m&atilde;o-de-obra, medida pela receita total/gastos com     m&atilde;o-de-obra;</p>       <p> &#149; Produtividade da terra, medida pela produ&ccedil;&atilde;o/&aacute;rea plantada; </p>       <p>&#149; Estoque de capital (m&aacute;quinas, equipamentos e benfeitorias); e</p>       <p> &#149; Produtividade do custo operacional efetivo, medida em produ&ccedil;&atilde;o     total/custo operacional efetivo.</p> </blockquote> </font>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A vari&aacute;vel produtividade do custo operacional efetivo foi inserida no modelo   para retratar a sensibilidade dos custos referentes &agrave; forma&ccedil;&atilde;o da lavoura e aos   custos com aduba&ccedil;&atilde;o, herbicidas, inseticidas, etc. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O custo operacional efetivo (COE) &eacute; composto pelos gastos referentes &agrave;   aduba&ccedil;&atilde;o (que inclui adubos, herbicidas, fungicidas e inseticidas), &agrave; energia e   combust&iacute;vel, &agrave; colheita e p&oacute;s-colheita e &agrave; m&atilde;o-de-obra, ou seja, esse custo retrata   todos os desembolsos feitos com os talh&otilde;es.<a name="nt04a"></a><a href="#nt04b"><sup>4</sup></a></font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Resultados e discuss&atilde;o</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Com o intuito de facilitar o entendimento das an&aacute;lises que seguem, os   resultados s&atilde;o expostos em duas se&ccedil;&otilde;es. Na primeira, apresentam-se as   efici&ecirc;ncias t&eacute;cnica e de escala (modelos CCR e BCC) dos talh&otilde;es de caf&eacute; e, na   segunda, s&atilde;o enfatizados os determinantes da efici&ecirc;ncia.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b> 3.1. Efici&ecirc;ncia t&eacute;cnica</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Considerando-se a pressuposi&ccedil;&atilde;o de retornos constantes (modelo CCR) e   vari&aacute;veis (modelo BCC) e mediante a orienta&ccedil;&atilde;o insumo, foram obtidos os n&iacute;veis   (escores) de efici&ecirc;ncia t&eacute;cnica e de escala de cada talh&atilde;o da amostra. Cabe   ressaltar que foram considerados eficientes os talh&otilde;es que obtiveram escores de   efici&ecirc;ncia acima de 0,90 e ineficientes os que apresentaram n&iacute;veis abaixo dessa   medida. A justificativa para essa flexibiliza&ccedil;&atilde;o, de acordo com Ferreira (2005), est&aacute;   no fato de se evitar preju&iacute;zo da an&aacute;lise, j&aacute; que alguma DMU pode se destacar   mais, em virtude de ser uma<i> outlier </i>e n&atilde;o de sua efici&ecirc;ncia relativa.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Primeiramente, s&atilde;o apresentados os n&iacute;veis de efici&ecirc;ncia e as estat&iacute;sticas   descritivas referentes aos talh&otilde;es em que n&atilde;o se utilizam a irriga&ccedil;&atilde;o na produ&ccedil;&atilde;o   de caf&eacute; (<a href="#tab01">Tabela 1</a>).</font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Conforme a <a href="#tab01">Tabela 1</a>, sob a pressuposi&ccedil;&atilde;o de retornos constantes, verifica-se que, do total de 139 talh&otilde;es, apenas 20 s&atilde;o tecnicamente eficientes, o que corresponde a 14,4% do total da amostra. A m&eacute;dia de inefici&ecirc;ncia t&eacute;cnica ficou em 0,3284 (1-0,6716), o que indica que, nos talh&otilde;es tecnicamente ineficientes, h&aacute; possibilidade de reduzir o uso dos insumos em 32,84%, em m&eacute;dia, mantendo-se, mesmo assim, o n&iacute;vel de produ&ccedil;&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Considerando-se os retornos vari&aacute;veis, nota-se que a medida de efici&ecirc;ncia   t&eacute;cnica m&eacute;dia cresceu, aproximadamente, 13,5%, passando de 0,6716 para 0,7620.   Essa diferen&ccedil;a entre as m&eacute;dias indica que 9 pontos percentuais, dos 32,37% de   inefici&ecirc;ncia t&eacute;cnica (modelo CCR), s&atilde;o devidos &agrave; inefici&ecirc;ncia de escala. Ademais, ao considerar o modelo BCC, o n&uacute;mero de talh&otilde;es eficientes passou para 45, um   crescimento de 125%. Isto ocorreu porque toda DMU (talh&atilde;o) considerada   tecnicamente eficiente, sob retornos constantes, tamb&eacute;m foi eficiente sob   retornos vari&aacute;veis (SEIFORD e ZHU, 1999), entretanto, o inverso n&atilde;o ocorreu.   Al&eacute;m disso, o modelo BCC n&atilde;o leva em considera&ccedil;&atilde;o a exist&ecirc;ncia de inefici&ecirc;ncia de escala.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A medida de efici&ecirc;ncia de escala reflete a rela&ccedil;&atilde;o entre as medidas de   efici&ecirc;ncia t&eacute;cnica de retornos constantes e as com retornos vari&aacute;veis. A DMU ser&aacute;   considerada eficiente quando ela operar em escala &oacute;tima de produ&ccedil;&atilde;o. Diante   disso, constata-se, de acordo com a <a href="#tab01">Tabela 1</a>, que mais da metade (58,27%) dos   talh&otilde;es de caf&eacute; est&aacute; na escala &oacute;tima de produ&ccedil;&atilde;o. Cabe enfatizar que o conceito de   escala &oacute;tima, utilizada neste trabalho, n&atilde;o se refere, necessariamente, ao ponto de   m&iacute;nimo custo m&eacute;dio de longo prazo, mas, sim, a retornos constantes &agrave; escala.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Embora tenha sido constatado que 41,73% dos talh&otilde;es apresentam   inefici&ecirc;ncia de escala, estes podem exibir retornos crescentes ou decrescentes,   podendo-se identific&aacute;-los formulando um problema de programa&ccedil;&atilde;o linear, na   qual &eacute; imposta a pressuposi&ccedil;&atilde;o de retornos n&atilde;o-crescentes &agrave; escala no modelo   BCC. Os resultados podem ser observados na <a href="#tab02">Tabela 2</a>.</font></p>     <p><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab02.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entre os talh&otilde;es que apresentam inefici&ecirc;ncias de escala, 26 est&atilde;o operando na   regi&atilde;o de retornos crescentes, o que significa dizer que 18,7% destes estariam em   melhor situa&ccedil;&atilde;o, em termos de efici&ecirc;ncia, caso a escala de produ&ccedil;&atilde;o fosse maior.   Entretanto, &eacute; oportuno destacar que o tamanho da &aacute;rea de um talh&atilde;o &eacute; fixo<a name="nt05b"></a><a href="#nt05a"><sup>5</sup></a>, que impossibilita o aumento da escala de produ&ccedil;&atilde;o via crescimento da &aacute;rea   plantada. Assim, s&oacute; &eacute; poss&iacute;vel mudar a escala de produ&ccedil;&atilde;o de um talh&atilde;o se for   alterada sua produtividade.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na regi&atilde;o de retornos decrescentes est&atilde;o 32 talh&otilde;es, o que corresponde a   23,1% do total. Esse resultado mostra que o n&iacute;vel de efici&ecirc;ncia seria maior, se esses   talh&otilde;es possu&iacute;ssem escala menor de produ&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Finalmente, 81 talh&otilde;es est&atilde;o operando na regi&atilde;o de retornos constantes, isto   &eacute;, s&atilde;o escala eficientes. Nota-se que esse n&uacute;mero &eacute; igual ao n&uacute;mero de talh&otilde;es que   alcan&ccedil;aram a efici&ecirc;ncia de escala (<a href="#tab01">Tabela 1</a>), o que &eacute; explicado pelo fato de a   efici&ecirc;ncia de escala retratar a escala &oacute;tima de produ&ccedil;&atilde;o, que, por sua vez, ocorre   na faixa de retornos constantes.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Ao considerar os talh&otilde;es que utilizam no processo de produ&ccedil;&atilde;o a tecnologia   de irriga&ccedil;&atilde;o, t&ecirc;m-se os resultados apresentados na <a href="#tab03">Tabela 3</a>.</font></p>     <p><a name="tab03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab03.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O n&iacute;vel m&eacute;dio de inefici&ecirc;ncia com retornos constantes foi de 0,3223, o que   significa que, em m&eacute;dia, os talh&otilde;es ineficientes podem reduzir seus gastos com   insumos em 32,23%, mantendo o mesmo n&iacute;vel de produ&ccedil;&atilde;o. J&aacute; a medida de   efici&ecirc;ncia t&eacute;cnica m&eacute;dia, considerando-se retornos vari&aacute;veis &agrave; escala, sobiu para   0,7247. Como enfatizado anteriormente, esse valor foi maior do que o referente   ao modelo CCR devido ao fato de o modelo BCC n&atilde;o levar em considera&ccedil;&atilde;o a   exist&ecirc;ncia de inefici&ecirc;ncia de escala. No quesito efici&ecirc;ncia de escala, 74,2% dos   talh&otilde;es (66) que utilizam a irriga&ccedil;&atilde;o na planta&ccedil;&atilde;o de caf&eacute; est&atilde;o operando em   escala &oacute;tima de produ&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Com rela&ccedil;&atilde;o &agrave; escala, t&ecirc;m-se os seguintes resultados referentes aos talh&otilde;es   irrigados (<a href="#tab04">Tabela 4</a>).</font></p>     <p><a name="tab04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab04.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Conforme <a href="#tab04">Tabela 4</a>, observa-se que, do total de 89 talh&otilde;es, 16 est&atilde;o na parte   da fronteira de produ&ccedil;&atilde;o que apresenta retornos crescentes, o que indica que   18% deles seriam mais eficientes, caso a escala de produ&ccedil;&atilde;o fosse maior.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No que se refere &agrave; regi&atilde;o decrescente, verifica-se que h&aacute; apenas 7 talh&otilde;es   nessa faixa, o que corresponde a 7,8% do total. Este grupo, portanto, est&aacute;   operando acima da escala &oacute;tima de produ&ccedil;&atilde;o. Por fim, 66 talh&otilde;es (74,2%) est&atilde;o na   faixa de retornos constantes, isto &eacute;, encontram-se na escala &oacute;tima de produ&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Diante desses resultados, observa-se que o melhor desempenho foi dos   talh&otilde;es irrigados, ou seja, ao comparar os resultados da <a href="#tab01">Tabelas 1</a> com a <a href="#tab03">3</a>,   percebe-se que o n&uacute;mero de talh&otilde;es eficientes, no quesito efici&ecirc;ncia t&eacute;cnica   (retornos constantes) e efici&ecirc;ncia de escala, foi maior (proporcionalmente) nos   irrigados. Esse resultado superior, alcan&ccedil;ado pelos talh&otilde;es irrigados, pode ser   explicado, principalmente, pelos benef&iacute;cios que o sistema de irriga&ccedil;&atilde;o   proporciona, como, por exemplo, otimizar o uso dos fertilizantes, proporcionar a   redu&ccedil;&atilde;o do risco na agricultura e possibilitar trabalhos em escala na colheita   (BERNARDO et al., 2005). Al&eacute;m disso, o tamanho f&iacute;sico das lavouras irrigadas,   normalmente, &eacute; maior, o que proporciona ganhos de redu&ccedil;&atilde;o do custo m&eacute;dio por   hectare irrigado; em outras palavras, com uma &aacute;rea maior, &eacute; poss&iacute;vel utilizar os   insumos com maior efici&ecirc;ncia, sobretudo os relacionados com m&aacute;quinas e   equipamentos e com a aplica&ccedil;&atilde;o de fertilizantes e defensivos.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.2. Determinantes da (in)efici&ecirc;ncia</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Ap&oacute;s obter os escores de efici&ecirc;ncia, por meio da DEA, utilizou-se um modelo   econom&eacute;trico de amostra censurada (<i>Tobit</i>) para investigar as vari&aacute;veis que   determinam a efici&ecirc;ncia (inefici&ecirc;ncia) dos talh&otilde;es. Foram utilizados, como vari&aacute;vel   dependente, os escores obtidos por meio do modelo CCR. Essa escolha se deu em   raz&atilde;o de o modelo CCR ter maior precis&atilde;o na discrimina&ccedil;&atilde;o da efici&ecirc;ncia, visto que,   para que uma DMU seja considerada tecnicamente eficiente no modelo com   retornos constantes &agrave; escala, &eacute; necess&aacute;rio que ela seja tecnicamente eficiente no   modelo com retornos vari&aacute;veis; entretanto, o contr&aacute;rio n&atilde;o ocorre.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Antes de analisar os resultados, &eacute; importante ressaltar a possibilidade de que as   vari&aacute;veis relacionadas com produtividade estejam correlacionadas com o termo de erro do modelo. Caso as vari&aacute;veis fossem end&oacute;genas, o modelo <i>Tobit</i> padr&atilde;o n&atilde;o   poderia ser aplicado. A suspeita de endogeneidade foi avaliada por meio do teste   de exogeneidade das vari&aacute;veis instrumentalizadas, de Wald, e por meio do teste de   endogeneidade, de Hausman.<a name="nt06a"></a><a href="#nt06b"><sup>6</sup></a> No primeiro, se a estat&iacute;stica fosse significativa,   havia possibilidade de considerar as vari&aacute;veis instrumentalizadas como   end&oacute;genas; no segundo, testa-se a hip&oacute;tese nula de que h&aacute; diferen&ccedil;a estat&iacute;stica nos   coeficientes estimados pelo modelo <i>Tobit</i>, com vari&aacute;veis instrumentalizadas, e pelo   modelo <i>Tobit</i> padr&atilde;o. Se a hip&oacute;tese nula n&atilde;o fosse rejeitada, as vari&aacute;veis   (regressores) poderiam ser consideradas como ex&oacute;genas e o modelo padr&atilde;o   poderia ser utilizado. Para realizar o teste foi necess&aacute;rio definir tr&ecirc;s vari&aacute;veis   instrumentais (uma para cada poss&iacute;vel vari&aacute;vel end&oacute;gena), a saber: m&atilde;o-de-obra,   custo operacional efetivo por &aacute;rea e &aacute;rea plantada.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Os resultados do teste de Wald e de Hausman, que podem ser observados   nas <a href="#tab01a">Tabelas 1A</a> e <a href="#tab02a">2A</a> do Anexo, revelam que os regressores s&atilde;o ex&oacute;genos;   portanto, &eacute; poss&iacute;vel aplicar o modelo <i>Tobit </i>padr&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Os resultados referentes ao modelo <i>Tobit</i>, considerando os talh&otilde;es   n&atilde;o-irrigados, podem ser observados na <a href="#tab05">Tabela 5</a>.</font></p>     <p><a name="tab05"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab05.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por meio do teste de Raz&atilde;o de Verossimilhan&ccedil;a, verifica-se que esse modelo   pode ser considerado globalmente v&aacute;lido, j&aacute; que seu valor (29,66) foi superior ao <img src="/img/revistas/resr/v47n3/xmcar.gif" align="absmiddle"><sup>2</sup> tabelado (13,08), a 1% de signific&acirc;ncia, o que indica que os coeficientes   estimados apresentaram, conjuntamente, ajustamento satisfat&oacute;rio.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Apesar de os coeficientes estimados exercerem, conjuntamente, influ&ecirc;ncia   na vari&aacute;vel dependente (escore de efici&ecirc;ncia t&eacute;cnica), dois deles n&atilde;o foram   significativos: capital e produtividade do custo operacional efetivo (Prod. COE).   O primeiro pode ser justificado pelo fato de as propriedades que n&atilde;o utilizam irriga&ccedil;&atilde;o na produ&ccedil;&atilde;o de caf&eacute; n&atilde;o serem intensivas em capital, comparadas com   as propriedades que utilizam tal tecnologia. Dessa forma, constata-se que o   capital n&atilde;o &eacute; um fator importante para explicar a efici&ecirc;ncia (inefici&ecirc;ncia) t&eacute;cnica   dos talh&otilde;es n&atilde;o-irrigados.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Da mesma forma que o capital, a vari&aacute;vel Prod. COE tamb&eacute;m n&atilde;o foi   significativa, o que sugere que a produtividade do custo operacional efetivo n&atilde;o &eacute;   um fator preponderante para explicar a inefici&ecirc;ncia dos talh&otilde;es que n&atilde;o utilizam   a irriga&ccedil;&atilde;o em sua planta&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Ao contr&aacute;rio das vari&aacute;veis Prod. COE e Capital, os coeficientes relacionados   com produtividade da m&atilde;o-de-obra e produtividade da terra foram significativos   a 1% e 10%, respectivamente. Ambas as vari&aacute;veis contribuem, positivamente,   para a efici&ecirc;ncia t&eacute;cnica dos talh&otilde;es n&atilde;o-irrigados.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> O efeito marginal, associado &agrave; produtividade da m&atilde;o-de-obra, indica que o   aumento nos gastos com m&atilde;o-de-obra em R$ 1,00 (um Real) est&aacute; ligado &agrave; queda   da inefici&ecirc;ncia t&eacute;cnica em 0,065, o que reflete a import&acirc;ncia da m&atilde;o-de-obra para   a efici&ecirc;ncia dos talh&otilde;es n&atilde;o-irrigados. No que se refere ao efeito marginal da   produtividade da terra, tem-se o valor de -0.014, que indica que, se houvesse   aumento na produtividade da terra, haveria queda na inefici&ecirc;ncia.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Os resultados associados aos talh&otilde;es que utilizam irriga&ccedil;&atilde;o na produ&ccedil;&atilde;o de   caf&eacute; podem ser observados na <a href="#tab06">Tabela 6</a>.</font></p>     <p><a name="tab06"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab06.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No caso da quest&atilde;o da exogeneidade, aplicou-se o teste de Wald e de   Hausman; no teste de Wald, rejeitou-se a hip&oacute;tese de exogeneidade; por&eacute;m, ao   considerar o teste de Hausman, a hip&oacute;tese de que as vari&aacute;veis s&atilde;o ex&oacute;genas n&atilde;o   foi rejeitada. Dado o resultado do teste de Hausman, optou-se por considerar os   regressores como ex&oacute;genos. Os testes podem ser observados nas <a href="#tab03a">Tabelas 3A</a> e <a href="#tab04a">4A</a>,   do Anexo.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nota-se que o modelo como um todo apresenta signific&acirc;ncia estat&iacute;stica,   visto que o <img src="/img/revistas/resr/v47n3/xmcar.gif" align="absmiddle"><sup>2</sup> calculado, do teste de Raz&atilde;o de Verossimilhan&ccedil;a, foi significativo   a 1% (<img src="/img/revistas/resr/v47n3/xmcar.gif" align="absmiddle"><sup>2</sup> tabelado = 13,08).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Quanto &agrave; signific&acirc;ncia dos coeficientes, todos eles foram significativos a 1%,   exceto a vari&aacute;vel produtividade da terra, ou seja, a produtividade da   m&atilde;o-de-obra, a do custo operacional efetivo e o estoque de capital s&atilde;o vari&aacute;veis   que reduzem a inefici&ecirc;ncia t&eacute;cnica dos talh&otilde;es irrigados. Cabe enfatizar o forte   impacto que a vari&aacute;vel Prod. COE exerce na (in)efici&ecirc;ncia dos talh&otilde;es, j&aacute; que seu   coeficiente foi de -188,3. Quanto maior a produ&ccedil;&atilde;o por custo operacional efetivo,   menor tende a ser o n&iacute;vel de inefici&ecirc;ncia.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Um ponto importante, que merece destaque, &eacute; o valor n&atilde;o-significativo do   coeficiente da vari&aacute;vel Prod. Terra, diferentemente da an&aacute;lise com os talh&otilde;es   n&atilde;o-irrigados. Esse resultado est&aacute; ligado ao fato de os talh&otilde;es dessa segunda   subamostra utilizar a irriga&ccedil;&atilde;o na sua lavoura. Por usarem essa tecnologia, as   produtividades dos talh&otilde;es tendem a ser maiores e a um n&iacute;vel semelhante entre   eles, o que faz supor que a produtividade da terra n&atilde;o &eacute; um fator que exerce   influ&ecirc;ncia no n&iacute;vel de efici&ecirc;ncia/inefici&ecirc;ncia t&eacute;cnica.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Considera&ccedil;&otilde;es Finais</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este trabalho analisou a efici&ecirc;ncia t&eacute;cnica de 228 talh&otilde;es de caf&eacute; localizados   nas regi&otilde;es do Cerrado e Sul de Minas Gerais, bem como os fatores que   influenciam a varia&ccedil;&atilde;o dos escores de (in)efici&ecirc;ncia. Os talh&otilde;es foram divididos   em duas subamostras: os que utilizam irriga&ccedil;&atilde;o na produ&ccedil;&atilde;o (89) e os que n&atilde;o   utilizam a irriga&ccedil;&atilde;o (139).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Os principais resultados evidenciaram que h&aacute; predom&iacute;nio dos talh&otilde;es (tanto   os irrigados como os n&atilde;o-irrigados) com inefici&ecirc;ncia t&eacute;cnica (escores de efici&ecirc;ncia   inferior a 0,9), ou seja, na maioria dos talh&otilde;es h&aacute; margem para redu&ccedil;&atilde;o dos   insumos sem, no entanto, comprometer o n&iacute;vel de produ&ccedil;&atilde;o. Embora se esperasse um n&uacute;mero significativo de talh&otilde;es eficientes, devido &agrave; orienta&ccedil;&atilde;o t&eacute;cnica e   gerencial recebida pelos produtores da amostra, o que prevaleceu foi o contr&aacute;rio.   As raz&otilde;es disso podem estar associadas, por exemplo, &agrave;s limita&ccedil;&otilde;es financeiras e/ou   educacionais dos produtores. Esses fatores impediriam a implementa&ccedil;&atilde;o e/ou   assimila&ccedil;&atilde;o efetiva das orienta&ccedil;&otilde;es fornecidas pelo projeto Educampo.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Diante da constata&ccedil;&atilde;o de tal fato (n&iacute;vel elevado de inefici&ecirc;ncia), torna-se   necess&aacute;rio, ent&atilde;o, contornar esse problema. Um das maneiras para solucionar   esse cen&aacute;rio seria atuar sobre as vari&aacute;veis que impactam o n&iacute;vel de (in)efici&ecirc;ncia   t&eacute;cnica. No caso dos talh&otilde;es n&atilde;o-irrigados, merecem aten&ccedil;&atilde;o as vari&aacute;veis   produtividade da m&atilde;o-de-obra e da terra; j&aacute; os irrigados merecem destaque a   produtividade da m&atilde;o-de-obra, o estoque de capital e a produtividade do custo   operacional efetivo.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ademais, &eacute; interessante ressaltar a import&acirc;ncia da irriga&ccedil;&atilde;o. Nos talh&otilde;es   irrigados, a produtividade da terra tende a ser maior do que nos talh&otilde;es que n&atilde;o   utilizam essa t&eacute;cnica. A irriga&ccedil;&atilde;o, portanto, gera alta produ&ccedil;&atilde;o por unidade de   &aacute;rea plantada, ou seja, mesmo os talh&otilde;es que n&atilde;o utilizam os insumos de forma   eficiente tendem a ter alta produtividade, devido &agrave; tecnologia da irriga&ccedil;&atilde;o. Dessa   forma, a produtividade da terra (em &aacute;reas irrigadas) n&atilde;o seria um foco de   inefici&ecirc;ncia t&eacute;cnica e, assim, justificaria a n&atilde;o signific&acirc;ncia da vari&aacute;vel Prod. Terra   na segunda subamostra. Ao contr&aacute;rio, na primeira subamostra, na qual os talh&otilde;es   n&atilde;o utilizam a irriga&ccedil;&atilde;o e a produtividade da terra (comparada aos talh&otilde;es   irrigados) &eacute; menor, a vari&aacute;vel Prod. Terra mostrou-se importante para reduzir a   inefici&ecirc;ncia.<a name="nt07b"></a><a href="#nt07a"><sup>7</sup></a></font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Refer&ecirc;ncias Bibliogr&aacute;ficas </b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ASSOCIA&Ccedil;&Atilde;O BRASILEIRA DA IND&Uacute;STRIA DE CAF&Eacute; (ABIC). <b>Estat&iacute;stica.</b> Dispon&iacute;vel em: &lt;<a href="http://www.abic.com.br/estat_exportacoes.html" target="_blank">http://www.abic.com.br/estat_exportacoes.html</a>&gt;.Acesso em: 14 de junho de 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003200900030000700001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BANCO DE DESENVOLVIMENTO DE MINAS GERAIS - BDMG. <i>minas </i><b>Gerais do S&eacute;culo XXI</b> - Volume I. Belo Horizonte, 2002. 243p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003200900030000700002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BERNARDO, S.; SOARES, A. A.; MANTOVANI, E. A. <b>Manual de irriga&ccedil;&atilde;o.</b> 7ª ed. Vi&ccedil;osa: UFV, 2005. 625 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-2003200900030000700003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CAMERON, A. C.; TRIVEDI, P. K. <b>Microeconornetrics using stata.</b> College Station, Texas: Stata Press Publication, 2009. 692 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S0103-2003200900030000700004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COMPANHIA NACIONAL    DE ABASTECIMENTO -CONAB. <b>Central de Informa&ccedil;&otilde;es Agropecu&aacute;rias.</b>    Dispon&iacute;vel em: <a href="http://www.conab.gov.br/conabweb/download/safra/2_levantamento_200708.pdf" target="_blank">http://www.conab.gov.br/conabweb/download/safra/2_levantamento_200708.pdf</a>    Acesso em: 01 Out 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-2003200900030000700005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CONSELHO DOS EXPORTADORES DE CAF&Eacute; - CECAF&Eacute;. <b>Dados estat&iacute;sticos.</b> Dispon&iacute;vel em: &lt;<a href="http://www.cecafe.com.br" target="_blank">http://www.cecafe.com.br</a>&gt;.Acesso em: 02 de Agosto de 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003200900030000700006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHARNES, A.; COOPER, W.W.; RHODES, E. Measuring lhe efficiency of decision-making units. <b>European Journal of Operational Research</b>, v. 2, p. 429-444, 1978.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-2003200900030000700007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHILINGERIAN, J. A. Evaluating physician efficiency in hospitais: A multivariate analysis of best practices. <b>European Journal of Operational Research</b>, v. 80, p.548-574, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003200900030000700008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COELLI, T.; RAO, D.S.P.;BATTESE, G. E. <b>An introduction to efficiency and productivity analysis.</b> London: Kluwer Academic, 1998. 275 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0103-2003200900030000700009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">EMPRESA BRASILEIRA DE PESQUISA AGROPECU&Aacute;RIA - EMBRAPA. <b>Relat&oacute;rio da estimativa da safra cafeeira no Brasil safra 1999/2000.</b> Cons&oacute;cio Brasileiro de Pesquisa e Desenvolvimento do Caf&eacute; - Embrapa. 6 p. 1999 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0103-2003200900030000700010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FERREIRA, M. A. M. <b>Efici&ecirc;ncia t&eacute;cnica e de escala de cooperativas e sociedades de capital na ind&uacute;stria de latic&iacute;nios do Brasil.</b> 151 f. Tese (Doutorado em Economia Aplicada) - Universidade Federal de Vi&ccedil;osa, Vi&ccedil;osa, MG, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0103-2003200900030000700011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FETHI, M.D.; JACKSON, P.M.; WEYMAN-JONES, T.G. <b>Measuring the efficiency of European airlines: An application of DEA and tobit analysis.</b> Discussion Paper, University of Leicester, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0103-2003200900030000700012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GON&Ccedil;ALVES, R. M. L.; VIEIRA, W. C; LIMA, J. E.; GOMES, S. T. Analysis of technical efficiency of Milk-producing farms in Minas Gerais. <b>Revista de Economia Aplicada.</b> v. 12, n. 2 p. 321-335,2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0103-2003200900030000700013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GREENE, W. H. <b>Econometric analysis.</b> 5. ed. New Jersey: Prentice Hall, 2003. 1.026p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0103-2003200900030000700014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GREENE, W.H. <b>The econometric approach to efficiency analysis</b>, in H.Fried, C.A.K. Lovel, and S.S. Schmidt (eds.), The measurement of productive efficiency and application, New York, Oxford University Press, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S0103-2003200900030000700015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HOFF, A. Second stage DEA: Comparison of approaches for modelling the DEA score. <b>European Journal of Operational Research</b>, v. 181, p. 425-435, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000197&pid=S0103-2003200900030000700016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JACKSON, P. M; FETHI, M. D. <b>Evaluating the technical efficiency of Turkish commercial banks: An Application of DEA and Tobit Analysis.</b> ln. INTERNATIONAL DEA SYMPOSIUM, University of Queensland, Brisbane, Austr&aacute;lia, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S0103-2003200900030000700017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHNSTON, J.; DINARDO, J. <b>Econometric Methods.</b> New York: McGraw Hill, 1997 531p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000201&pid=S0103-2003200900030000700018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KIRJAVAINEN, T.; LOIKKANEN, H. A. Efficiency Differences of Finnish S&ecirc;nior Secondary Schools: An Application of DEA and Tobit Analysis. <b>Economics of Education Review</b>, 17,4,377-394,1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000203&pid=S0103-2003200900030000700019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MANTOVANI, E. C. <b>A irriga&ccedil;&atilde;o do cafeeiro.</b> Dispon&iacute;vel em &lt;<a href="http://www.sbicafe.ufv.br/PDF/Conteudo/155552_Art01f.PDF" target="_blank">http://www.sbicafe.ufv.br/PDF/Conteudo/155552_Art01f.PDF</a>&gt;. Acesso em: 18 de junho de 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000205&pid=S0103-2003200900030000700020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">OLIVEIRA, M.D.M.; VEIGA FILHO, A. A.; VEGRO, CL.R.; MATTOSINHO, P.s.V.; MORICOCHI, L. Investimento e rentabilidade na produ&ccedil;&atilde;o de caf&eacute; especial: um estudo de caso. <b>Informa&ccedil;&otilde;es Econ&oacute;micas.</b> V.35, No. 9,2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000207&pid=S0103-2003200900030000700021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PASCUAL, R. F. <b>Eficiencia de los centros p&uacute;blicos de educaci&oacute;n secundaria de la provincia de Alicante.</b> 237 f. Tese (Doctorado en Ci&ecirc;ncias econ&ocirc;micas) - Universidad de Alicate, Alicate, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000209&pid=S0103-2003200900030000700022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">REIS, R. P.; RICHETTI, A.; LIMA, A. L. R. Eici&ecirc;ncia econ&ocirc;mica na cultura do caf&eacute;: um estudo no sul de Minas Gerais. <b>Organiza&ccedil;&otilde;es rurais e agroindustriais.</b> v. 7, n.1, p. 50-59, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000211&pid=S0103-2003200900030000700023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SEIFORD, L. M.;    ZHU, J. An investigation of returns to scalein data envelopment analysis. <b>Omega:    The journal of management science.</b> v.27, n.1, p. 1-11, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000213&pid=S0103-2003200900030000700024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="nt01b"></a><a href="#nt01a">1</a> Os autores agradecem os coment&aacute;rios e as sugest&otilde;es dos pareceristas.    <br>   <a name="nt02b"></a><a href="#nt02a">2</a> Os termos CCR e BCC derivam-se das iniciais de seus autores: Charnes, Cooper e Rhodes; e Banker, Chames, Cooper, respectivamente.    <br>   <a name="nt03a"></a><a href="#nt03b">3</a> Para mais detalhes sobre o m&eacute;todo I-O stepwise, ver Senra et al. (2007).    <br>   <a name="nt04b"></a><a href="#nt04a">4</a> No c&aacute;lculo da vari&aacute;vel produtividade do custo operacional efetivo foram subtra&iacute;dos do    <br>   COE os gastos com m&atilde;o-de-obra, visto que essa vari&aacute;vel j&aacute; faz parte do modelo.    <br>   <a name="nt05a"></a><a href="#nt05b">5</a> Como o caf&eacute; &eacute; um cultivo permanente e, por defini&ccedil;&atilde;o, o talh&atilde;o &eacute; uma &aacute;rea geogr&aacute;fica   determinada que foi plantada ao mesmo tempo, o tamanho f&iacute;sico de um talh&atilde;o s&oacute; se   altera com a substitui&ccedil;&atilde;o de toda a lavoura, o que &eacute; invi&aacute;vel de se fazer no curto prazo.   Por isso, considera-se o tamanho de um talh&atilde;o como fixo.    ]]></body>
+<body><![CDATA[<br>   <a name="nt06b"></a><a href="#nt06a">6</a> Para mais detalhes sobre os teste de Wald e de Hausman, ver Cameron e Trivedi (2009).    <br>   <a name="nt07a"></a><a href="#nt07b">7</a> A m&eacute;dia da produtividade da terra dos talh&otilde;es irrigados e n&atilde;o-irrigados &eacute;, de acordo   com a amostra, de 35 sacas/ha e de 31 sacas/ha, respectivamente.</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Anexo</b></font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07qdr01.gif"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07qdr02.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07qdr03.gif"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07qdr04.gif"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07qdr05.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07qdr06.gif"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07qdr07.gif"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07qdr08.gif"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n3/a07qdr09.gif"></p>     <p>&nbsp;</p>     <p><a name="tab01a"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab01a.gif"></p>     <p>&nbsp;</p>     <p><a name="tab02a"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab02a.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><a name="tab03a"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab03a.gif"></p>     <p>&nbsp;</p>     <p><a name="tab04a"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a07tab04a.gif"></p>     <p>&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<collab>ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE CAFÉ</collab>
+<source><![CDATA[Estatística]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>BANCO DE DESENVOLVIMENTO DE MINAS GERAIS</collab>
+<source><![CDATA[minas Gerais do Século XXI - Volume I]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERNARDO]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES]]></surname>
+<given-names><![CDATA[A. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANTOVANI]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manual de irrigação]]></source>
+<year>2005</year>
+<edition>7ª</edition>
+<publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[UFV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMERON]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TRIVEDI]]></surname>
+<given-names><![CDATA[P. K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Microeconornetrics using stata]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[College Station^eTexas Texas]]></publisher-loc>
+<publisher-name><![CDATA[Stata Press Publication]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="">
+<collab>COMPANHIA NACIONAL DE ABASTECIMENTO</collab>
+<source><![CDATA[Central de Informações Agropecuárias]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="">
+<collab>CONSELHO DOS EXPORTADORES DE CAFÉ</collab>
+<source><![CDATA[Dados estatísticos]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHARNES]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COOPER]]></surname>
+<given-names><![CDATA[W.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RHODES]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Measuring lhe efficiency of decision-making units]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>1978</year>
+<volume>2</volume>
+<page-range>429-444</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHILINGERIAN]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evaluating physician efficiency in hospitais: A multivariate analysis of best practices]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>1995</year>
+<volume>80</volume>
+<page-range>548-574</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELLI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAO]]></surname>
+<given-names><![CDATA[D.S.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BATTESE]]></surname>
+<given-names><![CDATA[G. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An introduction to efficiency and productivity analysis]]></source>
+<year>1998</year>
+<page-range>275</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Kluwer Academic]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<collab>EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA</collab>
+<source><![CDATA[Relatório da estimativa da safra cafeeira no Brasil safra 1999/2000]]></source>
+<year>1999</year>
+<publisher-name><![CDATA[Consócio Brasileiro de Pesquisa e Desenvolvimento do Café - Embrapa]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[M. A. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Eficiência técnica e de escala de cooperativas e sociedades de capital na indústria de laticínios do Brasil]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FETHI]]></surname>
+<given-names><![CDATA[M.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JACKSON]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEYMAN-JONES]]></surname>
+<given-names><![CDATA[T.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Measuring the efficiency of European airlines: An application of DEA and tobit analysis]]></source>
+<year>2002</year>
+<publisher-name><![CDATA[University of Leicester]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONÇALVES]]></surname>
+<given-names><![CDATA[R. M. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA]]></surname>
+<given-names><![CDATA[W. C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[S. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Analysis of technical efficiency of Milk-producing farms in Minas Gerais]]></article-title>
+<source><![CDATA[Revista de Economia Aplicada]]></source>
+<year>2008</year>
+<volume>12</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>321-335</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENE]]></surname>
+<given-names><![CDATA[W. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric analysis]]></source>
+<year>2003</year>
+<edition>5</edition>
+<publisher-loc><![CDATA[New Jersey ]]></publisher-loc>
+<publisher-name><![CDATA[Prentice Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENE]]></surname>
+<given-names><![CDATA[W.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The econometric approach to efficiency analysis]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Fried]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lovel]]></surname>
+<given-names><![CDATA[C.A.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schmidt]]></surname>
+<given-names><![CDATA[S.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The measurement of productive efficiency and application]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFF]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Second stage DEA: Comparison of approaches for modelling the DEA score]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>2007</year>
+<volume>181</volume>
+<page-range>425-435</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JACKSON]]></surname>
+<given-names><![CDATA[P. M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FETHI]]></surname>
+<given-names><![CDATA[M. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evaluating the technical efficiency of Turkish commercial banks: An Application of DEA and Tobit Analysis]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ INTERNATIONAL DEA SYMPOSIUM]]></conf-name>
+<conf-date>2000</conf-date>
+<conf-loc>Brisbane </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHNSTON]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DINARDO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric Methods]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KIRJAVAINEN]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOIKKANEN]]></surname>
+<given-names><![CDATA[H. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Efficiency Differences of Finnish Sênior Secondary Schools: An Application of DEA and Tobit Analysis]]></article-title>
+<source><![CDATA[Economics of Education Review]]></source>
+<year>1998</year>
+<volume>17</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>377-394</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MANTOVANI]]></surname>
+<given-names><![CDATA[E. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A irrigação do cafeeiro]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[M.D.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VEIGA FILHO]]></surname>
+<given-names><![CDATA[A. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VEGRO]]></surname>
+<given-names><![CDATA[CL.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MATTOSINHO]]></surname>
+<given-names><![CDATA[P.s.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORICOCHI]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Investimento e rentabilidade na produção de café especial: um estudo de caso]]></article-title>
+<source><![CDATA[Informações Económicas]]></source>
+<year>2005</year>
+<volume>35</volume>
+<numero>9</numero>
+<issue>9</issue>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PASCUAL]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Eficiencia de los centros públicos de educación secundaria de la provincia de Alicante]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REIS]]></surname>
+<given-names><![CDATA[R. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RICHETTI]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[A. L. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Eiciência econômica na cultura do café: um estudo no sul de Minas Gerais]]></article-title>
+<source><![CDATA[Organizações rurais e agroindustriais]]></source>
+<year>2005</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>50-59</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SEIFORD]]></surname>
+<given-names><![CDATA[L. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZHU]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An investigation of returns to scalein data envelopment analysis]]></article-title>
+<source><![CDATA[Omega: The journal of management science]]></source>
+<year>1999</year>
+<volume>27</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-11</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,637 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Uma Aplicação de Regressão Quantílica para Dados em Painel do PIB e do Pronaf</title><link xmlns="" rel="canonical" href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032016000200221">
+<meta xmlns="" http-equiv="Pragma" content="no-cache">
+<meta xmlns="" http-equiv="Expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
+<meta xmlns="" Content-math-Type="text/mathml">
+<meta xmlns="" name="citation_journal_title" content="Revista de Economia e Sociologia Rural">
+<meta xmlns="" name="citation_journal_title_abbrev" content="Rev. Econ. Sociol. Rural">
+<meta xmlns="" name="citation_publisher" content="Sociedade Brasileira de Economia e Sociologia Rural">
+<meta xmlns="" name="citation_title" content="Uma Aplicação de Regressão Quantílica para Dados em Painel do PIB e do Pronaf">
+<meta xmlns="" name="citation_date" content="06/2016">
+<meta xmlns="" name="citation_volume" content="54">
+<meta xmlns="" name="citation_issue" content="2">
+<meta xmlns="" name="citation_issn" content="0103-2003">
+<meta xmlns="" name="citation_doi" content="10.1590/1234.56781806-947900540202">
+<meta xmlns="" name="citation_abstract_html_url" content="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032016000200221&amp;lng=pt&amp;nrm=iso&amp;tlng=pt">
+<meta xmlns="" name="citation_fulltext_html_url" content="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032016000200221&amp;lng=pt&amp;nrm=iso&amp;tlng=pt">
+<meta xmlns="" name="citation_author" content="Marioni, Larissa da Silva">
+<meta xmlns="" name="citation_author_institution" content="University of Southampton, Southampton, United Kingdom">
+<meta xmlns="" name="citation_author_institution" content="University of Southampton, Southampton, United Kingdom">
+<meta xmlns="" name="citation_author" content="Vale, Vinicius de Almeida">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author" content="Perobelli, Fernando Salgueiro">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author" content="Freguglia, Ricardo da Silva">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author" content="Marioni, Larissa da Silva">
+<meta xmlns="" name="citation_author_institution" content="University of Southampton, Southampton, United Kingdom">
+<meta xmlns="" name="citation_author_institution" content="University of Southampton, Southampton, United Kingdom">
+<meta xmlns="" name="citation_author" content="Vale, Vinicius de Almeida">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author" content="Perobelli, Fernando Salgueiro">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author" content="Freguglia, Ricardo da Silva">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_author_institution" content="Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil">
+<meta xmlns="" name="citation_firstpage" content="221">
+<meta xmlns="" name="citation_lastpage" content="242">
+<meta xmlns="" name="citation_id" content="10.1590/1234.56781806-947900540202">
+<meta xmlns="" name="citation_pdf_url" language="pt" default="true" content="http://www.scielo.br/pdf/resr/v54n2/1806-9479-resr-54-02-00221.pdf">
+<link xmlns="" rel="stylesheet" type="text/css" href="/css/screen.css">
+<link xmlns="" rel="stylesheet" type="text/css" href="/xsl/pmc/v3.0/xml.css">
+<script xmlns="" language="javascript" src="applications/scielo-org/js/jquery-1.4.2.min.js"></script><script xmlns="" language="javascript" src="applications/scielo-org/js/toolbox.js"></script><script xmlns="" language="javascript">
+					function smaller(elem_img) {
+						if ((elem_img.height > elem_img.width) && (elem_img.height > 100)) {
+							elem_img.className="inline-graphic-more-limited";
+						} else if (elem_img.width > 300) {
+				
+						} else if ((elem_img.height > elem_img.width) && (elem_img.height > 70)) {
+							elem_img.className="inline-graphic-limited";
+						} 
+					}
+				</script></head><body><a name="top"></a><div class="container"><div class="top"><div id="issues"></div><TABLE xmlns="" cellSpacing="0" cellPadding="7" width="100%" border="0"><TBODY><TR>
+<TD vAlign="top" width="26%"><P align="center">
+<A href="http://www.scielo.br/scielo.php?lng=pt"><IMG src="/img/pt/fbpelogp.gif" border="0" alt="SciELO - Scientific Electronic Library Online"></A><BR>
+</P></TD>
+<TD vAlign="top" width="74%"><TABLE><TBODY><TR>
+<TD NoWrap>
+<IMG src="/img/pt/grp1c.gif"> <IMG src="/img/pt/artsrc.gif"><BR><A href="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-200320160002&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/toc.gif" border="0" alt="vol.54 número2"></A><A href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032016000200203&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/prev.gif" border="0" alt="A adoção de Sistemas Produtivos entre Grupos de Pequenos Produtores de Algodão no Brasil"></A><A href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032016000200243&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/next.gif" border="0" alt="Características das Famílias, Estruturação da Produção e Estratégias de Comercialização em um Assentamento de Reforma Agrária"></A> <A href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edresr&amp;index=AU&amp;format=iso.pft&amp;lang=p&amp;limit=0103-2003"><IMG src="/img/pt/author.gif" border="0" alt="índice de autores"></A><A href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edresr&amp;index=KW&amp;format=iso.pft&amp;lang=p&amp;limit=0103-2003"><IMG src="/img/pt/subject.gif" border="0" alt="índice de assuntos"></A><A href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edresr&amp;format=iso.pft&amp;lang=p&amp;limit=0103-2003"><IMG src="/img/pt/search.gif" border="0" alt="pesquisa de artigos"></A>
+</TD>
+<TD noWrap valign="bottom">
+<A href="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-2003&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/home.gif" border="0" alt="Home Page"></A><A href="http://www.scielo.br/scielo.php?script=sci_alphabetic&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/alpha.gif" border="0" alt="lista alfabética de periódicos"></A>
+              
+            </TD>
+</TR></TBODY></TABLE></TD>
+</TR></TBODY></TABLE>
+<BR xmlns=""></div><div class="content"><form xmlns="" name="addToShelf" method="post" action="http://www.scielo.org/applications/scielo-org/services/addArticleToShelf.php" target="mensagem">
+<input type="hidden" name="PID" value="S0103-20032016000200221"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S0103-20032016000200221%26lng=pt%26nrm=iso%26tlng=pt">
+</form>
+<form xmlns="" name="citedAlert" method="post" action="http://www.scielo.org/applications/scielo-org/services/citedAlert.php" target="mensagem">
+<input type="hidden" name="PID" value="S0103-20032016000200221"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S0103-20032016000200221%26lng=pt%26nrm=iso%26tlng=pt">
+</form>
+<form xmlns="" name="accessAlert" method="post" action="http://www.scielo.org/applications/scielo-org/services/accessAlert.php" target="mensagem">
+<input type="hidden" name="PID" value="S0103-20032016000200221"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S0103-20032016000200221%26lng=pt%26nrm=iso%26tlng=pt">
+</form>
+<div xmlns="" id="group">
+<div id="toolBox">
+<h2 id="toolsSection">Serviços Personalizados</h2>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Journal</h2></div>
+<div class="box">
+<ul>
+<li>
+<img src="/img/pt/iconStatistics.gif"><a href="http://analytics.scielo.org/?journal=0103-2003&amp;collection=scl" target="_blank">SciELO Analytics</a>
+</li>
+<li id="google_metrics_link_li" style="display: none;">
+<img src="/img/pt/iconStatistics.gif"><a id="google_metrics_link" target="_blank">Google Scholar H5M5 (<span id="google_metrics_year"></span>)</a>
+</li>
+</ul>
+<script type="text/javascript"> 
+              $(document).ready(function() {
+                  var url =  "/google_metrics/get_h5_m5.php?issn=0103-2003&callback=?";
+                  $.getJSON(url,  function(data) {
+                      $("#google_metrics_year").html(data['year']);
+                      $('#google_metrics_link').attr('href', data['url']);
+                      $("#google_metrics_link_li").show();
+                  });
+              });
+            </script>
+</div>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Artigo</h2></div>
+<div class="box"><ul>
+<li><a href="javascript:%20void(0);" onClick="window.open('/article_plus.php?pid=S0103-20032016000200221&amp;tlng=pt&amp;lng=pt','','width=1000,height=480,resizable=yes,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1');" rel="nofollow"><img src="/img/fulltxt.gif">nova página do texto(beta)</a></li>
+<li><a href="/pdf/resr/v54n2/1806-9479-resr-54-02-00221.pdf"><img src="/img/en/iconPDFDocument.gif">Português (pdf)
+    </a></li>
+<li><a href="http://www.scielo.br/scieloOrg/php/articleXML.php?pid=S0103-20032016000200221&amp;lang=pt" rel="nofollow" target="xml"><img src="/img/pt/iconXMLDocument.gif">Artigo em XML</a></li>
+<li>
+<td valign="middle"><a href="javascript:void(0);" onmouseout="status='';" class="nomodel" style="text-decoration: none;" onclick='OpenArticleInfoWindow ( 780, 450, "http://www.scielo.br/scielo.php?script=sci_isoref&amp;pid=S0103-20032016000200221&amp;lng=pt&amp;tlng=pt"); ' rel="nofollow" onmouseover=" status='Como citar este artigo'; return true; "><img border="0" align="middle" src="/img/pt/fulltxt.gif"></a></td>
+<td><a href="javascript:void(0);" onmouseout="status='';" class="nomodel" style="text-decoration: none;" onclick='OpenArticleInfoWindow ( 780, 450, "http://www.scielo.br/scielo.php?script=sci_isoref&amp;pid=S0103-20032016000200221&amp;lng=pt&amp;tlng=pt");' rel="nofollow" onmouseover=" status='Como citar este artigo'; return true; ">Como citar este artigo</a></td>
+</li>
+<li>
+<img src="/img/pt/iconStatistics.gif"><a href="http://analytics.scielo.org/?document=S0103-20032016000200221&amp;collection=scl" target="_blank">SciELO Analytics</a>
+</li>
+<script language="javascript" src="article.js"></script><li>
+<script language="javascript">
+		CreateWindowHeader ( "Curriculum ScienTI",
+                                                    "/img/pt/lattescv.gif",
+                                                    "pt");
+			 InsertAuthor("PEROBELLI, FERNANDO SALGUEIRO",
+            "http://lattes.cnpq.br/0592576058333460");  InsertAuthor("FREGUGLIA, RICARDO DA SILVA",
+            "http://lattes.cnpq.br/1290479848909932"); 
+    		CreateWindowFooter();
+		</script><a href="javascript:void(0);" onmouseout="status='';" rel="nofollow" onclick=" OpenLattesWindow(); " onmouseover=" status='List de Autores'; return true; "><img border="0" align="middle" src="/img/pt/lattescv-button.gif">Curriculum ScienTI</a>
+</li>
+<li><a href="javascript:%20void(0);" onClick="window.open('http://www.scielo.br/scieloOrg/php/translate.php?pid=S0103-20032016000200221&amp;caller=www.scielo.br&amp;lang=pt&amp;tlang=pt&amp;script=sci_arttext','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes');
+                        callUpdateArticleLog('referencias_do_artigo');" rel="nofollow"><img src="/img/pt/iconTranslation.gif">Tradução automática</a></li>
+</ul></div>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Indicadores</h2></div>
+<div class="box"><ul>
+<li>
+<img src="/img/pt/iconCitedOff.gif" alt="Não possue artigos citados">Citado por SciELO </li>
+<li>
+<img src="/img/pt/iconStatistics.gif"><a href="http://analytics.scielo.org/w/accesses?document=S0103-20032016000200221&amp;collection=scl" target="_blank">Acessos</a>
+</li>
+<div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="4" data-doi="10.1590/1234.56781806-947900540202"></div>
+</div>
+</ul></div>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Links relacionados</h2></div>
+<div class="box"><ul>
+<li><a href="javascript:void(0);" onclick="window.open('http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=link%3Ahttp%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS0103-20032016000200221%26lng%3Dpt%26nrm%3Diso%26tlng%3Dpt&amp;lang=pt','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes,,menubar=1,location=1,toolbar=1,status=1,scrollbars=1,directories=1');" rel="nofollow"><img src="/img/pt/iconCitedGoogleOn.gif" alt="Indexado pelo Google">Citado por Google </a></li>
+<li>
+<img src="/img/pt/iconRelatedOff.gif" alt="Não possue artigos similares">Similares em
+    SciELO </li>
+<li><a href="javascript:void(0);" onclick="window.open('http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=related%3Ahttp%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS0103-20032016000200221%26lng%3Dpt%26nrm%3Diso%26tlng%3Dpt&amp;lang=pt','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes,,menubar=1,location=1,toolbar=1,status=1,scrollbars=1,directories=1');" rel="nofollow"><img src="/img/pt/iconRelatedGoogleOn.gif" alt="Indexado pelo Google">Similares em Google </a></li>
+</ul></div>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Compartilhar</h2></div>
+<div class="box"><ul>
+<li>
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_delicious"></a><a class="addthis_button_google"></a><a class="addthis_button_twitter"></a><a class="addthis_button_digg"></a><a class="addthis_button_citeulike"></a><a class="addthis_button_connotea"></a><a href="http://www.mendeley.com/import/?url=http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S0103-20032016000200221%26lng=pt%26nrm=iso%26tlng=pt" title="Mendeley"><img src="http://www.mendeley.com/graphics/mendeley.png"></a><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c347ee4422c56df" class="addthis_button_expanded">Mais</a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c347ee4422c56df"></script>
+</li>
+<li><div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c347ee4422c56df" class="addthis_button_expanded">Mais</a></div></li>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c347ee4422c56df"></script>
+</ul></div>
+<hr>
+<ul><li><a id="permalink" href="javascript:void(0);"><img src="/img/common/iconPermalink.gif">Permalink</a></li></ul>
+</div>
+<div id="permalink_box" style="margin-left:20px;background-color:#F2F2F2;border: 1px solid #CCC;display:none;position:absolute;z-index:1;padding:2px 10px 10px 10px;">
+<div style="text-align:right;"><img src="/img/common/icon-close.png" onClick="$('#permalink_box').toggle();"></div>
+<input type="text" name="short-url" id="short-url">
+</div>
+</div>
+<h2 xmlns=""><a href="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-2003&amp;lng=pt&amp;nrm=iso">Revista de Economia e Sociologia Rural</a></h2>
+<h2 xmlns="" id="printISSN">
+<FONT color="#0000A0"><!--PRINTpt--><em>versão impressa</em> ISSN </FONT>0103-2003<FONT color="#0000A0"><!--ONLINpt--><em>versão On-line</em> ISSN </FONT>1806-9479</h2>
+<h3 xmlns="">Rev. Econ. Sociol. Rural vol.54 no.2 Brasília abr./jun. 2016</h3>
+<h4 xmlns="" id="doi"> http://dx.doi.org/10.1590/1234.56781806-947900540202  </h4>
+<div xmlns="" class="index,pt">
+<!--version=xml-file--><div id="article-front" class="front">
+<p class="categoria">Artigo</p>
+<div><p class="title">Uma Aplicação de Regressão Quantílica para Dados em Painel do PIB e do Pronaf</p></div>
+<div class="autores">
+<p class="author"><span class="author-name">Larissa da Silva Marioni</span><sup><a href="#aff3">3</a> 
+			</sup></p>
+<p class="author"><span class="author-name">Vinicius de Almeida Vale</span><sup><a href="#aff4">4</a> 
+			</sup></p>
+<p class="author"><span class="author-name">Fernando Salgueiro Perobelli</span><sup><a href="#aff5">5</a> 
+			</sup></p>
+<p class="author"><span class="author-name">Ricardo da Silva Freguglia</span><sup><a href="#aff6">6</a> 
+			</sup></p>
+</div>
+<div class="autores"></div>
+<p class="aff"><a name="aff3"></a><sup><sup>3</sup></sup>University of Southampton, Southampton, Hampshire, United Kingdom. E-mail: larissamarioni@gmail.com</p>
+<p class="aff"><a name="aff4"></a><sup><sup>4</sup></sup>Universidade Federal de Juiz de Fora (UFJF). Juiz de Fora, Minas Gerais, Brasil. E-mail: vinicius.a.vale@gmail.com</p>
+<p class="aff"><a name="aff5"></a><sup><sup>5</sup></sup>Universidade Federal de Juiz de Fora (UFJF). Juiz de Fora, Minas Gerais, Brasil. E-mail: fernando.perobelli@ufjf.edu.br</p>
+<p class="aff"><a name="aff6"></a><sup><sup>6</sup></sup>Universidade Federal de Juiz de Fora (UFJF). Juiz de Fora, Minas Gerais, Brasil. E-mail: ricardo.freguglia@ufjf.edu.br</p>
+<p></p>
+<p></p>
+<div class="abstract">
+<p class="sec"><a name="Resumo:">Resumo:</a></p>
+<p>O presente trabalho tem por objetivo avaliar o impacto do Pronaf no PIB da economia brasileira e nos PIBs setoriais (PIB de serviços, agropecuário e industrial) a partir da aplicação de regressão quantílica com efeitos fixos para dados em painel. Além disso, diante da questão relativa à distribuição dos recursos, avaliam-se os diferentes resultados dentro do contexto regional, isto é, os diferentes impactos nas cinco macrorregiões do País (Norte, Nordeste, Centro­-Oeste, Sudeste e Sul). O uso do modelo de regressão quantílica com efeitos fixos para dados em painel se justifica pelo fato de que as variáveis usadas na análise apresentam forte desigualdade entre os municípios brasileiros. Ao observar a resposta de cada quantil, e não apenas em relação à média, bem como levar em consideração o controle dos efeitos fixos, os efeitos do Pronaf sobre o PIB podem ser melhor captados. Os principais resultados obtidos indicam que há um efeito positivo do programa sobre o PIB total e PIBs setoriais. Apesar de o programa ser de caráter nacional, há diferentes efeitos entre as regiões, que sugerem que (i) mudanças e aprimoramentos no Pronaf possam ser conduzidos de maneira pertinente à cada região e que (ii) os recursos possam ser descentralizados.</p>
+<p><b>Palavras-chaves: </b>Agricultura familiar; Pronaf; Impacto nacional e regional; Regressão quantílica; Efeitos fixos</p>
+</div>
+<div class="trans-abstract">
+<p class="sec"><a name="Abstract:">Abstract:</a></p>
+<p>This study aims to assess the impact of Pronaf on the Brazilian GDP and on sectoral GDP (services, agricultural and industrial) from the application of quantile regression with fixed effects for panel data. Given the criticism regarding the distribution of resources, we also evaluate the different results within the regional context, i.e. the different impacts in the five geographical regions of Brazil (North, Northeast, Midwest, Southeast and South). We use the quantile regression model with fixed effects to panel database, since the variables used in the analysis provide strong inequality between municipalities. By observing the response of each quantile, not just from the average, as well as taking into account the control of fixed effects, the effects of Pronaf on GDP can be better captured. Although the program is national, the different results between regions suggest that (i) changes and improvements in Pronaf should be conducted properly to each region and (ii) it is clear the necessity to decentralize resources.</p>
+<p><b>Key-words: </b>Familiar agriculture; Pronaf; National and regional impact; Quantile regression; Fixed effects</p>
+</div>
+</div>
+<div id="article-body" class="body">
+<div class="section">
+<a name="idp1684080"><!-- named anchor --></a><p class="sec">1. Introdução</p>
+<p>A agropecuária é um setor de suma importância para a economia brasileira, com forte dinamismo recente. Como exposto por <sup><a href="#B5">Belik (2015</a></sup>), é possível observar que o setor manteve, nos últimos anos, sua trajetória de crescimento, com aumento do Produto Interno Bruto (PIB) setorial de 3,9% ao ano ante 3,6% da economia brasileira entre 2000 e 2011. Além disso, ainda segundo o autor, o agronegócio tem sido, desde 2007, o principal responsável pelo saldo positivo da balança comercial dada a sua significativa participação nas exportações brasileiras (mais de 40%).</p>
+<p>O dinamismo recente do setor agropecuário tem sido foco de estudo por diferentes tipos de análises. <sup><a href="#B5">Belik (2015</a></sup>), por exemplo, busca verificar o comportamento da agropecuária na última década e a atuação do principal instrumento de política setorial, o crédito rural, com intuito de entender a que se atribui tal dinamismo recente do setor.</p>
+<p>Neste contexto, é possível dizer que a agricultura familiar esteve pouco presente no processo de desenvolvimento da agricultura brasileira ao longo do tempo. Os incentivos governamentais oferecidos ao setor agrícola eram concentrados para as grandes propriedades rurais, com o objetivo de melhorar os saldos da balança comercial a partir do aumento da produção voltada para o mercado externo. Dessa forma, as políticas públicas destinadas à agricultura familiar foram deixadas de lado (<sup><a href="#B28">PEREIRA e NASCIMENTO, 2014</a></sup>).</p>
+<p>De acordo com <sup><a href="#B29">Pires (2013</a></sup>), o processo de modernização da agricultura brasileira foi decorrente de inovações tecnológicas advindas da Revolução Verde<sup><a href="#fn7"><sup>7</sup></a></sup>. O incremento de produtividade do trabalho ampliou o produto agropecuário e favoreceu o desenvolvimento do setor industrial e urbano através da oferta de alimentos, matérias-primas e mão de obra e serviu, ainda, de mercado para o setor industrial.</p>
+<p>Contudo, conforme ressaltam <sup><a href="#B11">Castro et al. (2014</a></sup>), esse processo intensificou a heterogeneidade estrutural do setor, uma vez que o progresso técnico foi introduzido de forma diferenciada e assimétrica entre os agricultores. A estratégia de desenvolvimento rural adotada levou a um modelo que restringiu o acesso dos agentes econômicos aos instrumentos econômicos, financeiros e sociais. Com isso, estruturas modernas e atrasadas conviviam ao mesmo tempo (<sup><a href="#B29">PIRES, 2013</a></sup>).</p>
+<p>Não havia no Brasil, até 1994, uma linha de crédito voltada diretamente para a agricultura familiar. O pequeno produtor rural disputava, de forma desvantajosa, o crédito rural com o grande produtor rural, que tinha maior acesso aos mecanismos de financiamento. Para os pequenos produtores o acesso ao crédito para custeio e financiamento de suas atividades era restrito<sup><a href="#fn8"><sup>8</sup></a></sup>.</p>
+<p>Em 1995<sup><a href="#fn9"><sup>9</sup></a></sup>, o governo federal criou um programa capaz de atender o segmento da produção constituído pela agricultura familiar. Assim, no início do mandato do primeiro governo do presidente Fernando Henrique Cardoso, foi elaborado o Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf).</p>
+<p>Segundo <sup><a href="#B18">Guanziroli (2007</a></sup>), o Pronaf surge em um contexto em que os principais problemas enfrentados pelos agricultores familiares eram relativos ao custo e à escassez de crédito. O programa destina-se ao custeio da safra ou atividade agroindustrial, compra de equipamento e investimentos em máquinas e infraestrutura de produção. Além disso, o programa trouxe para o País, segundo o autor, um novo mecanismo de microcrédito direcionado para um grupo específico que era excluído do acesso aos recursos financeiros.</p>
+<p>Dessa forma, o Pronaf tem por objetivo estimular a produção familiar para que se crie um novo modo de produção moderno, que incorpora novas técnicas e tecnologias de produção voltadas para atender os agentes econômicos. Estes se organizam em um sistema de mercado que serve para os agricultores adquirirem tecnologias que os permitam aumentar sua produtividade do trabalho, elevando, assim, a capacidade de geração de emprego e renda (<sup><a href="#B29">PIRES, 2013</a></sup>).</p>
+<p>No contexto recente da economia brasileira, do dinamismo do setor agropecuário brasileiro e da importância da agricultura familiar para o setor, esse trabalho tem por objetivo avaliar o impacto do Pronaf no PIB da economia brasileira e nos PIBs setoriais (PIB de serviços, agropecuário e industrial) a partir da aplicação de regressão quantílica com efeitos fixos para dados em painel. Em outras palavras, busca-se a partir de uma técnica econométrica ainda pouca difundida entre os pesquisadores brasileiros analisar a agricultura familiar brasileira e observar os seus relevantes resultados. Esse tipo de especificação, até onde foi investigado, não foi utilizado na literatura empírica para avaliar o Pronaf, portanto, contribui com o tema no sentido de aplicar uma nova ferramenta econométrica e obter análises não mensuráveis até então por outras técnicas. Além disso, dadas as críticas com respeito à distribuição dos recursos, o trabalho também procura avaliar os diferentes resultados dentro do contexto regional, isto é, os diferentes impactos nas cinco macrorregiões do País.</p>
+<p>Em adição à discussão feita até aqui, a pesquisa sobre o tema se justifica pela notável relevância da agricultura familiar no contexto econômico nacional, dado que esta representa uma parte importante nos estabelecimentos agropecuários nacionais e na absorção de mão de obra no meio rural. Além disso, o Pronaf foi responsável por uma mudança considerável na agricultura brasileira, portanto, carece de atenção e avaliação como forma de garantir que esteja cumprindo seus objetivos de proteger a parcela da população rural que tem acentuada participação na economia nacional.</p>
+<p>Além desta breve introdução, este texto está dividido em mais quatro seções. Na segunda seção, faz-se uma contextualização do Pronaf, dos seus efeitos e aplicações. Na terceira seção, apresenta-se a metodologia e a base de dados utilizada. Na quarta seção, analisam-se os resultados. Por último, na quinta seção, são apresentadas as conclusões.</p>
+</div>
+<div class="section">
+<a name="idp1710304"><!-- named anchor --></a><p class="sub-subsec">2. Programa Nacional de Fortalecimento da Agricultura Familiar</p>
+<p>O Pronaf foi instituído por meio do Decreto n. 1946, da Presidência da República, de 28 de junho de 1996, com o objetivo de "promover o desenvolvimento sustentável do segmento rural constituído pelos agricultores familiares, de modo a propiciar-lhes o aumento da capacidade produtiva, a geração de emprego e melhoria de renda" (<sup><a href="#B7">BRASIL, 1996</a></sup>, p. 1). O programa foi elaborado para ofertar dois tipos de créditos para os agricultores familiares, o crédito de custeio e o crédito para investimento. Através destes, os agricultores familiares teriam condições de se modernizarem.</p>
+<p>Os créditos de custeio são relacionados às atividades ligadas ao ciclo de produção, entressafra e à agregação de valor, armazenamento e comercialização de produtos agropecuários produzidos em unidades de produção familiar. Os créditos de investimentos, por sua vez, são direcionados aos ativos que tenham por objetivo a ampliação e modernização e o processamento da unidade de produção familiar. Além das atividades relacionadas à comercialização, turismo rural, extrativismo, preservação ambiental e melhoria da infraestrutura (<sup><a href="#B29">PIRES, 2013</a></sup>).</p>
+<p>Entre 1997 e 2002, várias mudanças foram implementadas ao programa. Em termos institucionais, o programa deixou de fazer parte do Ministério da Agricultura e foi incorporado ao Ministério do Desenvolvimento Agrário (MDA). Com isso, houve a criação da Secretaria da Agricultura Familiar (SAF) no MDA, que promoveu maior visibilidade e centralização à agricultura familiar. Em relação às linhas de atuação do Pronaf, as mudanças foram ligadas à proibição de recursos destinados à cultura do fumo, à inclusão dos silvicultores, à disponibilidade de crédito para atividades não agrícolas como, por exemplo, artesanato e turismo rural, em relação às tarifas e obrigações bancárias, redução das taxas de juros (<sup><a href="#B1">ALEIXO et al., 2007</a></sup>). E no que diz respeito às modalidades de crédito contempladas, tem-se que estas foram classificadas de acordo com especificidades em relação à taxa de juros, limites de financiamento, bônus de adimplência, públicos-alvo e finalidades (<sup><a href="#B36">SOUSA e VALENTE JÚNIOR, 2006</a></sup>).</p>
+<p>A partir de 2010, as categorias de grupos de empréstimos do Pronaf foram consolidadas em cinco, a saber: agroindústria familiar, grupo A, grupo A/C, grupo B e grupo "Variável" . De acordo com o <sup><a href="#B23">Ipea (2013</a></sup>), no grupo A estão os recursos destinados aos assentados da reforma agrária, enquanto que os outros grupos são divididos de acordo com a renda bruta anual e participação da mão de obra familiar no estabelecimento.</p>
+<p>Segundo dados do <sup><a href="#B22">Censo Agropecuário (2006</a></sup>), é possível observar a relevância da agricultura familiar no dinamismo do setor agropecuário brasileiro. Conforme a <a href="#t1">Tabela 1</a>, o número de estabelecimentos agropecuários familiares é maior, em todas as macrorregiões, que o número de estabelecimentos não familiares, apesar de a área ser maior nos estabelecimentos não familiares. A macrorregião que possui o maior número de estabelecimentos na agricultura familiar é a Nordeste, com 2.187.131, seguida pela região Sul, com 849.693 estabelecimentos. Já o menor número de estabelecimentos da agricultura familiar é visto no Centro-Oeste, 217.022.</p>
+<p>
+				<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t1"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 1: </span><span class="caption">Estabelecimentos e área da agricultura por macrorregião </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt1.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt1.jpg"></a><a name="TFN1"></a><p>Fonte: <sup><a href="#B22">IBGE, Censo Agropecuário 2006</a></sup>.</p>
+</div>
+			</p>
+<p>Uma das principais críticas ao programa diz respeito ao ideal de distribuição dos recursos, tanto regionais como sociais. Em suma, o programa tem por objetivo promover o desenvolvimento sustentável do segmento rural composto pelos agricultores familiares; entretanto, estes não obtiveram muito sucesso no que diz respeito à desconcentração dos recursos (<sup><a href="#B36">SOUSA e VALENTE JÚNIOR, 2006</a></sup>; <sup><a href="#B2">AQUINO e SCHNEIDER, 2010</a></sup>). Conforme <sup><a href="#B21">Grisa et al. (2014</a></sup>), apesar dos quase 20 anos do programa, os recursos ainda são concentrados nas commodities (em destaque, soja, milho e café) e nos agricultores familiares mais capitalizados das regiões Sul, Sudeste e Centro-Oeste.</p>
+<p>De acordo com a <a href="#t2">Tabela 2</a>, a macrorregião que recebeu o maior volume de recursos do Pronaf entre 2000 e 2012 foi a região Sul, R$ 64.015,48 milhões, enquanto que a que recebeu o menor volume de recursos foi a região Norte, R$ 7.924,09 milhões. O Nordeste, por sua vez, que é responsável pelo maior número de agricultores familiares (<a href="#t1">Tabela 1</a>) recebeu volume menor que o Sul e Sudeste.</p>
+<p>
+				<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t2"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 2: </span><span class="caption">Volume de recursos do Pronaf: macrorregiões e Brasil (em milhões de reais) </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt2.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt2.jpg"></a><a name="TFN2"></a><p>Fonte: Elaboração própria.</p>
+</div>
+			</p>
+<p>Dada a importância e então aparente consolidação do Pronaf como política de Estado, é possível encontrar uma vasta literatura que aborda a questão da agricultura familiar e o Pronaf. Dentre as diferentes abordagens tem-se como destaque a questão da aplicação, impactos e distribuição regional do crédito (e.g. <sup><a href="#B26">MAGALHÃES et al., 2006</a></sup>; <sup><a href="#B33">SILVA, 2006</a></sup>; <sup><a href="#B36">SOUSA e VALENTE JÚNIOR, 2006</a></sup>; <sup><a href="#B27">MATTEI et al., 2007</a></sup>; <sup><a href="#B13">CORRÊA e SILVA, 2007</a></sup>; <sup><a href="#B35">SILVA e ALVES FILHO, 2009</a></sup>; <sup><a href="#B34">SILVA, 2011</a></sup>; <sup><a href="#B19">GUANZIROLI et al., 2012</a></sup>; <sup><a href="#B4">BATISTA e NEDER, 2014</a></sup>; <sup><a href="#B11">CASTRO et al., 2014</a></sup>; <sup><a href="#B32">SANTOS et al., 2014</a></sup>; <sup><a href="#B28">PEREIRA e NASCIMENTO, 2014</a></sup>; entre outros)<sup><a href="#B11">11</a></sup>.</p>
+<p>A literatura indica resultados diversos do programa. <sup><a href="#B1">Aleixo et al. (2007</a></sup>) avaliaram que os indicadores de qualidade de vida de beneficiários do Pronaf em assentamentos de reforma agrária na região Nordeste melhoraram após a implementação do programa, principalmente em relação ao acesso de bens de consumo duráveis e às condições de moradia, indicando melhoria por conseguinte, na geração de emprego e renda.</p>
+<p>
+				<sup><a href="#B27">Mattei et al. (2007</a></sup>) encontraram resultados positivos quando analisaram os impactos da alocação de recursos do Pronaf dos municípios das regiões Nordeste, Sudeste e Norte sobre indicadores produtivos, demográficos, sociais e tributários.</p>
+<p>
+				<sup><a href="#B34">Silva (2011</a></sup>) avaliou os impactos de recursos do Pronaf sobre indicadores de produção agregada, de geração de emprego e renda e da geração de impostos para o território rural do Médio Jequitinhonha (MG) e encontrou resultados positivos entre 2000 e 2007.</p>
+<p>De forma similar, <sup><a href="#B35">Silva e Alves Filho (2009</a></sup>) verificaram os impactos econômicos do Pronaf nas economias locais, levando-se em conta o PIB total, setorial e per capita e adotando como recorte geográfico o Território Rural do Médio Jequitinhonha (MG). Os autores encontraram evidencias de que o Pronaf vem apresentando impactos positivos em variáveis macroeconômicas dos municípios analisados, o que indica a contribuição do programa para o desenvolvimento das economias locais.</p>
+<p>
+				<sup><a href="#B11">Castro et al. (2014</a></sup>) avaliaram os impactos do Pronaf nas cinco regiões brasileiras a nível municipal, microrregional e mesorregional para o período 2000-2010. Os autores encontraram impactos positivos do Pronaf sobre o PIB per capita e PIB agropecuário nas regiões Nordeste, Sudeste e Sul, enquanto que as regiões Norte e Centro-Oeste não houve impacto do programa.</p>
+<p>
+				<sup><a href="#B26">Magalhães et al. (2006</a></sup>), por conseguinte, avaliam a experiência do Pronaf entre os agricultores do estado de Pernambuco a partir de uma amostra de aproximadamente 4.500 agricultores familiares, coletados em 2001, divididos entre beneficiários do programa e um grupo de controle. A partir da utilização do método de Propensity Score para corrigir as estimativas para a existência de viés de participação, os autores apontam para uma pequena eficácia do Pronaf no estado. Ademais, quando as diferenças de características e probabilidades de participação do programa são consideradas, há indicação de que o programa não tem gerado um impacto significativo para o público-alvo em Pernambuco.</p>
+<p>Com o intuito de analisar a contribuição do Pronaf para o desenvolvimento sustentável da agricultura familiar no estado do Ceará, a partir de dados primários dos municípios de Baturité, Iguatu e Quixadá, <sup><a href="#B14">Damasceno, Khan e Lima (2011</a></sup>) calcularam um Índice de Sustentabilidade (IS) do emprego agropecuário por hectare cultivado e da renda agropecuária por hectare cultivado. Os autores mensuraram o nível de desenvolvimento sustentável dos agricultores familiares beneficiários e não beneficiários e o efeito do programa sobre a renda e o emprego e encontraram que tanto os agricultores familiares beneficiários quanto aqueles não beneficiários apresentaram baixo nível de sustentabilidade. O Pronaf teve impacto positivo, mas não significante sobre a geração de renda e efeito positivo sobre o emprego.</p>
+<p>
+				<sup><a href="#B32">Santos et al. (2014</a></sup>), por sua vez, encontraram que, dada uma variação positiva no crédito do programa concedido, há uma variação negativa na renda per capita, indicando que o programa ainda é ineficiente para o desenvolvimento dos municípios estudados. Os autores avaliaram o estado de Minas Gerais para o período 2008-2010.</p>
+<p>
+				<sup><a href="#B28">Pereira e Nascimento (2014</a></sup>) avaliaram a capacidade do Pronaf de contribuir para a redução do hiato entre o potencial produtivo e o efetivo da agropecuária. Os autores analisaram o estado do Tocantins para o período entre 2002 e 2009 e encontraram evidências positivas do programa sobre indicadores de produção agrícola de origem familiar.</p>
+</div>
+<div class="section">
+<a name="idp1774448"><!-- named anchor --></a><p class="sec">3. Metodologia e base de dados</p>
+<div class="section">
+<a name="idp1775408"><!-- named anchor --></a><p class="sub-subsec">3.1. Regressão quantílica com efeitos fixos para dados em painel</p>
+<p>Como é provável que o Pronaf tenha impacto diferente na distribuição das variáveis de produção agregada brasileira (PIB total, agropecuário, serviços e indústrias) utilizar-se-á o modelo de regressão quantílica para dados em painel para avaliá-lo. Para tal, serão estimados os quantis 10, 25, 50, 75 e 90.</p>
+<p>O modelo de regressão quantílica se justifica pelo fato de que dado que as variáveis usadas na análise, Pronaf e PIBs, apresentam forte desigualdade entre os municípios brasileiros, o uso de tal modelo torna os resultados mais robustos ao observar a resposta de cada quantil e utiliza a mediana condicional como medida de tendência central, o que torna a regressão mais robusta em resposta aos outliers. Em outras palavras, a partir das regressões quantílicas é possível observar a resposta de cada quantil, enquanto que na regressão por Mínimos Quadrados Ordinários (MQO) há apenas uma reta de regressão em torno da média, podendo ofuscar importantes efeitos distributivos.</p>
+<p>
+					<sup><a href="#B25">Koenker e Bassett (1978</a></sup>) foram os pioneiros no estudo das regressões quantílicas (RQ) e o modelo introduzido por eles permite que o impacto das covariáveis varie com um termo de erro não separável. Em suma, os modelos de regressão quantílica permitem ao pesquisador considerar a heterogeneidade não observada e efeitos de covariáveis heterogêneas, enquanto os dados em painel permitem a inclusão de efeitos fixos para controlar covariáveis não observadas (<sup><a href="#B8">CANAY, 2011</a></sup>). Com a popularidade desses dois métodos, a literatura envolvendo ambos vêm crescendo. <sup><a href="#B24">Koenker (2004</a></sup>) introduziu uma nova abordagem para estimar regressões quantílicas com efeitos fixos para dados em painel.</p>
+<p>Nas regressões em torno da média, é possível incluir os efeitos fixos com dados em painel para identificar a variação within dos grupos. De forma análoga, é possível incluir efeitos fixos aditivos aos estimadores de regressões quantílicas em painel (<sup><a href="#B24">KOENKER, 2004</a></sup>; <sup><a href="#B8">CANAY, 2011</a></sup>; <sup><a href="#B17">GALVÃO JR., 2011</a></sup>). Entretanto, essa técnica pode modificar o modelo, pois altera a interpretação dos parâmetros de interesse, uma vez que separa o termo de erro em diferentes componentes e assume que os parâmetros não variam baseados no efeito fixo. A preocupação existente na literatura de estimação quantílica com efeitos fixos são as dificuldades de se estimar um grande número de efeitos fixos nos quantis e considerar os problemas de parâmetros incidentais quando T é pequeno. O estimador QRPD (Quantile Regression for Panel Data) introduzido por <sup><a href="#B30">Powell (2014</a></sup>) evita essas preocupações e as estimativas são consistentes quando T é pequeno, até mesmo se T = 2. Além disso, permite condicionar aos efeitos fixos para propósitos de identificação e mantém a propriedade dos distúrbios não separados dos modelos de regressão quantílica, ao contrário do modelo com efeitos fixos aditivos<sup><a href="#B12">12</a></sup>. O QPRD permite que os parâmetros sejam interpretados da mesma forma que as estimativas de regressão quantílica em cross-section.</p>
+<p>Para fins de identificação, a estratégia empírica requer condicionamento nos efeitos fixos, nesse caso, dos municípios. Dessa forma, o presente trabalho utilizar-se-á do estimador QRPD de <sup><a href="#B30">Powell (2014</a></sup>)<sup><a href="#B13">13</a></sup> para estimar as regressões de efeito de tratamento quantílico (QTE) e condicionar nos efeitos fixos para fins de identificação.</p>
+<p>Com exceção do QRPD, os demais métodos de regressão quantílica em painel focam na estimação dos efeitos fixos (αi). Seja ϒit a variável dependente e Xit o conjunto de variáveis explicativas, os estimadores quantílicos com efeitos aditivos fornecem estimativas da distribuição de (ϒit - αi) | Xit ao invés de estimar a distribuição de ϒit | ϒit. Logo, observações na parte superior da distribuição (ϒit - αi) | Xit podem estar na parte inferior da distribuição ϒit | Xit.</p>
+<p>
+					<sup><a href="#B30">Powell (2014</a></sup>) modela a variável dependente como:</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee1.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee1.jpg"></a>
+					</span></div>
+				</p>
+<p>Em que Xitβ(τ) é estritamente crescente em τ, e U*it é a propensão ao resultado, ou seja, é uma função dos efeitos fixos individuais e do termo de erro (<sup><a href="#B16">DOKSUM, 1974</a></sup>).</p>
+<p>O QTE representa o efeito causal de uma mudança nas variáveis de tratamento de x1 para x2 em ϒit, mantendo τ fixo, x`2β(τ) - x`2β(τ). O estimador QRPD de <sup><a href="#B30">Powell (2014</a></sup>) estima QTEs para a variável ϒit e a função quantílica estrutural (SQF) da <a href="#e1">equação (1)</a> é dada por:</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee2.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee2.jpg"></a>
+					</span></div>
+				</p>
+<p>A função SQF descreve o τ-ésimo quantil de ϒ dado x. A estimação da SQF é possível com o uso de regressão quantílica quando U* e X são independentes. Entretanto, o estimador QRPD relaxa a pressuposição de independência necessária à estimação da função SQF. A regressão quantílica baseia-se na restrição condicional:</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee3.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee3.jpg"></a>
+					</span></div>
+				</p>
+<p>De acordo com a <a href="#e3">equação (3)</a> a probabilidade de a variável de interesse ser menor que a função quantílica, para todo Xit, é igual a τ. O estimador QRPD, por sua vez, permite que essa probabilidade varie por indivíduo e até mesmo intraindivíduo, desde que a variação seja ortogonal aos instrumentos. Dessa forma, seja Xi = (Xi1, ..., XiT), o estimador QRPD baseia-se na restrição condicional e incondicional:</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee4.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee4.jpg"></a>
+					</span></div>
+				</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee5.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee5.jpg"></a>
+					</span></div>
+				</p>
+<p>Assim, ao invés de assumir que P(ϒ≤X`itβ(τ)) = τ para todo Xi, o estimador QRPD permite que a probabilidade varie por unidade de análise i - no caso desse trabalho, município. Segundo a equação (5), na média, a probabilidade da variável de interesse ser menor que a função quantílica é igual a τ, entretanto, o estimador permite a heterogeneidade entre os municípios.</p>
+<p>O modelo econométrico utilizado é especificado em log-log, de forma que os coeficientes estimados medem a elasticidade:</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee6.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee6.jpg"></a>
+					</span></div>
+				</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee7.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee7.jpg"></a>
+					</span></div>
+				</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee8.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee8.jpg"></a>
+					</span></div>
+				</p>
+<p>
+					<div class="disp-formula"><span class="formula">
+						<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee9.jpg"><img class="disp-formula-graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-ee9.jpg"></a>
+					</span></div>
+				</p>
+<p>Em que Ln(PIBTotal)it, Ln(PIBIndústria)it, Ln(PIBServiços)it e Ln(PIBAgropecuário)it são os logaritmos naturais dos PIB total, da indústria, de serviços e da agricultura do município i, no ano t, αit é o efeito fixo baseado no município e no tempo, Ln(PRONAF)it é o logaritmo natural do Pronaf do município i, no ano t, e ɛit é o termo de erro.</p>
+</div>
+<div class="section">
+<a name="idp1820720"><!-- named anchor --></a><p class="sub-subsec">3.2. Base de dados</p>
+<p>Os dados usados nesse trabalho estão disponíveis para 5.534 municípios brasileiros para o período entre 2000 e 2012. Os dados do Pronaf são provenientes do Banco Central e representam a soma dos valores destinados ao custeio e ao investimento, tanto para a agricultura, quanto para a pecuária. Os dados de PIB são oriundos do IBGE (Instituto Brasileiro de Geografia e Estatística) e, além do PIB total, foram utilizados também o PIB agropecuário, PIB industrial e PIB serviços. Os valores das variáveis monetárias estão em reais, a preços constantes de 2012<sup><a href="#B14">14</a></sup>.</p>
+</div>
+</div>
+<div class="section">
+<a name="idp1823664"><!-- named anchor --></a><p class="sec">4. Resultados</p>
+<p>A presente seção apresenta os resultados obtidos em duas partes. A subseção 4.1 faz uma breve introdução por meio de análise descritiva preliminar dos dados utilizados. Na segunda parte, a subseção 4.2, faz-se uma análise dos resultados obtidos a partir da aplicação das regressões quantílicas com efeitos fixos para dados em painel. Em ambas análises de resultados, conforme mencionado anteriormente, os quantis utilizados foram os 10, 25, 50, 75 e 90. Em termos interpretativos, tem-se que nas análises o quantil 10 fornece os resultados para os municípios com os 10% menores PIBs, enquanto que o quantil 90 fornece resultado para os municípios com os 90% maiores PIBs. A interpretação para os quantis 50 e 75 é feita de forma análoga.</p>
+<div class="section">
+<a name="idp1826560"><!-- named anchor --></a><p class="sub-subsec">4.1. Análise descritiva</p>
+<p>A <a href="#f1">Figura 1</a> mostra a evolução da média dos recursos do Pronaf. Em geral, é possível observar um comportamento ascendente, entretanto, com algumas exceções: 2002 e 2007. O crescimento mais acentuado ocorre entre 2004 e 2006, seguido pelo crescimento em 2008. Apesar do crescimento ascendente nos anos recentes, entre 2009 e 2011 o mesmo é modesto, apenas 2,01%. Porém, em 2012, último ano de análise, o volume médio de recursos volta a crescer de forma acentuada, 15,54% em relação ao ano anterior.</p>
+<p>
+					<!--_ STANDARD  _--><div class="figure">
+<a name="f1"><!-- named anchor --></a><a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf1.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf1.jpg"></a><p>Fonte: Elaboração própria</p>
+<p class="label_caption"><span class="label">Figura 1: </span><span class="caption">Evolução da média dos recursos do Pronaf (em mil reais) </span></p>
+</div>
+				</p>
+<p>A <a href="#f2">Figura 2</a> mostra a variação percentual acumulada desde 2000 por quantil do PIB total. À esquerda tem-se a variação acumulada da média do próprio PIB total e pode ser visto que, até 2005, o quantil 75 apresentava a maior variação acumulada, 0,57% em relação a 2000. De 2006 em diante, o quantil 10 foi o que mais se destacou, chegando a 6,22% de variação acumulada em 2012, enquanto que a segunda maior variação em 2012 foi no quantil 75, cerca de 2,39%. Em outras palavras, tem-se que as mudanças mais expressivas ao longo dos anos podem ser observadas para os municípios 10% mais pobres (quantil 10) e para os municípios com os 75% maiores PIBs (quantil 75).</p>
+<p>
+					<!--_ STANDARD  _--><div class="figure">
+<a name="f2"><!-- named anchor --></a><a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf2.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf2.jpg"></a><p>Fonte: Elaboração própria.</p>
+<p class="label_caption"><span class="label">Figura 2: </span><span class="caption">Variação % acumulada por quantil do PIB total </span></p>
+</div>
+				</p>
+<p>À direita, na <a href="#f2">Figura 2</a>, tem-se, por sua vez, a variação percentual acumulada desde 2000 da média de recursos recebidos do Pronaf por quantil do PIB total. Entre 2005 e 2007, os municípios 10% mais pobres, em termos de PIB total, apresentaram maior variação acumulada dos recursos recebidos do Pronaf, chegando a 142,42% em 2006. De 2008 até 2011, o quantil 25 apresentou maior variação, atingindo 109,48% em 2011. Em 2012, o quantil 10 voltou a apresentar maior variação acumulada, cerca de 164,64% em todo o período analisado, seguido do quantil 25, com 144,15%.</p>
+<p>A <a href="#f3">Figura 3</a> foi construída de maneira semelhante a <a href="#f2">Figura 2</a>; entretanto, os quantis analisados são do PIB agropecuário. À esquerda da <a href="#f3">Figura 3</a>, é possível perceber que todos os quantis, com exceção do quantil 10, apresentaram uma trajetória estável em relação à variação acumulada da média do PIB agropecuário, e dentre esses, o quantil 50 teve maiores variações. O quantil 10, por sua vez, oscilou durante todo o período e, ao final de 2012, apresentou variação acumulada de -13,39%.</p>
+<p>
+					<!--_ STANDARD  _--><div class="figure">
+<a name="f3"><!-- named anchor --></a><a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf3.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf3.jpg"></a><p>Fonte: Elaboração própria.</p>
+<p class="label_caption"><span class="label">Figura 3: </span><span class="caption">Variação % acumulada por quantil do PIB agropecuário </span></p>
+</div>
+				</p>
+<p>À direita, na <a href="#f3">Figura 3</a>, é possível observar que em 2001 e 2002 todos os quantis apresentaram variação acumulada negativa da média de recursos do Pronaf. O quantil 10 recebeu, em 2002, -13,52% em relação a 2000. A partir de 2002, o quantil 25 apresentou maior variação acumulada, atingindo 314,77% em 2012, a maior variação desde 2006, 182,77%.</p>
+<p>Na <a href="#f4">Figura 4</a>, os quantis são de acordo com o PIB de serviços. Assim, à esquerda é possível observar que, até 2005, os quantis 10 e 90 apresentaram variação acumulada da média do PIB de serviços positiva. Entre 2006 e 2009, em todos os quantis analisados, a variação foi negativa, sendo o maior valor acumulado para o quantil 10 em 2006, cerca de -6,79%. De 2010 em diante, somente o quantil 10 apresentou variação positiva, enquanto os demais permaneceram com variação acumulada negativa. Em 2012, o acumulado do período para o quantil 10 foi de 2,34% enquanto que para o quantil 90 foi de -2,24%.</p>
+<p>
+					<!--_ STANDARD  _--><div class="figure">
+<a name="f4"><!-- named anchor --></a><a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf4.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf4.jpg"></a><p>Fonte: Elaboração própria.</p>
+<p class="label_caption"><span class="label">Figura 4: </span><span class="caption">Variação % acumulada por quantil do PIB de serviços </span></p>
+</div>
+				</p>
+<p>À direita da <a href="#f4">Figura 4</a> tem-se uma trajetória crescente ao longo do período para todos os quantis analisados. Em 2012, a variação acumulada do quantil 10 foi de 565,76%, enquanto que para os quantis 25, 50, 75 e 90 foi de 356,07%, 295%, 150,76% e 99,45%, respectivamente.</p>
+<p>Por fim, a <a href="#f5">Figura 5</a> traz a variação acumulada em percentual desde 2000 da média tanto do PIB industrial (à esquerda) quanto do volume de recursos do Pronaf (à direita) por quantil do PIB industrial. Dessa forma, é possível observar que, com exceção do quantil 10, a variação acumulada da média do PIB industrial oscila pouco para os demais quantis. O quantil 10, por sua vez, apresenta maior mudança na variação acumulada ao longo do tempo, com tendência crescente. Em 2012, o crescimento acumulado do período da média do PIB industrial foi de 24,04% para o quantil 10, 2,72% para o quantil 25, 2,42% para o quantil 50, -0,23% para o quantil 75 e 2,51% para o quantil 90.</p>
+<p>
+					<!--_ STANDARD  _--><div class="figure">
+<a name="f5"><!-- named anchor --></a><a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf5.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf5.jpg"></a><p>Fonte: Elaboração própria.</p>
+<p class="label_caption"><span class="label">Figura 5: </span><span class="caption">Variação % acumulada por quantil do PIB industrial </span></p>
+</div>
+				</p>
+<p>Com relação aos recursos do Pronaf (à direita na <a href="#f5">Figura 5</a>), a variação acumulada é sempre maior no quantil 10, que atinge, em 2012, 205,58%, o maior valor desde 2009 (153,48%). O quantil 90 apresenta variação acumulada negativa até 2004, atingindo -22,59% em 2002. De 2005 a 2012, a variação acumulada é positiva para todos os quantis, indicando que houve aumento da média do volume de recursos do Pronaf em todos eles.</p>
+<p>As <a href="#f2">Figuras 2</a>, <a href="#f3"><sup>3</sup></a>, <a href="#f4"><sup>4</sup></a>, e <a href="#f5"><sup>5</sup></a> indicam um comportamento divergente das variáveis, principalmente quando são considerados os diferentes quantis. Todavia, em todos os PIBs analisados, o quantil 10 é o que apresenta maiores variações, ou seja, os municípios 10% mais pobres, em relação ao PIB total, PIB agropecuário, PIB de serviços e PIB industrial são os que retratam as mudanças mais bruscas ao longo dos anos. Com relação à distribuição de recursos do Pronaf por quantil de cada PIB, o quantil 10 também apresenta as maiores variações. A exceção é o PIB agropecuário, em que o quantil 25, apesar de ter um comportamento bem similar ao quantil 10, exibe oscilações maiores.</p>
+<p>Com base no panorama apresentado nessa seção, é possível observar a desigualdade entre os municípios brasileiros encorajando a análise por quantis.</p>
+<p>A <a href="#t3">Tabela 3</a> mostra as estatísticas descritivas para as variáveis usadas, a saber, Pronaf, PIB total, PIB agropecuário, PIB serviços e PIB indústria, para o Brasil e para cada uma das macrorregiões do País. É possível observar, assim como abordado por <sup><a href="#B11">Castro et al. (2014</a></sup>), que embora o Pronaf seja um programa voltado para o Brasil como um todo, o maior volume médio de recursos do Pronaf é destinado à região Sul, enquanto que o menor volume médio de recursos é o da região Nordeste, apesar de esta região possuir aproximadamente 50% dos agricultores familiares do Brasil, segundo o Censo Agropecuário de 2006 (<sup><a href="#B22">IBGE, 2011</a></sup>).</p>
+<p>
+					<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t3"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 3: </span><span class="caption">Estatísticas descritivas (em mil reais) </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt3.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt3.jpg"></a><a name="TFN3"></a><p>Fonte: Elaboração própria</p>
+</div>
+				</p>
+<p>Na <a href="#f6">Figura 6</a> é possível ver maior distribuição e concentração dos recursos advindos do Pronaf para os municípios da região Sul. No Sudeste, a maior concentração desses recursos ocorreu nos municípios do Espírito Santo e na região noroeste de Minas Gerais. Já no Nordeste, os municípios do Maranhão e Ceará receberam a maior quantidade de recursos do Pronaf.</p>
+<p>
+					<!--_ STANDARD  _--><div class="figure">
+<a name="f6"><!-- named anchor --></a><a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf6.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gf6.jpg"></a><p>Fonte: Elaboração própria.</p>
+<p class="label_caption"><span class="label">Figura 6: </span><span class="caption">Distribuição municipal dos recursos do Pronaf entre 2000 e 2012 (em milhões de reais) </span></p>
+</div>
+				</p>
+<p>As regiões Centro-Oeste e Norte, apesar de receberem menor volume de recursos (<a href="#t2">Tabela 2</a>), os têm concentrados em municípios específicos. Para a região Centro-Oeste, os municípios de Mato Grosso tiveram maior acúmulo de recursos do programa. Já na região Norte, munícipios do Pará e Rondônia centralizaram a maior parte destes recursos.</p>
+<p>A concentração de recursos do Pronaf nos municípios da região Sul pode ser explicada em parte, por fatores históricos do programa, dentre os quais destaca-se que: a) no início do programa houve concentração da distribuição desses recursos para a região Sul; b) maior acesso ao crédito por parte dos agricultores dos grupos C e D e c) organização da agricultura familiar no Sul do País. Portanto, tais fatores criaram diferenças estruturais para com o restante do País, levando a uma persistência da concentração na distribuição dos recursos.</p>
+<p>De acordo com o <sup><a href="#B15">Dieese (2011</a></sup>), os grupos C, D, E e "Variável" absorviam juntos 76,4% do montante de recursos do Pronaf no ano agrícola 2009/2010. Por outro lado, os grupos A, B, A/C e outros foram contemplados com 24,6% do total de recursos disponibilizados pelo programa. Assim sendo, o quadro de concentração permanece inalterado quando comparado aos períodos iniciais de análise. Desse modo, este fato explica os resultados disponibilizados pela <a href="#f6">Figura 6</a>, ou seja, de concentração dos recursos nos municípios da região Sul.</p>
+<p>Como ressaltado nas seções iniciais do trabalho, a estrutura de distribuição dos recursos tem se modificado tanto espacialmente como por grupos de renda. Mas, uma vez que as condições de partida tinham um grau de heterogeneidade muito grande, o quadro espacial de distribuição dos recursos (<a href="#f6">Figura 6</a>) ainda é concentrado e levará tempo para se tornar mais homogêneo.</p>
+</div>
+<div class="section">
+<a name="idp1893648"><!-- named anchor --></a><p class="sub-subsec">4.2. Análise empírica</p>
+<p>Nessa subseção são apresentados e discutidos os resultados das estimações por QRPD para o Brasil e para as macrorregiões brasileiras para as variáveis PIB total, PIB agropecuário, PIB de serviços e PIB industrial.</p>
+<p>A <a href="#t4">Tabela 4</a> traz os resultados do impacto do Pronaf no nível municipal, a partir da regressão quantílica para dados em painel, nas variáveis agregadas para todo o Brasil. A partir da mesma, é possível evidenciar que os coeficientes estimados para o Brasil são positivos, conforme esperado. O efeito do Pronaf no PIB total é positivo e significativo para os quantis analisados, com exceção do quantil 90. Esse resultado evidencia a importância do programa para a produção agregada do território nacional, em especial nos municípios pertencentes aos quantis 10 e 75.</p>
+<p>
+					<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t4"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 4: </span><span class="caption">Resultados das regressões quantílicas para o Brasil </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt4.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt4.jpg"></a><a name="TFN4"></a><p>Fonte: Elaboração própria.</p>
+</div>
+				</p>
+<p>O impacto do Pronaf no PIB agropecuário é positivo e significativo para todos os quantis analisados. Dada uma variação de 1% no Pronaf (ln Pronaf), ocorreria variação positiva de 0,055%, 0,061%, 0,046%, 0,04% e 0,029% no quantil 10, 25, 50, 75 e 90, respectivamente. Esses resultados indicam que o efeito do Pronaf é maior nos municípios de menor PIB agropecuário dados os maiores impactos nos quantis 10 e 25.</p>
+<p>Os impactos do Pronaf no PIB de serviços e industrial, por sua vez, também são positivos e significativos, com exceção do quantil 90 para o PIB industrial. Entretanto, como esperado, os impactos são menores do que os observados no PIB agropecuário. Apesar de esses impactos serem menores, os resultados remetem à importância do programa para o Brasil, pois apesar deeste ser voltado para a agricultura familiar, seus impactos são positivos para a economia como um todo, sendo capaz de influenciar positivamente os setores de serviços e industrial, por exemplo. Estes resultados positivos e significativos nos demais PIBs setoriais mostram a capacidade do programa em prover efeitos intersetoriais, ou seja, efeitos além do setor agropecuário. Embora não seja parte da análise e tão pouco seja testada empiricamente, é possível justificar tais resultados pelo encadeamento produtivo existente entre os diversos setores de uma economia. Em suma, a importância de uma atividade produtiva, como abordado por <sup><a href="#B20">Guilhoto et al. (2007</a></sup>), não se concentra apenas nela, de forma que transcende para as demais atividades dependentes dela. Cabe ressaltar que estes resultados estão em linha com outros trabalhos da literatura, como <sup><a href="#B34">Silva (2011</a></sup>), embora o autor não trabalhe com regressões quantílicas. A interdependência setorial está intrínseca aos objetivos do Pronaf, o crédito disponibilizado para os produtores está ligado ao ciclo produtivo (incorporação de novas técnicas, melhoria da produtividade e processamento) e também ao ciclo de armazenamento e comercialização. Portanto, ao fornecer crédito a esse grupo de agricultores há que se considerar não somente os impactos setoriais diretos, mas também os impactos indiretos, o que justifica, em parte, os resultados obtidos tanto para o PIB de serviços como o industrial.</p>
+<p>Além dessas questões inerentes aos impactos setoriais, é importante destacar os diferentes resultados com relação aos quantis. Embora a maioria dos resultados sejam significativos e positivos há uma diferença entre a magnitude dos coeficientes, o que evidencia uma heterogeneidade dos impactos sobre os quantis e reforça a importância de trabalhar com regressões quantílicas.</p>
+<p>Apesar da análise para a economia brasileira trazer resultados interessantes, dada a distribuição heterogênea dos recursos do Pronaf, com forte concentração na região Sul do país (ver <a href="#t2">Tabela 2</a>), faz-se necessário avaliar o impacto do Pronaf a nível municipal dentro das cinco macrorregiões do País de forma isolada. Para tal, as <a href="#t5">Tabelas 5</a>,<a href="#t6"><sup>6</sup></a>
+					<a href="#t7"><sup>7</sup></a>, <a href="#t8"><sup>8</sup></a> e <a href="#t9"><sup>9</sup></a> trazem os resultados das regressões quantílicas para o Nordeste, Norte, Centro-Oeste, Sudeste e Sul, respectivamente.</p>
+<p>
+					<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t5"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 5: </span><span class="caption">Resultados das regressões quantílicas para o Nordeste </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt5.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt5.jpg"></a><a name="TFN5"></a><p>Fonte: Elaboração própria.</p>
+</div>
+				</p>
+<p>
+					<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t6"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 6: </span><span class="caption">Resultados das regressões quantílicas para o Norte </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt6.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt6.jpg"></a><a name="TFN6"></a><p>Fonte: Elaboração própria.</p>
+</div>
+				</p>
+<p>
+					<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t7"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 7: </span><span class="caption">Resultados das regressões quantílicas para o Centro-Oeste </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt7.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt7.jpg"></a><a name="TFN7"></a><p>Fonte: Elaboração própria.</p>
+</div>
+				</p>
+<p>
+					<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t8"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 8: </span><span class="caption">Resultados das regressões quantílicas para o Sudeste </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt8.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt8.jpg"></a><a name="TFN8"></a><p>Fonte: Elaboração própria.</p>
+</div>
+				</p>
+<p>
+					<!--_ STANDARD  _--><div class="table-wrap">
+<a name="t9"><!-- named anchor --></a><p class="label_caption"><span class="label">Tabela 9: </span><span class="caption">Resultados das regressões quantílicas para o Sul </span></p>
+<a target="_blank" href="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt9.jpg"><img class="graphic" src="/img/revistas/resr/v54n2//1806-9479-resr-54-02-00221-gt9.jpg"></a><a name="TFN9"></a><p>Fonte: Elaboração própria.</p>
+</div>
+				</p>
+<p>A partir da <a href="#t5">Tabela 5</a>, é possível observar que, assim como para o Brasil, os coeficientes para o Nordeste são positivos, com exceção do quantil 90 para o PIB industrial. O efeito do Pronaf no PIB total é positivo para todos os quantis, sendo maior o impacto no quantil 50. Com relação ao impacto do Pronaf no PIB agropecuário da macrorregião tem-se um impacto positivo e também significativo para todos os quantis analisados. A variação no PIB agropecuário seria na ordem de 0,054%, 0,028%, 0,036%, 0,037% e 0,044% no quantil 10, 25, 50, 75 e 90, respectivamente, dada uma variação de 1% no Pronaf. Diferente do que é observado para o Brasil como um todo, para o Nordeste tem-se que o efeito do Pronaf é maior nos quantis 10 e 90. Estes resultados podem ser justificados pelo fato de que os municípios pertencentes aos quantis 10 e 90 tenham um maior número de agricultores de uma determinada categoria, e por essa razão recebem mais recursos, o que impacta diretamente nos resultados; entretanto, essa afirmação é hipotética e carece de mais investigações empíricas.</p>
+<p>O resultado para o PIB agropecuário para o Nordeste pode estar, em parte, ligado à estrutura produtiva da região. É sabido que o crédito do Pronaf para a região é predominantemente direcionado para culturas como mandioca, feijão e arroz. Nestas culturas se pratica a agricultura de subsistência. Portanto, o efeito multiplicador sobre o PIB agropecuário, quando comparado a outras regiões brasileiras, pode ser menor. Outra possível justificativa para tal resultado é a estrutura espacial do Nordeste em termos de distribuição dos recursos do Pronaf. Tal distribuição tem um certo grau de heterogeneidade, sendo que os estados do Maranhão, Piauí, Sergipe e Alagoas têm maior participação nos recursos. Além dessas questões o impacto sobre o PIB agropecuário, pode também estar ligado às características técnicas de produção desta região.</p>
+<p>O impacto do Pronaf no PIB de serviços e industrial do Nordeste, por sua vez, também é positivo e significativo, com exceção, assim como para o Brasil, do quantil 90 para o PIB industrial. Os impactos são menores do que os observados no PIB agropecuário, com exceção do quantil 25 para o PIB industrial.</p>
+<p>A partir da <a href="#t6">Tabela 6</a>, é possível observar os resultados para o Norte do País. O que se verifica é que, apesar de os impactos serem na sua maioria positivos, muitos desses são não significativos ao contrário dos encontrados para o Nordeste e para o Brasil como um todo. É possível observar que o efeito do Pronaf no PIB total é maior e estatisticamente significativo nos quantis 75 e 90. Conforme pode ser observado, o impacto do Pronaf no PIB agropecuário da macrorregião é significativo apenas para os quantis 25, 75 e 90, em que a variação no PIB agropecuário seria na ordem de 0,036%, 0,055%, 0,03%, respectivamente, dada uma variação de 1% no Pronaf. O impacto do Pronaf no PIB industrial da região Norte do País mostra um resultado interessante, pois os impactos são maiores do que aqueles apresentados para o PIB agropecuário para os quantis 50, 75 e 90.</p>
+<p>Algumas justificativas para os resultados da região Norte dizem respeito aos obstáculos ao desenvolvimento da agropecuária na região, conforme aponta <sup><a href="#B9">Castro (2013</a></sup>). Entre eles estão deficiência logística, questões ambientais e atrasos tecnológicos. Segundo <sup><a href="#B20">Guilhoto et al. (2007</a></sup>), a existência de propriedades familiares nessa região é oriunda de uma agricultura atrasada e de subsistência. Além disso, a limitação dos resultados pode estar relacionada à quantidade de recursos que essa região recebe, muito inferior às demais regiões (<a href="#t2">Tabela 2</a>).</p>
+<p>Para o Centro-Oeste (<a href="#t7">Tabela 7</a>) tem-se poucos resultados significativos. O impacto do Pronaf não é significativo no PIB total, com exceção do quantil 90 que, ao nível de significância de 10%, é negativo. O impacto do Pronaf no PIB agropecuário da macrorregião é significativo apenas para os quantis 10 e 25, com variação de 0,03% e 0,037%, respectivamente. Com relação ao impacto no PIB de serviços e industrial, tem-se que apenas o quantil 75 é significativo; entretanto, diferente do que foi observado para o Brasil, Nordeste e Norte, este é negativo dado uma variação de 1% no Pronaf.</p>
+<p>Uma possível justificativa para os resultados da região Centro-Oeste diz respeito à pequena participação da agricultura familiar no valor da produção agropecuária da região, que se destaca pelas grandes propriedades voltadas para a exportação. Como mostra <sup><a href="#B10">Castro (2014</a></sup>), a agricultura familiar é responsável por apenas 13,5% do total da produção agropecuária da região.</p>
+<p>Com base na <a href="#t8">Tabela 8</a>, é possível observar que, assim como para o Brasil, aqueles coeficientes significativos para o Sudeste são positivos. O efeito do Pronaf no PIB total só é significativo e positivo para os quantis 10, 25 e 50, ou seja, a parte inferior da distribuição. Com relação ao impacto do Pronaf no PIB agropecuário da macrorregião tem-se um impacto positivo e também significativo, com exceção do quantil 90, que é não significativo. A variação no PIB agropecuário seria na ordem de 0,063%, 0,062%, 0,056% e 0,036% nos quantis 10, 25, 50 e 75, respectivamente, dada uma variação de 1% no Pronaf. Assim como para o Brasil, para o Sudeste tem-se que o efeito do Pronaf é maior nos quantis menores, o que indica um efeito maior nos municípios de menores PIBs agropecuários.</p>
+<p>Os impactos do Pronaf no PIB de serviços do Sudeste, por sua vez, também são positivos e significativos, com exceção do quantis 75 e 90. Para o quantil 75, o coeficiente é não significativo, enquanto que para o quantil 90 o coeficiente é significativo; entretanto, é negativo. Os impactos no PIB industrial, por conseguinte, são significativos apenas para os dois menores quantis analisados no presente trabalho, a saber, 10 e 25. Em geral, o resultado encontrado para o impacto do Pronaf no PIB industrial sugere que para o Sudeste apenas os municípios com menores PIBs industriais responderiam a uma variação de 1% no Pronaf. Esses resultados positivos em todas as variáveis analisadas assinalam que o Pronaf causa efeitos intersetoriais nos municípios da região Sudeste.</p>
+<p>Por fim, a <a href="#t9">Tabela 9</a> traz os resultados para a região Sul do País. Como exposto anteriormente, a macrorregião Sul é a que recebeu maior volume de recursos do Pronaf, entretanto, quando se avalia o impacto do Pronaf nas variáveis agregadas, tem-se que apenas os coeficientes para o PIB agropecuário são significativos; porém, apenas para os quantis 10, 25 e 50. A variação no PIB agropecuário para estes quantis seria na ordem de 0,053%, 0,043% e 0,043%, respectivamente, dado uma variação de 1% no Pronaf. Estes resultados mais elevados nesses quantis (apenas a região Sudeste apresentou coeficientes maiores) já eram esperados devido à maior quantidade de recursos recebidos nessa região.</p>
+<p>Na região Sul, como dito anteriormente, há significância de resultados para o PIB agropecuário somente nos três primeiros estratos. Segundo dados do IBGE, nesta região do País há uma predominância da agricultura familiar, e há grande acesso ao Pronaf por parte dos agricultores. Isso fica mais evidente ao verificar o número de estabelecimentos no Sul do País que podem se enquadrar no programa. De acordo com <sup><a href="#B20">Guilhoto et al. (2007</a></sup>), o tipo de colonização nessa região permitiu aos agricultores desenvolverem formas de associativismo, possibilitando, assim, que unidades produtoras menores competissem com propriedades maiores. Um outro aspecto que pode explicar os impactos sobre o PIB agropecuário é a estrutura produtiva, ou seja, quais são os produtos produzidos por determinada região.</p>
+<p>Diante dos diferentes resultados das regressões quantílicas por macrorregião é possível perceber que o impacto do Pronaf no PIB agrícola é bastante significativo e apresenta certa heterogeneidade na sua dimensão para as diversas macrorregiões. Existem diversos fatos estilizados que podem explicar tais diferenças. Estes fatos englobam estrutura produtiva (i.e. tipo de cultura), destino da produção agrícola (i.e. exportações), número e tamanho de propriedades e percentual de propriedades beneficiadas pelos programas de financiamento agrícola. Portanto, uma vez que tais fatores não são distribuídos de forma equilibrada no espaço, a interdependência entre Pronaf e PIB agropecuário também pode ser influenciada por tais questões.</p>
+<p>O tamanho continental do Brasil leva a uma heterogeneidade muito grande no processo produtivo agrícola e, mesmo que uma mesma atividade seja desenvolvida em todo território nacional, são adotados diferentes sistemas produtivos. Isso, é claro, impacta na produtividade de tais atividades. Assim, mesmo que haja financiamento das mesmas culturas, uma vez que o sistema produtivo tem características diversas no espaço, a absorção/resposta destas atividades ao crédito ocorrerá de forma diferente, de acordo com a região. Portanto, o quadro de respostas diferentes espacialmente do PIB agropecuário ao financiamento do Pronaf é plenamente aceitável e pode estar sendo influenciado, em parte, por tais questões.</p>
+<p>Um outro ponto que merece atenção e pode estar influenciando os resultados é a concentração de renda em determinadas regiões. Este fato tem impacto direto sobre a distribuição do crédito entre as culturas e, por consequência, o crédito terá impacto diferenciado entre as atividades financiadas, de acordo com as regiões do País.</p>
+<p>Os resultados mostram que há uma dispersão dos impactos do Pronaf setorialmente. Este impacto pode ser considerado como um ativo do programa, uma vez que fornece e potencializa a ampliação das atividades agrícolas e, de forma, indireta, induz o crescimento de outras atividades. Assim sendo, há que se pensar também em políticas de fortalecimento dessas interações intersetoriais.</p>
+<p>Em síntese, com relação ao PIB agropecuário, é possível observar que o impacto do programa é maior nos quantis inferiores em todas as macrorregiões e para o Brasil como um todo; a exceção ocorre por conta da região Norte, cujo maior impacto ocorre no quantil 75. Já com relação aos demais PIBs analisados não é possível verificar um padrão dos resultados nas diversas macrorregiões. Os PIBs de serviço e industrial, por exemplo, apresentaram os maiores resultados nos quantis superiores para a região Norte, enquanto no Sudeste esses maiores resultados são observados nos quantis inferiores.</p>
+</div>
+</div>
+<div class="section">
+<a name="idp1973664"><!-- named anchor --></a><p class="sec">5. Considerações finais</p>
+<p>A agricultura familiar apresenta uma importante função geradora de ocupação, alimentos e renda; entretanto, ainda muito aquém do seu potencial de geração de alimentos e renda. A agricultura familiar esteve pouco presente no processo de desenvolvimento da agricultura brasileira ao longo do tempo; porém, em 1995, o Pronaf foi criado pelo governo federal para atender o segmento da produção constituído pela agricultura familiar.</p>
+<p>O programa tem se consolidado como política de Estado, mas há inúmeras críticas e uma das principais diz respeito à distribuição dos recursos, tanto regionais como sociais. O modelo de distribuição e aplicação dos recursos do programa tem certo viés concentrador.</p>
+<p>Diante da importância do setor agropecuário e da agricultura familiar para a economia nacional, este trabalho teve por objetivo avaliar o impacto do principal programa de crédito agrícola, Pronaf, na economia brasileira para o período entre 2000 e 2012 a partir da utilização do método de regressão quantílica para dados em painel - QRPD. Utilizou-se o método tomando como base a abordagem feita por <sup><a href="#B30">Powell (2014</a></sup>), o que permitiu obter uma regressão mais robusta, devido à heterogeneidade entre os municípios brasileiros, ao observar a resposta de cada quantil. Além disso, dada toda a discussão inerente à concentração dos recursos do programa, teve-se por objetivo também avaliar os impactos dentro do contexto regional, isto é, para as cinco macrorregiões brasileiras.</p>
+<p>Nesse sentido, pode-se destacar a importância da análise regional, pois apesar de o programa ser de caráter nacional, há resultados diferentes entre as regiões. Em geral, estes resultados levantam importantes questões. É preciso criar maior integração de mercados para que os municípios que já apresentem maior dinâmica entre seus setores da economia possam, assim, auferir melhores resultados econômicos e, com isso, contribuir para o próprio desenvolvimento da dinâmica econômica local. Além disso, a existência de uma infraestrutura adequada para propiciar maior interligação entre os vários elos da cadeia produtiva agroindustrial nos municípios também é um fator relevante, justificando, assim, os investimentos nesta.</p>
+<p>Os principais resultados mostram um impacto positivo do Pronaf no PIB total brasileiro e nos PIBs setoriais. Para o PIB agropecuário e para o PIB de serviços o programa tem efeito positivo e significativo para todos os quantis analisados. Todavia, a magnitude desse efeito, conforme esperado, é maior no PIB agropecuário, com destaque aos quantis 10 e 25 para todas as regiões, com exceção do Norte, em que o impacto maior é no quantil 75. Em relação ao PIB total, tem-se que o impacto dos diferentes quantis não é semelhante para todas as macrorregiões, enquanto que os maiores efeitos no Sudeste são nos quantis inferiores (quantis 10 e 25), no Nordeste são observados nos quantis 25 e 50 e, no Norte, nos quantis 75 e 90. De forma similar, os PIBs de serviços e industrial também não apresentaram um padrão nos resultados dos quantis para as diferentes macrorregiões. Enquanto no Sudeste os maiores efeitos foram nos quantis 10 e 25, no Norte, foram verificados nos quantis 75 e 90. No Nordeste, os efeitos no PIB de serviços são maiores nos quantis 50 e 75, enquanto que os impactos no PIB industrial são maiores nos quantis 25 e 50. Estes resultados remetem à importância do programa para o Brasil, que apesar de ser voltado para a agricultura familiar, tem impactos positivos para a economia como um todo, sendo capaz de influenciar positivamente os setores de serviços e industrial. Em outras palavras, estes resultados reforçam a importância do Programa não apenas como política de fomento de crédito agrícola mas como política capaz de gerar certo dinamismo para os diferentes setores da economia através da interdependência produtiva existente dentro de uma economia. Além disso, a análise dos quantis em cada macrorregião permite a formulação de políticas específicas aos municípios e/ou a análise de redistribuição desses recursos do programa de acordo com as necessidades e impactos.</p>
+<p>Entretanto, a maior contribuição do artigo é observar que ao levar em consideração a heterogeneidade da distribuição dos dados, ou seja, trabalhar com regressões quantílicas, tem-se resultados relevantes e diferenciados para cada uma das partes da distribuição.</p>
+<p>Em síntese, esse artigo contribuiu para a discussão sobre impactos de uma política de financiamento de atividades produtivas do Pronaf sobre o PIB dos municípios, por meio de uma análise dos aspectos heterogêneos da estrutura de renda, da interdependência produtiva (e.g. impactos intra e intersetorial) e das questões espaciais. Diante do crescimento do setor agropecuário no Brasil e seu recente dinamismo, os resultados obtidos apontam para uma necessidade de descentralização dos recursos, possibilitando a inserção produtiva do elevado contingente de famílias em situação de pobreza no meio rural e do maior dinamismo dos municípios rurais.</p>
+<p>Embora estes resultados de certa forma remetam ao fato de que o processo de modernização e desenvolvimento da agricultura brasileira leva a um maior incremento da produtividade do trabalho, o que favorece não só o setor agropecuário mas o desenvolvimento do setor industrial, bem como do setor de serviços, o presente trabalho não apresenta nenhum teste empírico com relação a estas questões. Portanto, como sugestão de trabalho futuro, faz-se pertinente avaliar se a intensidade do impacto sobre esses setores está propriamente relacionada à estrutura de interdependência dos mesmos, bem como o tamanho do setor agrícola e sua consequente demanda por insumos dos demais setores da economia.</p>
+<p>Outro ponto relevante e parte de uma agenda de pesquisa futura no que se refere ao impacto sobre o setor de serviços consiste no fato de que este pode estar diretamente ligado à concentração da renda, ou seja, regiões com maior renda consumindo mais bens do setor de serviços (e.g. serviços financeiros, serviços de alimentação, serviços culturais, dentre outros). Em outras palavras, como trabalho futuro sugere-se avaliar se a estrutura de renda regional determina, em parte, o grau de interação do setor de serviços com o setor agropecuário.</p>
+</div>
+</div>
+<div id="article-back" class="back">
+<div>
+<a name="references"></a><p class="sec"><p class="sec">Referências</p></p>
+<p class="ref"><a name="B1" onclick="window.history.back();"></a>ALEIXO, C. E. M., OLIVEIRA, L. A. S. D., DOS REIS, A. P., MUNIZ, K. T. e LIMA, P. V. P. S. Impactos do PRONAF nos indicadores de qualidade de vida de seus beneficiados no Assentamento Santana-CE. In: Anais do VII Congresso da Sociedade Brasileira de Sistemas de Produção (CSBSP). Fortaleza, 2007.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100001&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B2" onclick="window.history.back();"></a>AQUINO, J. R. e SCHNEIDER, S. (Des)caminhos da política de crédito do PRONAF na luta contra a pobreza e desigualdade social no Brasil rural. In: Anais da Conferência Nacional de Políticas contra a Pobreza e a Desigualdade. Natal, 2010.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100002&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B3" onclick="window.history.back();"></a>ARAÚJO, P. F. C. Política de crédito rural: reflexões sobre a experiência brasileira. Brasília: CEPAL/IPEA, 2011. (Texto para discussão CEPAL-IPEA, n. 37)
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100003&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B4" onclick="window.history.back();"></a>BATISTA, H. R. e NEDER, H. D. Efeitos do Pronaf sobre a pobreza rural no Brasil (2001-2009). Revista de Economia e Sociologia Rural, v. 52, p. 147-166, 2014.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100004&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B5" onclick="window.history.back();"></a>BELIK, W. O financiamento da agropecuária brasileira no período recente. Rio de Janeiro: Ipea, 2015. (Texto para discussão, n. 2028)
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100005&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B6" onclick="window.history.back();"></a>BITTENCOURT, G. A. Abrindo a caixa preta: o financiamento da agricultura familiar no Brasil. 227 f. Dissertação (Mestrado em Economia) - Instituto de Economia, Universidade Estadual de Campinas, Campinas, 2003.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100006&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B7" onclick="window.history.back();"></a>BRASIL. Decreto nº 1.946, de 28 de junho de 1996. Cria o Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF), e dá outras providências. Brasília: Congresso Nacional, 1996. Disponível em: &lt;Disponível em: <a href="http://goo.gl/Y9EDXq" target="_blank">http://goo.gl/Y9EDXq</a>
+					&gt;. Acesso em: 14 maio 2015.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100007&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B8" onclick="window.history.back();"></a>CANAY, I. A. A simple approach to quantile regression for panel data. The Econometrics Journal, v. 14, n. 3, p. 368-386, 2011.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100008&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B9" onclick="window.history.back();"></a>CASTRO, C. N. A agropecuária na região norte: oportunidades e limitações ao desenvolvimento. Brasília: Ipea, 2013. (Texto para discussão, n. 1836)
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100009&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B10" onclick="window.history.back();"></a>CASTRO, C. N. A agropecuária na região Centro-Oeste: limitações ao desenvolvimento e desafios futuros. Brasília: Ipea , 2014. (Texto para discussão, n. 1923)
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100010&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B11" onclick="window.history.back();"></a>CASTRO, C. N.; RESENDE, G. M.; PIRES, M. J. S. Avaliação dos impactos regionais do Programa Nacional da Agricultura Familiar (PRONAF). Brasília: Ipea , 2014. (Texto para discussão, n. 1974).
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100011&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B12" onclick="window.history.back();"></a>CONTI, B. M. e ROITMAN, F. B. PRONAF: uma análise da evolução das fontes de recursos utilizadas no programa. Revista do BNDES. Rio de Janeiro, n. 35, p. 131-168, 2011.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100012&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B13" onclick="window.history.back();"></a>CORRÊA, V. P. e SILVA, F. F. Análise das liberações recentes de recursos do PRONAF: uma mudança na lógica de distribuição. Revista Econômica do Nordeste, v. 38, n.1, p. 48-66, 2007.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100013&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B14" onclick="window.history.back();"></a>DAMASCENO, N. P., KHAN, A. S. e LIMA, P. V. P. S. O impacto do PRONAF sobre a sustentabilidade da agricultura familiar, geração de emprego e renda no Estado do Ceará. Revista de Economia e Sociologia Rural, v. 49, n. 1, p. 129-156, 2011.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100014&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B15" onclick="window.history.back();"></a>DEPARTAMENTO INTERSIDICAL DE ESTATISTICA E ESTUDOS SÓCIOECONÔMICOS (DIEESE); NÚCLEO DE ESTUDOS AGRÁRIOS E DESENVOLVOLVIMENTO RURAL (NEAD); MDA. Estatísticas do meio rural 2010-2011. 4ª ed. São Paulo: DIEESE; NEAD; MDA, 2011.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100015&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B16" onclick="window.history.back();"></a>DOKSUM, K. Empirical probability plots and statistical inference for nonlinear models in the two-sample case. The annals of statistics, p. 267-277, 1974.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100016&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B17" onclick="window.history.back();"></a>GALVÃO JR., A. F. Quantile regression for dynamic panel data with fixed effects. Journal of Econometrics, v. 164, n. 1, p. 142-157, 2011.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100017&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B18" onclick="window.history.back();"></a>GUANZIROLI, C. E. PRONAF dez anos depois: resultados e perspectivas para o desenvolvimento rural. Revista de Economia e Sociologia Rural, v. 45, n. 2, p. 301-328, 2007.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100018&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B19" onclick="window.history.back();"></a>GUANZIROLI, C. E., BUAINAIN, A. M. e DI SABBATO, A. Dez anos de evolução da agricultura familiar no Brasil: (1996 e 2006). Revista de Economia e Sociologia Rural, v. 50, n. 2, p. 351-370, 2012.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100019&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B20" onclick="window.history.back();"></a>GUILHOTO, J. et al. A importância da agricultura familiar no Brasil e em seus estados. Brasília: NEAD, 2007.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100020&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B21" onclick="window.history.back();"></a>GRISA, C., WESZ JUNIOR, V. J. e BUCHWEITZ, V. D. Revisitando o Pronaf: velhos questionamentos, novas interpretações. Revista de Economia e Sociologia Rural, v. 52, n. 2, p. 323-346, 2014.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100021&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B22" onclick="window.history.back();"></a>IBGE - Instituto Brasileiro de Geografia e Estatística. Censo agropecuário 2006. Rio de Janeiro: IBGE, 2011.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100022&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B23" onclick="window.history.back();"></a>IPEA - Instituto de Pesquisa Econômica Aplicada. Caracterização do público potencial do PRONAF "B" na região Nordeste e no estado de Minas Gerais: uma análise baseada nos dados do Censo Agropecuário 2006. Relatório de Pesquisa. Brasília: Ipea, 2013.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100023&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B24" onclick="window.history.back();"></a>KOENKER, R. Quantile regression for longitudinal data. Journal of Multivariate Analysis, v. 91, n. 1, p. 74-89, 2004.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100024&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B25" onclick="window.history.back();"></a>KOENKER, R. e BASSETT JR, G. Regression quantiles. Econometrica, v. 46, n. 1, p. 33-50, 1978.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100025&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B26" onclick="window.history.back();"></a>MAGALHÃES, A. M. et al. A experiência recente do PRONAF em Pernambuco: uma análise por meio de propensity score. Economia Aplicada, v. 10, n. 1, p. 57-74, 2006.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100026&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B27" onclick="window.history.back();"></a>MATTEI, L. et al. Uma análise dos impactos do PRONAF sobre as economias locais nas regiões Nordeste, Sudeste e Norte do Brasil. In: Anais do XLV Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural. Londrina, 2007.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100027&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B28" onclick="window.history.back();"></a>PEREIRA, E. L. e NASCIMENTO, J. S. Efeitos do PRONAF sobre a produção agrícola familiar dos municípios tocantinenses. Revista de Economia e Sociologia Rural, v. 52, n. 1, p. 139-156, 2014.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100028&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B29" onclick="window.history.back();"></a>PIRES, M. J. S. Contradições em processo: um estudo da estrutura e evolução do Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF): 2000 a 2010. Brasília: Ipea , 2013. (Texto para discussão, n. 1914)
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100029&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B30" onclick="window.history.back();"></a>POWELL, D. Did the economic stimulus payments of 2008 reduce labor supply. RAND Corporation: Labor &amp; Population, 2014. (RAND Labor &amp; Population Working Paper 710-3)
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100030&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B31" onclick="window.history.back();"></a>SÁ, H. D. F. Engenharia financeira do PRONAF: reflexões sobre os arranjos adotados. 106 f. Dissertação (Mestrado em Agronegócios) - Faculdade de Agronomia e Medicina Veterinária, Universidade de Brasília, 2009.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100031&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B32" onclick="window.history.back();"></a>SANTOS, P. et al. Os efeitos do PRONAF na renda per capita dos municípios mineiros: uma análise a partir de regressões quantílicas. In: Anais do XVI Seminário sobre a Economia Mineira. Diamantina, 2014.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100032&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B33" onclick="window.history.back();"></a>SILVA, F. F. Distribuição de crédito para agricultura familiar: um estudo do PRONAF a partir de um indicador de desenvolvimento rural. 250 f. Dissertação (Mestrado em Economia) - Instituto de Economia, Universidade Federal de Uberlândia, 2006.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100033&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B34" onclick="window.history.back();"></a>SILVA, S. P. Políticas públicas, agricultura familiar e desenvolvimento territorial. Cadernos Gestão Pública e Cidadania, v. 16, n. 58, 2011.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100034&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B35" onclick="window.history.back();"></a>SILVA, S. P. e ALVES FILHO, E. Impactos Econômicos do PRONAF em Territórios Rurais: um estudo para o médio Jequitinhonha - MG. Revista Econômica do Nordeste, p. 481-498, 2009.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100035&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B36" onclick="window.history.back();"></a>SOUSA, J. M. P. e VALENTE JUNIOR, A. S. Análise das liberações dos recursos do PRONAF: descentralização das aplicações do crédito rural. In: Anais do 44º Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural (SOBER). Fortaleza, 2006.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-2003201600020022100036&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+</div>
+<div class="foot-notes">
+<a name="fn1"></a><div class="fn">
+<a name="fn1"></a><p>Os autores agradecem o financiamento do CNPq, Capes e Fapemig para elaboração deste trabalho.</p>
+</div>
+<a name="fn7"></a><div class="fn">
+<a name="fn7"></a><p><sup>7</sup>7. Rápido processo de desenvolvimento de tecnologias agropecuárias ocorrido nos anos 1960.</p>
+</div>
+<a name="fn8"></a><div class="fn">
+<a name="fn8"></a><p><sup>8</sup>8. .Para uma síntese da política de crédito rural no Brasil, ver <sup><a href="#B3">Araújo (2011</a></sup>) e Belik (2015).</p>
+</div>
+<a name="fn9"></a><div class="fn">
+<a name="fn9"></a><p><sup>9</sup>9. .O Pronaf foi criado em 1995, mas sua implementação se deu em 1996.</p>
+</div>
+<a name="fn10"></a><div class="fn">
+<a name="fn10"></a><p><sup>10</sup>10. .O Grupo "Variável" foi definido a partir do ano-agrícola de 2006/2007, segundo a Declaração de Aptidão do Agricultor Familiar (DAP), como um caso especial no qual se enquadram os casos dos antigos grupos "C"; "D" e "E"; o Grupo A é formado por agricultores familiares assentados que ainda não foram contemplados com o Programa de Credito Fundiário (PCF) ou investimentos no âmbito do Programa de Crédito Especial; o Grupo B é composto por agricultores familiares com renda bruta anual familiar de até R$ 2.000; o Grupo C é formado por agricultores familiares com renda bruta anual familiar de R$ 2.000 a R$ 14.000; o Grupo D é composto por agricultores com renda bruta anual familiar de R$ 14.000 a R$ 40.000; o Grupo E é formado por agricultores com renda bruta anual familiar de R$ 40.000 a R$ 60.000; o Grupo A/C é formado por agricultores familiares egressos do Grupo "A", que se enquadrem nas condições do Grupo "C", que não contraíram crédito de custeio nos grupos "D" ou "E" (DIEESE, 2011).</p>
+</div>
+<a name="fn11"></a><div class="fn">
+<a name="fn11"></a><p><sup>11</sup>11. .Há na literatura trabalhos que abordam questões inerentes a fonte de recursos. Para mais detalhes, ver <sup><a href="#B6">Bittencourt (2003</a></sup>), <sup><a href="#B31">Sá (2009</a></sup>) e <sup><a href="#B12">Conti e Roitman (2011</a></sup>).</p>
+</div>
+<a name="fn12"></a><div class="fn">
+<a name="fn12"></a><p><sup>12</sup>12. .Para mais detalhes, ver <sup><a href="#B30">Powell (2014</a></sup>). Para implementação do procedimento no Stata, o autor apesenta o passo a passo no documento intitulado "Documentation for Quantile Regression for Panel Data (QRPD)".</p>
+</div>
+<a name="fn13"></a><div class="fn">
+<a name="fn13"></a><p><sup>13</sup>13. .Apesar da inclusão de efeitos fixos no tempo e efeitos fixos individuais, o estimador QRPD desenvolvido por <sup><a href="#B30">Powell (2014</a></sup>) é limitado para apenas uma variável de tratamento. Por esse motivo, utiliza-se no presente trabalho apenas o Pronaf como variável explicativa.</p>
+</div>
+<a name="fn14"></a><div class="fn">
+<a name="fn14"></a><p><sup>14</sup>14. .Os dados do Pronaf foram corrigidos pelo Índice Geral de Preços-Disponibilidade Interna (IGP-DI) e os dados de PIB foram corrigidos pelo deflator implícito do PIB.</p>
+</div>
+</div>
+</div>
+<div class="foot-notes"><div class="history"><p>Recebido:
+				24 de Agosto de 2015; Aceito:
+				15 de Janeiro de 2016</p></div></div>
+<div class="license"><p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.pt"><img src="http://i.creativecommons.org/l/by/4.0/80x15.png" alt="Creative Commons License" style="border-width:0"></a> Este é um artigo publicado em acesso aberto sob uma licença Creative Commons</p></div>
+</div></div></div><div class="container"><div align="left"></div><div class="spacer"> </div><!--cc--><!--mode=license--><div xmlns="" class="footer">Av. W/3 Norte, Quadra 702  Ed. Brasília Rádio Center Salas 1049-1050<br>70719 900  Brasília DF Brasil<br>   <br><IMG src="/img/pt/e-mailt.gif" border="0"><br><A class="email" href="mailto:sober@sober.org.br">sober@sober.org.br</A><script type="text/javascript">
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-604844-1']);
+              _gaq.push(['_trackPageview']);
+              _gaq.push(['_setSampleRate', '70']);
+
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+
+            </script>
+</div></div></body></html>
+<!--transformed by PHP 04:03:53 18-03-2019-->
+<!--CACHE MSG: CACHE NAO FOI UTILIZADO -->
+<!-- REQUEST URI: /scielo.php?script=sci_arttext&pid=S0103-20032016000200221&lng=pt&nrm=iso&tlng=pt-->
+<!--SERVER:192.168.1.50-->

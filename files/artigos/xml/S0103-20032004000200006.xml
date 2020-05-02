@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032004000200006</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032004000200006</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Evolução regional da produtividade da mão-de-obra na agropecuária gaúcha: uma aplicação da matriz de Markov]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Stulp]]></surname>
+<given-names><![CDATA[Valter José]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Pontifícia Universidade do Rio Grande do Sul Faculdade de Administração, Contabilidade e Economia Departamento de Ciências Econômicas]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2004</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2004</year>
+</pub-date>
+<volume>42</volume>
+<numero>2</numero>
+<fpage>293</fpage>
+<lpage>316</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032004000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032004000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032004000200006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O estudo analisa a convergência regional dos níveis de produtividade da mão de obra na agropecuária do Rio Grande do Sul, através de uma matriz de Markov. Examina, também, as variáveis explicativas desta convergência, através da técnica estatística dos componentes principais seguida de regressão estatística. Os dados são provenientes dos censos agropecuários do Instituto Brasileiro de Geografia e Estatística (IBGE) dos anos 1975 e 1995/96. O estudo considera quatro classes de níveis de produtividade da mão de obra. As regiões da classe superior, contendo os grandes estabelecimentos rurais, com criação de gado, tendem a migrar, no longo prazo, para as classes inferiores. A causa parece ser a redução da área explorada por unidade de mão de obra. A classe mais baixa tende a manter, aproximadamente, o mesmo percentual de regiões que não evoluem na produtividade, talvez porque os estabelecimentos são pequenos para a mecanização, não direcionam o sistema de produção para produtos de maior valor agregado e não adotam mudanças tecnológicas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This study analyses the regional convergence of the levels of labor productivity in the agricultural sector of the state of Rio Grande do Sul, through a Markov matrix. It also examines the variables that explain this convergence, through the statistical technique of principal components followed by statistical regression. The study is based on the data from Agricultural Censuses of the Instituto Brasileiro de Geografia e Estatística (IBGE) referring to the years of 1975 and 1995/96. The study considers four classes of levels of labor productivity. The regions in the upper class, containing the large cattle raising farms, show a tendency to migrate, in the long run, to the lower classes. The reason seems to be the reduction in the area of land available per unit of labor. The lower class tends to maintain, in the long run, approximately the same percentage of the total regions, which will not evolve in the level of labor productivity, maybe because the farms are too small to get mechanized, or do not change the production system to products that aggregate more value, or do not adopt technological innovations.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[convergência regional]]></kwd>
+<kwd lng="pt"><![CDATA[produtividade da mão de obra]]></kwd>
+<kwd lng="pt"><![CDATA[agropecuária do Rio Grande do Sul]]></kwd>
+<kwd lng="en"><![CDATA[regional convergence]]></kwd>
+<kwd lng="en"><![CDATA[labor productivity]]></kwd>
+<kwd lng="en"><![CDATA[agricultural sector of Rio Grande do Sul]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" font face="verdana"><B> Evolu&ccedil;&atilde;o regional da produtividade    da m&atilde;o-de-obra na agropecu&aacute;ria ga&uacute;cha: uma aplica&ccedil;&atilde;o    da matriz de Markov</b> </font> </p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>Valter Jos&eacute; Stulp</b></font></p>     <p><font size="2" face="Verdana">Prof. do Departamento de Ci&ecirc;ncias Econ&ocirc;micas    - Faculdade de Administra&ccedil;&atilde;o, Contabilidade e Economia -PUCRS.    O artigo contou com a colabora&ccedil;&atilde;o da FAPERGS que concedeu uma    bolsa de inicia&ccedil;&atilde;o cient&iacute;fica. E-mail:    <a href="mailto:stulp@zaz.com.br">stulp@zaz.com.br</a> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="VERDANA"><B>RESUMO</B></font> </p>     <p><font size="2" face="Verdana">O estudo analisa a converg&ecirc;ncia regional    dos n&iacute;veis de produtividade da m&atilde;o de obra na agropecu&aacute;ria    do Rio Grande do Sul, atrav&eacute;s de uma matriz de Markov. Examina, tamb&eacute;m,    as vari&aacute;veis explicativas desta converg&ecirc;ncia, atrav&eacute;s da    t&eacute;cnica estat&iacute;stica dos componentes principais seguida de regress&atilde;o    estat&iacute;stica. Os dados s&atilde;o provenientes dos censos agropecu&aacute;rios    do Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE) dos anos 1975    e 1995/96. O estudo considera quatro classes de n&iacute;veis de produtividade    da m&atilde;o de obra. As regi&otilde;es da classe superior, contendo os grandes    estabelecimentos rurais, com cria&ccedil;&atilde;o de gado, tendem a migrar,    no longo prazo, para as classes inferiores. A causa parece ser a redu&ccedil;&atilde;o    da &aacute;rea explorada por unidade de m&atilde;o de obra. A classe mais baixa    tende a manter, aproximadamente, o mesmo percentual de regi&otilde;es que n&atilde;o    evoluem na produtividade, talvez porque os estabelecimentos s&atilde;o pequenos    para a mecaniza&ccedil;&atilde;o, n&atilde;o direcionam o sistema de produ&ccedil;&atilde;o    para produtos de maior valor agregado e n&atilde;o adotam mudan&ccedil;as tecnol&oacute;gicas.    </font></p>     <p><font size="2" face="Verdana"><B>Palavras-chave:</B> converg&ecirc;ncia regional,    produtividade da m&atilde;o de obra, agropecu&aacute;ria do Rio Grande do Sul.    </font></p> <hr size="1" noshade>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><B>ABSTRACT</B></font></p>     <p><font size="2" face="Verdana">This study analyses the regional convergence    of the levels of labor productivity in the agricultural sector of the state    of Rio Grande do Sul, through a Markov matrix. It also examines the variables    that explain this convergence, through the statistical technique of principal    components followed by statistical regression. The study is based on the data    from Agricultural Censuses of the Instituto Brasileiro de Geografia e Estat&iacute;stica    (IBGE) referring to the years of 1975 and 1995/96.     <br>   The study considers four classes of levels    of labor productivity. The regions in the upper class, containing the large    cattle raising farms, show a tendency to migrate, in the long run, to the lower    classes. The reason seems to be the reduction in the area of land available    per unit of labor. The lower class tends    to maintain, in the long run, approximately the same percentage of the total    regions, which will not evolve in the level of labor productivity, maybe because    the farms are too small to get mechanized, or do not change the production system    to products that aggregate more value, or do not adopt technological innovations.    </font></p>     <p><font size="2" face="Verdana"><B>Key Words:</B> regional convergence, labor    productivity, agricultural sector of Rio Grande do Sul.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp; </p>     <p><font size="3" face="Verdana"><B>1<I> – </I>Introdu&ccedil;&atilde;o</B></font></p>     <p><font size="2" face="Verdana">A popula&ccedil;&atilde;o rural do Rio Grande    do Sul vem diminuindo nas &uacute;ltimas d&eacute;cadas. As taxas geom&eacute;tricas    de redu&ccedil;&atilde;o anual foram 2,09%, 1,49% e 1,51%, respectivamente nas    d&eacute;cadas de 1970, 1980 e 1990. (IBGE, 2002). </font></p>     <p><font size="2" face="Verdana">Assim, para a agropecu&aacute;ria do Estado cumprir    as suas fun&ccedil;&otilde;es, como a oferta crescente de alimentos para consumo    dom&eacute;stico, amplia&ccedil;&atilde;o do mercado para os produtos da ind&uacute;stria,    expans&atilde;o da oferta da poupan&ccedil;a, gera&ccedil;&atilde;o de divisas    externas, etc., dado o decl&iacute;nio de sua m&atilde;o de obra, &eacute; imprescind&iacute;vel    aumentar a produtividade deste fator. Isto &eacute; necess&aacute;rio tamb&eacute;m    para aumentar a renda dos trabalhadores que permanecem neste setor, reduzindo    os incentivos para a migra&ccedil;&atilde;o rural-urbana. </font></p>     <p><font size="2" face="Verdana">Gasques e Concei&ccedil;&atilde;o (2001) conclu&iacute;ram    que se a produtividade da  m&atilde;o de    obra na agricultura do Rio Grande do Sul em 1970 &eacute; expressa pelo &iacute;ndice    100, o &iacute;ndice referente ao ano 1995 ser&aacute; igual a 193, representando    um aumento de 2,66% ao ano. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">St&uuml;lp e Binz (2002), com base nos censos    agropecu&aacute;rios do IBGE de 1985 e 1995/96, conclu&iacute;ram que a m&atilde;o    de obra ocupada no setor agropecu&aacute;rio do Estado diminuiu 21% neste per&iacute;odo,    mas que a sua produtividade – medida em termos de valor agregado da produ&ccedil;&atilde;o    por equivalente-homem – aumentou em todos os tamanhos de estabelecimentos    rurais. </font></p>     <p><font size="2" face="Verdana">Embora se tenha constatado um aumento da produtividade    na agropecu&aacute;ria ga&uacute;cha em anos recentes, permanecem duas quest&otilde;es    a serem respondidas. A primeira &eacute; se h&aacute; uma tend&ecirc;ncia de    converg&ecirc;ncia, entre as v&aacute;rias regi&otilde;es do Estado, para um    n&iacute;vel &uacute;nico de produtividade mais elevado. A segunda &eacute;    que vari&aacute;veis explicariam a mudan&ccedil;a de uma regi&atilde;o no seu    n&iacute;vel de produtividade da m&atilde;o de obra. </font></p>     <p><font size="2" face="Verdana">O primeiro tipo de quest&atilde;o, ou seja, se    os pa&iacute;ses ou regi&otilde;es com diferentes n&iacute;veis de renda ou    produtividade dos fatores alcan&ccedil;ariam no futuro um mesmo patamar, preferencialmente    o daqueles situados no topo da classifica&ccedil;&atilde;o, tem sido um dos    enfoques da pesquisa econ&ocirc;mica (Baumol, 1986; Barro e Sala-i-Martin, 1991,    1992). </font></p>     <p><font size="2" face="Verdana">Diversos estudos tamb&eacute;m abordam a quest&atilde;o    das vari&aacute;veis associadas &agrave; produtividade da m&atilde;o de obra    no setor agropecu&aacute;rio. </font></p>     <p><font size="2" face="Verdana">Assim, St&uuml;lp, Marquetti e Fochezatto (2002)    verificaram que na agropecu&aacute;ria do Rio Grande do Sul, al&eacute;m dos    recursos terra e capital, a assist&ecirc;ncia t&eacute;cnica e o tipo de cultura    explorada influenciam a produtividade da m&atilde;o de obra. </font></p>     <p><font size="2" face="Verdana">Watkins (a<I>pud</I> Albuquerque e Nicol, 1987)    afirma que o crescimento no setor agropecu&aacute;rio seria gerado pela produ&ccedil;&atilde;o    e exporta&ccedil;&atilde;o de uma mercadoria principal que determinaria a procura    pela m&atilde;o de obra, influenciando a sua produtividade. </font></p>     <p><font size="2" face="Verdana">Fialho e Maia (1983) examinando os dados do censo    agropecu&aacute;rio do IBGE de 1975, verificaram que no estado de S&atilde;o    Paulo a produtividade m&eacute;dia da m&atilde;o de obra era maior nas propriedades    rurais grandes em compara&ccedil;&atilde;o com as pequenas. Estas propriedades    utilizariam processos de produ&ccedil;&atilde;o intensivos em equipamentos mec&acirc;nicos    poupadores de m&atilde;o de obra. </font></p>     <p><font size="2" face="Verdana"> No Rio Grande do Sul, da mesma forma que em    outros Estados brasileiros, h&aacute; diversidade regional na estrutura agr&aacute;ria,    nos tipos de culturas e cria&ccedil;&otilde;es (com produtos de exporta&ccedil;&atilde;o,    destinados &agrave; industrializa&ccedil;&atilde;o ou &agrave; alimenta&ccedil;&atilde;o    direta), nas caracter&iacute;sticas dos solos quanto &agrave; fertilidade, textura,    profundidade e topografia, na velocidade de ado&ccedil;&atilde;o de novas tecnologias,    da mecaniza&ccedil;&atilde;o, etc. Portanto, diversas foram as varia&ccedil;&otilde;es    na produtividade regional da m&atilde;o de obra empregada na agropecu&aacute;ria    ga&uacute;cha ao longo do tempo. </font></p>     <p><font size="2" face="Verdana">&Eacute; a converg&ecirc;ncia regional ou n&atilde;o    nos n&iacute;veis de produtividade da m&atilde;o de obra do setor agropecu&aacute;rio    ga&uacute;cho que se analisa neste estudo. Examinam-se, tamb&eacute;m, vari&aacute;veis    associadas &agrave;s mudan&ccedil;as nestes n&iacute;veis de produtividade.    Os resultados da an&aacute;lise poder&atilde;o orientar medidas pol&iacute;ticas    apropriadas a um maior dinamismo do setor rural. </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana"><B>2<I> – </I>Metodologia</B> </font></p>     <p><font size="2" face="Verdana">Esta an&aacute;lise &eacute; feita com base em    dados dos censos agropecu&aacute;rios do Instituto Brasileiro de Geografia e    Estat&iacute;stica (IBGE) dos anos de 1975 e 1995/96. </font></p>     <p><font size="2" face="Verdana">H&aacute; v&aacute;rios m&eacute;todos para analisar    se ocorre converg&ecirc;ncia entre regi&otilde;es ou pa&iacute;ses quanto aos    n&iacute;veis de uma vari&aacute;vel como PIB <I>per capita, </I>produtividade    de um fator, etc. </font></p>     <p><font size="2" face="Verdana"> Assim, tem-se o m&eacute;todo que utiliza o    conceito de <font face="Symbol">b</font>-converg&ecirc;ncia. Neste, testa-se    a hip&oacute;tese de que a taxa de crescimento da vari&aacute;vel, em uma regi&atilde;o,    &eacute; tanto menor quanto mais elevado for o seu n&iacute;vel, na mesma, no    in&iacute;cio do per&iacute;odo. Outro m&eacute;todo utiliza o conceito de <font face="Symbol">s</font>-converg&ecirc;ncia    (converg&ecirc;ncia sigma), que se refere &agrave; redu&ccedil;&atilde;o da    dispers&atilde;o dos valores da vari&aacute;vel ao longo do tempo (Barro e Sala-i-Martin,    1995). </font></p>     <p><font size="2" face="Verdana">Estes m&eacute;todos de an&aacute;lise da converg&ecirc;ncia    entre regi&otilde;es, acima mencionados, est&atilde;o sujeitos a cr&iacute;ticas.    Existe a possibilidade de inconsist&ecirc;ncia entre os conceitos<font face="Symbol">    b</font> e <font face="Symbol">s</font> - converg&ecirc;ncia (Friedman, 1992    e Quah, 1993). Al&eacute;m disto, eles n&atilde;o mostram a evolu&ccedil;&atilde;o    das regi&otilde;es entre os v&aacute;rios n&iacute;veis na dire&ccedil;&atilde;o    da distribui&ccedil;&atilde;o final. </font></p>     <p><font size="2" face="Verdana">O m&eacute;todo de matriz de Markov, utilizado    neste estudo, permite n&atilde;o s&oacute; analisar se est&aacute; havendo converg&ecirc;ncia    entre as regi&otilde;es, mas tamb&eacute;m     a sua din&acirc;mica em termos do n&uacute;mero de regi&otilde;es que se encontram    nos v&aacute;rios n&iacute;veis ao longo do tempo, assim como o tempo necess&aacute;rio    para alcan&ccedil;ar o equil&iacute;brio final. </font></p>     <p><font size="2" face="Verdana">Para analisar a evolu&ccedil;&atilde;o regional    da produtividade da m&atilde;o de obra na agropecu&aacute;ria do Rio Grande    do Sul, com base nos anos de 1975 e 1995, considera-se o Estado dividido em    regi&otilde;es geograficamente id&ecirc;nticas ao longo das &uacute;ltimas d&eacute;cadas,    ou seja, cada regi&atilde;o abrangendo a mesma &aacute;rea geogr&aacute;fica    ao longo do per&iacute;odo da an&aacute;lise. Devido ao grande n&uacute;mero    de emancipa&ccedil;&otilde;es municipais ocorridas nas &uacute;ltimas d&eacute;cadas    era necess&aacute;rio, em muitos casos, agregar um grande n&uacute;mero de munic&iacute;pios    para obter uma regi&atilde;o id&ecirc;ntica ao longo deste per&iacute;odo. </font></p>     <p><font size="2" face="Verdana">Este estudo utiliza a divis&atilde;o regional    do Estado considerada em dois estudos de Stulp (2003) e que abrangiam o per&iacute;odo    de 1960 a 1995. O n&uacute;mero de regi&otilde;es que permanecem geograficamente    id&ecirc;nticas no Estado desde 1960 at&eacute; 1995 &eacute; 75 (vide <a href="#anx02">quadro    1</a> no anexo). </font></p>     <p><font size="2" face="Verdana">A produtividade da m&atilde;o de obra, em cada    regi&atilde;o, &eacute; o valor agregado da produ&ccedil;&atilde;o agropecu&aacute;ria    dividido pela m&atilde;o de obra. Ela &eacute; entendida como uma produtividade    m&eacute;dia. </font></p>     <p><font size="2" face="Verdana">O valor agregado da produ&ccedil;&atilde;o agropecu&aacute;ria    &eacute; igual ao valor da produ&ccedil;&atilde;o, mais a varia&ccedil;&atilde;o    no valor do estoque do rebanho, sendo descontadas as despesas. As despesas s&atilde;o    os gastos com adubos, corretivos, agrot&oacute;xicos, sal, ra&ccedil;&otilde;es    industriais e medicamentos para animais, transportes, combust&iacute;veis, energia    el&eacute;trica, etc. N&atilde;o s&atilde;o descontadas as despesas com sal&aacute;rios    pagos, quota-parte da produ&ccedil;&atilde;o, pagamento de arrendamento, de    empreitadas e impostos. A varia&ccedil;&atilde;o no estoque do rebanho &eacute;    igual ao valor dos animais nascidos, mais o dos comprados e menos o dos vitimados,    dos vendidos e dos abatidos. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A m&atilde;o de obra &eacute; medida em equivalentes-homens.    Os Censos Agropecu&aacute;rios apresentam a m&atilde;o de obra ocupada nos estabelecimentos    rurais classificada em v&aacute;rias categorias, por sexo e uma divis&atilde;o    por idade. Para a transforma&ccedil;&atilde;o da m&atilde;o de obra em equivalentes-homens    utiliza-se a tabela apresentada por Guerreiro (1996). </font></p>     <p><font size="2" face="Verdana">A produtividade da m&atilde;o de obra de cada    regi&atilde;o &eacute; expressa em valor relativo &agrave; m&eacute;dia calculada    sobre todas as regi&otilde;es, a qual &eacute; considerada igual a 1,00. Este    procedimento &eacute; realizado em rela&ccedil;&atilde;o a cada um dos dois    anos, 1975 e 1995/96. (vide <a href="#anx01">tabela 3</a> do anexo). </font></p>     <p><font size="2" face="Verdana"> H&aacute;, assim, para cada um dos dois anos,    uma fun&ccedil;&atilde;o de distribui&ccedil;&atilde;o regional da produtividade    que possibilita a classifica&ccedil;&atilde;o das regi&otilde;es em classes.    Pela organiza&ccedil;&atilde;o das duas distribui&ccedil;&otilde;es em uma mesma    estrutura de classes, examina-se a migra&ccedil;&atilde;o das regi&otilde;es    de uma classe para outra de 1975 a 1995. </font></p>     <p><font size="2" face="Verdana">Para determinar a estrutura de classes &eacute;    necess&aacute;rio estabelecer a dimens&atilde;o do intervalo das classes. Esta    dimens&atilde;o &eacute; importante, pois um valor muito grande faz com que    haja muitas observa&ccedil;&otilde;es em cada intervalo, diminuindo a vari&acirc;ncia    da estimativa. No entanto o formato do histograma n&atilde;o &eacute; adequado,    o que leva a aumentar o vi&eacute;s da estimativa. Uma dimens&atilde;o pequena    reduz o vi&eacute;s da estimativa, mas aumenta a sua vari&acirc;ncia (Pagan    e Ullah, 1999). </font></p>     <p><font size="2" face="Verdana">Esta dimens&atilde;o deve ser escolhida de modo    a resultar em um &oacute;timo <I>trade-off</I> entre vi&eacute;s e vari&acirc;ncia    da estimativa. Devroye e Gy&ouml;rfi (<I>apud</I> Magrini, 1999, p.264) concluem    que, quando a distribui&ccedil;&atilde;o &eacute; normal, o valor &oacute;timo    do intervalo de classe seria dado por h = 2,72 sn<SUP>-1/3</SUP> sendo h a dimens&atilde;o    do intervalo, s o desvio-padr&atilde;o da distribui&ccedil;&atilde;o e n o n&uacute;mero    de observa&ccedil;&otilde;es. Mas, segundo Magrini (1999, p.264) este valor    de h seria adequado mesmo se as observa&ccedil;&otilde;es n&atilde;o seguissem    uma distribui&ccedil;&atilde;o normal. Portanto esta &eacute; a express&atilde;o    utilizada neste estudo para a estimativa do intervalo de classe. </font></p>     <p><font size="2" face="Verdana">Testa-se a normalidade de cada distribui&ccedil;&atilde;o    de produtividade, a de 1975 e a de 1995/96, atrav&eacute;s do teste de Kolmogorov-Smirnov.    Neste teste compara-se a distribui&ccedil;&atilde;o de freq&uuml;&ecirc;ncia    acumulada observada, com a acumulada te&oacute;rica esperada na hip&oacute;tese    de normalidade. O valor absoluto da diferen&ccedil;a m&aacute;xima entre as    freq&uuml;&ecirc;ncias acumuladas das duas distribui&ccedil;&otilde;es constitui    o valor D para este teste (Siegel, 1956). </font></p>     <p><font size="2" face="Verdana">A partir das duas distribui&ccedil;&otilde;es    de produtividade, a de 1975 e de 1995/96, determina-se uma matriz M de probabilidades    de transi&ccedil;&atilde;o das regi&otilde;es entre as classes, denominada matriz    de Markov. Esta matriz origina um sistema de equa&ccedil;&otilde;es de diferen&ccedil;as,    F<SUB>t+1 </SUB>= M*F<SUB>t</SUB> em que F<SUB>t</SUB> &eacute; a distribui&ccedil;&atilde;o    regional da produtividade no tempo t e F<SUB>t+1</SUB> &eacute; a do tempo t+1.    A solu&ccedil;&atilde;o do sistema informa se as regi&otilde;es convergem, no    longo prazo, em termos de produtividade da m&atilde;o de obra, e qual a velocidade    desta converg&ecirc;ncia. </font></p>     <p><font size="2" face="Verdana">A hip&oacute;tese b&aacute;sica associada a este    procedimento &eacute; que as probabilidades de transi&ccedil;&atilde;o sejam    estacion&aacute;rias, isto &eacute;, que a probabilidade de passagem de uma    classe para outra seja invari&aacute;vel com o tempo. </font></p>     <p><font size="2" face="Verdana">Al&eacute;m da an&aacute;lise da converg&ecirc;ncia    ou n&atilde;o das regi&otilde;es, se estuda, tamb&eacute;m, que vari&aacute;veis    poderiam explic&aacute;-la. A vari&aacute;vel explicada &eacute; a diferen&ccedil;a    entre a produtividade relativa de cada regi&atilde;o, em rela&ccedil;&atilde;o    &agrave; m&eacute;dia, no ano de 1995/96 e a sua produtividade relativa em 1975.    As regi&otilde;es que progrediram apresentam diferen&ccedil;as positivas e as    que regrediram t&ecirc;m diferen&ccedil;as negativas. </font></p>     <p><font size="2" face="Verdana">A an&aacute;lise poderia ser realizada atrav&eacute;s    da regress&atilde;o estat&iacute;stica da vari&aacute;vel explicada sobre o    conjunto das vari&aacute;veis explicativas se n&atilde;o fosse por dois tipos    de problemas. Um &eacute; o grande n&uacute;mero de vari&aacute;veis explicativas    em rela&ccedil;&atilde;o ao de observa&ccedil;&otilde;es e o outro a alta correla&ccedil;&atilde;o    estat&iacute;stica entre v&aacute;rias vari&aacute;veis explicativas. Assim,    antes da regress&atilde;o estat&iacute;stica reduz-se o n&uacute;mero de vari&aacute;veis    originais, agregando-as em combina&ccedil;&otilde;es lineares, n&atilde;o correlacionadas    entre si, denominadas componentes principais. Ap&oacute;s, regressa-se a vari&aacute;vel    explicada sobre estes componentes principais (Stevens, 1996, cap.11). O procedimento    estat&iacute;stico utiliza o programa "Statistical Package for Social Sciences"    (SPSS). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Cada vari&aacute;vel original &eacute; associada    ao componente principal com o qual a sua carga ou correla&ccedil;&atilde;o for    maior. A carga &eacute; a correla&ccedil;&atilde;o de Pearson entre a vari&aacute;vel    original e o componente principal tamb&eacute;m denominado fator. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>3<I> – </I>Resultados</B> </font></p>     <p><font size="2" face="Verdana">O valor de <I>D</I> do teste de normalidade de    Kolmogorov-Smirnov &eacute; igual a 0,207 para a distribui&ccedil;&atilde;o    do ano de 1975 e 0,167 para a do ano de 1995/96. O valor limite que consta na    Tabela E (Siegel, 1956, p.251) para 75 observa&ccedil;&otilde;es a 1% de signific&acirc;ncia    estat&iacute;stica &eacute; 0,188. Portanto, em rela&ccedil;&atilde;o &agrave;    distribui&ccedil;&atilde;o de 1975 se rejeita a hip&oacute;tese de que ela seja    normal, mas n&atilde;o se rejeita a mesma em rela&ccedil;&atilde;o &agrave;    distribui&ccedil;&atilde;o de 1995/96, ao n&iacute;vel de signific&acirc;ncia    de 1%. </font></p>     <p><font size="2" face="Verdana">Apesar de a distribui&ccedil;&atilde;o de 1975    n&atilde;o ser uma distribui&ccedil;&atilde;o normal, se utiliza a f&oacute;rmula    h = 2,72 sn<SUP>-1/3</SUP> para calcular a dimens&atilde;o h do intervalo de    classe, baseado na observa&ccedil;&atilde;o de Magrini (1999, p.264) de que    este  valor de h seria adequado, mesmo    se as observa&ccedil;&otilde;es n&atilde;o seguissem uma distribui&ccedil;&atilde;o    normal. </font></p>     <p><font size="2" face="Verdana">Os valores de h obtidos s&atilde;o 0,481 para    a distribui&ccedil;&atilde;o de 1975 e 0,439 para a de 1995/96. Considera-se    o valor m&eacute;dio de 0,460 estabelecendo-se quatro classes comuns &agrave;s    duas distribui&ccedil;&otilde;es, as quais englobam regi&otilde;es com valores    relativos: a) abaixo de 0,54; b) entre 0,54 at&eacute; 1,00; c) acima de 1,00    at&eacute; 1,46; d) e acima de 1,46. </font></p>     <p><font size="2" face="Verdana"> Utilizando os dados da <a href="#anx01">Tabela    3</a> (no anexo) e com base nestas quatro classes, obt&eacute;m-se a matriz    de transi&ccedil;&atilde;o de Markov e o seguinte sistema de equa&ccedil;&otilde;es    de diferen&ccedil;as: </font></p>     <p align="center"><font size="2" face="Verdana"> <img src="/img/revistas/resr/v42n2/a06img01.gif"></font></p>     <p><font size="2" face="Verdana">A distribui&ccedil;&atilde;o inicial (a de 1975)    das 75 regi&otilde;es entre as quatro classes &eacute; a seguinte: </font></p>     <p><font size="2" face="Verdana">F1<SUB>0 </SUB>=12/75 = 0,16; F2<SUB>0</SUB>    = 41/75 = 0,547; F3<SUB>0</SUB>=10/75 = 0,133 e F4<SUB>0</SUB>= 12/75 = 0,16.    </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Com base nesta distribui&ccedil;&atilde;o inicial    a solu&ccedil;&atilde;o do sistema de equa&ccedil;&otilde;es <a name="tx" id="tx"></a>&eacute;:<SUP><a href="#nt">1</a></SUP>    </font></p>     <p align="center"><font size="2" face="Verdana"> <img src="/img/revistas/resr/v42n2/a06img02.gif"></font></p>     <p><font size="2" face="Verdana">A solu&ccedil;&atilde;o de equil&iacute;brio    de longo prazo &eacute; dada por: F1<SUB>t    </SUB>= 0,18; F2<SUB>t</SUB> = 0,44; F3<SUB>t </SUB>= 0,38; F4<SUB>t</SUB> =0.    </font></p>     <p><font size="2" face="Verdana">Constata-se que, no longo prazo, desaparecer&aacute;    a classe de produtividade mais elevada. A classe de produtividade mais baixa    conter&aacute; 18% das regi&otilde;es, ficando pr&oacute;xima dos iniciais 16%.    A segunda classe baixar&aacute; dos iniciais 54,7% para 44% e a terceira aumentar&aacute;    dos iniciais 13,3% para abranger 38% do total das regi&otilde;es. A tend&ecirc;ncia    &eacute;, portanto, uma  parcela das regi&otilde;es    da segunda classe e as regi&otilde;es da quarta classe migrarem para a terceira    classe. </font></p>     <p><font size="2" face="Verdana">A segunda raiz caracter&iacute;stica, em valor    absoluto, fornece uma medida da velocidade com que este equil&iacute;brio de    longo prazo &eacute; alcan&ccedil;ado. Essa velocidade &eacute; entendida como    o tempo necess&aacute;rio para percorrer a metade da dist&acirc;ncia entre a    posi&ccedil;&atilde;o inicial e a de equil&iacute;brio de longo prazo (<I>dm</I>).    Ela &eacute; dada por <I>dm</I> = - log 2 / log |0,75 | = 2,409 per&iacute;odos.    </font></p>     <p><font size="2" face="Verdana">Multiplicando-se 2,409 per&iacute;odos por 20,5    anos, que &eacute; o n&uacute;mero de anos de um per&iacute;odo (de julho de    1975 a dezembro de 1995), obt&eacute;m-se o tempo necess&aacute;rio, 49 anos,    para o setor agropecu&aacute;rio percorrer a metade da dist&acirc;ncia entre    a posi&ccedil;&atilde;o inicial e a de equil&iacute;brio de longo prazo. </font></p>     <p><font size="2" face="Verdana">A pr&oacute;xima quest&atilde;o que merece uma    an&aacute;lise s&atilde;o os fatores associados &agrave;s migra&ccedil;&otilde;es    das regi&otilde;es entre classes de produtividade da m&atilde;o de obra. Com    base nesta informa&ccedil;&atilde;o se pode inferir sobre os tipos de regi&otilde;es    que tenderiam a migrar de uma classe para outra. </font></p>     <p><font size="2" face="Verdana">Como vari&aacute;veis explicativas seleciona-se    um conjunto de 21 vari&aacute;veis. As informa&ccedil;&otilde;es sobre os valores    das mesmas s&atilde;o obtidas dos censos agropecu&aacute;rios de 1975 e 1995/96.    Estes valores s&atilde;o referentes &agrave;s 75 regi&otilde;es. Estas vari&aacute;veis    s&atilde;o, com a respectiva simbologia que &eacute; utilizada na tabela abaixo,    as que seguem. </font></p>     <blockquote>        <p><font size="2" face="Verdana">1) Varia&ccedil;&atilde;o percentual entre      1975 e 1995/96 no n&uacute;mero de estabelecimentos rurais: </font></p>       ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">a) de menos de 20 hectares.(vpnemvi);     <br>     b) de 20 a menos de 200 hectares (vpneved);    <br>     c) de mais de 200 hectares(vpnemad); </font></p>       <p><font size="2" face="Verdana">2) Aumento, em pontos percentuais, de 1975      a 1995/96, na participa&ccedil;&atilde;o da &aacute;rea de cada cultura na      &aacute;rea de lavoura tempor&aacute;ria total. No caso da uva &eacute; a      participa&ccedil;&atilde;o na &aacute;rea de lavoura permanente total. </font></p>       <p><font size="2" face="Verdana">a) arroz (aarearr);     <br>     b) feij&atilde;o (aarefe);     <br>     c) fumo (aarefu);     <br>     d) trigo (aaretr);     <br>     e) soja (aareso);     <br>     f) milho (aaremi);     ]]></body>
+<body><![CDATA[<br>     g) uva (aareuv) </font></p>       <p><font size="2" face="Verdana"> </font><font size="2" face="Verdana"> 3) Aumento,      em pontos percentuais, de 1975 a 1995/96, na participa&ccedil;&atilde;o do      valor total da produ&ccedil;&atilde;o agropecu&aacute;ria de: </font></p>       <p><font size="2" face="Verdana">a) animais de grande porte (aprangpo);     <br>     b) animais de m&eacute;dio porte (apranmpo);          <br>     c) aves e pequenos animais (apraves);          <br>     d) lavouras permanentes (aprlavp);    <br>     e) lavouras tempor&aacute;rias (aprlavt).      </font></p>       <p><font size="2" face="Verdana">4) Varia&ccedil;&atilde;o percentual, de 1975      a 1995/96, nos: </font></p>       <p><font size="2" face="Verdana">a) cavalos vapor de trator (vpcv);     <br>     b) m&atilde;o de obra ocupada (vpeh).      </font></p>       ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">5) Percentual de estabelecimentos rurais da      regi&atilde;o que em 1995/96: </font></p>       <p><font size="2" face="Verdana">a) usaram adubo (pestadu);    <br>     b) usaram calc&aacute;rio ou outro corretivo      (pestcal);     <br>     c) o produtor informou ter usado assist&ecirc;ncia      t&eacute;cnica (pestass);     <br>     d) o produtor &eacute; associado a alguma      cooperativa (pestcoo). </font></p> </blockquote>     <p><font size="2" face="Verdana">Destas 21 vari&aacute;veis s&atilde;o extra&iacute;dos    sete fatores ou componentes principais (<a href="#tab01">tabela 1</a>). As cargas    maiores das vari&aacute;veis explicativas associadas a cada fator s&atilde;o    apresentadas em negrito. Os sete fatores explicam 73,14% da vari&acirc;ncia    total destas 21 vari&aacute;veis. Na regress&atilde;o das diferen&ccedil;as    entre as produtividades relativas das regi&otilde;es nos dois anos sobre estes    sete fatores, apenas os quatro primeiros se mostram estatisticamente significantes    (<a href="#tab02">Tabela 2</a>). </font></p>     <p><a name="tab01"></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n2/a06tab01.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n2/a06tab02.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">O primeiro fator &eacute; constitu&iacute;do    pelas vari&aacute;veis: aumento percentual do n&uacute;mero de estabelecimentos    de menos de 20 hectares, dos de menos de 200 hectares, dos equivalentes-homens,    e da redu&ccedil;&atilde;o na participa&ccedil;&atilde;o da &aacute;rea de trigo    na &aacute;rea de lavoura. Na regress&atilde;o o sinal do coeficiente do primeiro    fator &eacute; negativo. Assim a conclus&atilde;o relacionada a este primeiro    fator &eacute; que as regi&otilde;es em que ocorrem aumentos no percentual de    estabelecimentos com menos de 200 hectares e aumentos na m&atilde;o de obra    ocupada t&ecirc;m tend&ecirc;ncia de convergirem para as classes de produtividade    mais baixa da m&atilde;o de obra. As regi&otilde;es com aumento na participa&ccedil;&atilde;o    da &aacute;rea de trigo na &aacute;rea de lavoura tempor&aacute;ria total tendem    a convergir para as classes de produtividade mais alta. </font></p>     <p><font size="2" face="Verdana">O segundo fator, estatisticamente significante    na regress&atilde;o, apresenta o coeficiente com sinal positivo. As vari&aacute;veis    que comp&otilde;em este  fator s&atilde;o,    todas com sinal positivo, o percentual de estabelecimentos na regi&atilde;o    que em 1995/96 aplicaram calc&aacute;rio, adubo, tinham assist&ecirc;ncia t&eacute;cnica    e apresentaram grande aumento entre 1975 e 1995/96 na participa&ccedil;&atilde;o    dos animais de m&eacute;dio porte no valor total da produ&ccedil;&atilde;o agropecu&aacute;ria.    </font></p>     <p><font size="2" face="Verdana">Assim, a persistir a tend&ecirc;ncia observada    de 1975 a 1995/96, as regi&otilde;es com alto percentual de estabelecimentos    rurais tecnicamente assistidos, utilizando adubos e corretivos de solo e se    dedicando &agrave; cria&ccedil;&atilde;o de animais de m&eacute;dio porte, aumentariam    o seu n&iacute;vel de produtividade da m&atilde;o de obra. </font></p>     <p><font size="2" face="Verdana">O terceiro fator, estatisticamente significante    na regress&atilde;o, &eacute; constitu&iacute;do pelas vari&aacute;veis aumento    da participa&ccedil;&atilde;o do valor dos animais de grande porte no valor    total da produ&ccedil;&atilde;o agropecu&aacute;ria e o percentual de estabelecimentos    associados a cooperativas em 1995/96. Estas vari&aacute;veis apresentam sinais    positivos. Portanto, como o coeficiente do fator &eacute; negativo na regress&atilde;o,    conclui-se que as regi&otilde;es com cria&ccedil;&atilde;o de animais de grande    porte tenderiam a convergir para classes mais baixas de produtividade da m&atilde;o    de obra. A vari&aacute;vel percentual de estabelecimentos associados a cooperativas    estaria indicando que as regi&otilde;es com grande n&uacute;mero de associados    tamb&eacute;m tenderiam a decair nos seus n&iacute;veis de produtividade da    m&atilde;o de obra. Por&eacute;m, isto talvez se explique pela sua correla&ccedil;&atilde;o    com o aumento da participa&ccedil;&atilde;o do valor dos animais de grande porte    no valor total da produ&ccedil;&atilde;o agropecu&aacute;ria, cujo coeficiente    &eacute; de 0,30 e j&aacute; que ambas as vari&aacute;veis est&atilde;o no mesmo    fator. </font></p>     <p><font size="2" face="Verdana">Outras duas vari&aacute;veis que integram o terceiro    fator s&atilde;o os aumentos, entre 1975 a 1995/96, da participa&ccedil;&atilde;o    da &aacute;rea de soja na &aacute;rea de lavoura tempor&aacute;ria e da participa&ccedil;&atilde;o    do valor das lavouras permanentes no valor total da produ&ccedil;&atilde;o agropecu&aacute;ria.    Estas vari&aacute;veis apresentam sinais negativos, o que, em conjunto com o    sinal negativo do coeficiente do fator na regress&atilde;o, indicaria que regi&otilde;es    que expandissem a &aacute;rea de soja e a de culturas permanentes tenderiam    para classes mais elevadas de produtividade. </font></p>     <p><font size="2" face="Verdana">O quarto fator, estatisticamente significante    na regress&atilde;o, indica que as regi&otilde;es que apresentam aumentos da    participa&ccedil;&atilde;o do valor de aves e pequenos animais no valor total    da produ&ccedil;&atilde;o agropecu&aacute;ria e da mecaniza&ccedil;&atilde;o    agr&iacute;cola em termos de n&uacute;mero de cavalos vapor de trator tenderiam    para n&iacute;veis mais elevados de produtividade. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Embora, reconhecendo que a produtividade da m&atilde;o    de obra &eacute; apenas um indicador parcial, o trabalho analisa, diretamente,    apenas a produtividade deste fator. Ele n&atilde;o analisa a produtividade total    dos fatores e nem a produtividade da terra. O motivo desta decis&atilde;o s&atilde;o    as considera&ccedil;&otilde;es feitas nos par&aacute;grafos iniciais do artigo    onde se afirma que a m&atilde;o de obra do setor rural do Rio Grande do Sul    est&aacute; em decl&iacute;nio. Assim, para a agropecu&aacute;ria do Estado    continuar cumprindo as suas fun&ccedil;&otilde;es de oferta da mesma quantidade    de alimentos, de produtos de exporta&ccedil;&atilde;o, etc., &eacute; necess&aacute;rio    que a produtividade deste fator aumente. </font></p>     <p><font size="2" face="Verdana">Por&eacute;m, o estudo analisa a rela&ccedil;&atilde;o    entre a varia&ccedil;&atilde;o na produtividade da m&atilde;o de obra e na da    terra. Assim, consideram-se os dois componentes da produtividade do trabalho    (VA/EH) que s&atilde;o a produtividade da terra (VA/A) e a rela&ccedil;&atilde;o    terra/homem (A/EH), de modo que VA/EH = VA/A*A/EH (Gasques e Concei&ccedil;&atilde;o,    2001, p.46). Nesta rela&ccedil;&atilde;o VA &eacute; o valor agregado da produ&ccedil;&atilde;o    agropecu&aacute;ria, EH &eacute; o n&uacute;mero de unidades de m&atilde;o de    obra e A &eacute; a &aacute;rea de terra explorada. Em rela&ccedil;&atilde;o    a cada produtividade e &agrave; rela&ccedil;&atilde;o terra/homem, consideram-se    as varia&ccedil;&otilde;es de 1975 a 1995/96 nos valores de cada regi&atilde;o,    expressos em termos relativos &agrave; m&eacute;dia do Estado. Verificou-se    que o coeficiente de correla&ccedil;&atilde;o de Pearson entre as varia&ccedil;&otilde;es    na produtividade da m&atilde;o de obra e as varia&ccedil;&otilde;es na produtividade    da terra &eacute; igual a 0,505 e estatisticamente significante a 1%. O coeficiente    de correla&ccedil;&atilde;o entre as varia&ccedil;&otilde;es na produtividade    da m&atilde;o de obra e as varia&ccedil;&otilde;es na rela&ccedil;&atilde;o    terra/homem &eacute; igual a 0,508 e estatisticamente significante a 1%. </font></p>     <p><font size="2" face="Verdana">O sinal positivo do primeiro coeficiente de correla&ccedil;&atilde;o    mostra que, em muitas regi&otilde;es, a converg&ecirc;ncia quanto &agrave; produtividade    da terra segue no mesmo sentido da converg&ecirc;ncia em rela&ccedil;&atilde;o    &agrave; produtividade da m&atilde;o de obra. Esta seria a situa&ccedil;&atilde;o    das regi&otilde;es em que ocorre a ado&ccedil;&atilde;o concomitante da tecnologia    qu&iacute;mica, biol&oacute;gica e mec&acirc;nica, resultando no aumento da    produtividade de ambos os fatores. A ado&ccedil;&atilde;o dos dois tipos de    tecnologia ocorreu nas regi&otilde;es produtoras de soja e trigo e nas produtoras    de arroz irrigado. </font></p>     <p><font size="2" face="Verdana">A correla&ccedil;&atilde;o positiva entre a varia&ccedil;&atilde;o    na produtividade da m&atilde;o de  obra    e a rela&ccedil;&atilde;o terra/homem indica que quando a &aacute;rea dispon&iacute;vel    por unidade de m&atilde;o de obra diminui, a produtividade deste fator decresce.    </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>4 – Conclus&otilde;es</B> </font></p>     <p><font size="2" face="Verdana">Com base na evolu&ccedil;&atilde;o hist&oacute;rica    da produtividade da m&atilde;o de obra na agropecu&aacute;ria das regi&otilde;es    do Rio Grande do Sul ocorrida no per&iacute;odo que vai do censo agropecu&aacute;rio    de 1975 ao censo de 1995/96, verifica-se que a classe de n&iacute;vel de produtividade    mais alta tende a migrar, no futuro, para as classes de n&iacute;veis mais baixos    e a de n&iacute;vel mais baixo tende a se manter est&aacute;vel com aproximadamente    o mesmo percentual de regi&otilde;es. Haver&aacute; uma redu&ccedil;&atilde;o    na participa&ccedil;&atilde;o relativa das regi&otilde;es na segunda classe    e um aumento acentuado na participa&ccedil;&atilde;o na terceira classe. </font></p>     <p><font size="2" face="Verdana">As explica&ccedil;&otilde;es para as migra&ccedil;&otilde;es    das regi&otilde;es entre classes de produtividade da m&atilde;o de obra podem    ser classificadas em tr&ecirc;s categorias. Uma est&aacute; relacionada com    a substitui&ccedil;&atilde;o entre os fatores de produ&ccedil;&atilde;o que    ocorre ao longo do tempo. As outras duas explica&ccedil;&otilde;es s&atilde;o    a mudan&ccedil;a na estrutura de produ&ccedil;&atilde;o e o avan&ccedil;o tecnol&oacute;gico.    </font></p>     <p><font size="2" face="Verdana">Ao se considerar uma fun&ccedil;&atilde;o de    produ&ccedil;&atilde;o em que o produto &eacute; o valor agregado da produ&ccedil;&atilde;o    agropecu&aacute;ria e os fatores s&atilde;o a m&atilde;o de obra, a terra e    o capital (representado pelos tratores) verificou-se que, para um mesmo n&iacute;vel    de produ&ccedil;&atilde;o (uma isoquanta no espa&ccedil;o tri-dimensional),    o aumento das pessoas ocupadas por unidade de &aacute;rea, ou seja, a substitui&ccedil;&atilde;o    da terra por m&atilde;o de obra, reduz a produtividade deste &uacute;ltimo fator.    Por&eacute;m, a substitui&ccedil;&atilde;o da m&atilde;o de obra por tratores    aumenta a sua produtividade. S&atilde;o estes dois tipos de substitui&ccedil;&otilde;es    que est&atilde;o ocorrendo na agropecu&aacute;ria do Estado. </font></p>     <p><font size="2" face="Verdana">Assim, verifica-se que as regi&otilde;es em que    ocorrerem aumentos no percentual de estabelecimentos com menos de 200 hectares    e aumentos na m&atilde;o de obra ocupada ter&atilde;o tend&ecirc;ncia de convergirem    para as classes de produtividade mais baixa da m&atilde;o de obra. Ao longo    do tempo existe a tend&ecirc;ncia dos grandes estabelecimentos se fragmentarem,    por heran&ccedil;a, reforma agr&aacute;ria, etc. e a regi&atilde;o absorver    mais m&atilde;o de obra. H&aacute;, assim, a gera&ccedil;&atilde;o de mais emprego,    mas, se o volume de produ&ccedil;&atilde;o regional n&atilde;o aumentar, haver&aacute;    a redu&ccedil;&atilde;o da produtividade da m&atilde;o de    obra. &Eacute; esta a tend&ecirc;ncia observada entre 1975 e 1995/96 em muitas    regi&otilde;es de grandes estabelecimentos criadores de gado. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Por outro lado, observa-se que as regi&otilde;es    que apresentam aumentos na mecaniza&ccedil;&atilde;o agr&iacute;cola em termos    de n&uacute;mero de cavalos vapor de trator tenderiam para n&iacute;veis mais    elevados de produtividade da m&atilde;o de obra. H&aacute; a substitui&ccedil;&atilde;o    do homem pela m&aacute;quina. Em muitas regi&otilde;es este aumento na mecaniza&ccedil;&atilde;o,    observado no per&iacute;odo de 1975 a 1995/96, estava associado com a expans&atilde;o    das lavouras de trigo e soja que tiveram efeito positivo sobre a produtividade    da m&atilde;o de obra. </font></p>     <p><font size="2" face="Verdana">Outra explica&ccedil;&atilde;o para as migra&ccedil;&otilde;es    das regi&otilde;es entre classes de n&iacute;veis de produtividade da m&atilde;o    de obra est&aacute; nas mudan&ccedil;as na estrutura de produ&ccedil;&atilde;o.    Atrav&eacute;s da migra&ccedil;&atilde;o para produtos de maior valor agregado,    haveria um deslocamento da isoquanta, expressa em termos de valor da produ&ccedil;&atilde;o,    em dire&ccedil;&atilde;o &agrave; origem dos eixos, aumentando a produtividade    dos fatores de produ&ccedil;&atilde;o, pois seriam necess&aacute;rias menores    quantidades de fatores para o mesmo valor de produ&ccedil;&atilde;o. Isto pode    ter ocorrido nas regi&otilde;es que passaram do cultivo de lavouras tempor&aacute;rias    para as frut&iacute;feras como ma&ccedil;&atilde;, uva e a produ&ccedil;&atilde;o    de vinho, dos animais de grande porte para os de m&eacute;dio e pequeno porte    (su&iacute;nos e aves), etc., aumentando o valor total da produ&ccedil;&atilde;o    por unidade de m&atilde;o de obra e de terra, sem ter havido mudan&ccedil;a    nos pre&ccedil;os. </font></p>     <p><font size="2" face="Verdana"> O avan&ccedil;o tecnol&oacute;gico, ao deslocar    a fun&ccedil;&atilde;o de produ&ccedil;&atilde;o, tamb&eacute;m pode elevar    a produtividade da m&atilde;o de obra. &Eacute; o que se constata com a tecnologia    divulgada pela assist&ecirc;ncia t&eacute;cnica e associada &agrave; utiliza&ccedil;&atilde;o    de adubos e calc&aacute;rio, vari&aacute;veis associadas positivamente a maior    produtividade. </font></p>     <p><font size="2" face="Verdana">Assim, parece que no Estado do Rio Grande do    Sul as regi&otilde;es de grandes estabelecimentos rurais, devido &agrave; mudan&ccedil;a    na estrutura agr&aacute;ria, tenderiam a baixar da quarta classe para uma classe    inferior de produtividade da m&atilde;o de obra ao longo do tempo. Para evitar    esta queda haveria necessidade de que mudan&ccedil;as na estrutura agr&aacute;ria    fossem acompanhadas pela introdu&ccedil;&atilde;o de sistemas de produ&ccedil;&atilde;o    com maior valor agregado por unidade de m&atilde;o de obra, atrav&eacute;s de    mudan&ccedil;as na estrutura de produ&ccedil;&atilde;o e na tecnologia. </font></p>     <p><font size="2" face="Verdana"> As regi&otilde;es com estabelecimentos rurais    menores, mas que conseguem mudar a sua estrutura de produ&ccedil;&atilde;o para    produtos de maior valor agregado, que atingem    maior volume de produ&ccedil;&atilde;o atrav&eacute;s de mudan&ccedil;a tecnol&oacute;gica,    ou ainda, em que a mecaniza&ccedil;&atilde;o provoca a emigra&ccedil;&atilde;o    da m&atilde;o de obra, poderiam subir de classe de produtividade da m&atilde;o    de obra. </font></p>     <p><font size="2" face="Verdana">Haveria, por&eacute;m, um conjunto de regi&otilde;es    de pequenos estabelecimentos, com produtos de pouco valor agregado, baixos n&iacute;veis    tecnol&oacute;gicos e grandes quantidades de m&atilde;o de obra, que tendem    a permanecer na classe de produtividade mais baixa. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>5 – Refer&ecirc;ncias Bibliogr&aacute;ficas</B>    </font></p>     <!-- ref --><p><font size="2" face="Verdana">Albuquerque M. C. C. de e Nicol R. <I>Economia    Agr&iacute;cola</I>. McGraw – Hill. S&atilde;o Paulo. 1987 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000131&pid=S0103-2003200400020000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Barro R.J. e Sala-i-Martin, X. Convergence across    States and Regions. <I>Brookings Papers on Economic Activity, </I>1991, p.107-182.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200400020000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Barro R.J. e Sala-i-Martin, X. Convergence. <I>Journal    of Political Economy</I>. 100, 1992, p.223-251. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S0103-2003200400020000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Barro R.J. e Sala-i-Martin, X. <I>Economic Growth    Theory</I>, MIT Press, 1995. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200400020000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Baumol W.J. Productivity growth, convergence,    and welfare: what the long-run data show, <I>American Economic Review</I>, 54,    1986, p.1072-1085. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0103-2003200400020000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Fialho I. P. M.e Maia M. M. Tamanho da Propriedade    e Efici&ecirc;ncia na Agricultura Paulista: o que os Censos Mostram. <I>Revista    de Economia e Sociologia Rural.</I> SOBER. Bras&iacute;lia. 1983. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003200400020000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Friedman M. Do old fallacies ever die? <I>Journal    of Economic Literature</I>, 30, 1992, p.2129-132. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S0103-2003200400020000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Gasques J. G. e Concei&ccedil;&atilde;o J. C.    P. R. Transforma&ccedil;&otilde;es Estruturais da Agricultura e Produtividade    Total dos Fatores. In: <I>Transforma&ccedil;&otilde;es da Agricultura e Pol&iacute;ticas    P&uacute;blicas</I>. IPEA. Bras&iacute;lia. 2001. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200400020000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana"> Guerreiro E. Produtividade do Trabalho e da    Terra na Agropecu&aacute;ria Paranaense. <I>Revista de Economia e Sociologia    Rural.</I> SOBER. Bras&iacute;lia. 1996. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S0103-2003200400020000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">IBGE <I>Censo Agropecu&aacute;rio</I> 1995-1996.-Nº    22 - Rio Grande do Sul. Rio de Janeiro. 1998. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200400020000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">IBGE <I>Censo Agropecu&aacute;rio</I> 1975.-Vol    I Tomo 20 - Rio Grande do Sul. Rio de Janeiro. 1979. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0103-2003200400020000600011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">IBGE (2002) –Site: <a href="http://www.sidra.ibge.gov.br/" target="_blank">http://www.sidra.ibge.gov.br/</a>    (acessado em 10/05/2002). </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003200400020000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Le Gallo, J. <I>Space-time analysis of GDP disparities    among European regions: A Markov chains approach</I>. Dijon/Fran&ccedil;a: University    of Burgundy, Mar&ccedil;o 2001. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S0103-2003200400020000600013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Magrini, S. The evolution of income disparities    among the regions of the European Union. <I>Regional Science and Urban Economics,</I>    Nº 29, 1999. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003200400020000600014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Pagan, A.; Ullah, A. <I>Nonparametric Econometrics</I>.    Cambridge/UK: Cambridge University Press,1999. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0103-2003200400020000600015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Quah D. Galton's fallacy and tests of the convergence    hypothesis, <I>Scandinavian Journal of Economics</I>, 95, 1993, p.427-443. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003200400020000600016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Siegel, S. <I>Nonparametric Statistics for the    Behavioral Sciences.</I> Nova Iorque: McGraw-Hill Book Company, 1956. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0103-2003200400020000600017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Simon, C.P. e Blume, L. <I>Mathematics for Economists</I>.    Nova Iorque: W.W. Norton &amp; Company Inc., 1994. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003200400020000600018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">Stevens, J. <I>Applied Multivariate Statistics    for the Social Sciences</I>. Lawrence Erlbaum Associates, Publishers. Mahwah.    Nova Jersey. 1996. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S0103-2003200400020000600019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana"> St&uuml;lp V. J., Marquetti A. e Fochezatto    A. Produtividade da M&atilde;o de Obra na Agropecu&aacute;ria do Rio Grande    do Sul. <I>1º Encontro de Economia Ga&uacute;cha</I>. FEE/PUCRS.    2002. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003200400020000600020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">St&uuml;lp V. J.e Binz L. A. An&aacute;lise comparativa    da agropecu&aacute;ria ga&uacute;cha entre duas &eacute;pocas: 1985 e 1995/96<I>.    Revista Redes</I>. Vol. 7 Fasc&iacute;culo 3 EDUNISC - Santa Cruz do Sul 2002..    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0103-2003200400020000600021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">St&uuml;lp V. J. Crescimento Agr&iacute;cola    no Rio Grande do Sul de 1960 a 1996. In: <I>Terceras Jornadas de Historia Economica.</I>    Montevid&eacute;u. Uruguai. 2003. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003200400020000600022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">St&uuml;lp V. J. Fatores Associados &agrave;    Redu&ccedil;&atilde;o da Popula&ccedil;&atilde;o Rural do Rio Grande do Sul.    In: <I>XLI Congresso Brasileiro de Economia e Sociologia Rural</I>. Juiz de    Fora. MG. 2003. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003200400020000600023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Recebido em novembro de 2003 e revisto em abril    de 2004. </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><a name="nt"></a><a href="#tx">1</a> Ver Simon    e Blume (1994) cap.23</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana"><B>Anexos</B></font></p>     ]]></body>
+<body><![CDATA[<p><b><a name="anx01"></a></b></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n2/a06anx01.gif"></p>     <p>&nbsp;</p>     <p><a name="anx02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n2/a06anx02.gif"></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Albuquerque]]></surname>
+<given-names><![CDATA[M. C. C. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nicol]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia Agrícola]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw - Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barro]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sala-i-Martin]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Convergence across States and Regions]]></article-title>
+<source><![CDATA[Brookings Papers on Economic Activity]]></source>
+<year>1991</year>
+<page-range>107-182</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barro]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sala-i-Martin]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Convergence]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>1992</year>
+<volume>100</volume>
+<page-range>223-251</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barro]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sala-i-Martin]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic Growth Theory]]></source>
+<year>1995</year>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baumol]]></surname>
+<given-names><![CDATA[W.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Productivity growth, convergence, and welfare: what the long-run data show]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>1986</year>
+<volume>54</volume>
+<page-range>1072-1085</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fialho]]></surname>
+<given-names><![CDATA[I. P. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maia]]></surname>
+<given-names><![CDATA[M. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Tamanho da Propriedade e Eficiência na Agricultura Paulista: o que os Censos Mostram]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Friedman]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Do old fallacies ever die?]]></article-title>
+<source><![CDATA[Journal of Economic Literature]]></source>
+<year>1992</year>
+<volume>30</volume>
+<page-range>2129-132</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gasques]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Conceição]]></surname>
+<given-names><![CDATA[J. C. P. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Transformações Estruturais da Agricultura e Produtividade Total dos Fatores]]></article-title>
+<source><![CDATA[Transformações da Agricultura e Políticas Públicas]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Guerreiro]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Produtividade do Trabalho e da Terra na Agropecuária Paranaense]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<collab>IBGE</collab>
+<source><![CDATA[Censo Agropecuário 1995-1996]]></source>
+<year>1998</year>
+<volume>22</volume>
+<publisher-loc><![CDATA[^eRio Grande do Sul^eRio de Janeiro Rio Grande do SulRio de Janeiro]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<collab>IBGE</collab>
+<source><![CDATA[Censo Agropecuário 1975]]></source>
+<year>1979</year>
+<publisher-loc><![CDATA[^eRio Grande do Sul^eRio de Janeiro Rio Grande do SulRio de Janeiro]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>IBGE</collab>
+<source><![CDATA[]]></source>
+<year>2002</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Le Gallo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Space-time analysis of GDP disparities among European regions: A Markov chains approach]]></source>
+<year>Març</year>
+<month>o </month>
+<day>20</day>
+<publisher-loc><![CDATA[Dijon ]]></publisher-loc>
+<publisher-name><![CDATA[University of Burgundy]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Magrini]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The evolution of income disparities among the regions of the European Union]]></article-title>
+<source><![CDATA[Regional Science and Urban Economics]]></source>
+<year>1999</year>
+<numero>29</numero>
+<issue>29</issue>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pagan]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ullah]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Nonparametric Econometrics]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Quah]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Galton's fallacy and tests of the convergence hypothesis, Scandinavian]]></article-title>
+<source><![CDATA[Journal of Economics]]></source>
+<year>1993</year>
+<volume>95</volume>
+<page-range>427-443</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Siegel]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Nonparametric Statistics for the Behavioral Sciences]]></source>
+<year>1956</year>
+<publisher-loc><![CDATA[Nova Iorque ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill Book Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Simon]]></surname>
+<given-names><![CDATA[C.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Blume]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mathematics for Economists]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Nova Iorque ]]></publisher-loc>
+<publisher-name><![CDATA[W.W. Norton & Company Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stevens]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied Multivariate Statistics for the Social Sciences]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Mahwah^eNova Jersey Nova Jersey]]></publisher-loc>
+<publisher-name><![CDATA[Lawrence Erlbaum Associates, Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stülp]]></surname>
+<given-names><![CDATA[V. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marquetti]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fochezatto]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Produtividade da Mão de Obra na Agropecuária do Rio Grande do Sul]]></source>
+<year></year>
+<conf-name><![CDATA[1 Encontro de Economia Gaúcha]]></conf-name>
+<conf-date>2002</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stülp]]></surname>
+<given-names><![CDATA[V. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Binz]]></surname>
+<given-names><![CDATA[L. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise comparativa da agropecuária gaúcha entre duas épocas: 1985 e 1995/96]]></article-title>
+<source><![CDATA[Revista Redes]]></source>
+<year>2002</year>
+<volume>7</volume>
+<publisher-loc><![CDATA[Santa Cruz do Sul ]]></publisher-loc>
+<publisher-name><![CDATA[EDUNISC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stülp]]></surname>
+<given-names><![CDATA[V. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Crescimento Agrícola no Rio Grande do Sul de 1960 a 1996]]></article-title>
+<source><![CDATA[Terceras Jornadas de Historia Economica]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Montevidéu ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stülp]]></surname>
+<given-names><![CDATA[V. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Fatores Associados à Redução da População Rural do Rio Grande do Sul]]></article-title>
+<source><![CDATA[]]></source>
+<year>2003</year>
+<conf-name><![CDATA[XLI Congresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-loc>Juiz de Fora MG</conf-loc>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

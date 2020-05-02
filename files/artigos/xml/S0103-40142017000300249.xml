@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-4014</journal-id>
+<journal-title><![CDATA[Estudos Avançados]]></journal-title>
+<abbrev-journal-title><![CDATA[Estud. av.]]></abbrev-journal-title>
+<issn>0103-4014</issn>
+<publisher>
+<publisher-name><![CDATA[Instituto de Estudos Avançados da Universidade de São Paulo]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-40142017000300249</article-id>
+<article-id pub-id-type="doi">10.1590/s0103-40142017.3191018</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Engenharia de sistemas complexos]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Piqueira]]></surname>
+<given-names><![CDATA[José Roberto Castilho]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[Sérgio Mascarenhas de]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Academia Nacional de Engenharia  ]]></institution>
+<addr-line><![CDATA[Rio de Janeiro Rio de Janeiro]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade de São Paulo Instituto de Física de São Carlos ]]></institution>
+<addr-line><![CDATA[São Carlos São Paulo]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2017</year>
+</pub-date>
+<volume>31</volume>
+<numero>91</numero>
+<fpage>249</fpage>
+<lpage>255</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-40142017000300249&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-40142017000300249&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-40142017000300249&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo: Este artigo apresenta uma proposta de abordagem dos sistemas complexos considerando sua engenharia e definindo medidas cujas evoluções temporais proporcionam indicativos de necessidade de ações preventivas nas fases de projeto, execução e operação de grandes obras.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract: This paper proposes an approach to complex systems considered as engineering works, and defines measures whose temporal evolutions give hints of the need for preventive actions in the design, execution and operation of big systems]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Aleatoriedade]]></kwd>
+<kwd lng="pt"><![CDATA[Complexidade]]></kwd>
+<kwd lng="pt"><![CDATA[Informação]]></kwd>
+<kwd lng="pt"><![CDATA[Projeto]]></kwd>
+<kwd lng="en"><![CDATA[Randomness]]></kwd>
+<kwd lng="en"><![CDATA[Complexity]]></kwd>
+<kwd lng="en"><![CDATA[Information]]></kwd>
+<kwd lng="en"><![CDATA[Design]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DESURVIRE]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Classical and Quantum Information Theory]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Cambridge, UK ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KOLMOGOROV]]></surname>
+<given-names><![CDATA[A. N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Three approaches to the definition of the concept "quantity of information"]]></article-title>
+<source><![CDATA[Problemy Peredachi Informatsii]]></source>
+<year>1965</year>
+<volume>1</volume>
+<page-range>3-11</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LÓPEZ-RUIZ]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANCINI]]></surname>
+<given-names><![CDATA[H. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CALBET]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A statistical measure of complexity]]></article-title>
+<source><![CDATA[Physics Letters A]]></source>
+<year>1995</year>
+<volume>209</volume>
+<page-range>321-6</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NORTHROP]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to complexity and complex systems]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Flórida ]]></publisher-loc>
+<publisher-name><![CDATA[CRC Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PANOS]]></surname>
+<given-names><![CDATA[C. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CHATZISAVVAS]]></surname>
+<given-names><![CDATA[K. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MOUSTAKIDIS]]></surname>
+<given-names><![CDATA[C. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KYRKOU]]></surname>
+<given-names><![CDATA[E. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Comparison of SDL and LMC measures of complexity: Atoms as a testbed]]></article-title>
+<source><![CDATA[Physics Letters A]]></source>
+<year>2007</year>
+<volume>363</volume>
+<numero>1/2</numero>
+<issue>1/2</issue>
+<page-range>78-83</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIQUEIRA]]></surname>
+<given-names><![CDATA[J. R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMPBELL-BORGES]]></surname>
+<given-names><![CDATA[Y. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Extending SDL and LMC complexity measures to quantum states]]></article-title>
+<source><![CDATA[Physica. A]]></source>
+<year>2013</year>
+<volume>392</volume>
+<page-range>5255-9</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIQUEIRA]]></surname>
+<given-names><![CDATA[J. R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[V. M. F. DE]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BATISTELA]]></surname>
+<given-names><![CDATA[C. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Complexity measures and self-similarity on spreading depression waves]]></article-title>
+<source><![CDATA[Physica. A]]></source>
+<year>2014</year>
+<volume>401</volume>
+<page-range>271-7</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIQUEIRA]]></surname>
+<given-names><![CDATA[J. R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MATTOS]]></surname>
+<given-names><![CDATA[S. H. V. L. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VASCONCELLOS NETO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Measuring complexity in three-trophic level systems]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2009</year>
+<volume>220</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>266-71</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIQUEIRA]]></surname>
+<given-names><![CDATA[J. R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORTOZA]]></surname>
+<given-names><![CDATA[L. P. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Brazilian exchange rate complexity: financial crisis effects]]></article-title>
+<source><![CDATA[Communications in Nonlinear Science &amp; Numerical Simulation]]></source>
+<year>2012</year>
+<volume>17</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1690-5</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POINCARE]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Le probléme des trois corps]]></article-title>
+<source><![CDATA[Revue Générale des Sciences Pures et Appliquées]]></source>
+<year>1891</year>
+<volume>2</volume>
+<page-range>1-5</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHECHTER]]></surname>
+<given-names><![CDATA[L. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A vida e o legado de Alan Turing para a Ciência]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHANNON]]></surname>
+<given-names><![CDATA[C. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEAVER]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The mathematical theory of communication]]></source>
+<year>1963</year>
+<publisher-loc><![CDATA[Urbana; Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[Illini Books Edition]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHINER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DAVISON]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LANDSBERG]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Simple measure for complexity]]></article-title>
+<source><![CDATA[Physical Review E]]></source>
+<year>1999</year>
+<volume>59</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1459-64</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

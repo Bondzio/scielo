@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032014000100005</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032014000100005</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Expansão da área agrícola e produtividade das culturas no Brasil: testando hipóteses da legislação californiana de biocombustíveis]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Daubermann]]></surname>
+<given-names><![CDATA[Elaine Correa]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Chagas]]></surname>
+<given-names><![CDATA[Lucas Squarize]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gurgel]]></surname>
+<given-names><![CDATA[Angelo Costa]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Sakurai]]></surname>
+<given-names><![CDATA[Sérgio Naruhiko]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Fundação Getúlio Vargas Escola de Economia de São Paulo ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,USP FEA ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2014</year>
+</pub-date>
+<volume>52</volume>
+<numero>1</numero>
+<fpage>81</fpage>
+<lpage>98</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032014000100005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032014000100005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032014000100005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O presente estudo investiga a hipótese de que a conversão de áreas de florestas e pastagens em áreas agrícolas no Brasil reduz a produtividade das mesmas em 50%. Essa hipótese vem sendo utilizada pelo Air Resource Board da Califórnia para estimar as emissões de gases de efeito estufa associados a mudanças indiretas no uso da terra provenientes da expansão da produção de biocombustíveis. Com base em testes econométricos, os resultados apresentados pela maioria dos modelos sugerem não ocorrer queda da produtividade quando da expansão da área de culturas no País, ou, quando ocorrem, são pouco expressivas, sinalizando, portanto, a necessidade de revisão e correção dos parâmetros da política californiana de combustíveis de baixas emissões.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[We investigate the hypothesis that the conversion of forest and pasture land to cropland in Brazil decreases yields by 50%. Such hypothesis is being used by the California Air Resource Board to estimate the greenhouse gas emissions from indirect land use changes due to the expansion of biofuels production. We formulate several econometric models to test such hypothesis. The results from the majority of the models indicate that yields do not decrease under the expansion of cropland area in the country, or the decrease in yields is very small. Therefore, our results indicate the need for revising and correcting the parameters in the Californian low carbon emissions policy.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Produtividade agrícola]]></kwd>
+<kwd lng="pt"><![CDATA[mudanças no uso da terra]]></kwd>
+<kwd lng="pt"><![CDATA[emissões de gases de efeito estufa]]></kwd>
+<kwd lng="pt"><![CDATA[padrão de combustíveis de baixas emissões]]></kwd>
+<kwd lng="en"><![CDATA[Agricultural yield]]></kwd>
+<kwd lng="en"><![CDATA[land use changes]]></kwd>
+<kwd lng="en"><![CDATA[greenhouse gas emissions]]></kwd>
+<kwd lng="en"><![CDATA[low carbon fuel standard]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><a name="top"></a><b>Expans&atilde;o    da &aacute;rea agr&iacute;cola e produtividade das culturas no Brasil: testando    hip&oacute;teses da legisla&ccedil;&atilde;o californiana de biocombust&iacute;veis<a href="#back"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Elaine Correa    Daubermann<sup>I</sup>; Lucas Squarize Chagas<sup>II</sup>; Angelo Costa Gurgel<sup>III</sup>;    S&eacute;rgio Naruhiko Sakurai<sup>IV</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Graduada    em Economia - FEA-RP/USP. E-mail: <a href="mailto:elainecdaubermann@yahoo.com.br">elainecdaubermann@yahoo.com.br</a>    <br>   <sup>II</sup>Graduado em Economia - FEA-RP/USP e Mestrando em Economia - IPE-FEA/USP.    E-mail: <a href="mailto:lsquarize@gmail.com">lsquarize@gmail.com</a>    <br>   <sup>III</sup>Docente da Escola de Economia de S&atilde;o Paulo da Funda&ccedil;&atilde;o    Get&uacute;lio Vargas - EESP/FGV. E-mail: <a href="mailto:angelo.gurgel@fgv.br">angelo.gurgel@fgv.br</a>    <br>   <sup>IV</sup>Docente do Departamento de Economia - FEA-RP/USP. E-mail: <a href="mailto:sakurai@usp.br">sakurai@usp.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr noshade size="1"/>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O presente estudo    investiga a hip&oacute;tese de que a convers&atilde;o de &aacute;reas de florestas    e pastagens em &aacute;reas agr&iacute;colas no Brasil reduz a produtividade    das mesmas em 50%. Essa hip&oacute;tese vem sendo utilizada pelo <i>Air Resource    Board</i> da Calif&oacute;rnia para estimar as emiss&otilde;es de gases de efeito    estufa associados a mudan&ccedil;as indiretas no uso da terra provenientes da    expans&atilde;o da produ&ccedil;&atilde;o de biocombust&iacute;veis. Com base    em testes econom&eacute;tricos, os resultados apresentados pela maioria dos    modelos sugerem n&atilde;o ocorrer queda da produtividade quando da expans&atilde;o    da &aacute;rea de culturas no Pa&iacute;s, ou, quando ocorrem, s&atilde;o pouco    expressivas, sinalizando, portanto, a necessidade de revis&atilde;o e corre&ccedil;&atilde;o    dos par&acirc;metros da pol&iacute;tica californiana de combust&iacute;veis    de baixas emiss&otilde;es.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chaves:    </b>Produtividade agr&iacute;cola, mudan&ccedil;as no uso da terra, emiss&otilde;es    de gases de efeito estufa, padr&atilde;o de combust&iacute;veis de baixas emiss&otilde;es.</font></p> <hr noshade size="1"/>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">We investigate    the hypothesis that the conversion of forest and pasture land to cropland in    Brazil decreases yields by 50%. Such hypothesis is being used by the California    Air Resource Board to estimate the greenhouse gas emissions from indirect land    use changes due to the expansion of biofuels production. We formulate several    econometric models to test such hypothesis. The results from the majority of    the models indicate that yields do not decrease under the expansion of cropland    area in the country, or the decrease in yields is very small. Therefore, our    results indicate the need for revising and correcting the parameters in the    Californian low carbon emissions policy.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key-words:</b>    Agricultural yield, land use changes, greenhouse gas emissions, low carbon fuel    standard.    <br>   </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Classifica&ccedil;&atilde;o    JEL:</b> Q24, Q15, Q54.</font></p> <hr noshade size="1"/>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O mundo vive o    dilema do desenvolvimento sustent&aacute;vel, devendo ponderar os efeitos do    crescimento econ&ocirc;mico sobre o meio ambiente. &Eacute; consensual a necessidade    de redu&ccedil;&atilde;o de emiss&atilde;o de gases de efeito estufa para que    n&atilde;o ocorram mudan&ccedil;as consider&aacute;veis no clima do planeta    nos pr&oacute;ximos anos. O Painel Intergovernamental sobre Mudan&ccedil;as    Clim&aacute;ticas (IPCC), respons&aacute;vel por avaliar e sintetizar os principais    trabalhos cient&iacute;ficos sobre mudan&ccedil;as clim&aacute;ticas, afirma    em relat&oacute;rio que as temperaturas m&eacute;dias na superf&iacute;cie do    globo terrestre devem elevar-se provavelmente entre 1,1&deg; e 6,4&deg; C entre    1990 e 2100 (IPCC, 2007).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ademais, h&aacute;    grande preocupa&ccedil;&atilde;o com a matriz energ&eacute;tica atual, altamente    dependente do finito petr&oacute;leo. Em face disso, diversas iniciativas t&ecirc;m    sido tomadas para expandir o uso de biocombust&iacute;veis no mundo, buscando    aliar solu&ccedil;&atilde;o &agrave; quest&atilde;o ambiental e ao problema    de escassez de petr&oacute;leo. Por&eacute;m, essa alternativa abre espa&ccedil;o    para outra preocupa&ccedil;&atilde;o: a de que as &aacute;reas de produ&ccedil;&atilde;o    de biocombust&iacute;veis venham competir com as &aacute;reas florestais e de    produ&ccedil;&atilde;o de alimentos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Dentre as preocupa&ccedil;&otilde;es    associadas &agrave; expans&atilde;o dos biocombust&iacute;veis, destacam-se    os poss&iacute;veis impactos negativos advindos de mudan&ccedil;as no uso da    terra. Acredita-se que o aumento na demanda e na produ&ccedil;&atilde;o de biocombust&iacute;veis    pode estar relacionado &agrave; redu&ccedil;&atilde;o na &aacute;rea plantada    de culturas agr&iacute;colas tradicionais nos pa&iacute;ses desenvolvidos e    aumento na press&atilde;o para expans&atilde;o da fronteira agr&iacute;cola    pelo desmatamento e convers&atilde;o de &aacute;reas nativas em pa&iacute;ses    em desenvolvimento.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Considerando-se    apenas a emiss&atilde;o de g&aacute;s carb&ocirc;nico (CO<sub>2</sub>) na combust&atilde;o    de biocombust&iacute;veis e a captura deste g&aacute;s da atmosfera durante    seu crescimento vegetal, os biocombust&iacute;veis s&atilde;o incontestavelmente    fontes limpas de energia, que ajudariam a enfrentar o problema do efeito estufa.    Por&eacute;m, quando se consideram as emiss&otilde;es de gases de efeito estufa    advindas dos combust&iacute;veis e fertilizantes utilizados na sua produ&ccedil;&atilde;o,    bem como as poss&iacute;veis emiss&otilde;es decorrentes de mudan&ccedil;as    diretas e indiretas no uso da terra pela expans&atilde;o das &aacute;reas de    produ&ccedil;&atilde;o de biomassa para biocombust&iacute;vel, os benef&iacute;cios    ambientais proporcionados pelos mesmos passam a ser questionados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Searchinger <i>et    al</i>. (2008), por exemplo, afirmam que os estudos que apontaram saldo positivo    l&iacute;quido de sequestro de CO<sub>2</sub> pelos biocombust&iacute;veis n&atilde;o    consideraram as emiss&otilde;es advindas de mudan&ccedil;a no uso da terra.    Os autores utilizaram um modelo mundial que projeta aumentos em terras agr&iacute;colas    por pa&iacute;s em resposta a um poss&iacute;vel aumento na produ&ccedil;&atilde;o    de etanol de milho dos EUA de 56 bilh&otilde;es de litros acima dos n&iacute;veis    projetados para 2016. Conclu&iacute;ram que haveria o dobro de emiss&otilde;es    de gases de efeitos estufa ao longo de 30 anos e saldo positivo de emiss&otilde;es    por 167 anos com o etanol de milho. Para o etanol celul&oacute;sico, o aumento    destas emiss&otilde;es seria menor, mas ainda assim seriam necess&aacute;rios    52 anos para que o saldo l&iacute;quido fosse favor&aacute;vel &agrave; redu&ccedil;&atilde;o    em emiss&otilde;es.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Outro estudo que    investiga como as mudan&ccedil;as no uso da terra podem limitar o potencial    de redu&ccedil;&atilde;o de emiss&otilde;es dos biocombust&iacute;veis foi conduzido    por Fargione <i>et al</i>. (2008). Esses autores estimaram o tempo necess&aacute;rio    para que fossem pagos os d&eacute;bitos de carbono provocados pela expans&atilde;o    da produ&ccedil;&atilde;o de biocombust&iacute;veis sobre diferentes ecossistemas.    Para isso, consideraram os d&eacute;bitos de carbono liberado da biomassa dos    ecossistemas e os impactos de mudan&ccedil;a no uso da terra baseados em outros    estudos cient&iacute;ficos. Foram analisados os impactos do biodiesel de soja    na Amaz&ocirc;nia do Brasil, do biodiesel de soja no Cerrado brasileiro, do    etanol de cana-de-a&ccedil;&uacute;car no Cerrado brasileiro, do biodiesel de    palma em floresta tropical da Indon&eacute;sia ou Mal&aacute;sia, do biodiesel    de palma em turfa de floresta tropical da Indon&eacute;sia ou Mal&aacute;sia    e do etanol de milho em regi&otilde;es de grama na parte central dos Estados    Unidos. Os resultados mostraram que os tempos de <i>payback</i><a name="top2"></a><a href="#back2"><sup>2</sup></a>    do aumento de gases estufa s&atilde;o, respectivamente, iguais a 320, 37, 17,    86, 840 e 93 anos, para cada ecossistema.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Melillo <i>et al</i>.    (2009), por sua vez, consideram a contabilidade din&acirc;mica completa das    emiss&otilde;es de mudan&ccedil;as no uso da terra, considerando a expans&atilde;o    de biocombust&iacute;veis avan&ccedil;ados como consequ&ecirc;ncia de uma pol&iacute;tica    global de redu&ccedil;&atilde;o de emiss&otilde;es de gases de efeito estufa.    Esses autores concluem que os biocombust&iacute;veis geram emiss&otilde;es consideravelmente    inferiores &agrave; gasolina, benef&iacute;cio que aumenta quanto maior for    o per&iacute;odo de produ&ccedil;&atilde;o dos biocombust&iacute;veis.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste contexto,    o &aacute;lcool produzido da cana-de-a&ccedil;&uacute;car &eacute; um promissor    biocombust&iacute;vel em termos ambientais, al&eacute;m de apresentar alta produtividade    por &aacute;rea e custo competitivo. Contudo, as condi&ccedil;&otilde;es clim&aacute;ticas    e h&iacute;dricas requeridas agem como limitadoras da amplia&ccedil;&atilde;o    de sua produ&ccedil;&atilde;o mundial. Por um lado, tem predominado no cen&aacute;rio    internacional uma desconfian&ccedil;a de que a expans&atilde;o deste biocombust&iacute;vel    pode levar a mudan&ccedil;as de uso da terra nos principais pa&iacute;ses fornecedores,    como o Brasil. Por outro lado, argumenta-se tamb&eacute;m que o Brasil e outros    pa&iacute;ses tropicais ainda possuem consider&aacute;vel disponibilidade de    terra, o que resultaria em pequeno efeito de substitui&ccedil;&atilde;o de &aacute;reas    florestais por &aacute;reas produtoras de biocombust&iacute;veis.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Diversas iniciativas    est&atilde;o sendo desenvolvidas em diferentes pa&iacute;ses com o intuito de    estimular o aumento do uso de biocombust&iacute;veis e a substitui&ccedil;&atilde;o    de combust&iacute;veis f&oacute;sseis. Nos EUA, o <i>Energy Policy Act of 2005</i><a name="top3"></a><a href="#back3"><sup>3</sup></a>    visa aumentar a produ&ccedil;&atilde;o de biocombust&iacute;veis, principalmente    o etanol, determinando a mistura do mesmo com a gasolina. De acordo com este    mandato, o n&iacute;vel de produ&ccedil;&atilde;o de etanol para mistura deveria    atingir os 6,1 bilh&otilde;es de gal&otilde;es em 2009 (25% de aumento em rela&ccedil;&atilde;o    &agrave; produ&ccedil;&atilde;o em 2006) e 7,5 bilh&otilde;es em 2012 (53% de    aumento), sendo principalmente visada a produ&ccedil;&atilde;o de etanol de    milho. Na Uni&atilde;o Europeia (UE), o <i>European Union Biofuels Directive</i>    requer que os biocombust&iacute;veis representem pelo menos 10% dos mercados    de combust&iacute;veis l&iacute;quidos em 2020 (EUROPEAN COMMISION, 2007). Neste    caso, o biodiesel &eacute; o principal combust&iacute;vel sendo estimulado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De particular interesse    para o presente estudo &eacute; a iniciativa de padr&otilde;es de combust&iacute;veis    de baixas emiss&otilde;es (<i>Low Carbon Fuel Standard</i>) do estado da Calif&oacute;rnia,    proposta de regula&ccedil;&atilde;o que visa impor a redu&ccedil;&atilde;o gradual    nas emiss&otilde;es dos combust&iacute;veis consumidos naquele estado, publicada    em mar&ccedil;o de 2009 pela <i>California Environmental Protection Agency</i>    (CALIFORNIA AIR RESOURCE BOARD, 2009). O relat&oacute;rio desta regula&ccedil;&atilde;o    ser&aacute; denominado relat&oacute;rio CARB (<i>California Air Resource Board</i>)    no presente estudo.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O relat&oacute;rio    CARB visa a ado&ccedil;&atilde;o de um padr&atilde;o de combust&iacute;vel de    baixo carbono no setor de transportes californiano, via redu&ccedil;&atilde;o    gradual da intensidade de carbono (IC) dos combust&iacute;veis, de 95,61 gramas    de CO<sub>2</sub> equivalente por Mega Joule (gCO<sub>2</sub>-e/MJ), valor base    para a gasolina, para 86,27 gCO<sub>2</sub>-e/MJ, entre 2011 e 2020. Entre os    demais objetivos, consta reduzir a depend&ecirc;ncia de petr&oacute;leo pela    Calif&oacute;rnia, criar um mercado de tecnologia de transporte limpo e estimular    a produ&ccedil;&atilde;o de combust&iacute;veis de baixo carbono.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para mensurar a    IC de diferentes tipos de combust&iacute;veis, o relat&oacute;rio CARB fez uso    da an&aacute;lise de ciclo de vida das emiss&otilde;es de gases de efeito estufa,    que contempla os efeitos diretos e indiretos. Os primeiros s&atilde;o associados    &agrave; produ&ccedil;&atilde;o, transporte e uso, como por exemplo, o tipo    de fertilizante aplicado na produ&ccedil;&atilde;o de biomassa e sua frequ&ecirc;ncia,    a coleta e transporte da safra e o combust&iacute;vel utilizado no processo    de produ&ccedil;&atilde;o, entre outros. Os efeitos indiretos s&atilde;o associados    &agrave; mudan&ccedil;a de uso da terra ocasionada pela produ&ccedil;&atilde;o    de biocombust&iacute;veis, mensurados por meio do modelo econ&ocirc;mico de    equil&iacute;brio geral <i>Global Trade Analysis Project</i> (GTAP) (Hertel,    1997). A vers&atilde;o do modelo GTAP utilizada neste caso procura mensurar    como uma mudan&ccedil;a na produ&ccedil;&atilde;o de um bem agr&iacute;cola    em um pa&iacute;s afeta o uso da terra em todo o mundo, considerando as rela&ccedil;&otilde;es    entre os diferentes setores e mercados e o com&eacute;rcio internacional.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Segundo o relat&oacute;rio    CARB, a intensidade de carbono associada aos efeitos diretos da produ&ccedil;&atilde;o    de etanol de cana-de-a&ccedil;&uacute;car, calculada pelos modelos de ciclo    de vida, varia de 12,4 g CO<sub>2</sub>-e/MJ a 27,4 gCO<sub>2</sub>-e/MJ, enquanto    o efeito indireto de mudan&ccedil;a de uso da terra, estimado a partir do modelo    GTAP, &eacute; de 46,0 gCO<sub>2</sub>-e/MJ<a name="top4"></a><a href="#back4"><sup>4</sup></a>,    quase o dobro do m&aacute;ximo de emiss&otilde;es diretas. Isso implica em uma    intensidade de carbono total de at&eacute; 73,4 gCO<sub>2</sub>-e/MJ, o que    indica que este biocombust&iacute;vel poderia ser utilizado para satisfazer    a proposta de regula&ccedil;&atilde;o, dependendo das propor&ccedil;&otilde;es    em que seja misturado com a gasolina, apesar de este valor ser consideravelmente    alto em rela&ccedil;&atilde;o a outros exerc&iacute;cios de mensura&ccedil;&atilde;o    da intensidade de emiss&otilde;es do etanol da cana-de-a&ccedil;&uacute;car<a name="top5"></a><a href="#back5"><sup>5</sup></a>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As emiss&otilde;es    decorrentes de mudan&ccedil;as indiretas de uso da terra no relat&oacute;rio    CARB foram tomadas como emiss&otilde;es m&eacute;dias em cinco cen&aacute;rios    alternativos de simula&ccedil;&atilde;o do modelo GTAP, que diferem de acordo    com valores de par&acirc;metros comportamentais do modelo, permitindo considerar    incertezas sobre o fen&ocirc;meno sendo investigado. Um dos par&acirc;metros    importantes na constru&ccedil;&atilde;o do modelo &eacute; a raz&atilde;o assumida    entre a produtividade de novas &aacute;reas de culturas, convertidas a partir    de pastagens e florestas<a name="top6"></a><a href="#back6"><sup>6</sup></a>,    e a produtividade de &aacute;reas tradicionais na produ&ccedil;&atilde;o de    culturas. Esse par&acirc;metro determina, para cada regi&atilde;o e zona agroecol&oacute;gica    (AEZ)<a name="top7"></a><a href="#back7"><sup>7</sup></a> representada no GTAP,    qual seria a redu&ccedil;&atilde;o na produtividade de uma nova &aacute;rea    de cultura, convertida a partir de &aacute;reas de pastagens ou de &aacute;reas    de vegeta&ccedil;&atilde;o natural, em rela&ccedil;&atilde;o &agrave; produtividade    das &aacute;reas de cultuas j&aacute; existentes, quando houver a necessidade    de expans&atilde;o da &aacute;rea agr&iacute;cola em alguma regi&atilde;o. O    modelo assume, para os choques de expans&atilde;o do etanol de cana-de-a&ccedil;&uacute;car,    que essa raz&atilde;o de produtividade da &aacute;rea nova em rela&ccedil;&atilde;o    &agrave;s tradicionais &eacute; de 0,50 em tr&ecirc;s cen&aacute;rios e 0,75    em um cen&aacute;rio, para todos os pa&iacute;ses e regi&otilde;es do mundo.    Ainda, um &uacute;ltimo cen&aacute;rio assume o valor de 0,50 para todos os    pa&iacute;ses, exceto o Brasil, que recebe o valor de 0,80 para este par&acirc;metro.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os valores utilizados    pelo modelo GTAP para o par&acirc;metro de raz&atilde;o da produtividade entre    &aacute;reas novas e &aacute;reas tradicionais foram determinados com base na    percep&ccedil;&atilde;o de especialistas de pa&iacute;ses desenvolvidos. A hip&oacute;tese    b&aacute;sica considera que a decis&atilde;o racional dos agricultores &eacute;    de preferir o uso das &aacute;reas agr&iacute;colas de maior aptid&atilde;o,    e que estas j&aacute; se encontram em uso no mundo. Desta forma, futuras expans&otilde;es    da produ&ccedil;&atilde;o de culturas devem ocorrer em &aacute;reas de menor    produtividade, em geral, 50% inferior do que das &aacute;reas tradicionais de    cultivo. Contudo, esta hip&oacute;tese n&atilde;o foi testada empiricamente    e ignora a grande disponibilidade de &aacute;reas subutilizadas para agricultura    em algumas regi&otilde;es tropicais do mundo, como &eacute; o caso da Am&eacute;rica    Latina e, particularmente, do Brasil. Posto de outra forma, ainda, n&atilde;o    foi utilizada nenhuma metodologia quantitativa para estimar os valores deste    par&acirc;metro utilizados no GTAP.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vale ressaltar    que diversos estudos destacam os ganhos de produtividade como um importante    elemento da expans&atilde;o da produ&ccedil;&atilde;o brasileira nas &uacute;ltimas    d&eacute;cadas. Gasques <i>et al</i>. (2010), por exemplo, mencionam o aumento    no rendimento por &aacute;rea de diversas lavouras ao longo do tempo, como uva,    caf&eacute;, milho, soja, trigo e cana-de-a&ccedil;&uacute;car, e estimam que    os incrementos na produtividade total dos fatores (PTF) da agropecu&aacute;ria    brasileira foram da ordem de 2,13% ao ano no per&iacute;odo de 1995 a 2006.    De acordo com Albuquerque e Silva (2008), o aumento da produ&ccedil;&atilde;o    por &aacute;rea nas &uacute;ltimas d&eacute;cadas &eacute; consequ&ecirc;ncia    das melhorias tecnol&oacute;gicas proporcionadas principalmente pelos investimentos    em pesquisa. Na mesma dire&ccedil;&atilde;o, Alves <i>et al</i>. (2013) destacam    que a produtividade da terra, influenciada pela tecnologia, foi o componente    dominante na explica&ccedil;&atilde;o do crescimento da produ&ccedil;&atilde;o    agr&iacute;cola brasileira. Matha Jr. <i>et al</i>. (2012), por sua vez, apontam    que a expans&atilde;o da pecu&aacute;ria brasileira de 1985 em diante se deu    com o aumento da produtividade dos rebanhos e queda da &aacute;rea total utilizada    por esta atividade. N&atilde;o foram encontrados, contudo, na literatura, estudos    que tenham estimado as mudan&ccedil;as na produ&ccedil;&atilde;o por &aacute;rea    quando da expans&atilde;o da fronteira agr&iacute;cola. Considerando-se a falta    de evid&ecirc;ncia emp&iacute;rica e de estudos quantitativos sobre o par&acirc;metro    de raz&atilde;o de produtividade, o objetivo do presente estudo consiste em    investigar a validade da hip&oacute;tese de redu&ccedil;&atilde;o na produtividade    de &aacute;reas agr&iacute;colas novas quando da expans&atilde;o da &aacute;rea    total de culturas no Brasil. Espera-se, com isso, verificar se os resultados    de coeficientes de intensidade de carbono para o etanol da cana-de-a&ccedil;&uacute;car    na proposta de legisla&ccedil;&atilde;o californiana se sustentam diante de    valores mais realistas para este par&acirc;metro comportamental do modelo, contribuindo,    assim, para a discuss&atilde;o sobre a capacidade dos biocombust&iacute;veis    em reduzir as emiss&otilde;es de gases de efeito estufa.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. Metodologia</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O objetivo do trabalho    &eacute; testar a hip&oacute;tese de que a expans&atilde;o das &aacute;reas    de culturas no Brasil est&aacute; associada &agrave; redu&ccedil;&atilde;o da    sua produtividade. Para tal, foram formulados e estimados modelos econom&eacute;tricos    que testam como a mudan&ccedil;a na &aacute;rea de culturas (vari&aacute;vel    explicativa) est&aacute; relacionada &agrave; produtividade (vari&aacute;vel    dependente). Este teste representa uma an&aacute;lise do par&acirc;metro utilizado    no modelo GTAP, que mede a mudan&ccedil;a na produtividade pela expans&atilde;o    de &aacute;rea, definido no Relat&oacute;rio CARB como <i>elasticity of crop    yields with respect to area expansion</i>, que consiste na raz&atilde;o entre    a produtividade de terra rec&eacute;m-transformada em agr&iacute;cola ("&aacute;rea    novas") e a produtividade da terra tradicionalmente agr&iacute;cola ("&aacute;rea    tradicional")<a name="top8"></a><a href="#back8"><sup>8</sup></a>. Para facilitar    sua transcri&ccedil;&atilde;o neste estudo, este par&acirc;metro ser&aacute;    denominado raz&atilde;o de produtividades entre &aacute;rea nova e &aacute;rea    tradicional.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Foram utilizadas    duas abordagens de an&aacute;lise da rela&ccedil;&atilde;o entre produtividade    e &aacute;rea plantada, chamados aqui de Modelo A e Modelo B. O primeiro baseia-se    no estudo de Bruce e Carriquiry (2010) sobre o mesmo tema, com altera&ccedil;&otilde;es    na constru&ccedil;&atilde;o da vari&aacute;vel dependente e no uso de uma base    de dados comparativamente mais ampla. O segundo modelo consiste em regredir    a varia&ccedil;&atilde;o percentual anual do &iacute;ndice de produtividade    agr&iacute;cola agregado em rela&ccedil;&atilde;o &agrave; varia&ccedil;&atilde;o    percentual anual da &aacute;rea plantada. Ressalta-se, tamb&eacute;m, que cada    modelo A e B de regress&atilde;o foi estimado por meio de duas especifica&ccedil;&otilde;es:    na primeira, o &iacute;ndice de produtividade foi regredido apenas em fun&ccedil;&atilde;o    da varia&ccedil;&atilde;o da &aacute;rea plantada; a segunda, por sua vez, envolve    a inclus&atilde;o de uma vari&aacute;vel <i>dummy</i>, denominada </font><font  size="2">&#968;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">,    que assume o valor um para varia&ccedil;&atilde;o de &aacute;rea positiva (ou    nula) e o valor zero para varia&ccedil;&atilde;o de &aacute;rea negativa. Enquanto    a primeira especifica&ccedil;&atilde;o permite analisar a influ&ecirc;ncia das    varia&ccedil;&otilde;es (positivas e negativas) da &aacute;rea plantada sobre    a produtividade, a segunda especifica&ccedil;&atilde;o permite captar se h&aacute;    diferen&ccedil;as na rela&ccedil;&atilde;o entre a vari&aacute;vel dependente    e independente quando a &aacute;rea se expande ou decresce, separadamente. Dados    os prop&oacute;sitos do artigo, este procedimento procura aprofundar a an&aacute;lise    da rela&ccedil;&atilde;o entre &aacute;rea plantada e produtividade da terra    no Brasil. A seguir, s&atilde;o apresentadas as equa&ccedil;&otilde;es que representam    os modelos A e B, assim como uma discuss&atilde;o mais espec&iacute;fica sobre    cada um destes modelos.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>2.1. Modelo    A</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Bruce e Carriquiry    (2010) buscaram analisar a raz&atilde;o de produtividades entre &aacute;rea    nova e &aacute;rea tradicional, formulando um modelo alg&eacute;brico aplicado    &agrave; cultura da soja no Brasil. O modelo considera o per&iacute;odo <i>t</i>    como o ano-base, que define que as terras existentes at&eacute; ent&atilde;o    s&atilde;o terras tradicionais (<img src=" /img/revistas/resr/v52n1/05s1.jpg" align="absmiddle">),    e as terras incorporadas &agrave; agricultura (<img src=" /img/revistas/resr/v52n1/05s2.jpg" align="absmiddle">)    a partir de ent&atilde;o s&atilde;o consideradas terras novas. Os autores definem    a produtividade da terra <img src=" /img/revistas/resr/v52n1/05s3.jpg" align="absmiddle">    no per&iacute;odo <i>t+n</i> como:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s4.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">em que <img src=" /img/revistas/resr/v52n1/05s5.jpg" align="absmiddle">    &eacute; a produtividade da terra tradicional e <img src=" /img/revistas/resr/v52n1/05s6.jpg" align="absmiddle">    &eacute; a produtividade da terra nova convertida ao uso agr&iacute;cola.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Chamando a raz&atilde;o    de produtividades entre &aacute;rea nova e &aacute;rea tradicional de </font><font  size="2">&#947;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    e supondo <img src=" /img/revistas/resr/v52n1/05s7.jpg" align="absmiddle">,    a diferen&ccedil;a entre a produtividade da terra no per&iacute;odo <i>t+n</i>    e do per&iacute;odo <i>t</i> torna-se:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s8.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">o que &eacute;    uma m&eacute;dia ponderada do crescimento de produtividade na &aacute;rea tradicional    e do crescimento de produtividade da terra nova, ajustado por suas respectivas    participa&ccedil;&otilde;es na &aacute;rea total.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Estabelecendo que    <img src=" /img/revistas/resr/v52n1/05s9.jpg" align="absmiddle">, pode-se reescrever    a equa&ccedil;&atilde;o (2) como:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s10.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Supondo que o crescimento    da produtividade das &aacute;reas tradicionais &eacute; constante ao longo do    per&iacute;odo considerado, tem-se <img src=" /img/revistas/resr/v52n1/05s11.jpg" align="absmiddle">.    A partir disso, pode-se derivar a equa&ccedil;&atilde;o (4) abaixo:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s12.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Embora n&atilde;o    seja poss&iacute;vel realizar uma regress&atilde;o com a formula&ccedil;&atilde;o    em (4), uma vez que (<img src=" /img/revistas/resr/v52n1/05s13.jpg" align="absmiddle">)    &eacute; correlacionado com <img src=" /img/revistas/resr/v52n1/05s14.jpg" align="absmiddle">,    caso n&atilde;o haja diferen&ccedil;a de produtividade entre as &aacute;reas    tradicionais e novas, isto &eacute;, se <img src=" /img/revistas/resr/v52n1/05s15.jpg" align="absmiddle">,    ent&atilde;o, a partir da equa&ccedil;&atilde;o (4) tem-se:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s16.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A partir da equa&ccedil;&atilde;o    (5) obt&eacute;m-se a express&atilde;o que ser&aacute; estimada econometricamente:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s17.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que <img src=" /img/revistas/resr/v52n1/05s18.jpg" align="absmiddle">    &eacute; a vari&aacute;vel que corresponde &agrave; participa&ccedil;&atilde;o    da terra nova sobre a terra total, isto &eacute;, <img src=" /img/revistas/resr/v52n1/05s19.jpg" align="absmiddle">.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com base no anteriormente    exposto, testar a hip&oacute;tese de que <img src=" /img/revistas/resr/v52n1/05s20.jpg" align="absmiddle">    equivale a testar a hip&oacute;tese de que <img src=" /img/revistas/resr/v52n1/05s21.jpg" align="absmiddle">    (hip&oacute;tese nula), de que a expans&atilde;o da &aacute;rea n&atilde;o afeta    a produtividade, contra a hip&oacute;tese alternativa <img src=" /img/revistas/resr/v52n1/05s22.jpg" align="absmiddle">,    de que um aumento na &aacute;rea de culturas est&aacute; associado a altera&ccedil;&otilde;es    na produtividade m&eacute;dia.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Bruce e Carriquiry    (2010) estimaram a express&atilde;o (6) para o per&iacute;odo de 1996 a 2010    usando os dados de produtividade da soja, cultura no Brasil predominantemente    associada &agrave;s regi&otilde;es de fronteiras agr&iacute;colas. Os autores    utilizaram uma divis&atilde;o do Brasil em seis regi&otilde;es: Norte (Amaz&ocirc;nia),    Mapito<a name="top9"></a><a href="#back9"><sup>9</sup></a> e Bahia, Nordeste    Litor&acirc;neo, Sudeste e Sul, adicionando cinco <i>dummies</i> de intercepto    para captar diferen&ccedil;as regionais de varia&ccedil;&atilde;o de produtividade.    Dois tipos de regress&atilde;o foram considerados, quais sejam, uma em que a    vari&aacute;vel explicativa <i>X</i><sub>n</sub> representa a participa&ccedil;&atilde;o    da nova &aacute;rea agr&iacute;cola para todas as culturas, e outra para a participa&ccedil;&atilde;o    da nova &aacute;rea agr&iacute;cola somente ocupada com soja.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os autores encontraram    coeficientes negativos, mas estatisticamente n&atilde;o significantes, levando    &agrave; conclus&atilde;o de que o valor da raz&atilde;o de produtividades entre    &aacute;rea nova e &aacute;rea tradicional mais razo&aacute;vel de se supor    seria um, ou seja, que n&atilde;o h&aacute; diferen&ccedil;a de produtividade    da terra nova em rela&ccedil;&atilde;o &agrave; terra tradicional. Os autores    argumentam ainda que esta raz&atilde;o de produtividades entre &aacute;rea nova    e &aacute;rea tradicional &eacute; razo&aacute;vel para um pa&iacute;s de extens&otilde;es    como as do Brasil, em que custos de transporte limitam a produ&ccedil;&atilde;o    mais do que a pr&oacute;pria produtividade intr&iacute;nseca da terra.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Contudo, o uso    da produtividade da cultura da soja pode enviesar a an&aacute;lise, uma vez    que essa cultura est&aacute; entre as de maior n&iacute;vel tecnol&oacute;gico    e emprego de insumos modernos. Uma alternativa seria, ent&atilde;o, considerar    a produtividade m&eacute;dia das principais culturas brasileiras, por meio de    um &iacute;ndice de produtividade.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Contudo, para a    regress&atilde;o com o &iacute;ndice de produtividade agr&iacute;cola brasileiro,    a interpreta&ccedil;&atilde;o do coeficiente estimado deve ser modificada por    alterar a dimens&atilde;o da vari&aacute;vel dependente, que passa de diferen&ccedil;a    em n&iacute;vel entre as produtividades de cada ano (quando a produtividade    era a da cultura da soja apenas) para diferen&ccedil;a em pontos percentuais    entre a varia&ccedil;&atilde;o de produtividade (mensuradas por meio do &iacute;ndice)    de cada ano. Desta forma, esta nova especifica&ccedil;&atilde;o deve ser modificada    em sua deriva&ccedil;&atilde;o em rela&ccedil;&atilde;o ao modelo original de    Bruce e Carriquiry (2010). O &iacute;ndice de produtividade das culturas pode    ser estabelecido como na equa&ccedil;&atilde;o (7):</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s23.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que o &iacute;ndice    de produtividade <i>I</i> do estado <i>k</i> no ano <i>t</i> (entre 1996 e 2008)    em rela&ccedil;&atilde;o ao ano <i>t</i><sub>0</sub> (qual seja, o ano de 1995)    &eacute; obtido via c&aacute;lculo da m&eacute;dia ponderada das produtividades    das culturas em cada estado em rela&ccedil;&atilde;o ao ano <i>t</i><sub>0</sub>.    Na equa&ccedil;&atilde;o (7), <i>i</i>, <i>j</i> e <i>s</i> definem as diferentes    culturas, <i>P</i> &eacute; a produtividade da cultura <i>i</i> no estado <i>k</i>    e ano <i>t</i>, <img src=" /img/revistas/resr/v52n1/05s24.jpg" align="absmiddle">    &eacute; o fator de pondera&ccedil;&atilde;o da cultura <i>i</i> no estado <i>k</i>,    sendo <img src=" /img/revistas/resr/v52n1/05s25.jpg" align="absmiddle">, sendo    VP o valor da produ&ccedil;&atilde;o da cultura <i>i</i> no estado <i>k</i>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A diferen&ccedil;a    entre <img src=" /img/revistas/resr/v52n1/05s26.jpg" align="absmiddle"> e <img src=" /img/revistas/resr/v52n1/05s27.jpg" align="absmiddle">    fornece as varia&ccedil;&otilde;es percentuais de produtividade m&eacute;dia    em rela&ccedil;&atilde;o ao ano-base <img src=" /img/revistas/resr/v52n1/05s28.jpg" align="absmiddle">,    ponderadas por <img src=" /img/revistas/resr/v52n1/05s29.jpg" align="absmiddle">    para cada estado, conforme equa&ccedil;&atilde;o (8):</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s30.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A equa&ccedil;&atilde;o    (8) pode ser reescrita como:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s31.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Assim, a varia&ccedil;&atilde;o    em pontos percentuais anuais linearizados da produtividade de cada cultura do    ano corrente em rela&ccedil;&atilde;o ao ano-base, para cada unidade da federa&ccedil;&atilde;o    k, &eacute; descrita como <img src=" /img/revistas/resr/v52n1/05s32.jpg" align="absmiddle">.    Portanto, as duas regress&otilde;es estimadas para o &iacute;ndice de produtividade    agr&iacute;cola do Brasil no Modelo A s&atilde;o definidas como:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s33.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que, conforme    anteriormente mencionado, </font><font  size="2">&#968;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    &eacute; uma <i>dummy</i> igual a um quando <i>X</i><sub>n</sub> &eacute; maior    ou igual a zero e igual a zero quando <i>X</i><sub>n</sub> &eacute; menor que    zero e <img src=" /img/revistas/resr/v52n1/05s34.jpg" align="absmiddle"> se    refere ao erro da estima&ccedil;&atilde;o. Desta forma, enquanto o par&acirc;metro    </font><font  size="2">&#946;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>1</sub>    mensura o efeito m&eacute;dio das varia&ccedil;&otilde;es da &aacute;rea cultivada    sobre a produtividade, a signific&acirc;ncia estat&iacute;stica dos par&acirc;metros    </font><font  size="2">&#946;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>2</sub>    e </font><font  size="2">&#946;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>3</sub>    define se a produtividade varia de forma assim&eacute;trica frente a expans&otilde;es    e quedas da &aacute;rea plantada, respectivamente.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Foram estimadas    regress&otilde;es com o &iacute;ndice de produtividade agregado para todos os    estados, perfazendo um total de 351 observa&ccedil;&otilde;es. Desta forma,    o Modelo A pretende tornar mais abrangente o modelo proposto por Bruce e Carriquiry    (2010), pela presen&ccedil;a de </font><font  size="2">&#968;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    e pela maior amplitude de informa&ccedil;&otilde;es quando utilizado com o &iacute;ndice    de produtividade agr&iacute;cola brasileiro e n&atilde;o com apenas uma &uacute;nica    cultura representativa. Ainda, aqueles autores consideram apenas seis regi&otilde;es    representando o pa&iacute;s, enquanto o presente estudo considera cada unidade    da federa&ccedil;&atilde;o como uma observa&ccedil;&atilde;o. Estas altera&ccedil;&otilde;es    podem, portanto, ser vistas como contribui&ccedil;&otilde;es adicionais deste    trabalho.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>2.2. Modelo    B</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O Modelo B refere-se    &agrave; regress&atilde;o em que a vari&aacute;vel dependente consiste na varia&ccedil;&atilde;o    percentual anual da produtividade e a vari&aacute;vel independente &eacute;    a varia&ccedil;&atilde;o percentual anual da &aacute;rea plantada, para o mesmo    intervalo de tempo. Essa formula&ccedil;&atilde;o procura evitar a fixa&ccedil;&atilde;o    do ano-base em um ponto relativamente distante no passado, como &eacute; o caso    do Modelo A.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com o &iacute;ndice    de produtividade agr&iacute;cola para o Brasil, a vari&aacute;vel dependente    tamb&eacute;m representa a varia&ccedil;&atilde;o percentual anual, mas em fun&ccedil;&atilde;o    da formula&ccedil;&atilde;o do &iacute;ndice, sua constru&ccedil;&atilde;o foi    direta, obtida a partir da constru&ccedil;&atilde;o do pr&oacute;prio &iacute;ndice,    conforme demonstrado a seguir:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s35.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que <img src=" /img/revistas/resr/v52n1/05s36.jpg" align="absmiddle">    consiste na produtividade agr&iacute;cola do estado <i>k</i> no ano <i>t</i>    em rela&ccedil;&atilde;o &agrave; produtividade agr&iacute;cola do estado k    no ano <i>t</i><sub>0</sub>, ponderado por <img src=" /img/revistas/resr/v52n1/05s37.jpg" align="absmiddle">.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste caso, como    a varia&ccedil;&atilde;o percentual refere-se ao ano imediatamente anterior,    e n&atilde;o ao ano-base como no Modelo A, a produtividade de cada ano foi dividida    pela produtividade do ano anterior para cada cultura em cada estado. Assim,    a vari&aacute;vel dependente, <img src=" /img/revistas/resr/v52n1/05s38.jpg" align="absmiddle">,    representa a varia&ccedil;&atilde;o percentual anual das produtividades de cada    cultura multiplicadas pelo fator ponderador de participa&ccedil;&atilde;o no    valor de produ&ccedil;&atilde;o, para cada estado. As duas equa&ccedil;&otilde;es    do Modelo B referentes ao &iacute;ndice de produtividade podem ser representadas    como:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/05s39.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Logo, para o &iacute;ndice    de produtividade agr&iacute;cola como vari&aacute;vel dependente, no Modelo    A, a vari&aacute;vel dependente exprime os pontos percentuais anuais linearizados    do referido &iacute;ndice, enquanto no Modelo B, a vari&aacute;vel dependente    representa a varia&ccedil;&atilde;o percentual anual do &iacute;ndice de produtividade    agr&iacute;cola para o Brasil. Assim como no modelo A, a signific&acirc;ncia    estat&iacute;stica dos par&acirc;metros <img src=" /img/revistas/resr/v52n1/05s40.jpg" align="absmiddle">    e <img src=" /img/revistas/resr/v52n1/05s41.jpg" align="absmiddle"> prov&ecirc;    ind&iacute;cios de que aumentos e quedas da &aacute;rea cultivada afetam de    forma assim&eacute;trica a produtividade, respectivamente.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os dois modelos    diferem quanto ao conceito de &aacute;rea nova, pois, no Modelo A, a varia&ccedil;&atilde;o    de &aacute;rea plantada &eacute; considerada como a varia&ccedil;&atilde;o de    &aacute;rea ocorrida entre o ano em quest&atilde;o e o ano-base, ou seja, considerando    toda a varia&ccedil;&atilde;o de &aacute;rea acumulada no per&iacute;odo at&eacute;    ent&atilde;o. J&aacute; no Modelo B, a varia&ccedil;&atilde;o de &aacute;rea    plantada &eacute; expressa como a varia&ccedil;&atilde;o de &aacute;rea do ano    em quest&atilde;o em rela&ccedil;&atilde;o ao ano imediatamente anterior, isto    &eacute;, &eacute; uma varia&ccedil;&atilde;o percentual anual, como se o tempo    para uma &aacute;rea ser considerada &aacute;rea nova fosse menor. Em termos    comparativos, pode-se considerar que o Modelo A estabelece uma rela&ccedil;&atilde;o    de m&eacute;dio e longo prazo entre varia&ccedil;&atilde;o de produtividade    e de &aacute;rea plantada, enquanto o Modelo B estabelece uma rela&ccedil;&atilde;o    de curto prazo (varia&ccedil;&otilde;es entre anos consecutivos) - trata-se,    portanto, de vis&otilde;es complementares sobre o problema investigado.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Alguns esclarecimentos    adicionais merecem ser apresentados. Em primeiro lugar, dado que tanto o Modelo    A quanto o Modelo B trabalham com diferen&ccedil;as no tempo, as diferen&ccedil;as    de produtividade inerentes a cada unidade da federa&ccedil;&atilde;o (ou seja,    os efeitos fixos de cada estado) s&atilde;o automaticamente retirados das equa&ccedil;&otilde;es    de interesse. Isto equivale a dizer que as estima&ccedil;&otilde;es j&aacute;    levam em conta os (ou j&aacute; controlam pelos) efeitos idiossincr&aacute;ticos    de cada estado quanto &agrave; produtividade agr&iacute;cola. Outra ressalva    importante diz respeito ao fato de que, em per&iacute;odos curtos (um ano),    as varia&ccedil;&otilde;es em produtividade agr&iacute;cola devem-se quase que    exclusivamente a varia&ccedil;&otilde;es clim&aacute;ticas (ROBERTS e SCHLENKER,    2010; HUANG e KHANNA, 2010), o que tenderia a mascarar os efeitos que a expans&atilde;o    das &aacute;reas de culturas teria sobre a produtividade em fun&ccedil;&atilde;o    da ocupa&ccedil;&atilde;o de &aacute;reas de menor aptid&atilde;o agr&iacute;cola.    Portanto, apesar de o Modelo B evitar a limita&ccedil;&atilde;o do Modelo A    de "ancorar" os resultados &agrave; produtividade e &aacute;rea do ano-base,    o Modelo B pode n&atilde;o captar a rela&ccedil;&atilde;o entre mudan&ccedil;a    na &aacute;rea e produtividade por considerar, no termo de erro, varia&ccedil;&otilde;es    clim&aacute;ticas, que tendem a ser bem mais expressivas que a rela&ccedil;&atilde;o    sendo investigada. Desta forma, visando controlar pelos efeitos espec&iacute;ficos    de cada ano da amostra, a exemplo dos fatores clim&aacute;ticos, tanto as regress&otilde;es    do Modelo A como do Modelo B incluem <i>dummies</i> de ano.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Uma &uacute;ltima    considera&ccedil;&atilde;o importante &eacute; o reconhecimento de que os v&aacute;rios    aspectos sob o controle do agricultor capazes de alterar a produtividade da    atividade agr&iacute;cola, como investimentos em melhores t&eacute;cnicas de    manejo e uso de insumos modernos (corre&ccedil;&atilde;o do solo e aduba&ccedil;&atilde;o    de culturas, uso de sementes de cultivares modernos e mais adaptados e emprego    de defensivos agr&iacute;colas, entre outros), n&atilde;o foram considerados    na an&aacute;lise econom&eacute;trica, uma vez que o objetivo &eacute; apenas    testar a hip&oacute;tese do relat&oacute;rio CARB de que novas &aacute;reas    agr&iacute;colas possuem, em m&eacute;dia, produtividade equivalente &agrave;    metade daquela observada em &aacute;reas tradicionais. Desta forma, a necessidade    de expandir a agricultura em &aacute;reas de menor potencial para cultivo, seja    por menor aptid&atilde;o agr&iacute;cola, limita&ccedil;&otilde;es em qualidades    f&iacute;sicas e qu&iacute;micas do solo, bem como condi&ccedil;&otilde;es de    temperatura e precipita&ccedil;&atilde;o menos favor&aacute;veis, poderia ser    acompanhada de maiores gastos com tecnologia e manejo, que compensariam a queda    em produtividade. Contudo, os custos maiores desta expans&atilde;o precisariam    ser compensados por pre&ccedil;os mais favor&aacute;veis das commodities agr&iacute;colas,    sendo mais racional para o agricultor buscar primeiro a expans&atilde;o sobre    &aacute;reas com maiores aptid&otilde;es. Desta forma, os modelos econom&eacute;tricos    aqui formulados n&atilde;o s&atilde;o capazes de captar a possibilidade de maiores    investimentos compensarem quedas de produtividade na expans&atilde;o das &aacute;reas    de culturas na agricultura brasileira, o que pode ser interpretado como uma    hip&oacute;tese impl&iacute;cita de que a expans&atilde;o sobre novas &aacute;reas    &eacute; feita mantendo-se o n&iacute;vel tecnol&oacute;gico m&eacute;dio adotado    nas &aacute;reas tradicionais, ou acompanhando o ritmo de progresso tecnol&oacute;gico    observados nessas &aacute;reas<a name="top10"></a><a href="#back10"><sup>10</sup></a>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>2.3. Base de    dados para a an&aacute;lise econom&eacute;trica</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para se estimar    a rela&ccedil;&atilde;o entre a varia&ccedil;&atilde;o da &aacute;rea cultivada    e a produtividade agregada das culturas, foi considerado um painel de 27 estados    brasileiros durante os anos de 1995 a 2008. Os resultados foram obtidos por    via do procedimento OLS cl&aacute;ssico com desvios padr&atilde;o robustos a    heterocedasticidade e autocorrela&ccedil;&atilde;o de res&iacute;duos (m&eacute;todo    Huber-White-Sandwich)<a name="top11"></a><a href="#back11"><sup>11</sup></a>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Discutindo de modo    mais espec&iacute;fico as vari&aacute;veis utilizadas, como a raz&atilde;o de    produtividade entre &aacute;rea nova e &aacute;rea tradicional se refere &agrave;    expans&atilde;o de &aacute;rea sobre terras n&atilde;o utilizadas para culturas    anteriormente (como pastagens e florestas), considerou-se na coleta de dados    a &aacute;rea plantada agregada de todas as culturas, tempor&aacute;rias e permanentes,    no Brasil. Assim, a expans&atilde;o da &aacute;rea plantada s&oacute; pode ocorrer    sobre &aacute;reas n&atilde;o utilizadas anteriormente para culturas<a name="top12"></a><a href="#back12"><sup>12</sup></a>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os dados de produtividade    est&atilde;o dispon&iacute;veis apenas por cultura, n&atilde;o havendo um &uacute;nico    valor de produtividade para o total de culturas no Brasil. Torna-se necess&aacute;rio,    ent&atilde;o, estimar um &iacute;ndice de produtividade para todas as culturas.    Desta forma, buscou-se construir um &iacute;ndice de produtividade agr&iacute;cola    para os estados brasileiros que represente as culturas mais importantes para    o Pa&iacute;s e que tamb&eacute;m permita a agrega&ccedil;&atilde;o de forma    consistente das culturas com diferentes padr&otilde;es de produtividade.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os dados sobre    &aacute;rea e produ&ccedil;&atilde;o foram coletados da Produ&ccedil;&atilde;o    Agr&iacute;cola Municipal (PAM), no site do Instituto Brasileiro de Geografia    e Estat&iacute;stica (IBGE). As culturas selecionadas para constru&ccedil;&atilde;o    do &iacute;ndice de produtividade foram: algod&atilde;o herb&aacute;ceo, arroz,    aveia, batata-inglesa, cana-de-a&ccedil;&uacute;car, centeio, cevada, feij&atilde;o,    fumo, girassol, mandioca, milho, soja, sorgo, tomate, trigo, triticale, algod&atilde;o    arb&oacute;reo, banana, borracha, cacau, caf&eacute;, laranja, lim&atilde;o,    ma&ccedil;&atilde;, manga, tangerina e uva. Essas culturas contemplam de 86,44%    a 95,48% do valor de produ&ccedil;&atilde;o total de todas as culturas no Brasil    no per&iacute;odo considerado (1995 a 2008). Assim, foram obtidos os valores    da vari&aacute;vel rendimento m&eacute;dio (raz&atilde;o entre a quantidade    produzida<a name="top13"></a><a href="#back13"><sup>13</sup></a> e a &aacute;rea    colhida<a name="top14"></a><a href="#back14"><sup>14</sup></a>) na mesma escala    das outras culturas, que apresentam seus rendimentos m&eacute;dios em kg/ha    na base de dados do IBGE.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O ano-base escolhido    neste estudo foi 1995. Como a grandeza da produtividade varia entre culturas,    o valor da produtividade de cada cultura para cada ano foi dividido pelo valor    da produtividade da mesma em 1995 ou no ano anterior, de forma a obter-se a    mesma grandeza para todas as vari&aacute;veis. Nos casos em que n&atilde;o havia    produtividade em alguns anos, optou-se por inserir a produtividade m&eacute;dia    do per&iacute;odo analisado antes do c&aacute;lculo do &iacute;ndice agregado    anual por estado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O &iacute;ndice    de produtividade agregado da agricultura foi calculado para cada estado ponderando-se    a raz&atilde;o das produtividades acima descrita pela participa&ccedil;&atilde;o    do valor de produ&ccedil;&atilde;o de cada cultura no valor de produ&ccedil;&atilde;o    total de seus respectivos estados. Essas participa&ccedil;&otilde;es variam    no tempo, e essa varia&ccedil;&atilde;o temporal poderia distorcer o &iacute;ndice    agr&iacute;cola agregado de forma a mascarar o real comportamento da produtividade    em si, sendo influenciado pelo efeito de substitui&ccedil;&atilde;o de culturas    de produtividades diferentes no estado sobre a produtividade geral do estado.    Ent&atilde;o, optou-se por calcular essas pondera&ccedil;&otilde;es considerando    o valor de produ&ccedil;&atilde;o m&eacute;dio no per&iacute;odo considerado,    mantendo-se as pondera&ccedil;&otilde;es fixas para todos os anos, o que significa    que a participa&ccedil;&atilde;o atribu&iacute;da a cada cultura no valor de    produ&ccedil;&atilde;o geral do estado representa a participa&ccedil;&atilde;o    m&eacute;dia no per&iacute;odo analisado. Essa formula&ccedil;&atilde;o tamb&eacute;m    ameniza o efeito da varia&ccedil;&atilde;o brusca de pre&ccedil;os em alguns    anos espec&iacute;ficos, que poderia afetar o valor de produ&ccedil;&atilde;o    e modificar o &iacute;ndice de produtividade agregado. Os valores de produ&ccedil;&atilde;o    foram corrigidos monetariamente pelo &Iacute;ndice de Pre&ccedil;os por atacado,    IPA-EP<a name="top15"></a><a href="#back15"><sup>15</sup></a> (mat&eacute;rias-primas    brutas agropecu&aacute;rias), da Funda&ccedil;&atilde;o Get&uacute;lio Vargas    (FGV).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As raz&otilde;es    de produtividade foram multiplicadas pelas pondera&ccedil;&otilde;es, de forma    a se alcan&ccedil;ar um &iacute;ndice de produtividade ponderado por cultura.    A soma de cada parcela correspondente a cada cultura por estado resultou no    &iacute;ndice de produtividade agr&iacute;cola agregado para cada estado.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. Resultados    e discuss&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esta se&ccedil;&atilde;o    apresenta os resultados das estima&ccedil;&otilde;es realizadas com o objetivo    de avaliar a rela&ccedil;&atilde;o entre expans&atilde;o da &aacute;rea de culturas    e varia&ccedil;&atilde;o na produtividade agr&iacute;cola no Brasil, por meio    das formula&ccedil;&otilde;es dos modelos A e B expostos anteriormente. Apresentam-se,    inicialmente, algumas estat&iacute;sticas sobre os dados utilizados nas regress&otilde;es    e a seguir, os resultados das estima&ccedil;&otilde;es.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href=" /img/revistas/resr/v52n1/05f01.jpg">Figura    1</a> ilustra o comportamento da vari&aacute;vel dependente versus a vari&aacute;vel    independente, constru&iacute;das conforme o Modelo A, para valores agregados    ao n&iacute;vel nacional. Cada ponto na figura representa uma observa&ccedil;&atilde;o    anual. A figura sugere uma rela&ccedil;&atilde;o positiva, apesar de bastante    dispersa, entre as vari&aacute;veis.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href=" /img/revistas/resr/v52n1/05f02.jpg">Figura    2</a> ilustra o comportamento da vari&aacute;vel dependente <i>versus</i> a    vari&aacute;vel independente conforme o Modelo B para valores agregados para    o Brasil. Observa-se uma rela&ccedil;&atilde;o fraca entre as duas vari&aacute;veis    que, como discutido anteriormente, pode estar relacionada ao forte efeito das    varia&ccedil;&otilde;es clim&aacute;ticas anuais sobre a produtividade.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A Tabela 1<a name="top16"></a><a href="#back16"><sup>16</sup></a>    apresenta o resultado das regress&otilde;es de valores dos par&acirc;metros    estimados (com sua respectiva estat&iacute;stica <i>t</i> entre par&ecirc;nteses).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados apresentados    nas colunas 1 e 3, referentes &agrave; especifica&ccedil;&atilde;o que n&atilde;o    distingue varia&ccedil;&otilde;es positivas das varia&ccedil;&otilde;es negativas    da &aacute;rea cultivada, indicam uma rela&ccedil;&atilde;o positiva entre varia&ccedil;&atilde;o    da produtividade e varia&ccedil;&atilde;o da &aacute;rea, embora o coeficiente    seja significativo somente na especifica&ccedil;&atilde;o referente ao Modelo    A. Neste caso, de acordo com a coluna (3), os resultados indicam que a cada    eleva&ccedil;&atilde;o de um ponto percentual na varia&ccedil;&atilde;o anual    da &aacute;rea, o &iacute;ndice de produtividade varia em 0,15 ponto percentual    positivo. Contudo, conforme as colunas 2 e 4, em que os efeitos de eleva&ccedil;&otilde;es    e redu&ccedil;&otilde;es de &aacute;rea s&atilde;o tratados separadamente, nota-se    que os par&acirc;metros referentes a aumentos da &aacute;rea cultivada s&atilde;o    sempre estatisticamente nulos, implicando, assim, que &agrave;s tais expans&otilde;es    n&atilde;o est&atilde;o associadas quedas na produtividade agr&iacute;cola -    desta forma, tem-se um resultado bastante diferente do assumido pelo relat&oacute;rio    CARB que, conforme discutido anteriormente, assume que as novas &aacute;reas    cultivadas teriam produtividade significativamente menor que as &aacute;reas    j&aacute; exploradas. Ainda conforme os resultados apresentados nas colunas    2 e 4, nota-se que os par&acirc;metros associados &agrave; redu&ccedil;&atilde;o    na &aacute;rea cultivada (iguais a 0,28 no caso do Modelo B e 0,31 no Modelo    A) s&atilde;o estatisticamente significantes, sugerindo, em ambas as estima&ccedil;&otilde;es,    redu&ccedil;&atilde;o na produtividade conforme ocorrem quedas na &aacute;rea<a name="top17"></a><a href="#back17"><sup>17</sup></a>    - de acordo com as estima&ccedil;&otilde;es, parece ser este o efeito que explica    os resultados encontrados nas colunas 1 e 3 desta mesma tabela.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com vistas a aprofundar    as discuss&otilde;es, buscou-se realizar duas extens&otilde;es da an&aacute;lise:    a primeira delas considera as mesmas estima&ccedil;&otilde;es apresentadas na    <a href=" /img/revistas/resr/v52n1/05t01.jpg">Tabela 1</a>, mas utilizando apenas    os dados dos estados caracterizados como fronteiras agr&iacute;colas<a name="top18"></a><a href="#back18"><sup>18</sup></a>.    Estas estima&ccedil;&otilde;es foram realizadas visando verificar se h&aacute;    um padr&atilde;o diferenciado para essas regi&otilde;es, que s&atilde;o as que    apresentam em maior intensidade o fen&ocirc;meno de expans&atilde;o das &aacute;reas    de culturas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados referentes    &agrave; primeira extens&atilde;o s&atilde;o apresentados na <a href=" /img/revistas/resr/v52n1/05t02.jpg">Tabela    2</a>, os quais sugerem um padr&atilde;o de resultados bastante semelhante ao    observado na <a href=" /img/revistas/resr/v52n1/05t01.jpg">Tabela 1</a>. No    caso da coluna 1, a varia&ccedil;&atilde;o da &aacute;rea cultivada continua    apresentando um coeficiente estatisticamente nulo e mesmo a decomposi&ccedil;&atilde;o    dos efeitos de aumentos e redu&ccedil;&otilde;es de &aacute;rea continuam gerando    resultados sem signific&acirc;ncia estat&iacute;stica - conforme visto anteriormente,    na <a href=" /img/revistas/resr/v52n1/05t01.jpg">Tabela 1</a>, o par&acirc;metro    referente &agrave; redu&ccedil;&atilde;o da &aacute;rea era estatisticamente    diferente de zero. J&aacute; no caso do Modelo A, a coluna 3 continua indicando,    a exemplo da mesma coluna da <a href=" /img/revistas/resr/v52n1/05t01.jpg">Tabela    1</a>, que varia&ccedil;&otilde;es da &aacute;rea levam a um aumento do &iacute;ndice    de produtividade agr&iacute;cola (par&acirc;metro igual a 0,14), e quando as    varia&ccedil;&otilde;es s&atilde;o tratadas separadamente, continua sendo constatado    que apenas as varia&ccedil;&otilde;es negativas da &aacute;rea levam &agrave;    redu&ccedil;&atilde;o da produtividade - neste caso, o par&acirc;metro obtido    indica que uma queda de um ponto percentual na &aacute;rea cultivada reduz a    produtividade em 0,26 pontos percentuais, valor este tamb&eacute;m relativamente    semelhante ao observado na coluna 4 da <a href=" /img/revistas/resr/v52n1/05t01.jpg">Tabela    1</a>. Desta forma, mesmo nas unidades da federa&ccedil;&atilde;o que fazem    parte da chamada fronteira agr&iacute;cola, os resultados continuam refutando    a premissa da legisla&ccedil;&atilde;o californiana.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como segunda extens&atilde;o    do estudo, procurou-se estimar as mesmas regress&otilde;es para quatro culturas    isoladamente: cana-de-a&ccedil;&uacute;car, soja, milho e arroz, culturas comumente    presentes em &aacute;reas agr&iacute;colas novas ou associadas &agrave; convers&atilde;o    de pastagens para culturas. Considerou-se nos modelos econom&eacute;tricos a    vari&aacute;vel dependente como a varia&ccedil;&atilde;o da produtividade individual    de cada uma destas culturas e como vari&aacute;vel explicativa a expans&atilde;o    da &aacute;rea de culturas total em cada unidade da federa&ccedil;&atilde;o<a name="top19"></a><a href="#back19"><sup>19</sup></a>.    No caso do Modelo A, utilizou-se a mesma formula&ccedil;&atilde;o de Bruce e    Carriquiry (2010), em que a varia&ccedil;&atilde;o na produtividade absoluta    da cultura espec&iacute;fica &eacute; a vari&aacute;vel explicada e a varia&ccedil;&atilde;o    na &aacute;rea total de culturas &eacute; a vari&aacute;vel explicativa. J&aacute;    na formula&ccedil;&atilde;o B, consideram-se as varia&ccedil;&otilde;es percentuais    anuais tanto na produtividade da cultura quanto na &aacute;rea.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href=" /img/revistas/resr/v52n1/05t03.jpg">Tabela    3</a> apresenta os resultados obtidos para as culturas espec&iacute;ficas selecionadas.    Os resultados para a cultura da soja revelam par&acirc;metros n&atilde;o significativos    mesmo ao n&iacute;vel de 10%, qualquer que seja a especifica&ccedil;&atilde;o    ou modelo considerado. Desta forma, estes resultados sugerem que varia&ccedil;&otilde;es    na &aacute;rea cultivada n&atilde;o implicam em altera&ccedil;&atilde;o na produtividade    desta cultura.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para a cultura    do milho, tem-se um padr&atilde;o de resultados semelhante ao observado na <a href=" /img/revistas/resr/v52n1/05t01.jpg">Tabela    1</a>. De acordo com as colunas 5 e 7, os par&acirc;metros indicam que varia&ccedil;&otilde;es    na &aacute;rea cultivada levam a aumento na produtividade desta cultura. Contudo,    quando as varia&ccedil;&otilde;es positivas e negativas da &aacute;rea s&atilde;o    tratadas separadamente (colunas 6 e 8), nota-se que os coeficientes associados    a aumentos da &aacute;rea s&atilde;o sempre estatisticamente nulos, ao passo    que os coeficientes referentes &agrave; queda da &aacute;rea cultivada s&atilde;o    estatisticamente significantes a 1%, indicando em particular redu&ccedil;&otilde;es    na produtividade desta cultura - no caso do Modelo A, tem-se uma redu&ccedil;&atilde;o    de aproximadamente 181 kg/ha (que corresponde &agrave; aproximadamente 8,4%    da produtividade m&eacute;dia desta cultura) quando a &aacute;rea cultivada    se reduz em 1 ponto percentual.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No caso do arroz,    as colunas 9 e 11 indicam aumento da produtividade quando ocorrem expans&otilde;es    da &aacute;rea cultivada - contudo, somente na segunda destas colunas h&aacute;    coeficientes estatisticamente significantes aos n&iacute;veis usualmente aceitos.    Ao separarem-se os efeitos decorrentes de aumentos e redu&ccedil;&otilde;es    da &aacute;rea, os resultados do Modelo B indicam que expans&otilde;es levam    a aumentos na produtividade (coeficiente igual a 0,14, cuja interpreta&ccedil;&atilde;o    vai em dire&ccedil;&atilde;o oposta &agrave; assumida pela legisla&ccedil;&atilde;o    californiana), embora o coeficiente associado &agrave; queda da &aacute;rea    seja estatisticamente nulo. J&aacute; no caso do Modelo A, tem-se um padr&atilde;o    diferente de resultados: embora o par&acirc;metro associado ao crescimento da    &aacute;rea n&atilde;o seja estatisticamente significante, o par&acirc;metro    referente &agrave; redu&ccedil;&atilde;o da &aacute;rea &eacute; estatisticamente    n&atilde;o nulo e, em particular, indica que redu&ccedil;&otilde;es da &aacute;rea    levam &agrave; redu&ccedil;&atilde;o da produtividade, em linha com os resultados    obtidos na <a href=" /img/revistas/resr/v52n1/05t01.jpg">Tabela 1</a>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Finalmente, para    a produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car, nota-se que os par&acirc;metros    n&atilde;o s&atilde;o significantes aos n&iacute;veis usualmente aceitos, qualquer    que seja a especifica&ccedil;&atilde;o ou modelo considerado indicando, a exemplo    da cultura de soja, que sua produtividade parece n&atilde;o ser alterada por    varia&ccedil;&otilde;es na &aacute;rea cultivada.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em termos gerais,    estes resultados, obtidos para algumas das principais culturas anuais do Pa&iacute;s,    apesar de n&atilde;o serem homog&ecirc;neos entre si em termos de dire&ccedil;&atilde;o    e signific&acirc;ncia dos par&acirc;metros e apesar de n&atilde;o serem totalmente    semelhantes aos resultados referentes ao &iacute;ndice geral de produtividade,    continuam n&atilde;o confirmando a hip&oacute;tese assumida pelo relat&oacute;rio    CARB, qual seja, de forte queda da produtividade quando da expans&atilde;o da    &aacute;rea agr&iacute;cola no caso do Brasil.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. Conclus&otilde;es</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O presente trabalho    procurou contribuir para o debate sobre o papel do etanol de cana-de-a&ccedil;&uacute;car    no atual cen&aacute;rio de busca por uma nova matriz energ&eacute;tica mundial,    questionando e recalculando valores de efeitos indiretos de mudan&ccedil;a de    uso da terra obtidos e utilizados em uma recente proposta de regula&ccedil;&atilde;o    californiana, chamada aqui de relat&oacute;rio CARB. Em particular, procurou-se    estimar se e em que medida a expans&atilde;o das &aacute;reas de culturas afeta    a produtividade agr&iacute;cola no Brasil. Dessa forma, p&ocirc;de-se testar    se, diante de um aumento na &aacute;rea total de culturas promovido pela expans&atilde;o    dos biocombust&iacute;veis, haveria queda da produtividade m&eacute;dia das    culturas no Pa&iacute;s a ponto de gerar convers&atilde;o de maiores extens&otilde;es    de &aacute;reas de vegeta&ccedil;&atilde;o natural para culturas e, com isso,    maiores emiss&otilde;es indiretas de gases de efeito estufa.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para atingir este    objetivo, este estudo considerou um modelo econom&eacute;trico, baseado na aplica&ccedil;&atilde;o    do m&eacute;todo proposto por Bruce e Carriquiry (2010), ampliando-o de forma    a considerar um &iacute;ndice de produtividade agr&iacute;cola agregado e a    adi&ccedil;&atilde;o de uma vari&aacute;vel <i>dummy</i> que capta o comportamento    diferenciado da produtividade diante de expans&otilde;es ou contra&ccedil;&otilde;es    da &aacute;rea de cultivo de cada estado. Al&eacute;m disso, foi efetuada uma    an&aacute;lise alternativa ao modelo de Bruce e Carriquiry (2010), buscando-se    investigar a rela&ccedil;&atilde;o de curto prazo entre mudan&ccedil;a na &aacute;rea    e produtividade.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados das    regress&otilde;es sugerem que a expans&atilde;o da &aacute;rea de culturas sobre    &aacute;reas de pastagens e florestas no Brasil n&atilde;o est&aacute; relacionada    a uma queda de produtividade nessas novas &aacute;reas no m&eacute;dio e longo    prazo, enquanto para varia&ccedil;&otilde;es anuais observam-se efeitos praticamente    nulos. Desta forma, os resultados obtidos no presente estudo sugerem n&atilde;o    ser adequado considerar para o Brasil que a convers&atilde;o de &aacute;reas    de pastagens e florestas em &aacute;reas de culturas seja capaz de reduzir a    produtividade destas &aacute;reas em 50% em rela&ccedil;&atilde;o &agrave;s    &aacute;reas de cultivo j&aacute; estabelecidas, como adotado no relat&oacute;rio    CARB.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Eacute; importante    destacar que os resultados encontrados neste estudo podem alterar substancialmente    as estimativas do relat&oacute;rio CARB a respeito dos impactos indiretos que    a expans&atilde;o do etanol brasileiro teria sobre as emiss&otilde;es de gases    de efeito estufa. Sob a hip&oacute;tese utilizada naquele relat&oacute;rio,    cada hectare a mais de cana-de-a&ccedil;&uacute;car que fosse plantado para    produ&ccedil;&atilde;o de etanol geraria a necessidade de convers&atilde;o de    dois hectares de florestas para acomodar o incremento do etanol sem alterar    a produ&ccedil;&atilde;o da agropecu&aacute;ria como um todo. Os resultados    do presente estudo sugerem que essa rela&ccedil;&atilde;o est&aacute; equivocada,    sendo tal necessidade de convers&atilde;o de &aacute;rea bem inferior, ao menos    de 1:1. As emiss&otilde;es indiretas de gases de efeito estufa, portanto, est&atilde;o    bastante superestimadas no relat&oacute;rio CARB. Tal resultado deve ser considerado    pelos agentes do setor privado, entidades de classe e poder p&uacute;blico brasileiros    nas discuss&otilde;es internacionais sobre os benef&iacute;cios dos biocombust&iacute;veis    e poss&iacute;veis barreiras t&eacute;cnicas no seu com&eacute;rcio internacional.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vale ainda ressaltar    que os resultados obtidos s&atilde;o &uacute;teis n&atilde;o apenas no que diz    respeito &agrave; modelagem de poss&iacute;veis impactos indiretos no uso da    terra a partir do aumento de produ&ccedil;&atilde;o dos biocombust&iacute;veis,    mas tamb&eacute;m contribuem para evidenciar que a expans&atilde;o da agricultura    brasileira nas &uacute;ltimas d&eacute;cadas tem sido realizada mantendo-se,    ou mesmo elevando-se, o n&iacute;vel tecnol&oacute;gico e de produtividade observado    nas &aacute;reas agr&iacute;colas tradicionais. Isso significa que o agricultor    respons&aacute;vel pela convers&atilde;o de &aacute;reas de pastagens ou de    florestas em &aacute;reas de culturas tem adotado pr&aacute;ticas modernas e    economicamente sustent&aacute;veis, capazes de manter o rendimento por &aacute;rea    m&eacute;dio do Pa&iacute;s, em contraste com os m&eacute;todos de agricultura    de baixa capacidade de suporte baseadas no abandono de &aacute;reas exploradas    e cont&iacute;nuo avan&ccedil;o sobre &aacute;reas de vegeta&ccedil;&atilde;o    natural.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ainda, dada a diversidade    das condi&ccedil;&otilde;es de produ&ccedil;&atilde;o e de mercados agr&iacute;colas    no Pa&iacute;s, torna-se mais apropriada a ado&ccedil;&atilde;o de valores de    raz&atilde;o de produtividades entre &aacute;reas novas e tradicionais regionalmente    especificados. Devido &agrave; sua extens&atilde;o territorial, seria dif&iacute;cil    encontrar um valor &uacute;nico de raz&atilde;o de produtividades para o Brasil.    Neste sentido, os resultados sugerem a necessidade de se utilizar valores mais    realistas para os par&acirc;metros utilizados nos exerc&iacute;cios de modelagem    que fundamentam a legisla&ccedil;&atilde;o californiana, com o objetivo de se    alcan&ccedil;ar resultados condizentes com a din&acirc;mica dos mercados agr&iacute;colas    e de energia, entre outros. Por fim, evidencia-se a relev&acirc;ncia da pesquisa    cont&iacute;nua e o aprimoramento das hip&oacute;teses e par&acirc;metros utilizados    em modelos econ&ocirc;micos que s&atilde;o utilizados com fins de formula&ccedil;&atilde;o    de pol&iacute;ticas ambientais. Futuros trabalhos devem ser desenvolvidos de    forma a refinar a hip&oacute;tese utilizada no Relat&oacute;rio CARB sobre a    queda na produtividade de novas &aacute;reas agr&iacute;colas diante da expans&atilde;o    dos biocombust&iacute;veis.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Refer&ecirc;ncias    bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">AHMED, S. A., HERTEL,    T. e LUBOWSKI, R. <i>Calibration of a Land Cover Supply Function Using Transition    Probabilities</i>. GTAP Research Memorandum, Center for Global Trade Analysis.    Purdue University, West Lafayette, IN, 2008. Dispon&iacute;vel em: &lt;<a href="http://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=2947" target="_blank">http://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=2947</a>&gt;.    Acesso em: 18 jul. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0103-2003201400010000500001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALBUQUERQUE, A.    C. S. e SILVA, G. A. (Eds.). <i>Agricultura tropical</i> - quatro d&eacute;cadas    de inova&ccedil;&otilde;es tecnol&oacute;gicas, institucionais e pol&iacute;ticas.    Bras&iacute;lia: EMBRAPA, 2008. 1337 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0103-2003201400010000500002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALVES, E. R. A.,    SOUZA, G. S. e GOMES, E. G. (Eds.). <i>Contribui&ccedil;&atilde;o da Embrapa    para o desenvolvimento da agricultura no Brasil</i>. Bras&iacute;lia: EMBRAPA,    2013. 291 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0103-2003201400010000500003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BIRUR, D. K., HERTEL,    T. W. e TYNER, W. E. <i>Impact of Biofuel Production on World Agricultural Markets</i>:    A Computable General Equilibrium Analysis. Center for Global Trade Analysis.    Purdue, 2008. GTAP Working Paper No. 53.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0103-2003201400010000500004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BRUCE, A. B. e    CARRIQUIRY, M. <i>An exploration of certain aspects of CARB's approach to modeling    indirect land use from expanded biodiesel production</i>. CARD Staff Report,    Iowa, Feb. 2010. Dispon&iacute;vel em: &lt;<a href="http://www.cardiastate.edu" target="_blank">www.cardiastate.edu</a>&gt;.    Acesso em: 14 jun. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003201400010000500005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">California Air    Resource Board (CARB). <i>Proposed Regulation to Implement the Low Carbon Fuel    Standard, Volume I</i>, mar. 5, 2009. Dispon&iacute;vel em: &lt;<a href="http://www.arb.ca.gov/fuels/lcfs/030409lcfs_isor_vol1.pdf" target="_blank">http://www.arb.ca.gov/fuels/lcfs/030409lcfs_isor_vol1.pdf</a>&gt;.    Acesso em: 17 ago. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003201400010000500006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DIMARANAN, B. V.    (Ed.). <i>Global Trade, Assistance, and Production</i>: The GTAP 6 Data Base,    Center for Global Trade Analysis, Purdue University, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003201400010000500007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">EPA. Renewable    Fuel Standard (RFS2): Program Amendments; Washington DC, 2010. Dispon&iacute;vel    em: &lt;<a href="http://www.epa.gov/otaq/fuels/renewablefuels/regulations.htm" target="_blank">http://www.epa.gov/otaq/fuels/renewablefuels/regulations.htm</a>&gt;.    Acesso em: 3 ago. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003201400010000500008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">EUROPEAN COMMISSION.    Impact Assessment of the Renewable Energy Roadmap - March 2007, Directorate-General    for Agriculture and Rural Development, European Commission, AGRI G-2/WM D, 2007).    Dispon&iacute;vel em: &lt;<a href="http://ec.europa.eu/agriculture-/analysis/markets/biofuel/impact042007/text_en.pdf" target="_blank">http://ec.europa.eu/agriculture-/analysis/markets/biofuel/impact042007/text_en.pdf</a>&gt;.    Acesso em: 3 mar. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003201400010000500009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FARGIONE, J., HILL,    J., TILMAN, D., POLASKY, S. e HAWTHORNE, P. Land clearing and the biofuel carbon    debt. <i>Science</i>, v. 319, p. 1235-1238, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003201400010000500010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GASQUES, J. G.,    BASTOS, E. T., BACCHI, M. R. P. e VALDES, C. Produtividade total dos fatores    e transforma&ccedil;&otilde;es da agricultura brasileira: an&aacute;lise dos    dados dos censos agropecu&aacute;rios. In: GASQUES, J. G., VIEIRA FILHO, J.    E. R. e NAVARRO, Z. (Eds.). <i>A Agricultura Brasileira</i>: desempenho, desafios    e perspectivas, Brasilia: IPEA, 2010, p. 19-44.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003201400010000500011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HERTEL, T. W. <i>Global    Trade analysis:</i> modeling and applications. New York: Cambridge University    Press, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003201400010000500012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HUANG, H. e KHANNA,    M. An econometric analysis of U.S. crop yield and cropland acreage: implications    for the impact of climate change. In: The Agricultural &amp; Applied Economics    Association, 2010. AAEA, CAES, &amp; WAEA Joint Annual Meeting, Denver, Colorado,    July 25-27, 2010. Dispon&iacute;vel em: &lt;<a href="http://ageconsearch.umn.edu/handle/61527" target="_blank">http://ageconsearch.umn.edu/handle/61527</a>&gt;.    Acesso em: 3 mar. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003201400010000500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LEE, H., HERTEL,    T. W., SOHNGEN, B. e RAMANKUTTY, N. Towards an Integrated Land Use Data Base    for Assessing the Potential for Greenhouse Gas Mitigation. GTAP Technical Paper    25, Global Trade Analysis Project, West Lafayette, 2005. Dispon&iacute;vel em:    &lt;<a href="https://www.gtap.agecon.purdue.edu/resources/download/2375.pdf" target="_blank">https://www.gtap.agecon.purdue.edu/resources/download/2375.pdf</a>&gt;.    Acesso em: 25 ago. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003201400010000500014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LUBOWSKI, R. N.,    PLANTINGA, A. J. e STAVINS, R. N. Land-use change and carbon sinks: econometric    estimation of the carbon sequestration supply function. <i>Journal of Environmental    Economics and Management</i>, v. 51, p. 135-152, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003201400010000500015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MARTHA JR., G.    B., ALVES. E. e CONTINI, E. Land-saving approaches and beef production growth    in Brazil. <i>Agricultural Systems</i>, v. 110, p. 173-177, 2012.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003201400010000500016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MELILLO, J. M.,    REILLY, J. M., KICKLIGHTER, D. W., GURGEL, A. C., CRONIN, T. W., PALTSEV, S.,    FELZER, B. S., WANG, X., SOKOLOV, A. P. e SCHLOSSER, C. A. Indirect Emissions    from Biofuels: How Important? <i>Science</i>, v. 326, p. 1397-1399, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003201400010000500017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ROBERTS, M. J.    e SCHLENKER, W. Identifying supply and demand elasticities of agricultural commodities:    implications for the US ethanol mandate. NBER Working Paper 15921, Cambridge    MA, April 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003201400010000500018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SEARCHINGER, T.,    HEIMLICH, R., HOUGHTON, R. A., DONG, F., ELOBEID, A., FABIOSA, J., TOKGOZ, S.,    HAYES, D. e YU, T. Use of U.S. croplands for biofuels increases greenhouse gases    through emissions from land-use change. <i>Science</i>, v. 319, p. 1238-1240,    2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003201400010000500019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TAHERIPOUR, F.,    BIRUR, D. K., HERTEL, T. W. e TYNER, W. E. <i>Introducing liquid biofuels into    the GTAP data base</i>. Center for Global Trade Analysis, Purdue, 2007. Research    Memorandum 11.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003201400010000500020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TYNER, W. E., TAHERIPOUR,    F., ZHUANG, Q., BIRUR, D. e BALDOS, U. <i>Land Use Changes and Consequent CO2    Emissions due to US Corn Ethanol Production: A Comprehensive Analysis</i>. Working    paper. Purdue University, West Lafayette, IN. 2010. Dispon&iacute;vel em: &lt;<a href="http://web.ics.purdue.edu/~qzhuang/Dr_%20Qianlai%20Zhuang_files/Argonne-GTAP_2010_With%20Appendices%20and%20exec%20sum4.pdf" target="_blank">http://web.ics.purdue.edu/~qzhuang/Dr_%20Qianlai%20Zhuang_files/Argonne-GTAP_2010_With%20Appendices%20and%20exec%20sum4.pdf</a>&gt;.    Acesso em: 5 jul. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003201400010000500021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ZHUANG, Q., MCGUIRE,    A. D., MELILLO, J. M., CLEIN, J. S., DARGAVILLE, R. J., KICKLIGHTER, D. W.,    MYNENI, R. B., DONG, J., ROMANOVSKY, V. E., HARDEN, J. e HOBBIE, J. E. Carbon    cycling in extratropical terrestrial ecosystems of the Northern Hemisphere during    the 20th Century: a modeling analysis of the influences of soil thermal dynamics.    <i>Tellus</i>, v. 55, n. B, 2003<i>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003201400010000500022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></i></font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back"></a><a href="#top">1</a>    Os autores agradecem os coment&aacute;rios de dois pareceristas an&ocirc;nimos    desta revista, eximindo-os de quaisquer erros remanescentes. Agradecem tamb&eacute;m    o suporte financeiro provido pelo CNPq e pela Fapesp.    <br>   <a name="back2"></a><a href="#top2">2</a> Tempo necess&aacute;rio para que um    dado tipo de biocombust&iacute;vel passe a gerar emiss&otilde;es l&iacute;quidas    negativas quando s&atilde;o consideradas as emiss&otilde;es provocadas pela    convers&atilde;o do ecossistema original em planta&ccedil;&atilde;o de biomassa    e a redu&ccedil;&atilde;o em emiss&otilde;es que o biocombust&iacute;vel proporciona    em rela&ccedil;&atilde;o ao combust&iacute;vel f&oacute;ssil que o mesmo &eacute;    capaz de substituir.    <br>   <a name="back3"></a><a href="#top3">3</a> <a href="http://www.epa.gov/oust/fedlaws/publ_109-058.pdf" target="_blank">http://www.epa.gov/oust/fedlaws/publ_109-058.pdf</a>    <br>   <a name="back4"></a><a href="#top4">4</a> <a href="http://www.arb.ca.gov/fuels/lcfs/121409lcfs_lutables.pdf" target="_blank">http://www.arb.ca.gov/fuels/lcfs/121409lcfs_lutables.pdf</a>    <br>   <a name="back5"></a><a href="#top5">5</a> Ver, por exemplo, Melillo <i>et al</i>.    (2009) e EPA (2010).    <br>   <a name="back6"></a><a href="#top6">6</a> As &aacute;reas de florestas no modelo    GTAP incluem, em parte, as &aacute;reas de Cerrado com maior composi&ccedil;&atilde;o    arb&oacute;rea.    <br>   <a name="back7"></a><a href="#top7">7</a> Zonas geogr&aacute;ficas que apresentam    caracter&iacute;sticas similares de solo, clima e precipita&ccedil;&atilde;o,    determinando caracter&iacute;sticas relativamente homog&ecirc;neas de aptid&atilde;o    agr&iacute;cola e potencial de cultivo.    <br>   <a name="back8"></a><a href="#top8">8</a> Vale ressaltar que, apesar de ser    chamado de elasticidade pelo relat&oacute;rio CARB, esse par&acirc;metro n&atilde;o    atende ao conceito de elasticidade utilizado em economia, tratando-se apenas    de uma raz&atilde;o entre duas vari&aacute;veis.    <br>   <a name="back9"></a><a href="#top9">9</a> Mapito: Maranh&atilde;o, Piau&iacute;    e Tocantins.    ]]></body>
+<body><![CDATA[<br>   <a name="back10"></a><a href="#top10">10</a> Pode-se argumentar que os aumentos    em pre&ccedil;os dos produtos agr&iacute;colas, estimulados pela crescente demanda    por alimentos advinda do crescimento populacional e da renda, promovem incentivos    tanto para a intensifica&ccedil;&atilde;o da produ&ccedil;&atilde;o nas &aacute;reas    tradicionais de cultivos quanto para a expans&atilde;o da fronteira agr&iacute;cola.    A expans&atilde;o sobre &aacute;reas de aptid&atilde;o agr&iacute;cola semelhante    &agrave; das &aacute;reas tradicionais permitiria a sustenta&ccedil;&atilde;o    da produtividade da terra sem maiores custos, enquanto a expans&atilde;o sobre    &aacute;reas de menor aptid&atilde;o agr&iacute;cola deveria ser acompanhada    de redu&ccedil;&atilde;o na produtividade (hip&oacute;tese do relat&oacute;rio    CARB) e/ou aumentos nos custos de produ&ccedil;&atilde;o.    <br>   <a name="back11"></a><a href="#top11">11</a> Estima&ccedil;&otilde;es efetuadas    no programa Stata 9.2.    <br>   <a name="back12"></a><a href="#top12">12</a> A considera&ccedil;&atilde;o da    varia&ccedil;&atilde;o de &aacute;rea de apenas uma ou algumas culturas espec&iacute;ficas    poderia mascarar a possibilidade de que uma mudan&ccedil;a na &aacute;rea n&atilde;o    ocorre necessariamente sobre uma &aacute;rea nova ou n&atilde;o utilizada para    cultivo (&aacute;reas de florestas e pastagens), uma vez que essa cultura poderia    estar substituindo alguma outra cultura, casos em que a &aacute;rea j&aacute;    era de uso para cultivo, e, portanto, n&atilde;o serviria ao objetivo da an&aacute;lise.    <br>   <a name="back13"></a><a href="#top13">13</a> Quantidade total colhida de cada    produto agr&iacute;cola no munic&iacute;pio, durante o ano de refer&ecirc;ncia    da pesquisa (IBGE).    <br>   <a name="back14"></a><a href="#top14">14</a> Total de &aacute;rea efetivamente    colhida de cada produto agr&iacute;cola no munic&iacute;pio, durante o ano de    refer&ecirc;ncia da pesquisa (IBGE).    <br>   <a name="back15"></a><a href="#top15">15</a> &Iacute;ndice de Pre&ccedil;os    por Atacado segundo Est&aacute;gios de Processamento, obtido do banco de dados    do IPEA (<a href="http://www.ipeadata.gov.br" target="_blank">www.ipeadata.gov.br</a>)    <br>   <a name="back16"></a><a href="#top16">16</a> Na <a href=" /img/revistas/resr/v52n1/05t01.jpg">Tabela    1</a>, bem como nas demais tabelas de resultados, optou-se por n&atilde;o apresentar    os coeficientes e estat&iacute;sticas t das <i>dummies</i> de ano, por economia    de espa&ccedil;o e para facilitar a visualiza&ccedil;&atilde;o dos resultados    principais. Conforme discutido na metodologia, essas <i>dummies</i> visam captar    as diferen&ccedil;as em produtividades decorrentes de efeitos espec&iacute;ficos    de cada ano da amostra.    <br>   <a name="back17"></a><a href="#top17">17</a> Apesar de os par&acirc;metros serem    positivos, a varia&ccedil;&atilde;o da &aacute;rea, nestes casos, &eacute; sempre    negativa, implicando em queda da produtividade.    <br>   <a name="back18"></a><a href="#top18">18</a> Os estados considerados como de    fronteira agr&iacute;cola foram: Rond&ocirc;nia, Acre, Amazonas, Roraima, Par&aacute;,    Amap&aacute;, Tocantins, Maranh&atilde;o, Piau&iacute;, Bahia, Mato Grosso do    Sul, Mato Grosso e Goi&aacute;s.    <br>   <a name="back19"></a><a href="#top19">19</a> &Eacute; importante ressaltar algumas    limita&ccedil;&otilde;es desta formula&ccedil;&atilde;o. A rela&ccedil;&atilde;o    entre a produtividade de uma dada cultura e a varia&ccedil;&atilde;o da &aacute;rea    de todas as culturas pode mascarar que a cultura em quest&atilde;o est&aacute;    se expandindo sobre &aacute;reas anteriormente ocupadas com culturas. Portanto,    essa formula&ccedil;&atilde;o n&atilde;o captaria o efeito sobre a produtividade    daquela cultura sendo plantada sobre as &aacute;reas recentemente convertidas    a partir de pastagens ou de vegeta&ccedil;&atilde;o natural. A escolha espec&iacute;fica    das culturas da soja, cana-de-a&ccedil;&uacute;car, milho e arroz busca minimizar    estes efeitos, uma vez que essas culturas s&atilde;o comumente encontradas em    &aacute;reas que foram convertidas de vegeta&ccedil;&atilde;o natural para agricultura    (principalmente no caso da soja) e de pastagens para cultivo agr&iacute;cola    (principalmente no caso da soja e da cana-de-a&ccedil;&uacute;car). Por outro    lado, n&atilde;o seria apropriado utilizar como vari&aacute;vel explicativa    a expans&atilde;o da &aacute;rea da pr&oacute;pria cultura, uma vez que a hip&oacute;tese    sendo testada diz respeito ao efeito da expans&atilde;o da &aacute;rea agr&iacute;cola    total sobre a produtividade.</font></p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AHMED]]></surname>
+<given-names><![CDATA[S. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HERTEL]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LUBOWSKI]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Calibration of a Land Cover Supply Function Using Transition Probabilities]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[West Lafayette^eIN IN]]></publisher-loc>
+<publisher-name><![CDATA[GTAP Research Memorandum, Center for Global Trade Analysis. Purdue University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALBUQUERQUE]]></surname>
+<given-names><![CDATA[A. C. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Agricultura tropical - quatro décadas de inovações tecnológicas, institucionais e políticas]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[EMBRAPA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[E. R. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[G. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Contribuição da Embrapa para o desenvolvimento da agricultura no Brasil]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[EMBRAPA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BIRUR]]></surname>
+<given-names><![CDATA[D. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HERTEL]]></surname>
+<given-names><![CDATA[T. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TYNER]]></surname>
+<given-names><![CDATA[W. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Impact of Biofuel Production on World Agricultural Markets: A Computable General Equilibrium Analysis]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Purdue ]]></publisher-loc>
+<publisher-name><![CDATA[Center for Global Trade Analysis]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRUCE]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARRIQUIRY]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An exploration of certain aspects of CARB's approach to modeling indirect land use from expanded biodiesel production]]></source>
+<year>Feb.</year>
+<month> 2</month>
+<day>01</day>
+<publisher-loc><![CDATA[Iowa ]]></publisher-loc>
+<publisher-name><![CDATA[CARD Staff Report]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="">
+<collab>California Air Resource Board</collab>
+<source><![CDATA[Proposed Regulation to Implement the Low Carbon Fuel Standard, Volume I]]></source>
+<year>mar.</year>
+<month> 5</month>
+<day>, </day>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIMARANAN]]></surname>
+<given-names><![CDATA[B. V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Global Trade, Assistance, and Production: The GTAP 6 Data Base]]></source>
+<year>2006</year>
+<publisher-name><![CDATA[Center for Global Trade Analysis, Purdue University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<collab>EPA</collab>
+<source><![CDATA[Renewable Fuel Standard (RFS2): Program Amendments]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<collab>EUROPEAN COMMISSION</collab>
+<source><![CDATA[Impact Assessment of the Renewable Energy Roadmap - March 2007]]></source>
+<year>2007</year>
+<publisher-name><![CDATA[Directorate-General for Agriculture and Rural Development, European Commission, AGRI G-2/WM D]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FARGIONE]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HILL]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TILMAN]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[POLASKY]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HAWTHORNE]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Land clearing and the biofuel carbon debt]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2008</year>
+<volume>319</volume>
+<page-range>1235-1238</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BASTOS]]></surname>
+<given-names><![CDATA[E. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M. R. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VALDES]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Produtividade total dos fatores e transformações da agricultura brasileira: análise dos dados dos censos agropecuários]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA FILHO]]></surname>
+<given-names><![CDATA[J. E. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NAVARRO]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Agricultura Brasileira: desempenho, desafios e perspectivas]]></source>
+<year>2010</year>
+<page-range>19-44</page-range><publisher-loc><![CDATA[Brasilia ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HERTEL]]></surname>
+<given-names><![CDATA[T. W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Global Trade analysis: modeling and applications]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HUANG]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KHANNA]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An econometric analysis of U.S. crop yield and cropland acreage: implications for the impact of climate change]]></article-title>
+<collab>The Agricultural & Applied Economics Association</collab>
+<source><![CDATA[]]></source>
+<year>2010</year>
+<month>Ju</month>
+<day>ly</day>
+<publisher-loc><![CDATA[Denver^eColorado Colorado]]></publisher-loc>
+<publisher-name><![CDATA[AAEA, CAES, & WAEA Joint Annual Meeting]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HERTEL]]></surname>
+<given-names><![CDATA[T. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOHNGEN]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAMANKUTTY]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Towards an Integrated Land Use Data Base for Assessing the Potential for Greenhouse Gas Mitigation]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[West Lafayette ]]></publisher-loc>
+<publisher-name><![CDATA[GTAP Technical Paper 25, Global Trade Analysis Project]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUBOWSKI]]></surname>
+<given-names><![CDATA[R. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PLANTINGA]]></surname>
+<given-names><![CDATA[A. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STAVINS]]></surname>
+<given-names><![CDATA[R. N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Land-use change and carbon sinks: econometric estimation of the carbon sequestration supply function]]></article-title>
+<source><![CDATA[Journal of Environmental Economics and Management]]></source>
+<year>2006</year>
+<volume>51</volume>
+<page-range>135-152</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTHA JR.]]></surname>
+<given-names><![CDATA[G. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALVES.]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CONTINI]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Land-saving approaches and beef production growth in Brazil]]></article-title>
+<source><![CDATA[Agricultural Systems]]></source>
+<year>2012</year>
+<volume>110</volume>
+<page-range>173-177</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MELILLO]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[REILLY]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KICKLIGHTER]]></surname>
+<given-names><![CDATA[D. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GURGEL]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CRONIN]]></surname>
+<given-names><![CDATA[T. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PALTSEV]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FELZER]]></surname>
+<given-names><![CDATA[B. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WANG]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOKOLOV]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHLOSSER]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Indirect Emissions from Biofuels: How Important?]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2009</year>
+<volume>326</volume>
+<page-range>1397-1399</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROBERTS]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHLENKER]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Identifying supply and demand elasticities of agricultural commodities: implications for the US ethanol mandate]]></source>
+<year>Apri</year>
+<month>l </month>
+<day>20</day>
+<publisher-loc><![CDATA[Cambridge MA ]]></publisher-loc>
+<publisher-name><![CDATA[NBER Working Paper 15921]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SEARCHINGER]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HEIMLICH]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOUGHTON]]></surname>
+<given-names><![CDATA[R. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DONG]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ELOBEID]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FABIOSA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOKGOZ]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HAYES]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[YU]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Use of U.S. croplands for biofuels increases greenhouse gases through emissions from land-use change]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2008</year>
+<volume>319</volume>
+<page-range>1238-1240</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAHERIPOUR]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIRUR]]></surname>
+<given-names><![CDATA[D. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HERTEL]]></surname>
+<given-names><![CDATA[T. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TYNER]]></surname>
+<given-names><![CDATA[W. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introducing liquid biofuels into the GTAP data base]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Purdue ]]></publisher-loc>
+<publisher-name><![CDATA[Center for Global Trade Analysis]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TYNER]]></surname>
+<given-names><![CDATA[W. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TAHERIPOUR]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZHUANG]]></surname>
+<given-names><![CDATA[Q.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIRUR]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BALDOS]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Land Use Changes and Consequent CO2 Emissions due to US Corn Ethanol Production: A Comprehensive Analysis]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[West Lafayette ]]></publisher-loc>
+<publisher-name><![CDATA[Purdue University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZHUANG]]></surname>
+<given-names><![CDATA[Q.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MCGUIRE]]></surname>
+<given-names><![CDATA[A. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MELILLO]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CLEIN]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DARGAVILLE]]></surname>
+<given-names><![CDATA[R. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KICKLIGHTER]]></surname>
+<given-names><![CDATA[D. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MYNENI]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DONG]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROMANOVSKY]]></surname>
+<given-names><![CDATA[V. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HARDEN]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOBBIE]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Carbon cycling in extratropical terrestrial ecosystems of the Northern Hemisphere during the 20th Century: a modeling analysis of the influences of soil thermal dynamics]]></article-title>
+<source><![CDATA[Tellus]]></source>
+<year>2003</year>
+<volume>55</volume>
+<numero>B</numero>
+<issue>B</issue>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

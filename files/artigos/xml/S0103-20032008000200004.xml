@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032008000200004</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032008000200004</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Análise da participação da agropecuária no PIB dos EUA de 1960 a 2001]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Brugnaro]]></surname>
+<given-names><![CDATA[Ricardo]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Bacha]]></surname>
+<given-names><![CDATA[Carlos José Caetano]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,USP ESALQ ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2008</year>
+</pub-date>
+<volume>46</volume>
+<numero>2</numero>
+<fpage>355</fpage>
+<lpage>390</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032008000200004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032008000200004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032008000200004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este artigo faz uma análise da evolução da participação da agropecuária no PIB dos EUA de 1960 a 2001, dando destaque à análise econométrica das principais variáveis que determinam essa participação. A tendência geral, no período de 1960 a 2001, é a diminuição da participação da agropecuária no PIB. Porém, isto não ocorre de forma contínua, pois de 1971 a 1973 essa participação aumentou. O artigo prova, econometricamente, a quebra de tendência da participação da agropecuária no PIB de 1971 a 1973 e centra sua análise no período de 1973 a 2001. Através de gráficos, observa-se grande crescimento da produção física de cereais e de carnes no período de 1970 a 2001, que se explica pelo grande crescimento da produtividade da agropecuária e dos subsídios governamentais, dado que a tendência da relação de preços recebidos/preços pagos pela agropecuária foi decrescente nesse período. Baseado em um modelo contábil que explicita as variáveis que determinam a participação da agropecuária no PIB, um modelo econométrico é definido e estimado. As principais variáveis determinando a participação da agropecuária no PIB dos EUA (em ordem decrescente de importância), no período de 1973 a 2001, são a relação de preços recebidos/preços pagos, o valor defasado dessa participação e a produtividade total dos fatores da agropecuária.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This paper analyses the evolution of agriculture's participation in the US gross domestic product (GDP) from 1960 to 2001. An econometric model is run in order to identify the main variables that determine this participation. From 1960 to 2001, there is a downward trend of agriculture's participation in the US GDP with a break from 1971 to 1973, in other words, agriculture's participation in the US GDP decreased from 1960 to 1970, increased from 1971 to 1973 and decreased again from 1973 to 2001. The 1971-1973's break in the downward trend of agriculture's participation is econometrically proved. Dataset organized in graphs show grain and meat production steadily enlarged from 1970 to 2001, what is closely related to the productivity increase and federal grants to agriculture, despite the ratio of received/paid prices decreased during this 31 years. An accounting model is presented to show the main variables that determine agriculture's participation in a country's GDP and an econometric model is derived from this accounting model. Running this econometric model with 1973-2001's US dataset, the following variables are the most important to determine the participation of agriculture in the US GDP: received/paid prices ratio, lagged value of agriculture's participation in the GDP, and total factor productivity of the agriculture.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[PIB]]></kwd>
+<kwd lng="pt"><![CDATA[importância da agropecuária]]></kwd>
+<kwd lng="pt"><![CDATA[modelo econométrico]]></kwd>
+<kwd lng="pt"><![CDATA[EUA]]></kwd>
+<kwd lng="en"><![CDATA[GDP]]></kwd>
+<kwd lng="en"><![CDATA[agriculture importance]]></kwd>
+<kwd lng="en"><![CDATA[econometric model]]></kwd>
+<kwd lng="en"><![CDATA[The USA]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>An&aacute;lise da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA de 1960 a 2001</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Ricardo Brugnaro<sup>I</sup>; Carlos Jos&eacute; Caetano Bacha<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Mestre em Economia Aplicada pela ESALQ/USP, e-mail: <a href="mailto:rbrugnaro@yahoo.com.br">rbrugnaro@yahoo.com,br</a>    <br> <sup>II</sup>Professor Titular da ESALQ/USP, e-mail: <a href="mailto:cjcbacha@esalq.usp.br">cjcbacha@esalq.usp.br</a> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este artigo faz uma an&aacute;lise da evolu&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA de 1960 a 2001, dando destaque &agrave; an&aacute;lise econom&eacute;trica das principais vari&aacute;veis que determinam essa participa&ccedil;&atilde;o. A tend&ecirc;ncia geral, no per&iacute;odo de 1960 a 2001, &eacute; a diminui&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB. Por&eacute;m, isto n&atilde;o ocorre de forma cont&iacute;nua, pois de 1971 a 1973 essa participa&ccedil;&atilde;o aumentou. O artigo prova, econometricamente, a quebra de tend&ecirc;ncia da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB de 1971 a 1973 e centra sua an&aacute;lise no per&iacute;odo de 1973 a 2001. Atrav&eacute;s de gr&aacute;ficos, observa-se grande crescimento da produ&ccedil;&atilde;o f&iacute;sica de cereais e de carnes no per&iacute;odo de 1970 a 2001, que se explica pelo grande crescimento da produtividade da agropecu&aacute;ria e dos subs&iacute;dios governamentais, dado que a tend&ecirc;ncia da rela&ccedil;&atilde;o de pre&ccedil;os recebidos/pre&ccedil;os pagos pela agropecu&aacute;ria foi decrescente nesse per&iacute;odo. Baseado em um modelo cont&aacute;bil que explicita as vari&aacute;veis que determinam a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB, um modelo econom&eacute;trico &eacute; definido e estimado. As principais vari&aacute;veis determinando a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA (em ordem decrescente de import&acirc;ncia), no per&iacute;odo de 1973 a 2001, s&atilde;o a rela&ccedil;&atilde;o de pre&ccedil;os recebidos/pre&ccedil;os pagos, o valor defasado dessa participa&ccedil;&atilde;o e a produtividade total dos fatores da agropecu&aacute;ria. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chave: </b>PIB, import&acirc;ncia da agropecu&aacute;ria, modelo econom&eacute;trico, EUA     <br> <b>Classifica&ccedil;&atilde;o JEL: </b>Q10, A10. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> This paper analyses the evolution of agriculture's participation in the US gross domestic product (GDP) from 1960 to 2001. An econometric model is run in order to identify the main variables that determine this participation. From 1960 to 2001, there is a downward trend of agriculture's participation in the US GDP with a break from 1971 to 1973, in other words, agriculture's participation in the US GDP decreased from 1960 to 1970, increased from 1971 to 1973 and decreased again from 1973 to 2001. The 1971-1973's break in the downward trend of agriculture's participation is econometrically proved. Dataset organized in graphs show grain and meat production steadily enlarged from 1970 to 2001, what is closely related to the productivity increase and federal grants to agriculture, despite the ratio of received/paid prices decreased during this 31 years. An accounting model is presented to show the main variables that determine agriculture's participation in a country's GDP and an econometric model is derived from this accounting model. Running this econometric model with 1973-2001's US dataset, the following variables are the most important to determine the participation of agriculture in the US GDP: received/paid prices ratio, lagged value of agriculture's participation in the GDP, and total factor productivity of the agriculture. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key words:</b> GDP, agriculture importance, econometric model, The USA </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A pesquisa em economia agr&iacute;cola revela a tend&ecirc;ncia declinante da participa&ccedil;&atilde;o da agropecu&aacute;ria na composi&ccedil;&atilde;o do PIB (produto interno bruto) da maioria dos pa&iacute;ses ao longo do tempo. N&atilde;o diferente desta tend&ecirc;ncia, os EUA apresentam este comportamento - embora com algumas oscila&ccedil;&otilde;es em torno da tend&ecirc;ncia - desde o fim do s&eacute;culo XVIII (SCHULTZ, 1951). Outros pa&iacute;ses desenvolvidos, como Jap&atilde;o, Inglaterra, Fran&ccedil;a, Alemanha, Austr&aacute;lia e Canad&aacute;, tamb&eacute;m apresentam este comportamento declinante (<a href="#fig1">Figura 1</a>). </font></p>     <p><a name="fig1"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig01.jpg" border="0" usemap="#Map"> <map name="Map"><area shape="rect" coords="322,16,330,25" href="#n1"> </map></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A agropecu&aacute;ria norte-americana tem pouca import&acirc;ncia relativa na composi&ccedil;&atilde;o do PIB (1,6% em 2001, de acordo com o World Bank, 2005), por&eacute;m, este setor dinamiza os outros setores da economia (setores industrial e de servi&ccedil;os), sendo de extrema import&acirc;ncia para o processo produtivo da economia (GUILHOTO, 2004), assim como pela gera&ccedil;&atilde;o de emprego (respons&aacute;vel por aproximadamente 2,5% do emprego dos EUA) e fornecimento de alimentos (em termos estrat&eacute;gicos). Esses fatores s&atilde;o fundamentais para defender o apoio governamental &agrave; produ&ccedil;&atilde;o agropecu&aacute;ria nos EUA. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Objetivo </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O objetivo deste artigo &eacute; analisar a evolu&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA e avaliar, econometricamente, as principais vari&aacute;veis que determinam essa participa&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este artigo est&aacute; dividido em 7 se&ccedil;&otilde;es, incluindo a introdu&ccedil;&atilde;o e o objetivo. A se&ccedil;&atilde;o 3 apresenta uma revis&atilde;o bibliogr&aacute;fica sobre o desenvolvimento econ&ocirc;mico e a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB. A se&ccedil;&atilde;o 4 apresenta as evid&ecirc;ncias da import&acirc;ncia decrescente da agropecu&aacute;ria no PIB e no emprego dos EUA. A se&ccedil;&atilde;o 5 exp&otilde;e a metodologia e os dados utilizados no presente trabalho, e as se&ccedil;&otilde;es 6 e 7 trazem, respectivamente, os resultados dos modelos econom&eacute;tricos estimados e as considera&ccedil;&otilde;es finais. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Revis&atilde;o bibliogr&aacute;fica </b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A literatura relacionada ao objetivo deste artigo pode ser organizada em tr&ecirc;s grupos interligados entre si: primeiro, os trabalhos que relacionam a participa&ccedil;&atilde;o decrescente do PIB na agropecu&aacute;ria ao estilo de desenvolvimento urbano-industrial adotado pelos pa&iacute;ses; segundo, os trabalhos que ressaltam a dimens&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA; e terceiro, os trabalhos que ressaltam a import&acirc;ncia da agropecu&aacute;ria para os EUA e suas fontes de crescimento, apesar de sua pequena import&acirc;ncia no PIB, e que procuram justificativas para os subs&iacute;dios governamentais dados a esse setor. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.1 Desenvolvimento urbano-industrial e a participa&ccedil;&atilde;o decrescente da agropecu&aacute;ria no PIB </i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A maioria dos autores relata a tend&ecirc;ncia declinante da participa&ccedil;&atilde;o da agropecu&aacute;ria na composi&ccedil;&atilde;o do PIB de grande parte dos pa&iacute;ses do mundo, como por exemplo, Schultz (1951), Ahumada (1967), Ara&uacute;jo (1975), Ara&uacute;jo e Schuh (1988), Syrquin<a name="n2"></a><a href="#nt2"><sup>2</sup></a> (1988), Stern (1994), Alexandratos (1999), Gollin <i>et al</i>. (2000) e Guilhoto (2004), associando essa tend&ecirc;ncia ao processo de desenvolvimento econ&ocirc;mico. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo de desenvolvimento adotado pela sociedade, que consiste na busca por benef&iacute;cios sociais (acesso &agrave; educa&ccedil;&atilde;o, sa&uacute;de, lazer, entre outros benef&iacute;cios sociais) e consumo em massa, associa-se fortemente ao desenvolvimento urbano-industrial (ALVES, 2000). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ahumada (1967), Ara&uacute;jo (1975) e Ara&uacute;jo e Schuh (1988), ao descreverem caracter&iacute;sticas do processo de desenvolvimento da sociedade, relatam a ocorr&ecirc;ncia de modifica&ccedil;&otilde;es estruturais na produ&ccedil;&atilde;o e na renda, com a redu&ccedil;&atilde;o da participa&ccedil;&atilde;o do setor agropecu&aacute;rio na forma&ccedil;&atilde;o da renda (produto), concomitantemente ao crescimento da participa&ccedil;&atilde;o do setor industrial e de servi&ccedil;os na composi&ccedil;&atilde;o da renda. Ara&uacute;jo (1975) tamb&eacute;m relata a perda da import&acirc;ncia relativa da agropecu&aacute;ria como geradora de emprego em virtude do alto grau de urbaniza&ccedil;&atilde;o que caracteriza o processo de desenvolvimento econ&ocirc;mico. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ara&uacute;jo (1975) ressalta que, com o desenvolvimento econ&ocirc;mico (e o conseq&uuml;ente crescimento da renda), aumenta-se a demanda por bens manufaturados e servi&ccedil;os especializados. Estes setores aumentam sua participa&ccedil;&atilde;o na composi&ccedil;&atilde;o da renda em detrimento da agropecu&aacute;ria, j&aacute; que os setores secund&aacute;rio e terci&aacute;rio crescem mais rapidamente que o setor prim&aacute;rio (no qual se inclui a agropecu&aacute;ria). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ara&uacute;jo e Schuh (1988) comentam que o processo de desenvolvimento apresenta um comportamento paradoxal. O desenvolvimento urbano-industrial ocorre amparado nas transfer&ecirc;ncias dos excedentes gerados pelo setor agropecu&aacute;rio para os setores secund&aacute;rio e terci&aacute;rio, fazendo com que estes aumentem sua import&acirc;ncia relativa na gera&ccedil;&atilde;o da renda e do emprego em detrimento do setor agropecu&aacute;rio. Desenvolvidos os setores urbanos da economia, deve-se refor&ccedil;ar os investimentos nas atividades agropecu&aacute;rias para estas garantirem o fornecimento de alimentos para a popula&ccedil;&atilde;o, revelando que embora a agropecu&aacute;ria perca participa&ccedil;&atilde;o na gera&ccedil;&atilde;o da renda e do emprego, ela n&atilde;o deixa de ser importante, segundo Schuh (1997), uma vez que sua competitividade permite ofertar alimentos, que s&atilde;o bens sal&aacute;rio, a pre&ccedil;os menores, levando &agrave; melhor distribui&ccedil;&atilde;o da renda e ao aumento da demanda por bens e servi&ccedil;os de outros setores. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Syrquin 1988, <i>apud </i>Alves (2000), comenta que mudan&ccedil;as t&eacute;cnicas na agricultura e/ou aumento no pre&ccedil;o relativo do trabalho induzem &agrave; mecaniza&ccedil;&atilde;o e ao uso de insumos externos &agrave; agropecu&aacute;ria (combust&iacute;veis, fertilizantes, bens de capital), o que faz com que reduza o valor adicionado do setor agropecu&aacute;rio. Este mesmo autor revela a redu&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria na renda e no emprego em um estudo realizado para 97 pa&iacute;ses no per&iacute;odo de 1950 a 1983. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Stern (1994) aponta a perda nos pre&ccedil;os relativos (pre&ccedil;os agropecu&aacute;rios / pre&ccedil;os industriais) como a principal causa da redu&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB total de um pa&iacute;s.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Gollin et al. (2000) relata que o desenvolvimento econ&ocirc;mico-social ocorre com a libera&ccedil;&atilde;o de m&atilde;o-de-obra das atividades agropecu&aacute;rias para as atividades urbano-industriais, gerando dessa forma rendas (produto) n&atilde;o oriundas da agropecu&aacute;ria, reduzindo a participa&ccedil;&atilde;o desta no total da renda gerada. Os autores comentam a necessidade de ganhos de produtividade na agropecu&aacute;ria para que essa continue fornecendo alimentos em abund&acirc;ncia para a popula&ccedil;&atilde;o que n&atilde;o est&aacute; mais trabalhando nas atividades agropecu&aacute;rias, concordando com Ara&uacute;jo e Schuh (1975), quando afirmam que outra caracter&iacute;stica importante do desenvolvimento &eacute; o crescimento da produtividade do trabalho e a diminui&ccedil;&atilde;o da diferen&ccedil;a desta entre os diferentes setores da economia. Isto implica o crescimento mais acelerado da produtividade do trabalho na agropecu&aacute;ria se comparado aos outros setores, pois a renda gerada por cada trabalhador na agropecu&aacute;ria &eacute; inferior &agrave; dos outros setores (WORLD BANK, 2005).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Guilhoto (2004), utilizando dados <i>cross-section e recentes</i>, tamb&eacute;m mostra que pa&iacute;ses com renda <i>per capita</i> mais elevada tendem a apresentar menor participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alexandratos (1999) relata que os pa&iacute;ses subdesenvolvidos est&atilde;o assumindo a produ&ccedil;&atilde;o de alimentos para a popula&ccedil;&atilde;o dos pa&iacute;ses desenvolvidos, tornando a quest&atilde;o da seguran&ccedil;a alimentar em inseguran&ccedil;a ("<i>food insecurity</i>"). Em virtude da falta de competitividade na produ&ccedil;&atilde;o agropecu&aacute;ria dos pa&iacute;ses mais ricos, esta atividade reduz cada vez mais em certos pa&iacute;ses, mesmo com altos subs&iacute;dios governamentais, contribuindo para a redu&ccedil;&atilde;o da participa&ccedil;&atilde;o do setor na composi&ccedil;&atilde;o do PIB desses pa&iacute;ses.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No caso do Brasil, que se comportou atipicamente em rela&ccedil;&atilde;o &agrave; tend&ecirc;ncia da maioria dos pa&iacute;ses dos anos 90 e come&ccedil;o dos anos 2000, o crescimento da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB nesses anos, segundo Bacha e Rocha (1998), foi devido a tr&ecirc;s fatores principais: (1) a melhora dos pre&ccedil;os relativos agropecu&aacute;rios/pre&ccedil;os industriais; (2) a melhora da rela&ccedil;&atilde;o de pre&ccedil;os recebidos/pre&ccedil;os pagos pela agropecu&aacute;ria; e (3) o aumento da quantidade f&iacute;sica produzida na agropecu&aacute;ria advinda do aumento da produtividade. Barros (1999) relata que o crescimento da produ&ccedil;&atilde;o agropecu&aacute;ria brasileira nos &uacute;ltimos anos &eacute; devido, principalmente, aos ganhos de produtividade dos fatores produtivos (proporcionados pelas inova&ccedil;&otilde;es tecnol&oacute;gicas) e pelo crescimento do estoque de capital (principalmente de tratores) e do uso de insumos promovidos pelo grande investimento realizado na agropecu&aacute;ria brasileira at&eacute; 1986, tanto na forma de pesquisa e extens&atilde;o rural, como na concess&atilde;o de cr&eacute;dito rural subsidiado. Este crescimento de produtividade &eacute; confirmado por Gasques et al (2004), que evidenciam o grande crescimento da produtividade total dos fatores (PTF) a partir de 1994, calculada atrav&eacute;s do &iacute;ndice de Tornqvist. Bonelli (2001, 2005) confirma que o crescimento da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB do Brasil &eacute; reflexo dos elevados ganhos de produtividade que o setor apresenta desde o in&iacute;cio da d&eacute;cada de 1990, al&eacute;m de ressaltar o fraco desempenho do setor industrial no que diz respeito &agrave; PTF (produtividade total dos fatores), neste mesmo per&iacute;odo. Rossi Jr &amp; Ferreira (1999) evidenciam decr&eacute;scimo na PTF industrial para o per&iacute;odo de 1985 a 1990, e reduzido crescimento para o per&iacute;odo de 1990 a 1997, confirmando a tend&ecirc;ncia apresentada por Bonelli (2001).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.2 A participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Schultz (1951) relata a tend&ecirc;ncia declinante da participa&ccedil;&atilde;o da agropecu&aacute;ria na composi&ccedil;&atilde;o do produto interno bruto para a Inglaterra e EUA de 1800 a 1950. Com o crescimento da renda <i>per capita</i>, as pessoas passam a demandar outros tipos de bens al&eacute;m dos alimentos, uma vez que a quantidade consumida de alimentos j&aacute; est&aacute; em um patamar desejado pela popula&ccedil;&atilde;o que possui um n&iacute;vel elevado de renda (n&iacute;vel de renda que permita a satisfa&ccedil;&atilde;o das necessidades alimentares). Assim, como os outros setores da economia crescem mais que a agropecu&aacute;ria, esta tende a reduzir sua participa&ccedil;&atilde;o na composi&ccedil;&atilde;o do PIB. O crescimento de outros setores da economia &eacute; possibilitado pela libera&ccedil;&atilde;o de m&atilde;o-de-obra do setor agropecu&aacute;rio para esses setores em virtude do crescimento da produtividade do trabalho na agropecu&aacute;ria, proporcionado por inova&ccedil;&otilde;es tecnol&oacute;gicas.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O agroneg&oacute;cio, tradu&ccedil;&atilde;o do termo ingl&ecirc;s <i>agribusiness</i>, se refere ao conjunto de atividades vinculadas com a agropecu&aacute;ria, incluindo a atividade agropecu&aacute;ria e outros tr&ecirc;s segmentos: o segmento de insumos para a agropecu&aacute;ria, o segmento de processamento de produtos agropecu&aacute;rios e o segmento de distribui&ccedil;&atilde;o dos produtos agropecu&aacute;rios e agroindustriais (BACHA, 2004). Embora o processo de desenvolvimento urbano-industrial leve &agrave; redu&ccedil;&atilde;o da import&acirc;ncia da agropecu&aacute;ria na economia, segundo Furtuoso e Guilhoto (2003) e Guilhoto (2004), o agroneg&oacute;cio tem maior import&acirc;ncia econ&ocirc;mica que somente a agropecu&aacute;ria. Nos EUA, a agropecu&aacute;ria representou aproximadamente 1,6% do PIB em 1998, enquanto o agroneg&oacute;cio representou 8,1% do PIB.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.3 A import&acirc;ncia da agropecu&aacute;ria para os EUA</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m da import&acirc;ncia econ&ocirc;mica da agropecu&aacute;ria para os EUA, Regunaga (2004) salienta a import&acirc;ncia social, ambiental e estrat&eacute;gica da agropecu&aacute;ria para este pa&iacute;s. Este setor &eacute; respons&aacute;vel por cerca de 2,5% do emprego nos EUA &#91;mais de 50% superior &agrave; sua import&acirc;ncia em termos da gera&ccedil;&atilde;o do PIB - valores confirmados pelo UNITED STATES DEPARTMENT OF AGRICULTURE - (USDA), 2006&#93; e pela manuten&ccedil;&atilde;o de parte da popula&ccedil;&atilde;o no meio rural. A agropecu&aacute;ria tamb&eacute;m &eacute; importante em termos estrat&eacute;gicos, pois garante alimenta&ccedil;&atilde;o para a popula&ccedil;&atilde;o. Dadas estas import&acirc;ncias da agropecu&aacute;ria norte-americana, justificam-se os elevados subs&iacute;dios governamentais &agrave; atividade, contribuindo para a n&atilde;o liberaliza&ccedil;&atilde;o do com&eacute;rcio internacional de <i>commodities</i> agr&iacute;colas.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Westcott e Price (2001) salientaram a import&acirc;ncia dos programas de financiamentos (empr&eacute;stimos) subsidiados do governo dos EUA a fim de garantir um n&iacute;vel de renda mais elevado aos produtores agropecu&aacute;rios, e dessa forma dar continuidade &agrave; produ&ccedil;&atilde;o. Estes programas s&atilde;o fundamentais para que a agropecu&aacute;ria n&atilde;o reduza ainda mais sua contribui&ccedil;&atilde;o para o PIB do pa&iacute;s e, al&eacute;m disso, continue gerando empregos e produzindo alimentos. Os autores tamb&eacute;m relataram o papel do USDA no financiamento e na coordena&ccedil;&atilde;o da pesquisa p&uacute;blica e privada para gera&ccedil;&atilde;o de tecnologia, contribuindo para o crescimento da produtividade agropecu&aacute;ria.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O Servi&ccedil;o de Pesquisa Econ&ocirc;mica (ERS) do Departamento de Agricultura dos EUA (USDA) publica relat&oacute;rios anuais, de 1995 a 2006, sobre o desempenho da agropecu&aacute;ria dos EUA em rela&ccedil;&atilde;o &agrave; renda e finan&ccedil;as agr&iacute;colas. Os temas abordados s&atilde;o: a renda agr&iacute;cola e familiar, a lucratividade das atividades agropecu&aacute;rias, os gastos feitos pelo governo com a agropecu&aacute;ria, os gastos dos agricultores com a produ&ccedil;&atilde;o e a evolu&ccedil;&atilde;o de seus ativos e d&iacute;vidas.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O ERS, ao analisar a renda agr&iacute;cola, preocupa-se mais em decompor sua origem segundo o tipo de atividade agropecu&aacute;ria (agr&iacute;cola, pecu&aacute;ria e silvicultura), os tipos de gastos incorridos (com fertilizantes, sementes, pesticidas, eletricidade, por exemplo) e a import&acirc;ncia das transfer&ecirc;ncias p&uacute;blicas. Pouca aten&ccedil;&atilde;o &eacute; dada &agrave; an&aacute;lise da participa&ccedil;&atilde;o da agropecu&aacute;ria na forma&ccedil;&atilde;o do PIB norte-americano.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Uma s&eacute;rie de trabalhos, tanto sobre os EUA quanto a respeito de outros pa&iacute;ses desenvolvidos e em desenvolvimento, tem se preocupado na &uacute;ltima d&eacute;cada em analisar a evolu&ccedil;&atilde;o da produtividade da agropecu&aacute;ria, os fatores determinantes do crescimento da produtividade e de que maneira a melhoria de produtividade tem permitido &agrave; agropecu&aacute;ria crescer, apesar de haver queda de pre&ccedil;os relativos em desfavor da agropecu&aacute;ria. Destacam-se, nessa linha, o trabalho de Ruttan (2002), analisando essas quest&otilde;es para v&aacute;rios pa&iacute;ses, e o de Fuglie <i>et al</i> (2007) que analisa o caso dos EUA.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fuglie <i>et al</i> (2007) analisaram a evolu&ccedil;&atilde;o da produtividade total dos fatores (PTF) na agropecu&aacute;ria norte-americana de 1948 a 2004. Nesse per&iacute;odo, a PTF cresceu &agrave; taxa m&eacute;dia de 1,8% ao ano. Isto permitiu, por exemplo, que "... cada fazendeiro em 2000 produzisse em m&eacute;dia 12 vezes mais produto agr&iacute;cola por hora trabalhada do que fazia em 1950. O desenvolvimento de nova tecnologia foi o fator prim&aacute;rio dessa melhoria" (Fuglie <i>et al</i>, 2007, p. 1). Entre essas melhorias se situam a melhoria de qualidade de maquinaria e insumos qu&iacute;micos, bem como o uso de biotecnologia. Os mesmos autores mostram que, a partir de in&iacute;cio da d&eacute;cada de 1970, os pre&ccedil;os em geral cresceram mais do que os pre&ccedil;os agr&iacute;colas e esse <i>gap</i> foi compensado, pela agropecu&aacute;ria, por um grande crescimento da produtividade agr&iacute;cola. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Avaliando a literatura apresentada at&eacute; agora, verificam-se muitos trabalhos analisando os motivos e as vari&aacute;veis respons&aacute;veis pelo comportamento da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos pa&iacute;ses. Por&eacute;m, nenhum trabalho estimou um modelo econom&eacute;trico para quantificar a import&acirc;ncia das vari&aacute;veis ressaltadas na determina&ccedil;&atilde;o do PIB para o caso da economia dos EUA, que &eacute; o prop&oacute;sito deste artigo. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. As evid&ecirc;ncias da import&acirc;ncia decrescente da agropecu&aacute;ria no PIB e no emprego dos EUA</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como j&aacute; mencionado, a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA tem apresentado comportamento decrescente, seguindo o padr&atilde;o mundial dado pelas teorias de desenvolvimento. Para se ter uma id&eacute;ia, a agropecu&aacute;ria foi respons&aacute;vel por quase 40% do PIB dos EUA em 1799, passando para cerca de 32% em meados do s&eacute;culo XIX, 21% em 1900, 13% no final da d&eacute;cada de 1930, 3,5% na d&eacute;cada de 1970, e apenas 1,6% em 2000 (<a href="#fig2">Figura 2</a>).</font></p>     <p><a name="fig2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig02.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A agropecu&aacute;ria dos EUA n&atilde;o perdeu import&acirc;ncia relativa apenas na composi&ccedil;&atilde;o do PIB, mas tamb&eacute;m em termos de gera&ccedil;&atilde;o de emprego. Em 1805, a agropecu&aacute;ria era respons&aacute;vel por 70% dos postos de trabalho dos EUA, passando a representar aproximadamente 2,4% nos anos atuais (<a href="#fig3">Figura 3</a>). Por&eacute;m, ao verificar uma participa&ccedil;&atilde;o de 2,4% no emprego e apenas 1,6% do PIB dos EUA, conclui-se que a agropecu&aacute;ria tem importante fun&ccedil;&atilde;o social, gerando emprego acima de sua participa&ccedil;&atilde;o na renda total do pa&iacute;s.</font></p>     <p><a name="fig3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pela sua import&acirc;ncia na gera&ccedil;&atilde;o de empregos e por outros motivos, o governo tem dado grande aten&ccedil;&atilde;o ao setor, destinando representativo volume de recursos para pesquisa e concess&atilde;o de subs&iacute;dios ao produtor rural a fim de dar continuidade ao processo produtivo. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Metodologia e dados utilizados</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>5.1 Modelo de determina&ccedil;&atilde;o da participa&ccedil;&atilde;o do setor agropecu&aacute;rio no PIB</i></b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esta se&ccedil;&atilde;o exp&otilde;e o modelo cont&aacute;bil de Bacha e Rocha (1998) sobre a determina&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB, derivando, a partir dele, um modelo econom&eacute;trico e discutindo os dados vi&aacute;veis para estim&aacute;-lo. O modelo tamb&eacute;m j&aacute; foi utilizado e estimado econometricamente por Brugnaro e Bacha (2006) para analisar a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB do Brasil.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bacha e Rocha (1998) definiram as seguintes vari&aacute;veis:</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>VA<sub>A </sub></b>=	valor adicionado pelo setor agropecu&aacute;rio;    <br> <b>VA<sub>I </sub></b>= valor adicionado pelo setor n&atilde;o-agropecu&aacute;rio;    <br> <b>P<sub>A </sub></b>= pre&ccedil;o m&eacute;dio dos produtos do setor agropecu&aacute;rio;    <br> <b>P<sub>I </sub></b>= pre&ccedil;o m&eacute;dio dos bens e servi&ccedil;os do setor n&atilde;o-agropecu&aacute;rio;    <br> <b>P<sub>A</sub><sup>I</sup></b> = pre&ccedil;o m&eacute;dio dos produtos agropecu&aacute;rios usados como insumos no setor n&atilde;o-agropecu&aacute;rio;    <br> <b>P<sub>I</sub><sup>A</sup></b> = pre&ccedil;o m&eacute;dio dos bens e servi&ccedil;os n&atilde;o-agropecu&aacute;rios usados como insumos no setor agropecu&aacute;rio;    <br> <b>I<sub>I</sub><sup>A</sup></b> = quantidade f&iacute;sica de insumos n&atilde;o-agropecu&aacute;rios usados no setor agropecu&aacute;rio;    <br> <b>I<sub>A</sub><sup>A</sup></b> = quantidade f&iacute;sica de insumos agropecu&aacute;rios usados no setor agropecu&aacute;rio;    ]]></body>
+<body><![CDATA[<br> <b>I<sub>I</sub><sup>I</sup></b> = quantidade f&iacute;sica de insumos n&atilde;o-agropecu&aacute;rios usados no setor n&atilde;o-agropecu&aacute;rio;    <br> <b>I<sub>A</sub><sup>I</sup></b> = quantidade f&iacute;sica de insumos agropecu&aacute;rios usados no setor n&atilde;o-agropecu&aacute;rio;    <br> <b>Q<sub>A </sub></b>= quantidade f&iacute;sica produzida no setor agropecu&aacute;rio;     <br> <b>Q<sub>I </sub></b>= quantidade f&iacute;sica produzida no setor n&atilde;o-agropecu&aacute;rio.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Portanto, o subscrito &eacute; o setor que produz e o sobrescrito &eacute; o setor que utiliza. A &eacute; setor agropecu&aacute;rio e I &eacute; o setor n&atilde;o-agropecu&aacute;rio.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo de Bacha e Rocha (1998) tem quatro equa&ccedil;&otilde;es b&aacute;sicas, que s&atilde;o:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04exp01.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">onde P<sub>agr</sub> &eacute; a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Da equa&ccedil;&atilde;o (1) tem-se que o aumento de <img src="/img/revistas/resr/v46n2/a04simb01.jpg" align="middle"> faz aumentar P<sub>agr</sub> .</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para determinar as vari&aacute;veis que afetam <img src="/img/revistas/resr/v46n2/a04simb01.jpg" align="middle">, considere que:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n2/a04exp02-3.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dividindo (2) por (3), e da express&atilde;o resultante dividindo o numerador e o denominador por P<sub>A</sub> e procedendo a ajustes matem&aacute;ticos, tem-se:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04exp04.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A express&atilde;o (4), em seu numerador, revela que um aumento na produtividade f&iacute;sica do setor agropecu&aacute;rio &#91;aumento de <img src="/img/revistas/resr/v46n2/a04simb02.jpg" align="absmiddle">&#93;, em condi&ccedil;&otilde;es coeteris paribus, leva ao aumento de <img src="/img/revistas/resr/v46n2/a04simb01.jpg" align="middle">, o que, pela express&atilde;o (1), leva ao aumento da participa&ccedil;&atilde;o do setor agropecu&aacute;rio no PIB. Ainda em seu numerador, a express&atilde;o (4) mostra que um aumento de <img src="/img/revistas/resr/v46n2/a04simb03.jpg" align="middle"> (valor adicionado unit&aacute;rio no setor agropecu&aacute;rio), em condi&ccedil;&otilde;es <i>coeteris paribus</i>, eleva <img src="/img/revistas/resr/v46n2/a04simb01.jpg" align="middle">, gerando um aumento da participa&ccedil;&atilde;o do setor agropecu&aacute;rio no PIB.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A express&atilde;o (4), em seu denominador, coloca que a redu&ccedil;&atilde;o de <img src="/img/revistas/resr/v46n2/a04simb04.jpg" align="middle">, ou o aumento de<img src="/img/revistas/resr/v46n2/a04simb05.jpg" align="middle">  (rela&ccedil;&atilde;o de pre&ccedil;os agropecu&aacute;rios e n&atilde;o-agropecu&aacute;rios), em condi&ccedil;&otilde;es <i>coeteris paribus</i>, aumenta <img src="/img/revistas/resr/v46n2/a04simb01.jpg" align="middle">, o que tamb&eacute;m eleva a participa&ccedil;&atilde;o do setor agropecu&aacute;rio no PIB.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os tr&ecirc;s elementos acima evidenciados foram ressaltados por Bacha e Rocha (1998). Cabe ressaltar, tamb&eacute;m, que o aumento da produtividade industrial &#91;aumento de <img src="/img/revistas/resr/v46n2/a04simb06.jpg" align="absmiddle">&#93;, em condi&ccedil;&otilde;es <i>coeteris paribus</i>, reduz a rela&ccedil;&atilde;o <img src="/img/revistas/resr/v46n2/a04simb01.jpg" align="middle">, reduzindo a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB. Essas conclus&otilde;es permitem estimar a equa&ccedil;&atilde;o (4) atrav&eacute;s da seguinte f&oacute;rmula:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04exp05.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">sendo que <img src="/img/revistas/resr/v46n2/a04exp.jpg" align="middle"></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>5.2 Dados utilizados</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para estimar a equa&ccedil;&atilde;o (5) s&atilde;o utilizados dados secund&aacute;rios. Os dados de participa&ccedil;&atilde;o do setor agropecu&aacute;rio no PIB total s&atilde;o do World Bank (2000, 2005). Os pre&ccedil;os <b>P</b><sub>A</sub>, <b>P</b><sub>l</sub> e <b>P</b><sub>l</sub><sup>A</sup>  s&atilde;o mensurados na forma de &iacute;ndices. As produtividades da agropecu&aacute;ria e da ind&uacute;stria (considerada como proxy da produtividade do setor n&atilde;o agropecu&aacute;rio) tamb&eacute;m s&atilde;o mensuradas na forma de &iacute;ndices. Os &iacute;ndices de pre&ccedil;os recebidos e pagos pela agropecu&aacute;ria e o &iacute;ndice de produtividade total dos fatores no setor agropecu&aacute;rio s&atilde;o do Departamento de Agricultura dos EUA (USDA). Os &iacute;ndices de pre&ccedil;os industriais e agropecu&aacute;rios e o &iacute;ndice de produtividade total dos fatores na ind&uacute;stria s&atilde;o do Bureau of Labor Statistics (BLS). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para caracteriza&ccedil;&atilde;o da agropecu&aacute;ria dos EUA foram apresentados dados referentes &agrave; produ&ccedil;&atilde;o e produtividade dos cereais e &aacute;rea com irriga&ccedil;&atilde;o fornecidos pelo World Bank, subs&iacute;dios &agrave; agropecu&aacute;ria fornecidos pela Organiza&ccedil;&atilde;o para Coopera&ccedil;&atilde;o Econ&ocirc;mica e Desenvolvimento (OCDE), al&eacute;m da produ&ccedil;&atilde;o de carnes e produtividade total dos fatores da pecu&aacute;ria e da agropecu&aacute;ria e a produtividade do trabalho na agropecu&aacute;ria fornecidos pelo USDA. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. Resultados</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esta se&ccedil;&atilde;o analisa, atrav&eacute;s de gr&aacute;ficos, o comportamento de algumas vari&aacute;veis determinantes do valor do produto interno bruto da agropecu&aacute;ria e/ou de sua participa&ccedil;&atilde;o no PIB total dos EUA. Essas vari&aacute;veis foram definidas a partir da literatura consultada e baseado no modelo de Bacha e Rocha (1998) e s&atilde;o analisadas para o per&iacute;odo de 1970 a 2001. Em seguida, o modelo econom&eacute;trico definido no item 5.1 (equa&ccedil;&atilde;o 5) &eacute; estimado de v&aacute;rias formas para determinar a import&acirc;ncia das vari&aacute;veis selecionadas na determina&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>6.1 Pre&ccedil;os relativos</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>&#149; Pre&ccedil;os agropecu&aacute;rios <i>versus</i> pre&ccedil;os industriais</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#fig4">Figura 4</a> mostra a evolu&ccedil;&atilde;o dos &iacute;ndices de pre&ccedil;os agropecu&aacute;rios, industriais e a rela&ccedil;&atilde;o de pre&ccedil;os agropecu&aacute;rios/pre&ccedil;os industriais. Embora existam certas oscila&ccedil;&otilde;es em torno da tend&ecirc;ncia, verifica-se claramente o crescimento mais acelerado do &iacute;ndice de pre&ccedil;os industriais (&iacute;ndice de pre&ccedil;os industriais utilizado como proxy para pre&ccedil;os n&atilde;o-agropecu&aacute;rios), fazendo com que a raz&atilde;o de pre&ccedil;os agropecu&aacute;rios/pre&ccedil;os industriais se reduza em aproximadamente 40% no per&iacute;odo de 1970 a 2001, contribuindo para a redu&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA.</font></p>     <p><a name="fig4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig04.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os pre&ccedil;os agropecu&aacute;rios cresceram a uma taxa geom&eacute;trica<a name="n3"></a><a href="#nt3"><sup>3</sup></a> de 2% ao ano no per&iacute;odo de 1970 a 2001, enquanto que o &iacute;ndice de pre&ccedil;os industriais cresceu, no mesmo per&iacute;odo, a uma taxa de 4,3% ao ano, implicando uma redu&ccedil;&atilde;o de 2,2% ao ano na rela&ccedil;&atilde;o de troca pre&ccedil;os agropecu&aacute;rios/ pre&ccedil;os industriais.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>&#149; Pre&ccedil;os recebidos <i>versus</i> pre&ccedil;os pagos</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Avaliando a <a href="#fig5">Figura 5</a>, verifica-se que a rela&ccedil;&atilde;o de pre&ccedil;os recebidos/pre&ccedil;os pagos pela agropecu&aacute;ria dos EUA tamb&eacute;m contribuiu para a redu&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB. Esta rela&ccedil;&atilde;o reduziu-se a uma taxa geom&eacute;trica anual de 2,3%, perfazendo um total de queda de 45% no per&iacute;odo de 1970 a 2001. Isto ocorreu porque os pre&ccedil;os recebidos cresceram, no referido per&iacute;odo, a uma taxa geom&eacute;trica de 2,1% ao ano, enquanto os pre&ccedil;os pagos cresceram a uma intensidade muito maior: 4,5% ao ano.</font></p>     <p><a name="fig5"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig05.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>6.2 Produ&ccedil;&atilde;o e &iacute;ndices de produtividade da agropecu&aacute;ria</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>&#149; Produ&ccedil;&atilde;o agr&iacute;cola</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A produ&ccedil;&atilde;o de cereais dos EUA apresentou grande crescimento no per&iacute;odo de 1970 a 2001, passando de menos de 187 milh&otilde;es de toneladas para 325,5 milh&otilde;es de toneladas, respectivamente. Este crescimento ocorreu com grandes oscila&ccedil;&otilde;es, principalmente na d&eacute;cada de 1980 (<a href="#fig6">Figura 6</a>). Avaliando o per&iacute;odo como um todo, o crescimento ocorreu a uma taxa geom&eacute;trica de 1,3% ao ano.</font></p>     <p><a name="fig6"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig06.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A &aacute;rea plantada com cereais nos EUA cresceu de 1970 at&eacute; meados da d&eacute;cada de 1980, reduzindo-se a partir de ent&atilde;o. Em 2001, a &aacute;rea plantada era inferior a de 1970 (<a href="#fig7">Figura 7</a>). Para o per&iacute;odo de 1970 a 2001 como um todo, a &aacute;rea plantada com cereais reduziu-se a uma taxa geom&eacute;trica de 0,42% a.a.. Assim, conclui-se que o crescimento na produ&ccedil;&atilde;o de cereais, no mencionado per&iacute;odo, ocorreu com grande crescimento da produtividade por hectare (ver <a href="#fig7">Figura 7</a>). A produtividade m&eacute;dia passou de 3.150 kg por hectare em 1970 para 5.890 kg por hectare em 2001, com uma taxa geom&eacute;trica de crescimento de 1,74% ao ano. </font></p>     <p><a name="fig7"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig07.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O crescimento em produtividade por hectare, verificado no per&iacute;odo de 1970 a 2001, ocorreu devido a grandes investimentos em pesquisa e em mecaniza&ccedil;&atilde;o das atividades. O crescimento da &aacute;rea com sistemas de irriga&ccedil;&atilde;o ilustra, em parte, os investimentos em capital ocorridos na produ&ccedil;&atilde;o agr&iacute;cola nos EUA. Em 1970, havia 16 milh&otilde;es de hectares irrigados nos EUA, &aacute;rea que passou para 22,5 milh&otilde;es de hectares em 2001 (<a href="#fig8">Figura 8</a>), ao mesmo tempo em que houve redu&ccedil;&atilde;o na &aacute;rea plantada com cereais, elevando dessa forma a participa&ccedil;&atilde;o da &aacute;rea plantada dotada de sistemas de irriga&ccedil;&atilde;o.</font></p>     <p><a name="fig8"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig08.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A produ&ccedil;&atilde;o agropecu&aacute;ria dos EUA tem grande apoio governamental, desde pesquisa (coordena&ccedil;&atilde;o e financiamento), at&eacute; seguro, de pre&ccedil;o e produtividade. Assim, a produ&ccedil;&atilde;o agropecu&aacute;ria passa a ter menor risco econ&ocirc;mico, amparando-se em crescentes subs&iacute;dios, que atingiu nos anos de 1998 a 2001 um patamar bastante superior ao verificado nos anos de 1990 a 1997. O pico alcan&ccedil;ado foi de US$ 60,1 bilh&otilde;es (a pre&ccedil;os de 2001) em 1999, como pode ser visualizado na <a href="#fig9">Figura 9</a>. Este crescimento verificado na concess&atilde;o de subs&iacute;dios ocorre para manter a viabilidade econ&ocirc;mica da atividade agropecu&aacute;ria nos EUA.</font></p>     <p><a name="fig9"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig09.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>&#149; Produ&ccedil;&atilde;o de carnes</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Analisando a produ&ccedil;&atilde;o de carnes dos EUA (<a href="#fig10">Figura 10</a>), percebe-se o crescimento para as carnes bovina, su&iacute;na e de aves (as principais carnes produzidas nos EUA). A produ&ccedil;&atilde;o de carne bovina apresentou uma taxa geom&eacute;trica de crescimento de 0,48% ao ano no per&iacute;odo de 1970 a 2001, passando de 9,75 milh&otilde;es de toneladas em 1970 para 11,85 milh&otilde;es de toneladas em 2001. Ao mesmo tempo, a produ&ccedil;&atilde;o de carnes su&iacute;nas apresentou crescimento geom&eacute;trico de 1,31% ao ano, elevando sua produ&ccedil;&atilde;o de 6 milh&otilde;es de toneladas em 1970 para 8,7 milh&otilde;es de toneladas em 2001. Altamente expressivo foi o crescimento da produ&ccedil;&atilde;o de carne de aves nos EUA, passando de 4,2 milh&otilde;es de toneladas em 1970 para mais de 17 milh&otilde;es de toneladas em 2001, implicando uma taxa geom&eacute;trica de crescimento de 5,02% ao ano no per&iacute;odo compreendido entre 1970 e 2001.</font></p>     <p><a name="fig10"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig10.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para se ter uma id&eacute;ia da evolu&ccedil;&atilde;o da produ&ccedil;&atilde;o de carnes dos EUA avaliadas para as carnes bovina, su&iacute;na e de aves conjuntamente, o volume produzido passa de menos de 20 milh&otilde;es de toneladas em 1970 para mais de 37 milh&otilde;es de toneladas em 2001, equivalente &agrave; taxa geom&eacute;trica de crescimento anual de 2,15%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Grande parte do crescimento da produ&ccedil;&atilde;o norte-americana de carnes no per&iacute;odo de 1970 a 2001 ocorreu devido aos ganhos de produtividade (<a href="#fig11">Figura 11</a>). A produtividade total dos fatores (PTF) da pecu&aacute;ria dos EUA cresceu a uma taxa geom&eacute;trica de 1,7% ao ano no referido per&iacute;odo, o que resultou em um crescimento de quase 58% em todo o per&iacute;odo.</font></p>     <p><a name="fig11"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n2/a04fig11.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>&#149; Produtividade total dos fatores e do trabalho na agropecu&aacute;ria dos EUA</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esta se&ccedil;&atilde;o apresenta e analisa a produtividade total dos fatores (PTF - terra, trabalho e capital) e do trabalho para toda a agropecu&aacute;ria dos EUA, sem distinguir as atividades pecu&aacute;rias das agr&iacute;colas.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A produtividade total dos fatores (PTF) da agropecu&aacute;ria calculada pelo USDA para o per&iacute;odo de 1970 a 2001 (<a href="#fig12">Figura 12</a>) apresentou taxa geom&eacute;trica de crescimento anual de 2,2%, elevando o &iacute;ndice de produtividade em quase 90% em todo o per&iacute;odo avaliado. O crescimento da produtividade &eacute; favor&aacute;vel ao crescimento da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA e ocorre no mesmo per&iacute;odo em que diminuiu a rela&ccedil;&atilde;o de pre&ccedil;os agropecu&aacute;rios/industriais e a rela&ccedil;&atilde;o de pre&ccedil;os recebidos/pagos pelos agricultores (veja as <a href="#fig4">figuras 4</a> e <a href="#fig5">5</a>). Este fen&ocirc;meno tamb&eacute;m foi ressaltado, recentemente, por Flugie et al (2007). Segundo os autores, "... o crescimento da produtividade permitiu que mais produto pudesse ser elaborado a partir da mesma quantidade de insumos, reduzindo o custo m&eacute;dio de produ&ccedil;&atilde;o. Os ganhos em produtividade grandemente beneficiaram a agroind&uacute;stria e os consumidores na forma de pre&ccedil;o real mais baixo ..." (Flugie et al, 2007, p. 3).</font></p>     <p><a name="fig12"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig12.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A produtividade do trabalho na agropecu&aacute;ria dos EUA cresceu a um ritmo maior, a uma taxa geom&eacute;trica anual de 3,7% no per&iacute;odo de 1970 a 2001, resultando em um crescimento acumulado de mais 200% no per&iacute;odo como um todo (<a href="#fig13">Figura 13</a>).</font></p>     ]]></body>
+<body><![CDATA[<p><a name="fig13"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04fig13.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Verifica-se que o crescimento da produtividade do trabalho foi sensivelmente maior que o crescimento da PTF (&iacute;ndice que inclui a produtividade do trabalho, da terra e do capital), implicando que a produtividade do capital e da terra, conjuntamente, cresceu menos que a produtividade total dos fatores como um todo. Este crescimento &eacute; resultado, possivelmente, do maior uso de m&aacute;quinas e de insumos, aliado a t&eacute;cnicas mais eficientes de produ&ccedil;&atilde;o, que potencializaram a efic&aacute;cia do trabalho.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>6.3 Produtividade no setor industrial</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Utilizam-se dados de produtividade do setor industrial como uma <i>proxy</i> da produtividade do setor n&atilde;o-agropecu&aacute;rio.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#fig14">Figura 14</a> apresenta a evolu&ccedil;&atilde;o da produtividade total dos fatores do setor industrial dos EUA para o per&iacute;odo de 1970 a 2001. A PTF industrial obteve um crescimento anual de 1,1% (taxa geom&eacute;trica de crescimento), resultando em um crescimento acumulado de 40% ao longo de todo o per&iacute;odo avaliado. Embora a produtividade do setor industrial tenha crescido no per&iacute;odo, a produtividade do setor agropecu&aacute;rio cresceu mais aceleradamente (2,2% a.a.).</font></p>     <p><a name="fig14"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n2/a04fig14.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Visto que a produtividade total dos fatores da agropecu&aacute;ria cresceu mais que a da atividade industrial no per&iacute;odo de 1970 a 2001, e que esta diferen&ccedil;a contribui para o crescimento da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB, resta acreditar que o comportamento decrescente dessa participa&ccedil;&atilde;o na economia dos EUA ocorre fundamentalmente por for&ccedil;a dos termos de troca, que reduziram significativamente no per&iacute;odo analisado, prejudicando o setor agropecu&aacute;rio. Assim, a pr&oacute;xima se&ccedil;&atilde;o destina-se a analisar econometricamente os determinantes da participa&ccedil;&atilde;o decrescente da agropecu&aacute;ria no PIB dos EUA, revelando a intensidade de cada vari&aacute;vel nesse processo.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>6.4 An&aacute;lise econom&eacute;trica</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O exame da <a href="#fig1">Figura 1</a> mostra que a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA decresceu de 1960 a 1970, aumentou de 1971 a 1973 e voltou a decrescer de 1973 a 2001. Para confirmar econometricamente essa "quebra" na tend&ecirc;ncia de 1971 a 1973, utiliza-se um modelo com vari&aacute;vel bin&aacute;ria baseado em Hoffmann e Vieira (1987) e Greene (2003). De acordo com este modelo, tem-se "quebra" de tend&ecirc;ncia se os coeficientes associados &agrave;s vari&aacute;veis bin&aacute;rias forem estatisticamente diferentes de zero. O modelo econom&eacute;trico &eacute;:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04exp06.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Onde:</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">P<sub>agr j </sub>= participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB no ano j (j variando de 1960 a 2001);    <br> </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = constante;     <br> K<sub>0</sub> = ano antes do in&iacute;cio da s&eacute;rie (K<sub>0</sub> = 1959);    ]]></body>
+<body><![CDATA[<br> K<sub>1</sub> = ano da primeira quebra (1970);    <br> K<sub>2 </sub>= ano da segunda quebra (1973);</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/resr/v46n2/a04expr.jpg" align="middle"> e;</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os dados utilizados para estimar as equa&ccedil;&otilde;es (5) e (6) encontram-se na <a href="#tab1">Tabela 1</a> (<a href="#anx">Anexo</a>).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O ajustamento econom&eacute;trico da equa&ccedil;&atilde;o (6) foi realizado pelo m&eacute;todo de M&iacute;nimos Quadrados Ordin&aacute;rios (MQO). O valor entre par&ecirc;nteses abaixo do coeficiente &eacute; a estat&iacute;stica "t" ("a" indica n&iacute;vel de signific&acirc;ncia inferior a 1% ).</font></p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04exp07.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Analisando a equa&ccedil;&atilde;o (7), verifica-se que o valor do teste "t" para os coeficientes de </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>2 </sub>e </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>3</sub> s&atilde;o, respectivamente, 5,19 e -6,16, enquanto o valor "t" cr&iacute;tico a 1% &eacute; de aproximadamente 2,86. Portanto, rejeitam-se as hip&oacute;teses H<sub>0</sub>: </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>2</sub> = 0 e H<sub>0</sub>: </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>3</sub> = 0 em favor da hip&oacute;tese alternativa, em que h&aacute; "quebra" de tend&ecirc;ncia nos anos de 1971 a 1973 para a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Verificada estatisticamente a "quebra" de tend&ecirc;ncia, decidiu-se por estimar a equa&ccedil;&atilde;o (5) para os anos de 1973 a 2001. Inicialmente, analisa-se se as s&eacute;ries de dados da <a href="#tab1">Tabela 1</a> s&atilde;o estacion&aacute;rias<a name="n4"></a><a href="#nt4"><sup>4</sup></a>.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dentre os procedimentos para determinar a ordem de integra&ccedil;&atilde;o de uma vari&aacute;vel (ou seja, o n&uacute;mero de ra&iacute;zes unit&aacute;rias) tem-se os de Fuller (1976), complementados pelos de Dickey &amp; Fuller (1979 e 1981). De acordo com Bacchi (2005), as estat&iacute;sticas  de Fuller (1976) correspondem ao teste t para a estimativa do coeficiente da vari&aacute;vel  da equa&ccedil;&atilde;o (8), respectivamente para os casos: (i) com constante e com tend&ecirc;ncia, (ii) apenas com constante, e (iii) sem tend&ecirc;ncia e sem constante. A seguinte equa&ccedil;&atilde;o deve ser estimada para esse teste:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04exp08.jpg"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">onde <img src="/img/revistas/resr/v46n2/a04simb07.jpg" align="middle">, sendo p a ordem do modelo auto-regressivo que descreve o comportamento da s&eacute;rie temporal. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os testes de AIC (AKAIKE Information Criterion) e SC (SCHWARZ Criterion) em uma vers&atilde;o uni-equacional podem ser utilizados para a determina&ccedil;&atilde;o do valor de p, de forma a se obter res&iacute;duos n&atilde;o correlacionados. Dickey &amp; Fuller (1979 e 1981) apresentam as distribui&ccedil;&otilde;es para as estat&iacute;sticas </font>&#964;<sub>&#945;&#956;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (H<sub>0</sub> : </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = 0 no modelo que corresponde &agrave; estat&iacute;stica </font>&#964;<sub>&#956;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">), </font>&#964;<sub>&#945;&#964;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (H<sub>0</sub> : </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = 0) e </font>&#964;<sub>&#946;&#964;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (H<sub>0</sub> : </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = 0). Os procedimentos propostos por Enders (2003) possibilitam a identifica&ccedil;&atilde;o do modelo adequado (incluindo ou n&atilde;o termos deterministas) para o teste de raiz unit&aacute;ria. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados apresentados na <a href="#tab2">Tabela 2</a> indicam que todas as s&eacute;ries n&atilde;o possuem raiz unit&aacute;ria, indicando que o modelo deve ser ajustado com as s&eacute;ries no n&iacute;vel, n&atilde;o sendo necess&aacute;rio, ent&atilde;o, realizar testes de co-integra&ccedil;&atilde;o.</font></p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04tab02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Considerando os resultados abaixo (<a href="#tab2">Tabela 2</a>) e buscando obter melhores resultados econom&eacute;tricos, 12 equa&ccedil;&otilde;es foram estimadas pelo m&eacute;todo dos M&iacute;nimos Quadrados Ordin&aacute;rios (MQO), as quais s&atilde;o: (1) vari&aacute;veis normais (dados observados); (2) vari&aacute;veis normais e aus&ecirc;ncia da vari&aacute;vel Pagr/Pind; (3) vari&aacute;veis normais e aus&ecirc;ncia das vari&aacute;veis Pagr/Pind e PTFind; (4) vari&aacute;veis normais e inclus&atilde;o da vari&aacute;vel PTFagr/PTFind e exclus&atilde;o da vari&aacute;vel Pagr/Pind; (5) vari&aacute;veis explicativas em LN e vari&aacute;vel dependente em valor observado e aus&ecirc;ncia da vari&aacute;vel Pagr/Pind; (6) vari&aacute;veis explicativas em LN e vari&aacute;vel dependente em valor observado, aus&ecirc;ncia da vari&aacute;vel PTFind e inclus&atilde;o da vari&aacute;vel dependente defasada de 1 per&iacute;odo como vari&aacute;vel explicativa; (7) vari&aacute;veis explicativas em LN e vari&aacute;vel dependente em valor observado e inclus&atilde;o das vari&aacute;veis PTFagr/PTFind (raz&atilde;o  das produtividades totais dos fatores nos setores agropecu&aacute;rio e industrial) e dependente defasada de 1 per&iacute;odo; (8) todas as vari&aacute;veis em LN, aus&ecirc;ncia das vari&aacute;veis Pagr/Pind e PTFind; (9) todas as vari&aacute;veis em LN, aus&ecirc;ncia das vari&aacute;veis Pagr/Pind e inclus&atilde;o da vari&aacute;vel dependente defasada de 1 per&iacute;odo como vari&aacute;vel explicativa; (10) todas as vari&aacute;veis em LN, aus&ecirc;ncia da vari&aacute;vel Pagr/Pind e inclus&atilde;o das vari&aacute;veis PTFagr/PTFind e dependente defasada de 1 per&iacute;odo como vari&aacute;vel explicativa; (11) vari&aacute;veis explicativas e defasada em LN e substitui&ccedil;&atilde;o da vari&aacute;vel Prec/Ppag pela vari&aacute;vel  Prec <sub>t</sub> / Ppag <sub>(t-1)</sub><a name="n5"></a><a href="#nt5"><sup>5</sup></a>; e (12) vari&aacute;veis explicativas e defasada em LN, exclus&atilde;o da vari&aacute;vel PTFind e substitui&ccedil;&atilde;o da vari&aacute;vel Prec/Ppag pela vari&aacute;vel  Prec <sub>t</sub> /Ppag <sub>(t-1)</sub>. Os resultados desses modelos encontram-se no <a href="#qd1">Quadro 1</a> (<a href="#anx">Anexo</a>)<a name="n6"></a><a href="#nt6"><sup>6</sup></a>.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Verifica-se que os modelos ajustados apresentam excelentes coeficientes de determina&ccedil;&atilde;o (R<sup>2</sup>) e F de alta signific&acirc;ncia estat&iacute;stica, revelando que as regress&otilde;es s&atilde;o estatisticamente significantes. Por&eacute;m, alguns modelos apresentam coeficientes com sinais contr&aacute;rios aos esperados pelo modelo de determina&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB (equa&ccedil;&atilde;o (5) do item 5.1). Isto ocorre principalmente para os coeficientes das produtividades, que, em muitos casos, apresentam-se negativos para PTFagr e positivo para PTFind. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Analisando-se os &iacute;ndices de produtividade total dos fatores na agropecu&aacute;ria e na ind&uacute;stria, verificou-se alto &iacute;ndice de correla&ccedil;&atilde;o entre eles (0,934), o que sugeriu a exclus&atilde;o da PTFind em alguns modelos ou a substitui&ccedil;&atilde;o de PTFagr e PTFind pela raz&atilde;o dos &iacute;ndices (PTFagr/PTFind). Esta &uacute;ltima, no entanto, n&atilde;o foi estatisticamente significativa nas regress&otilde;es em que foi inclu&iacute;da. As raz&otilde;es de pre&ccedil;os recebidos/pre&ccedil;os pagos e pre&ccedil;os agropecu&aacute;rios/pre&ccedil;os industriais tamb&eacute;m apresentaram alta correla&ccedil;&atilde;o entre si no per&iacute;odo de 1973 a 2001 (0,987), sugerindo tamb&eacute;m a retirada da vari&aacute;vel Pagr/Pind da estima&ccedil;&atilde;o (do modelo 2 em diante). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A estat&iacute;stica DW (Durbin-Watson), em alguns casos, tamb&eacute;m se apresentou em n&iacute;veis que revelam auto-correla&ccedil;&atilde;o positiva entre os res&iacute;duos da regress&atilde;o ou regi&atilde;o inconclusiva, revelando que certos modelos n&atilde;o se mostraram adequados para tal estima&ccedil;&atilde;o. Para solucionar este problema, incorporou-se em alguns modelos a vari&aacute;vel dependente defasada como sendo uma vari&aacute;vel explicativa.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os modelos que apresentam a vari&aacute;vel Prec <sub>t</sub> / Ppag <sub>(t-1)</sub> n&atilde;o apresentaram bons n&iacute;veis de signific&acirc;ncia estat&iacute;stica, al&eacute;m de seus sinais serem ao contr&aacute;rio do esperado pelo modelo te&oacute;rico. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Do ponto de vista econom&eacute;trico, a melhor equa&ccedil;&atilde;o estimada foi o modelo 6 (reproduzido abaixo). A equa&ccedil;&atilde;o como um todo apresenta n&iacute;vel de signific&acirc;ncia excelente e todos os coeficientes apresentam n&iacute;vel de signific&acirc;ncia abaixo de 5%, al&eacute;m dos sinais serem os esperados teoricamente pelo modelo de determina&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O valor entre par&ecirc;nteses abaixo do coeficiente &eacute; a estat&iacute;stica "t" ("a" indica n&iacute;vel de signific&acirc;ncia inferior a 1% e "b" indica n&iacute;vel de signific&acirc;ncia inferior a 5%). Abaixo da estat&iacute;stica "t" &eacute; apresentada a elasticidade da vari&aacute;vel Pagr em rela&ccedil;&atilde;o &agrave; cada vari&aacute;vel explicativa. Essas elasticidades foram calculadas com base no valor m&eacute;dio da vari&aacute;vel dependente<a name="n7"></a><a href="#nt7"><sup>7</sup></a>.</font></p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04exp09.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Considerando as elasticidades, as principais vari&aacute;veis determinantes da Pagr s&atilde;o (em ordem decrescente): Prec/Ppag, Pagr <sub>t-1</sub> e PTFagr.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os modelos 7, 9 e 10 tamb&eacute;m se mostraram excelentes quanto &agrave; signific&acirc;ncia do teste F e dos coeficientes referentes &agrave; vari&aacute;vel Prec/Ppag, cujos sinais tamb&eacute;m se apresentaram de acordo com o modelo cont&aacute;bil de Bacha e Rocha (1998). Por&eacute;m, embora os coeficientes das vari&aacute;veis PTFagr, PTFind e PTFagr/PTFind (quando presentes no modelo) desses modelos tenham apresentado os sinais esperados, possuem baixa signific&acirc;ncia estat&iacute;stica.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>7. Considera&ccedil;&otilde;es finais</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Acompanhando a tend&ecirc;ncia mundial, os EUA t&ecirc;m apresentado o comportamento decrescente da participa&ccedil;&atilde;o da agropecu&aacute;ria na composi&ccedil;&atilde;o do PIB e na gera&ccedil;&atilde;o do emprego no pa&iacute;s.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As raz&otilde;es (pre&ccedil;os recebidos versus pre&ccedil;os pagos) e (pre&ccedil;os agropecu&aacute;rios versus pre&ccedil;os industriais) evolu&iacute;ram de forma desfavor&aacute;vel &agrave; atividade agropecu&aacute;ria no per&iacute;odo de 1970 a 2001. N&atilde;o obstante, a produ&ccedil;&atilde;o de cereais nos EUA passou de 187 milh&otilde;es de toneladas em 1970 para 325,5 milh&otilde;es de toneladas em 2001, crescimento obtido essencialmente pelo aumento da produtividade por hectare, uma vez que a &aacute;rea plantada com cereais reduziu-se a partir de 1982. A produ&ccedil;&atilde;o de carnes tamb&eacute;m cresceu sensivelmente no per&iacute;odo de 1970 a 2001, passando de menos de 20 milh&otilde;es de toneladas para mais de 37 milh&otilde;es de toneladas no final do per&iacute;odo, com destaque para o desempenho da produ&ccedil;&atilde;o de carne de aves. O crescimento apresentado pela pecu&aacute;ria tamb&eacute;m se deve, em parte, ao crescimento da produtividade total dos fatores da atividade.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tamb&eacute;m foi verificado o crescimento dos subs&iacute;dios governamentais anualmente concedidos aos produtores agropecu&aacute;rios, principalmente a partir de meados da d&eacute;cada de 1990, o que estimulou os produtores a expandirem a produ&ccedil;&atilde;o, pois esses subs&iacute;dios favorecem os produtores a adotarem tecnologias modernas e, consequentemente, aumentar a produtividade dos fatores. A PTF na agropecu&aacute;ria dos EUA cresceu 2,2% a.a. no per&iacute;odo de 1970 a 2001.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A produtividade total dos fatores no setor industrial tamb&eacute;m cresceu no per&iacute;odo de 1970 a 2001 (1,1% a.a.), por&eacute;m em menor intensidade que o crescimento ocorrido na agropecu&aacute;ria.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os dados de participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA de 1960 a 2001 revelaram estatisticamente uma "quebra" de tend&ecirc;ncia de 1971 a 1973, motivo que influenciou a realiza&ccedil;&atilde;o das estima&ccedil;&otilde;es econom&eacute;tricas apenas para o per&iacute;odo de 1973 a 2001.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo econom&eacute;trico ajustado com os valores das vari&aacute;veis explicativas e defasada de um per&iacute;odo em LN (vari&aacute;vel dependente em valor observado, ou seja, modelo semi-LN) e aus&ecirc;ncia das vari&aacute;veis pre&ccedil;os relativos agropecu&aacute;rios/pre&ccedil;os industriais e produtividade total dos fatores no setor industrial (PTFind) apresentou os melhores resultados estat&iacute;sticos, apresentando bons n&iacute;veis de signific&acirc;ncia e os sinais dos coeficientes de acordo com os esperados pelo modelo cont&aacute;bil de determina&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB. A regress&atilde;o apontou a perda em termos de pre&ccedil;os recebidos versus pre&ccedil;os pagos como o fator de maior contribui&ccedil;&atilde;o para a redu&ccedil;&atilde;o da participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB dos EUA.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>8. Refer&ecirc;ncias</b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AHUMADA, J. <b>Teoria y programaci&oacute;n del desarrolo economico.</b> Santiago: Ilpes, 1967. 62 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000220&pid=S0103-2003200800020000400001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALEXANDRATOS, N. <b>World food and agriculture:</b> outlook for the medium and longer term. Proceedings of the National Academy of Sciences, USA. v. 96, p. 5908-6914, Maio 1999. Dispon&iacute;vel em: &lt;<a href="http://www.pnas.org/cgi/content/full/96/11/5908" target="_blank">http://www.pnas.org/cgi/content/full/96/11/5908</a>&gt;. Acesso em: 4 out. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000222&pid=S0103-2003200800020000400002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALVES, A.F. <b>Contribui&ccedil;&atilde;o da agricultura ao crescimento econ&ocirc;mico:</b> o excedente financeiro de 1980 a 1998. Piracicaba, ESALQ/USP, 2000. 127 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000224&pid=S0103-2003200800020000400003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ARA&Uacute;JO, P.F.C. Agricultura no processo de desenvolvimento econ&ocirc;mico. In: ARA&Uacute;JO, P.F.C.; SCHUH, G. E. <b>Desenvolvimento da agricultura.</b> S&atilde;o Paulo: Editora Pioneira, 1975. v. 1, p. 83-97.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000226&pid=S0103-2003200800020000400004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ARA&Uacute;JO, P.F.C.; SCHUH, G.E. Desenvolvimento econ&ocirc;mico e agricultura. In: BARROS,  G.S; AMARAL, C.M.; ARA&Uacute;JO, P.F.C. de; SCHUH, G.E.. <b>Fundamentos de economia agr&iacute;cola.</b> Piracicaba: FEALQ, fev. 1988, p. 227-277.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000228&pid=S0103-2003200800020000400005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BACHA, C.J.C. <b>Economia e pol&iacute;tica agr&iacute;cola no Brasil.</b> S&atilde;o Paulo: Atlas, 2004. 226 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000230&pid=S0103-2003200800020000400006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BACHA, C.J.C.; ROCHA, M.T. O comportamento da agropecu&aacute;ria brasileira no per&iacute;odo de 1987 a 1996. <b>Revista de Economia e Sociologia Rural</b>, Bras&iacute;lia. v. 36, n. 1, p. 35-59, jan./mar. 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000232&pid=S0103-2003200800020000400007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BACCHI, M. R. P. Forma&ccedil;&atilde;o de pre&ccedil;os no setor sucroalcooleiro da Regi&atilde;o Centro-Sul do Brasil: rela&ccedil;&atilde;o com o mercado de combust&iacute;vel f&oacute;ssil.  In: Encontro Nacional de Economia, 33, 2005.  <b>Anais...</b>  Associa&ccedil;&atilde;o Nacional de Centros de P&oacute;s-Gradua&ccedil;&atilde;o em Economia, 2005, 1 CD-ROM.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000234&pid=S0103-2003200800020000400008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARROS, A.L.M. de. <b>Capital, produtividade e crescimento da agricultura:</b> o Brasil de 1970 a 1995. 1999, 149 p. Tese (Doutorado em Ci&ecirc;ncias Econ&ocirc;micas) - Escola Superior de Agricultura "Luiz de Queiroz", Universidade de S&atilde;o Paulo, Piracicaba, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000236&pid=S0103-2003200800020000400009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BONELLI, R. <b>Produtividade total dos fatores (PTF) e o produto potencial da economia brasileira:</b> uma nota. S&atilde;o Paulo, IPEA. 2001. 2 p. (Boletim Conjuntural, 53) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000238&pid=S0103-2003200800020000400010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BONELLI, R. <b>Industrializa&ccedil;&atilde;o e desenvolvimento:</b> notas e conjecturas com foco na experi&ecirc;ncia do Brasil. Dispon&iacute;vel em: &lt;<a href="http://www.ecostrat.com.br" target="_blank">http://www.ecostrat.com.br</a>&gt;. Acesso em: 10 dez. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000239&pid=S0103-2003200800020000400011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BRUGNARO, R.; BACHA, C.J.C.. <b>Analysis of increased participation of agriculture in the Brazilian GDP from 1994 a 2004.</b> In: CONGRESS OF THE EUROPEAN REGIONAL SCIENCE ASSOCIATION, 46., 2006. Congress programme, Volos: ERSA. Paper n. 758, p.19. Dispon&iacute;vel em: &lt;<a href="http://www.ersa.org" target="_blank">http://www.ersa.org</a>&gt;. Acesso em: 14 set. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000241&pid=S0103-2003200800020000400012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BUREAU OF LABOR STATISTICS - BLS. Dispon&iacute;vel em: &lt;<a href="http://www.bls.gov" target="_blank">http://www.bls.gov</a>.&gt; Acesso em: 27 jun. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000243&pid=S0103-2003200800020000400013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DICKEY, D.A.; FULLER, W.A. Distribution of the estimator for auto-regressive time series with a unit root. <b>Journal of the American Statistical Association</b>, v. 74, p. 427-431, 1979.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000245&pid=S0103-2003200800020000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DICKEY, D.A.; FULLER, W.A. Likelihood ratio statistics for auto-regressive time series  with a unit root. <b>Econometrica</b>, v. 49, p. 1057-1072, 1981.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000247&pid=S0103-2003200800020000400015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ENDERS. W. <b>Applied Econometric Time Series.</b> 2nd ed. New Jersey: John Wiley &amp; Sons, 2003. 480p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000249&pid=S0103-2003200800020000400016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ERS <b>Agricultural Income and Finance Situation and Outlook</b>, Economic Research Service, U.S. Department of Agriculture. Dispon&iacute;vel em <a href="http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1254" target="_blank">http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1254</a> (acessado em 24/09/07).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000251&pid=S0103-2003200800020000400017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FUGLIE, K.O.; MAcDONALD, J.M.; BALL, E. <b>Productivity Growth in U.S. Agriculture</b>, United States Department of Agriculture, Economic Research Service, Economic Brief number 9, setembro de 2007 (dispon&iacute;vel em <a href="http://www.ers.usda.gov/publications/EB9/eb9.pdf" target="_blank">http://www.ers.usda.gov/publications/EB9/eb9.pdf</a>, acessado em 19/09/07).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000253&pid=S0103-2003200800020000400018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FULLER, W.A. <b>Introduction to statistical time series.</b> New York: John Wiley &amp; Sons, 1976. 480p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000255&pid=S0103-2003200800020000400019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FURTUOSO, M.C.O.;    GUILHOTO, J.J.M. Estimativa e mensura&ccedil;&atilde;o do produto interno bruto    do agroneg&oacute;cio, 1994 a 2000. <b>Revista de Economia e Sociologia Rural</b>,    Bras&iacute;lia, v. 41, n. 4, p. 803-827, out./dez. 2003. Dispon&iacute;vel    em: &lt;<a href="http://www.scielo.br">http://www.scielo.br</a>&gt;. Acesso    em: 10 dez. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000257&pid=S0103-2003200800020000400020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GASQUES, J.G.; BASTOS, E.T.; BACCHI, M.R.P.; CONCEI&Ccedil;&Atilde;O, J.C.P.R. da. <b>Condicionantes da produtividade da agropecu&aacute;ria brasileira.</b> Bras&iacute;lia: IPEA, 2004. 31 p. (Texto para discuss&atilde;o, 1017).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000259&pid=S0103-2003200800020000400021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GOLLIN, D.; PARENTE, S.; ROGERSON, R. <b>The role of agriculture in development.</b> Washington, USDA. 2000. Dispon&iacute;vel em: &lt;<a href="http://www.nass.usda.gov" target="_blank">http://www.nass.usda.gov</a>&gt;. Acesso em: 20 mar. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000261&pid=S0103-2003200800020000400022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GREENE, W.H. <b>Econometric Analysis</b>, 5. ed. Upper Saddle River: Prentice Hall, 2003. 1026 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000263&pid=S0103-2003200800020000400023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GUILHOTO, J.J.M. Regional importance of the agribusiness in the brazilian economy.  In: CONGRESS OF THE EUROPEAN REGIONAL SCIENCE ASSOCIATION, 44., Porto. 2004. 1 CD-ROM.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000265&pid=S0103-2003200800020000400024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HOFFMANN, R.; VIEIRA, S. <b>An&aacute;lise de regress&atilde;o, uma introdu&ccedil;&atilde;o &agrave; econometria.</b> S&atilde;o Paulo: HUCITEC, 1987. 378 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000267&pid=S0103-2003200800020000400025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ORGANIZA&Ccedil;&Atilde;O PARA COOPERA&Ccedil;&Atilde;O ECON&Ocirc;MICA E DESENVOLVIMENTO - Producer Support Stimate, 2006. Dispon&iacute;vel em: &lt;<a href="http://www.oecd.org" target="_blank">http://www.oecd.org</a>&gt;. Acesso em: 20 jun. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000269&pid=S0103-2003200800020000400026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">REGUNAGA, M. <b>Issues in agricultural trade:</b> the Am&eacute;ricas. Dispon&iacute;vel em: &lt;<a href="http://www.agritrade.org" target="_blank">http://www.agritrade.org</a>&gt;. Acesso em: 18 nov. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000271&pid=S0103-2003200800020000400027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ROSSI J&Uacute;NIOR, J.L.; FERREIRA, P.C. <b>Evolu&ccedil;&atilde;o da produtividade industrial brasileira e abertura comercial.</b> Rio de Janeiro: IPEA, 1999, 31 p. (Texto para discuss&atilde;o, 651).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000273&pid=S0103-2003200800020000400028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">RUTTAN, V.W. Productivity Growth in World Agriculture: Sources and Constraints In <b>Journal of Economic Perspectives</b>, vol. 16, n&uacute;mero 4, p. 161 a 184, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000275&pid=S0103-2003200800020000400029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SCHUH, G.E. A agricultura no Brasil: pol&iacute;tica, moderniza&ccedil;&atilde;o e desenvolvimento econ&ocirc;mico. <b>Revista de Pol&iacute;tica Agr&iacute;cola</b>, Bras&iacute;lia, v. 6, n. 2, p. 15-21, abr./maio/jun. 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000277&pid=S0103-2003200800020000400030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SCHULTZ, T.W. The declining economic importance of agricultural land. <b>The Economic Journal</b>, London, v. 61, n. 244, p. 725-740, dez. 1951. Dispon&iacute;vel em: &lt;<a href="http://www.jstor.org" target="_blank">http://www.jstor.org</a>&gt;. Acesso em: 15 nov. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000279&pid=S0103-2003200800020000400031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">STERN, N. <b>Growth theories, old and new, and the role of agriculture in economic development.</b> London: Suntory-Toyota International Centre for Economic and Related Disciplines/London School of Economics, 1994. 148 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000281&pid=S0103-2003200800020000400032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">UNITED STATES DEPARTMENT OF AGRICULTURE - USDA. <b>Sistema NASS.</b> Dispon&iacute;vel em: &lt;<a href="http://www.nass.usda.gov" target="_blank">http://www.nass.usda.gov</a>&gt;. Acesso em: 25 mai. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000283&pid=S0103-2003200800020000400033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">WESTCOTT, P.C.; PRICE, J.M. <b>Analysis of the U.S commodity loan program with marketing loan.</b> Washington, USDA. 2001. 22 p (Agricultural Economic Report n. 801). Dispon&iacute;vel em: &lt;<a href="http://www.usda.gov" target="_blank">http://www.usda.gov</a>&gt;. Acesso em: 16 jun. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000285&pid=S0103-2003200800020000400034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">WOLD BANK. <b>World development indicators.</b> 2000. CD-ROM</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000287&pid=S0103-2003200800020000400035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">WOLD BANK. <b>World development indicators.</b> 2005. CD-ROM</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000288&pid=S0103-2003200800020000400036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="n1"></a><a href="#fig1">1</a> De acordo com a disponibilidade de dados, a participa&ccedil;&atilde;o da agropecu&aacute;ria no PIB &eacute; apresentada para per&iacute;odos menores.     <br>     <a name="nt2"></a><a href="#n2">2</a> SYRQUIN, M. Patterns of structural change. In: CHENERY, H.; SRINIVASAN, T.N. <b>Handbook of development economics</b>. Amsterdan: Elsevier Science Publishers, 1988.    ]]></body>
+<body><![CDATA[<br>     <a name="nt3"></a><a href="#n3">3</a> A taxa geom&eacute;trica de crescimento &eacute; definida como: <b>TGC =  e<sup>b</sup> - 1</b>, onde <b>b</b> &eacute; o coeficiente da regress&atilde;o <b>Y = a + b ln t</b> (em que Y &eacute; a vari&aacute;vel avaliada e t &eacute; o tempo).    <br>     <a name="nt4"></a><a href="#n4">4</a> Os autores agradecem a ajuda recebida da Profa. Dra. Mirian Rumenos Piedade Bacchi na elabora&ccedil;&atilde;o da an&aacute;lise de co-integra&ccedil;&atilde;o.    <br>     <a name="nt5"></a><a href="#n5">5</a> Em fun&ccedil;&atilde;o dos produtores agropecu&aacute;rios receberem a produ&ccedil;&atilde;o no per&iacute;odo t (pre&ccedil;os recebidos) e adquirirem os insumos no per&iacute;odo (t-1) (pre&ccedil;os pagos).    <br>     <a name="nt6"></a><a href="#n6">6</a> Na presen&ccedil;a de vari&aacute;vel dependente defasada como explicativa faz-se uso do teste <i>h</i> de Durbin, definido pela seguinte f&oacute;rmula: <img src="/img/revistas/resr/v46n2/a04form01.jpg" align="middle" > onde <i>d</i> &eacute; a estat&iacute;stica Durbin-Watson,<i> n</i> &eacute; o n&uacute;mero de observa&ccedil;&otilde;es e var <img src="/img/revistas/resr/v46n2/a04simb08.jpg" align="absmiddle"> &eacute; a vari&acirc;ncia do coeficiente da vari&aacute;vel defasada. Como o denominador da raiz pode ser um n&uacute;mero negativo, em alguns casos a estat&iacute;stica h Durbin torna-se incalcul&aacute;vel.    <br>     <a name="nt7"></a><a href="#n7">7</a> Alternativamente, pode-se calcular as elasticidades considerando o valor ano a ano da vari&aacute;vel dependente. Assim, surgem elasticidades ponto a ponto. Os valores das elasticidades de Pagr em rela&ccedil;&atilde;o a Prec/Ppag, PTFagr e Pagr <sub>t-1 </sub> calculadas como a m&eacute;dia das elasticidades ponto a ponto s&atilde;o, respectivamente, 0,9972, 0,8446 e 0,8948. Observa-se que esses novos valores n&atilde;o alteram a ordem de import&acirc;ncia das vari&aacute;veis explicativas em rela&ccedil;&atilde;o aos valores das elasticidades mostradas na equa&ccedil;&atilde;o (8).    <br>     <a name="n8"></a><a href="#qd1">8</a> Os modelos 5, 6, 7, 11 e 12 utilizam a vari&aacute;vel dependente em valor observado. No caso de haver a vari&aacute;vel dependente defasada como explicativa, esta se encontra em LN.</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b><a name="anx"></a>Anexo</b></font></p>     <p><a name="tab1"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04tab01.jpg" ></p>     <p>&nbsp;</p>     <p><a name="qd1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a04qd01.jpg" border="0" usemap="#Map2"> <map name="Map2"><area shape="rect" coords="334,15,341,25" href="#n8"> </map></p>     <p>&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AHUMADA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Teoria y programación del desarrolo economico]]></source>
+<year>1967</year>
+<publisher-loc><![CDATA[Santiago ]]></publisher-loc>
+<publisher-name><![CDATA[Ilpes]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALEXANDRATOS]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[World food and agriculture: outlook for the medium and longer term]]></article-title>
+<source><![CDATA[Proceedings of the National Academy of Sciences]]></source>
+<year>Maio</year>
+<month> 1</month>
+<day>99</day>
+<volume>96</volume>
+<page-range>5908-6914</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[A.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Contribuição da agricultura ao crescimento econômico: o excedente financeiro de 1980 a 1998]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+<publisher-name><![CDATA[ESALQ/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARAÚJO]]></surname>
+<given-names><![CDATA[P.F.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Agricultura no processo de desenvolvimento econômico]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[ARAÚJO]]></surname>
+<given-names><![CDATA[P.F.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHUH]]></surname>
+<given-names><![CDATA[G. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desenvolvimento da agricultura]]></source>
+<year>1975</year>
+<volume>1</volume>
+<page-range>83-97</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Pioneira]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARAÚJO]]></surname>
+<given-names><![CDATA[P.F.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHUH]]></surname>
+<given-names><![CDATA[G.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Desenvolvimento econômico e agricultura]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G.S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AMARAL]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ARAÚJO]]></surname>
+<given-names><![CDATA[P.F.C. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHUH]]></surname>
+<given-names><![CDATA[G.E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fundamentos de economia agrícola]]></source>
+<year>fev.</year>
+<month> 1</month>
+<day>98</day>
+<page-range>227-277</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+<publisher-name><![CDATA[FEALQ]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C.J.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia e política agrícola no Brasil]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Atlas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C.J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROCHA]]></surname>
+<given-names><![CDATA[M.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O comportamento da agropecuária brasileira no período de 1987 a 1996]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jan.</year>
+<month>/m</month>
+<day>ar</day>
+<volume>36</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>35-59</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M. R. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Formação de preços no setor sucroalcooleiro da Região Centro-Sul do Brasil: relação com o mercado de combustível fóssil]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year>2005</year>
+<conf-name><![CDATA[33 Encontro Nacional de Economia]]></conf-name>
+<conf-date>2005</conf-date>
+<conf-loc> </conf-loc>
+<publisher-name><![CDATA[Associação Nacional de Centros de Pós-Graduação em Economia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[A.L.M. de.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Capital, produtividade e crescimento da agricultura: o Brasil de 1970 a 1995]]></source>
+<year>1999</year>
+<page-range>149</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BONELLI]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Produtividade total dos fatores (PTF) e o produto potencial da economia brasileira: uma nota]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BONELLI]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Industrialização e desenvolvimento: notas e conjecturas com foco na experiência do Brasil]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRUGNARO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C.J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Analysis of increased participation of agriculture in the Brazilian GDP from 1994 a 2004]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[46 CONGRESS OF THE EUROPEAN REGIONAL SCIENCE ASSOCIATION]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc> </conf-loc>
+<page-range>19</page-range><publisher-loc><![CDATA[Volos ]]></publisher-loc>
+<publisher-name><![CDATA[ERSA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<collab>BUREAU OF LABOR STATISTICS</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Distribution of the estimator for auto-regressive time series with a unit root]]></article-title>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>1979</year>
+<volume>74</volume>
+<page-range>427-431</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Likelihood ratio statistics for auto-regressive time series with a unit root]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1981</year>
+<volume>49</volume>
+<page-range>1057-1072</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENDERS]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied Econometric Time Series]]></source>
+<year>2003</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[New Jersey ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<collab>Agricultural Income and Finance Situation and Outlook^dEconomic Research Service, U.S. Department of Agriculture</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FUGLIE]]></surname>
+<given-names><![CDATA[K.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MAcDONALD]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BALL]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Productivity Growth in U.S. Agriculture]]></source>
+<year>sete</year>
+<month>mb</month>
+<day>ro</day>
+<publisher-name><![CDATA[United States Department of Agriculture, Economic Research Service]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to statistical time series]]></source>
+<year>1976</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FURTUOSO]]></surname>
+<given-names><![CDATA[M.C.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUILHOTO]]></surname>
+<given-names><![CDATA[J.J.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estimativa e mensuração do produto interno bruto do agronegócio, 1994 a 2000]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year></year>
+<volume>41</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>803-827</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BASTOS]]></surname>
+<given-names><![CDATA[E.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M.R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CONCEIÇÃO]]></surname>
+<given-names><![CDATA[J.C.P.R. da.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Condicionantes da produtividade da agropecuária brasileira]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLLIN]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARENTE]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROGERSON]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The role of agriculture in development]]></source>
+<year>2000</year>
+<month>20</month>
+<day> m</day>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[USDA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENE]]></surname>
+<given-names><![CDATA[W.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric Analysis]]></source>
+<year>2003</year>
+<edition>5</edition>
+<publisher-loc><![CDATA[Upper Saddle River ]]></publisher-loc>
+<publisher-name><![CDATA[Prentice Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUILHOTO]]></surname>
+<given-names><![CDATA[J.J.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Regional importance of the agribusiness in the brazilian economy]]></article-title>
+<source><![CDATA[]]></source>
+<year>2004</year>
+<conf-name><![CDATA[44 CONGRESS OF THE EUROPEAN REGIONAL SCIENCE ASSOCIATION]]></conf-name>
+<conf-loc>Porto </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFFMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de regressão, uma introdução à econometria]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[HUCITEC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<collab>ORGANIZAÇÃO PARA COOPERAÇÃO ECONÔMICA E DESENVOLVIMENTO</collab>
+<source><![CDATA[Producer Support Stimate]]></source>
+<year>2006</year>
+<month>20</month>
+<day> j</day>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REGUNAGA]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Issues in agricultural trade: the Américas]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSSI JÚNIOR]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[P.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Evolução da produtividade industrial brasileira e abertura comercial]]></source>
+<year>1999</year>
+<page-range>31</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUTTAN]]></surname>
+<given-names><![CDATA[V.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Productivity Growth in World Agriculture: Sources and Constraints]]></article-title>
+<source><![CDATA[Journal of Economic Perspectives]]></source>
+<year>2002</year>
+<volume>16</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>161 a 184</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHUH]]></surname>
+<given-names><![CDATA[G.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A agricultura no Brasil: política, modernização e desenvolvimento econômico]]></article-title>
+<source><![CDATA[Revista de Política Agrícola]]></source>
+<year>abr.</year>
+<month>/m</month>
+<day>ai</day>
+<volume>6</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>15-21</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHULTZ]]></surname>
+<given-names><![CDATA[T.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The declining economic importance of agricultural land]]></article-title>
+<source><![CDATA[The Economic Journal]]></source>
+<year>dez.</year>
+<month> 1</month>
+<day>95</day>
+<volume>61</volume>
+<numero>244</numero>
+<issue>244</issue>
+<page-range>725-740</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STERN]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Growth theories, old and new, and the role of agriculture in economic development]]></source>
+<year>1994</year>
+<page-range>148</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Suntory-Toyota International Centre for Economic and Related DisciplinesLondon School of Economics]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="">
+<collab>UNITED STATES DEPARTMENT OF AGRICULTURE</collab>
+<source><![CDATA[Sistema NASS]]></source>
+<year>25 m</year>
+<month>ai</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WESTCOTT]]></surname>
+<given-names><![CDATA[P.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PRICE]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Analysis of the U.S commodity loan program with marketing loan]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[USDA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="">
+<collab>WOLD BANK</collab>
+<source><![CDATA[World development indicators]]></source>
+<year>2000</year>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="">
+<collab>WOLD BANK</collab>
+<source><![CDATA[World development indicators]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

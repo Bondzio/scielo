@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032010000200001</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032010000200001</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[A incorporação de corredores de conectividade no manejo de florestas industriais utilizando a heurística da RazãoR]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Moreira]]></surname>
+<given-names><![CDATA[José Mauro Magalhães Ávila Paz]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rodriguez]]></surname>
+<given-names><![CDATA[Luiz Carlos Estraviz]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Embrapa Cerrados  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2010</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2010</year>
+</pub-date>
+<volume>48</volume>
+<numero>2</numero>
+<fpage>255</fpage>
+<lpage>282</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032010000200001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032010000200001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032010000200001&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Modelos de planejamento florestal com restrições espaciais resultam em problemas matemáticos combinatoriais de difícil resolução. O procedimento mais apropriado, neste caso, é desenvolver métodos heurísticos, em vez das técnicas tradicionais de programação linear. O objetivo deste trabalho é aplicar, aprimorar e avaliar o desempenho da heurística denominada RazaoR (NOBRE e RODRIGUEZ, 2005), desenvolvido para a solução de problemas de planejamento florestal formulados integralmente com variáveis binárias e de acordo com o modelo Tipo I (JOHNSON e SCHEURMAN, 1977 apud CLUTTER et al., 1992, p. 281). O método incorpora restrições espaciais de conectividade entre os fragmentos de vegetação nativa adjacentes às florestas de produção. O déficit de conectividade das soluções foi avaliado a partir de um algoritmo recursivo baseado na Teoria de Grafos e em técnicas de programação dinâmica. Como estudo de caso, utilizou-se uma fazenda de uma empresa de celulose do estado de São Paulo. A heurística foi eficaz e eficiente no número de iterações necessárias para encontrar medidas viáveis para o problema, mostrando-se ineficiente apenas no tempo computacional exigido. Os valores da função objetivo das soluções encontradas variaram de 99,71% a 99,83% do valor da solução ótima, com uma média de 48 iterações.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Planning models that connect natural forests through corridors formed by industrial forests result in combinatorial mathematical problems that are difficult to solve and demand special techniques. The main objective of this paper is to apply, improve and evaluate the performance of a heuristic method named R-ratio (NOBRE and RODRIGUEZ, 2005), developed to solve forest planning problems that consider exclusively binary variables and are formulated as a model Type I harvest scheduling problem (JOHNSON and SCHEURMAN, 1977 apud CLUTTER et al., 1992, p. 281). The solution's connectivity deficit was evaluated by a recursive algorithm based on the Graph Theory and dynamic programming techniques. A farm of industrial forest that supplies round wood to a pulp wood company in the State of São Paulo was used as a study case. The method was effective in creating feasible solutions after a few number of interactions, showing inefficiency only in the computational time required. The objective function values of the solutions provided by the heuristic vary from 99.71% to 99.83% of the optimal solution found by a mixed integer linear programming, with an average of 48 interactions.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[heurísticas]]></kwd>
+<kwd lng="pt"><![CDATA[RazaoR]]></kwd>
+<kwd lng="pt"><![CDATA[manejo florestal otimizado]]></kwd>
+<kwd lng="pt"><![CDATA[corredores de conectividade]]></kwd>
+<kwd lng="pt"><![CDATA[programação dinâmica]]></kwd>
+<kwd lng="en"><![CDATA[heuristics]]></kwd>
+<kwd lng="en"><![CDATA[R-ratio]]></kwd>
+<kwd lng="en"><![CDATA[optimized forest management]]></kwd>
+<kwd lng="en"><![CDATA[connectivity corridors]]></kwd>
+<kwd lng="en"><![CDATA[dynamic programming]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><a name="top"></a><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>A    incorpora&ccedil;&atilde;o de corredores de conectividade no manejo de florestas    industriais utilizando a heur&iacute;stica da <i>Raz&atilde;oR</i></b> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Jos&eacute;    Mauro Magalh&atilde;es &Aacute;vila Paz Moreira<sup>I</sup>; Luiz Carlos Estraviz    Rodriguez<sup>II, <a href="#back1">1</a></sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Doutor    em Economia Aplicada, Pesquisador da Embrapa Cerrados. E-mail: <a href="mailto:jose.moreira@cpac.embrapa.br">jose.moreira@cpac.embrapa.br</a>,    <a href="mailto:josemauropaz@gmail.com">josemauropaz@gmail.com</a>    <br>   <sup>II</sup>Ph.D. Forest Management and Biometrics, Professor da Universidade    de S&atilde;o Paulo, Escola Superior de Agricultura Luiz de Queiroz. E-mail:    <a href="mailto:lcer@usp.br">lcer@usp.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Modelos de planejamento    florestal com restri&ccedil;&otilde;es espaciais resultam em problemas matem&aacute;ticos    combinatoriais de dif&iacute;cil resolu&ccedil;&atilde;o. O procedimento mais    apropriado, neste caso, &eacute; desenvolver m&eacute;todos heur&iacute;sticos,    em vez das t&eacute;cnicas tradicionais de programa&ccedil;&atilde;o linear.    O objetivo deste trabalho &eacute; aplicar, aprimorar e avaliar o desempenho    da heur&iacute;stica denominada <i>RazaoR</i> (NOBRE e RODRIGUEZ, 2005), desenvolvido    para a solu&ccedil;&atilde;o de problemas de planejamento florestal formulados    integralmente com vari&aacute;veis bin&aacute;rias e de acordo com o modelo    Tipo I (JOHNSON e SCHEURMAN, 1977 <i>apud</i> CLUTTER et al., 1992, p. 281).    O m&eacute;todo incorpora restri&ccedil;&otilde;es espaciais de conectividade    entre os fragmentos de vegeta&ccedil;&atilde;o nativa adjacentes &agrave;s florestas    de produ&ccedil;&atilde;o. O d&eacute;ficit de conectividade das solu&ccedil;&otilde;es    foi avaliado a partir de um algoritmo recursivo baseado na Teoria de Grafos    e em t&eacute;cnicas de programa&ccedil;&atilde;o din&acirc;mica. Como estudo    de caso, utilizou-se uma fazenda de uma empresa de celulose do estado de S&atilde;o    Paulo. A heur&iacute;stica foi eficaz e eficiente no n&uacute;mero de itera&ccedil;&otilde;es    necess&aacute;rias para encontrar medidas vi&aacute;veis para o problema, mostrando-se    ineficiente apenas no tempo computacional exigido. Os valores da fun&ccedil;&atilde;o    objetivo das solu&ccedil;&otilde;es encontradas variaram de 99,71% a 99,83%    do valor da solu&ccedil;&atilde;o &oacute;tima, com uma m&eacute;dia de 48 itera&ccedil;&otilde;es.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chave:    </b> heur&iacute;sticas, <i>RazaoR</i>, manejo florestal otimizado, corredores    de conectividade, programa&ccedil;&atilde;o din&acirc;mica.</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Planning models    that connect natural forests through corridors formed by industrial forests    result in combinatorial mathematical problems that are difficult to solve and    demand special techniques. The main objective of this paper is to apply, improve    and evaluate the performance of a heuristic method named <i>R-ratio</i> (NOBRE    and RODRIGUEZ, 2005), developed to solve forest planning problems that consider    exclusively binary variables and are formulated as a model Type I harvest scheduling    problem (JOHNSON and SCHEURMAN, 1977 apud CLUTTER et al., 1992, p. 281). The    solution's connectivity deficit was evaluated by a recursive algorithm based    on the Graph Theory and dynamic programming techniques. A farm of industrial    forest that supplies round wood to a pulp wood company in the State of S&atilde;o    Paulo was used as a study case. The method was effective in creating feasible    solutions after a few number of interactions, showing inefficiency only in the    computational time required. The objective function values of the solutions    provided by the heuristic vary from 99.71% to 99.83% of the optimal solution    found by a mixed integer linear programming, with an average of 48 interactions.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key-words:</b>    heuristics, <i>R-ratio</i>, optimized forest management, connectivity corridors,    dynamic programming.    <br>   <b>Classifica&ccedil;&atilde;o JEL:</b> Q2, Q23.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As florestas sempre    desempenharam papel fundamental na hist&oacute;ria da humanidade, dada a sua    capacidade de manter a qualidade do ambiente e de, ao mesmo tempo, ofertar uma    gama de produtos e servi&ccedil;os de vital import&acirc;ncia para a sociedade    (GARCIA e BORTOLETTO J&Uacute;NIOR, 2005). Tal reconhecimento cresceu a partir    do final do s&eacute;culo XX, sendo cada vez maior a cobran&ccedil;a para que    o setor produtivo utilize t&eacute;cnicas de baixo impacto ambiental, aliando    a produ&ccedil;&atilde;o de bens e servi&ccedil;os &agrave; conserva&ccedil;&atilde;o    da biodiversidade.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Atender a essa    requisi&ccedil;&atilde;o &eacute; o grande desafio, uma vez que a demanda por    recursos naturais cresceu com o aumento significativo da popula&ccedil;&atilde;o    mundial (MEYER e TURNER, 1994), sendo necess&aacute;rio o uso de modernas t&eacute;cnicas    para auxiliar os gestores florestais na sua tomada de decis&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A considera&ccedil;&atilde;o    de quest&otilde;es ambientais e sociais nos crit&eacute;rios que norteiam o    manejo florestal sustent&aacute;vel tem sido observada nas organiza&ccedil;&otilde;es    brasileiras desde os anos 90, inclusive em empresas florestais do ramo de papel    e celulose (AUGUSTI et al., 2005).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A incorpora&ccedil;&atilde;o    de restri&ccedil;&otilde;es ambientais, em especial aquelas envolvendo o manejo    do espa&ccedil;o e da paisagem, tem se constitu&iacute;do em um dos campos de    fronteira do conhecimento da pesquisa internacional na &aacute;rea de otimiza&ccedil;&atilde;o    do planejamento do manejo sustentado de florestas. O problema abordado mais    frequentemente nesses estudos &eacute; a limita&ccedil;&atilde;o da &aacute;rea    m&aacute;xima cont&iacute;nua de corte<a name="top2"></a><a href="#back2"><sup>2</sup></a>    por per&iacute;odo do horizonte de planejamento, que j&aacute; se constituiu    em norma de manejo sustent&aacute;vel para a Associa&ccedil;&atilde;o dos Produtores    de Papel e Celulose dos pa&iacute;ses da Am&eacute;rica do Norte (AMERICAN FOREST    AND PAPER ASSOCIATION, 2005). Outro ponto &eacute; a escolha de &aacute;reas    para compor corredores de conectividade<a name="top3"></a><a href="#back3"><sup>3</sup></a>    entre fragmentos da paisagem. O problema de conectividade &eacute; conhecido    por resultar em modelos de otimiza&ccedil;&atilde;o da paisagem mais complexos    (MARTELL, GUNN e WEINTRAUB, 1998).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O estabelecimento    de corredores de conectividade entre fragmentos separados constitui-se em uma    importante estrat&eacute;gia para permitir o aumento da popula&ccedil;&atilde;o    vi&aacute;vel, facilitar o fluxo gen&eacute;tico e conservar ambientes naturais.    Isso porque possibilita a recoloniza&ccedil;&atilde;o dos fragmentos com popula&ccedil;&otilde;es    de tamanho reduzido, aumentando as chances de sobreviv&ecirc;ncia de v&aacute;rias    esp&eacute;cies, al&eacute;m de reduzir a press&atilde;o do entorno sobre as    &aacute;reas protegidas (ARRUDA, 2004; FONSECA et al., 2004).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A fragmenta&ccedil;&atilde;o    do habitat consiste na remo&ccedil;&atilde;o parcial de vegeta&ccedil;&atilde;o    nativa para a instala&ccedil;&atilde;o de agricultura, pecu&aacute;ria ou outras    atividades humanas, isolando as popula&ccedil;&otilde;es da fauna e flora. Embora    sejam mantidos fragmentos esparsos de vegeta&ccedil;&atilde;o nativa, dependendo    da &aacute;rea e da esp&eacute;cie em quest&atilde;o pode n&atilde;o haver recursos    naturais suficientes para garantir a sobreviv&ecirc;ncia no longo prazo de uma    popula&ccedil;&atilde;o com determinado n&uacute;mero de indiv&iacute;duos e    variabilidade gen&eacute;tica. Essa &eacute; a segunda principal causa do aumento    da taxa de extin&ccedil;&atilde;o das esp&eacute;cies observada a partir do    s&eacute;culo XX (PRIMACK e RODRIGUES, 2001).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A fragmenta&ccedil;&atilde;o    reflete em perda de biodiversidade por tr&ecirc;s motivos principais. Al&eacute;m    de limitar o potencial de uma esp&eacute;cie para dispers&atilde;o e coloniza&ccedil;&atilde;o,    reduz a disponibilidade de alimento e outros recursos provindos das &aacute;reas    naturais aos animais nativos, devido &agrave; diminui&ccedil;&atilde;o de &aacute;rea.    Essa descontinuidade pode, ainda, dividir popula&ccedil;&otilde;es em larga    escala em duas ou mais subpopula&ccedil;&otilde;es isoladas, as quais sofrer&atilde;o    uma perda de variabilidade gen&eacute;tica, tornando-se mais suscept&iacute;veis    &agrave; extin&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ao ligar fragmentos    isolados por meio de corredores de conectividade, permite-se que indiv&iacute;duos    de uma mesma esp&eacute;cie, pertencentes a popula&ccedil;&otilde;es de fragmentos    diferentes, possam interagir, construindo a chamada metapopula&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Hess (1994) define    metapopula&ccedil;&atilde;o como "um conjunto de popula&ccedil;&otilde;es distribu&iacute;das    por um n&uacute;mero de fragmentos que s&atilde;o conectados, em graus vari&aacute;veis,    por movimentos de dispers&atilde;o". A din&acirc;mica da metapopula&ccedil;&atilde;o    depende da din&acirc;mica das popula&ccedil;&otilde;es dentro dos fragmentos    e da din&acirc;mica das popula&ccedil;&otilde;es entre os fragmentos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Embora nem sempre    o corredor de conectividade resulte em um maior fluxo gen&eacute;tico das popula&ccedil;&otilde;es    que habitam os fragmentos conectados (HORSKHINS, MATHER e WILSON, 2006) - uma    vez que esse depende tamb&eacute;m do comportamento das esp&eacute;cies -, existe    certo consenso no meio cient&iacute;fico que a sua implanta&ccedil;&atilde;o    eleva a viabilidade das popula&ccedil;&otilde;es residentes (BEIER e NOOS, 1998).    Assim, o estabelecimento de corredores emerge como uma condi&ccedil;&atilde;o    necess&aacute;ria, mas n&atilde;o suficiente para o aumento da viabilidade das    popula&ccedil;&otilde;es presentes em fragmentos de vegeta&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De modo geral,    problemas de otimiza&ccedil;&atilde;o do manejo sustentado de florestas que    consideram quest&otilde;es espaciais apresentam natureza combinatorial, resultando    em modelos de dif&iacute;cil resolu&ccedil;&atilde;o. Para isso, diversos m&eacute;todos    t&ecirc;m sido testados pela comunidade cient&iacute;fica internacional.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Alguns autores    sugerem algoritmos como a programa&ccedil;&atilde;o din&acirc;mica (HOGANSON    e BORGES, 1998; BORGES e HOGANSON, 1999), o algoritmo gerador de colunas<a name="top4"></a><a href="#back4"><sup>4</sup></a>    (WEINTRAUB, BARAHONA e EPSTEIN, 1994), ou, ainda, formula&ccedil;&otilde;es    de modelos de programa&ccedil;&atilde;o linear inteira mista (PLIM) (CERDEIRA    et al., 2005; GOYCOOLEA et al., 2005; MCDILL e BRAZE, 2000, 2001; MCDILL, REBAIN    e BRAZE, 2002; REBAIN e MCDILL, 2003; &Ouml;NAL e BRIERS, 2005; WILLIAMS, 1998).</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">McDill e Braze    (2001) afirmam que formula&ccedil;&otilde;es de PLIM deveriam ser prefer&iacute;veis,    tendo em vista que s&atilde;o mais generalistas e podem ser solucionadas por    softwares comerciais que utilizam os algoritmos <i>branch and bound</i> (BBA)<a name="top5"></a><a href="#back5"><sup>5</sup></a>    e <i>cutting plane</i>. Tais programas est&atilde;o em constante evolu&ccedil;&atilde;o,    com vers&otilde;es mais elaboradas sendo disponibilizadas no mercado, permitindo    a resolu&ccedil;&atilde;o de quest&otilde;es cada vez mais complexas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em problemas de    manejo florestal de tamanho real, contudo, geralmente a dimens&atilde;o das    matrizes de dados e o n&uacute;mero de vari&aacute;veis inteiras ultrapassam    a capacidade atual de resolu&ccedil;&atilde;o dos softwares comerciais em um    tempo aceit&aacute;vel, o que leva outra parcela de autores a optar por m&eacute;todos    heur&iacute;sticos. Mesmo sem uma solu&ccedil;&atilde;o &oacute;tima, esses    m&eacute;todos garantem uma redu&ccedil;&atilde;o expressiva do tempo computacional    necess&aacute;rio para a resolu&ccedil;&atilde;o de modelos com restri&ccedil;&otilde;es    espaciais em escala real.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De acordo com Hillier    e Lieberman (2005), a heur&iacute;stica &eacute; um procedimento desenvolvido    para descobrir uma solu&ccedil;&atilde;o vi&aacute;vel, mas n&atilde;o necessariamente    &oacute;tima, do problema considerado. Geralmente, constitui-se de um algoritmo    iterativo, no qual, a cada itera&ccedil;&atilde;o, &eacute; realizada a busca    por uma nova solu&ccedil;&atilde;o que seja melhor que a anteriormente sugerida.    O algoritmo &eacute; encerrado ap&oacute;s um determinado n&uacute;mero de itera&ccedil;&otilde;es,    e a melhor solu&ccedil;&atilde;o obtida &eacute; apresentada.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As abordagens mais    utilizadas para solucionar problemas de planejamento do manejo de florestas    com restri&ccedil;&otilde;es espaciais envolvem heur&iacute;sticas desenvolvidas    pelos pr&oacute;prios autores (CERDEIRA et al., 2005; FALC&Atilde;O e BORGES,    2002; LOEHLE, 1999; MURRAY, 1999; SESSIONS, 1992), heur&iacute;sticas de uso    comum em outras &aacute;reas, como a Busca Tabu<a name="top6"></a><a href="#back6"><sup>6</sup></a>    (CARO et al., 2003), "simulated annealing" (LOCKWOOD e MOORE, 1993; &Ouml;HMAN,    2000; &Ouml;HMAN e ERIKSSON, 1998), e, ainda, um misto de programa&ccedil;&atilde;o    linear e "simulated annealing" (&Ouml;HMAN e ERIKSSON, 2002).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A resolu&ccedil;&atilde;o    de problemas envolvendo corredores entre fragmentos florestais, por meio de    m&eacute;todos heur&iacute;sticos, foi abordada nos trabalhos de Sessions (1992),    Loehle (1999), Cerdeira et al. (2005) e Fuller e Sarkar (2006).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sessions (1992)    modelou a conectividade como um problema de rede, com as &aacute;reas chaves    de habitat que deveriam ser preservadas sendo previamente designadas como um    corredor e as unidades necess&aacute;rias para conectar essas &aacute;reas sendo    escolhidas a partir de uma rede Steiner<a name="top7"></a><a href="#back7"><sup>7</sup></a>.    Minimiza-se, portanto, a perda de madeira n&atilde;o colhida nas &aacute;reas    designadas para compor o corredor.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Loehle (1999) prop&ocirc;s    um algoritmo baseado na dispers&atilde;o e no reconhecimento de odores, para    encontrar o caminho mais curto ao conectar fragmentos isolados na paisagem.    O algoritmo mostrou-se eficiente e eficaz n&atilde;o somente para ligar esses    fragmentos como tamb&eacute;m para alterar o formato e aumentar a sua &aacute;rea    interior.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cerdeira et al.    (2005) aplicaram uma heur&iacute;stica em tr&ecirc;s est&aacute;gios para encontrar    uma rede conectada na paisagem, contendo todas as esp&eacute;cies e minimizando    o n&uacute;mero de fragmentos. Os autores inseriram a conectividade como parte    das restri&ccedil;&otilde;es do problema e consideraram apenas solu&ccedil;&otilde;es    vi&aacute;veis no seu algoritmo. A heur&iacute;stica apresentou-se eficaz e    eficiente, apontando solu&ccedil;&otilde;es vi&aacute;veis muito pr&oacute;ximas    da solu&ccedil;&atilde;o &oacute;tima e com um esfor&ccedil;o computacional    inferior a um minuto, enquanto a solu&ccedil;&atilde;o &oacute;tima obtida pelo    BBA levou mais de 11 horas para ser obtida.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Fuller e Sarkar    (2006) desenvolveram um software para an&aacute;lise e implanta&ccedil;&atilde;o    de corredores de conectividade entre &aacute;reas de conserva&ccedil;&atilde;o,    visando &agrave; maior qualidade ambiental ou menor &aacute;rea. A conectividade    entre os fragmentos foi representada como um grafo, e os autores utilizaram    um algoritmo para encontrar as menores &aacute;rvores que abrangessem todos    os n&oacute;s (fragmentos). O algoritmo mostrou-se capaz de lidar com problemas    de conex&atilde;o de &aacute;reas a serem conservadas bem maiores que os m&eacute;todos    tradicionalmente usados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os trabalhos citados    anteriormente buscaram minimizar o custo da incorpora&ccedil;&atilde;o de conectividade    ou maximizar a qualidade ambiental do corredor a ser estabelecido. No entanto,    a literatura ainda encontra-se carente de estudos que mantenham os objetivos    tradicionais do planejamento de manejo florestal, como a maximiza&ccedil;&atilde;o    dos lucros ou da produ&ccedil;&atilde;o, incorporando a forma&ccedil;&atilde;o    de corredores de conectividade.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Rodriguez (1994)    desenvolveu um novo processo heur&iacute;stico para lidar com os problemas de    manejo florestal com vari&aacute;veis inteiras em larga escala, representado    pelo Modelo Tipo I (JOHNSON e SCHEURMAN, 1977 <i>apud</i> CLUTTER et al., 1992,    p. 281) e denominado heur&iacute;stica da <i>RazaoR</i> (NOBRE e RODRIGUEZ,    2005). Essa heur&iacute;stica foi aprimorada no trabalho de Nobre (1999), tanto    no aspecto de sua l&oacute;gica como na sua implanta&ccedil;&atilde;o computacional,    mostrando-se um m&eacute;todo promissor para resolu&ccedil;&atilde;o de problemas    de manejo de florestas com vari&aacute;veis inteiras.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A l&oacute;gica    que guia o processo de busca de novas solu&ccedil;&otilde;es na heur&iacute;stica    da <i>RazaoR</i> baseia-se na escolha da alternativa que apresente o menor custo    unit&aacute;rio para a obten&ccedil;&atilde;o das metas de produ&ccedil;&atilde;o    - ou seja, a op&ccedil;&atilde;o com a menor queda no valor da fun&ccedil;&atilde;o    objetivo por unidade reduzida no d&eacute;ficit de produ&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A heur&iacute;stica    da <i>RazaoR</i> se inicia com a solu&ccedil;&atilde;o de maior valor da fun&ccedil;&atilde;o    objetivo que pode ser obtido para o problema, escolhendo o regime de manejo    de maior valor da fun&ccedil;&atilde;o objetivo para cada unidade de manejo,    sem se preocupar com o atendimento das metas (restri&ccedil;&otilde;es) de produ&ccedil;&atilde;o.    Em seguida, as vari&aacute;veis de decis&atilde;o (representadas pelos regimes    de manejo) s&atilde;o separadas em tr&ecirc;s grupos distintos: as selecionadas    (que constituem a base), as n&atilde;o-selecionadas e as descartadas. O pr&oacute;ximo    passo &eacute; a an&aacute;lise da vizinhan&ccedil;a da solu&ccedil;&atilde;o    atual, realizada pela substitui&ccedil;&atilde;o, para cada unidade de manejo,    de um regime de manejo pertencente ao grupo das vari&aacute;veis n&atilde;o-selecionadas,    pelo regime de manejo associado &agrave; unidade de manejo selecionada que se    encontra na base da solu&ccedil;&atilde;o. Avalia-se, ent&atilde;o, a redu&ccedil;&atilde;o    no Valor Total do Projeto (VTP) e no d&eacute;ficit em rela&ccedil;&atilde;o    &agrave;s metas impostas pelas restri&ccedil;&otilde;es (metas de produ&ccedil;&atilde;o    anual). Posteriormente, estabelece-se uma raz&atilde;o entre a redu&ccedil;&atilde;o    do d&eacute;ficit e a diminui&ccedil;&atilde;o do VTP, sendo esta a <i>RazaoR</i>    que guiar&aacute; a busca. O processo &eacute; repetido para cada regime de    manejo n&atilde;o-selecionado, para cada unidade de manejo do problema, de modo    a criar a vizinhan&ccedil;a da solu&ccedil;&atilde;o contida na base. Ent&atilde;o,    a heur&iacute;stica seleciona o regime de manejo associado a uma unidade de    manejo que apresenta a maior <i>RazaoR</i> para entrar na base, inserindo-a    no grupo das selecionadas, em substitui&ccedil;&atilde;o ao regime de manejo    anteriormente escolhido, o qual ser&aacute; destinado para o grupo das vari&aacute;veis    descartadas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para melhorar e    diversificar o processo de busca, a heur&iacute;stica visita o grupo das solu&ccedil;&otilde;es    descartadas periodicamente, com base em dois par&acirc;metros: alfa (itera&ccedil;&atilde;o    na qual o grupo das descartadas &eacute; visitado pela primeira vez) e beta    (n&uacute;mero de itera&ccedil;&otilde;es em que a visita se repete). A heur&iacute;stica    procede dessa forma at&eacute; encontrar uma solu&ccedil;&atilde;o com d&eacute;ficit    zero, ou ultrapassar o n&uacute;mero m&aacute;ximo de itera&ccedil;&otilde;es    definido pelo usu&aacute;rio, ou, ainda, sem ter como continuar o processo de    busca.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Caso a heur&iacute;stica    encontre uma solu&ccedil;&atilde;o com d&eacute;ficit zero, inicia-se, ent&atilde;o,    um novo processo chamado Fase Verde, no qual todas as vari&aacute;veis fora    da base s&atilde;o avaliadas a cada itera&ccedil;&atilde;o, sendo consideradas    aquelas que mant&ecirc;m o d&eacute;ficit zero e aumentam o VTP, e escolhida    a que proporciona o maior aumento do VTP. A Fase Verde termina quando n&atilde;o    &eacute; encontrada nenhuma vari&aacute;vel que, ao entrar na base, mantenha    o d&eacute;ficit igual a zero e aumente o VTP, sendo esta a solu&ccedil;&atilde;o    final apresentada pela heur&iacute;stica. Uma descri&ccedil;&atilde;o detalhada    do funcionamento da heur&iacute;stica da <i>RazaoR</i>, bem como uma avalia&ccedil;&atilde;o    do seu processo de busca &agrave; luz dos conceitos da intelig&ecirc;ncia artificial,    est&aacute; dispon&iacute;vel nos estudos de Rodriguez (1994), Nobre (1999)    e Nobre e Rodriguez (2005).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O desafio proposto    neste trabalho consiste em sugerir os ajustes necess&aacute;rios para que a    heur&iacute;stica da <i>RazaoR</i> possa lidar com o planejamento do manejo    de florestas equi&acirc;neas considerando as metas anuais de produ&ccedil;&atilde;o    em conjunto com a necessidade de se garantir corredores de conectividade entre    fragmentos de vegeta&ccedil;&atilde;o nativa adjacentes a essas florestas. Para    isso, ser&aacute; necess&aacute;rio o desenvolvimento de um m&eacute;todo para    mensurar o d&eacute;ficit de conectividade das solu&ccedil;&otilde;es, bem como    a sua inser&ccedil;&atilde;o no algoritmo da heur&iacute;stica.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. Material    e M&eacute;todos</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><b>2.1. Fonte    de dados</b></i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O estudo de caso    deste trabalho considera uma fazenda pertencente a uma empresa de celulose e    papel do estado de S&atilde;o Paulo, que ser&aacute; chamada de Fazenda Empresarial.    A fazenda possui 6.262 hectares, sendo 1.571 ha ocupados com vegeta&ccedil;&atilde;o    nativa, 4.419 ha com plantios de eucalipto e 272 ha com &aacute;reas de outros    usos. A distribui&ccedil;&atilde;o da &aacute;rea por classes de idade e por    rota&ccedil;&atilde;o atual dos plantios de eucalipto pode ser observada na    <a href="#f1">Figura 1a</a>; a <a href="#f1">Figura 1b</a> apresenta a curva    m&eacute;dia de produ&ccedil;&atilde;o esperada, de madeira de celulose, dos    talh&otilde;es da fazenda em primeira e segunda rota&ccedil;&otilde;es.</font></p>     ]]></body>
+<body><![CDATA[<p><a name="f1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f01.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O mapa da Fazenda    Empresarial, com a localiza&ccedil;&atilde;o das unidades de manejo, dos fragmentos    de floresta nativa e das &aacute;reas de outros usos, bem como os caminhos utilizados    para a forma&ccedil;&atilde;o dos poss&iacute;veis corredores, pode ser observado    na <a href="#f2">Figura 2</a>.</font></p>     <p><a name="f2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f02.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O planejamento    da produ&ccedil;&atilde;o foi feito considerando um produto (madeira para celulose),    com custo de oportunidade do capital de 10% ao ano. O pre&ccedil;o da madeira    de eucalipto em p&eacute; foi extra&iacute;do do Informativo Cepea - Setor Florestal    (2006), de R$ 39,00/st em p&eacute;, valor que, dividido pelo fator de empilhamento    de 0,7 m&sup3;/st, resulta em R$ 55,71/ m&sup3;. As idades m&iacute;nima e m&aacute;xima    para o corte da floresta foram de seis e nove anos, respectivamente. O horizonte    de planejamento foi de 18 anos, com produ&ccedil;&atilde;o m&iacute;nima anual    de madeira para celulose, de 180.000 m&sup3; e a m&aacute;xima, de 250.000 m&sup3;.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os regimes de manejo    foram elaborados com duas rota&ccedil;&otilde;es por ciclo de produ&ccedil;&atilde;o,    havendo altern&acirc;ncia entre ciclos dentro de um mesmo regime. O resultado    foram 143 regimes de manejo para cada unidade de manejo, em m&eacute;dia, totalizando    13.012 vari&aacute;veis bin&aacute;rias a serem consideradas na heur&iacute;stica,    sendo quatro dessas para a incorpora&ccedil;&atilde;o dos fragmentos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Escolheu-se o Fragmento    1 como unidade de origem para a forma&ccedil;&atilde;o do corredor, devido &agrave;    sua localiza&ccedil;&atilde;o mais centralizada. Os demais fragmentos foram    designados como unidades de destino, e as unidades de manejo foram definidas    como unidades de passagem.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em acordo com os    t&eacute;cnicos da empresa, decidiu-se por considerar a idade do plantio como    a caracter&iacute;stica que permitir&aacute; a escolha das unidades de manejo    para compor o corredor em um determinado per&iacute;odo - foi estipulada idade    maior ou igual a tr&ecirc;s anos para tornar a unidade de manejo apta a fazer    parte do corredor.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><b>2.2. M&eacute;todo    proposto para avalia&ccedil;&atilde;o do d&eacute;ficit de conectividade</b></i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O m&eacute;todo    proposto utiliza um algoritmo recursivo apresentado no texto de Maurer e Ralston    (2004), muito aplicado na teoria dos grafos para resolu&ccedil;&atilde;o de    problemas de programa&ccedil;&atilde;o din&acirc;mica (WINSTON, 2004) e de programa&ccedil;&atilde;o    em redes (HILLIER e LIEBERMAN, 2005). A f&oacute;rmula para calcular o d&eacute;ficit    de conectividade de cada unidade de manejo &eacute; apresentada na equa&ccedil;&atilde;o    (1).</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src="/img/revistas/resr/v48n2/01x01.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que:</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">I,K referem-se    &agrave;s unidades de manejo (UM); J aos regime de manejo (RM); t aos per&iacute;odos    do horizonte de planejamento; F<sub>I</sub> representa o conjunto das UM&acute;s    de manejo que possuem arcos entrando na UM<sub>I</sub>; Def<sub>It</sub> acumula    o d&eacute;ficit de conectividade, em hectares, do talh&atilde;o I no per&iacute;odo    t; b<sub>IJt</sub> refere-se ao par&acirc;metro refletindo a condi&ccedil;&atilde;o    da UM<sub>I</sub>, submetido ao RM<sub>J</sub>, no per&iacute;odo t.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ao proceder com    o c&aacute;lculo do d&eacute;ficit de conectividade (em hectares) de cada UM,    a vari&aacute;vel Def<sub>It</sub> adiciona ao d&eacute;ficit da UM<sub>I</sub>    o menor d&eacute;ficit acumulado nas UM's que apresentam arcos terminados na    UM<sub>I</sub>. Desse modo, quando calculado, o d&eacute;ficit de conectividade    dos fragmentos de destino (2 a 4) representar&aacute; o d&eacute;ficit de conectividade    do caminho composto, entre o Fragmento de origem e o Fragmento de destino em    quest&atilde;o, pelas UM&acute;s que apresentam a menor &aacute;rea poss&iacute;vel    com UM&acute;s que n&atilde;o estariam aptas a fazer parte do corredor.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O par&acirc;metro    b<sub>IJt</sub> assume valores zero para UM&acute;s que possam fazer parte do    corredor no per&iacute;odo t, um para UM&acute;s que n&atilde;o possam fazer    parte do corredor e n&atilde;o estejam sendo colhidas no per&iacute;odo t, e    dez para UM&acute;s que estejam sendo colhidas no per&iacute;odo t. O objetivo    de penalizar as UM&acute;s em colheita &eacute; n&atilde;o consider&aacute;-las    no c&aacute;lculo do d&eacute;ficit de conectividade, uma vez que tais atividades    desestimulam fortemente o tr&acirc;nsito da fauna nessa UM durante a sua realiza&ccedil;&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2.3. Modelo    utilizado para o c&aacute;lculo da heur&iacute;stica</i></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As equa&ccedil;&otilde;es    a seguir s&atilde;o necess&aacute;rias para o processo de c&aacute;lculo da    heur&iacute;stica.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src="/img/revistas/resr/v48n2/01x02a04.jpg" align="absmiddle"></font></p>     <p align="center"><img src="/img/revistas/resr/v48n2/01x05a15.jpg" align="absmiddle"> </p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que <i>i</i>    representa o conjunto das Unidades de Manejo (UM); <i>j,k</i>, os regimes de    manejo (RM); <i>t</i> os per&iacute;odos do horizonte de planejamento; <i>S</i>    o conjunto dos RM da solu&ccedil;&atilde;o selecionada a cada itera&ccedil;&atilde;o;    <i>G</i> o conjunto dos RM pertencentes &agrave;s vari&aacute;veis do grupo    avaliado na itera&ccedil;&atilde;o, podendo ser das n&atilde;o-selecionadas    ou das descartadas; <i>E</i> o conjunto dos Fragmentos de destino dos corredores    de conectividade; <i>A<sub>i</sub></i> a &aacute;rea da unidade de manejo <i>i</i>;    <i>D<sub>ij</sub></i> a contribui&ccedil;&atilde;o para a fun&ccedil;&atilde;o    objetivo caso a unidade de manejo <i>i</i> seja associada ao Regime de Manejo    <i>j</i>; <i>x<sub>ij</sub></i> a vari&aacute;vel bin&aacute;ria que representa    a escolha do RM <i>j</i> para a UM <i>i</i>; <i>v<sub>ijt</sub></i> representa    a produ&ccedil;&atilde;o de madeira da unidade de manejo <i>i</i> no per&iacute;odo    <i>t</i> quando associada ao Regime de Manejo <i>j</i>; <i>VTP</i> o valor total    do projeto da solu&ccedil;&atilde;o selecionada; <i>VTPAval</i> o valor total    do projeto de cada solu&ccedil;&atilde;o avaliada; <i>Prod<sub>t</sub></i> o    volume produzido pela solu&ccedil;&atilde;o selecionada no per&iacute;odo <i>t</i>;    <i>ProdAval<sub>t</sub></i> o volume produzido pela solu&ccedil;&atilde;o avaliada    no per&iacute;odo <i>t</i>; <i>DefP<sub>t</sub></i> o d&eacute;ficit de produ&ccedil;&atilde;o    no per&iacute;odo <i>t</i> resultante da solu&ccedil;&atilde;o selecionada;    <i>Teto<sub>t</sub></i> representa a quantidade m&aacute;xima de madeira a ser    produzida no per&iacute;odo <i>t</i>; <i>Piso<sub>t</sub></i> a quantidade m&iacute;nima    de madeira a ser produzida no per&iacute;odo <i>t</i>; <i>DefPAval<sub>t</sub></i>    o d&eacute;ficit de produ&ccedil;&atilde;o no per&iacute;odo <i>t</i> resultante    de cada solu&ccedil;&atilde;o avaliada; <i>DefProd</i> o d&eacute;ficit total    de produ&ccedil;&atilde;o da solu&ccedil;&atilde;o selecionada; <i>DefProdAval</i>    o d&eacute;ficit total de produ&ccedil;&atilde;o de cada solu&ccedil;&atilde;o    avaliada; <i>DefC<sub>Et</sub></i> o d&eacute;ficit de conectividade acumulado    em cada fragmento de destino, no per&iacute;odo <i>t</i>, pela solu&ccedil;&atilde;o    selecionada; DefCAval<sub>Et</sub> o d&eacute;ficit de conectividade acumulado    em cada fragmento de destino, no per&iacute;odo t, por cada solu&ccedil;&atilde;o    avaliada; <i>DefConec</i> o d&eacute;ficit total de conectividade (em hectares)    da solu&ccedil;&atilde;o selecionada; <i>DefConecAval</i> o d&eacute;ficit total    de conectividade (em hectares) de cada solu&ccedil;&atilde;o avaliada; </font><font size="2">&#916;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>VTP</i>    a varia&ccedil;&atilde;o no valor total do projeto caso a solu&ccedil;&atilde;o    avaliada seja escolhida como a pr&oacute;xima solu&ccedil;&atilde;o selecionada;    <i>PesoConec</i> o par&acirc;metro que serve para ponderar o valor do d&eacute;ficit    de conectividade em rela&ccedil;&atilde;o ao d&eacute;ficit de produ&ccedil;&atilde;o;    </font><font size="2">&#916;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Deficit</i>    a varia&ccedil;&atilde;o no valor total do d&eacute;ficit em rela&ccedil;&atilde;o    &agrave;s metas impostas pelas restri&ccedil;&otilde;es, caso a solu&ccedil;&atilde;o    avaliada seja escolhida como a pr&oacute;xima solu&ccedil;&atilde;o selecionada;    <i>SemMelhora</i> &eacute; o par&acirc;metro inserido pelo usu&aacute;rio para    que as solu&ccedil;&otilde;es avaliadas que correspondam &agrave; quarta condi&ccedil;&atilde;o    do c&aacute;lculo da <i>RazaoR</i> assumam <b>-</b> esse &eacute; um valor de    refer&ecirc;ncia que serve como regra de parada da heur&iacute;stica, assim    como o n&uacute;mero m&aacute;ximo de itera&ccedil;&otilde;es; <i>Pond</i> representa    o par&acirc;metro de pondera&ccedil;&atilde;o; <i>DefTotal<sub>Ini</sub></i>    o d&eacute;ficit total calculado para a solu&ccedil;&atilde;o inicial do problema;    <i>VTP<sub>Ini</sub></i> o Valor Total do Projeto para a solu&ccedil;&atilde;o    inicial do problema; <i>RazaoR</i> a vari&aacute;vel que guia o processo de    escolha da heur&iacute;stica na busca de boas solu&ccedil;&otilde;es vi&aacute;veis;    e <i>NºIt</i> o n&uacute;mero de itera&ccedil;&otilde;es efetuadas durante a    busca.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As equa&ccedil;&otilde;es    (2) e (3) calculam o valor total do projeto da atual sele&ccedil;&atilde;o escolhida    e da sele&ccedil;&atilde;o candidata a cada itera&ccedil;&atilde;o, respectivamente.    As equa&ccedil;&otilde;es de (4) a (11) exercem o papel de avaliar o grau de    n&atilde;o viabilidade das solu&ccedil;&otilde;es selecionadas e avaliadas em    rela&ccedil;&atilde;o &agrave;s metas impostas pelas restri&ccedil;&otilde;es.    Vale salientar que, enquanto as equa&ccedil;&otilde;es (8) e (10) n&atilde;o    atinjam valor zero, a heur&iacute;stica procede em sua busca em todo o espa&ccedil;o    de solu&ccedil;&otilde;es, tanto as vi&aacute;veis como as invi&aacute;veis.    Quando uma solu&ccedil;&atilde;o que zera essas duas equa&ccedil;&otilde;es    &eacute; selecionada, a heur&iacute;stica inicia o processo de busca denominado    Fase Verde, o qual restringe o espa&ccedil;o de solu&ccedil;&otilde;es avaliadas    &agrave;quelas que sejam vi&aacute;veis. A equa&ccedil;&atilde;o (15) &eacute;    a fun&ccedil;&atilde;o de avalia&ccedil;&atilde;o que guia o processo de busca    da heur&iacute;stica, a qual procede com a busca, escolhendo sempre a vari&aacute;vel    avaliada com o maior valor da <i>RazaoR</i> para entrar na base e passar acompor    o grupo das selecionadas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nobre (1999) ressalta    que a <i>RazaoR</i> realiza sempre igual caminho de busca para um mesmo conjunto    de par&acirc;metros alfa e beta, retornando sempre &agrave; mesma solu&ccedil;&atilde;o.    Uma maneira sistem&aacute;tica de fazer a heur&iacute;stica investigar diferentes    caminhos, chegando a solu&ccedil;&otilde;es distintas, &eacute; alterar, de    forma organizada, o valor dos par&acirc;metros alfa e beta.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nessa nova formula&ccedil;&atilde;o,    torna-se necess&aacute;ria a inser&ccedil;&atilde;o de um par&acirc;metro para    ponderar as diferentes restri&ccedil;&otilde;es impostas ao problema, as metas    de produ&ccedil;&atilde;o e a conectividade. Este seria um terceiro par&acirc;metro    a influenciar a rota de busca da heur&iacute;stica. Al&eacute;m disso, a equa&ccedil;&atilde;o    (15) foi modificada em rela&ccedil;&atilde;o &agrave; fun&ccedil;&atilde;o original    apresentada por Rodriguez (1994) e Nobre (1999), especificamente na forma de    avalia&ccedil;&atilde;o para alternativas que registrem aumento no d&eacute;ficit    de produ&ccedil;&atilde;o e no VTP. A l&oacute;gica de guia para a escolha da    melhor <i>RazaoR</i> baseia-se na sele&ccedil;&atilde;o da alternativa que,    proporcionalmente, reduza ao m&aacute;ximo o valor do d&eacute;ficit com o menor    custo, avaliado em termos de redu&ccedil;&atilde;o da fun&ccedil;&atilde;o objetivo,    neste caso o VTP.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A terceira condi&ccedil;&atilde;o    de c&aacute;lculo da RazaoR, apresentada pela equa&ccedil;&atilde;o (15), possibilita    que a heur&iacute;stica selecione solu&ccedil;&otilde;es que aumentem o d&eacute;ficit    em rela&ccedil;&atilde;o &agrave;s metas, desde que essa solu&ccedil;&atilde;o    aumente o VTP. Isso possibilita uma maior diversifica&ccedil;&atilde;o do processo    de busca e uma recupera&ccedil;&atilde;o do VTP ao longo do processo antes de    se entrar na Fase Verde.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De modo a manter    a l&oacute;gica da heur&iacute;stica, o c&aacute;lculo da terceira condi&ccedil;&atilde;o    foi modificado, invertendo-se os termos da raz&atilde;o. Esse procedimento apontou    um problema de escala entre as duas grandezas, sendo necess&aacute;rio inserir    um ponderador para trazer o valor da <i>RazaoR</i> sob esta condi&ccedil;&atilde;o    a patamares semelhantes &agrave;s outras condi&ccedil;&otilde;es. O ponderador    tamb&eacute;m foi divido pelo n&uacute;mero de itera&ccedil;&otilde;es do processo    de busca, visando tornar as solu&ccedil;&otilde;es que aumentam o d&eacute;ficit    total menos atrativas, elevando a converg&ecirc;ncia da heur&iacute;stica. Essa    estrat&eacute;gia foi implantada porque, segundo Nobre (1999), a heur&iacute;stica    da <i>RazaoR</i> piora o valor da solu&ccedil;&atilde;o final &agrave; medida    que o processo de busca se prolonga. A equa&ccedil;&atilde;o (15) apresenta    a nova fun&ccedil;&atilde;o de avalia&ccedil;&atilde;o da <i>RazaoR</i>.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><b>2.4 O funcionamento    da heur&iacute;stica</b></i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O processo geral    de busca da heur&iacute;stica pode ser observado na <a href="/img/revistas/resr/v48n2/01f03.jpg">Figura    3</a>. Inicialmente, a heur&iacute;stica obt&eacute;m, a partir de planilha    Excel, os dados referentes aos regimes de manejo para cada unidade de manejo    (coeficiente da fun&ccedil;&atilde;o objetivo, prognose de produ&ccedil;&atilde;o,    par&acirc;metros para o c&aacute;lculo do d&eacute;ficit de conectividade),    as unidades de manejo de origem e destino dos arcos direcionados pr&eacute;-determinados    para o estabelecimento dos corredores de conectividade e as metas anuais de    produ&ccedil;&atilde;o e de conectividade estabelecidas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em seguida, elabora    a solu&ccedil;&atilde;o inicial (<a href="#f4">Figura 4</a>), escolhendo o regime    de manejo cujo coeficiente da fun&ccedil;&atilde;o objetivo seja o maior para    cada unidade de manejo - sem se preocupar com o atendimento das restri&ccedil;&otilde;es    - e avaliando se a solu&ccedil;&atilde;o inicial atende &agrave;s metas de produ&ccedil;&atilde;o    e conectividade estabelecidas. Em caso afirmativo, tem-se a melhor solu&ccedil;&atilde;o    para o problema, a qual &eacute; apresentada pela heur&iacute;stica, encerrando-se    o processo de busca. Do contr&aacute;rio, inicia-se o processo de constru&ccedil;&atilde;o    e an&aacute;lise da vizinhan&ccedil;a da solu&ccedil;&atilde;o atual e a busca    de solu&ccedil;&otilde;es melhores que a atualmente armazenada na base do problema.</font></p>     <p><a name="f4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f04.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O processo de busca    por solu&ccedil;&otilde;es melhores come&ccedil;a com o controle do n&uacute;mero    de itera&ccedil;&otilde;es. Posteriormente, &eacute; feita a compara&ccedil;&atilde;o    com os par&acirc;metros alfa e beta, de modo a avaliar se a vizinhan&ccedil;a    daquela itera&ccedil;&atilde;o deve ser constru&iacute;da utilizando as vari&aacute;veis    presentes no conjunto das n&atilde;o-selecionadas ou das descartadas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A primeira constru&ccedil;&atilde;o    da vizinhan&ccedil;a com as vari&aacute;veis do conjunto das descartadas &eacute;    realizada quando o n&uacute;mero da itera&ccedil;&atilde;o atual &eacute; igual    a alfa, sendo esse conjunto utilizado novamente para a constru&ccedil;&atilde;o    da vizinhan&ccedil;a a cada beta itera&ccedil;&otilde;es a partir de ent&atilde;o.    Em todas as outras itera&ccedil;&otilde;es, a vizinhan&ccedil;a da solu&ccedil;&atilde;o    atual &eacute; constru&iacute;da a partir das vari&aacute;veis do conjunto das    alternativas n&atilde;o-selecionadas. O processo detalhado de constru&ccedil;&atilde;o    da vizinhan&ccedil;a por meio de alternativas n&atilde;o-selecionadas pode ser    observado na <a href="/img/revistas/resr/v48n2/01f05.jpg">Figura 5a</a>. A <a href="/img/revistas/resr/v48n2/01f05.jpg">Figura    5b</a> ilustra o processo de constru&ccedil;&atilde;o da vizinhan&ccedil;a com    as alternativas descartadas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O processo de constru&ccedil;&atilde;o    da vizinhan&ccedil;a com as alternativas n&atilde;o-selecionadas &eacute; realizado    ao se substituir, para cada unidade de manejo por vez, o regime de manejo atualmente    na base por um regime de manejo pertencente &agrave; unidade de manejo avaliada,    que esteja no conjunto das alternativas n&atilde;o-selecionadas. Al&eacute;m    disso, calcula-se a diferen&ccedil;a do Valor Total do Projeto (VTP), que constitui    a fun&ccedil;&atilde;o objetivo do problema, e a diferen&ccedil;a no d&eacute;ficit    total, obtido a partir da soma ponderada dos d&eacute;ficits anuais de produ&ccedil;&atilde;o    e conectividade. Com a diferen&ccedil;a do VTP e do d&eacute;ficit total, calcula-se    a <i>RazaoR</i> para aquela solu&ccedil;&atilde;o avaliada, representada pela    altera&ccedil;&atilde;o do regime de manejo de uma unidade de manejo em compara&ccedil;&atilde;o    com a solu&ccedil;&atilde;o atualmente mantida na base do problema. O processo    &eacute; repetido para todos os regimes de manejo n&atilde;o-selecionados, para    cada unidade de manejo presente no problema, conforme pode ser observado na    <a href="/img/revistas/resr/v48n2/01f05.jpg">Figura 5a</a>. O processo de constru&ccedil;&atilde;o    da vizinhan&ccedil;a com as alternativas pertencentes ao conjunto das descartadas    se d&aacute; de forma semelhante ao m&eacute;todo com as alternativas n&atilde;o-selecionadas.    A diferen&ccedil;a &eacute; que os regimes de manejo presentes na base s&atilde;o    substitu&iacute;dos pelos regimes de manejo presentes no conjunto das alternativas    descartadas, como ilustra a <a href="/img/revistas/resr/v48n2/01f05.jpg">Figura 5b</a>.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ap&oacute;s a constru&ccedil;&atilde;o    da vizinhan&ccedil;a da solu&ccedil;&atilde;o, a heur&iacute;stica escolhe a    solu&ccedil;&atilde;o vizinha com a melhor <i>RazaoR</i>, substituindo o regime    de manejo selecionado na unidade de manejo. Com uma nova solu&ccedil;&atilde;o    na base do problema, envia-se a alternativa substitu&iacute;da para o conjunto    das alternativas descartadas. Em seguida, a heur&iacute;stica verifica se o    d&eacute;ficit total em rela&ccedil;&atilde;o &agrave;s metas de produ&ccedil;&atilde;o    e conectividade atingiu o valor zero. Em caso afirmativo, inicia-se a Fase Verde    e, em caso negativo, analisa-se se o valor da melhor <i>RazaoR</i> encontrada    &eacute; superior ao valor do par&acirc;metro <i>SemMelhora</i>, que determina    que n&atilde;o h&aacute; solu&ccedil;&atilde;o vizinha que melhore o valor da    solu&ccedil;&atilde;o atualmente mantida na base. N&atilde;o havendo como melhorar,    a heur&iacute;stica apresenta o valor contido na base e encerra o processo de    busca; se o valor da melhor <i>RazaoR</i> for superior ao valor do par&acirc;metro    <i>SemMelhora</i>, a heur&iacute;stica continua o processo de busca no espa&ccedil;o    de solu&ccedil;&otilde;es vi&aacute;veis e invi&aacute;veis.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A Fase Verde se    constitui em um processo de busca no qual a heur&iacute;stica tenta melhorar    a solu&ccedil;&atilde;o, aumentando o valor da fun&ccedil;&atilde;o objetivo    e mantendo o d&eacute;ficit total nulo. Conforme ilustrado na <a href="/img/revistas/resr/v48n2/01f06.jpg">Figura    6</a>, o processo de busca na Fase Verde mant&eacute;m a l&oacute;gica de avalia&ccedil;&atilde;o    da heur&iacute;stica, mas muda a forma de constru&ccedil;&atilde;o da vizinhan&ccedil;a    e de avalia&ccedil;&atilde;o da <i>RazaoR</i>. Para a constru&ccedil;&atilde;o    da vizinhan&ccedil;a, todas as alternativas que n&atilde;o est&atilde;o presentes    na base da solu&ccedil;&atilde;o atual s&atilde;o utilizadas, n&atilde;o havendo    diferen&ccedil;a entre as alternativas n&atilde;o-selecionadas e descartadas.    A heur&iacute;stica prossegue substituindo os regimes de manejo n&atilde;o associados    &agrave;s unidades de manejo e verificando se, ao realizar a substitui&ccedil;&atilde;o,    o d&eacute;ficit total se mant&eacute;m nulo. Em caso afirmativo, a heur&iacute;stica    verifica se a substitui&ccedil;&atilde;o proporcionou acr&eacute;scimo no VTP;    se sim, o valor do acr&eacute;scimo &eacute; inserido na <i>RazaoR</i> da solu&ccedil;&atilde;o    avaliada. Caso a solu&ccedil;&atilde;o avaliada n&atilde;o mantenha o d&eacute;ficit    total nulo ou n&atilde;o proporcione acr&eacute;scimo no VTP, a <i>RazaoR</i>    dessa solu&ccedil;&atilde;o recebe o valor do par&acirc;metro <i>SemMelhora</i>.    Ap&oacute;s construir toda a vizinhan&ccedil;a, a heur&iacute;stica seleciona    a alternativa de maior valor da <i>RazaoR</i> e verifica se esse valor &eacute;    igual ao par&acirc;metro <i>SemMelhora</i> ou se o n&uacute;mero de itera&ccedil;&otilde;es    j&aacute; atingiu o m&aacute;ximo estipulado pelo usu&aacute;rio. Em caso afirmativo,    o processo da Fase Verde se encerra, com a heur&iacute;stica apresentando a    melhor solu&ccedil;&atilde;o obtida. Do contr&aacute;rio, a Fase Verde continua    at&eacute; obter uma solu&ccedil;&atilde;o em que o valor da <i>RazaoR</i> seja    igual ao par&acirc;metro <i>SemMelhora</i> ou o n&uacute;mero m&aacute;ximo    de itera&ccedil;&otilde;es estipulado pelo usu&aacute;rio seja atingido. Ap&oacute;s    a apresenta&ccedil;&atilde;o da melhor solu&ccedil;&atilde;o obtida pela heur&iacute;stica,    o algoritmo &eacute; conclu&iacute;do.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><b>2.5. Materiais    utilizados</b></i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A heur&iacute;stica    foi programada em um compilador comercial (Visual Basic for Applications - VBA)    de simples utiliza&ccedil;&atilde;o, integrado a uma planilha de c&aacute;lculo    (MS Excel). O processamento foi realizado em um microcomputador com processador    Pentium D 3,4 Ghz, com 4 Gb de mem&oacute;ria RAM, e a configura&ccedil;&atilde;o    dos mapas foi feita com o aux&iacute;lio do software ArcGIS 9.1, possibilitando    a visualiza&ccedil;&atilde;o dos resultados espaciais obtidos.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. Resultados    e discuss&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O m&eacute;todo    proposto para avalia&ccedil;&atilde;o do d&eacute;ficit de conectividade funcionou    corretamente, sendo implantado com sucesso na heur&iacute;stica da <i>RazaoR</i>.    A heur&iacute;stica realizou a busca por uma solu&ccedil;&atilde;o vi&aacute;vel    para o problema reduzindo tanto o d&eacute;ficit de produ&ccedil;&atilde;o quanto    o de conectividade. Encontrada a solu&ccedil;&atilde;o, passou-se para a Fase    Verde. A solu&ccedil;&atilde;o inicial<a name="top8"></a><a href="#back8"><sup>8</sup></a>    apresentou um VTP de R$ 100.403.284,87, um d&eacute;ficit de produ&ccedil;&atilde;o    igual a 272.826,66 m&sup3; de madeira e um d&eacute;ficit de conectividade de    851,68 ha.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Foram efetuadas    140 diferentes estrat&eacute;gias de busca para obten&ccedil;&atilde;o de solu&ccedil;&otilde;es,    tendo a heur&iacute;stica encontrado solu&ccedil;&otilde;es vi&aacute;veis para    todas elas. As estrat&eacute;gias foram elaboradas com a varia&ccedil;&atilde;o    dos par&acirc;metros alfa, beta e <i>PesoConec</i>, nos seguintes valores: alfa    = {10, 30, 50, 70}, beta = {3, 6, 9, 12, 15}, e <i>PesoConec</i> = {100, 600,    1.100, 3.000, 7.000, 11.000, 15.000}.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O problema tamb&eacute;m    foi resolvido com um modelo de programa&ccedil;&atilde;o linear inteira mista,    visando obter a solu&ccedil;&atilde;o &oacute;tima para compara&ccedil;&atilde;o    com os resultados encontrados pela heur&iacute;stica. A solu&ccedil;&atilde;o    &oacute;tima apresentou um VTP de R$ 99.745.798,01, sendo obtida pelo GAMS 22.0    e CPLEX 10.1 ap&oacute;s um minuto e 54 segundos de processamento.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para resolu&ccedil;&atilde;o    de cada uma das 140 estrat&eacute;gias de busca definidas no trabalho, a macro    levou, em m&eacute;dia, dez minutos e 25 segundos, totalizando 24 horas, 17    minutos e 25 segundos. A melhor solu&ccedil;&atilde;o obtida foi de R$&nbsp;99.576.615,20    e a pior, de R$ 99.461.451,74, representando 99,83% e 99,71% da solu&ccedil;&atilde;o    &oacute;tima, respectivamente.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href="#f7">Figura    7</a> apresenta um histograma contendo a distribui&ccedil;&atilde;o do n&uacute;mero    de solu&ccedil;&otilde;es obtidas pela heur&iacute;stica, classificadas de acordo    com faixas pr&eacute;-determinas de VTP. Verifica-se que 78% das estrat&eacute;gias    executadas retornaram solu&ccedil;&otilde;es com VTP&acute;s variando entre    99,78% e 99,82% do valor obtido pela solu&ccedil;&atilde;o &oacute;tima, sendo    que 62% dessas estrat&eacute;gias oscilaram de 99,78% a 99,8% do valor obtido    pela solu&ccedil;&atilde;o &oacute;tima.</font></p>     <p><a name="f7"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f07.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De maneira geral,    ao observar a <a href="#f7">Figura 7</a>, percebe-se que a heur&iacute;stica    n&atilde;o conseguiu, em nenhuma das estrat&eacute;gias propostas, encontrar    a solu&ccedil;&atilde;o &oacute;tima para o problema. Entretanto, apresentou    &oacute;timas solu&ccedil;&otilde;es vi&aacute;veis em todas as estrat&eacute;gias    de busca executadas. Prova disso &eacute; que a maior diferen&ccedil;a no VTP    em rela&ccedil;&atilde;o &agrave; solu&ccedil;&atilde;o &oacute;tima foi de    apenas 0,29%. Dessa forma, o algoritmo proposto mostrou-se bastante eficaz na    obten&ccedil;&atilde;o de boas solu&ccedil;&otilde;es vi&aacute;veis para o    problema em quest&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As <a href="#f8">Figuras    8</a>, <a href="#f9">9</a> e <a href="#f10">10</a> apontam o comportamento da    solu&ccedil;&atilde;o obtida em rela&ccedil;&atilde;o &agrave;s diferentes estrat&eacute;gias    elaboradas pela altera&ccedil;&atilde;o dos valores dos par&acirc;metros <i>PesoConec</i>,    Alfa e Beta, respectivamente.</font></p>     <p><a name="f8"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f08.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="f9"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f09.jpg"></p>     <p>&nbsp;</p>     <p><a name="f10"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f10.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A heur&iacute;stica    da <i>RazaoR</i> encontrou melhores solu&ccedil;&otilde;es para valores do par&acirc;metro    <i>PesoConec</i> acima de 600, com a variabilidade dos resultados obtidos aumentando    para maiores valores do par&acirc;metro, especialmente a partir de 6.000. Para    o problema em quest&atilde;o, valores do <i>PesoConec</i> entre 600 e 3.000    parecem apresentar menor variabilidade do VTP.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A m&eacute;dia    do VTP registrou pouca oscila&ccedil;&atilde;o comparada &agrave;s varia&ccedil;&otilde;es    dos par&acirc;metros alfa e beta, conforme pode ser observado nas <a href="#f9">Figuras    9</a> e <a href="#f10">10</a>, nesta ordem. Entretanto, a maioria das estrat&eacute;gias    que apresentaram VTP abaixo de 99,74% foi obtida com valores de PesoConec igual    a 100, sendo este o par&acirc;metro que mais afetou o resultado do VTP encontrado    nas diferentes estrat&eacute;gias. Resultaram em solu&ccedil;&otilde;es de baixo    VTP estrat&eacute;gias cujo <i>PesoConec</i> foi igual a 100, havendo uma maior    variabilidade das solu&ccedil;&otilde;es obtidas naquelas em que o valor do    par&acirc;metro foi igual ou superior a 7.000. As estrat&eacute;gias cujo valor    do <i>PesoConec</i> variou entre 600 e 3.000 refletiram em solu&ccedil;&otilde;es    de boa qualidade e baixa variabilidade, especialmente aquelas com <i>PesoConec</i>    igual a 1.100 e valores de alfa iguais ou superiores a 50. Esse resultado confirma    a proposta de que &eacute; necess&aacute;rio equilibrar os valores dos d&eacute;ficits    das diferentes restri&ccedil;&otilde;es a serem consideradas no problema, de    modo a melhorar a efic&aacute;cia do algoritmo de busca da heur&iacute;stica.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com rela&ccedil;&atilde;o    &agrave; quantidade de itera&ccedil;&otilde;es realizadas pela heur&iacute;stica    para obter as solu&ccedil;&otilde;es de cada estrat&eacute;gia, os n&uacute;meros    em geral foram bastante reduzidos: de 38 a 101, com m&eacute;dia de 13 segundos    para cada itera&ccedil;&atilde;o ser executada. Das estrat&eacute;gias, 69%    encontraram boa solu&ccedil;&atilde;o vi&aacute;vel com menos de 50 itera&ccedil;&otilde;es;    94% das solu&ccedil;&otilde;es foram obtidas com at&eacute; 64 itera&ccedil;&otilde;es,    sendo que a melhor solu&ccedil;&atilde;o foi encontrada ap&oacute;s 55 itera&ccedil;&otilde;es    da heur&iacute;stica (<a href="#f11">Figura 11</a>), a partir de estrat&eacute;gia    efetuada com Alfa igual a 10, Beta igual a 9 e <i>PesoConec</i> igual a 7.000.</font></p>     <p><a name="f11"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f11.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Visando &agrave;    apresenta&ccedil;&atilde;o da forma&ccedil;&atilde;o dos corredores de conectividade    pelas solu&ccedil;&otilde;es propostas pela heur&iacute;stica, os mapas dos    dois primeiros per&iacute;odos de planejamento foram elaborados para a melhor    solu&ccedil;&atilde;o obtida (<a href="#f12">Figura 12</a>). Nesses mapas, &eacute;    poss&iacute;vel observar que a solu&ccedil;&atilde;o proposta pela heur&iacute;stica    obteve sucesso na forma&ccedil;&atilde;o dos corredores de conectividade. A    imposi&ccedil;&atilde;o de uma produ&ccedil;&atilde;o m&iacute;nima de 180.000    m&sup3;/ano e de uma produ&ccedil;&atilde;o m&aacute;xima de 250.000 m&sup3;/ano    tamb&eacute;m foi atendida para os 18 anos do horizonte de planejamento (<a href="#f13">Figura    13</a>).</font></p>     <p><a name="f12"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f12.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="f13"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/01f13.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De forma geral,    a heur&iacute;stica da <i>RazaoR</i> mostrou-se uma estrat&eacute;gia bastante    eficaz para resolu&ccedil;&atilde;o de problemas de otimiza&ccedil;&atilde;o    do planejamento florestal com restri&ccedil;&otilde;es de conectividade, uma    vez que todas as solu&ccedil;&otilde;es encontradas apresentaram valores superiores    a 99,7% do valor da fun&ccedil;&atilde;o objetivo encontrada na solu&ccedil;&atilde;o    &oacute;tima. Foi tamb&eacute;m eficiente no n&uacute;mero de itera&ccedil;&otilde;es    necess&aacute;rias para encontrar boas solu&ccedil;&otilde;es vi&aacute;veis    para o estudo de caso proposto. A heur&iacute;stica deixou a desejar, na forma    como foi implantada, apenas em termos de tempo de execu&ccedil;&atilde;o, apresentando    um esfor&ccedil;o computacional superior ao executado pelo modelo matem&aacute;tico    de programa&ccedil;&atilde;o linear inteira mista.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O tempo reduzido    com que o modelo matem&aacute;tico encontra a solu&ccedil;&atilde;o &oacute;tima    e o baixo n&uacute;mero de itera&ccedil;&otilde;es necess&aacute;rias para a    heur&iacute;stica obter boas solu&ccedil;&otilde;es vi&aacute;veis se devem    ao fato de o modelo atender &agrave;s restri&ccedil;&otilde;es impostas no problema    com relativa facilidade, decorrente da combina&ccedil;&atilde;o de duas principais    caracter&iacute;sticas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A primeira &eacute;    o elevado n&uacute;mero de regimes de manejo com os quais o modelo matem&aacute;tico    e a heur&iacute;stica podem trabalhar para encontrar solu&ccedil;&otilde;es.    A distribui&ccedil;&atilde;o e localiza&ccedil;&atilde;o das unidades de manejo    e dos fragmentos a serem conectados, aliadas ao grafo proposto e &agrave; facilidade    para que essas unidades de manejo apresentem-se aptas a fazer parte do corredor    constituem a segunda caracter&iacute;stica que facilita o atendimento das restri&ccedil;&otilde;es    do problema, particularmente para a forma&ccedil;&atilde;o dos corredores. Os    fragmentos de vegeta&ccedil;&atilde;o nativa da fazenda considerada no estudo    de caso permeiam a matriz do plantio de eucalipto. Como se considerou que a    elabora&ccedil;&atilde;o de um caminho entre dois fragmentos era suficiente    para o estabelecimento de um corredor de conectividade, n&atilde;o foi dif&iacute;cil    para a heur&iacute;stica encontrar solu&ccedil;&otilde;es vi&aacute;veis e para    o modelo matem&aacute;tico obter a solu&ccedil;&atilde;o &oacute;tima.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Embora a heur&iacute;stica    tenha mostrado desempenho inferior em termos de tempo de execu&ccedil;&atilde;o,    frente ao modelo matem&aacute;tico, tal compara&ccedil;&atilde;o n&atilde;o    deve ser considerada definitiva. Isso porque a implanta&ccedil;&atilde;o do    algoritmo da heur&iacute;stica n&atilde;o foi realizada com o enfoque em velocidade    de execu&ccedil;&atilde;o, restando boas possibilidades para a melhoria de sua    performance.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m disso,    apesar de a fazenda considerada no estudo de caso possuir tamanho e n&uacute;mero    de unidades de manejo suficientes para se avaliar a aplicabilidade das t&eacute;cnicas    propostas para a implanta&ccedil;&atilde;o dos corredores de conectividade em    problemas de escala real, sua &aacute;rea ainda &eacute; pequena quando comparada    &agrave; &aacute;rea total m&eacute;dia que as empresas de grande porte necessitam    trabalhar no planejamento estrat&eacute;gico do manejo de suas florestas. Para    esses casos, modelos matem&aacute;ticos de programa&ccedil;&atilde;o linear    inteira mista podem n&atilde;o ser capazes de gerar solu&ccedil;&otilde;es vi&aacute;veis    em um tempo computacionalmente aceit&aacute;vel. &Eacute;, portanto, papel da    ci&ecirc;ncia elaborar e testar m&eacute;todos alternativos, como a heur&iacute;stica    da <i>RazaoR</i>, que permitam a gestores florestais resolverem problemas de    otimiza&ccedil;&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. Conclus&otilde;es</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O algoritmo recursivo    utilizado na programa&ccedil;&atilde;o din&acirc;mica mostrou-se um bom m&eacute;todo    de avalia&ccedil;&atilde;o do d&eacute;ficit de conectividade para as solu&ccedil;&otilde;es    propostas. Adequou-se perfeitamente &agrave; estrat&eacute;gia de busca utilizada    pela heur&iacute;stica da <i>RazaoR</i> ap&oacute;s a inser&ccedil;&atilde;o    do par&acirc;metro de pondera&ccedil;&atilde;o entre o d&eacute;ficit de conectividade    e o d&eacute;ficit de produ&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A heur&iacute;stica    apresentou-se eficaz na obten&ccedil;&atilde;o de boas solu&ccedil;&otilde;es    vi&aacute;veis com um baixo n&uacute;mero de itera&ccedil;&otilde;es. O desempenho    em termos de tempo de execu&ccedil;&atilde;o do algoritmo pode ser melhorado    com a altera&ccedil;&atilde;o da linguagem e, principalmente, do c&oacute;digo    de programa&ccedil;&atilde;o, al&eacute;m da cria&ccedil;&atilde;o de um programa    execut&aacute;vel. Isso reduziria o tempo para a obten&ccedil;&atilde;o de solu&ccedil;&otilde;es    vi&aacute;veis, possibilitando utilizar a heur&iacute;stica para resolu&ccedil;&atilde;o    de problemas de maior porte.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para estudos futuros,    recomenda-se o desenvolvimento de outros algoritmos para calcular o d&eacute;ficit    de conectividade das solu&ccedil;&otilde;es avaliadas, com destaque &agrave;queles    que permitam o uso de arcos bidirecionados no grafo representando os poss&iacute;veis    caminhos para a forma&ccedil;&atilde;o dos corredores. Outra linha a ser seguida    consiste na elabora&ccedil;&atilde;o de formas mais eficientes para avaliar    a vizinhan&ccedil;a da heur&iacute;stica, focando uma vizinhan&ccedil;a parcial    com as melhores alternativas a serem consideradas, de modo a reduzir o tempo    de execu&ccedil;&atilde;o de cada itera&ccedil;&atilde;o. Como consequ&ecirc;ncia,    o tempo necess&aacute;rio para o algoritmo encontrar solu&ccedil;&otilde;es    vi&aacute;veis tamb&eacute;m diminuiria.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A heur&iacute;stica    da <i>RazaoR</i> proposta neste trabalho ainda pode ser utilizada por gestores    florestais que n&atilde;o disponham dos softwares necess&aacute;rios para resolu&ccedil;&atilde;o    de problemas de programa&ccedil;&atilde;o linear inteira mista em larga escala,    principalmente considerando a forma&ccedil;&atilde;o de corredores de conectividade.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Refer&ecirc;ncias    Bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">AMERICAN FOREST    AND PAPER ASSOCIATION. <i>Sustainable Forest Initiative Standard</i> - Principles    and Objectives. Washington: AF&amp;PA, 2000, 7 p. Dispon&iacute;vel em: &lt;    <a href="http://64.29.218.140/Content/NavigationMenu/Environment_and_Recycling/SFI/Publications1/2000_standard.pdf" target="_blank">http://64.29.218.140/Content/NavigationMenu/Environment_and_    Recycling/SFI/Publications1 /2000_standard.pdf</a>&gt;. Acesso em: 13 mar 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0103-2003201000020000100001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ARRUDA, M.B. Corredores    ecol&oacute;gicos do brasil - gest&atilde;o integrada de ecossistemas. In: ARRUDA,    M.B.; NOGUEIRA, L.F.S. <i>Corredores ecol&oacute;gicos:</i> uma abordagem integradora    de ecossistemas no Brasil. Bras&iacute;lia: IBAMA, 2004. p. 11-46.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003201000020000100002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">AUGUSTI, J.C.;    FERRAZ, F.F.de; Ferraz, S.F.de; Silva, J.F.da; Camargo, S.L. Cultivo integrado    com florestas naturais de baixo impacto. <i>Vis&atilde;o Agr&iacute;cola</i>,    Piracicaba, v.4, p. 62-65, dez 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0103-2003201000020000100003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BEIER, P; NOSS,    R.F. Do habitat corridors provide connectivity? <i>Conservation Biology</i>,    Oxford, v. 12, n. 6, p. 1241-1252, Dec 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003201000020000100004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BORGES, J.G.; HOGANSON,    H.M. Assessing the impact of management unit design and adjacency constraints    on forestwide spatial conditions and timber revenues. <i>Canadian Journal of    Forest Research</i>, Ottawa, v. 29, n. 11, p. 1764-1774, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003201000020000100005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CARO, F.; CONSTANTINO,    M.; MARTINS, I.; WEINTRAUB, A. A 2-Opt Tabu Search Procedure for the Multiperiod    Forest Harvesting Problem with Adjacency, Greenup, Old Growth, and Even Flow    Constraints. <i>Forest Science</i>, Bethesda, v. 49, n. 5, p. 738-750, Oct 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003201000020000100006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CERDEIRA, J.O.    GASTON, K.J.; PINTO, L.S. Connectivity in priority area selection for conservation.    <i>Enviromental Modelling and Assessment</i>, Amsterdam, v.10, n. 3, 2005. Dipon&iacute;vel    em: &lt;<a href="http://www.springerlink.com.w10077.dotlib.com.br/content/u8654v14736176qr/?p=63fe7f7fc01248718f567fdf10eefbf2&pi=2" target="_blank">http://www.springerlink.com.w10077.dotlib.com.br/content/u8654v14736176qr    /?p=63fe7f7fc01248718f567fdf10eefbf2&amp;pi=2</a>&gt;. Acesso em: 15 jun 2006.</font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CLUTTER, J.L.;    FORTSON, J.C.; PIENAAR, L.V.; BRISTER, G.H.; BAILEY, R.L. <i>Timber management</i>:    a quantitative approach. Florida: Krieger Publishing Company, 1992. 333p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003201000020000100007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FALC&Atilde;O,    A.O.; BORGES, J. Combining Random and Systematic Search Heuristic Procedures    for Solving Spatially Constrained Forest Management Scheduling Models. <i>Forest    Science</i>, Bethesda, v. 48, n. 3, p. 608-620, Aug 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003201000020000100008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FONSECA, G.A.B.;    ALGER, K.; PINTO, L.P.; ARA&Uacute;JO, M.; CAVALCANTI, R. <i>Corredores de Biodiversidade</i>:    O Corredor Central da Mata Atl&acirc;ntica. In: ARRUDA, M.B.; NOGUEIRA, L.F.S.    Corredores ecol&oacute;gicos: uma abordagem integradora de ecossistemas no Brasil.    Bras&iacute;lia: IBAMA, 2004. p. 47-66.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003201000020000100009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FULLER, T.; SARKAR,    S. LQGraph: A software package for optimizing connectivity in conservation planning.    <i>Environmental Modelling &amp; Software</i>, Amsterdam, v. 21, n. 5, p. 750-755,    May 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003201000020000100010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GARCIA, J.N.; BORTOLLETO    J&Uacute;NIOR, G. Otimiza&ccedil;&atilde;o da mat&eacute;ria-prima "&aacute;rvore"    deve ser prioridade. <i>Vis&atilde;o Agr&iacute;cola</i>, Piracicaba, v. 4,    p. 92-96, jul - dez 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-2003201000020000100011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOYCOOLEA, M.;    MURRAY, A.T.; BARAHONA, F.; EPSTEIN, R.; WEINTRAUB, A. Harvest Scheduling Subject    to Maximum Area Restrictions: Exploring Exact Approaches. <i>Operations Research</i>,    Cambridge, v. 53, n. 3, p. 490-500, May-Jun 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S0103-2003201000020000100012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HESS, G. R. Conservation    corridors and contagious disease: a cautionary note. <i>Conservation Biology</i>,    Oxford, v. 8, n. 1, p. 256-262, May 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-2003201000020000100013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HILLIER, F.S; LIEBERMAN,    G.J. <i>Introduction to operations research.</i> 8<sup>th</sup> ed. New York:    McGraw-Hill, 2005. 1061 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003201000020000100014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HOGANSON, H.M.;    BORGES, J.G. Using Dynamic Programming and Overlapping Subproblems to Address    Adjacency in Large Harvest Scheduling Problems. <i>Forest Science</i>, Bethesda,    v. 44, n. 4, p. 526-538, Nov 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-2003201000020000100015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HORSKINS, K.; MATHER,    P.B.; WILSON, J.C. Corridors and connectivity: when use and function do not    equate. <i>Landscape Ecology</i>, Dordrecht, v. 21, n. 5, Jul 2006. Dispon&iacute;vel    em: &lt;<a href="http://www.springerlink.com.w10077.dotlib.com.br/content/84qq533865702442/fulltext.pdf" target="_blank">http://www.springerlink.com.w10077.dotlib.com.br/content/    84qq533865702442/fulltext.pdf</a>&gt;. Acesso em: 20 nov 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003201000020000100016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INFORMATIVO CEPEA    - SETOR FLORESTAL. Piracicaba, n. 59, nov 2006. 4 p. Dispon&iacute;vel em :    &lt;<a href="http://www.cepea.esalq.usp.br/pdf/inform59.pdf" target="_blank">http://www.cepea.esalq.usp.br/pdf/inform59.pdf</a>&gt;.    Acesso em: 20 dez 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0103-2003201000020000100017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LOCKWOOD, C.; MOORE,    T. Harvest scheduling with spatial constraints: a simulated annealing approach.    <i>Canadian Journal of Forest Research</i>, Ottawa, v. 23, n. 3, p. 468-478,    Mar 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0103-2003201000020000100018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LOEHLE, C. Optimizing    wildlife habitat mitigation with a habitat defragmentation algorithm. <i>Forest    Ecology and Management</i>, Amsterdam, v.120, p. 245-251, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0103-2003201000020000100019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MARTELL, D.L.;    GUNN, E.A.; WEINTRAUB, A. Forest management challenges for operational researchers.    <i>European Journal of Operational Research</i>, Amsterdam, v. 104, n. 1, p.    1-17, Jan 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003201000020000100020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MAURER, S.B.; RALSTON,    A. <i>Discrete algorithmic mathematics</i>. 3<sup>rd</sup> ed. Wellesley: A    K Peters, 2004. 772 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003201000020000100021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">McDILL, M.E.; BRAZE,    J. Comparing Adjacency Constraint Formulations for Randomly Generated Forest    Planning Problems with Four Age-Class Distributions. <i>Forest Science</i>,    Bethesda, v. 46, n. 3, p. 423-436, Aug 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0103-2003201000020000100022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">McDILL, M.E.; BRAZE,    J. Using the Branch and Bound Algorithm to Solve Forest Planning Problems with    Adjacency Constraints. <i>Forest Science</i>, Bethesda, v. 47, n. 3, p. 403-418,    Aug 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003201000020000100023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">McDILL, M.E.; REBAIN,    S.A.; BRAZE, J. Harvest Scheduling with Area-Based Adjacency Constraints. <i>Forest    Science</i>, Bethesda, v. 48, n. 4, p. 631-642, Nov 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0103-2003201000020000100024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MEYER, W. B.; TURNER    II, B. L. <i>Changes in land use and land cover</i>: a global perspective. New    York: Cambridge University Press, 1994. 537 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0103-2003201000020000100025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MURRAY, A.T. Spatial    restrictions in harvest scheduling. <i>Forest Science</i>, Bethesda, v. 45,    n. 1, p. 45-52, Feb 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S0103-2003201000020000100026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NOBRE, S.R. <i>A    heur&iacute;stica da Raz&atilde;o-R aplicada a problemas de gest&atilde;o florestal</i>.    1999.129 p. Disserta&ccedil;&atilde;o (Mestrado em Administra&ccedil;&atilde;o    Rural) - Universidade Federal de Lavras, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0103-2003201000020000100027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NOBRE, S.R.; RODRIGUEZ,    L.C.E. Analysis and evaluation of the R-Ratio heuristic for forest scheduling.    BEVERS, MICHAEL; BARRETT, TARA M.(Comp.).: In: SYMPOSIUM SYSTEMS ANALYSIS IN    FOREST RESOURCES; 2003. Stevenson, Oct 7-9, Stevenson, WA. Portland, OR: USDA    Forest Service, 2005. p. 287-295. <i>USDA Forest Service - General Techical    Report PNW-GTR-000</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0103-2003201000020000100028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Ouml;HMAN, K.    Creating continuous areas of old forest in long-term forest planning. <i>Canadian    Journal of Forest Research</i>, Ottawa, v. 30, n. 11, p. 1817-1823, Nov 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000207&pid=S0103-2003201000020000100029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Ouml;HMAN, K.;    ERIKSSON, L.O. Allowing for spatial consideration in long-term forest planning    by linking linear programming with simulated annealing. <i>Forest Ecology and    Management</i>, Amsterdam, v. 161, n. 1/3, p. 221-230, May 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000209&pid=S0103-2003201000020000100030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Ouml;HMAN, K.;    ERIKSSON, L.O. The core area concept in forming contiguous areas for long-term    forest planning. <i>Canadian Journal of Forest Research</i>, Ottawa, v. 28,    n. 7, p. 1032-1039, Jul 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000211&pid=S0103-2003201000020000100031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Ouml;NAL, H.;    BRIERS, R.A. Designing a conservation reserve network with minimal fragmentation:    A linear integer programming approach. <i>Environmental Modeling and Assessment,</i>    Amsterdan, v. 10, n. 3, Sep 2005. Dispon&iacute;vel em: &lt;<a href="http://www.springerlink.com/content/k1q2527g368u043g/fulltext.pdf" target="_blank">http://www.springerlink.com/content/k1q2527g368u043g/fulltext.pdf</a>&gt;.    Acesso em: 16 de sep 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000213&pid=S0103-2003201000020000100032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PRIMACK, R.B.;    RODRIGUES, E. <i>Biologia da conserva&ccedil;&atilde;o</i>. Londrina: E. Rodrigues,    2001. 328p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000215&pid=S0103-2003201000020000100033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">REBAIN, S.; McDILL,    M.E. A mixed-integer formulation of the minimum patch size problem. <i>Forest    Science</i>, Bethesda, v. 49, n. 4, p. 608-618, Aug 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000217&pid=S0103-2003201000020000100034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RODRIGUEZ, L.C.E.    <i>Use of heuristic methods in the analysis of large-scale forest management    integer programming models</i>. 1994. 93p. Tesis (Doctor of Philosophy in Forest    Management and Biometrics) - University of Georgia, Athens. 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000219&pid=S0103-2003201000020000100035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SESSIONS, J. Solving    for habitat connections as a steiner network problem. <i>Forest Science</i>,    Bethesda, v. 38, n. 1, p.203-207, Feb 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000221&pid=S0103-2003201000020000100036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">WEINTRAUB, A.;    BAHARONA, F.; EPSTEIN, R. A Column Generation Algorithm for Solving General    Forest Planning Problems with Adjacency Constraints. <i>Forest Science</i>,    Bethesda, v. 40, n. 1, p. 142-161, Feb 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000223&pid=S0103-2003201000020000100037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">WILLIAMS, J.C.    Delineating protected wildlife corridors with multi-objective programming. <i>Environmental    Modeling and Assessment</i>, Amsterdam, v. 3, n. 1/2, p. 77-86, Mar 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000225&pid=S0103-2003201000020000100038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">WINSTON, W.L. <i>Operations    Research</i>: Applications and Algorithms. 4<sup>th</sup> ed. Canada: THOMSON    Brooks/Cole, 2004. 1434p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000227&pid=S0103-2003201000020000100039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <a name="back1"></a><a href="#top">1</a>    Agradecimentos ao Conselho Nacional de Desenvolvimento Cient&iacute;fico e Tecnol&oacute;gico    (CNPq), e a Funda&ccedil;&atilde;o de Amparo &agrave; Pesquisa do Estado de    S&atilde;o Paulo (FAPESP), pelo apoio financeiro para a execu&ccedil;&atilde;o    da pesquisa.    <br>   <a name="back2"></a><a href="#top2">2</a> Conhecido como o problema de adjac&ecirc;ncia    ou "Green-up Constraints".    ]]></body>
+<body><![CDATA[<br>   <a name="back3"></a><a href="#top3">3</a> Conhecido como o problema de conectividade.    <br>   <a name="back4"></a><a href="#top4">4</a> "Column Generation".    <br>   <a name="back5"></a><a href="#top5">5</a> Algoritmo para solu&ccedil;&atilde;o    de problemas de programa&ccedil;&atilde;o linear com vari&aacute;veis inteiras.    <br>   <a name="back6"></a><a href="#top6">6</a> "Tabu Search".    <br>   <a name="back7"></a><a href="#top7">7</a> O problema de rede Steiner difere    do problema "the minimum spanning tree", pois n&atilde;o &eacute; necess&aacute;rio    que todos os n&oacute;s da rede estejam conectados.    <br>   <a name="back8"></a><a href="#top8">8</a> Melhor solu&ccedil;&atilde;o inteira    poss&iacute;vel sem se importar com as restri&ccedil;&otilde;es.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<collab>AMERICAN FOREST AND PAPER ASSOCIATION</collab>
+<source><![CDATA[Sustainable Forest Initiative Standard: Principles and Objectives]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[AF&PA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARRUDA]]></surname>
+<given-names><![CDATA[M.B]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Corredores ecológicos do brasil: gestão integrada de ecossistemas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[ARRUDA]]></surname>
+<given-names><![CDATA[M.B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NOGUEIRA]]></surname>
+<given-names><![CDATA[L.F.S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corredores ecológicos: uma abordagem integradora de ecossistemas no Brasil]]></source>
+<year>2004</year>
+<page-range>11-46</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IBAMA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AUGUSTI]]></surname>
+<given-names><![CDATA[J.C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERRAZ]]></surname>
+<given-names><![CDATA[F.F.de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferraz]]></surname>
+<given-names><![CDATA[S.F.de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[J.F.da]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Camargo]]></surname>
+<given-names><![CDATA[S.L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Cultivo integrado com florestas naturais de baixo impacto]]></article-title>
+<source><![CDATA[Visão Agrícola]]></source>
+<year>dez </year>
+<month>20</month>
+<day>05</day>
+<volume>4</volume>
+<page-range>62-65</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BEIER]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NOSS]]></surname>
+<given-names><![CDATA[R.F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Do habitat corridors provide connectivity?]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>Dec </year>
+<month>19</month>
+<day>98</day>
+<volume>12</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>1241-1252</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BORGES]]></surname>
+<given-names><![CDATA[J.G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOGANSON]]></surname>
+<given-names><![CDATA[H.M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Assessing the impact of management unit design and adjacency constraints on forestwide spatial conditions and timber revenues]]></article-title>
+<source><![CDATA[Canadian Journal of Forest Research]]></source>
+<year>1999</year>
+<volume>29</volume>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>1764-1774</page-range><publisher-loc><![CDATA[Ottawa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARO]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CONSTANTINO]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARTINS]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEINTRAUB]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A 2-Opt Tabu Search Procedure for the Multiperiod Forest Harvesting Problem with Adjacency, Greenup, Old Growth, and Even Flow Constraints]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Oct </year>
+<month>20</month>
+<day>03</day>
+<volume>49</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>738-750</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLUTTER]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FORTSON]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIENAAR]]></surname>
+<given-names><![CDATA[L.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRISTER]]></surname>
+<given-names><![CDATA[G.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BAILEY]]></surname>
+<given-names><![CDATA[R.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Timber management: a quantitative approach]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Florida ]]></publisher-loc>
+<publisher-name><![CDATA[Krieger Publishing Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FALCÃO]]></surname>
+<given-names><![CDATA[A.O]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BORGES]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Combining Random and Systematic Search Heuristic Procedures for Solving Spatially Constrained Forest Management Scheduling Models]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Aug </year>
+<month>20</month>
+<day>02</day>
+<volume>48</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>608-620</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FONSECA]]></surname>
+<given-names><![CDATA[G.A.B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALGER]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PINTO]]></surname>
+<given-names><![CDATA[L.P]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ARAÚJO]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAVALCANTI]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Corredores de Biodiversidade: O Corredor Central da Mata Atlântica]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[ARRUDA]]></surname>
+<given-names><![CDATA[M.B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NOGUEIRA]]></surname>
+<given-names><![CDATA[L.F.S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corredores ecológicos: uma abordagem integradora de ecossistemas no Brasil]]></source>
+<year>2004</year>
+<page-range>47-66</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IBAMA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SARKAR]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[LQGraph: A software package for optimizing connectivity in conservation planning]]></article-title>
+<source><![CDATA[Environmental Modelling & Software]]></source>
+<year>May </year>
+<month>20</month>
+<day>06</day>
+<volume>21</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>750-755</page-range><publisher-loc><![CDATA[Amsterdam ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARCIA]]></surname>
+<given-names><![CDATA[J.N]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BORTOLLETO JÚNIOR]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Otimização da matéria-prima "árvore" deve ser prioridade]]></article-title>
+<source><![CDATA[Visão Agrícola]]></source>
+<year>jul </year>
+<month>- </month>
+<day>de</day>
+<volume>4</volume>
+<page-range>92-96</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOYCOOLEA]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MURRAY]]></surname>
+<given-names><![CDATA[A.T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARAHONA]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[EPSTEIN]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEINTRAUB]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Harvest Scheduling Subject to Maximum Area Restrictions: Exploring Exact Approaches]]></article-title>
+<source><![CDATA[Operations Research]]></source>
+<year>May-</year>
+<month>Ju</month>
+<day>n </day>
+<volume>53</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>490-500</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HESS]]></surname>
+<given-names><![CDATA[G. R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Conservation corridors and contagious disease: a cautionary note]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>May </year>
+<month>19</month>
+<day>94</day>
+<volume>8</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>256-262</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HILLIER]]></surname>
+<given-names><![CDATA[F.S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIEBERMAN]]></surname>
+<given-names><![CDATA[G.J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to operations research]]></source>
+<year>2005</year>
+<edition>8th</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOGANSON]]></surname>
+<given-names><![CDATA[H.M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BORGES]]></surname>
+<given-names><![CDATA[J.G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using Dynamic Programming and Overlapping Subproblems to Address Adjacency in Large Harvest Scheduling Problems]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Nov </year>
+<month>19</month>
+<day>98</day>
+<volume>44</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>526-538</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HORSKINS]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MATHER]]></surname>
+<given-names><![CDATA[P.B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WILSON]]></surname>
+<given-names><![CDATA[J.C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Corridors and connectivity: when use and function do not equate]]></article-title>
+<source><![CDATA[Landscape Ecology]]></source>
+<year>Jul </year>
+<month>20</month>
+<day>06</day>
+<volume>21</volume>
+<numero>5</numero>
+<issue>5</issue>
+<publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<collab>INFORMATIVO CEPEA - SETOR FLORESTAL</collab>
+<source><![CDATA[]]></source>
+<year>nov </year>
+<month>20</month>
+<day>06</day>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOCKWOOD]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MOORE]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Harvest scheduling with spatial constraints: a simulated annealing approach]]></article-title>
+<source><![CDATA[Canadian Journal of Forest Research]]></source>
+<year>Mar </year>
+<month>19</month>
+<day>93</day>
+<volume>23</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>468-478</page-range><publisher-loc><![CDATA[Ottawa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOEHLE]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Optimizing wildlife habitat mitigation with a habitat defragmentation algorithm]]></article-title>
+<source><![CDATA[Forest Ecology and Management]]></source>
+<year>1999</year>
+<volume>120</volume>
+<page-range>245-251</page-range><publisher-loc><![CDATA[Amsterdam ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTELL]]></surname>
+<given-names><![CDATA[D.L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUNN]]></surname>
+<given-names><![CDATA[E.A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEINTRAUB]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Forest management challenges for operational researchers]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>Jan </year>
+<month>19</month>
+<day>98</day>
+<volume>104</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-17</page-range><publisher-loc><![CDATA[Amsterdam ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAURER]]></surname>
+<given-names><![CDATA[S.B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RALSTON]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Discrete algorithmic mathematics]]></source>
+<year>2004</year>
+<edition>3rd</edition>
+<publisher-loc><![CDATA[Wellesley ]]></publisher-loc>
+<publisher-name><![CDATA[A K Peters]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McDILL]]></surname>
+<given-names><![CDATA[M.E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRAZE]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Comparing Adjacency Constraint Formulations for Randomly Generated Forest Planning Problems with Four Age-Class Distributions]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Aug </year>
+<month>20</month>
+<day>00</day>
+<volume>46</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>423-436</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McDILL]]></surname>
+<given-names><![CDATA[M.E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRAZE]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using the Branch and Bound Algorithm to Solve Forest Planning Problems with Adjacency Constraints]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Aug </year>
+<month>20</month>
+<day>01</day>
+<volume>47</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>403-418</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McDILL]]></surname>
+<given-names><![CDATA[M.E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[REBAIN]]></surname>
+<given-names><![CDATA[S.A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRAZE]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Harvest Scheduling with Area-Based Adjacency Constraints]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Nov </year>
+<month>20</month>
+<day>02</day>
+<volume>48</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>631-642</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MEYER]]></surname>
+<given-names><![CDATA[W. B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TURNER II]]></surname>
+<given-names><![CDATA[B. L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Changes in land use and land cover: a global perspective]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MURRAY]]></surname>
+<given-names><![CDATA[A.T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial restrictions in harvest scheduling]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Feb </year>
+<month>19</month>
+<day>99</day>
+<volume>45</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>45-52</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOBRE]]></surname>
+<given-names><![CDATA[S.R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A heurística da Razão-R aplicada a problemas de gestão florestal]]></source>
+<year>1999</year>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="confpro">
+<source><![CDATA[USDA Forest Service]]></source>
+<year>2005</year>
+<conf-name><![CDATA[ SYMPOSIUM SYSTEMS ANALYSIS IN FOREST RESOURCES]]></conf-name>
+<conf-date>2003</conf-date><conf-date>Oct 7-9</conf-date>
+<conf-loc>Stevenson WA</conf-loc>
+<page-range>287-295</page-range><publisher-loc><![CDATA[Portland ]]></publisher-loc>
+<publisher-name><![CDATA[OR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ÖHMAN]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Creating continuous areas of old forest in long-term forest planning]]></article-title>
+<source><![CDATA[Canadian Journal of Forest Research]]></source>
+<year>Nov </year>
+<month>20</month>
+<day>00</day>
+<volume>30</volume>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>1817-1823</page-range><publisher-loc><![CDATA[Ottawa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ÖHMAN]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ERIKSSON]]></surname>
+<given-names><![CDATA[L.O]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Allowing for spatial consideration in long-term forest planning by linking linear programming with simulated annealing]]></article-title>
+<source><![CDATA[Forest Ecology and Management]]></source>
+<year>May </year>
+<month>20</month>
+<day>02</day>
+<volume>161</volume>
+<numero>1/3</numero>
+<issue>1/3</issue>
+<page-range>221-230</page-range><publisher-loc><![CDATA[Amsterdam ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ÖHMAN]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ERIKSSON]]></surname>
+<given-names><![CDATA[L.O]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The core area concept in forming contiguous areas for long-term forest planning]]></article-title>
+<source><![CDATA[Canadian Journal of Forest Research]]></source>
+<year>Jul </year>
+<month>19</month>
+<day>98</day>
+<volume>28</volume>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>1032-1039</page-range><publisher-loc><![CDATA[Ottawa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ÖNAL]]></surname>
+<given-names><![CDATA[H]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRIERS]]></surname>
+<given-names><![CDATA[R.A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Designing a conservation reserve network with minimal fragmentation: A linear integer programming approach]]></article-title>
+<source><![CDATA[Environmental Modeling and Assessment]]></source>
+<year>Sep </year>
+<month>20</month>
+<day>05</day>
+<volume>10</volume>
+<numero>3</numero>
+<issue>3</issue>
+<publisher-loc><![CDATA[Amsterdan ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRIMACK]]></surname>
+<given-names><![CDATA[R.B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RODRIGUES]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biologia da conservação]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Londrina ]]></publisher-loc>
+<publisher-name><![CDATA[E. Rodrigues]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REBAIN]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McDILL]]></surname>
+<given-names><![CDATA[M.E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A mixed-integer formulation of the minimum patch size problem]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Aug </year>
+<month>20</month>
+<day>03</day>
+<volume>49</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>608-618</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RODRIGUEZ]]></surname>
+<given-names><![CDATA[L.C.E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Use of heuristic methods in the analysis of large-scale forest management integer programming models]]></source>
+<year>1994</year>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SESSIONS]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Solving for habitat connections as a steiner network problem]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Feb </year>
+<month>19</month>
+<day>92</day>
+<volume>38</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>203-207</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WEINTRAUB]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BAHARONA]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[EPSTEIN]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A Column Generation Algorithm for Solving General Forest Planning Problems with Adjacency Constraints]]></article-title>
+<source><![CDATA[Forest Science]]></source>
+<year>Feb </year>
+<month>19</month>
+<day>94</day>
+<volume>40</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>142-161</page-range><publisher-loc><![CDATA[Bethesda ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WILLIAMS]]></surname>
+<given-names><![CDATA[J.C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Delineating protected wildlife corridors with multi-objective programming]]></article-title>
+<source><![CDATA[Environmental Modeling and Assessment]]></source>
+<year>Mar </year>
+<month>19</month>
+<day>98</day>
+<volume>3</volume>
+<numero>1/2</numero>
+<issue>1/2</issue>
+<page-range>77-86</page-range><publisher-loc><![CDATA[Amsterdam ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WINSTON]]></surname>
+<given-names><![CDATA[W.L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Operations Research: Applications and Algorithms]]></source>
+<year>2004</year>
+<edition>4th</edition>
+<publisher-loc><![CDATA[Canada ]]></publisher-loc>
+<publisher-name><![CDATA[THOMSON Brooks/Cole]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

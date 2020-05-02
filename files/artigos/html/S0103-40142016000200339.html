@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Complexidade computacional e medida da informação: caminhos de Turing e Shannon</title><link xmlns="" rel="canonical" href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-40142016000200339">
+<meta xmlns="" http-equiv="Pragma" content="no-cache">
+<meta xmlns="" http-equiv="Expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
+<meta xmlns="" Content-math-Type="text/mathml">
+<meta xmlns="" name="citation_journal_title" content="Estudos Avançados">
+<meta xmlns="" name="citation_journal_title_abbrev" content="Estud. av.">
+<meta xmlns="" name="citation_publisher" content="Instituto de Estudos Avançados da Universidade de São Paulo">
+<meta xmlns="" name="citation_title" content="Complexidade computacional e medida da informação: caminhos de Turing e Shannon">
+<meta xmlns="" name="citation_date" content="08/2016">
+<meta xmlns="" name="citation_volume" content="30">
+<meta xmlns="" name="citation_issue" content="87">
+<meta xmlns="" name="citation_issn" content="0103-4014">
+<meta xmlns="" name="citation_doi" content="10.1590/S0103-40142016.30870020">
+<meta xmlns="" name="citation_abstract_html_url" content="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-40142016000200339&amp;lng=pt&amp;nrm=iso&amp;tlng=pt">
+<meta xmlns="" name="citation_fulltext_html_url" content="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-40142016000200339&amp;lng=pt&amp;nrm=iso&amp;tlng=pt">
+<meta xmlns="" name="citation_author" content="PIQUEIRA, JOSÉ ROBERTO CASTILHO">
+<meta xmlns="" name="citation_author_institution" content="Universidade de São Paulo, São Paulo, Brazil">
+<meta xmlns="" name="citation_author_institution" content="Universidade de São Paulo, São Paulo, Brazil">
+<meta xmlns="" name="citation_author" content="PIQUEIRA, JOSÉ ROBERTO CASTILHO">
+<meta xmlns="" name="citation_author_institution" content="Universidade de São Paulo, São Paulo, Brazil">
+<meta xmlns="" name="citation_author_institution" content="Universidade de São Paulo, São Paulo, Brazil">
+<meta xmlns="" name="citation_firstpage" content="339">
+<meta xmlns="" name="citation_lastpage" content="344">
+<meta xmlns="" name="citation_id" content="10.1590/S0103-40142016.30870020">
+<meta xmlns="" name="citation_pdf_url" language="pt" default="true" content="http://www.scielo.br/pdf/ea/v30n87/0103-4014-ea-30-87-00339.pdf">
+<link xmlns="" rel="stylesheet" type="text/css" href="/css/screen.css">
+<link xmlns="" rel="stylesheet" type="text/css" href="/xsl/pmc/v3.0/xml.css">
+<script xmlns="" language="javascript" src="applications/scielo-org/js/jquery-1.4.2.min.js"></script><script xmlns="" language="javascript" src="applications/scielo-org/js/toolbox.js"></script><script xmlns="" language="javascript">
+					function smaller(elem_img) {
+						if ((elem_img.height > elem_img.width) && (elem_img.height > 100)) {
+							elem_img.className="inline-graphic-more-limited";
+						} else if (elem_img.width > 300) {
+				
+						} else if ((elem_img.height > elem_img.width) && (elem_img.height > 70)) {
+							elem_img.className="inline-graphic-limited";
+						} 
+					}
+				</script></head><body><a name="top"></a><div class="container"><div class="top"><div id="issues"></div><TABLE xmlns="" cellSpacing="0" cellPadding="7" width="100%" border="0"><TBODY><TR>
+<TD vAlign="top" width="26%"><P align="center">
+<A href="http://www.scielo.br/scielo.php?lng=pt"><IMG src="/img/pt/fbpelogp.gif" border="0" alt="SciELO - Scientific Electronic Library Online"></A><BR>
+</P></TD>
+<TD vAlign="top" width="74%"><TABLE><TBODY><TR>
+<TD NoWrap>
+<IMG src="/img/pt/grp1c.gif"> <IMG src="/img/pt/artsrc.gif"><BR><A href="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0103-401420160002&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/toc.gif" border="0" alt="vol.30 número87"></A><A href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-40142016000200323&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/prev.gif" border="0" alt="Aula Magna de Pedro Arara Karo. Arara Karo: a persistência de um povo"></A><A href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-40142016000200347&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/next.gif" border="0" alt="O espectro dissidente. Walter Benjamin à esquerda do possível"></A> <A href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edea&amp;index=AU&amp;format=iso.pft&amp;lang=p&amp;limit=0103-4014"><IMG src="/img/pt/author.gif" border="0" alt="índice de autores"></A><A href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edea&amp;index=KW&amp;format=iso.pft&amp;lang=p&amp;limit=0103-4014"><IMG src="/img/pt/subject.gif" border="0" alt="índice de assuntos"></A><A href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edea&amp;format=iso.pft&amp;lang=p&amp;limit=0103-4014"><IMG src="/img/pt/search.gif" border="0" alt="pesquisa de artigos"></A>
+</TD>
+<TD noWrap valign="bottom">
+<A href="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-4014&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/home.gif" border="0" alt="Home Page"></A><A href="http://www.scielo.br/scielo.php?script=sci_alphabetic&amp;lng=pt&amp;nrm=iso"><IMG src="/img/pt/alpha.gif" border="0" alt="lista alfabética de periódicos"></A>
+              
+            </TD>
+</TR></TBODY></TABLE></TD>
+</TR></TBODY></TABLE>
+<BR xmlns=""></div><div class="content"><form xmlns="" name="addToShelf" method="post" action="http://www.scielo.org/applications/scielo-org/services/addArticleToShelf.php" target="mensagem">
+<input type="hidden" name="PID" value="S0103-40142016000200339"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S0103-40142016000200339%26lng=pt%26nrm=iso%26tlng=pt">
+</form>
+<form xmlns="" name="citedAlert" method="post" action="http://www.scielo.org/applications/scielo-org/services/citedAlert.php" target="mensagem">
+<input type="hidden" name="PID" value="S0103-40142016000200339"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S0103-40142016000200339%26lng=pt%26nrm=iso%26tlng=pt">
+</form>
+<form xmlns="" name="accessAlert" method="post" action="http://www.scielo.org/applications/scielo-org/services/accessAlert.php" target="mensagem">
+<input type="hidden" name="PID" value="S0103-40142016000200339"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S0103-40142016000200339%26lng=pt%26nrm=iso%26tlng=pt">
+</form>
+<div xmlns="" id="group">
+<div id="toolBox">
+<h2 id="toolsSection">Serviços Personalizados</h2>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Journal</h2></div>
+<div class="box">
+<ul>
+<li>
+<img src="/img/pt/iconStatistics.gif"><a href="http://analytics.scielo.org/?journal=0103-4014&amp;collection=scl" target="_blank">SciELO Analytics</a>
+</li>
+<li id="google_metrics_link_li" style="display: none;">
+<img src="/img/pt/iconStatistics.gif"><a id="google_metrics_link" target="_blank">Google Scholar H5M5 (<span id="google_metrics_year"></span>)</a>
+</li>
+</ul>
+<script type="text/javascript"> 
+              $(document).ready(function() {
+                  var url =  "/google_metrics/get_h5_m5.php?issn=0103-4014&callback=?";
+                  $.getJSON(url,  function(data) {
+                      $("#google_metrics_year").html(data['year']);
+                      $('#google_metrics_link').attr('href', data['url']);
+                      $("#google_metrics_link_li").show();
+                  });
+              });
+            </script>
+</div>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Artigo</h2></div>
+<div class="box"><ul>
+<li><a href="javascript:%20void(0);" onClick="window.open('/article_plus.php?pid=S0103-40142016000200339&amp;tlng=pt&amp;lng=pt','','width=1000,height=480,resizable=yes,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1');" rel="nofollow"><img src="/img/fulltxt.gif">nova página do texto(beta)</a></li>
+<li><a href="/pdf/ea/v30n87/0103-4014-ea-30-87-00339.pdf"><img src="/img/en/iconPDFDocument.gif">Português (pdf)
+    </a></li>
+<li><a href="http://www.scielo.br/scieloOrg/php/articleXML.php?pid=S0103-40142016000200339&amp;lang=pt" rel="nofollow" target="xml"><img src="/img/pt/iconXMLDocument.gif">Artigo em XML</a></li>
+<li>
+<td valign="middle"><a href="javascript:void(0);" onmouseout="status='';" class="nomodel" style="text-decoration: none;" onclick='OpenArticleInfoWindow ( 780, 450, "http://www.scielo.br/scielo.php?script=sci_isoref&amp;pid=S0103-40142016000200339&amp;lng=pt&amp;tlng=pt"); ' rel="nofollow" onmouseover=" status='Como citar este artigo'; return true; "><img border="0" align="middle" src="/img/pt/fulltxt.gif"></a></td>
+<td><a href="javascript:void(0);" onmouseout="status='';" class="nomodel" style="text-decoration: none;" onclick='OpenArticleInfoWindow ( 780, 450, "http://www.scielo.br/scielo.php?script=sci_isoref&amp;pid=S0103-40142016000200339&amp;lng=pt&amp;tlng=pt");' rel="nofollow" onmouseover=" status='Como citar este artigo'; return true; ">Como citar este artigo</a></td>
+</li>
+<li>
+<img src="/img/pt/iconStatistics.gif"><a href="http://analytics.scielo.org/?document=S0103-40142016000200339&amp;collection=scl" target="_blank">SciELO Analytics</a>
+</li>
+<script language="javascript" src="article.js"></script><li><a href="http://lattes.cnpq.br/6644721827442957" onmouseover="status='http://lattes.cnpq.br/6644721827442957'; return true;" onmouseout="status='';" rel="nofollow"><img border="0" align="middle" src="/img/pt/lattescv-button.gif">Curriculum ScienTI</a></li>
+<li><a href="javascript:%20void(0);" onClick="window.open('http://www.scielo.br/scieloOrg/php/translate.php?pid=S0103-40142016000200339&amp;caller=www.scielo.br&amp;lang=pt&amp;tlang=pt&amp;script=sci_arttext','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes');
+                        callUpdateArticleLog('referencias_do_artigo');" rel="nofollow"><img src="/img/pt/iconTranslation.gif">Tradução automática</a></li>
+</ul></div>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Indicadores</h2></div>
+<div class="box"><ul>
+<li>
+<img src="/img/pt/iconCitedOff.gif" alt="Não possue artigos citados">Citado por SciELO </li>
+<li>
+<img src="/img/pt/iconStatistics.gif"><a href="http://analytics.scielo.org/w/accesses?document=S0103-40142016000200339&amp;collection=scl" target="_blank">Acessos</a>
+</li>
+<div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="4" data-doi="10.1590/S0103-40142016.30870020"></div>
+</div>
+</ul></div>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Links relacionados</h2></div>
+<div class="box"><ul>
+<li><a href="javascript:void(0);" onclick="window.open('http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=link%3Ahttp%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS0103-40142016000200339%26lng%3Dpt%26nrm%3Diso%26tlng%3Dpt&amp;lang=pt','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes,,menubar=1,location=1,toolbar=1,status=1,scrollbars=1,directories=1');" rel="nofollow"><img src="/img/pt/iconCitedGoogleOn.gif" alt="Indexado pelo Google">Citado por Google </a></li>
+<li>
+<img src="/img/pt/iconRelatedOff.gif" alt="Não possue artigos similares">Similares em
+    SciELO </li>
+<li><a href="javascript:void(0);" onclick="window.open('http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=related%3Ahttp%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS0103-40142016000200339%26lng%3Dpt%26nrm%3Diso%26tlng%3Dpt&amp;lang=pt','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes,,menubar=1,location=1,toolbar=1,status=1,scrollbars=1,directories=1');" rel="nofollow"><img src="/img/pt/iconRelatedGoogleOn.gif" alt="Indexado pelo Google">Similares em Google </a></li>
+</ul></div>
+<div class="toolBoxSection"><h2 class="toolBoxSectionh2">Compartilhar</h2></div>
+<div class="box"><ul>
+<li>
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_delicious"></a><a class="addthis_button_google"></a><a class="addthis_button_twitter"></a><a class="addthis_button_digg"></a><a class="addthis_button_citeulike"></a><a class="addthis_button_connotea"></a><a href="http://www.mendeley.com/import/?url=http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S0103-40142016000200339%26lng=pt%26nrm=iso%26tlng=pt" title="Mendeley"><img src="http://www.mendeley.com/graphics/mendeley.png"></a><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c347ee4422c56df" class="addthis_button_expanded">Mais</a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c347ee4422c56df"></script>
+</li>
+<li><div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c347ee4422c56df" class="addthis_button_expanded">Mais</a></div></li>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c347ee4422c56df"></script>
+</ul></div>
+<hr>
+<ul><li><a id="permalink" href="javascript:void(0);"><img src="/img/common/iconPermalink.gif">Permalink</a></li></ul>
+</div>
+<div id="permalink_box" style="margin-left:20px;background-color:#F2F2F2;border: 1px solid #CCC;display:none;position:absolute;z-index:1;padding:2px 10px 10px 10px;">
+<div style="text-align:right;"><img src="/img/common/icon-close.png" onClick="$('#permalink_box').toggle();"></div>
+<input type="text" name="short-url" id="short-url">
+</div>
+</div>
+<h2 xmlns=""><a href="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=0103-4014&amp;lng=pt&amp;nrm=iso">Estudos Avançados</a></h2>
+<h2 xmlns="" id="printISSN">
+<FONT color="#0000A0"><!--PRINTpt--><em>versão impressa</em> ISSN </FONT>0103-4014<FONT color="#0000A0"><!--ONLINpt--><em>versão On-line</em> ISSN </FONT>1806-9592</h2>
+<h3 xmlns="">Estud. av. vol.30 no.87 São Paulo mai./ago. 2016</h3>
+<h4 xmlns="" id="doi"> http://dx.doi.org/10.1590/S0103-40142016.30870020  </h4>
+<div xmlns="" class="index,pt">
+<!--version=xml-file--><div id="article-front" class="front">
+<p class="categoria">Computação</p>
+<div><p class="title">Complexidade computacional e medida da informação: caminhos de Turing e Shannon</p></div>
+<div class="autores"><p class="author"><span class="author-name">JOSÉ ROBERTO CASTILHO PIQUEIRA</span><sup><a href="#aff1">
+ I
+</a> 
+			</sup></p></div>
+<div class="autores"></div>
+<p class="aff"><a name="aff1"></a><sup><sup>I</sup></sup>Escola Politécnica, Universidade de São Paulo, São Paulo/São Paulo, Brasil. </p>
+<p></p>
+<p></p>
+<div class="abstract">
+<p class="sec"><a name="resumo">resumo</a></p>
+<p>Este artigo apresenta, qualitativamente, os conceitos de complexidade computacional algorítmica (Turing) e de complexidade computacional informacional (Shannon), enfatizando como pensamentos independentes, de naturezas diferentes, produziram conceitos matemáticos similares e de grande utilidade para a computação moderna.</p>
+<p><b>palavras-chave: </b>Complexidade; Máquina de Turing; Medidas computacionais.</p>
+</div>
+<div class="trans-abstract">
+<p class="sec"><a name="abstract">abstract</a></p>
+<p>This paper qualitatively presents the concepts of algorithmic computational complexity (Turing) and informational computational complexity (Shannon), emphasizing how independent thinking, of different nature, produced similar mathematical concepts with great usefulness for modern computation.. </p>
+<p><b>keywords: </b>Complexity; Turing machine; Computational measures</p>
+</div>
+</div>
+<div id="article-body" class="body">
+<div class="section">
+<a name="idp5349600"><!-- named anchor --></a><p class="sec">Introdução</p>
+<p>Durante os anos 1990, havia no Instituto de Estudos Avançados da USP o chamado "Grupo de Ciência Cognitiva", liderado pelo saudoso professor Henrique Schützer Del Nero. Era uma pequena semente de multidisciplinaridade plantada com sacrifício, convivendo até com certo escárnio de pessoas mais conservadoras.</p>
+<p>Vários alunos e professores que passaram pelas reuniões realizadas às quartas-feiras de manhã incorporaram às suas linhas de pesquisa assuntos amplamente discutidos naquela pequena sala da reitoria velha.</p>
+<p>Para mim, o primeiro contato com a ideia de complexidade foi ali. Lembro-me de muitas horas de conversa sobre o que é um "fenômeno complexo" e se era possível objetivar essas ideias. </p>
+<p>Havia gente originária das Ciências Humanas que falava de Edgar Morin; das Biológicas interessadas em Neurociência; e o pessoal de Exatas querendo descrever o mundo pela Matemática.</p>
+<p>Eu trabalhara, nos anos 1980, em empresa brasileira produtora de equipamentos para redes de comunicação de dados, o que exigira conhecimento da chamada "Teoria de Informação", devida a Claude E. <sup><a href="#B5">Shannon (Shannon; Weaver, 1963</a></sup>) e, por isso, pensava que complexidade estava diretamente relacionada com o conceito de medida de informação.</p>
+<p>Neste novo século, o debate sobre complexidade adquiriu grandes proporções com a criação de grupos de estudo das mais variadas orientações em todo o mundo. A Física Estatística, a Neurociência, as Ciências Sociais, a Economia e a Engenharia estão cada vez mais interessadas em fenômenos emergentes de interações não lineares entre os mais diversos tipos de agentes (<sup><a href="#B4">Northrop, 2011</a></sup>).</p>
+<p>Ao longo desses anos, não perdi de vista que uma medida objetiva de complexidade poderia originar-se na entropia informacional de <sup><a href="#B5">Shannon (Shannon; Weaver, 1963</a></sup>). Aprendi, também, que outras medidas interessantes de complexidade foram propostas (López-Ruiz; Mancini; Calbet, 1995; <sup><a href="#B6">Shiner; Davison; Landsberg, 1999</a></sup>), mais compatíveis com os processos naturais.</p>
+<p>Associar as definições de teoria da informação a medidas de complexidade, entretanto, é bastante interessante quando se trata de caracterizar sistemas de computação, levando à ideia de "complexidade computacional", conceito restrito, mas de grande utilidade (<sup><a href="#B2">Kolmogorov, 1965</a></sup>). </p>
+<p>Este artigo se ocupa dessa discussão: mostrar como os conceitos de medida de informação (Shannon) estão relacionados com complexidade computacional (Turing) (<sup><a href="#B1">Desurvire, 2009</a></sup>).</p>
+<p>Não há, aqui, qualquer conceito original. Trata-se, apenas, de um relato das diversas interpretações de importantes trabalhos de cientistas cujas teorias permitiram a emergência do complexo fenômeno da ubiquidade da informação que parece mudar hábitos e relações pessoais.</p>
+<p>Inicia-se uma seção de breves dados biográficos de Shannon e Turing, que permitem entender o contexto dos problemas por eles estudados. A seguir, após resumida apresentação da máquina de Turing, discute-se o conceito de complexidade computacional do ponto de vista algorítmico (Turing) e informacional (Shannon). Finaliza-se com uma descrição sobre as similaridades e diferenças originárias das duas abordagens apresentadas.</p>
+</div>
+<div class="section">
+<a name="idp5365920"><!-- named anchor --></a><p class="sub-subsec">Breve contextualização histórica</p>
+<p>Nascido nos Estados Unidos da América em 30 de abril de 1916, Claude E. Shannon obteve o título de doutor no MIT, em 1937, com trabalho notável em "Álgebra de Boole", propondo circuitos elétricos capazes de executar as principais operações da Lógica clássica. </p>
+<p>Quatro anos antes (23 de junho de 1912) de seu nascimento, em Londres, nascera Allan M. Turing, que também se interessou por encontrar meios de realizar operações lógicas e aritméticas, fazendo uso de máquinas. Suas ideias resultaram no importante conceito de "Máquina de Turing", paradigma abstrato para a computação, apresentado durante seus estudos, no King's College, em Cambridge, no ano de 1936. Entre 1936 e 1938, Turing viveu em Princeton-NJ onde realizou seu doutorado estudando problemas relativos à criptografia.</p>
+<p>Assim, Shannon e Turing, de maneira independente, trabalhavam, simultaneamente, em comunicações e computação, dois tópicos que, combinados, hoje proporcionam recursos antes inimagináveis para o mundo moderno das artes, da ciência, da medicina, da tecnologia e das interações sociais. </p>
+<p>Contemporaneamente à eclosão da Segunda Guerra Mundial, Shannon e Turing gestavam ideias abstratas sofisticadas, tentando associá-las ao mundo concreto das máquinas que, gradativamente, tornavam-se fatores de melhoria da qualidade de vida das populações.</p>
+<p>A Segunda Grande Guerra utilizou-se de tecnologias sofisticadas para a destruição. Os bombardeios aéreos causaram muitas mortes e devastaram cidades. Evitá-los e preveni-los eram questões de vida ou morte e, para tanto, ouvir as comunicações dos inimigos e decifrar seus códigos era uma atividade indispensável.</p>
+<p>Os países do eixo tinham desenvolvido sofisticadas técnicas de comunicação criptografada utilizada para planejar ataques inesperados às forças aliadas. Shannon e Turing, então, com seu conhecimento sofisticado da matemática da informação deduziram as regras alemãs de codificação, levando os aliados a salvar muitas de suas posições de ataques nazistas.</p>
+<p>Pode-se dizer que uma boa parte da inteligência de guerra dos aliados vinha desses dois cérebros privilegiados.</p>
+<p>Finda a guerra, Shannon passou a trabalhar nos laboratórios Bell, propondo a "Teoria da Informação", em 1948. Com carreira profícua, notável pela longevidade e muitos trabalhos importantes, deixou sua marca nas origens das comunicações digitais. Faleceu aos 85 anos (em 24 de fevereiro de 2001), deixando grande legado intelectual e tecnológico.</p>
+<p>Turing, após o término da guerra, ingressou como pesquisador da Universidade de Manchester, sofrendo ampla perseguição por ser homossexual. Mesmo vivendo na avançada Inglaterra, foi condenado à castração química, em 1952. Essa sequência de dissabores levou-o ao suicídio, em 7 de junho de 1954.</p>
+<p>Shannon viu sua teoria transformar o mundo, com o nascimento da internet. Turing, entretanto, não viu sua máquina se transformar em lap-tops e tablets que hoje povoam, até, o imaginário infantil.</p>
+</div>
+<div class="section">
+<a name="idp5375968"><!-- named anchor --></a><p class="sub-subsec">Máquina de Turing e complexidade computacional</p>
+<p>Há na literatura (<sup><a href="#B1">Desurvire, 2009</a></sup>) e na internet (Schechter, s.d.) um grande número de descrições completas sobre a máquina de Turing que pode ser objeto de estudo mais aprofundado. Aqui faremos uma breve descrição, apenas para poder introduzir a ideia de computador universal e de algoritmo.</p>
+<p>Uma máquina de Turing é constituída, de maneira abstrata, por uma fita de comprimento infinito, isto é, uma sucessão de células de memória que podem assumir o valor "0" ou "1". A fita é munida de uma cabeça de leitura e uma de escrita, podendo ser movida para a esquerda ou para a direita uma célula por vez (<a href="#f1">Figura 1</a>). </p>
+<p>
+				<!--_ STANDARD  _--><div class="figure">
+<a name="f1"><!-- named anchor --></a><a target="_blank" href="/img/revistas/ea/v30n87//0103-4014-ea-30-87-00339-gf1.jpg"><img class="graphic" src="/img/revistas/ea/v30n87//0103-4014-ea-30-87-00339-gf1.jpg"></a><p class="label_caption"><span class="label">Figura 1 </span><span class="caption">Máquina de Turing. </span></p>
+</div>
+			</p>
+<p> As operações da cabeça e da fita são definidas por uma tabela de instruções {I<sub>1</sub>, I<sub>2</sub>, ..., I<sub>n</sub>}, chamada tabela de ação. </p>
+<p>Vários sites na internet contêm programas dirigidos para a máquina de Turing (disponíveis em &lt;www.ams.org&gt; e &lt;http://ironphoenix.org/tril/tm&gt;). Lá, é possível baixar programas que permitem o entendimento de como uma máquina de Turing computa.</p>
+<p>Com essas ideias em mente, Turing, em seu tempo de doutorado nos Estados Unidos, sob a orientação de Alonzo Church, em 1936, propôs o conceito de Máquina de Turing Universal (UTM), viabilizando a construção do computador programável.</p>
+<p>A arquitetura computacional, proposta por John Von Neumann em 1945 e usada pelos computadores de hoje, fundamenta-se no trabalho de Turing de 1936 e sua base pode ser resumida na tese de Church-Turing: "Uma UTM é capaz de resolver todos os problemas solucionáveis por um algoritmo ou por um método computacional efetivo".</p>
+<p>Deve-se observar que, de maneira simplificada, um algoritmo é uma se- quência de operações lógicas e aritméticas, com a finalidade de dar a resposta a um problema passível de ser colocado em linguagem matemática.</p>
+<p>Chega-se, então, ao conceito de complexidade computacional, entendido como o número de operações necessárias para a execução de um programa, isto é, para a execução de um conjunto de algoritmos (<sup><a href="#B1">Desurvire, 2009</a></sup>). Como qualquer programa originário de algoritmo computacional pode ser executado por uma UTM, a medida da complexidade computacional de um programa ou sequência, do ponto de vista algorítmico, pode ser entendida como o número de estados da tabela de ação, quando o programa ou a sequência são executados em uma UTM (<sup><a href="#B2">Kolmogorov, 1965</a></sup>).</p>
+<p>Neste ponto, é importante ressaltar que a medida de complexidade computacional, do ponto de vista algorítmico, está relacionada a uma sequência ou a um programa, proporcionando, portanto, uma medida determinista da complexidade computacional.</p>
+</div>
+<div class="section">
+<a name="idp5392736"><!-- named anchor --></a><p class="sub-subsec">Shannon e entropia informacional como medida de complexidade</p>
+<p>O conceito de entropia informacional, proposto por <sup><a href="#B5">Shannon (Shannon; Weaver, 1963</a></sup>) tem origem no mundo das comunicações, considerando-se que um sistema proposto com essa finalidade é composto por uma fonte, capaz de emitir sequências de dados, um meio, através do qual a sequência transita, atingindo um receptor, destino da mensagem.</p>
+<p>Os trabalhos em Teoria da Informação dividem-se em três grupos: medir a informação emitida pela fonte, medir a capacidade do canal e escolher um código que permita o trânsito dos dados com pequena e arbitrária taxa de erros.</p>
+<p>Para a discussão aqui estabelecida, interessa a medida de informação associada a uma sequência, escolhida entre as diversas sequências possíveis de emissão pela fonte.</p>
+<p>A abordagem é probabilística, associando-se às diversas sequências, suas probabilidades de ocorrência e definindo-se informação individual como sendo uma variável aleatória que assume valores altos para sequências pouco prováveis e baixos, para as muito prováveis.</p>
+<p>Ao valor esperado (média) dessa variável aleatória é dado o nome de entropia informacional e sua unidade é bits por sequência. Assim, a entropia informacional é relativa à fonte como um todo e, diferindo da complexidade algorítmica, não está associada a uma sequência individual, mas a todas as sequências possíveis de serem emitidas pela fonte.</p>
+<p>Embora esse conceito não tenha, inicialmente, a proposta de medir complexidade computacional, pode perfeitamente servir para isso. Basta pensar que, dado um programa, é possível criar diferentes sequências para realizá-lo e atribuir a cada uma delas um valor de probabilidade. </p>
+<p>A medida de complexidade computacional, do ponto de vista informacional, pode ser dada pela entropia de Shannon, que assume valor máximo caso todas as sequências sejam equiprováveis (Shannon; Weaver, 1963).</p>
+</div>
+<div class="section">
+<a name="idp5400768"><!-- named anchor --></a><p class="sec">Conclusões</p>
+<p>Apresentamos, de maneira qualitativa, duas maneiras diferentes de medir complexidade computacional: uma determinística (Turing) e uma probabilística (Shannon), originárias de pensamentos e enfoques diferentes dos dois grandes pensadores que teceram a era moderna da informática.</p>
+<p>Como a natureza prega peças e nunca se sabe se Deus joga dados, para sequências longas, que são os casos mais frequentes na prática, pode ser demonstrado que as duas medidas coincidem.</p>
+</div>
+</div>
+<div id="article-back" class="back"><div>
+<a name="references"></a><p class="sec"><p class="sec">Referências</p></p>
+<p class="ref"><a name="B1" onclick="window.history.back();"></a>DESURVIRE, E. Classical and Quantum Information Theory. Cambridge: Cambridge University Press, 2009.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-4014201600020033900001&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B2" onclick="window.history.back();"></a>KOLMOGOROV, A. N. Three approaches to the definition of the concept "quantity of information". Problemy Peredachi Informatsii, v.1, p.3-11, 1965.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-4014201600020033900002&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B3" onclick="window.history.back();"></a>LÓPEZ-RUIZ, R.; MANCINI, H. L.; CALBET, X. A statistical measure of complexity. Physics Letters A, v.209, p.321-6, 1995.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-4014201600020033900003&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B4" onclick="window.history.back();"></a>NORTHROP, R. B. Introduction to Complexity and Complex Systems. Florida: CRC Press, 2011.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-4014201600020033900004&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B5" onclick="window.history.back();"></a>SHANNON, C. E.; WEAVER, W. The Mathematical Theory of Communication. Urbana; Chicago: Illini Books Edition, 1963.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-4014201600020033900005&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B6" onclick="window.history.back();"></a>SHINER, J.; DAVISON, M.; LANDSBERG, P. Simple measure for complexity. Physical Review E, v.59, n.2, p.1459-64, 1999.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-4014201600020033900006&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+<p class="ref"><a name="B7" onclick="window.history.back();"></a>SCHECHTER, L. M. A vida e o legado de Alan Turing para a ciência. s. d. Disponível em: &lt;<a href="http://www.dcc.ufrj.br/~luisms/turing/seminarios.pdf" target="_blank">http://www.dcc.ufrj.br/~luisms/turing/seminarios.pdf</a>&gt;.
+			
+			[ <a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&amp;pid=S0103-4014201600020033900007&amp;lng=en','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a> ] </p>
+</div></div>
+<div class="foot-notes">
+<div class="history"><p>Recebido:
+				22 de Abril de 2015; Aceito:
+				28 de Setembro de 2015</p></div>
+<div class="author-notes"><p class="corresp"><a name="c1"></a><em>José Roberto Castilho Piqueira</em> é graduado e mestre em Engenharia Elétrica pela Escola de Engenharia de São Carlos da USP e doutor e livre-docente em Engenharia de Sistemas pela Escola Politécnica da USP. Professor titular e diretor da Poli-USP. @ <em>-</em><a href="mailto:piqueira@lac.usp.br">piqueira@lac.usp.br</a>
+				</p></div>
+</div>
+<div class="license"><p><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.pt"><img src="http://i.creativecommons.org/l/by-nc/4.0/80x15.png" alt="Creative Commons License" style="border-width:0"></a> Este é um artigo publicado em acesso aberto sob uma licença Creative Commons</p></div>
+</div></div></div><div class="container"><div align="left"></div><div class="spacer"> </div><!--cc--><!--mode=license--><div xmlns="" class="footer">Rua da Reitoria,109 - Cidade Universitária<br>05508-900 São Paulo SP - Brasil<br>Tel: (55 11) 3091-1675/3091-1676<br>Fax: (55 11) 3091-4306<br><IMG src="/img/pt/e-mailt.gif" border="0"><br><A class="email" href="mailto:estudosavancados@usp.br">estudosavancados@usp.br</A><script type="text/javascript">
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-604844-1']);
+              _gaq.push(['_trackPageview']);
+              _gaq.push(['_setSampleRate', '70']);
+
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+
+            </script>
+</div></div></body></html>
+<!--transformed by PHP 06:03:56 13-03-2019-->
+<!--CACHE MSG: CACHE NAO FOI UTILIZADO -->
+<!-- REQUEST URI: /scielo.php?script=sci_arttext&pid=S0103-40142016000200339&lng=pt&nrm=iso&tlng=pt-->
+<!--SERVER:192.168.1.50-->

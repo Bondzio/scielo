@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032004000200002</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032004000200002</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Economic efficiency of agricultural production in Brazil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vicente]]></surname>
+<given-names><![CDATA[José R.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Institute for Agricultural Economics  ]]></institution>
+<addr-line><![CDATA[São Paulo SP]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2004</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2004</year>
+</pub-date>
+<volume>42</volume>
+<numero>2</numero>
+<fpage>201</fpage>
+<lpage>222</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032004000200002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032004000200002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032004000200002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[This study measures levels of technical, allocative and economic efficiency in agricultural crop production for Brazil in 1995. A nonparametric frontier model (DEA) under constant returns to scale was used. On average, the results suggest that the sector suffers from moderate technical inefficiency and from strong allocative inefficiency. If full technical efficiency were achieved, the crop production would increase by more than 30% over that obtained in 1995. Land and labor were overutilized, while fertilizers and pesticides were underutilized. Climate, soil conditions and irrigation use affected technical efficiency levels, and education in rural areas helped explain the extent of allocative efficiency. The state of São Paulo State was the only production unit in Brazil operating in full efficiency in 1995.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este estudo mensurou os níveis de eficiências técnica, alocativa e econômica na produção agrícola, setor de lavouras, do Brasil em 1995. Um modelo de fronteira não-paramétrica (DEA) sob retornos constantes à escala foi utilizado. Os resultados mostraram, em média, a existência de ineficiência técnica moderada e de ineficiência alocativa forte. Sob eficiência técnica plena, a produção do setor de lavouras seria mais de 30% superior à obtida em 1995. Foi constatada sobreutilização de terra e trabalho e subutilização de fertilizantes e defensivos. As condições de clima e solo e o uso de irrigação condicionaram os níveis de eficiência técnica, e a escolaridade nas áreas rurais explicou o grau de eficiência alocativa. O Estado de São Paulo era a única unidade produtiva operando com eficiência econômica plena em 1995.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[agricultural production]]></kwd>
+<kwd lng="en"><![CDATA[nonparametric frontier]]></kwd>
+<kwd lng="en"><![CDATA[economic efficiency]]></kwd>
+<kwd lng="en"><![CDATA[technical efficiency]]></kwd>
+<kwd lng="en"><![CDATA[allocative efficiency]]></kwd>
+<kwd lng="pt"><![CDATA[produção agrícola]]></kwd>
+<kwd lng="pt"><![CDATA[fronteira não-paramétrica]]></kwd>
+<kwd lng="pt"><![CDATA[eficiência econômica]]></kwd>
+<kwd lng="pt"><![CDATA[eficiência técnica]]></kwd>
+<kwd lng="pt"><![CDATA[eficiência alocativa]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><b><font size="4" font face="verdana"> Economic efficiency of agricultural    production in Brazil</font></b></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><b><font size="2" face="Verdana">Jos&eacute; R. Vicente</font></b></p>     <p><font size="2" face="Verdana">Doctor in Economics, Research Fellow, Institute    for Agricultural Economics (IEA), Av. Miguel St&eacute;fano, 3900, Cep: 04301-903    - S&atilde;o Paulo, SP, Brazil. E-mail: <a href="mailto:jrvicente@iea.sp.gov.br">jrvicente@iea.sp.gov.br</a>..</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><B>ABSTRACT</B></font></p>     <p><font size="2" face="Verdana">This study measures levels of technical, allocative    and economic efficiency in agricultural crop production for Brazil in 1995.    A nonparametric frontier model (DEA) under constant returns to scale was used.    On average, the results suggest that the sector suffers from moderate technical    inefficiency and from strong allocative inefficiency. If full technical efficiency    were achieved, the crop production would increase by more than 30% over that    obtained in 1995. Land and labor were overutilized, while fertilizers and pesticides    were underutilized. Climate, soil conditions and irrigation use affected technical    efficiency levels, and education in rural areas helped explain the extent of    allocative efficiency. The state of S&atilde;o Paulo State was the only production    unit in Brazil operating in full efficiency in 1995. </font></p>     <p><font size="2" face="Verdana"><B>Key Words: </B>agricultural production, nonparametric    frontier, economic efficiency, technical efficiency, allocative efficiency.    </font></p> <hr size="1" noshade>     ]]></body>
+<body><![CDATA[<p><font size="2" face="VERDANA"><B>RESUMO</B></font> </p>     <p><font size="2" face="Verdana">Este estudo mensurou os n&iacute;veis de efici&ecirc;ncias    t&eacute;cnica, alocativa e econ&ocirc;mica na produ&ccedil;&atilde;o agr&iacute;cola,    setor de lavouras, do Brasil em 1995. Um modelo de fronteira n&atilde;o-param&eacute;trica    (DEA) sob retornos constantes &agrave; escala foi utilizado. Os resultados mostraram,    em m&eacute;dia, a exist&ecirc;ncia de inefici&ecirc;ncia t&eacute;cnica moderada    e de inefici&ecirc;ncia alocativa forte. Sob efici&ecirc;ncia t&eacute;cnica    plena, a produ&ccedil;&atilde;o do setor de lavouras seria mais de 30% superior    &agrave; obtida em 1995. Foi constatada sobreutiliza&ccedil;&atilde;o de terra    e trabalho e subutiliza&ccedil;&atilde;o de fertilizantes e defensivos. As condi&ccedil;&otilde;es    de clima e solo e o uso de irriga&ccedil;&atilde;o condicionaram os n&iacute;veis    de efici&ecirc;ncia t&eacute;cnica, e a escolaridade nas &aacute;reas rurais    explicou o grau de efici&ecirc;ncia alocativa. O Estado de S&atilde;o Paulo    era a &uacute;nica unidade produtiva operando com efici&ecirc;ncia econ&ocirc;mica    plena em 1995.</font></p>     <p><font size="2" face="Verdana"><B>Palavras-chave:</B> produ&ccedil;&atilde;o    agr&iacute;cola, fronteira n&atilde;o-param&eacute;trica, efici&ecirc;ncia econ&ocirc;mica,    efici&ecirc;ncia t&eacute;cnica, efici&ecirc;ncia alocativa.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>1 - Introduction </B> </font></p>     <p><font size="2" face="Verdana">Over the period 1970-95, total factor productivity    (TFP) of Brazilian crop production nearly doubled, stimulated by productivity    growth of the two indispensable factors of production (Schumpeter, 1982) - land    and labor - whose productivity increased 140%. </font></p>     <p><font size="2" face="Verdana">Although the Center-West region registered the    largest rates of growth of TFP (over 161% during that period), the Southeast    region always benefited from the largest productivity indices and these results    were primarily attributable to the performance of agriculture in the state of    S&atilde;o Paulo, which, in 1995, registered TFP index that were 2,3 times higher    than the national average. On the other hand, the TFP indices in the North and    Northeast regions were less than half of the national average in 1995. </font></p>     <p><font size="2" face="Verdana">Besides the regional diversity of growth rates    of TFP, there was considerable nonuniformity in the evolution of prices paid    and received by farmers, and consequently in the purchasing price parity indices    across the Brazilian the federal units (UFs): the terms of trade in factor inputs    in agriculture turns sharply against producers in the North and Northeast regions    (Vicente et al., 2001c). </font></p>     <p><font size="2" face="Verdana"> The decomposition of TFP shows that productivity    increments in the more-developed agriculture Southeast and South regions were    due mainly to technological progress, while increases of technical efficiency    were more important in other areas; the North and the Northeast regions actually    regressed technologically (Vicente, 2003). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Analysis of economic efficiency complements TFP    studies by providing performance measures for evaluating production activities    (Lovell, 1993) and by helping to identify the determinants of inefficiency,    all of which are useful in guiding extension activities, research and technical    support (Tupy et al, 2003). In the context of the national agricultural production,    studies of economic efficiency can also shed light on the speed and geographic    spread of agricultural modernization and productivity growth. For example, efficiency    analysis can tell us if UFs with the largest TFP indices are also the most efficient,    or, if temporary disequilibria caused by the adoption of new technologies (Schultz,    1975) has influenced the efficiency levels, or, if areas of low-productivity    agriculture produce efficiently given factor endowments and relative prices    (Schultz, 1965). </font></p>     <p><font size="2" face="Verdana">This study addresses these issues by estimating    the economic efficiency of the Brazilian crop production at the UF level using    data of the most recent Agricultural Census. In addition, the paper estimates    production possibility frontiers for annual crops, and using this frontier measures    the underutilization and overutilization of production factors, and via regression    analysis identifies factors influencing production efficiency. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>2 - Methodology </B> </font></p>     <p><font size="2" face="Verdana">Firms produce an output y, sold at a price p&gt;0,    using a vector of <I>n</I> inputs <I>x=</I>(<I>x<SUB>1</SUB>, ..., x<SUB>n</SUB></I>)<I>&iacute;</I>,    available at prices <I>w=</I>(<I>w<SUB>1</SUB>, ..., w<SUB>n</SUB></I>)<I>&iacute;&gt;0</I>.    The efficient transformation of inputs into output can be characterized by the    production function <I>f(x)</I> that represents the maximum output attainable    from several input vectors. Another representation of efficient production technology    can be the cost function <I>c(y,w)=min<SUB>x</SUB>{w'x/f(x)<u>&gt;</u>    y</I>, <I>x<u>&gt;</u>0}</I>, that shows the necessary minimum expenditure for    the production of y, given input prices w. A third representation is given by    the profit </font><font size="2" face="Verdana"> function, <font face="Symbol">p</font><I>(p,w)=max<SUB>y,x</SUB>{py-w&iacute;x/f(x)    <u>&gt;</u>y, x<u>&gt;</u>0, y<u>&gt;</u>0}</I>, that identifies combination    of inputs that maximize profit, given output and input prices. In the econometric    literature, <I>f(x)</I>, <I>c(y,w)</I> e <font face="Symbol">p</font><I>(p,w)</I>    are considered typical frontiers, since they characterize optimizing behavior    of an efficient producer, and establish the possible limits of their dependent    variables (F&oslash;rsund et al., 1980). </font></p>     <p><font size="2" face="Verdana">A production plan (<I>y<SUP>o</SUP>, x<SUP>o</SUP></I>)    is defined as technically efficient if <I>y<SUP>o</SUP>=f</I>(<I>x<SUP>o</SUP></I>),    and as technically inefficient if <I>y<SUP>o</SUP>&lt;f</I>(<I>x<SUP>o</SUP></I>);    <I>y<SUP>o</SUP>&gt;f</I>(<I>x<SUP>o</SUP></I>) is assumed to be impossible.    One measure of the technical efficiency of this plan can be represented by <I>0    <u>&lt;</u> y<SUP>o</SUP>/f</I>(<I>x<SUP>o</SUP></I>)<I> <u>&lt;</u> 1</I>.    The technical inefficiency is due to the excessive input usage, which is costly,    and so, <I>w&iacute;x<SUP>o </SUP><u>&gt;</u> c(y<SUP>o</SUP>, w</I>); since    cost was not minimized, the profit was not maximized, <I>(py<SUP>o</SUP>-w&iacute;x<SUP>o</SUP></I>)    <u>&lt;</u> <font face="Symbol">p</font>(<I>p,w</I>). The inefficiency    can also be allocative, originating from the use of inputs in inadequate proportions,    and generate higher costs and lower <a name="tx01" id="tx01"></a>profits<SUP><a href="#nt01">1</a></SUP>.    </font></p>     <p><font size="2" face="Verdana">Farrel (1957), proposed a deterministic nonparametric    frontier <a name="tx02" id="tx02"></a>method<SUP><a href="#nt02">2</a></SUP>    to estimate production functions and to measure technical and allocative <a name="tx03" id="tx03"></a>efficiency<SUP><a href="#nt03">3</a></SUP>.    Consider a firm producing output y using the inputs x<SUB>1</SUB> and x<SUB>2</SUB>,    and assume that the production function (frontier) is <I>y=f (x<SUB>1</SUB>,x<SUB>2</SUB>)</I>,    under constant returns to scale it may be written <I>1=f (x<SUB>1</SUB>,x<SUB>2</SUB>)</I>,    i.e., the technological frontier can be represented by a unit isoquant <a name="tx04" id="tx04"></a>(<a href="#fig01">figure    1</a>)<SUP><a href="#nt04">4</a></SUP>. </font></p>     <p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n2/a02fig01.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana">If the point A, that by definition cannot lie    below the curve UU', represents the production of the output <I>y<SUP>0</SUP></I>    using <I>x<SUB>1</SUB><SUP>0</SUP></I> and <I>x<SUB>2</SUB><SUP>0</SUP></I>,    then the ratio OB/OA - the ratio of inputs needed to produce <I>y<SUP>0</SUP></I>    to the inputs actually used to produce <I>y<SUP>0</SUP></I> - measures technical    inefficiency. The isoquant UU' characterizes the most efficient production as    regards input use, and the deviations from it were considered by Farrell (1957)    to be measures of the technical inefficiency of firms. </font></p>     <p><font size="2" face="Verdana">If the line PP' represents relative input prices,    the ratio OD/OB measures allocative inefficiency, since the cost of point D    is the same as that of the allocatively efficient point C, and is less than    that of the technically efficient but allocative inefficiency point B. A measure    of total efficiency (or economic efficiency) is provided by the ratio OD/OA    (F&oslash;rsund et al., 1980). </font></p>     <p><font size="2" face="Verdana"><B><I>2.1 Data Envelopment Analysis (DEA) </I></B>    </font></p>     <p><font size="2" face="Verdana">DEA is method of constructing production frontiers    without specifying production technology proposed by Charnes, Cooper and Rhodes    (1978). The efficiency of a "decision making unit" (DMUs) is measured    relative to all other units, with the simple restriction that all of them are    on or below the efficient frontier (Seiford and Thrall, 1990). </font></p>     <p><font size="2" face="Verdana">More specifically, it is a linear programming    methodology that uses data on outputs and inputs to construct complete linear    production surfaces. The frontier surface is obtained by series of linear programming    problems, one for each observation (DMU) in the <a name="tx05" id="tx05"></a>sample<SUP><a href="#nt05">5</a></SUP>    (Rao and Coelli, 1999). The measure of the inefficiency of each DMU is given    by the distance between each point and the production frontier. In the present    study, an input-oriented DEA was used to define the frontier based on the maximum    possible proportional reduction in input usage, holding output levels constant    for each observation. </font></p>     <p><font size="2" face="Verdana">Using the duality theorem, the mathematical programming    problem under constant returns to scale can be represented by (Coelli, 1996):    </font></p>     <p><font size="2" face="Verdana"> <img src="/img/revistas/resr/v42n2/a02frm01.gif"></font></p>     <p><font size="2" face="Verdana">where <font face="Symbol">q</font><u>&lt;</u>1    is a scalar representing the degree of technical efficiency (ET) of the i-th    <a name="tx06" id="tx06"></a>DMU<SUP><a href="#nt06">6</a></SUP>, and <font face="Symbol">l</font> is a vector (Nx1) of <a name="tx07" id="tx07"></a>constants<SUP><a href="#nt07">7</a></SUP>.    That linear programming problem must be solved N times, once for each observation    in the sample. </font></p>     <p><font size="2" face="Verdana">If inputs prices are available, it is possible    to measure technical and allocative efficiency by solving the following cost    minimization DEA model (Coelli, 1996): </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"> <img src="/img/revistas/resr/v42n2/a02frm02.gif"></font></p>     <p><font size="2" face="Verdana">where <I>w<SUB>i</SUB></I> is an input price    vector for the i-th DMU, and <I>x<SUB>i</SUB><SUP>*</SUP></I> it is the cost-minimizing    vector of input quantities for the <I>i-th</I> DMU given input prices (<I>w<SUB>i</SUB></I>)    and output levels (<I>y<SUB>i</SUB></I>). </font></p>     <p><font size="2" face="Verdana"> The economic efficiency (or total efficiency,    or cost efficiency) of the <I>i-th</I> DMU can be calculated by (Coelli, 1996):    </font></p>     <p><font size="2" face="Verdana"> <img src="/img/revistas/resr/v42n2/a02frm03.gif"></font></p>     <p><font size="2" face="Verdana">that is, the ratio of minimum cost to the observed    cost. </font></p>     <p><font size="2" face="Verdana">Allocative efficiency (EA) is obtained residually:    </font></p>     <p><font size="2" face="Verdana"> <img src="/img/revistas/resr/v42n2/a02frm04.gif"></font></p>     <p><font size="2" face="Verdana">Indicators of underutilization and overutilization    of inputs flow directly from the previous efficiencies calculations. Production    potential (the frontier), given input levels for each UF, can be estimated through:    (Ramanathan, 2000): </font></p>     <p> <font size="2" face="Verdana"><img src="/img/revistas/resr/v42n2/a02frm05.gif"></font></p>     <p><font size="2" face="Verdana">where PP<SUB>i</SUB> is the potential output    of the i-th DMU and PA<SUB>i</SUB> is the current output level. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Once efficiency indices are calculated, one can    then attempt to identify some of the factors that determine their magnitudes.    Technical efficiency indices (ET) and allocative efficiency indexes (EA) for    the UFs might be related to human capital variables, with agroecological conditions    or and with the use of irrigation. </font></p>     <p><font size="2" face="Verdana">Human capital can be measured in terms of the    education of the rural population, more specifically, the years of schooling    of individuals aged 5 year or older. These data are taken from Demographic Censuses    (1970, 1980 and 1990); averages among the 1975 and 1985 censuses were used and    data points for 1995 was estimated using growth rates in completed years of    schooling over the 1970-85 period. The availability of technical assistance    might also influence productivity; a variable to capture this form of human    capital (based on the percentage of establishments that declared having access    at those services) was derived from the 1995-96 Agricultural Census. </font></p>     <p><font size="2" face="Verdana">To capture agroecological and climatic conditions,    a variable representing land quality was    constructed based on the percentage of land within a given DMU that was of good    or regular quality, and suitable for production with handling levels A and B,    as classified by the Ministry of the Agriculture (Brazil, 1978 - 1980) that    takes into account not just the soil, but also the climate conditions. Good-quality    land did not face any significant production limitations. Regular-quality land    could face moderate production limitations; such limitations can reduce productivity    or substantially increase the need for inputs to overcome these limitations.    'Level A' handling is based in low-technological agricultural practices; practically    there is no capital application for handling, improvement and soil conservation,    and the agricultural practices depend on the manual work, could be used some    animal traction with simple agricultural implements. 'Level B' handling is based    on medium technological agricultural practices; it is characterized by the modest    capital application and of research results for handling, improvement and soil    conservation, with the agricultural practices conditioned to the animal traction.    One would expect higher productivity from land suitable for production with    such simple techniques, if cultivated with more modern methods. </font></p>     <p><font size="2" face="Verdana">Variables related to local weather conditions    were also used to identify factors influencing agricultural inefficiency. Standard    measures of rainfall and air temperature, and their interaction, along with    the length of the growing period (captured by the latitude), supply a measure    of water stress (the difference between potential and realized evapotranspiration)    that was included as right hand side variable. Realized evapotranspiration is    conditioned by the precipitation and by water stored in the soil. Measures of    water stress can be obtained through the calculation of hydric balances (Ortolani    et al., 1970). </font></p>     <p><font size="2" face="Verdana">Irrigation use was represented by the proportion    of land irrigated in the UFs in 1995-96. </font></p>     <p><font size="2" face="Verdana">Since measures of technical and allocative efficiency    take on values between zero and one, a Tobit estimation procedure (Maddala,    1983; Greene, 1995) was used to validate the initial OLS estimates. </font></p>     <p><font size="2" face="Verdana"><B> <I>2.2 - Data sources and variables used    in estimating the production frontier </I></B></font></p>     <p><font size="2" face="Verdana">Crop-level data from the 1995-96 Agricultural    Census for cotton (arboreal and herbaceous), peanuts, rice, bananas, potatoes,    cocoa, coffee,cashews, sugar cane, onions, coconuts, beans, tobacco, jute, oranges,    mallow, castor oil seeds, cassava, corn, pepper, sisal, soybeans, tomatoes,    wheat and grapes were used to estimate production frontiers. Product price data    were derived from the Funda&ccedil;&atilde;o Get&uacute;lio Vargas (FGV) and    IEA data bases. Aggregate agricultural output at the UF level was represented    by a quantity index. A performance index was constructed base on the value of    country-wide aggregate agriculture output in 1995. The "index-number problem"    that emerges from such normalization was first identified by Fisher in his classic    text published in <a name="tx08" id="tx08"></a>1922<SUP><a href="#nt08">8</a></SUP>.    More recent literature has focused on the relationships among functional forms    specified by researchers and index-numbers formulae. Diewert (1976) defined    as flexible an aggregate functional form that can provide a second order approximation    to an arbitrary homogeneous linear function; he also defined as superlative    an index-number formula that is exact (i.e., consistent) for a flexible functional    form. He demonstrated that the T&ouml;rnqvist-Theil translog index is exact    for an aggregative homogeneous translog form (and, therefore, superlative) and    that the Fisher's formula is exact for a homogeneous quadratic aggregative function    of order two (and, therefore, superlative). </font></p>     <p><font size="2" face="Verdana">Superlative formulae are also characterized by    their second order approximations <a name="tx09" id="tx09"></a>(Diewert, 1976)<SUP><a href="#nt09">9</a></SUP>    that limit the range of measured variations, a property maintained for nonhomothetic    functions (Diewert, 1978). However, in data series containing zero values, the    estimates using the T&ouml;rnqvist formula can be <a name="tx10" id="tx10"></a>biased<SUP><a href="#nt10">10</a></SUP>,    hence, the Fisher formula was chosen and can be represented for each UF, by:    </font></p>     <p><font size="2" face="Verdana"><img src="/img/revistas/resr/v42n2/a02frm06.gif"></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">where, FQ is the Fisher output index for a given    UF, superscript 'i' indexes product quantities (q) and prices (p), and subscript    zero and one denote, respectively, national and UFs <a name="tx11" id="tx11"></a>levels<SUP><a href="#nt11">11</a></SUP>.    </font></p>     <p><font size="2" face="Verdana">Output indices calculated using this methodology    more adequately capture output changes than the value of production, are conceptually    more consistent with the DEA framework, and have the added advantage of implicitly    consider prices differences across the UFs, differences that would be lost if    individual crop production data were used directly in calculating efficiency    indices. </font></p>     <p><font size="2" face="Verdana">Inputs into production processes were: land (area    dedicated to crops), labor (household labor, permanent and temporary employees,    partners and other sources of farm labor), machines, fertilizers, pesticides,    seeds and seedlings. Land rental rates and monthly salaries paid wage earners    were derived from FGV and IEA sources. </font></p>     <p><font size="2" face="Verdana">Regarding mechanization, stocks of tractors and    harvesters on farms were transformed into service flows using the Yotopoulos    (1967) formula: </font></p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v42n2/a02img01.gif"></font></p>     <p><font size="2" face="Verdana">where R is the constant annual service flow from    the i-th asset, ViTi is the original market value, Ti is the expected life of    the machine (21 years, in this case), r is the discount rate (set at the annual    return on a commercial savings account, in this case). The average value of    farm machinery at UF level, derived from Barros (1999) and Vicente et al. (2001a),    took into consideration the Agricultural Census categories of tractor power    (measured in terms of horse-power). Fuel usage was estimated using expenses    on fuels as declared in the Agricultural Census and the average price of diesel    (quantity = expenses/price). </font></p>     <p><font size="2" face="Verdana">Fertilizer use was estimated from declared expenses    on base and top dressing fertilizers and the unit price of formula 04 - 14 -    08 (obtained through the prices of sulfate    of ammonia, simple superfosfate and potassium chloride at UF level). </font></p>     <p><font size="2" face="Verdana">Pesticides use was estimated based on declared    expenses and of the prices of Folidol 60% (insecticide), Benlate 50% (fungicide)    and Tordon 101 (herbicide), again at UF level. </font></p>     <p><font size="2" face="Verdana">Use of seeds and seedlings were based on declared    expenses. Gaps in seed use data were filled using estimates based the prices    of seed for cotton, garlic, rice, potatoes, onions, beans, hybrid corn, soybeans,    sorghum and wheat, weighted by the amounts recommended per hectare (Pedro Jr.,    1987) and the areas to these crops at UFs level. Although price data on coffee    and orange seedlings exist, they were not used due to the absence of information    on newly planted areas in the Agricultural <a name="tx12" id="tx12"></a>Censuses<SUP><a href="#nt12">12</a></SUP>.    </font></p>     <p><font size="2" face="Verdana">Given the nature of the factors of production    described above - most of which divisible and scale neutral - the restriction    of variable returns to scale was not imposed in the DEA models, which will bias    results towards increased technical efficiency for <a name="tx13" id="tx13"></a>DMUs<SUP><a href="#nt13">13</a></SUP>.    </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>3 - Results and Discussion </B> </font></p>     <p><font size="2" face="Verdana">The geometric <a name="tx14" id="tx14"></a>mean<SUP><a href="#nt14">14</a></SUP>    of economic efficiency indices for all UFs was 0,336. The Southeast, Center-west    and South regions averages were higher than the national average. UFs in the    North and Northeast regions had the lowest averages. These results were due    mainly to indices of allocative efficiency; only the states of Bahia, Rio Grande    do Norte, Paran&aacute; and Rio Grande do Sul had indices of allocative efficiency    that were higher than their respective technical efficiency indices (<a href="#tab01">table    1</a>). Only the state of S&atilde;o Paulo registered an economic efficiency    index equal to 1; Esp&iacute;rito Santo displayed moderate economic inefficiency,    and the other UFs registered large measures of economic <a name="tx15" id="tx15"></a>inefficiency<SUP><a href="#nt15">15</a></SUP>.    </font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v42n2/a02tab01.gif"></font></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"> At national level, technical efficiency indices    averaged 0,723; above-average measures are reported for the Center-West, Southeast    and North regions. The Southeast, South and Center-West regions registered measures    of allocative efficiency that were above the national average (0,465). </font></p>     <p><font size="2" face="Verdana">UFs in the Southeast (S&atilde;o Paulo and Esp&iacute;rito    Santo), Center-West (Mato Grosso) and North (Acre, Amazon and Rond&ocirc;nia)    - with indices of technical efficiency equal to 1 - demonstrate the simultaneous    existence of technically efficient production in UFs characterized by very established    and modernized agriculture, in quickly modernizing UFs, and in UFs in which    more traditional crop production systems are dominant. </font></p>     <p><font size="2" face="Verdana">The allocative efficiency indices, on the other    hand, show strong inefficiency in almost all of areas of the country, except    in the Southeast. Only S&atilde;o Paulo (efficiency = 1), Esp&iacute;rito Santo,    Paran&aacute;, Goi&aacute;s and Minas Gerais (with moderate inefficiency) displayed    relatively high allocative efficiency measures. Structural problems - perhaps    associated with inadequate research, technical support and education, poorly    performing factor and product markets, and inappropriate agrarian structure,    among others - may be reducing the efficiency of agricultural production in    other areas of the country. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Given these technical efficiency indices and    using the production frontier, it is possible to estimate what crop product    might have been if all producers used the same levels of inputs but use them    efficiently. The DEA model suggests that national crop production in 1995could    have been about 31,6% higher, but again, the range of possible efficiency gains    displayed substantial spatial variation. More specifically, the Center-west    could have produced 5,4% more, and the Northeast could have boosted output by    <a name="tx16" id="tx16"></a>96,5%<SUP><a href="#nt16">16</a></SUP>. </font></p>     <p><font size="2" face="Verdana"> Other indicators of allocative efficiency related    to input over- or underutilization can also be calculated, maintained the same    output levels. For example, a Likert <a name="tx17" id="tx17"></a>scale<SUP><a href="#nt17">17</a></SUP>    was built by attributing a zero value to recommendations of alteration input    use between ± 30%, a value of -1 to recommendations for decreased input    use that are larger than 30% (overutilization), and a value +1 to recommendations    for increased use that are larger than 30% (underutilization). Regional and    national averages were interpreted using other Likert <a name="tx18" id="tx18"></a>scale<SUP><a href="#nt18">18</a></SUP>.    At national level, the results indicate strong land and labor overutilization,    and modest fertilizer and pesticide underutilization (herbicides, insecticides    and fungicides, <a href="#tab02">Table 2</a>).</font></p>     <p><a name="tab02"></a></p>     <p>&nbsp;</p>     <blockquote>        <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v42n2/a02tab02.gif"></font></p> </blockquote>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Several regional results differ of the national    averages: the Northeast suffered from moderate machine, fuel and fertilizer    underutilizations, and strong pesticide underutilization; the North experienced    weak machine underutilization and strong fertilizer underutilization; the Center-West    correctly used of labor, weakly overutilized fuel, insecticides and fungicides,    moderately overused fertilizers and herbicides, and strongly overutilized <a name="tx19" id="tx19"></a>seeds<SUP><a href="#nt19">19</a></SUP>;    the Southeast, correctly used of land, moderately overused labor, weakly underutilized    fuel, fertilizers and seeds, and moderately underutilized pesticides; and, the    South moderately overutilized land, strongly overutilized machines and seeds,    weakly overutilized insecticides, correctly used fertilizers, herbicides and    fungicides, and weakly underutilized <a name="tx20" id="tx20"></a>fuel<SUP><a href="#nt20">20</a></SUP>.    </font></p>     <p><font size="2" face="Verdana">Of the explanatory variables included to try    to explain differences in technical efficiency <a name="tx21" id="tx21"></a>levels<SUP><a href="#nt21">21</a></SUP>    across the UFs, only the agroecological factors and irrigation use were statistically    significant, indicating that production and crop production efficiency were    strongly influenced by climate and soils (<a href="#tab03">Table 3</a>). </font></p>     <p><a name="tab03"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v42n2/a02tab03.gif"></font></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">The estimated coefficient for the hydric deficiency    of the September-March period, although with the expected negative sign, is    not statistically significant. It is probable that a better definition of that    variable, considering differences in the planting and vegetative development    periods of the UFs crops supply would generate better <a name="tx22" id="tx22"></a>results<SUP><a href="#nt22">22</a></SUP>.    </font></p>     <p><font size="2" face="Verdana">The unexpected absence of significant effect    of the access to the technical assistance on the indices of technical efficiency    is due, probably, to the inexistence of information about frequency and quality    of the technical visits to the producers. </font></p>     <p><font size="2" face="Verdana">In a second model specified to identify factors    influencing allocative efficiency only education of the rural population was    statistically significant. In that case, higher levels of educational achievement    led to greater efficiency, perhaps due to education's contributions to greater    access to and ability to work with information on relative prices, and a greater    appreciation for the possibilities for substitution among inputs in <a name="tx23" id="tx23"></a>production<SUP><a href="#nt23">23</a></SUP></font><font size="2" face="Verdana">.    </font></p>     <p><font size="2" face="Verdana">The same explanation about the absence of statistically    significant effect from technical assistance mentioned earlier applies here.    </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>4 - Conclusions and Suggestions </B> </font></p>     <p><font size="2" face="Verdana">National efficiency indices revealed moderate    technical inefficiency in crop production in Brazil in 1995. Overall technical    efficiency was found in UFs with modern agriculture, in UFs in the process of    rapid modernization and in some UFs where traditional crop production was predominant.    Technical efficiency was explained primarily by soil and climatic conditions    and irrigation. If all UFs were to produce at the technically efficiency frontier,    the nation crop production could increase by more than 30%. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Regarding allocative efficiency, national average    demonstrated large inefficiencies in production; these inefficiencies were present    in all regions of Brazil, except the Southeast.    Educational achievement in rural areas was statistically linked to efficiency    measures - more education was correlated with improved allocative efficiency.    Simulations of cost minimization indicated that land and labor were generally    overutilized and that fertilizers and pesticides generally underutilized in    Brazil. </font></p>     <p><font size="2" face="Verdana">Economic efficiency indices in the UFs were determined    mainly by measures of allocative efficiency (rather than technical efficiency)    in nearly all cases; crop production in S&atilde;o Paulo was the only case for    which economic inefficiency was not detected. </font></p>     <p><font size="2" face="Verdana">These results evidence agroecological zonings    importance, as well as investments in education, to increase efficiency in agricultural    production. </font></p>     <p><font size="2" face="Verdana">The considerable regional efficiency differences    founded here suggests that further studies could verify if that pattern repeats    at different farm sizes level. </font></p>     <p><font size="2" face="Verdana">Concerning to the efficiency levels explanatory    models, new researches should try to test influence of scientific knowledge    investments results, besides variables capable to represent rural extension    and weather conditions more appropriately. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>5 - References</B> </font></p>     <!-- ref --><p><font size="2" face="Verdana">BARROS, A.L.M. <B>Capital, produtividade e crescimento    da agricultura</B>: o Brasil de 1970 a 1995. Piracicaba, ESALQ/USP, 1999. (Tese    de Doutorado) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S0103-2003200400020000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">BRASIL. Minist&eacute;rio da Agricultura. Secretaria    Nacional de Planejamento Agr&iacute;cola. <B>S&eacute;rie Aptid&atilde;o Agr&iacute;cola    das Terras</B>. Bras&iacute;lia: BINAGRI, 1978-1980. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S0103-2003200400020000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">CENSO AGROPECU&Aacute;RIO 1995-1996. Rio de Janeiro:    IBGE, 1998. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S0103-2003200400020000200003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">CENSO DEMOGR&Aacute;FICO. Rio de Janeiro: IBGE,    1970, 1980, 1990. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0103-2003200400020000200004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">CHARNES, A.; COOPER, W.; RHODES, E. Measuring    the efficiency of decision making units.    <B>European Journal of Operational Research</B>, v. 2, n. 6, p. 429-444, 1978.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S0103-2003200400020000200005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">COELLI, T. A Guide to DEAP Version 2.1: a Data    Envelopment Analysis (Computer) Program. Armidale: University of New England/Department    of Econometrics/Centre for Efficiency and Productivity Analysis, 1996. (CEPA    Working Paper 96/08) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0103-2003200400020000200006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">DIEWERT, W.E. Exact and superlative index numbers.    <B>Journal of Econometrics</B>, v. 4, n. 2, p. 115-145, may 1976. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S0103-2003200400020000200007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">DIEWERT, W.E. Superlative index numbers and consistency    in aggregation. <B>Econometrica</B>, v. 46, n. 4, p. 883-900, jul. 1978. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0103-2003200400020000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">FARRELL, M.J. The measurement of productive efficiency.    <B>Journal of Royal Statistical Society</B>, A, n. 120 (Part 3), p. 253-281,    1957. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0103-2003200400020000200009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">F&Oslash;RSUND, F.R.; LOVELL, C.A.K.; SCHMIDT,    P. A survey of frontier productions functions and of their relationship to efficiency    measurement. <B>Journal of Econometrics</B>, v. 13 n. 1, p. 5-25, may. 1980.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S0103-2003200400020000200010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">FURTADO, A. T. (coord.) <B>Pol&iacute;ticas P&uacute;blicas    para a Inova&ccedil;&atilde;o Tecnol&oacute;gica na Agricultura do Estado de    S&atilde;o Paulo</B>: m&eacute;todos para a avalia&ccedil;&atilde;o de impactos    da pesquisa. Campinas: UNICAMP/IE/DPCT/GEOPI, mai. 2003. (Relat&oacute;rio Final    de Atividades - Programa de Pol&iacute;ticas P&uacute;blicas - FAPESP) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0103-2003200400020000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">KOPP, R.J. The measurement of productive efficiency:    a reconsideration. <B>The Quarterly Journal of Economics</B>, v. 96 n. 3, p.    477-503, aug. 1981. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S0103-2003200400020000200012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">LOVELL, K.C.A. Production frontiers and productive    efficiency. In: FRIED, H.O; LOVELL, K.C.A.; SCHIMIDT, S.S. (ed.) <B>The Measurement    of Productive Efficiency</B>: techniques and applications. New York: Oxford    University Press, 1993. p. 3-54. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0103-2003200400020000200013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana"> MATOS, O. C. <B>Econometria B&aacute;sica</B>:    teoria e aplica&ccedil;&otilde;es. S&atilde;o Paulo: Atlas, 2000. (3&ordf; ed.)    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S0103-2003200400020000200014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">ORTOLANI, A.A. et al. <B>Par&acirc;metros Clim&aacute;ticos    e a Cafeicultura</B>. Rio de Janeiro: IBC, 1970. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0103-2003200400020000200015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">PEDRO Jr., M.J. et al. <B>Instru&ccedil;&otilde;es    Agr&iacute;colas para o Estado de S&atilde;o Paulo</B>. Campinas: IAC, 1987.    (4&ordf; ed., Boletim 200) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S0103-2003200400020000200016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">PEREIRA F&ordm;, C.A.; FERREIRA F&ordm;, J.B.S.    Fontes de inefici&ecirc;ncia da pequena produ&ccedil;&atilde;o familiar agr&iacute;cola    na regi&atilde;o Rec&ocirc;ncavo do Estado da Bahia. <B>Revista de Economia    e Sociologia Rural</B>, v. 41 n. 1, p. 63-78, jan./mar. 2003. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003200400020000200017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">RAMANATHAN, R. <B>Data Envelopment Analysis (DEA)</B>.    Helsinki: Helsinki University of Technology, sep./dec. 2000. (Class Notes) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000127&pid=S0103-2003200400020000200018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">RAO, D.S.P.; COELLI, T.J. <B>Economic Growth,    Productivity Change and Inequalty</B>: methodology for the assessment of economic    performance of nations. Armidale: University of New England/Department of Econometrics/Centre    for Efficiency and Productivity Analysis, aug. 1999. (Background paper for the    Workshop at the Kanda Campus of Senshu University on 24th August, 1999) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003200400020000200019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">RAY, S.C.; BHADRA, D. Nonparametric tests of    cost minimizing behavior: a study of Indian farms. <B>American Journal of Agricultural    Economics</B>, v.75 n.4, p. 990-999, nov. 1993. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000129&pid=S0103-2003200400020000200020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">SCHULTZ, T.W. <B>A Transforma&ccedil;&atilde;o    da Agricultura Tradicional</B>. Rio de Janeiro: Zahar, 1965. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003200400020000200021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">SCHULTZ, T.W. The value of the ability to deal    with disequilibria. <B>Journal of Economic Literature</B>, 13(3): 827-846, sep.    1975. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000131&pid=S0103-2003200400020000200022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">SCHUMPETER, J.A. T<B>eoria do Desenvolvimento    Econ&ocirc;mico</B>: uma investiga&ccedil;&atilde;o    sobre lucro, capital, juro e o ciclo econ&ocirc;mico. S&atilde;o Paulo: Abril    Cultural, 1982. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200400020000200023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">SEIFORD, L.M.; THRALL, R.M. Recent developments    in DEA: the mathematical programming approach to frontier analysis. <B>Journal    of Econometrics</B>, v. 46, n. 1/2, p. 7-38, oct./nov. 1990. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S0103-2003200400020000200024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">SILVA, G.L.S.P.; CARMO, H.C.E. Como medir a produtividade    agr&iacute;cola: conceitos, m&eacute;todos e aplica&ccedil;&otilde;es no caso    de S&atilde;o Paulo. <B>Agricultura em S&atilde;o Paulo</B>, v. 33 , n. 1/2,    p. 139-170, 1986. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200400020000200025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">TUPY, O. et al. Efici&ecirc;ncia econ&ocirc;mica    na produ&ccedil;&atilde;o de leite tipo B no Estado de S&atilde;o Paulo. <B>Informa&ccedil;&otilde;es    Econ&ocirc;micas</B>, v. 33 , n. 2, p. 14-20, fev. 2003. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0103-2003200400020000200026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">VICENTE, J.R. <B>Pesquisa, Ado&ccedil;&atilde;o    de Tecnologia e Efici&ecirc;ncia na Produ&ccedil;&atilde;o Agr&iacute;cola</B>.    S&atilde;o Paulo: APTA, 2002. (S&eacute;rie Discuss&atilde;o APTA 2) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003200400020000200027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">VICENTE, J.R. Tecnologia, efici&ecirc;ncia e    produtividade total de fatores na agricultura brasileira, 1970-95. In: CONGRESSO    BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL, 41. Juiz do Fora, MG, 27 a 30 de    julho de 2003. <B>Anais</B>. Bras&iacute;lia: SOBER, 2003. p1-17. (CD-Rom) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S0103-2003200400020000200028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">VICENTE, J.R.; ANEFALOS, L.C.; CASER, D.V. Produtividade    agr&iacute;cola no Brasil, 1970-95. <B>Agricultura em S&atilde;o Paulo</B>,    v. 48 , n. 2, p. 33-55, 2001a. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200400020000200029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">VICENTE, J.R.; ANEFALOS, L.C.; CASER, D.V. Vieses    no c&aacute;lculo de n&uacute;meros-&iacute;ndices utilizando a f&oacute;rmula    de T&ouml;rnqvist em s&eacute;ries com aus&ecirc;ncias de dados. <B>Informa&ccedil;&otilde;es    Econ&ocirc;micas</B>, v. 31 , n. 6, p. 45-48, jun. 2001b. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S0103-2003200400020000200030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">VICENTE, J.R.; ANEFALOS, L.C.; CASER, D.V. Rela&ccedil;&otilde;es    de troca da agricultura brasileira, 1970-1995. <B>Informa&ccedil;&otilde;es    Econ&ocirc;micas</B>, v. 31, n. 11, p. 17-25, nov. 2001c </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200400020000200031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana"> YOTOPOULOS, P.A. From stock to flow capital    inputs for agricultural production functions: a micro-analytic approach. <B>Journal    of Farm Economics</B>, v. 49, n. 2, p. 476-491, may 1967. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0103-2003200400020000200032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana">Recebido em agosto de 2003 e revisto em mar&ccedil;o    de 2004. </font>    <br>   <font size="2" face="Verdana">This study is part of wider research project that    benefited from financial support from the State of S&atilde;o Paulo Research    Foundation (FAPESP). I would like to thank Stephen A. Vosti (UC-Davis) for his    very helpful comments and suggestions, and two anonymous referees. The usual    disclaimer applies. </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><a name="nt01"></a><a href="#tx01">1</a> The    combination of technical and allocative efficiencies, although necessary, is    not sufficient for the profit maximization, because the firm could still be    scale inefficient, or, <I>p </I>&sup1;<I> c<SUB>y</SUB>(y<SUP>o</SUP>,w)</I>    (Forsund et al., 1980).     <br>   <a name="nt02"></a><a href="#tx02">2</a> For other methods of production frontier    estimation, see Vicente (2002).    <br>   <a name="nt03"></a><a href="#tx03">3</a> Naturally, it can be argued that economic    agents' decisions are simultaneous; therefore, decisions that affect allocative    efficiency can affect technical efficiency, and vice-versa. Farrell (1957) attempted    to disaggregate those joint decisions and measure their independent effects    empirically (Kopp, 1981).    <br>   <a name="nt04"></a><a href="#tx04">4</a> The isoquant UU' (<a href="#fig01">figure    1</a>) is not observable and must be estimated from the sample data, including    data points 'within' the production frontier, as represented by the point A.    <br>   <a name="nt05"></a><a href="#tx05">5</a> In this case, the Units of the Federation    (UFs).    ]]></body>
+<body><![CDATA[<br>   <a name="nt06"></a><a href="#tx06">6</a> A value of q =1 indicates a point on    the frontier, in other words, an efficient DMU according to Farrell's (1957)    definition.     <br>   <a name="nt07"></a><a href="#tx07">7</a> In the    case of an efficient DMU, all the values of l will be equal to zero; for the    inefficient DMUs, the values of l are the weights used in the combination of    efficient DMUs that project each inefficient DMU onto the frontier (Tupy et    al., 2003).    <br>   <a name="nt08"></a><a href="#tx08">8</a> Details in Silva and Carmo (1986).        <br>   <a name="nt09"></a><a href="#tx09">9</a> See Silva    and Carmo (1986) for an empirical verification with S&atilde;o Paulo State data.    <br>  <a name="nt10"></a><a href="#tx10">10</a>    For an analysis of that problem using Agricultural Census data see Vicente et    al. (2001b).    <BR>   <a name="nt11"></a><a href="#tx11">11</a> The first ratio, inside of the root,    is a Laspeyres index, and the second ratio is a Paasche index.    <BR>   <a name="nt12"></a><a href="#tx12">12</a> For more details on the calculation    of the quantities and prices of the inputs see Vicente et al. (2001a).    <br>   <a name="nt13"></a><a href="#tx13">13</a> Naturally, in analyses at the farm's    level, given the characteristics of the mechanization use, would be more appropriate    to consider variable returns to scale.    <br>   <a name="nt14"></a><a href="#tx14">14</a> It was preferred to use geometric    averages in the calculation of the indicators for the regions and for Brazil    to maintain the property of decomposition of those indexes (that is, EE=ET.EA).    <br>   <a name="nt15"></a><a href="#tx15">15</a> Ray and Bhadra (1993) used an outline    to classify violations, at firm level, of the weak axiom of costs minimization.    Based on that outline, Pereira F&ordm; and Ferreira F&ordm; (2003) classified    efficiency indices as: weak inefficiency (0,9 <u>&lt;</u> EE &lt;1,0), moderate    inefficiency (0,7 <u>&lt;</u> EE &lt;0,9) and strong inefficiency (EE &lt;0,7);    in accordance with Ray and Bhadra (1993), the efficient class (EE=1) can be    added.    ]]></body>
+<body><![CDATA[<br>   <a name="nt16"></a><a href="#tx16">16</a> Note that technical efficiency indices    can suffer accentuated influence of the edafoclimatic conditions.    <br>   <a name="nt17"></a><a href="#tx17">17</a> Scales with categorical measures were    based on judgments of ordered intensity and in semantic opposition around a    medium point (Furtado, 2003).    <br>   <a name="nt18"></a><a href="#tx18">18</a> I &lt; -0,75 strong overutilization;    -0,75 <u>&lt;</u> I &lt; -0,50 moderate overutilization; -0,50 <u>&lt;</u> I    &lt;-0,25 weak overutilization; -0,25 <u>&lt;</u> I <u>&lt;</u> 0,25 correct    use; 0,25 &lt; I <u>&lt;</u> 0,50 weak underutilization; 0,50 &lt; I <u>&lt;</u>0,75    moderate underutilization, and 0,75 &lt; I strong underutilization.    <br>   <a name="nt19"></a><a href="#tx19">19</a> This result can be portraying higher    relative prices of those inputs.    <br>   <a name="nt20"></a><a href="#tx20">20</a> That looks like contradiction, between    strong overutilization of machines and weak underutilization of fuels is due,    probably, to the transformation method of machines stock in flow; however, can    also be an indicator of excessive tractors and harvesters stock in relation    to the effective use, acted by the fuels expenses    <br>   <a name="nt21"></a><a href="#tx21">21</a> The statistically significant s values    in the Tobit models indicate that the estimates differ from those of ordinary    least squares, although drastic alterations are not observed in the coefficients.    <br>   <a name="nt22"></a><a href="#tx22">22</a> It is also due to the fact that, as    mentioned earlier, the measure of edafoclimatic aptitude incorporates hydric    restrictions.    <br>   <a name="nt23"></a><a href="#tx23">23</a> The presence of heteroscedasticity    was tested in both models using a Pesaran-Pesaran F-test (Matos, 2000); we could    not reject the null hypothesis regarding the absence of heteroscedasticity.    </font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[A.L.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Capital, produtividade e crescimento da agricultura: o Brasil de 1970 a 1995]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+<publisher-name><![CDATA[ESALQUSP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<collab>Secretaria Nacional de Planejamento Agrícola^dMinistério da Agricultura</collab>
+<source><![CDATA[Série Aptidão Agrícola das Terras]]></source>
+<year></year>
+<page-range>1978-1980</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[BINAGRI]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<collab>CENSO AGROPECUÁRIO</collab>
+<source><![CDATA[]]></source>
+<year>1998</year>
+<page-range>1995-1996</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IBGE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<collab>CENSO DEMOGRÁFICO</collab>
+<source><![CDATA[]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IBGE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHARNES]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COOPER]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RHODES]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Measuring the efficiency of decision making units]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>1978</year>
+<volume>2</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>429-444</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELLI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Guide to DEAP Version 2.1: a Data Envelopment Analysis (Computer) Program]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Armidale ]]></publisher-loc>
+<publisher-name><![CDATA[University of New EnglandDepartment of EconometricsCentre for Efficiency and Productivity Analysis]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIEWERT]]></surname>
+<given-names><![CDATA[W.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Exact and superlative index numbers]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>may </year>
+<month>19</month>
+<day>76</day>
+<volume>4</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>115-145</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIEWERT]]></surname>
+<given-names><![CDATA[W.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Superlative index numbers and consistency in aggregation]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>jul.</year>
+<month> 1</month>
+<day>97</day>
+<volume>46</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>883-900</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FARRELL]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The measurement of productive efficiency]]></article-title>
+<source><![CDATA[Journal of Royal Statistical Society]]></source>
+<year>1957</year>
+<numero>120</numero>
+<issue>120</issue>
+<page-range>253-281</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FØRSUND]]></surname>
+<given-names><![CDATA[F.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOVELL]]></surname>
+<given-names><![CDATA[C.A.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHMIDT]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A survey of frontier productions functions and of their relationship to efficiency measurement]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>may.</year>
+<month> 1</month>
+<day>98</day>
+<volume>13</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>5-25</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FURTADO]]></surname>
+<given-names><![CDATA[A. T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Políticas Públicas para a Inovação Tecnológica na Agricultura do Estado de São Paulo: métodos para a avaliação de impactos da pesquisa]]></source>
+<year>mai.</year>
+<month> 2</month>
+<day>00</day>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[UNICAMPIEDPCTGEOPI]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KOPP]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The measurement of productive efficiency: a reconsideration]]></article-title>
+<source><![CDATA[The Quarterly Journal of Economics]]></source>
+<year>aug.</year>
+<month> 1</month>
+<day>98</day>
+<volume>96</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>477-503</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOVELL]]></surname>
+<given-names><![CDATA[K.C.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Production frontiers and productive efficiency]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[FRIED]]></surname>
+<given-names><![CDATA[H.O]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOVELL]]></surname>
+<given-names><![CDATA[K.C.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHIMIDT]]></surname>
+<given-names><![CDATA[S.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Measurement of Productive Efficiency: techniques and applications]]></source>
+<year>1993</year>
+<page-range>3-54</page-range><publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MATOS]]></surname>
+<given-names><![CDATA[O. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria Básica: teoria e aplicações]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Atlas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ORTOLANI]]></surname>
+<given-names><![CDATA[A.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Parâmetros Climáticos e a Cafeicultura]]></source>
+<year>1970</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IBC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEDRO Jr.]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Instruções Agrícolas para o Estado de São Paulo]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[IAC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[Fº]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fº]]></surname>
+<given-names><![CDATA[J.B.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Fontes de ineficiência da pequena produção familiar agrícola na região Recôncavo do Estado da Bahia]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jan.</year>
+<month>/m</month>
+<day>ar</day>
+<volume>41</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>63-78</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAMANATHAN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Data Envelopment Analysis (DEA)]]></source>
+<year>sep.</year>
+<month>/d</month>
+<day>ec</day>
+<publisher-loc><![CDATA[Helsinki ]]></publisher-loc>
+<publisher-name><![CDATA[Helsinki University of Technology]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAO]]></surname>
+<given-names><![CDATA[D.S.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COELLI]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic Growth, Productivity Change and Inequalty: methodology for the assessment of economic performance of nations]]></source>
+<year>aug.</year>
+<month> 1</month>
+<day>99</day>
+<publisher-loc><![CDATA[Armidale ]]></publisher-loc>
+<publisher-name><![CDATA[University of New EnglandDepartment of EconometricsCentre for Efficiency and Productivity Analysis]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAY]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BHADRA]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Nonparametric tests of cost minimizing behavior: a study of Indian farms]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>nov.</year>
+<month> 1</month>
+<day>99</day>
+<volume>75</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>990-999</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHULTZ]]></surname>
+<given-names><![CDATA[T.W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Transformação da Agricultura Tradicional]]></source>
+<year>1965</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Zahar]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHULTZ]]></surname>
+<given-names><![CDATA[T.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The value of the ability to deal with disequilibria]]></article-title>
+<source><![CDATA[Journal of Economic Literature]]></source>
+<year>sep.</year>
+<month> 1</month>
+<day>97</day>
+<volume>13</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>827-846</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHUMPETER]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Teoria do Desenvolvimento Econômico: uma investigação sobre lucro, capital, juro e o ciclo econômico]]></source>
+<year>1982</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Abril Cultural]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SEIFORD]]></surname>
+<given-names><![CDATA[L.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THRALL]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Recent developments in DEA: the mathematical programming approach to frontier analysis]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>oct.</year>
+<month>/n</month>
+<day>ov</day>
+<volume>46</volume>
+<numero>1</numero><numero>2</numero>
+<issue>1</issue><issue>2</issue>
+<page-range>7-38</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[G.L.S.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARMO]]></surname>
+<given-names><![CDATA[H.C.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Como medir a produtividade agrícola: conceitos, métodos e aplicações no caso de São Paulo]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>1986</year>
+<volume>33</volume>
+<numero>1</numero><numero>2</numero>
+<issue>1</issue><issue>2</issue>
+<page-range>139-170</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TUPY]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Eficiência econômica na produção de leite tipo B no Estado de São Paulo]]></article-title>
+<source><![CDATA[Informações Econômicas]]></source>
+<year>fev.</year>
+<month> 2</month>
+<day>00</day>
+<volume>33</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>14-20</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VICENTE]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pesquisa, Adoção de Tecnologia e Eficiência na Produção Agrícola]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[APTA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VICENTE]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Tecnologia, eficiência e produtividade total de fatores na agricultura brasileira, 1970-95]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>27 a</year>
+<month> 3</month>
+<day>0 </day>
+<conf-name><![CDATA[41 CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL]]></conf-name>
+<conf-loc>Juiz do Fora MG</conf-loc>
+<page-range>1-17</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VICENTE]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANEFALOS]]></surname>
+<given-names><![CDATA[L.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASER]]></surname>
+<given-names><![CDATA[D.V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Produtividade agrícola no Brasil, 1970-95]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>2001</year>
+<volume>48</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>33-55</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VICENTE]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANEFALOS]]></surname>
+<given-names><![CDATA[L.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASER]]></surname>
+<given-names><![CDATA[D.V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Vieses no cálculo de números-índices utilizando a fórmula de Törnqvist em séries com ausências de dados]]></article-title>
+<source><![CDATA[Informações Econômicas]]></source>
+<year>jun.</year>
+<month> 2</month>
+<day>00</day>
+<volume>31</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>45-48</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VICENTE]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANEFALOS]]></surname>
+<given-names><![CDATA[L.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASER]]></surname>
+<given-names><![CDATA[D.V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Relações de troca da agricultura brasileira, 1970-1995]]></article-title>
+<source><![CDATA[Informações Econômicas]]></source>
+<year>nov.</year>
+<month> 2</month>
+<day>00</day>
+<volume>31</volume>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>17-25</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[YOTOPOULOS]]></surname>
+<given-names><![CDATA[P.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[From stock to flow capital inputs for agricultural production functions: a micro-analytic approach]]></article-title>
+<source><![CDATA[Journal of Farm Economics]]></source>
+<year>may </year>
+<month>19</month>
+<day>67</day>
+<volume>49</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>476-491</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

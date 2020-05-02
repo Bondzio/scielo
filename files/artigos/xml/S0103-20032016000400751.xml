@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032016000400751</article-id>
+<article-id pub-id-type="doi">10.1590/1234-56781806-94790540409</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[A Influência do Preço dos Hortifrutícolas no IPCA: uma análise por meio da curva de Phillips]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Carrara]]></surname>
+<given-names><![CDATA[Aniela Fagundes]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Barros]]></surname>
+<given-names><![CDATA[Geraldo Sant&#8217;Ana de Camargo]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade de São Paulo  ]]></institution>
+<addr-line><![CDATA[Piracicaba São Paulo]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade de São Paulo  ]]></institution>
+<addr-line><![CDATA[Piracicaba São Paulo]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2016</year>
+</pub-date>
+<volume>54</volume>
+<numero>4</numero>
+<fpage>751</fpage>
+<lpage>770</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032016000400751&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032016000400751&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032016000400751&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo:  Os choques de oferta rotineiramente são relacionados ao comportamento da inflação. Seus efeitos têm sido, em geral, avaliados considerando variações nos preços das commodities (minérios, petróleo, produtos agropecuários estocáveis etc.). O objetivo deste trabalho é examinar a influência de um tipo de choque de oferta pouco estudado, mas que, como regra, recebe grande atenção do público: as mudanças nos preços dos hortifrutícolas (produtos perecíveis de ciclo relativamente curto). Esses preços frequentemente têm sido apontados como os responsáveis pelas acentuadas variações no IPCA. Com vistas a contemplar este objetivo, foi construída e estimada uma curva de Phillips, baseada nos modelos Novos-Keynesianos, e seguindo o arcabouço do modelo semiestrutural de pequeno porte utilizado pelo Banco Central do Brasil. O método de estimação empregado foi o de Autorregressão Vetorial com Correção de Erro (VEC) na sua versão estrutural. Os resultados evidenciam que os preços dos hortifrutícolas podem ter repercussão considerável na variação do IPCA e na variação das expectativas de inflação. Seus choques provocam efeitos que perduram por vários meses na trajetória destas duas variáveis.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract: Supply shocks have frequently been related to the behavior of inflation. Those shocks are in general measured by changes in commodity prices (minerals, oil, agricultural commodities, etc.). The objective of this paper is to examine the influence of supply shocks caused by changes in prices of horticultural products (perishable with short cycles) exert in the Brazilian inflation. Although not quite studied academically, this process has popularly been associated with important variations on the IPCA index. To deal with this process, a Phillips curve, following New Keynesians principles, based on the semi structural model of small size by the Brazilian Central Bank and the estimation method used was Auto-regression with Vector Error Correction (VEC) in its structural version. The results show that there is evidence that the prices of horticultural products may have a considerable participation in the IPCA and inflation expectations variations and their shocks produce effects that persist for several months in the trajectory of these two variables.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Preços]]></kwd>
+<kwd lng="pt"><![CDATA[IPCA]]></kwd>
+<kwd lng="pt"><![CDATA[Choques de oferta]]></kwd>
+<kwd lng="pt"><![CDATA[Hortifrutícolas.]]></kwd>
+<kwd lng="en"><![CDATA[Prices]]></kwd>
+<kwd lng="en"><![CDATA[IPCA]]></kwd>
+<kwd lng="en"><![CDATA[Supply shocks]]></kwd>
+<kwd lng="en"><![CDATA[Horticultural products.]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Inflation dynamics in Brazil: The case of a small open economy]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AREOSA]]></surname>
+<given-names><![CDATA[W. D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MEDEIROS]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Review of Econometrics]]></source>
+<year>2007</year>
+<volume>27</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>131-66</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Modelos lineares e não lineares da curva de Phillips para previsão da taxa de inflação no Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARRUDA]]></surname>
+<given-names><![CDATA[E. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[R. T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTELAR]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>2011</year>
+<volume>65</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>237- 252</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M. R. P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Formação de preços no setor sucroalccoleiro da região centro-sul do Brasil: relação com o mercado de combustível fóssil]]></source>
+<year>2005</year>
+<conf-name><![CDATA[ XXXIIIEncontro Nacional de Economia]]></conf-name>
+<conf-loc>Natal </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL - BACEN</collab>
+<source><![CDATA[Relatório de Inflação]]></source>
+<year>2001</year>
+<volume>3</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-178</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL - BACEN</collab>
+<source><![CDATA[Relatório de Inflação]]></source>
+<year>2010</year>
+<volume>12</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>1-139</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL - BACEN</collab>
+<source><![CDATA[Relatório de Inflação]]></source>
+<year>2011</year>
+<volume>13</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-147</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL - BACEN</collab>
+<source><![CDATA[Relatório de Inflação]]></source>
+<year>2013</year>
+<volume>15</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-140</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL - BACEN</collab>
+<source><![CDATA[Relatório de Inflação]]></source>
+<year>2014</year>
+<volume>16</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-100</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL - BACEN</collab>
+<source><![CDATA[Sistema gerenciador de séries temporais]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL - BACEN</collab>
+<source><![CDATA[Histórico de metas]]></source>
+<year>2016</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Modelling aspects of the inflation process and the monetary transmission mechanism in emerging market countries]]></article-title>
+<collab>BANK FOR INTERNATIONAL SETTLEMENTS (BIS)</collab>
+<source><![CDATA[Monetary and Economic Departament - BIS papers]]></source>
+<year>2001</year>
+<volume>8</volume>
+<page-range>1-272</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Real Wage Rigidities and the New Keynesian Model]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLANCHARD]]></surname>
+<given-names><![CDATA[O]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GALI]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Money, Credit and Banking]]></source>
+<year>2007</year>
+<volume>39</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>35-65</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The supply-shock explanation of the great stagflation revisited]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLINDER]]></surname>
+<given-names><![CDATA[A. S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUDD]]></surname>
+<given-names><![CDATA[J. B]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[National Bureau of economic researchWorking Papers Series]]></source>
+<year>2008</year>
+<volume>14563</volume>
+<page-range>1-78</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Implementing inflation targenting in Brazil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOGDANSKI]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOMBINI]]></surname>
+<given-names><![CDATA[A. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WERLANG]]></surname>
+<given-names><![CDATA[S.R.C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Working paper series]]></source>
+<year>2000</year>
+<volume>1</volume>
+<page-range>1-29</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOGDANSKI]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOMBINI]]></surname>
+<given-names><![CDATA[A. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Inflation targent in Brazil: shocks, backward-looking prices, and IMF conditionality. In Bank for International Settlements (BIS). Modelling aspects of the inflation process and the monetary transmission mechanism in emerging market countries]]></source>
+<year>2001</year>
+<publisher-name><![CDATA[Monetary and Economic Departament]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARRARA]]></surname>
+<given-names><![CDATA[A. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Choques de oferta e política monetária na economia brasileira: uma análise do impacto dos preços das commodities na inflação entre 2002 e 2014]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[Piracicaba, São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Escola Superior de Agricultura &#8220;Luiz de Queiroz&#8221;]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<collab>CEPEA - Centro de Estudos Avançados em Economia Aplicada</collab>
+<source><![CDATA[CEPEA]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Commodity prices and inflation: Testing in the frequency domain]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CINER]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Research in International Business and Finance]]></source>
+<year>2011</year>
+<volume>25</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>229-37</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Likelihood ratio statistics for autoregressive time series with a unit root]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica]]></source>
+<year>1981</year>
+<volume>49</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1057-72</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Efficient test for an autoregressive unit root]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ELLIOT]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROTHENBERG]]></surname>
+<given-names><![CDATA[T. J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STOCK]]></surname>
+<given-names><![CDATA[J. H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica]]></source>
+<year>1996</year>
+<volume>64</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>813-36</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENDERS]]></surname>
+<given-names><![CDATA[W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied Econometric time series]]></source>
+<year>2004</year>
+<edition>2. ed</edition>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Juros, commodities e preços administrados]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARCIA]]></surname>
+<given-names><![CDATA[M. G. P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Valor Econômico]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The New Neoclassical Synthesis and the Role of Monetary Policy]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOODFRIEND]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Federal Reserve Bank of Richmond]]></source>
+<year>1997</year>
+<page-range>98-5</page-range><publisher-name><![CDATA[Working Paper Series]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HATANAKA]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series based econometrics: unit roots and co-integrations]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Business Cycles: An Empirical Investigation]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HODRICK]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PRESCOTT]]></surname>
+<given-names><![CDATA[E. C. Postwar U.S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Money, Credit, and Banking]]></source>
+<year>1997</year>
+<volume>9</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-16</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<collab>IBGE - Instituto Brasileiro de Geografia Estatística</collab>
+<source><![CDATA[IBGE]]></source>
+<year>2014</year>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="">
+<collab>IBGE. Banco de Dados Agregados</collab>
+<source><![CDATA[Sistema IBGE de Recuperação automática-Sidra]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<collab>IPEADATA - Instituto de Pesquisa Econômica Aplicada</collab>
+<source><![CDATA[IPEADATA]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Statistical analysis of cointegration vestors]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Economic Dynamics and Control]]></source>
+<year>1988</year>
+<volume>12</volume>
+<page-range>231-54</page-range><publisher-loc><![CDATA[North-Holland ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Testing the null hypothesis of stationary against the alternative of a unit root]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KWIATKOWSKI]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>1992</year>
+<volume>54</volume>
+<page-range>159-78</page-range><publisher-loc><![CDATA[North-Holland ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[E. J. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[J. R. da C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Previsão e modelos macroeconômicos no Banco Central do Brasil]]></article-title>
+<collab>Banco Central do Brasil</collab>
+<source><![CDATA[Dez anos de metas para inflação 1999-2009]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Banco Central do Brasil]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MADDALA]]></surname>
+<given-names><![CDATA[G. S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KIM]]></surname>
+<given-names><![CDATA[I. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Units Roots, Cointegration and Structural Change]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[MacGraw - Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Commodity prices, inflationary pressures, and monetary policy: evidence from BRICS economies]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MALLICK]]></surname>
+<given-names><![CDATA[S. K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUSA]]></surname>
+<given-names><![CDATA[R. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Open Economies Review]]></source>
+<year>2013</year>
+<volume>24</volume>
+<numero>.</numero>
+<issue>.</issue>
+<page-range>677-94</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Real wage rigidity and the New Phillips curve: the Brazilian case]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAZALI]]></surname>
+<given-names><![CDATA[A. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DIVINO]]></surname>
+<given-names><![CDATA[J. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>2010</year>
+<volume>654</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>291-306</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Inflação versus desemprego: novas evidências para o Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENDONÇA]]></surname>
+<given-names><![CDATA[M. J. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SACHSIDA]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MEDRANO]]></surname>
+<given-names><![CDATA[L. A T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia Aplicada]]></source>
+<year>2012</year>
+<volume>16</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>475-500</page-range><publisher-loc><![CDATA[Ribeirão Preto ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Choque de oferta, indexação e política monetária: breves considerações sobre a aceleração inflacionária recente]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MODENESI]]></surname>
+<given-names><![CDATA[A. M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERRARI FILHO]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia &amp; tecnologia]]></source>
+<year>2011</year>
+<volume>7</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>1-9</page-range><publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Commodities prices index as a variable determining the consumer inflation rate and the monetary policy: recent evidences for the Brazilian economy through a VAR analysis]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[R. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economics and Finance Review]]></source>
+<year>2012</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>01-9</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[R. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Commodities prices volatility, expected inflation and GPD levels: an application for a net-exporting economy]]></source>
+<year>2014</year>
+<conf-name><![CDATA[ International Conference on Applied Economics (ICOAE)]]></conf-name>
+<conf-date>2014</conf-date>
+<conf-loc>Grécia </conf-loc>
+<publisher-loc><![CDATA[Grécia ]]></publisher-loc>
+<publisher-name><![CDATA[ICOAE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FEIJÓ]]></surname>
+<given-names><![CDATA[F. T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Curva de Phillips com mudança de regime markoviano: Uma análise da economia brasileira para o período 1995-2014]]></source>
+<year>2015</year>
+<conf-name><![CDATA[ XLIIIEncontro Nacional de Economia]]></conf-name>
+<conf-loc>Florianópolis </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ONO]]></surname>
+<given-names><![CDATA[G. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Analise do impacto dos preços das commodities sobre a inflação no Brasil]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação Getúlio Vargas, Escola de Economia de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A note with quantiles of the asymptotic distribution of the maximum likehood cointegration rank test statistics]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OSTERWALD-LENUM]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Oxford Bulletin of Economics and Statistics]]></source>
+<year>1992</year>
+<volume>54</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>461-72</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A look inside a key economic debate: how should monetary policy respond to price increases driven by supply shocks?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSEGREN]]></surname>
+<given-names><![CDATA[E. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Federal Reserve Bank of Boston]]></source>
+<year>2011</year>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Inflação, desemprego e choques cambiais: Uma revisão da literatura sobre a curva de Phillips no Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SACHSIDA]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>2013</year>
+<volume>67</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>521-31</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SACHSIDA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RIBEIRO]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[C. H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A curva de Phillips e a experiência brasileira. Instituto de Pesquisa Econômica Aplicada - IPEA]]></source>
+<year>2009</year>
+<numero>1429</numero>
+<issue>1429</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Inflação, desemprego e choques cambiais: estimativas VAR para a economia brasileira]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHETTINI]]></surname>
+<given-names><![CDATA[B. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOUVEA]]></surname>
+<given-names><![CDATA[R. R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SACHSIDA]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Instituto de Pesquisa Econômica Aplicada - IPEA]]></source>
+<year>2012</year>
+<numero>1694</numero>
+<issue>1694</issue>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Estimativa de curva de Phillips para o Brasil com preços desagregados]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHWARTZMAN]]></surname>
+<given-names><![CDATA[F. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia Aplicada]]></source>
+<year>2006</year>
+<volume>10</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>137-55</page-range></nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Supply shocks in macroeconomics]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAPIRO]]></surname>
+<given-names><![CDATA[M. D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[National Bureau of economic researchWorking Papers Series]]></source>
+<year>1987</year>
+<volume>2146</volume>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="">
+<collab>THOMSON REUTERS</collab>
+<source><![CDATA[THOMSON REUTERS]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

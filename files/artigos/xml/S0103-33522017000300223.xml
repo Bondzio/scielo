@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-3352</journal-id>
+<journal-title><![CDATA[Revista Brasileira de Ciência Política]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Bras. Ciênc. Polít.]]></abbrev-journal-title>
+<issn>0103-3352</issn>
+<publisher>
+<publisher-name><![CDATA[Universidade de Brasília. Instituto de Ciência Política]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-33522017000300223</article-id>
+<article-id pub-id-type="doi">10.1590/0103-335220172407</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Simulações de Monte Carlo no ensino de Ciência Política]]></article-title>
+<article-title xml:lang="en"><![CDATA[Monte Carlo simulations in the teaching of Political Science]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meireles]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Denisson]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Correa]]></surname>
+<given-names><![CDATA[Filipe]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal de Minas Gerais (UMFG)  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,UFMG  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af3">
+<institution><![CDATA[,UMFG  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2017</year>
+</pub-date>
+<numero>24</numero>
+<fpage>223</fpage>
+<lpage>254</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-33522017000300223&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-33522017000300223&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-33522017000300223&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo Ensinar como mecanismos causais ou modelos estatísticos funcionam nem sempre é algo simples, especialmente quando estes não podem ser facilmente exemplificados. O objetivo deste artigo é mostrar como Simulações de Monte Carlo (SMC) podem ser usadas para superar dificuldades como estas. Após fazermos uma breve introdução ao método, mostramos como utilizá-lo, a fim de ilustrar fenômenos de difícil mensuração ou conceitos abstratos; além disso, também mostramos como ele pode ser empregado para explicar intuitivamente a influência das violações de pressupostos sobre os resultados de alguns modelos estatísticos frequentemente utilizados na Ciência Política. Por fim, oferecemos um passo a passo para reproduzir nossos exemplos utilizando o software R, além de um simples aplicativo virtual (Shiny app) com estes exemplos, de modo a ser adaptado para uso em sala de aula.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract Teaching how causal mechanisms or statistical models work is often a difficult endeavor, even more so when there are no obvious ways to exemplify what is being taught. In this article, we show how Monte Carlo Simulations (SMC) can be employed in Political Science classes to overcome these problems. After a brief introduction to the method, we discuss practical application of simulations that can be used to shed light on abstract concepts and phenomena that are hard to measure. Additionally, we give examples of how simulations help to explain intuitively what consequences the misuse of statistical models might entail. Finally, we also provide step-by-step instructions to reproduce our examples using R and a web application (Shiny app) that can be easily adapted for teaching purposes.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[método de Monte Carlo]]></kwd>
+<kwd lng="pt"><![CDATA[Ciência Política]]></kwd>
+<kwd lng="pt"><![CDATA[metodologia política]]></kwd>
+<kwd lng="en"><![CDATA[Monte Carlo methods]]></kwd>
+<kwd lng="en"><![CDATA[Political Science]]></kwd>
+<kwd lng="en"><![CDATA[political methodology]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANGRIST]]></surname>
+<given-names><![CDATA[J. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PISCHKE]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mostly harmless econometrics: an empiricist's companion]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AQUINO]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[R para cientistas sociais]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Ilhéus ]]></publisher-loc>
+<publisher-name><![CDATA[Editus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AXELROD]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Advancing the art of simulation in the social sciences]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[CONTE]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HEGSELMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TERNA]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Simulating social phenomena]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Heidelberg ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARBERIA]]></surname>
+<given-names><![CDATA[L. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GODOY]]></surname>
+<given-names><![CDATA[S. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARBOZA]]></surname>
+<given-names><![CDATA[D. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Novas perspectivas sobre o &#8216;calcanhar metodológico&#8217;: o ensino de métodos de pesquisa em Ciência Política no Brasil]]></article-title>
+<source><![CDATA[Revista Teoria &amp; Sociedade]]></source>
+<year>2014</year>
+<month>a</month>
+<volume>22</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>156-84</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARBERIA]]></surname>
+<given-names><![CDATA[L. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GODOY]]></surname>
+<given-names><![CDATA[S. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARBOZA]]></surname>
+<given-names><![CDATA[D. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Inovação no ensino de métodos quantitativos em Ciência Política: aplicação de modelo baseado em atividades]]></article-title>
+<source><![CDATA[Agenda Política]]></source>
+<year>2014</year>
+<month>b</month>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>152-79</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARROLL]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Measuring bias and uncertainty in DW-NOMINATE ideal point estimates via the parametric bootstrap]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2009</year>
+<volume>17</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>261-75</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARTER]]></surname>
+<given-names><![CDATA[D. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SIGNORINO]]></surname>
+<given-names><![CDATA[C. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Back to the future: modeling time dependence in binary data]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2010</year>
+<volume>18</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>271-92</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARSEY]]></surname>
+<given-names><![CDATA[T. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HARDEN]]></surname>
+<given-names><![CDATA[J. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Can you repeat that please? Using Monte Carlo simulation in graduate quantitative research methods classes]]></article-title>
+<source><![CDATA[Journal of Political Science Education]]></source>
+<year>2015</year>
+<volume>11</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>94-107</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COX]]></surname>
+<given-names><![CDATA[G. W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[On the effects of legislative rules]]></article-title>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>2000</year>
+<volume>25</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>169-92</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DONATELLI]]></surname>
+<given-names><![CDATA[G. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KONRATH]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Simulação de Monte Carlo na avaliação de incertezas de medição]]></article-title>
+<source><![CDATA[Revista de Ciência &amp;Tecnologia]]></source>
+<year>2005</year>
+<volume>13</volume>
+<numero>25/26</numero>
+<issue>25/26</issue>
+<page-range>5-15</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIONISIO]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SPALDING]]></surname>
+<given-names><![CDATA[L. E. S.]]></given-names>
+</name>
+</person-group>
+<collab>SIMPÓSIO NACIONAL DE ENSINO DE CIÊNCIA E TECNOLOGIA</collab>
+<source><![CDATA[Método computacional de Monte Carlo adaptado como recurso didático para o estudo dos mecanismos de transferência de calor]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Ponta Grossa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO FILHO]]></surname>
+<given-names><![CDATA[D. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[When is statistical significance not significant?]]></article-title>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2013</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>31-55</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO FILHO]]></surname>
+<given-names><![CDATA[D. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA JR.]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Visão além do alcance: uma introdução à análise fatorial]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2010</year>
+<volume>16</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>160-85</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO FILHO]]></surname>
+<given-names><![CDATA[D. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA JR.]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROCHA]]></surname>
+<given-names><![CDATA[E. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Classificando regimes políticos utilizando análise de conglomerados]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2012</year>
+<volume>18</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>109-28</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREDERKING]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Simulations and student learning]]></article-title>
+<source><![CDATA[Journal of Political Science Education]]></source>
+<year>2005</year>
+<volume>1</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>385-93</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREEDMAN]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Statistical models: theory and practice]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRINSTEAD]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SNELL]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to probability]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[Rhode Island ]]></publisher-loc>
+<publisher-name><![CDATA[American Mathematical Society]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GROSECLOSE]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Testing committee composition hypotheses for the US Congress]]></article-title>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>1994</year>
+<volume>56</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>440-58</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JACKMAN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Estimation and inference via Bayesian simulation: an introduction to Markov chain Monte Carlo]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2000</year>
+<volume>44</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>375-404</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KEELE]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KELLY]]></surname>
+<given-names><![CDATA[N. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Dynamic models for dynamic theories: the ins and outs of lagged dependent variables]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2006</year>
+<volume>14</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>186-205</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KING]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Analyzing incomplete political science data: an alternative algorithm for multiple imputation]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2001</year>
+<volume>95</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>49-69</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTIN]]></surname>
+<given-names><![CDATA[A. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[QUINN]]></surname>
+<given-names><![CDATA[K. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Dynamic ideal point estimation via Markov chain Monte Carlo for the US Supreme Court, 1953-1999]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2000</year>
+<volume>10</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>134-53</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOLINA]]></surname>
+<given-names><![CDATA[C. E. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARINS]]></surname>
+<given-names><![CDATA[F. A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MONTEVECHI]]></surname>
+<given-names><![CDATA[J. A. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Proposta de utilização da simulação a eventos discretos no ensino da engenharia de produção]]></article-title>
+<source><![CDATA[Revista P&amp;D em Engenharia de Produção]]></source>
+<year>2010</year>
+<volume>8</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>11-5</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOONEY]]></surname>
+<given-names><![CDATA[C. Z.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Monte Carlo simulation]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Thousand Oaks ]]></publisher-loc>
+<publisher-name><![CDATA[Sage Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRADO]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Teoria das filas e da simulação]]></source>
+<year>1999</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Editora de Desenvolvimento Gerencial]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QUINN]]></surname>
+<given-names><![CDATA[K. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Bayesian factor analysis for mixed ordinal and continuous responses]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2004</year>
+<volume>12</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>338-53</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAIEGH]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Political prowess or &#8220;Lady Luck&#8221;? Evaluating chief executives&#8217; legislative success rates]]></article-title>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>2009</year>
+<volume>71</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1342-56</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHELLING]]></surname>
+<given-names><![CDATA[T. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Models of segregation]]></article-title>
+<source><![CDATA[The American Economic Review]]></source>
+<year>1969</year>
+<volume>59</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>488-93</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[G. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUARNIERI]]></surname>
+<given-names><![CDATA[F. H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Comments on when is statistical significance not significant?]]></article-title>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2014</year>
+<volume>8</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>133-6</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOARES]]></surname>
+<given-names><![CDATA[G. A. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[O calcanhar metodológico da Ciência Política no Brasil]]></article-title>
+<source><![CDATA[Sociologia, Problemas e Práticas]]></source>
+<year>2005</year>
+<numero>48</numero>
+<issue>48</issue>
+<page-range>27-52</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STOKES]]></surname>
+<given-names><![CDATA[S. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brokers, voters, and clientelism: the puzzle of distributive politics]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TSEBELIS]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Veto players: how political institutions work]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WINNISCHOFER]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Simulação Monte Carlo no ensino de luminescência e cinética de decaimento de estados excitados]]></article-title>
+<source><![CDATA[Química Nova]]></source>
+<year>2010</year>
+<volume>33</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>225-8</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032005000400001</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032005000400001</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Análise de envoltória de dados para avaliação de eficiência e caracterização de tipologias em agricultura: um estudo de caso]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gomes]]></surname>
+<given-names><![CDATA[Eliane Gonçalves]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Mangabeira]]></surname>
+<given-names><![CDATA[João Alfredo de Carvalho]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Mello]]></surname>
+<given-names><![CDATA[João Carlos Correia Baptista Soares de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Empresa Brasileira de Pesquisa Agropecuária  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Embrapa Monitoramento por Satélite  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidade Federal Fluminense Dep. de Eng. de Produção ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2005</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2005</year>
+</pub-date>
+<volume>43</volume>
+<numero>4</numero>
+<fpage>607</fpage>
+<lpage>631</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032005000400001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032005000400001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032005000400001&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O uso de Análise de Envoltória de Dados (DEA) para medir eficiência de produtores agrícolas permite indicar quem é eficiente, as razões para a ineficiência e os produtores cujas práticas podem servir de referência para os ineficientes. Este artigo usa DEA para medir a eficiência de uma amostra de agricultores de Holambra, município do Estado de São Paulo. Área cultivada, emprego e uso de máquinas são os inputs do modelo e a renda líquida é o output. É usado DEA BCC para avaliação em dois modelos: global e por grupos.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Farmers' relative efficiency evaluation can be useful to aid decision-making in agriculture. The use of Data Envelopment Analysis (DEA) in this context allows the identification of inefficiencies sources and benchmark units. This paper used DEA to measure the efficiency of farmers' sample from Holambra, a São Paulo State municipality. Cultivated area, employment and machinery usage are the inputs and net income is the output. DEA BCC is used in two models: global and by groups.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Eficiência técnica]]></kwd>
+<kwd lng="pt"><![CDATA[Programação linear]]></kwd>
+<kwd lng="pt"><![CDATA[DEA]]></kwd>
+<kwd lng="pt"><![CDATA[Tipologia de eficiência]]></kwd>
+<kwd lng="pt"><![CDATA[Holambra]]></kwd>
+<kwd lng="en"><![CDATA[Technical efficiency]]></kwd>
+<kwd lng="en"><![CDATA[linear programming]]></kwd>
+<kwd lng="en"><![CDATA[DEA]]></kwd>
+<kwd lng="en"><![CDATA[Efficiency typology]]></kwd>
+<kwd lng="en"><![CDATA[Holambra]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b><a name="top10"></a>An&aacute;lise    de envolt&oacute;ria de dados para avalia&ccedil;&atilde;o de efici&ecirc;ncia    e caracteriza&ccedil;&atilde;o de tipologias em agricultura: um estudo de caso<a href="#back10"><sup>1</sup></a></b>    </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Eliane Gon&ccedil;alves    Gomes<sup>I</sup>; Jo&atilde;o Alfredo de Carvalho Mangabeira<sup>II</sup>;    Jo&atilde;o Carlos Correia Baptista Soares de Mello<sup>III</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Doutora    em Engenharia de Produ&ccedil;&atilde;o (Pesquisa Operacional) e pesquisadora    da Empresa Brasileira de Pesquisa Agropecu&aacute;ria. <a href="mailto:eliane.gomes@embrapa.br">eliane.gomes@embrapa.br</a>    <br>   <sup>II</sup>Mestre    em Planejamento e Desenvolvimento Rural Sustent&aacute;vel e pesquisador da    Embrapa Monitoramento por Sat&eacute;lite. <a href="mailto:manga@cnpm.embrapa.br">manga@cnpm.embrapa.br</a>    <br>   <sup>III</sup>Doutor    em Engenharia de Produ&ccedil;&atilde;o (Pesquisa Operacional) e Professor Adjunto    do Dep. de Eng. de Produ&ccedil;&atilde;o da Universidade Federal Fluminense.    <a href="mailto:jcsmello@producao.uff.br">jcsmello@producao.uff.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> O uso de An&aacute;lise    de Envolt&oacute;ria de Dados (DEA) para medir efici&ecirc;ncia de produtores    agr&iacute;colas permite indicar quem &eacute; eficiente, as raz&otilde;es para    a inefici&ecirc;ncia e os produtores cujas pr&aacute;ticas podem servir de refer&ecirc;ncia    para os ineficientes. Este artigo usa DEA para medir a efici&ecirc;ncia de uma    amostra de agricultores de Holambra, munic&iacute;pio do Estado de S&atilde;o    Paulo. &Aacute;rea cultivada, emprego e uso de m&aacute;quinas s&atilde;o os    <i>inputs</i> do modelo e a renda l&iacute;quida &eacute; o <i>output</i>. &Eacute;    usado DEA BCC para avalia&ccedil;&atilde;o em dois modelos: global e por grupos.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chave:</b> Efici&ecirc;ncia t&eacute;cnica; Programa&ccedil;&atilde;o linear; DEA; Tipologia de efici&ecirc;ncia; Holambra.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Classifica&ccedil;&atilde;o    JEL:</b> C610, Q120.</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Farmers' relative    efficiency evaluation can be useful to aid decision-making in agriculture. The    use of Data Envelopment Analysis (DEA) in this context allows the identification    of inefficiencies sources and benchmark units. This paper used DEA to measure    the efficiency of farmers' sample from Holambra, a S&atilde;o Paulo State municipality.    Cultivated area, employment and machinery usage are the inputs and net income    is the output. DEA BCC is used in two models: global and by groups.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Keywords:</b>    Technical efficiency; linear programming; DEA; Efficiency typology; Holambra.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Jel Classification:</b>    C610, Q120.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1. Introdu&ccedil;&atilde;o</b></font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A an&aacute;lise de efici&ecirc;ncia de unidades produtivas tem import&acirc;ncia tanto para fins estrat&eacute;gicos (compara&ccedil;&atilde;o entre unidades produtivas), quanto para o planejamento (avalia&ccedil;&atilde;o dos resultados do uso de diferentes combina&ccedil;&otilde;es de fatores) e para a tomada de decis&atilde;o (como melhorar o desempenho atual, por meio da an&aacute;lise da dist&acirc;ncia entre a produ&ccedil;&atilde;o atual e potencial, ou saber onde &eacute; melhor investir).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A efici&ecirc;ncia de uma unidade produtiva &eacute; medida atrav&eacute;s da compara&ccedil;&atilde;o entre os valores observados e os valores poss&iacute;veis de seus produtos (sa&iacute;das) e recursos (insumos). Esta compara&ccedil;&atilde;o pode ser feita, em linhas gerais, pela raz&atilde;o entre a produ&ccedil;&atilde;o observada e a produ&ccedil;&atilde;o potencial m&aacute;xima alcan&ccedil;&aacute;vel, dados os recursos dispon&iacute;veis, ou pela raz&atilde;o entre a quantidade m&iacute;nima necess&aacute;ria de recursos e a quantidade efetivamente empregada, dada a quantidade de produtos gerados. Combina&ccedil;&otilde;es dessas raz&otilde;es podem igualmente prover informa&ccedil;&otilde;es importantes.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O uso de An&aacute;lise de Envolt&oacute;ria de Dados (<i>Data Envelopment Analysis</i> &#150; DEA) para medir a efici&ecirc;ncia relativa de unidades produtivas tem-se mostrado bastante atrativo em diversos setores de aplica&ccedil;&atilde;o. O emprego de modelos DEA em agricultura pode apoiar as decis&otilde;es dos agricultores, ao indicar as fontes de inefici&ecirc;ncia e as unidades que podem servir de refer&ecirc;ncia &agrave;s pr&aacute;ticas adotadas, ou seja, na identifica&ccedil;&atilde;o de <i>benchmarks</i>, conforme apresentado, por exemplo, em Tupy, Yamaguchi (2002). Em Gomes <i>et al</i>. (2003a) encontra-se uma revis&atilde;o sobre o estado da arte do uso de DEA em agricultura.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Este artigo faz    uso de DEA para medir a efici&ecirc;ncia de uma amostra de 71 agricultores do    munic&iacute;pio de Holambra, Estado de S&atilde;o Paulo. Os dados utilizados    s&atilde;o aqueles originalmente usados para tipifica&ccedil;&atilde;o dos produtores    rurais (MANGABEIRA, 2002), referentes ao ano de 2002 e obtidos por levantamento    de campo, via question&aacute;rios agro-socioecon&ocirc;micos.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. An&aacute;lise    de envolt&oacute;ria de dados</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No estudo dos temas produtividade e efici&ecirc;ncia em agricultura pode surgir a seguinte quest&atilde;o: existe erro em usar toneladas de gr&atilde;o por hectare como medida de efici&ecirc;ncia de um produtor rural? Medidas desse tipo apresentam a defici&ecirc;ncia de n&atilde;o considerarem outros recursos na medida de efici&ecirc;ncia, como m&atilde;o-de-obra, maquinarias, combust&iacute;vel, fertilizantes etc. (GOMES <i>et al</i>., 2003a). Al&eacute;m disso, encerram um erro conceitual ao n&atilde;o diferenciarem produtividade e efici&ecirc;ncia, j&aacute; que uma medida apresentada como raz&atilde;o de duas quantidades &eacute; uma medida de produtividade, enquanto a efici&ecirc;ncia &eacute; adimensional (COELLI <i>et al</i>., 1998).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O uso desse tipo de medida na formula&ccedil;&atilde;o de pol&iacute;ticas pode resultar n&atilde;o s&oacute; no uso excessivo dos recursos n&atilde;o inclu&iacute;dos na medida de efici&ecirc;ncia, mas tamb&eacute;m na imposi&ccedil;&atilde;o de metas irreais.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A abordagem por DEA, que utiliza programa&ccedil;&atilde;o linear para estimar a fronteira eficiente (linear por partes), &eacute; capaz de incorporar diversos <i>inputs</i> (entradas, recursos, insumos ou fatores de produ&ccedil;&atilde;o) e <i>outputs</i> (sa&iacute;das ou produtos) para o c&aacute;lculo da efici&ecirc;ncia de unidades tomadoras de decis&atilde;o, designadas por DMUs (<i>Decision Making Units</i>). As propriedades estat&iacute;sticas dos estimadores das fun&ccedil;&otilde;es de produ&ccedil;&atilde;o obtidas com o uso de DEA podem ser vistas em Souza (2003).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os problemas de programa&ccedil;&atilde;o linear (PPLs) de DEA otimizam cada observa&ccedil;&atilde;o individual com o objetivo de calcular uma fronteira de efici&ecirc;ncia, determinada pelas unidades eficientes. Essas unidades servem como refer&ecirc;ncia ou <i>benchmark</i> para as unidades ineficientes.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">H&aacute; dois modelos DEA cl&aacute;ssicos. O modelo CCR (tamb&eacute;m conhecido por CRS ou <i>constant returns to scale</i>) trabalha com retornos constantes de escala (CHARNES <i>et al</i>., 1978) e assume proporcionalidade entre <i>inputs</i> e <i>outputs</i>. O modelo BCC (ou VRS), devido a Banker <i>et al</i>. (1984), considera retornos vari&aacute;veis de escala, isto &eacute;, substitui o axioma da proporcionalidade pelo axioma da convexidade.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Tradicionalmente s&atilde;o poss&iacute;veis duas orienta&ccedil;&otilde;es radiais para esses modelos: orienta&ccedil;&atilde;o a <i>inputs</i>, quando se deseja minimizar os recursos dispon&iacute;veis, sem altera&ccedil;&atilde;o do n&iacute;vel de produ&ccedil;&atilde;o; orienta&ccedil;&atilde;o a <i>outputs</i>, quando o objetivo &eacute; aumentar os produtos, sem mexer nos recursos usados.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Existem duas formula&ccedil;&otilde;es equivalentes para DEA. De forma simplificada, pode-se dizer que uma das formula&ccedil;&otilde;es (modelo dos Multiplicadores) trabalha com a raz&atilde;o de somas ponderadas de produtos e recursos, com a pondera&ccedil;&atilde;o escolhida de forma mais favor&aacute;vel a cada DMU, respeitando-se determinadas condi&ccedil;&otilde;es (ou seja, cada DMU &eacute; auto avaliada). A outra formula&ccedil;&atilde;o (modelo do Envelope) define uma regi&atilde;o vi&aacute;vel de produ&ccedil;&atilde;o e trabalha com uma proje&ccedil;&atilde;o de cada DMU na fronteira dessa regi&atilde;o. Uma vez que s&atilde;o duais, esses dois problemas calculam a mesma efici&ecirc;ncia.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste artigo, o    modelo DEA a ser usado &eacute; o BCC, j&aacute; que as unidades em avalia&ccedil;&atilde;o    apresentam diferen&ccedil;as de escala significativas. Em (1) e em (2) apresentam-se,    respectivamente, o modelo DEA BCC dos Multiplicadores e do Envelope, com orienta&ccedil;&atilde;o    a <i>inputs</i>, j&aacute; que se deseja verificar se a produ&ccedil;&atilde;o    atual justifica a quantidade de recursos empregados. Considera-se que cada DMU    <i>k</i>, <i>k</i> = 1...<i>n</i>, &eacute; uma unidade de produ&ccedil;&atilde;o    que utiliza <i>m inputs x<sub>ik</sub></i>, <i>i</i> =1&#133;<i>m</i>,    para produzir <i>s outputs y<sub>jk</sub></i>, <i>j</i> =1&#133;<i>s</i>.</font></p>     <p align="center"><img src="/img/revistas/resr/v43n4/27748x1.gif"></p>     <p align="center"><img src="/img/revistas/resr/v43n4/27748x2.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em ambas as formula&ccedil;&otilde;es    <i>h<sub>o</sub></i> &eacute; a efici&ecirc;ncia da DMU <i>o</i> em an&aacute;lise;    <i>x<sub>io</sub></i> e <i>y<sub>jo</sub></i> s&atilde;o os <i>inputs</i> e    <i>outputs</i> da DMU <i>o</i>. Em (1), <i>v<sub>i</sub></i> e <i>u<sub>j</sub></i>    s&atilde;o os pesos calculados pelo modelo para <i>inputs</i> e <i>outputs</i>,    respectivamente; &eacute; a vari&aacute;vel dual associada &agrave; condi&ccedil;&atilde;o    <img src="/img/revistas/resr/v43n4/27748x3.gif" align="absmiddle"> da formula&ccedil;&atilde;o    (2) e &eacute; interpretado como fator de escala: quando positivo, indica retornos    decrescentes de escala; quando negativo, indica retornos crescentes de escala;    caso seja nulo, a situa&ccedil;&atilde;o &eacute; de retornos constantes de    escala. Em (2), <font face="Symbol">l</font><sub>k</sub> representa a contribui&ccedil;&atilde;o    da DMU <i>k</i> na forma&ccedil;&atilde;o do alvo da DMU <i>o</i>.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. Agricultura    em Holambra</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Holambra, munic&iacute;pio do Estado de S&atilde;o Paulo, situa-se a 145 km da capital, na regi&atilde;o centro leste do estado, a 22º37'55" de latitude sul e 47º03'36" de longitude oeste.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Tem aproximadamente 65 km<sup>2</sup>, com uma altitude m&eacute;dia de 600 m. &Eacute; banhado pelos rios Jaguari, Camanducaia e Pirapitingui, al&eacute;m de diversos c&oacute;rregos e riachos, que se estendem num relevo relativamente plano, com uma altitude m&eacute;dia de 600 m (HOLAMBRA, 1998).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O munic&iacute;pio &eacute; limitado pelos munic&iacute;pios de Artur Nogueira, Cosm&oacute;polis, Santo Ant&ocirc;nio da Posse e Jaguari&uacute;na. As duas principais rodovias que passam pelo munic&iacute;pio s&atilde;o a SP-340 (Adhemar de Barros) e a SP-107. Sua popula&ccedil;&atilde;o &eacute; de 7.211 habitantes, sendo 3.689 homens e 3.522 mulheres, segundo o Censo Demogr&aacute;fico do IBGE de 2000 (INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTAT&Iacute;STICA, 2002a).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O munic&iacute;pio caracteriza-se pela imigra&ccedil;&atilde;o holandesa ao Brasil (final da d&eacute;cada de 1940) e tem economia baseada na atividade agropecu&aacute;ria, com predom&iacute;nio das atividades hort&iacute;colas, citr&iacute;colas, plantas decorativas, flores, suinocultura, avicultura e latic&iacute;nios. Segundo o Censo Agropecu&aacute;rio do IBGE de 1996 (INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTAT&Iacute;STICA, 2002b), o munic&iacute;pio detinha aproximadamente 1.466,3 ha de culturas tempor&aacute;rias, 1.769,5 ha de culturas permanentes, 432,4 ha de pastagens, 89,6 ha de matas e florestas naturais e 13,81 ha de reflorestamentos. Possu&iacute;a ainda um efetivo de aproximadamente 1.800 bovinos, 28 mil su&iacute;nos e aproximadamente 792 mil aves.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O munic&iacute;pio apresenta dimens&atilde;o territorial relativamente pequena em rela&ccedil;&atilde;o aos demais munic&iacute;pios brasileiros e quase toda sua produ&ccedil;&atilde;o agr&iacute;cola adv&eacute;m de um grupo aproximado de 287 produtores, com 20 ha em m&eacute;dia de &aacute;rea (HOLAMBRA, 1998).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mangabeira (2002) mapeou o uso das terras do munic&iacute;pio de Holambra com base em imagens do sat&eacute;lite IKONOS II (do ano de 2000) e levantamentos de campo (em 2001). Com o uso de question&aacute;rios de campo, levantou informa&ccedil;&otilde;es de 266 vari&aacute;veis agro-socioecon&ocirc;micas (que geraram 204 indicadores), para uma amostra de 74 produtores rurais.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De posse desses    indicadores, Mangabeira (2002) tipificou essa amostra de produtores. Para tal,    foi usada a An&aacute;lise de Correspond&ecirc;ncia M&uacute;ltipla (BISHOP    et al., 1975), seguida da an&aacute;lise de <i>cluster</i> pelo m&eacute;todo    de Ward (EVERITT, 1974), para classificar os tipos de produtores agr&iacute;colas    (MANGABEIRA, 2002; AZEVEDO <i>et al</i>., 2001).</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. Modelagem    e Resultados</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>4.1 Estrutura&ccedil;&atilde;o do problema</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para estruturar um modelo DEA &eacute; necess&aacute;rio definir as unidades a serem avaliadas, as vari&aacute;veis de avalia&ccedil;&atilde;o (<i>inputs</i> e <i>outputs</i>) e o modelo DEA adotado (CCR, BCC, entre outros; orienta&ccedil;&atilde;o a <i>inputs</i>, a <i>outputs</i> etc.).</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na constru&ccedil;&atilde;o do modelo DEA deve-se atentar quais vari&aacute;veis ser&atilde;o consideradas <i>inputs</i> e quais ser&atilde;o consideradas <i>outputs</i>. Muitas vezes uma vari&aacute;vel representa algo que &eacute; produzido, mas cuja quantidade deve ser minimizada (ex. acidentes, polui&ccedil;&atilde;o). Nesses casos, essa vari&aacute;vel &eacute; um <i>output</i> indesej&aacute;vel (GOMES, 2003) e uma das formas de trat&aacute;-la &eacute; consider&aacute;-la como um <i>input</i>. De forma geral, as vari&aacute;veis que se desejam minimizar s&atilde;o consideradas <i>inputs</i>, e <i>outputs</i> caso contr&aacute;rio.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um modelo com grande n&uacute;mero de vari&aacute;veis pode acarretar outro problema, qual seja, uma avalia&ccedil;&atilde;o extremamente benevolente, com v&aacute;rias DMUs 100% eficientes. Existe uma recomenda&ccedil;&atilde;o emp&iacute;rica que o n&uacute;mero de DMUs seja pelo menos o dobro ou o triplo do n&uacute;mero de vari&aacute;veis. Estudos mais recentes (GONZ&Aacute;LEZ ARAYA, 2003) indicam que essa rela&ccedil;&atilde;o deve ser ainda maior (4 a 5 vezes), em especial quando, al&eacute;m do &iacute;ndice de efici&ecirc;ncia, deseja-se analisar os <i>benchmarks</i> das unidades em avalia&ccedil;&atilde;o.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para a avalia&ccedil;&atilde;o dos agricultores de Holambra foram selecionados 4 dos 206 indicadores definidos por Mangabeira (2002). Essas vari&aacute;veis indicam as rela&ccedil;&otilde;es cl&aacute;ssicas entre produ&ccedil;&atilde;o, capital e trabalho. Como <i>inputs</i> foram selecionados &Aacute;rea Cultivada (representada pela &aacute;rea ocupada com cultivos acrescida da &aacute;rea de pasto), em hectares, Emprego (expresso por homem-hora-ano) e M&aacute;quinas (calculado como n&uacute;mero total de horas de uso de m&aacute;quinas no ano). A Renda L&iacute;quida anual da propriedade, em reais, &eacute; o &uacute;nico <i>output</i>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para a escolha das DMUs deve-se observar a necessidade de uma certa homogeneidade entre elas. Dos 74 agricultores amostrados por Mangabeira (2002), apenas 3, por serem produtores de leite, n&atilde;o apresentam homogeneidade com o restante da amostra. Adicionalmente, estes produtores apresentaram valor negativo para a vari&aacute;vel Renda L&iacute;quida, o que acarreta complica&ccedil;&otilde;es te&oacute;ricas aos modelos DEA (GON&Ccedil;ALVES, 2003; FIGUEIREDO, 2005). Por estas duas raz&otilde;es, os produtores de leite foram descartados desta an&aacute;lise. Restaram, portanto, 71 DMUs para serem analisadas.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O modelo selecionado    foi o modelo DEA BCC orientado a <i>inputs</i>, j&aacute; que h&aacute; diferen&ccedil;as    de escala significativas entre as DMUs e o objetivo &eacute; verificar se a    produ&ccedil;&atilde;o obtida justifica a quantidade de recursos alocados. Os    resultados do modelo DEA foram obtidos com o uso do <i>software</i> SIAD (ANGULO    MEZA <i>et al</i>., 2005).</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b><i>4.2 Resultados</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>4.2.1 Global</i></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Eacute; chamado resultado global aquele que considera a avalia&ccedil;&atilde;o conjunta de todas as DMUs. Dos 71 produtores avaliados, 11 foram 100% eficientes, dos quais 5 s&atilde;o produtores de flores. A efici&ecirc;ncia m&eacute;dia da amostra foi de 31,3%; para os que produzem flores esse n&uacute;mero reduziu-se para 27,4%, e para os restantes aumentou para 34,4%.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Analisando-se os resultados do modelo dos multiplicadores (pesos e fatores de escala), verifica-se uma grande quantidade de pesos zero, em especial para a vari&aacute;vel "uso de m&aacute;quinas" (67% das DMUs). Isto significa que no c&aacute;lculo da efici&ecirc;ncia esta vari&aacute;vel foi desconsiderada para que a DMU obtivesse a efici&ecirc;ncia m&aacute;xima poss&iacute;vel, quando comparada com as demais. Tal fato mostra que poucos agricultores fazem bom uso das horas de m&aacute;quinas (a maioria emprega horas de m&aacute;quina em excesso). O problema dos pesos zero pode ser contornado com o emprego de modelos adicionais, como, por exemplo, avalia&ccedil;&atilde;o cruzada (SEXTON <i>et al</i>., 1986; DOYLE, GREEN, 1995), modelos que incorporem restri&ccedil;&otilde;es aos pesos dos multiplicadores (ALLEN <i>et al</i>., 1997) ou considerem a avalia&ccedil;&atilde;o pela fronteira invertida (ENTANI <i>et al</i>., 2002; NOVAES, 2002; LETA <i>et al</i>., 2005). Revis&otilde;es completas desses m&eacute;todos podem ser vistas em Angulo Meza, Estellita Lins (2002) e em Leta <i>et al</i>. (2005). Neste artigo, no entanto, modelos adicionais n&atilde;o foram empregados, optando-se por interpretar apenas a sua ocorr&ecirc;ncia.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cabe, no entanto, destacar que para o caso dos agricultores eficientes, os pesos resultantes n&atilde;o s&atilde;o &uacute;nicos (nas DMUs extremo-eficientes os PPLs de DEA t&ecirc;m m&uacute;ltiplas solu&ccedil;&otilde;es &oacute;timas). Dessa forma, para as unidades eficientes, sem o emprego de t&eacute;cnicas adicionais, a an&aacute;lise de pesos fica comprometida. Destaca-se ainda que dentre as 11 DMUs eficientes, 6 s&atilde;o eficientes por <i>default</i> ou "falsamente eficientes", ou seja, s&atilde;o eficientes por apresentarem o menor valor em um dos <i>inputs</i> e/ou o maior valor do <i>output</i>; 1 DMU por apresentar menor valor no recurso "&aacute;rea cultivada" e 5 no <i>input</i> "uso de m&aacute;quinas". Esta &eacute; uma caracter&iacute;stica inerente ao modelo DEA BCC, conforme destacado em Ali (1993), que pode ser contornada com o uso de modelos adicionais (por exemplo, modelos que incorporem restri&ccedil;&otilde;es aos pesos ou modelos que n&atilde;o incorporam a subjetividade do decisor, como a fronteira invertida).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ainda em rela&ccedil;&atilde;o ao modelo dos multiplicadores, 2 produtores apresentaram retornos constantes de escala, 12 decrescentes e o restante retornos crescentes de escala. Isto mostra que para a maioria dos produtores avaliados, acr&eacute;scimos na utiliza&ccedil;&atilde;o de <i>inputs</i> (&aacute;rea cultivada, emprego e uso de m&aacute;quina) acarretam aumentos significativos no valor da efici&ecirc;ncia.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados do modelo do envelope (<i>benchmarks</i> e alvos) mostram que o produtor eficiente que aparece o maior n&uacute;mero de vezes como refer&ecirc;ncia para as outras unidades &eacute; um pequeno suinocultor e produtor de flores, com valores de &aacute;rea cultivada, emprego, uso de m&aacute;quinas e renda l&iacute;quida menores que a m&eacute;dia dos produtores avaliados. Essa DMU pode servir como exemplo a ser seguido pelas unidades ineficientes, em especial, no que se refere &agrave;s pr&aacute;ticas de gest&atilde;o dessa propriedade, por exemplo, na redu&ccedil;&atilde;o da mecaniza&ccedil;&atilde;o agr&iacute;cola e pela integra&ccedil;&atilde;o eficiente do esterco de su&iacute;nos para produ&ccedil;&atilde;o de flores, o que otimiza a &aacute;rea cultivada.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Verifica-se ainda que diversas DMUs projetam-se em faces constitu&iacute;das por DMUs eficientes que s&atilde;o produtores de especializa&ccedil;&otilde;es diversas (citricultores, floricultores, pecuaristas etc.). Isto torna-se importante na promo&ccedil;&atilde;o da efici&ecirc;ncia das DMUs ineficientes, j&aacute; que estas devem observar n&atilde;o somente as pr&aacute;ticas de seus "concorrentes diretos", mas tamb&eacute;m aquelas dos demais produtores da regi&atilde;o.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em rela&ccedil;&atilde;o    aos alvos, destaca-se uma das contribui&ccedil;&otilde;es principais dos modelos    DEA para a agricultura, qual seja, informar ao agricultor quais s&atilde;o as    fontes de inefici&ecirc;ncia e o que deve ser feito para a busca da efici&ecirc;ncia.    Por exemplo, para uma DMU que obteve 22,0% de efici&ecirc;ncia, a recomenda&ccedil;&atilde;o    para a busca da efici&ecirc;ncia &eacute; a redu&ccedil;&atilde;o em 77,7% da    &aacute;rea cultivada, 84,5% do emprego e 91,5% do uso de m&aacute;quinas, dado    o valor de renda l&iacute;quida atual. Desta forma, esse agricultor deve verificar    em que etapa de seu processo produtivo (inclusive considerando outras vari&aacute;veis    n&atilde;o inclu&iacute;das no modelo) ocorrem os gargalos que prejudicam seus    resultados. Na <a href="#tab1">Tabela 1</a> apresentam-se os percentuais m&eacute;dios    de altera&ccedil;&atilde;o que cada vari&aacute;vel deve sofrer (<i>inputs</i>    reduzir, <i>output</i> aumentar), por regi&atilde;o da fronteira DEA BCC, para    que as unidades ineficientes alcancem a efici&ecirc;ncia. Destaca-se que na    regi&atilde;o de retornos constantes de escala, todas as DMUs s&atilde;o DEA    eficientes e, por isso, n&atilde;o h&aacute; indica&ccedil;&atilde;o para altera&ccedil;&atilde;o    no valor das vari&aacute;veis. Para a vari&aacute;vel "renda l&iacute;quida",    as altera&ccedil;&otilde;es s&atilde;o devido &agrave; proje&ccedil;&atilde;o    em faces n&atilde;o Pareto-eficientes (presen&ccedil;a de folgas diferentes    de zero), o que faz com que, apesar de o modelo ser orientado a <i>inputs</i>,    seja indicado aumento do <i>output</i> para alcance da efici&ecirc;ncia.</font></p>     <p><a name="tab1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n4/27748t1.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados dos    modelos DEA (em especial, efici&ecirc;ncia, <i>benchmarks</i> e alvos) de cada    um dos produtores ineficientes, se repassados a um agente de servi&ccedil;o    de extens&atilde;o rural que atue na regi&atilde;o, podem ajudar na promo&ccedil;&atilde;o    da efici&ecirc;ncia desses agricultores. Conforme apresentado no par&aacute;grafo    anterior, &eacute; poss&iacute;vel indicar a que n&iacute;vel cada vari&aacute;vel    deve chegar para que aquele produtor torne-se eficiente, e o agente de extens&atilde;o    pode indicar a melhor forma para alcan&ccedil;ar aquele resultado (neste artigo,    foi destacado apenas o exemplo do agricultor com 22,0% de efici&ecirc;ncia e    valores m&eacute;dios de altera&ccedil;&atilde;o devido &agrave; limita&ccedil;&atilde;o    de espa&ccedil;o; os resultados completos podem ser obtidos com os autores).    Os valores m&eacute;dios da <a href="#tab1">Tabela 1</a> podem servir como uma    primeira aproxima&ccedil;&atilde;o do extensionista junto ao agricultor na busca    da efici&ecirc;ncia, caso as indica&ccedil;&otilde;es individuais sejam muito    superiores aos valores m&eacute;dios.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m dessas informa&ccedil;&otilde;es, aquelas outras coletadas no question&aacute;rio podem igualmente subsidiar estrat&eacute;gias de aumento de efici&ecirc;ncia, em especial se forem comparadas com aquelas dos produtores <i>benchmarks</i> daquele produtor ineficiente. A descri&ccedil;&atilde;o dos perfis de agricultores eficientes e ineficientes com as vari&aacute;veis dispon&iacute;veis da pesquisa de campo, pode ajudar a identificar quais outras caracter&iacute;sticas chave distanciam esses dois grupos e, a partir disso, promover a redu&ccedil;&atilde;o dessa dist&acirc;ncia.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um outro ponto a ressaltar &eacute; a possibilidade de o agricultor n&atilde;o ser capaz de alcan&ccedil;ar de forma imediata o alvo que lhe &eacute; atribu&iacute;do. Neste caso, uma busca seq&uuml;encial por alvos intermedi&aacute;rios, conforme apresentado por Gomes <i>et al</i>. (2003b) e Gomes (2003), pode ser uma solu&ccedil;&atilde;o atrativa ao produtor rural para a busca de alvos realiz&aacute;veis, ou seja, mais pr&oacute;ximos &agrave; sua realidade.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Outro destaque deve ser dado &agrave; proje&ccedil;&atilde;o de DMUs ineficientes em regi&otilde;es n&atilde;o Pareto-eficientes, o que &eacute; verificado pela grande presen&ccedil;a de folgas diferentes de zero, inclusive para o <i>output</i>. Para a proje&ccedil;&atilde;o em somente faces Pareto-eficientes, modelos DEA avan&ccedil;ados devem ser empregados como aqueles que usam programa&ccedil;&atilde;o multiobjetivo para sele&ccedil;&atilde;o de alvos (ANGULO MEZA, 2002), que projetam as unidades ineficientes em faces de maior dimens&atilde;o (GONZ&Aacute;LEZ ARAYA, 2003), os que eliminam as regi&otilde;es n&atilde;o Pareto-eficientes por meio de suaviza&ccedil;&atilde;o da fronteira DEA (SOARES DE MELLO <i>et al</i>., 2004) e os modelos que trabalham com quantidades infinitesimais, os chamados modelos n&atilde;o arquimedianos (ESTELLITA LINS, ANGULO MEZA, 2000).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>4.2.2 Por Grupos</i></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mangabeira (2002) identificou a exist&ecirc;ncia de 6 tipos de produtores em Holambra: agrocitricultores, agrofloricultores, agropecuaristas, florescitricultores, floricultores, produtores agrianuais.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para aumentar a homogeneidade das DMUs, uma segunda avalia&ccedil;&atilde;o de efici&ecirc;ncia foi realizada, segundo essas tipologias de agricultores. Assim, foram rodados 6 modelos DEA BCC, orientados a <i>outputs</i>, com n&uacute;mero de DMUs igual ao n&uacute;mero de agricultores em cada grupo. As vari&aacute;veis do modelo s&atilde;o as mesmas usadas no modelo de avalia&ccedil;&atilde;o global (<i>inputs</i>: &aacute;rea cultivada, emprego e uso de m&aacute;quinas; <i>output</i>: renda l&iacute;quida).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esta an&aacute;lise    permitiu verificar como os produtores comportam-se, em termos de efici&ecirc;ncia    t&eacute;cnica, dentro de seus grupos. A <a href="#tab2">Tabela 2</a> resume    os resultados obtidos, que mostram que dentre os agricultores que produzem flores,    os mais eficientes s&atilde;o os do tipo Agrofloricultores; dentre os que n&atilde;o    produzem flores, os Agrocitricultores s&atilde;o os de maior efici&ecirc;ncia    t&eacute;cnica. Isto justifica-se pelo fato de estes dois tipos de produtores    diversificarem suas produ&ccedil;&otilde;es e usarem mais racionalmente suas    &aacute;reas cultivadas.</font></p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n4/27748t2.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Destaca-se que no caso do grupo Agropecuaristas, o modelo DEA BCC orientado a <i>inputs</i> n&atilde;o foi capaz de discriminar bem entre unidades eficientes e ineficientes. Conforme anteriormente mencionado, esta &eacute; outra caracter&iacute;stica dos modelos DEA referente &agrave; rela&ccedil;&atilde;o entre o n&uacute;mero de DMUs e n&uacute;mero de vari&aacute;veis.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De uma maneira geral, os produtores classificados como Agrofloricultores e Agrocitricultores podem ser considerados como pequenos produtores rurais empresariais e que apresentam, adicionalmente, as caracter&iacute;sticas socioecon&ocirc;micas a seguir descritas. A caracteriza&ccedil;&atilde;o dos demais grupos pode ser encontrada em Mangabeira (2002).</font></p>  <ul>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Todos possuem      telefones em suas propriedades e 85% possuem computadores. Isto permite a      estes agricultores ter melhor acesso &agrave; informa&ccedil;&atilde;o, quando      comparados aos demais produtores e, desta forma, podem adotar um referencial      moderno e globalizado para eventuais decis&otilde;es gerenciais da produ&ccedil;&atilde;o      e mesmo para melhoria da qualidade de vida no campo;</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A &aacute;rea      m&eacute;dia total das propriedades &eacute; de aproximadamente 7,5 ha, com      &aacute;rea m&eacute;dia de 5,5 ha de citros e 0,8 ha em m&eacute;dia de floricultura      em estufas;</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Utilizam 63      kg/ha/ano, em m&eacute;dia, de defensivos agr&iacute;colas (entre inseticidas      e fungicidas), sendo este considerado um &iacute;ndice elevado de uso de defensivos,      principalmente em estufas com floricultura;</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Usam aproximadamente      5 toneladas de adubos/ha/ano;</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quanto &agrave;      condi&ccedil;&atilde;o social destes produtores, observa-se que todos s&atilde;o      propriet&aacute;rios, t&ecirc;m energia el&eacute;trica e &aacute;gua encanada      nas propriedades; 85% t&ecirc;m conta em banco; 72% t&ecirc;m cr&eacute;dito      banc&aacute;rio, assist&ecirc;ncia t&eacute;cnica privada e usam mecaniza&ccedil;&atilde;o      agr&iacute;cola; a totalidade dos produtores tem renda somente na atividade      agr&iacute;cola;</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Empregam em      m&eacute;dia de 7 pessoas por propriedade;</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quanto ao uso      de tecnologias, todos fazem an&aacute;lises de solos e 72% empregam o manejo      integrado de pragas e adubos org&acirc;nicos e verdes;</font></li>       ]]></body>
+<body><![CDATA[<li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em rela&ccedil;&atilde;o      ao meio ambiente, somente 43% t&ecirc;m &aacute;rea com mata nas propriedades;      100% n&atilde;o fazem rota&ccedil;&atilde;o de culturas; somente 43% pensam      em fazer reflorestamentos com esp&eacute;cies nativas; em nenhuma das propriedades      h&aacute; esta&ccedil;&atilde;o de tratamento de res&iacute;duos.</font></li>     </ul>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados do modelo dos multiplicadores para estes 6 grupos confirmam os resultados do modelo global de que poucos agricultores fazem bom uso das horas de m&aacute;quinas. Esta vari&aacute;vel recebeu a maior quantidade de pesos zero em 4 dos 6 modelos. Para os grupos Floricultores e Agrofloricultores, a vari&aacute;vel &aacute;rea cultivada foi a que obteve maior n&uacute;mero de pesos zero, o que mostra que a minoria dos agricultores desses grupos faz bom uso da terra.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href="#tab3">Tabela    3</a> traz os resultados de retornos de escala (quantidade de DMUs em cada faixa)    para cada um dos grupos. Verifica-se que, analogamente &agrave; an&aacute;lise    global, em todos os grupos, a maioria dos agricultores encontra-se em situa&ccedil;&atilde;o    de produ&ccedil;&atilde;o em que decr&eacute;scimos na utiliza&ccedil;&atilde;o    de recursos acarretariam aumentos substanciais na efici&ecirc;ncia.</font></p>     <p><a name="tab3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n4/27748t3.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href="#tab4">Tabela    4</a> apresenta as caracter&iacute;sticas do <i>benchmark</i> mais referenciado    em cada grupo. Como j&aacute; destacado, as DMUs de refer&ecirc;ncia s&atilde;o    importantes na an&aacute;lise de efici&ecirc;ncia pois servem como exemplo a    ser seguido pelas unidades ineficientes que buscam a efici&ecirc;ncia.</font></p>     <p><a name="tab4"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n4/27748t4.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Abaixo complementam-se    os dados da <a href="#tab4">Tabela 4</a> com outras informa&ccedil;&otilde;es    referentes ao agricultor mais referenciado (<i>benchmark</i>) em cada grupo.</font></p>  <ul>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Agrocitricultor:      A propriedade possui 7,3 ha de &aacute;rea total, com produ&ccedil;&atilde;o      de somente citros. Usa defensivos, herbicidas, calc&aacute;rio, adubos, m&aacute;quinas.      Faz manejo integrado de pragas e usa sementes melhoradas. Tem &aacute;gua      para a produ&ccedil;&atilde;o e n&atilde;o apontou problemas com energia el&eacute;trica.      &Eacute; cooperado, teve cr&eacute;dito rural e usa computador na agropecu&aacute;ria.      Pensa em fazer reflorestamento com esp&eacute;cies nativas.</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Agrofloricultor:      Produtor de flores com 2,0 ha de &aacute;rea total, sendo 1,0 ha de estufa.      Possui telefone e computador em sua propriedade. &Eacute; associado e recebe      assist&ecirc;ncia t&eacute;cnica privada. Tem energia el&eacute;trica e &aacute;gua      para produ&ccedil;&atilde;o; tem tanque para capta&ccedil;&atilde;o de &aacute;gua.      Usa defensivos e adubos.</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Agropecuarista:      Na propriedade de 2,5 ha, com 1,0 ha de granja, h&aacute; telefone e fax.      Emprega vermifuga&ccedil;&atilde;o e vacinas. &Eacute; cooperado, associado,      recebeu cr&eacute;dito rural e assist&ecirc;ncia t&eacute;cnica privada. Tem      energia el&eacute;trica residencial e para produ&ccedil;&atilde;o. Tem &aacute;gua      na propriedade.</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Florescitricultor:      Produtor que tem 10,0 ha de &aacute;rea total, sendo 2,0 ha de citros, 6,0      ha de cultura anual, 0,7 ha de estufa e 0,4 de granja. Emprega defensivos,      herbicidas, calc&aacute;rio e adubos e m&aacute;quinas. &Eacute; associado,      cooperado, sindicalizado e recebeu assist&ecirc;ncia t&eacute;cnica privada.      Tem energia el&eacute;trica para a produ&ccedil;&atilde;o, com fornecimento      deficit&aacute;rio; h&aacute; fornecimento de &aacute;gua, mas n&atilde;o      possui tanque para sua capta&ccedil;&atilde;o. Faz rota&ccedil;&atilde;o de      culturas e pensa em reflorestar a propriedade com esp&eacute;cies nativas.</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Floricultor:      Nesta propriedade de 3,8 ha de &aacute;rea total, 3,0 ha s&atilde;o de estufas,      com emprego de defensivos, adubos e m&aacute;quinas. O produtor participa      de cooperativas, recebe assist&ecirc;ncia t&eacute;cnica privada e teve cr&eacute;dito      rural. Tem energia el&eacute;trica para a produ&ccedil;&atilde;o e &aacute;gua.      Possui telefone, fax, computador e tanque para capta&ccedil;&atilde;o de &aacute;gua.</font></li>       <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Produtor agrianual:      Este produtor possui telefone e fax em sua propriedade de 6,5 ha de &aacute;rea      total, sendo 1,5 ha de cultivos com culturas anuais, nos quais n&atilde;o      pratica rota&ccedil;&atilde;o de culturas. Usa m&aacute;quinas, aduba&ccedil;&atilde;o,      defensivos e herbicidas. Participa de cooperativa e associa&ccedil;&atilde;o;      recebeu assist&ecirc;ncia t&eacute;cnica privada. A propriedade tem fornecimento      de energia el&eacute;trica e &aacute;gua, mas n&atilde;o tem tanque para sua      capta&ccedil;&atilde;o.</font></li>     ]]></body>
+<body><![CDATA[</ul>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Finalmente, uma an&aacute;lise interessante refere-se &agrave; classifica&ccedil;&atilde;o das unidades ineficientes. Poder-se-ia classific&aacute;-las, subjetivamente, como de baixa, m&eacute;dia e alta efici&ecirc;ncia, por exemplo. Uma alternativa &eacute; classific&aacute;-las segundo a localiza&ccedil;&atilde;o nas camadas de iso-efici&ecirc;ncia. As camadas de iso-efici&ecirc;ncia s&atilde;o usadas para obter uma forma alternativa de ordena&ccedil;&atilde;o em DEA (TAVARES, 1998; BARR <i>et al</i>., 2000). As camadas s&atilde;o obtidas da seguinte forma (GOMES, 2003): as DMUs com 100% de efici&ecirc;ncia formam a camada 1. Essas DMUs s&atilde;o, ent&atilde;o, retiradas do conjunto de an&aacute;lise e corre-se novamente o modelo DEA. As DMUs eficientes neste subconjunto formam a camada 2. O processo repete-se at&eacute; que todas as DMUs tenham sido retiradas do conjunto inicial.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Aqui, as camadas de iso-efici&ecirc;ncia s&atilde;o usadas para a problem&aacute;tica da divis&atilde;o em classes, de maneira an&aacute;loga &agrave; abordagem de Soares de Mello <i>et al</i>. (2005). Dessa forma, este procedimento permite uma aloca&ccedil;&atilde;o n&atilde;o subjetiva das unidades produtivas segundo o grau de efici&ecirc;ncia, e uma qualifica&ccedil;&atilde;o objetiva das unidades, segundo vari&aacute;veis n&atilde;o consideradas no modelo DEA. A seguir, s&atilde;o caracterizados cada um dos grupos de agricultores identificados, incluindo-se a camada de iso-efici&ecirc;ncia &agrave; qual pertencem, o n&uacute;mero de DMUs no sub-grupo e a efici&ecirc;ncia m&eacute;dia das unidades da camada (em rela&ccedil;&atilde;o &agrave; fronteira de efici&ecirc;ncia).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agrocitricultores eficientes</i> (1ª camada &#150; 4 produtores &#150; efici&ecirc;ncia m&eacute;dia 100,0%): Todos s&atilde;o propriet&aacute;rios das terras, t&ecirc;m computadores para a agropecu&aacute;ria, s&atilde;o cooperados e t&ecirc;m energia el&eacute;trica residencial e &aacute;gua e energia para a produ&ccedil;&atilde;o. N&atilde;o t&ecirc;m renda extra-agr&iacute;cola. A &aacute;rea m&eacute;dia total &eacute; de 12,2 ha; 4,6 ha de &aacute;rea m&eacute;dia de citros e 4,5 ha de cultura anual. O custo total m&eacute;dio de citros por ano &eacute; de R$ 9.727,33; receita bruta m&eacute;dia de citros R$ 22.380,00. Usam em m&eacute;dia 72 horas de m&aacute;quina anualmente e t&ecirc;m cerca de 3 empregados na propriedade. Esses propriet&aacute;rios n&atilde;o fazem rota&ccedil;&atilde;o de culturas; empregam pr&aacute;ticas de conserva&ccedil;&atilde;o do solo.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agrocitricultores de alta efici&ecirc;ncia</i> (2ª camada &#150; 6 produtores &#150; efici&ecirc;ncia m&eacute;dia 77,9%): Todos s&atilde;o propriet&aacute;rios das terras e t&ecirc;m cerca de 4 empregados na propriedade anualmente. T&ecirc;m mapas das propriedades (conhecem bem a propriedade), energia el&eacute;trica e &aacute;gua suficientes para produ&ccedil;&atilde;o. Vivem somente da agricultura, em uma &aacute;rea m&eacute;dia total de 19,0 ha, com 11,1 ha de &aacute;rea m&eacute;dia de citros e de cultura anual. O custo total de citros por ano &eacute; de R$ 34.038,33, com uma receita bruta de R$ 50.493,33. Usam em m&eacute;dia 75,6 horas de m&aacute;quina, al&eacute;m de adubos, calc&aacute;rio, herbicidas e defensivos.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agrocitricultores de m&eacute;dia efici&ecirc;ncia</i> (3ª camada &#150; 2 agricultores &#150; efici&ecirc;ncia m&eacute;dia 37,5%): S&atilde;o cooperados e propriet&aacute;rios das terras. As propriedades t&ecirc;m &aacute;rea m&eacute;dia total de 19,5 ha; &aacute;rea m&eacute;dia de citros de 2,6 ha; &aacute;rea de cultura anual de 11,8 ha. Fazem rota&ccedil;&atilde;o de culturas, usam calc&aacute;rio e adubos. O custo total da produ&ccedil;&atilde;o de citros por ano &eacute; de R$ 6.700,00 e a receita bruta R$ 15.080,00. O uso de m&aacute;quinas &eacute; em m&eacute;dia de 96,8 horas, e mant&ecirc;m cerca de 3 empregos na propriedade por ano.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agrocitricultores de baixa efici&ecirc;ncia</i> (4ª camada &#150; 2 agricultores &#150; efici&ecirc;ncia m&eacute;dia 33,9%): Todos s&atilde;o cooperados e t&ecirc;m computadores. A &aacute;rea m&eacute;dia total das propriedades &eacute; de 22,5 ha, com 15,0 ha de &aacute;rea de citros (custo total por ano de R$ 9.466,00 e receita bruta de R$ 18.932,00) e 11,8 ha de cultura anual. Usam defensivos, herbicidas, adubos e calc&aacute;rio, al&eacute;m de cerca de 275,2 horas de uso de m&aacute;quina. T&ecirc;m em m&eacute;dia 31 empregos na propriedade anualmente.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agrofloricultores eficientes</i> (camada 1 &#150; 4 agricultores &#150; efici&ecirc;ncia m&eacute;dia 100,0%): Estes produtores t&ecirc;m &aacute;rea m&eacute;dia de 4,0 ha, com 0,7 ha de &aacute;rea de estufa (n&atilde;o h&aacute; cultivo de flor no campo). O emprego m&eacute;dio anual &eacute; de 12 pessoas. Usam defensivos, adubos e m&aacute;quinas. O custo total m&eacute;dio anual por estufa &eacute; de R$ 208.000,00, com uma renda bruta de R$ 276.750,00. Todos possuem contabilidade e s&atilde;o propriet&aacute;rios do im&oacute;vel rural. T&ecirc;m energia el&eacute;trica para produ&ccedil;&atilde;o, energia e &aacute;gua nas resid&ecirc;ncias. N&atilde;o fazem rota&ccedil;&atilde;o de culturas e n&atilde;o t&ecirc;m esta&ccedil;&atilde;o de tratamento de res&iacute;duos.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agrofloricultores de m&eacute;dia efici&ecirc;ncia</i> (camada 2 &#150; 2 produtores &#150; efici&ecirc;ncia m&eacute;dia 48,1%): S&atilde;o agricultores propriet&aacute;rios do im&oacute;vel, com dedica&ccedil;&atilde;o exclusiva, e possuem escritura&ccedil;&atilde;o ou mapa da &aacute;rea. S&atilde;o cooperados e recebem assist&ecirc;ncia t&eacute;cnica privada. A &aacute;rea total m&eacute;dia &eacute; de 8,2 ha, com 0,8 ha em m&eacute;dia com flor no campo e 0,7 ha em m&eacute;dia de &aacute;rea de estufa. O custo total m&eacute;dio do cultivo de flor no campo &eacute; de R$ 52.000,00 (renda bruta de R$ 60.000,00) e das estufas R$ 258.200,00 (renda bruta de R$ 270.900,00). Empregam em m&eacute;dia 10 pessoas anualmente.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agrofloricultores de baixa efici&ecirc;ncia</i> (camada 3 &#150; 1 produtor &#150; efici&ecirc;ncia 41,0%): Este produtor, propriet&aacute;rio de seu im&oacute;vel rural, tem &aacute;rea total de 3,6 ha e 3,0 ha de flor no campo. Tem um custo total com a produ&ccedil;&atilde;o de R$ 174 mil e uma renda bruta de R$ 180 mil. Participa de cooperativa, associa&ccedil;&atilde;o e sindicato. Emprega 12 pessoas por ano em sua propriedade. N&atilde;o pensa em fazer reflorestamento com esp&eacute;cies nativas.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agropecuaristas eficientes</i> (1ª camada &#150; 2 produtores &#150; efici&ecirc;ncia 100,0%): S&atilde;o suinocultores cooperados e associados, que recebem assist&ecirc;ncia t&eacute;cnica privada, e cujas propriedades t&ecirc;m &aacute;rea total m&eacute;dia de 4,2 ha, com m&eacute;dia de 2,0 ha de granja e 2,2 ha de pasto limpo. A produ&ccedil;&atilde;o m&eacute;dia anual &eacute; de 1.920 animais, com o emprego m&eacute;dio anual de 1 pessoa, e que geram R$ 37.800,00 de renda l&iacute;quida. Usam vermifuga&ccedil;&atilde;o e vacinas. Todos t&ecirc;m energia el&eacute;trica e &aacute;gua para a produ&ccedil;&atilde;o. N&atilde;o t&ecirc;m renda fora da propriedade, nem esta&ccedil;&atilde;o de tratamento de res&iacute;duos.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Agropecuaristas de m&eacute;dia efici&ecirc;ncia</i> (2ª camada &#150; 2 produtores &#150; efici&ecirc;ncia de 50,0%): Esses produtores associados e sindicalizados t&ecirc;m propriedades de &aacute;rea total m&eacute;dia de 20,3 ha, com de 0,2 ha de granja e 7,3 ha de pasto limpo. Possuem em m&eacute;dia 27 bovinos de corte por ano, e empregam em m&eacute;dia 1 pessoa anualmente. A renda l&iacute;quida m&eacute;dia dessa produ&ccedil;&atilde;o &eacute; de R$ 1.152,00. T&ecirc;m energia el&eacute;trica e &aacute;gua para a produ&ccedil;&atilde;o, usam vacinas e mineraliza&ccedil;&atilde;o e recebem assist&ecirc;ncia t&eacute;cnica privada.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Florescitricultores eficientes</i> (camada 1 &#150; 6 agricultores &#150; efici&ecirc;ncia m&eacute;dia 100,0%): Propriedades com &aacute;rea total m&eacute;dia de 31,2 ha, com emprego m&eacute;dio anual de 31 pessoas. As &aacute;reas cultivadas m&eacute;dias s&atilde;o: 11,8 ha de citros; 13,4 ha de culturas anuais; 14,0 ha de flor no campo; 3,8 ha de &aacute;rea com estufa; 1,0 ha de &aacute;rea de reflorestamento. Alguns produtores t&ecirc;m avicultura de corte, postura e suinocultura. Todos s&atilde;o propriet&aacute;rios do im&oacute;vel rural, t&ecirc;m mapa ou escritura&ccedil;&atilde;o da propriedade, s&atilde;o cooperados e recebem assist&ecirc;ncia t&eacute;cnica privada. N&atilde;o t&ecirc;m atividade remunerada fora da propriedade. T&ecirc;m telefone, computador, energia el&eacute;trica e &aacute;gua na propriedade. Empregam pr&aacute;ticas de conserva&ccedil;&atilde;o da terra. Usam herbicidas, calc&aacute;rio, aduba&ccedil;&atilde;o e m&aacute;quinas.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Florescitricultores de alta efici&ecirc;ncia</i> (camada 2 &#150; 9 agricultores &#150; efici&ecirc;ncia m&eacute;dia 65,1%): Produtores que s&atilde;o donos de seus im&oacute;veis rurais e que participam de cooperativas. As propriedades t&ecirc;m energia el&eacute;trica e &aacute;gua e possuem &aacute;rea total m&eacute;dia de 21,1 ha. As &aacute;reas cultivadas m&eacute;dias s&atilde;o: 9,9 ha de citros; 7,0 ha de culturas anuais; 6,0 ha de flor no campo; 1,4 ha de &aacute;rea com estufa; 0,8 ha de &aacute;rea de reflorestamento. Usam herbicidas, calc&aacute;rio, aduba&ccedil;&atilde;o e m&aacute;quinas. Alguns produtores t&ecirc;m avicultura de corte e suinocultura. Empregam em m&eacute;dia 24 pessoas anualmente.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Florescitricultores de m&eacute;dia efici&ecirc;ncia</i> (camada 3 &#150; 6 agricultores &#150; efici&ecirc;ncia m&eacute;dia 33,4%): Essas propriedades t&ecirc;m &aacute;rea total m&eacute;dia de 24,8 ha, nas quais s&atilde;o empregadas em m&eacute;dia 22 pessoas por ano. As &aacute;reas cultivadas m&eacute;dias s&atilde;o: 18,7 ha de citros; 18,3 ha de culturas anuais; 3,0 ha de flor no campo; 1,7 ha com estufas; 2,0 ha de reflorestamento. Alguns produtores t&ecirc;m suinocultura. Empregam herbicidas, calc&aacute;rio, aduba&ccedil;&atilde;o e m&aacute;quinas. T&ecirc;m energia el&eacute;trica, &aacute;gua, telefone e computadores nas propriedades.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Florescitricultores de baixa efici&ecirc;ncia</i> (camada 4 &#150; 3 agricultores &#150; efici&ecirc;ncia m&eacute;dia 31,8%): Produtores propriet&aacute;rios dos im&oacute;veis rurais, cooperados e recebem assist&ecirc;ncia t&eacute;cnica privada. Propriedades com energia el&eacute;trica e &aacute;gua, com &aacute;rea total m&eacute;dia de 29,1 ha. As &aacute;reas cultivadas m&eacute;dias s&atilde;o: 16,8 ha de citros; 10,5 ha de culturas anuais; 10,0 ha de flor no campo; 2,1 ha de &aacute;rea com estufa. Alguns produtores t&ecirc;m avicultura de corte. Empregam em m&eacute;dia anualmente 36 pessoas nas propriedades. N&atilde;o t&ecirc;m renda extra-agr&iacute;cola.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Floricultores eficientes</i> (1ª camada &#150; 4 produtores &#150; efici&ecirc;ncia 100,0%): S&atilde;o todos agricultores cooperados, que recebem assist&ecirc;ncia t&eacute;cnica privada e cr&eacute;dito rural. S&atilde;o propriet&aacute;rios dos im&oacute;veis, que t&ecirc;m telefone, &aacute;gua e energia el&eacute;trica, tanto para produ&ccedil;&atilde;o quanto na resid&ecirc;ncia; t&ecirc;m mapa da propriedade. Usam computador na agropecu&aacute;ria. Empregam em m&eacute;dia 35 pessoas propriedade por ano. A &aacute;rea m&eacute;dia total das propriedades &eacute; de 6,1 ha, com o uso de 1,0 ha para cultivo de flor no campo e 2,3 ha de estufas. Empregam defensivos, adubos, calc&aacute;rio, m&aacute;quinas e pr&aacute;ticas de conserva&ccedil;&atilde;o do solo.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Floricultores de alta efici&ecirc;ncia</i> (2ª camada &#150; 6 produtores &#150; efici&ecirc;ncia m&eacute;dia 52,8%): Cultivam, em m&eacute;dia, 1,8 ha de cultura anual, 0,7 ha de flor no campo e 4,2 ha de flores em estufas. A &aacute;rea total m&eacute;dia das propriedades &eacute; de 16,0 ha, com 2,0 ha em m&eacute;dia de reflorestamento. Usam defensivos, adubos, calc&aacute;rio e m&aacute;quinas. Esses produtores s&atilde;o donos do im&oacute;vel, t&ecirc;m telefone e computador na propriedade.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Floricultores de m&eacute;dia efici&ecirc;ncia</i> (3ª camada &#150; 2 produtores &#150; efici&ecirc;ncia m&eacute;dia 28,9%): S&atilde;o propriet&aacute;rios do im&oacute;vel, t&ecirc;m telefone, computador, energia el&eacute;trica e &aacute;gua para produ&ccedil;&atilde;o. Cultivam 0,8 ha de flor no campo e 2,3 ha de flor em estufas, em uma &aacute;rea total m&eacute;dia de 35,1 ha. Empregam em m&eacute;dia 78 pessoas por ano. Usam defensivos, herbicidas, calc&aacute;rio, adubos e m&aacute;quinas. S&atilde;o cooperados, associados, recebem assist&ecirc;ncia t&eacute;cnica, mas nenhum dos produtores recebeu cr&eacute;dito rural.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Floricultores de baixa efici&ecirc;ncia</i> (4ª camada &#150; 1 produtor &#150; efici&ecirc;ncia 19,3%): Propriedade com 42,5 ha de &aacute;rea total, dos quais 8,0 ha s&atilde;o de estufas. N&atilde;o cultiva flor no campo, mas tem 12,0 ha de cana-de-a&ccedil;&uacute;car. Usa pr&aacute;ticas de conserva&ccedil;&atilde;o do solo, herbicidas, defensivos, calc&aacute;rio, aduba&ccedil;&atilde;o e m&aacute;quinas, e tem tanque para capta&ccedil;&atilde;o de &aacute;gua. Emprega em m&eacute;dia 100 pessoas por ano.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Produtores agrianuais eficientes</i> (camada 1 &#150; 3 produtores &#150; efici&ecirc;ncia 100,0%): Todos s&atilde;o propriet&aacute;rios do im&oacute;vel, fazem contabilidade da produ&ccedil;&atilde;o e participam de cooperativas. T&ecirc;m &aacute;gua na propriedade, mas nem todos t&ecirc;m energia el&eacute;trica para produ&ccedil;&atilde;o. Em m&eacute;dia, por ano, s&atilde;o empregadas 2 pessoas. As propriedades t&ecirc;m cerca de 6 ha de &aacute;rea total, com 2,5 ha de cultura anual e 0,8 ha de granja. O custo da produ&ccedil;&atilde;o de culturas anuais &eacute;, em m&eacute;dia, de R$ 1.640,00 e uma renda bruta m&eacute;dia de R$ 3.900,00. Usam herbicidas, calc&aacute;rio, adubos, m&aacute;quinas e pr&aacute;ticas de conserva&ccedil;&atilde;o do solo.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Produtores agrianuais de m&eacute;dia efici&ecirc;ncia</i> (camada 2 &#150; 5 produtores &#150; efici&ecirc;ncia m&eacute;dia 45,0%): A &aacute;rea total m&eacute;dia das propriedades &eacute; de 23,2 ha, sendo 9,6 ha em m&eacute;dia com culturas anuais (renda bruta de R$ 8.160,00 e custo total R$ 9.978,60) e 5,0 ha com cana. Empregam anualmente, em m&eacute;dia, 11 pessoas. T&ecirc;m energia el&eacute;trica residencial e &aacute;gua para produ&ccedil;&atilde;o. S&atilde;o propriet&aacute;rios do im&oacute;vel e fazem contabilidade. Quase todos usam defensivos, herbicidas, calc&aacute;rio e m&aacute;quinas na produ&ccedil;&atilde;o.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>Produtores agrianuais    de baixa efici&ecirc;ncia</i> (camada 3 &#150; 1 produtor &#150; efici&ecirc;ncia 22,3%):    Agricultor propriet&aacute;rio do im&oacute;vel, sindicalizado, que tem &aacute;gua    e energia el&eacute;trica para produ&ccedil;&atilde;o. Usa computador para a    agropecu&aacute;ria. Emprega cerca de 5 pessoas por ano. A &aacute;rea total    da propriedade &eacute; de 16,9 ha, com 10,0 ha de culturas anuais, com custo    de produ&ccedil;&atilde;o de R$ 11.500,00. Usa defensivos, herbicidas, adubos,    calc&aacute;rio e m&aacute;quinas na produ&ccedil;&atilde;o.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Conclus&otilde;es</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O emprego do modelo DEA &agrave; avalia&ccedil;&atilde;o dos agricultores de Holambra mostrou-se de bastante interesse, em especial no que se refere &agrave; possibilidade de determinar diretrizes aos agricultores ineficientes para o alcance da efici&ecirc;ncia (redu&ccedil;&atilde;o dos recursos e/ou aumento da produ&ccedil;&atilde;o). Al&eacute;m disso, a indica&ccedil;&atilde;o de unidades refer&ecirc;ncia ou <i>benchmarks</i> e o c&aacute;lculo dos alvos s&atilde;o importantes ferramentas para agentes de extens&atilde;o rural, que podem auxiliar na indica&ccedil;&atilde;o de qual vari&aacute;vel e em quanto deve reduzir/aumentar o seu valor para a promo&ccedil;&atilde;o da efici&ecirc;ncia. Al&eacute;m disso, essas informa&ccedil;&otilde;es s&atilde;o igualmente &uacute;teis na mudan&ccedil;a das pr&aacute;ticas de gest&atilde;o das propriedades.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os modelos que estimaram a efici&ecirc;ncia por grupos de produtores possibilitaram a identifica&ccedil;&atilde;o de classes de efici&ecirc;ncia e permitiram tra&ccedil;ar o perfil e caracterizar esses produtores com vari&aacute;veis n&atilde;o inclu&iacute;das nos modelos. Em geral, os produtores eficientes s&atilde;o aqueles que: t&ecirc;m telefone na propriedade e usam computadores para a agropecu&aacute;ria; fazem contabilidade da produ&ccedil;&atilde;o; t&ecirc;m energia el&eacute;trica e &aacute;gua para produ&ccedil;&atilde;o; possuem mapa ou escritura&ccedil;&atilde;o do im&oacute;vel rural; n&atilde;o t&ecirc;m renda extra-agr&iacute;cola; fazem parte de entidades de representa&ccedil;&atilde;o ou de participa&ccedil;&atilde;o social; t&ecirc;m algum tipo de preocupa&ccedil;&atilde;o ambiental (fazem rota&ccedil;&atilde;o de culturas, empregam pr&aacute;ticas de conserva&ccedil;&atilde;o do solo etc.); fazem uso intensivo de insumos industriais.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O uso da vari&aacute;vel "&aacute;rea cultivada" ao inv&eacute;s de "&aacute;rea total" pode causar alguns problemas, j&aacute; que fornece resultados de efici&ecirc;ncia t&eacute;cnica, mas n&atilde;o de uma efici&ecirc;ncia global, pois desconsidera a raz&atilde;o entre terra dispon&iacute;vel e em uso. O emprego da vari&aacute;vel "&aacute;rea cultivada" aumenta a efici&ecirc;ncia daqueles produtores que utilizam estufa e mascara o mau aproveitamento da terra. J&aacute; a vari&aacute;vel "&aacute;rea total" penaliza aqueles agricultores quem t&ecirc;m reservas ambientais, n&atilde;o inclu&iacute;das como fonte de produ&ccedil;&atilde;o e renda (GOMES, MANGABEIRA, 2004). Resultados de modelagem DEA para Holambra com o uso da vari&aacute;vel "&aacute;rea total" podem ser vistos em Gomes <i>et al</i>. (2004).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Modelos DEA avan&ccedil;ados    podem melhorar os resultados obtidos, seja na redu&ccedil;&atilde;o dos pesos    zero, seja na possibilidade de sele&ccedil;&atilde;o de alvos a alcan&ccedil;ar.    Outro aspecto importante &eacute; o uso de vari&aacute;veis n&atilde;o inclu&iacute;das    no modelo e que possam explicar as inefici&ecirc;ncias e gerarem informa&ccedil;&otilde;es,    para as institui&ccedil;&otilde;es de pesquisa, desenvolvimento e extens&atilde;o    rural, no intuito de melhorar a efici&ecirc;ncia dos produtores ineficientes,    como, por exemplo, vari&aacute;veis espaciais (tipo de solo, uso e cobertura    das terras etc.) ou contextuais (socioecon&ocirc;micas, ambientais etc.). Esses    desenvolvimentos ser&atilde;o contemplados em estudos futuros.</font></p>     <p>&nbsp;</p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Refer&ecirc;ncias    bibliogr&aacute;ficas</b></font></p>      <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALI, A.I. Streamlined computation for data envelopment analysis. <b>European Journal of Operational Research</b>, v. 64, n. 1, p. 61-67, 1993.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003200500040000100001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALLEN, R.; ATHANASSOPOULOS, A.; DYSON, R.G.; THANASSOULIS, E. Weights restrictions and value judgements in data envelopment analysis: evolution, development and future directions. <b>Annals of Operations Research</b>, n. 73, p. 13-34, 1997.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0103-2003200500040000100002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ANGULO MEZA, L. <b>Um enfoque multiobjetivo para modelos de determina&ccedil;&atilde;o de alvos em DEA</b>. Rio de Janeiro, 2002. Tese (Doutorado em Eng. Produ&ccedil;&atilde;o), Universidade Federal do Rio de Janeiro.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003200500040000100003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ANGULO MEZA, L.; BIONDI NETO, L.; SOARES DE MELLO, J.C.C.B.; GOMES, E.G. ISYDS &#150; Integrated System for Decision Support (SIAD &#150; Sistema Integrado de Apoio &agrave; Decis&atilde;o): a software package for data envelopment analysis model. <b>Pesquisa Operacional</b>, v. 25, n. 3, 2005 (no prelo).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0103-2003200500040000100004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ANGULO MEZA, L.; ESTELLITA LINS, M.P. Review of methods for increasing discrimination in data envelopment analysis. <b>Annals of Operations Research</b>, v. 116, p. 225-242, 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003200500040000100005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">AZEVEDO, E.C.; MANGABEIRA, J.A.C.; MIRANDA, J.R. An&aacute;lise da sustentabilidade das atividades agr&iacute;colas: uma contribui&ccedil;&atilde;o dos sistemas de informa&ccedil;&otilde;es geogr&aacute;ficas na gest&atilde;o ambiental e no desenvolvimento sustentado. In: CONGRESSO BRASILEIRO DE ADMINISTRA&Ccedil;&Atilde;O RURAL, 4., 2001, Goi&acirc;nia. <b>Anais...</b> Lavras: ABAR, 2001. 8p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S0103-2003200500040000100006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Banker, R.D.; Charnes, A.; Cooper, W.W. Some models for estimating technical scale inefficiencies in DEA. <b>Management Science</b>, v. 30, n. 9, p. 1078-1092, 1984.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003200500040000100007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BARR, R.S.; DURCHHOLZ, M.L.; SEIFORD, L. Peeling the DEA onion: layering and rank-ordering DMUs using tiered DEA. <b>Technical Report</b>, Southern Methodist University, 2000.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0103-2003200500040000100008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BISHOP, Y.; FIENBERG, S.; HOLLAND, P. <b>Discrete multivariate analysis: theory and practice</b>. Cambridge, Estados Unidos: MIT, 1975. 575 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003200500040000100009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Charnes, A.; Cooper, W.W.; Rhodes, E. Measuring the efficiency of decision-making units. <b>European Journal of Operational Research</b>, v. 2, p. 429-444, 1978.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003200500040000100010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">COELLI, T.J.; RAO, D.S.P.; BATTESE, G.E. <b>An introduction to efficiency and productivity analysis.</b> Boston: Kluwer Academic Publishers, 1998, 296p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003200500040000100011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DOYLE, J.R.; GREEN, R.H. Cross-evaluation in DEA: improving discrimination among DMU's. <b>INFOR</b>, v. 33, n. 3, p. 205-222, 1995.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0103-2003200500040000100012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ENTANI, T.; MAEDA, Y.; TANAKA, H. Dual models of interval dea and its extensions to interval data. <b>European Journal of Operational Research</b>, v. 136, p. 32-45, 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003200500040000100013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">EVERITT, B. <b>Cluster analysis</b>. London: Heinemann Educational, 1974. 122 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003200500040000100014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ESTELLITA LINS, M.P.; ANGULO-MEZA, L. <b>An&aacute;lise envolt&oacute;ria de dados e perspectivas de integra&ccedil;&atilde;o no ambiente de apoio &agrave; decis&atilde;o</b>. Rio de Janeiro: Editora COPPE/UFRJ, 2000.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003200500040000100015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOMES, E.G. <b>Modelos de an&aacute;lise de envolt&oacute;ria de dados com ganhos de soma zero</b>. Rio de Janeiro, 2003. Tese (Doutorado em Engenharia de Produ&ccedil;&atilde;o), Universidade Federal do Rio de Janeiro.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003200500040000100016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FIGUEIREDO, D.S. <b>&Iacute;ndice h&iacute;brido de efic&aacute;cia e efici&ecirc;ncia para loja de varejo</b>. Niter&oacute;i, 2005. Tese (Mestrado em Engenharia de Produ&ccedil;&atilde;o), Universidade Federal Fluminense.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003200500040000100017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOMES, E.G.; MANGABEIRA, J.A.C. Uso de an&aacute;lise de envolt&oacute;ria de dados em agricultura: o caso de Holambra. <b>Engevista</b>, v. 6, n. 1, p. 19-27, 2004.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003200500040000100018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOMES, E.G.; MANGABEIRA, J.A.C.; SOARES DE MELLO, J.C.C.B.; ANGULO MEZA, L. The use of data envelopment analysis in agriculture in the presence of interval data. In: Congreso Latino-Iberoamericano de Investigaci&oacute;n Operativa - CLAIO, 12., 2004, La Habana. <b>Memorias...</b>, La Habana: ALIO, 2004.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003200500040000100019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOMES, E.G.; SOARES DE MELLO, J.C.C.B.; BIONDI NETO, L. Avalia&ccedil;&atilde;o de efici&ecirc;ncia por an&aacute;lise de envolt&oacute;ria de dados: conceitos, aplica&ccedil;&otilde;es &agrave; agricultura e integra&ccedil;&atilde;o com Sistemas de Informa&ccedil;&atilde;o Geogr&aacute;fica. <b>Documentos</b>, n. 28. Campinas: Embrapa Monitoramento por Sat&eacute;lite, 2003a.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003200500040000100020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOMES, E.G.; Soares    de Mello, J.C.C.B.; Estellita-Lins, M.P. Busca seq&uuml;encial de alvos intermedi&aacute;rios    em modelos DEA com soma de <i>outputs</i> constante. <b>Investiga&ccedil;&atilde;o    Operacional</b>, v. 23, n. 2, p. 163-178, 2003b.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003200500040000100021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GON&Ccedil;ALVES, D.A. <b>Avalia&ccedil;&atilde;o de efici&ecirc;ncia de fundos de investimentos financeiros: utiliza&ccedil;&atilde;o de DMU artificial em modelos DEA com outputs negativos</b>. Rio de Janeiro, 2003. Tese (Doutorado em Engenharia de Produ&ccedil;&atilde;o) &#150; COPPE, Universidade Federal do Rio de Janeiro.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003200500040000100022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GONZ&Aacute;LEZ ARAYA, M.C. <b>Proje&ccedil;&otilde;es n&atilde;o radiais em regi&otilde;es fortemente eficientes da fronteira DEA - algoritmos e aplica&ccedil;&otilde;es</b>. Rio de Janeiro, 2003. Tese (Doutorado em Engenharia de Produ&ccedil;&atilde;o) &#150; COPPE, Universidade Federal do Rio de Janeiro.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003200500040000100023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HOLAMBRA em n&uacute;meros. <b>Holambra Hoje</b>, agosto, 1998. (3<sup>ª</sup> capa).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003200500040000100024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INSTITUTO BRASILEIRO    DE GEOGRAFIA E ESTAT&Iacute;STICA. <b>Cidades@</b>. 2002a. Dispon&iacute;vel    em: &lt;<a href="http://www.ibge.gov.br/cidadesat/default.php" target="_blank">http://www.ibge.gov.br/cidadesat/default.php</a>&gt;.    Acesso em: 07 jun. 2004.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003200500040000100025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INSTITUTO BRASILEIRO    DE GEOGRAFIA E ESTAT&Iacute;STICA. <b>Sistema IBGE de Recupera&ccedil;&atilde;o    Autom&aacute;tica - SIDRA</b>. 2002b. Dispon&iacute;vel em: &lt;<a href="http://www.ibge.gov.br/cidadesat/default.php" target="_blank">http://www.ibge.gov.br/cidadesat/default.php</a>&gt;.    Acesso em: 05 jun. 2004.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003200500040000100026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LETA, F.R.; SOARES DE MELLO, J.C.C.B.; GOMES, E.G.; ANGULO-MEZA, L. M&eacute;todos de melhora de ordena&ccedil;&atilde;o em DEA aplicados &agrave; avalia&ccedil;&atilde;o est&aacute;tica de tornos mec&acirc;nicos. <b>Investiga&ccedil;&atilde;o Operacional</b>, v. 25, 2005 (no prelo).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003200500040000100027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MANGABEIRA, J.A.C. <b>Tipifica&ccedil;&atilde;o de produtores rurais apoiada em imagens de alta resolu&ccedil;&atilde;o espacial, geoprocessamento e estat&iacute;stica multivariada: uma proposta metodol&oacute;gica</b>. Campinas, 2002. Disserta&ccedil;&atilde;o (Mestrado em Planejamento e Desenvolvimento Rural Sustent&aacute;vel) - Faculdade de Engenharia Agr&iacute;cola, UNICAMP.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003200500040000100028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NOVAES, L.F.L. <b>Envolt&oacute;ria sob dupla &oacute;tica aplicada na avalia&ccedil;&atilde;o imobili&aacute;ria em ambiente do sistema de informa&ccedil;&atilde;o geogr&aacute;fica</b>. Rio de Janeiro, 2002. Tese (Doutorado em Engenharia de Produ&ccedil;&atilde;o) &#150; COPPE, Universidade Federal do Rio de Janeiro.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-2003200500040000100029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SEXTON, T.R.; SILKMAN, R.H.; LOGAN A.J. Data Envelopment Analysis: Critique and extensions. <b>In:</b> .H. Silkman (Ed.) <b>Measuring efficiency: an assessment of data envelopment analysis</b>. Jossey-Bass Editor, San Francisco, 1986.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003200500040000100030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SOARES DE MELLO, J.C.C.B.; GOMES, E.G.; BIONDI NETO, L.; ESTELLITA-LINS, M.P. Suaviza&ccedil;&atilde;o da fronteira DEA: o caso BCC tridimensional. <b>Investiga&ccedil;&atilde;o Operacional</b>, v. 24, n. 1, p. 89-107, 2004.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S0103-2003200500040000100031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SOARES DE MELLO, J.C.C.B.; GOMES, E.G.; GOMES, L.F.A.M.; BIONDI NETO, L.; ANGULO MEZA, L. Avalia&ccedil;&atilde;o do tamanho de aeroportos portugueses com rela&ccedil;&otilde;es multicrit&eacute;rio de supera&ccedil;&atilde;o. <b>Pesquisa Operacional</b>, v. 25, n. 3, 2005 (no prelo).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003200500040000100032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SOUZA, G.S. Fun&ccedil;&otilde;es de produ&ccedil;&atilde;o: uma abordagem estat&iacute;stica com o uso de modelos de encapsulamento de dados. <b>Texto para discuss&atilde;o</b>, n. 17. Bras&iacute;lia: Embrapa Informa&ccedil;&atilde;o Tecnol&oacute;gica, 49p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-2003200500040000100033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TAVARES, G. <b>Data envelopment analysis: basic models and their main extensions. A model to analyse the modernisation of telecommunication services in OECD countries</b>. Coimbra, 1998. Tese (Mestrado em Ci&ecirc;ncias e Tecnologia) - Universidade de Coimbra.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003200500040000100034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TUPY, O.; YAMAGUCHI,    L.C.T. Identificando <i>benchmarks</i> na produ&ccedil;&atilde;o de leite. <b>Revista    de Economia e Sociologia Rural</b>, v. 40, n. 1, p. 81-96, 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003200500040000100035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Recebido em julho    de 2004 e revisto em setembro de 2005</font></p>      <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back10"></a><a href="#top10">1</a>    Os autores agradecem ao CNPQ pelo apoio financeiro por meio do Edital CNPq 19/2004    - Universal, Processo nº 472838/2004-0</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALI]]></surname>
+<given-names><![CDATA[A.I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Streamlined computation for data envelopment analysis]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>1993</year>
+<volume>64</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>61-67</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALLEN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ATHANASSOPOULOS]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DYSON]]></surname>
+<given-names><![CDATA[R.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THANASSOULIS]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Weights restrictions and value judgements in data envelopment analysis]]></article-title>
+<source><![CDATA[Annals of Operations Research]]></source>
+<year>1997</year>
+<volume>evolution, development and future directions</volume><volume>73</volume>
+<page-range>13-34</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANGULO MEZA]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Um enfoque multiobjetivo para modelos de determinação de alvos em DEA]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANGULO MEZA]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIONDI NETO]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES DE MELLO]]></surname>
+<given-names><![CDATA[J.C.C.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[ISYDS - Integrated System for Decision Support (SIAD - Sistema Integrado de Apoio à Decisão): a software package for data envelopment analysis model]]></article-title>
+<source><![CDATA[Pesquisa Operacional]]></source>
+<year>2005</year>
+<volume>25</volume>
+<numero>3</numero>
+<issue>3</issue>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANGULO MEZA]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ESTELLITA LINS]]></surname>
+<given-names><![CDATA[M.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Review of methods for increasing discrimination in data envelopment analysis]]></article-title>
+<source><![CDATA[Annals of Operations Research]]></source>
+<year>2002</year>
+<volume>116</volume>
+<page-range>225-242</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AZEVEDO]]></surname>
+<given-names><![CDATA[E.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANGABEIRA]]></surname>
+<given-names><![CDATA[J.A.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise da sustentabilidade das atividades agrícolas: uma contribuição dos sistemas de informações geográficas na gestão ambiental e no desenvolvimento sustentado]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2001</year>
+<conf-name><![CDATA[4 CONGRESSO BRASILEIRO DE ADMINISTRAÇÃO RURAL]]></conf-name>
+<conf-date>2001</conf-date>
+<conf-loc>Goiânia </conf-loc>
+<publisher-loc><![CDATA[Lavras ]]></publisher-loc>
+<publisher-name><![CDATA[ABAR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Banker]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Charnes]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cooper]]></surname>
+<given-names><![CDATA[W.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Some models for estimating technical scale inefficiencies in DEA]]></article-title>
+<source><![CDATA[Management Science]]></source>
+<year>1984</year>
+<volume>30</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>1078-1092</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARR]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DURCHHOLZ]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SEIFORD]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Peeling the DEA onion: layering and rank-ordering DMUs using tiered DEA]]></article-title>
+<source><![CDATA[Technical Report]]></source>
+<year>2000</year>
+<publisher-name><![CDATA[Southern Methodist University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BISHOP]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIENBERG]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOLLAND]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Discrete multivariate analysis: theory and practice]]></source>
+<year>1975</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[MIT]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Charnes]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cooper]]></surname>
+<given-names><![CDATA[W.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rhodes]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Measuring the efficiency of decision-making units]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>1978</year>
+<volume>2</volume>
+<page-range>429-444</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELLI]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAO]]></surname>
+<given-names><![CDATA[D.S.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BATTESE]]></surname>
+<given-names><![CDATA[G.E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An introduction to efficiency and productivity analysis]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[Kluwer Academic Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DOYLE]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GREEN]]></surname>
+<given-names><![CDATA[R.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cross-evaluation in DEA: improving discrimination among DMU's]]></article-title>
+<source><![CDATA[INFOR]]></source>
+<year>1995</year>
+<volume>33</volume><volume>3</volume>
+<page-range>205-222</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENTANI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MAEDA]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TANAKA]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Dual models of interval dea and its extensions to interval data]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>2002</year>
+<volume>136</volume>
+<page-range>32-45</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EVERITT]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cluster analysis]]></source>
+<year>1974</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Heinemann Educational]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ESTELLITA LINS]]></surname>
+<given-names><![CDATA[M.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANGULO-MEZA]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise envoltória de dados e perspectivas de integração no ambiente de apoio à decisão]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Editora COPPEUFRJ]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modelos de análise de envoltória de dados com ganhos de soma zero]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[D.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Índice híbrido de eficácia e eficiência para loja de varejo]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Niterói ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANGABEIRA]]></surname>
+<given-names><![CDATA[J.A.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Uso de análise de envoltória de dados em agricultura: o caso de Holambra]]></article-title>
+<source><![CDATA[Engevista]]></source>
+<year>2004</year>
+<volume>6</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>19-27</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANGABEIRA]]></surname>
+<given-names><![CDATA[J.A.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES DE MELLO]]></surname>
+<given-names><![CDATA[J.C.C.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANGULO MEZA]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The use of data envelopment analysis in agriculture in the presence of interval data]]></article-title>
+<source><![CDATA[Memorias...,]]></source>
+<year>2004</year>
+<conf-name><![CDATA[12 Congreso Latino-Iberoamericano de Investigación Operativa - CLAIO]]></conf-name>
+<conf-date>2004</conf-date>
+<conf-loc>La Habana </conf-loc>
+<publisher-loc><![CDATA[La Habana ]]></publisher-loc>
+<publisher-name><![CDATA[ALIO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES DE MELLO]]></surname>
+<given-names><![CDATA[J.C.C.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIONDI NETO]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Avaliação de eficiência por análise de envoltória de dados: conceitos, aplicações à agricultura e integração com Sistemas de Informação Geográfica]]></article-title>
+<source><![CDATA[Documentos]]></source>
+<year>2003</year>
+<volume>28</volume>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa Monitoramento por Satélite]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soares de Mello]]></surname>
+<given-names><![CDATA[J.C.C.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estellita-Lins, M.P. Busca seqüencial de alvos intermediários em modelos DEA com soma de outputs constante]]></article-title>
+<source><![CDATA[Investigação Operacional]]></source>
+<year>2003</year>
+<volume>23</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>163-178</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONÇALVES]]></surname>
+<given-names><![CDATA[D.A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação de eficiência de fundos de investimentos financeiros: utilização de DMU artificial em modelos DEA com outputs negativos]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONZÁLEZ ARAYA]]></surname>
+<given-names><![CDATA[M.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Projeções não radiais em regiões fortemente eficientes da fronteira DEA: algoritmos e aplicações]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[HOLAMBRA em números]]></article-title>
+<source><![CDATA[Holambra Hoje]]></source>
+<year>agos</year>
+<month>to</month>
+<day>, </day>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA</collab>
+<source><![CDATA[Cidades@]]></source>
+<year>2002</year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA</collab>
+<source><![CDATA[Sistema IBGE de Recuperação Automática: SIDRA]]></source>
+<year>2002</year>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LETA]]></surname>
+<given-names><![CDATA[F.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES DE MELLO]]></surname>
+<given-names><![CDATA[J.C.C.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANGULO-MEZA]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Métodos de melhora de ordenação em DEA aplicados à avaliação estática de tornos mecânicos]]></article-title>
+<source><![CDATA[Investigação Operacional]]></source>
+<year>2005</year>
+<volume>25</volume>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MANGABEIRA]]></surname>
+<given-names><![CDATA[J.A.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tipificação de produtores rurais apoiada em imagens de alta resolução espacial, geoprocessamento e estatística multivariada: uma proposta metodológica]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOVAES]]></surname>
+<given-names><![CDATA[L.F.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Envoltória sob dupla ótica aplicada na avaliação imobiliária em ambiente do sistema de informação geográfica]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SEXTON]]></surname>
+<given-names><![CDATA[T.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILKMAN]]></surname>
+<given-names><![CDATA[R.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOGAN]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Data Envelopment Analysis]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Silkman]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Measuring efficiency: an assessment of data envelopment analysis]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[San Francisco ]]></publisher-loc>
+<publisher-name><![CDATA[Jossey-Bass]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOARES DE MELLO]]></surname>
+<given-names><![CDATA[J.C.C.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIONDI NETO]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ESTELLITA-LINS]]></surname>
+<given-names><![CDATA[M.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Suavização da fronteira DEA: o caso BCC tridimensional]]></article-title>
+<source><![CDATA[Investigação Operacional]]></source>
+<year>2004</year>
+<volume>24</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>89-107</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOARES DE MELLO]]></surname>
+<given-names><![CDATA[J.C.C.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[L.F.A.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIONDI NETO]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANGULO MEZA]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Avaliação do tamanho de aeroportos portugueses com relações multicritério de superação]]></article-title>
+<source><![CDATA[Pesquisa Operacional]]></source>
+<year></year>
+<volume>25</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>2005</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[G.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Funções de produção: uma abordagem estatística com o uso de modelos de encapsulamento de dados]]></article-title>
+<source><![CDATA[Texto para discussão]]></source>
+<year></year>
+<numero>17</numero>
+<issue>17</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa Informação Tecnológica]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAVARES]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Data envelopment analysis: basic models and their main extensions: A model to analyse the modernisation of telecommunication services in OECD countries]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Coimbra ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TUPY]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[YAMAGUCHI]]></surname>
+<given-names><![CDATA[L.C.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Identificando benchmarks na produção de leite]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2002</year>
+<volume>40</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>81-96</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032009000100009</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032009000100009</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Integração espacial de mercados na presença de custos de transação: um estudo para o mercado de boi gordo em Minas Gerais e São Paulo]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Mattos]]></surname>
+<given-names><![CDATA[Leonardo Bornacki de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Lima]]></surname>
+<given-names><![CDATA[João Eustáquio de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Lirio]]></surname>
+<given-names><![CDATA[Viviani Silva]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Viçosa Departamento de Economia Rural ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal de Viçosa Departamento de Economia Rural ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidade Federal de Viçosa Departamento de Economia Rural da Universidade ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2009</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2009</year>
+</pub-date>
+<volume>47</volume>
+<numero>1</numero>
+<fpage>249</fpage>
+<lpage>274</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032009000100009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032009000100009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032009000100009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[As análises de integração dos mercados de commodities agrícolas, que são baseadas apenas em informações sobre preços, são limitadas, por desconsiderarem os efeitos dos custos de transação no processo de ajustamento dos preços. O objetivo principal deste estudo foi estimar os prováveis efeitos dos custos de transação sobre a integração do mercado de boi gordo entre os estados de Minas Gerais e São Paulo. Foi estimado um Modelo de Correção de Erro Vetorial com Threshold (Modelo TVEC), sendo utilizados dados mensais dos preços dessa commodity referentes ao período de janeiro de 1972 a agosto de 2005. Os resultados obtidos indicam que os custos de transação entre os mercados estudados são significativos. Choques de preços, inferiores a cerca de 10% do preço médio, não são transmitidos entre os mercados.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The analysis of market integration of agricultural commodities based on price information are limited because the effects of transaction costs are not considered in the adjustment process. The main objective of this paper was to estimate the possible transaction costs impacts on market integration of beef cattle between the states of Minas Gerais and São Paulo. It was estimated a Threshold Vector Error Correction Model (TVEC model) using monthly rice data for the period from January 1972 to August 2005. The results indicated the presence of threshold cointegration implying that transaction costs have important effect on the price adjustment process.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[integração de mercado]]></kwd>
+<kwd lng="pt"><![CDATA[custos de transação]]></kwd>
+<kwd lng="pt"><![CDATA[boi gordo]]></kwd>
+<kwd lng="pt"><![CDATA[modelo TVEC]]></kwd>
+<kwd lng="pt"><![CDATA[co-integração com threshold]]></kwd>
+<kwd lng="en"><![CDATA[market integration]]></kwd>
+<kwd lng="en"><![CDATA[transaction costs]]></kwd>
+<kwd lng="en"><![CDATA[beef cattle]]></kwd>
+<kwd lng="en"><![CDATA[TVEC model]]></kwd>
+<kwd lng="en"><![CDATA[threshold cointegration]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Integra&ccedil;&atilde;o espacial de mercados na presen&ccedil;a de custos  de transa&ccedil;&atilde;o: um estudo para o mercado de boi gordo  em Minas Gerais e S&atilde;o Paulo </b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Leonardo Bornacki de Mattos<sup>I</sup>;   Jo&atilde;o Eust&aacute;quio de Lima<sup>II</sup>;   Viviani Silva Lirio<sup>III</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Professor Adjunto do Departamento de Economia Rural da Universidade Federal de Vi&ccedil;osa (DER-UFV). E-mail: <a href="mailto:lbmattos@ufv.br">lbmattos@ufv.br</a>    <br>   <sup>II</sup>Professor Titular do Departamento de Economia Rural da Universidade Federal de Vi&ccedil;osa (DER-UFV). E-mail: <a href="mailto:jelima@ufv.br">jelima@ufv.br</a>    <br>   <sup>III</sup>Professora Adjunta do Departamento de Economia Rural da Universidade Federal de Vi&ccedil;osa (DER-UFV). E-mail: <a href="mailto:vslirio@ufv.br">vslirio@ufv.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As an&aacute;lises de integra&ccedil;&atilde;o dos mercados de <i>commodities</i> agr&iacute;colas, que s&atilde;o baseadas apenas em informa&ccedil;&otilde;es sobre pre&ccedil;os, s&atilde;o limitadas, por desconsiderarem os efeitos dos custos de transa&ccedil;&atilde;o no processo de ajustamento dos pre&ccedil;os. O objetivo principal deste estudo foi estimar os prov&aacute;veis efeitos dos custos de transa&ccedil;&atilde;o sobre a integra&ccedil;&atilde;o do mercado de boi gordo entre os estados de Minas Gerais e S&atilde;o Paulo. Foi estimado um Modelo de Corre&ccedil;&atilde;o de Erro Vetorial com <i>Threshold</i> (Modelo TVEC), sendo utilizados dados mensais dos pre&ccedil;os dessa <i>commodity</i> referentes ao per&iacute;odo de janeiro de 1972 a agosto de 2005. Os resultados obtidos indicam que os custos de transa&ccedil;&atilde;o entre os mercados estudados s&atilde;o significativos. Choques de pre&ccedil;os, inferiores a cerca de 10% do pre&ccedil;o m&eacute;dio, n&atilde;o s&atilde;o transmitidos entre os mercados. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chaves: </b>integra&ccedil;&atilde;o de mercado; custos de transa&ccedil;&atilde;o; boi gordo; modelo TVEC; co-integra&ccedil;&atilde;o com <i>threshold</i>.     <br>   <b>Classifica&ccedil;&atilde;o JEL:</b> Q13, C32. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> The analysis of market integration of agricultural commodities based   on price information are limited because the effects of transaction costs are not   considered in the adjustment process. The main objective of this paper was to   estimate the possible transaction costs impacts on market integration of beef cattle   between the states of Minas Gerais and S&atilde;o Paulo. It was estimated a Threshold   Vector Error Correction Model (TVEC model) using monthly rice data for the   period from January 1972 to August 2005. The results indicated the presence of   threshold cointegration implying that transaction costs have important effect on   the price adjustment process.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key-words:</b> market integration; transaction costs; beef cattle; TVEC model; threshold cointegration.    <br>   <b>JEL Classification: </b>Q13, C32.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O n&uacute;mero de estudos de natureza emp&iacute;rica, que buscam verificar a   extens&atilde;o em que mercados de <i>commodities</i> agr&iacute;colas s&atilde;o integrados, tem   crescido significativamente nos &uacute;ltimos anos. Tais estudos procuram   identificar a extens&atilde;o em que choques de pre&ccedil;os s&atilde;o transmitidos entre   mercados verticalmente e, ou, espacialmente relacionados. Geralmente, a   integra&ccedil;&atilde;o de mercados &eacute; utilizada como um indicador da efici&ecirc;ncia de   mercado, dado que o mecanismo b&aacute;sico que garante a integra&ccedil;&atilde;o   econ&ocirc;mica &eacute; a possibilidade da arbitragem<a href="#not01"><sup>1</sup></a><a name="not1"></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Barrett (1996), um dos principais autores a manifestar preocupa&ccedil;&atilde;o   quanto &agrave; adequa&ccedil;&atilde;o dos m&eacute;todos at&eacute; ent&atilde;o dispon&iacute;veis para an&aacute;lises de   integra&ccedil;&atilde;o, hierarquiza os m&eacute;todos existentes em tr&ecirc;s n&iacute;veis. Os do n&iacute;vel I   utilizam apenas dados de pre&ccedil;os. Os m&eacute;todos do n&iacute;vel II combinam   dados de custos de transa&ccedil;&atilde;o<a href="#not02"><sup>2</sup></a><a name="not2"></a> e de pre&ccedil;os. Os m&eacute;todos do n&iacute;vel III   combinam dados de fluxos de mercadorias e de pre&ccedil;os, o que elimina a   necessidade de s&eacute;ries referentes aos custos de transa&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ocorre que, quase sempre, os dados de custos de transa&ccedil;&atilde;o e do fluxo   de mercadorias entre mercados n&atilde;o s&atilde;o dispon&iacute;veis, seja pela dificuldade   de colet&aacute;-los ou, at&eacute; mesmo, pela impossibilidade de mensur&aacute;-los. Tal   indisponibilidade tem sido a respons&aacute;vel principal pela predomin&acirc;ncia,   na literatura especializada, de estudos do n&iacute;vel I. Desse n&iacute;vel, fazem parte   os trabalhos que utilizam desde simples an&aacute;lises de correla&ccedil;&atilde;o, regress&otilde;es   e testes de Causalidade de Granger, at&eacute; aqueles que empregam t&eacute;cnicas   mais recentes de s&eacute;ries temporais, como Modelos de Corre&ccedil;&atilde;o de Erro e,   principalmente, an&aacute;lises de co-integra&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A co-integra&ccedil;&atilde;o, introduzida por Engle e Granger (1987) e refinada   por v&aacute;rios outros autores como, por exemplo, Johansen (1988) e Johansen   e Juselius (1990), fornece o tratamento adequado &agrave;s s&eacute;ries   n&atilde;o-estacion&aacute;rias e passou a ser a principal e, muitas vezes, a &uacute;nica   ferramenta empregada nas an&aacute;lises de integra&ccedil;&atilde;o de mercados, tendo   sido usada, sen&atilde;o em todos, em v&aacute;rios dos estudos recentes referentes aos   mercados agropecu&aacute;rios no Brasil. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por meio da co-integra&ccedil;&atilde;o, Gonz&aacute;lez-Rivera e Helfand (2001)   investigam a integra&ccedil;&atilde;o entre os mercados de arroz em 19 estados   brasileiros. Nogueira (2001) estuda a integra&ccedil;&atilde;o entre os principais   mercados brasileiros de caf&eacute;. Coelho (2002) investiga a integra&ccedil;&atilde;o entre os   mercados interno e externo de algod&atilde;o. Bacchi e Alves (2004) analisam o   processo de integra&ccedil;&atilde;o vertical da cadeia de comercializa&ccedil;&atilde;o do a&ccedil;&uacute;car   cristal empacotado na regi&atilde;o Centro-Sul do Brasil. Pereira (2005) avalia a   integra&ccedil;&atilde;o espacial no mercado brasileiro de boi gordo. Nogueira (2005)   trabalha a quest&atilde;o da integra&ccedil;&atilde;o entre os mercados brasileiros de caf&eacute;,   al&eacute;m de considerar, tamb&eacute;m, a integra&ccedil;&atilde;o desses mercados com os   mercados externos dessa <i>commodity</i>. Rosado (2006) estuda a integra&ccedil;&atilde;o   dos mercados de su&iacute;nos nos diferentes estados brasileiros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No entanto, com base na an&aacute;lise tradicional de co-integra&ccedil;&atilde;o, quando   os mercados s&atilde;o integrados, choques isolados de pre&ccedil;os s&atilde;o sempre   transmitidos entre eles, independentemente da magnitude dos choques.   Assume-se, portanto, que o processo de ajustamento de pre&ccedil;os ocorre de   maneira cont&iacute;nua, o que &eacute; inconsistente com a descontinuidade de   com&eacute;rcio que pode ocorrer devido &agrave;s condi&ccedil;&otilde;es da arbitragem espacial. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Custos de transa&ccedil;&atilde;o restringem a transmiss&atilde;o dos pre&ccedil;os, que   somente passa a ocorrer quando os ganhos com a arbitragem superam os   custos de transa&ccedil;&atilde;o. Caso contr&aacute;rio, choques isolados n&atilde;o s&atilde;o   transmitidos entre mercados, o que determina uma situa&ccedil;&atilde;o na qual os   pre&ccedil;os n&atilde;o se relacionam. Portanto, diferentemente da estrutura   assumida pela an&aacute;lise padr&atilde;o de co-integra&ccedil;&atilde;o, na presen&ccedil;a de custos de   transa&ccedil;&atilde;o, o processo de ajustamento de pre&ccedil;os ocorre de maneira   descont&iacute;nua. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Barrett (2001), quando os custos de transa&ccedil;&atilde;o n&atilde;o s&atilde;o   devidamente considerados, as an&aacute;lises n&atilde;o refletem a verdadeira rela&ccedil;&atilde;o   entre os mercados. Isso porque esses custos se tornam um componente   dos termos de erro das regress&otilde;es que envolvem os pre&ccedil;os praticados em   cada um dos mercados. Os par&acirc;metros estimados s&atilde;o, portanto, viesados   e inconsistentes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fackler e Goodwin (2000) ressaltam que esse &eacute; um problema ainda   maior em pa&iacute;ses em desenvolvimento, como o Brasil. Nesses pa&iacute;ses, a   infra-estrutura de transporte e comunica&ccedil;&atilde;o &eacute;, geralmente, prec&aacute;ria, os   mecanismos de garantias contratuais s&atilde;o inadequados e a instabilidade   pol&iacute;tica &eacute; freq&uuml;ente, o que resulta na eleva&ccedil;&atilde;o expressiva dos custos de   transa&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">H&aacute; de se ressaltar que, embora existam ind&iacute;cios de custos de transa&ccedil;&atilde;o   expressivos, nenhum dos estudos j&aacute; realizados sobre o processo de   integra&ccedil;&atilde;o de mercados agropecu&aacute;rios no Brasil levou em considera&ccedil;&atilde;o   os efeitos de custos de transa&ccedil;&atilde;o sobre tal processo. &Eacute; verdade, tamb&eacute;m,   que v&aacute;rios dos autores reconhecem esse fato como uma das principais   limita&ccedil;&otilde;es das an&aacute;lises por eles apresentadas e, portanto, que esfor&ccedil;os   devam ser despendidos a fim de se avan&ccedil;ar nesse sentido<a href="#not03"><sup>3</sup></a><a name="not3"></a>. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nesse contexto, este estudo procura contribuir com a literatura   referente &agrave; integra&ccedil;&atilde;o espacial do mercado brasileiro de boi gordo, ao se   incorporar na an&aacute;lise os poss&iacute;veis efeitos de custos de transa&ccedil;&atilde;o sobre a   integra&ccedil;&atilde;o entre dois dos principais estados produtores e consumidores   desta <i>commodity</i>. Para tanto, ser&aacute; utilizada a t&eacute;cnica <i>Threshold   Cointegration</i>, que consiste numa combina&ccedil;&atilde;o dos m&eacute;todos tradicionais de   co-integra&ccedil;&atilde;o com a presen&ccedil;a de n&atilde;o-linearidades e descontinuidades   nas rela&ccedil;&otilde;es entre os pre&ccedil;os. Especificamente, pretende-se: a) verificar se   os mercados de Minas Gerais e S&atilde;o Paulo s&atilde;o integrados; b) na presen&ccedil;a   de integra&ccedil;&atilde;o, estimar os efeitos dos custos de transa&ccedil;&atilde;o sobre o processo   de ajustamento de pre&ccedil;os a eventuais desvios nos pre&ccedil;os relativos. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Integra&ccedil;&atilde;o de mercado e os custos de transa&ccedil;&atilde;o</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Embora seja um tema muito abordado na literatura referente aos   mercados de <i>commodities</i> agropecu&aacute;rias, n&atilde;o h&aacute; consenso entre os   pesquisadores quanto a uma defini&ccedil;&atilde;o uniforme para a "integra&ccedil;&atilde;o de   mercados", sendo v&aacute;rias as defini&ccedil;&otilde;es encontradas para esse termo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fackler e Goodwin (2000) sintetizam essas defini&ccedil;&otilde;es e consideram   que a integra&ccedil;&atilde;o espacial de mercados refere-se ao grau com que choques   de oferta e demanda s&atilde;o transmitidos de uma regi&atilde;o para outra. Esses   autores prop&otilde;em que tal grau possa ser aproximado por uma medida   denominada de <i>raz&atilde;o de transmiss&atilde;o de pre&ccedil;os</i>. A partir da considera&ccedil;&atilde;o de   um choque econ&ocirc;mico hipot&eacute;tico, </font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>A</sub>, que muda o excesso de demanda de   um produto na regi&atilde;o A, mas n&atilde;o na regi&atilde;o B, os autores definem a <i>raz&atilde;o   de transmiss&atilde;o de pre&ccedil;os</i> da regi&atilde;o A para a B (R<sub>AB</sub>, associada a este choque,   da seguinte maneira:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09exp01.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que o numerador da equa&ccedil;&atilde;o (1) representa a varia&ccedil;&atilde;o   infinitesimal do pre&ccedil;o na regi&atilde;o B, resultante do choque econ&ocirc;mico na   regi&atilde;o A, enquanto o denominador representa a varia&ccedil;&atilde;o infinitesimal do   pre&ccedil;o na regi&atilde;o A, resultante desse mesmo choque econ&ocirc;mico. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Desse modo, segundo Fackler e Goodwin (2000), a rela&ccedil;&atilde;o R<sub>AB</sub> representa uma medida da integra&ccedil;&atilde;o dos mercados. Os mercados s&atilde;o   ditos perfeitamente integrados caso R<sub>AB</sub> = 1. Integra&ccedil;&atilde;o menos que   perfeita ocorre quando R<sub>AB</sub> &lt; 1. &Eacute; poss&iacute;vel, ainda, que determinada regi&atilde;o   seja mais integrada a outra, do que esta com a primeira, o que significa que   a raz&atilde;o de transmiss&atilde;o de pre&ccedil;os n&atilde;o &eacute; necessariamente sim&eacute;trica,   podendo ocorrer R<sub>AB</sub> <img src="/img/revistas/resr/v47n1/diferente.gif"> R<sub>BA</sub>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para Fackler e Goodwin (2000) e v&aacute;rios outros autores, a arbitragem   espacial &eacute; o elemento b&aacute;sico que conduz os mercados &agrave; integra&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mercados regionais tornam-se interligados como resultado de a&ccedil;&otilde;es   competitivas por parte dos arbitradores, que buscam lucros. As atividades   desses agentes envolvem a aquisi&ccedil;&atilde;o de <i>commodities</i> em mercados que   apresentam os menores pre&ccedil;os e a posterior revenda nos mercados nos   quais os pre&ccedil;os s&atilde;o maiores (GOODWIN; SCHROEDER, 1991). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com Fackler e Goodwin (2000), as a&ccedil;&otilde;es dos arbitradores   garantem que pre&ccedil;os de produtos homog&ecirc;neos, em duas localidades   quaisquer, ir&atilde;o diferir por n&atilde;o mais que o custo de mover o produto da   regi&atilde;o com menor pre&ccedil;o para a regi&atilde;o com maior pre&ccedil;o, tal como   estabelecido em (2):</font></p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09exp02.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">sendo r<sub>ij</sub> o custo em que o arbitrador deve incorrer para mover a <i>commodity</i> da regi&atilde;o <i>i</i> para a regi&atilde;o <i>j</i>, que inclui, al&eacute;m do custo de   transporte, todos os custos relevantes para realizar transa&ccedil;&otilde;es entre   localidades espacialmente separadas. A express&atilde;o apresentada em (2)   define o que &eacute; conhecido na literatura como as "condi&ccedil;&otilde;es da arbitragem   espacial". </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Deve-se ressaltar que n&atilde;o h&aacute;, na literatura, uma terminologia   uniforme para o termo r<sub>ij</sub> que aparece na express&atilde;o (2). Normalmente, s&atilde;o   tr&ecirc;s os termos utilizados: custos de transporte, custos de transfer&ecirc;ncia e   custos de transa&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mesmo Fackler e Goodwin (2000), que explicitamente reconhecem a   exist&ecirc;ncia de outros custos na movimenta&ccedil;&atilde;o de bens, se referem a eles   apenas por custos de transporte. Essa tamb&eacute;m &eacute; a terminologia adotada,   por exemplo, por Ravallion (1986). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Faminow e Benson (1990) utilizam, sem clara distin&ccedil;&atilde;o, os termos   custos de transporte e custos de transfer&ecirc;ncia. Baulch (1997), embora   tamb&eacute;m use os mesmos termos, se refere ao primeiro como sendo um dos   componentes do segundo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A terminologia mais adotada, entretanto, &eacute; a de custos de transa&ccedil;&atilde;o,   tanto em estudos com enfoque te&oacute;rico quanto nos de natureza aplicada.   Se considerada a defini&ccedil;&atilde;o dada por Williamson, citado por Paula e   Martinele (2004), de que transa&ccedil;&atilde;o &eacute; um evento que ocorre quando um   bem &eacute; transferido, incorrendo em custos <i>ex-ant</i>e e <i>ex-post</i>, este parece ser   realmente o termo mais adequado para se referir aos custos de transferir   produtos entre mercados. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Barrett (2001), que tamb&eacute;m adota o termo custos de transa&ccedil;&atilde;o,   procura, por meio de uma express&atilde;o alg&eacute;brica, similar &agrave; express&atilde;o (3),   decompor o que ele considera ser uma boa caracteriza&ccedil;&atilde;o de todos os   custos envolvidos no processo. </font></p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09exp03.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O autor considera, ent&atilde;o, que os custos de transa&ccedil;&atilde;o (r<sub>ij</sub>) s&atilde;o   compostos por custo de transporte (f<sub>ij</sub>), por custos vari&aacute;veis (v<sub>ij</sub>)   associados a taxas, seguro de cargas, contratos, despesas financeiras, <i>hedging</i>, atendimento a barreiras t&eacute;cnicas (padr&otilde;es sanit&aacute;rios e   fitossanit&aacute;rios), entre outros, por impostos aduaneiros (d<sub>ij</sub>) e, tamb&eacute;m, por   custos n&atilde;o-mensur&aacute;veis (w<sub>ij</sub>), como o custo de oportunidade do   empres&aacute;rio, custo de busca por informa&ccedil;&otilde;es, pr&ecirc;mios de risco associados   a falhas nos contratos, etc. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nota-se que, se a parcela (w<sub>ij</sub>) for subtra&iacute;da de (3), a express&atilde;o   resultante seria, segundo Barrett e Li (2002), a decomposi&ccedil;&atilde;o dos custos de   transfer&ecirc;ncia. Para esses autores, custos de transfer&ecirc;ncia s&atilde;o a parcela   mensur&aacute;vel dos custos de transa&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fackler e Goodwin (2000) ressaltam que, em um mercado   competitivo, as a&ccedil;&otilde;es dos arbitradores tender&atilde;o a mover os pre&ccedil;os at&eacute; que   suas diferen&ccedil;as se igualem aos custos de transa&ccedil;&atilde;o. Embora desvios de   curto prazo possam existir, esses s&atilde;o de natureza transit&oacute;ria. Dessa   maneira, maiores custos de transa&ccedil;&atilde;o aumentam a possibilidade de os   mercados serem segmentados, tornando maiores as chances de a regi&atilde;o   possuir suas pr&oacute;prias ofertas e demandas locais, interagindo dentro da   regi&atilde;o de pre&ccedil;os gerada pelos custos de transa&ccedil;&atilde;o, uma "regi&atilde;o neutra",   na qual n&atilde;o h&aacute; integra&ccedil;&atilde;o. Mesmo que uma regi&atilde;o seja integrada com o   resto do mercado, o fato de ser mais caro transferir bens e informa&ccedil;&otilde;es   para ou desta localidade implica que os ajustamentos aos choques de   oferta e demanda provavelmente levar&atilde;o mais tempo. Pressup&otilde;e-se,   portanto, que quanto menores os custos de transa&ccedil;&atilde;o, maior o grau de   integra&ccedil;&atilde;o dos mercados. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Metodologia</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3. 1. Modelo Vetorial de Corre&ccedil;&atilde;o de Erro com Threshold (TVEC)</i></b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os primeiros estudos que testaram a integra&ccedil;&atilde;o de mercados se   basearam em simples coeficientes de correla&ccedil;&atilde;o entre os pre&ccedil;os para   descrever a maneira com que os mercados s&atilde;o relacionados. Desde ent&atilde;o,   os procedimentos de testes apresentaram algumas sofistica&ccedil;&otilde;es, o que   permite que sejam considerados elementos importantes para as an&aacute;lises,   como tend&ecirc;ncias comuns, n&atilde;o-estacionariedade e endogeneidade das   s&eacute;ries temporais dos pre&ccedil;os. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em estudos que abordam a integra&ccedil;&atilde;o de mercados, a co-integra&ccedil;&atilde;o   tem sido a t&eacute;cnica mais utilizada. A especifica&ccedil;&atilde;o de modelos de corre&ccedil;&atilde;o   de erro vetorial (VEC) tem ganhado popularidade devido a sua   interpreta&ccedil;&atilde;o intuitiva. Para mercados espacialmente integrados, nos   quais n&atilde;o &eacute; claro qual pre&ccedil;o causa o outro, o uso de modelos VEC &eacute;   bastante apropriado (MEYER, 2004). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, ao se usar um modelo VEC para estimar o ajustamento de   pre&ccedil;os, h&aacute; uma pressuposi&ccedil;&atilde;o impl&iacute;cita. Os ajustamentos de pre&ccedil;os, que   s&atilde;o induzidos por desvios do equil&iacute;brio de longo prazo, s&atilde;o considerados   uma fun&ccedil;&atilde;o cont&iacute;nua e linear da magnitude de tal desvio. Ent&atilde;o, mesmo   desvios muito pequenos conduzir&atilde;o a um processo de ajustamento em   cada mercado. Por desconsiderar os efeitos decorrentes dos custos de   transa&ccedil;&atilde;o sobre o ajustamento dos pre&ccedil;os, essa pressuposi&ccedil;&atilde;o conduz a   resultados viesados. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alexander e Wyeth (1994) ressaltam o fato da co-integra&ccedil;&atilde;o n&atilde;o   representar condi&ccedil;&otilde;es necess&aacute;rias nem tampouco suficientes para a   integra&ccedil;&atilde;o dos mercados. A co-integra&ccedil;&atilde;o n&atilde;o &eacute; necess&aacute;ria, visto que, se   os custos de transa&ccedil;&atilde;o forem n&atilde;o-estacion&aacute;rios, os pre&ccedil;os provavelmente   n&atilde;o ser&atilde;o co-integrados, o que n&atilde;o significa que a arbitragem n&atilde;o possa   ocorrer. A co-integra&ccedil;&atilde;o tamb&eacute;m n&atilde;o &eacute; suficiente para se concluir pela   exist&ecirc;ncia de integra&ccedil;&atilde;o, visto que os pre&ccedil;os podem ser co-integrados,   mas a diferen&ccedil;a entre eles ser t&atilde;o pequena que n&atilde;o supera os custos de   transa&ccedil;&atilde;o e, portanto, n&atilde;o viabiliza a arbitragem. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Barrett (1996) prop&otilde;e, ent&atilde;o, que essa t&eacute;cnica n&atilde;o seja utilizada como   teste direto de integra&ccedil;&atilde;o, mas como procedimento que antecede outros   testes econom&eacute;tricos, o que tem levado &agrave; busca por abordagens que   superem tal defici&ecirc;ncia. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Goodwin e Piggott (2001), dentre tais abordagens, tem-se   destacado a incorpora&ccedil;&atilde;o do efeito <i>threshold</i> aos modelos VEC, dando   origem ao que &eacute; conhecido, na literatura especializada, como modelos   TVEC (modelos vetoriais de corre&ccedil;&atilde;o de erro com <i>threshold</i>). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O estudo de co-integra&ccedil;&atilde;o com <i>threshold</i> foi inicialmente   desenvolvido por Balke e Fomby (1997), como meio de combinar   n&atilde;o-linearidade e co-integra&ccedil;&atilde;o. Hansen e Seo (2002) lembram que os   modelos TVEC foram desenvolvidos para incorporar, tamb&eacute;m, os efeitos   dos custos de transa&ccedil;&atilde;o em modelos de transmiss&atilde;o de pre&ccedil;os, o que tem   dado origem a v&aacute;rios estudos de natureza aplicada<a href="#not04"><sup>4</sup></a><a name="not4"></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A incorpora&ccedil;&atilde;o dos efeitos dos custos de transa&ccedil;&atilde;o fornece, ent&atilde;o,   uma justificativa para o uso de modelos de ajustamento de pre&ccedil;os com a   inclus&atilde;o da vari&aacute;vel <i>threshold</i>. Nesse tipo de modelo, a extens&atilde;o em que   desvios do equil&iacute;brio de longo prazo s&atilde;o respons&aacute;veis por ajustamento de   pre&ccedil;os depende da magnitude de tal desvio. O processo de ajustamento   pode ser diferente, caso o desvio esteja acima ou abaixo de um valor   espec&iacute;fico, ou seja, de um <i>threshold</i>. Tal situa&ccedil;&atilde;o &eacute; ilustrada na <a href="#fig1a">Figura 1</a>. </font></p>     <p><a name="fig1a"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09fig1a.gif">    <br> <a name="fig1c"></a><img src="/img/revistas/resr/v47n1/a09fig1c.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#fig1a">Figura 1(a)</a> ilustra o processo de ajustamento de pre&ccedil;os Dpt como   fun&ccedil;&atilde;o linear dos desvios do equil&iacute;brio de longo prazo, equivalentes ao   termo de corre&ccedil;&atilde;o de erro (TCE), e corresponde ao uso de um modelo   VEC sem o efeito <i>threshold</i>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#fig1a">Figura 1(b)</a> ilustra o processo de ajustamento de pre&ccedil;os   correspondente a um modelo TVEC com um &uacute;nico <i>threshold</i> (</font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">). Desvios   do equil&iacute;brio de longo prazo, inferiores a </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">, conduzem a um processo de   ajustamento, delimitado pelo regime 1, diferente do processo de   ajustamento induzido por desvios superiores a </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (regime 2). Embora esta   seja uma maneira expl&iacute;cita de considerar assimetrias no processo de ajustamento de pre&ccedil;os, tal especifica&ccedil;&atilde;o n&atilde;o admite a possibilidade de   nenhum ajustamento ocorrer. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#fig1c">Figura 1(c)</a> ilustra um modelo de ajustamento com tr&ecirc;s regimes, um   dos quais abaixo do termo de equil&iacute;brio de longo prazo (regime 3) e o   outro acima (regime 1). A regi&atilde;o entre </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub> e </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>2</sub> (regime 2) pode ser   interpretada como os desvios do equil&iacute;brio de longo prazo que s&atilde;o t&atilde;o   pequenos, comparativamente aos custos do ajustamento, que n&atilde;o   causar&atilde;o nenhum ajustamento nos pre&ccedil;os relativos, ou seja, uma regi&atilde;o   de "n&atilde;o-ajustamento", na qual os pre&ccedil;os n&atilde;o s&atilde;o co-integrados. Al&eacute;m   disso, um modelo com dois <i>thresholds</i> &eacute; consistente com desvios tanto   positivos quanto negativos em rela&ccedil;&atilde;o ao equil&iacute;brio de longo prazo, fora   da regi&atilde;o de "n&atilde;o-ajustamento". </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com Meyer (2004), a vantagem da facilidade de   interpreta&ccedil;&atilde;o dos resultados de um modelo TVEC com dois<i> thresholds</i> &eacute;   enfraquecida pelo fato de n&atilde;o haver nenhum teste econom&eacute;trico   adequado para o teste de signific&acirc;ncia estat&iacute;stica dos par&acirc;metros </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub> e </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>2</sub>.   Hansen e Seo (2002), entretanto, prop&otilde;em um procedimento a partir do   qual &eacute; poss&iacute;vel se testar a signific&acirc;ncia dos <i>thresholds</i>. Considerando a   integra&ccedil;&atilde;o entre dois mercados, A e B, por exemplo, o modelo TVEC, com   um &uacute;nico <i>threshold</i>,at&eacute; ent&atilde;o discutido, segue a seguinte especifica&ccedil;&atilde;o: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09exp04.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> em que a vari&aacute;vel dependente </font>&#916;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">p<sup>j</sup><sub>t</sub> =  p<sup>j</sup><sub>t</sub> -  p<sup>j</sup><sub>t-1</sub> (j = A,B) representa a   varia&ccedil;&atilde;o do pre&ccedil;o no mercado j entre per&iacute;odos consecutivos; </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub> e </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>2</sub> s&atilde;o   termos de intercepto; </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>i</sub><sup>j, j</sup> (i = 1,... ,k; j A,B) = = s&atilde;o coeficientes das <i>k</i> defasagens das vari&aacute;veis dependentes; <img src="/img/revistas/resr/v47n1/a09tex01.gif" align="absmiddle">e <img src="/img/revistas/resr/v47n1/a09tex02.gif" align="absmiddle"> (j = A, B) s&atilde;o coeficientes de   ajustamento, que indicam a propor&ccedil;&atilde;o do desvio do equil&iacute;brio de longo   prazo que &eacute; eliminada a cada per&iacute;odo; TCE<sub>t-1</sub> &eacute; o termo de corre&ccedil;&atilde;o de erro   defasado em um per&iacute;odo; </font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>j</sup><sub>t</sub> (j = A, B) s&atilde;o erros aleat&oacute;rios; e </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> &eacute; o   par&acirc;metro de <i>threshold</i>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo TVEC com um &uacute;nico threshold (</font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">), apresentado em (4),   determina dois regimes distintos de ajustamento de pre&ccedil;os. Tal   ajustamento &eacute; explicado tanto por termos de curto prazo (coeficientes </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>i</sub><sup>j, j</sup>), quanto por termos de longo prazo (coeficientes <img src="/img/revistas/resr/v47n1/a09tex01.gif" align="absmiddle">e <img src="/img/revistas/resr/v47n1/a09tex02.gif" align="absmiddle"> )   condicionados ao termo de corre&ccedil;&atilde;o de erro (TCE). Se o desvio do   equil&iacute;brio de longo prazo (termo TCE<sub>t-1</sub>) for superior ao par&acirc;metro g, o   processo de transmiss&atilde;o de pre&ccedil;os &eacute; definido pelo regime 2, que &eacute;   diferente daquele observado caso o desvio seja igual ou inferior a </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (regime 1). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O procedimento proposto por Hansen e Seo (2002), apresentado por   Meyer (2004), &eacute; uma variante do TVEC especificado em (4), e segue a   seguinte especifica&ccedil;&atilde;o: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09exp05.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que as vari&aacute;veis e os coeficientes permanecem conforme definidos   em (4). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A diferen&ccedil;a entre (4) e (5) est&aacute; na defini&ccedil;&atilde;o dos regimes. Na   especifica&ccedil;&atilde;o (4), um processo de ajustamento de pre&ccedil;os ocorre caso o   desvio do equil&iacute;brio de longo prazo seja igual ou inferior ao <i>threshold</i>,e   outro diferente processo ocorre caso o desvio seja superior ao par&acirc;metro </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (<a href="#fig1a">Figura 1(b)</a>). Tal especifica&ccedil;&atilde;o exclui a possibilidade de uma regi&atilde;o na   qual nenhum processo de ajustamento ocorre, ou seja, uma regi&atilde;o de   "n&atilde;o-ajustamento". </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> O modelo TVEC, proposto por Hansen e Seo (2002), permite que tal   situa&ccedil;&atilde;o ocorra e, por isso, &eacute; economicamente mais intuitivo. Tal   especifica&ccedil;&atilde;o considera dois regimes de ajustamento de pre&ccedil;os. O regime   1, de "n&atilde;o-ajustamento", &eacute; definido pelos desvios, em valor absoluto,   inferiores a </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">. O regime 2, por sua vez, &eacute; definido pelos desvios, em valor   absoluto, que excedem </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">. Tem-se, ent&atilde;o, um TVEC baseado em um &uacute;nico <i>threshold</i> (</font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">), o que permite que sua signific&acirc;ncia estat&iacute;stica seja testada, e   que tamb&eacute;m considera uma regi&atilde;o de "n&atilde;o-ajustamento", na qual os   pre&ccedil;os n&atilde;o s&atilde;o co-integrados, o que &eacute; condizente com os efeitos dos custos   de transa&ccedil;&atilde;o. A <a href="#fig02">Figura 2</a> apresenta o processo de ajustamento de pre&ccedil;os   conforme o modelo proposto por Hansen e Seo (2002). </font></p>     ]]></body>
+<body><![CDATA[<p><a name="fig02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09fig02.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ressalta-se que o TVEC, tal como proposto por Hansen e Seo (2002),   deve ser visto como uma vers&atilde;o restrita do modelo geral com dois <i>thresholds</i>,apresentado na <a href="#fig1c">Figura 1(c)</a>. A restri&ccedil;&atilde;o est&aacute; no fato de que, no   modelo (5), </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub> = </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>2</sub> = &#124;</font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">&#124;, e no fato de que nenhuma transmiss&atilde;o de pre&ccedil;os   assim&eacute;trica &eacute; poss&iacute;vel, j&aacute; que a mesma rea&ccedil;&atilde;o dos pre&ccedil;os &eacute; verificada   independentemente de TCE<sub>t-1</sub> ser maior ou menor que </font>&#947;.</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para estimar o modelo TVEC apresentado em (5) adota-se, segundo   Meyer (2004), um procedimento em tr&ecirc;s etapas: </font></p>     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1ª) testar a n&atilde;o-estacionariedade das duas s&eacute;ries de pre&ccedil;os, para o qu&ecirc;     se utiliza, por exemplo, o teste de raiz unit&aacute;ria ADF; </font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2ª) estimar o modelo VEC linear (<a href="#fig1a">Figura 1(a)</a>), utilizando-se o crit&eacute;rio     de informa&ccedil;&atilde;o de Akaike para determinar o n&uacute;mero de defasagens     do modelo. Para estimar o TVEC restrito, o <i>threshold</i> </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> deve ser   determinado. Para isso, uma variante do procedimento de Hansen   e Seo (2002), que &eacute; baseada no logaritmo do determinante da matriz   de vari&acirc;ncia e covari&acirc;ncia dos erros, &eacute; usada como crit&eacute;rio de   sele&ccedil;&atilde;o. No procedimento proposto por Meyer (2004), a solu&ccedil;&atilde;o do   problema &eacute; baseada apenas no par&acirc;metro </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">, e n&atilde;o tamb&eacute;m nos   par&acirc;metros de co-integra&ccedil;&atilde;o. O valor de </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> escolhido &eacute; aquele que   minimiza a express&atilde;o (6). </font></p>       <p align="center"><img src="/img/revistas/resr/v47n1/a09exp06.gif"></p>       ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Nesse procedimento, est&aacute; impl&iacute;cita a restri&ccedil;&atilde;o de que ambos os     regimes devem conter pelo menos uma fra&ccedil;&atilde;o (</font>&#960;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>0</sub>) pr&eacute;-especificada     do n&uacute;mero total (<i>n</i>) de observa&ccedil;&otilde;es<a href="#not05"><sup>5</sup></a><a name="not5"></a>. Assim, a express&atilde;o (7) sempre     deve ser satisfeita: </font></p>       <p align="center"><img src="/img/revistas/resr/v47n1/a09exp07.gif"></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3ª) ap&oacute;s determinar o par&acirc;metro de <i>threshold </i>(</font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">), testa-se sua     signific&acirc;ncia estat&iacute;stica em uma terceira etapa, ou seja, a hip&oacute;tese     nula de linearidade contra a hip&oacute;tese alternativa de     n&atilde;o-linearidade com <i>threshold</i>. Segundo Goodwin e Holt (1999), no     caso de um &uacute;nico <i>threshold</i> estimado, o que ocorre neste estudo,     esta etapa equivale ao tradicional teste de Chow para diferen&ccedil;a     entre par&acirc;metros. </font></p> </blockquote>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.2. Modelo emp&iacute;rico</i></b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para se estudar a integra&ccedil;&atilde;o espacial do mercado de boi gordo entre os   estados de Minas Gerais e S&atilde;o Paulo foi especificado e estimado um   modelo de corre&ccedil;&atilde;o de erro vetorial com <i>threshold</i> (TVEC), conforme   apresentado a seguir: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09exp08.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> em que os sobrescritos <i>mg</i> e <i>sp</i> fazem refer&ecirc;ncia aos estados de Minas   Gerais e S&atilde;o Paulo, respectivamente, </font>&#916;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">p<sup>j</sup><sub>t</sub> (j = mg, sp) representa a   varia&ccedil;&atilde;o do pre&ccedil;o do boi gordo entre per&iacute;odos consecutivos; </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub>, </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>2</sub>, </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>3</sub> e </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>4</sub> s&atilde;o termos de intercepto; </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>i</sub><sup>j, j</sup> (i = 1, ..., k; j = mg, sp) s&atilde;o coeficientes das <i>k</i> defasagens das vari&aacute;veis dependentes; <img src="/img/revistas/resr/v47n1/a09tex01.gif" align="absmiddle"> e <img src="/img/revistas/resr/v47n1/a09tex02.gif" align="absmiddle"> j (j = mg, sp) s&atilde;o coeficientes   de ajustamento; TCEt-1 &eacute; o termo de corre&ccedil;&atilde;o de erro defasado em um   per&iacute;odo; </font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>t</sub><sup>j</sup> (j = mg, sp) &eacute; um termo de erro aleat&oacute;rio; e </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> &eacute; o par&acirc;metro de <i>threshold</i>.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> O modelo TVEC especificado em (8) mostra a din&acirc;mica de curto prazo   dos pre&ccedil;os de boi gordo nos estados de Minas Gerais e de S&atilde;o Paulo que   s&atilde;o representados, respectivamente, por p<sub>t</sub><sup>mg</sup> e p<sub>t</sub><sup>sp</sup>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O regime 1 demonstra como ocorre, no per&iacute;odo t, o processo de   ajustamento dos pre&ccedil;os quando o desvio em rela&ccedil;&atilde;o ao equil&iacute;brio de   longo prazo, no per&iacute;odo t - 1, em valor absoluto, &eacute; igual ou inferior ao   par&acirc;metro </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">. Portanto, o regime 1 representa uma regi&atilde;o de   "n&atilde;o-ajustamento" na qual, em fun&ccedil;&atilde;o dos custos de transa&ccedil;&atilde;o, os pre&ccedil;os   n&atilde;o devem responder a desvios do equil&iacute;brio de longo prazo. Nesse   regime, as varia&ccedil;&otilde;es dos pre&ccedil;os devem responder apenas &agrave;s varia&ccedil;&otilde;es   ocorridas em per&iacute;odos passados (vari&aacute;veis defasadas), ou seja, apenas &agrave;s   varia&ccedil;&otilde;es de curto prazo dos pre&ccedil;os. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O regime 2, por sua vez, demonstra como ocorre, no per&iacute;odo t, o   processo de ajustamento dos pre&ccedil;os quando o desvio em rela&ccedil;&atilde;o ao   equil&iacute;brio de longo prazo, no per&iacute;odo t - 1, em valor absoluto, &eacute; superior ao   par&acirc;metro </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">. Portanto, no regime 2, al&eacute;m da influ&ecirc;ncia das vari&aacute;veis de   curto prazo, os pre&ccedil;os devem responder tamb&eacute;m a desvios do equil&iacute;brio   de longo prazo, j&aacute; que tais desvios superam os custos de transa&ccedil;&atilde;o. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.3. Fonte dos dados e operacionaliza&ccedil;&atilde;o do modelo</i></b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para se estudar a integra&ccedil;&atilde;o espacial do mercado de boi gordo entre os   estados de Minas Gerais e S&atilde;o Paulo foram utilizadas as s&eacute;ries mensais de   pre&ccedil;os de boi gordo para corte, recebidos pelos produtores, medidos em   R$/15 kg, referentes aos respectivos estados. Os valores nominais foram   deflacionados pelo IGP-DI considerando-se o m&ecirc;s de agosto de 2005   como base. As s&eacute;ries utilizadas cobrem o per&iacute;odo de janeiro de 1972 a   agosto de 2005, completando um total de 403 observa&ccedil;&otilde;es, e t&ecirc;m como   fonte a Funda&ccedil;&atilde;o Get&uacute;lio Vargas (2005). Para operacionaliza&ccedil;&atilde;o do   modelo foi utilizado o <i>software</i> econom&eacute;trico Eviews4. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Resultados e discuss&atilde;o</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O procedimento inicial para estima&ccedil;&atilde;o do modelo TVEC, especificado   em (8), consistiu em verificar se as s&eacute;ries de pre&ccedil;os do boi gordo nos   estados de Minas Gerais e S&atilde;o Paulo s&atilde;o ou n&atilde;o estacion&aacute;rias. Por se tratar   de s&eacute;ries de freq&uuml;&ecirc;ncia mensal, procurou-se testar a presen&ccedil;a de ra&iacute;zes   unit&aacute;rias sazonais nestas s&eacute;ries, utilizando-se o teste de raiz unit&aacute;ria   sazonal e n&atilde;o-sazonal, que foi desenvolvido por Franses (1990)<a href="#not06"><sup>6</sup></a><a name="not6"></a>. Os   resultados do teste s&atilde;o apresentados na <a href="#tab01">Tabela 1</a>. </font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09tab01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Como pode ser verificado, a presen&ccedil;a de raiz unit&aacute;ria sazonal foi   rejeitada nas duas s&eacute;ries analisadas. Entretanto, a hip&oacute;tese de presen&ccedil;a de   raiz unit&aacute;ria n&atilde;o-sazonal (ou regular ou, ainda, na freq&uuml;&ecirc;ncia zero) n&atilde;o   pode ser rejeitada, o que indica que as duas s&eacute;ries s&atilde;o n&atilde;o-estacion&aacute;rias<a href="#not07"><sup>7</sup></a><a name="not7"></a>. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em seguida, procurou-se verificar se h&aacute; rela&ccedil;&atilde;o de equil&iacute;brio de longo   prazo entre os pre&ccedil;os do boi gordo nos dois estados em quest&atilde;o, ou seja, se   os mercados mineiro e paulista desta <i>commodity</i> s&atilde;o espacialmente   integrados. Para tanto, foram utilizados os procedimentos e testes   propostos por Johansen (1988) e Johansen e Juselius (1990). Os resultados   dos testes s&atilde;o apresentados na <a href="#tab02">Tabela 2</a>. </font></p>     <p><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09tab02.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> De acordo com o teste do Tra&ccedil;o e o teste do M&aacute;ximo Autovalor, a   hip&oacute;tese nula de que o posto da matriz de co-integra&ccedil;&atilde;o &eacute; nulo (r = 0) &eacute;   rejeitada a 1% de signific&acirc;ncia. A hip&oacute;tese de que h&aacute; um vetor de   co-integra&ccedil;&atilde;o n&atilde;o pode ser rejeitada a esse n&iacute;vel de signific&acirc;ncia.   Portanto, os testes mostram a exist&ecirc;ncia de um vetor de co-integra&ccedil;&atilde;o   entre os pre&ccedil;os do boi gordo em Minas Gerais e S&atilde;o Paulo. Assim, pode-se   dizer que as vari&aacute;veis s&atilde;o co-integradas, havendo uma rela&ccedil;&atilde;o de   equil&iacute;brio de longo prazo entre elas. A equa&ccedil;&atilde;o (9) apresenta essa   rela&ccedil;&atilde;o<a href="#not08"><sup>8</sup></a><a name="not8"></a>.</font></p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09exp09.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A equa&ccedil;&atilde;o (9), que estabelece a rela&ccedil;&atilde;o de equil&iacute;brio de longo prazo   entre os pre&ccedil;os do boi gordo nos estados de Minas Gerais e S&atilde;o Paulo,   indica que h&aacute; uma rela&ccedil;&atilde;o positiva e estatisticamente significativa entre   os dois pre&ccedil;os ao longo do tempo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ap&oacute;s estima&ccedil;&atilde;o da rela&ccedil;&atilde;o de co-integra&ccedil;&atilde;o entre os dois pre&ccedil;os, a   etapa seguinte consistiu em determinar o par&acirc;metro </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (<i>threshold</i>).   Seguindo o procedimento adotado por Meyer (2004), definiu-se o valor   de </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> como aquele que minimizou a express&atilde;o (6)<a href="#not09"><sup>9</sup></a><a name="not9"></a>. O valor obtido foi de   0,097. Com base nesse valor, o modelo TVEC especificado em (8) &eacute;   dividido em dois regimes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O regime 1 &eacute; definido pelas observa&ccedil;&otilde;es cujo desvio do equil&iacute;brio de   longo prazo, em valor absoluto, for inferior a 9,7%. Tomando-se como   refer&ecirc;ncia o valor de R$ 97,32/15 kg, que representa o pre&ccedil;o m&eacute;dio do boi   gordo no estado de Minas Gerais, tem-se que desvios inferiores a R$ 9,44   n&atilde;o induzir&atilde;o nenhum processo de ajustamento. Essa regi&atilde;o de   "n&atilde;o-ajustamento" cont&eacute;m 363 observa&ccedil;&otilde;es do total de 403, o que   representa 90% do total da amostra. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O regime 2, por sua vez, cont&eacute;m todas as observa&ccedil;&otilde;es cujo desvio do   equil&iacute;brio de longo prazo &eacute; superior a R$ 9,44. Essa regi&atilde;o cont&eacute;m 40 das   403 observa&ccedil;&otilde;es utilizadas para a estima&ccedil;&atilde;o do TVEC, o que representa   cerca de 10% da amostra total. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como argumentado por Meyer (2004), a estimativa do par&acirc;metro </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (<i>threshold</i>) pode ser vista como uma boa aproxima&ccedil;&atilde;o para os custos de   transa&ccedil;&atilde;o existentes, o que est&aacute; de acordo com as condi&ccedil;&otilde;es da arbitragem   espacial<a href="#nota10"><sup>10</sup></a><a name="not10"></a>, uma vez que apenas choques de pre&ccedil;os superiores a essa   estimativa induzir&atilde;o o ajustamento de pre&ccedil;os, ou seja, a a&ccedil;&atilde;o dos   arbitradores. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nesse caso, o valor de 0,097 significa que os custos de transa&ccedil;&atilde;o, tais   como especificados na equa&ccedil;&atilde;o (3), equivalem a cerca de 9,7% do pre&ccedil;o   m&eacute;dio do boi gordo. Embora esse percentual j&aacute; possa ser considerado   elevado, mercados mais distantes de S&atilde;o Paulo, com condi&ccedil;&otilde;es de   infra-estrutura de transporte e de comunica&ccedil;&atilde;o inferiores &agrave;s observadas   em Minas Gerais, e para os quais se esperam maiores custos associados a   transporte, seguros e &agrave; busca por informa&ccedil;&otilde;es, devem apresentar custos   de transa&ccedil;&atilde;o ainda mais expressivos<a href="#nota11"><sup>11</sup></a><a name="not11"></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ap&oacute;s determina&ccedil;&atilde;o de </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">, procedeu-se a estima&ccedil;&atilde;o dos dois regimes de   ajustamento dos pre&ccedil;os. Os resultados s&atilde;o apresentados na <a href="#tab03">Tabela 3</a>: </font></p>     <p><a name="tab03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09tab03.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados apresentados na <a href="#tab03">Tabela 3</a> respaldam a utiliza&ccedil;&atilde;o do   modelo TVEC para an&aacute;lise da integra&ccedil;&atilde;o espacial dos mercados mineiro e   paulista de boi gordo. Como pode ser verificado, o regime 1, que representa   a estimativa de um modelo VEC somente com as observa&ccedil;&otilde;es cujo desvio   absoluto &eacute; inferior ao desvio do equil&iacute;brio de longo prazo, cont&eacute;m apenas   um dos coeficientes de ajustamento <img src="/img/revistas/resr/v47n1/a09tex03.gif" align="absmiddle"> estatisticamente significativo e,   mesmo assim, somente ao n&iacute;vel de signific&acirc;ncia estat&iacute;stica de 10%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No regime 1, as varia&ccedil;&otilde;es de curto prazo do pre&ccedil;o em Minas Gerais s&atilde;o   explicadas tanto pelas varia&ccedil;&otilde;es no per&iacute;odo anterior do pre&ccedil;o em Minas   quanto do pre&ccedil;o em S&atilde;o Paulo (</font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub><sup>mg,mg</sup> e </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub><sup>mg, sp </sup><img src="/img/revistas/resr/v47n1/diferente.gif"> 0). Ao n&iacute;vel de 10%, o pre&ccedil;o   em Minas tamb&eacute;m responde a desvios do equil&iacute;brio de longo prazo <img src="/img/revistas/resr/v47n1/a09tex04.gif" align="absmiddle">.   O coeficiente de ajustamento estimado (0,22) indica que seriam necess&aacute;rios,   aproximadamente, cinco meses para que os choques de pre&ccedil;os fossem   absorvidos pelo sistema. As varia&ccedil;&otilde;es de curto prazo do pre&ccedil;o em S&atilde;o   Paulo, entretanto, s&atilde;o explicadas apenas pelas varia&ccedil;&otilde;es ocorridas no   per&iacute;odo anterior no seu pr&oacute;prio pre&ccedil;o (</font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub><sup>mg, sp </sup><img src="/img/revistas/resr/v47n1/diferente.gif"> 0), n&atilde;o sendo influenciadas   nem pelas varia&ccedil;&otilde;es passadas no pre&ccedil;o em Minas nem pelos desvios do   equil&iacute;brio (</font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub><sup>mg, sp</sup> e <img src="/img/revistas/resr/v47n1/a09tex05.gif" align="absmiddle"><img src="/img/revistas/resr/v47n1/diferente.gif"> 0), o que &eacute; condizente com uma regi&atilde;o de   "n&atilde;o-ajustamento". </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No regime 2, as varia&ccedil;&otilde;es de curto prazo do pre&ccedil;o em Minas Gerais   n&atilde;o s&atilde;o explicadas pelas varia&ccedil;&otilde;es no per&iacute;odo anterior dos pre&ccedil;os nem de   Minas nem de S&atilde;o Paulo. Entretanto, a influ&ecirc;ncia do desvio do equil&iacute;brio   sobre o ajustamento do pre&ccedil;o &eacute; significativa ao n&iacute;vel de 1%, al&eacute;m de o   coeficiente estimado ser significativamente superior ao verificado no   regime 1. Especificamente, o coeficiente de 0,67 indica que seria   necess&aacute;rio pouco mais de um m&ecirc;s para que o pre&ccedil;o em Minas se ajustasse   ao desequil&iacute;brio. Essa diferen&ccedil;a na velocidade de ajustamento seria,   ent&atilde;o, explicada pela presen&ccedil;a dos custos de transa&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tal resultado &eacute; ratificado quando se analisa o comportamento de curto   prazo do pre&ccedil;o do boi gordo em S&atilde;o Paulo. Ao contr&aacute;rio do que ocorre no   regime 1, as varia&ccedil;&otilde;es de curto prazo do pre&ccedil;o neste estado s&atilde;o   influenciadas pelos desvios do equil&iacute;brio de longo prazo, o que tamb&eacute;m   deve ser explicado pela presen&ccedil;a dos custos de transa&ccedil;&atilde;o. Nota-se,   tamb&eacute;m, que no curto prazo os pre&ccedil;os de S&atilde;o Paulo n&atilde;o s&atilde;o influenciados   pelas varia&ccedil;&otilde;es passadas do pre&ccedil;o em Minas, o que parece estar de acordo   com a pressuposi&ccedil;&atilde;o de que este estado seja o principal formador de   pre&ccedil;os dessa <i>commodity</i>, comparativamente ao estado de Minas Gerais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ap&oacute;s estima&ccedil;&atilde;o do modelo TVEC, o que definiu dois diferentes regimes   de ajustamento de pre&ccedil;os, procedeu-se o teste de signific&acirc;ncia estat&iacute;stica do   efeito <i>threshold</i>, testando-se a hip&oacute;tese nula de um modelo VEC linear   contra a hip&oacute;tese alternativa de um TVEC com dois regimes. A realiza&ccedil;&atilde;o   do teste de Chow<a href="#nota12"><sup>12</sup></a><a name="not12"></a> resultou numa estat&iacute;stica "F" igual a 7,31. Os valores   tabelados da distribui&ccedil;&atilde;o "F" s&atilde;o 2,04 e 1,67, aos n&iacute;veis de signific&acirc;ncia   estat&iacute;stica de 1% e 5%, respectivamente. O resultado do teste indica,   portanto, que a hip&oacute;tese de linearidade pode ser rejeitada aos dois n&iacute;veis de   signific&acirc;ncia considerados, o que mostra que o efeito <i>threshold</i> &eacute;   estatisticamente significativo e, ent&atilde;o, que o modelo TVEC &eacute; realmente   mais adequado do que o modelo VEC linear, freq&uuml;entemente utilizado nas   an&aacute;lises de integra&ccedil;&atilde;o de mercados. Vale informar, entretanto, que a   distribui&ccedil;&atilde;o "F" padr&atilde;o, conforme utilizada, n&atilde;o &eacute; a mais indicada para esta   an&aacute;lise, uma vez que n&atilde;o leva em considera&ccedil;&atilde;o o fato de o par&acirc;metro g estar   presente apenas sob a hip&oacute;tese alternativa. Entretanto, mesmo que deva   ser interpretada como uma limita&ccedil;&atilde;o do presente estudo, a estat&iacute;stica "F"   calculada parece grande o suficiente para se rejeitar a hip&oacute;tese nula. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Conclus&atilde;os</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir das cr&iacute;ticas que t&ecirc;m sido direcionadas &agrave;s an&aacute;lises de integra&ccedil;&atilde;o   de mercado que s&atilde;o baseadas apenas na rela&ccedil;&atilde;o entre os pre&ccedil;os de <i>commodities</i>, e que desconsideram as influ&ecirc;ncias dos custos de transa&ccedil;&atilde;o, o   presente estudo procurou verificar os efeitos de tais custos sobre a integra&ccedil;&atilde;o   do mercado de boi gordo entre os estados de Minas Gerais e S&atilde;o Paulo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para alcan&ccedil;ar o objetivo proposto, foi especificado e estimado um modelo   de corre&ccedil;&atilde;o de erro vetorial com <i>threshold</i> (TVEC). A vantagem de se utilizar tal   metodologia se encontra no fato de ser poss&iacute;vel considerar os efeitos dos   custos de transa&ccedil;&atilde;o sem a necessidade da mensura&ccedil;&atilde;o direta dos mesmos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados obtidos d&atilde;o suporte &agrave; conclus&atilde;o que s&atilde;o significativos   os custos de transa&ccedil;&atilde;o entre os mercados estudados. Sendo assim, o   ajustamento de pre&ccedil;os a eventuais mudan&ccedil;as nos pre&ccedil;os relativos se d&aacute;   de maneira diferenciada, dependendo da magnitude do desvio em   rela&ccedil;&atilde;o ao equil&iacute;brio de longo prazo. Dessa forma, os resultados obtidos   em an&aacute;lises que n&atilde;o levam tais custos em considera&ccedil;&atilde;o podem n&atilde;o refletir   o correto processo de transmiss&atilde;o de pre&ccedil;os entre os mercados e,   portanto, levar a decis&otilde;es equivocadas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Medidas que visem a redu&ccedil;&atilde;o dos custos de transa&ccedil;&atilde;o, como a   melhoria da infra-estrutura de transporte e de comunica&ccedil;&atilde;o, redu&ccedil;&atilde;o de   taxas e despesas financeiras, bem como de barreiras t&eacute;cnicas, podem   contribuir para o aumento da integra&ccedil;&atilde;o dos mercados, o que   possivelmente os tornariam mais competitivos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para trabalhos posteriores, sugere-se a extens&atilde;o do presente estudo   aos mercados dessa <i>commodity</i> em outros estados brasileiros,   principalmente aqueles mais distantes dos estados de Minas Gerais e S&atilde;o   Paulo, para os quais os custos de transa&ccedil;&atilde;o e, conseq&uuml;entemente, seus   efeitos sobre a integra&ccedil;&atilde;o devem ser ainda maiores que os verificados na   presente an&aacute;lise. Sugere-se, tamb&eacute;m, que algum m&eacute;todo de simula&ccedil;&atilde;o,   como o proposto por Hansen e Seo (2002), seja utilizado para a   aproxima&ccedil;&atilde;o da distribui&ccedil;&atilde;o assint&oacute;tica da estat&iacute;stica de teste da hip&oacute;tese   de linearidade no processo de ajustamento de pre&ccedil;os. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>6. Refer&ecirc;ncias Bibliogr&aacute;ficas</b> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALEXANDER, C.; WYETH, J. Cointegration and market integration: na   application to the indonesian rice market. <b>The Journal of Development   Studies,</b> v. 30, n. 2, p. 303-328, January 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0103-2003200900010000900001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BACCHI, M. R. P.; ALVES, L. R. A. Forma&ccedil;&atilde;o de pre&ccedil;o do a&ccedil;&uacute;car cristal   empacotado ao varejo da regi&atilde;o Centro-Sul do Brasil. <b>Agricultura em S&atilde;o   Paulo,</b> v. 53, n. 1, p. 5-22, jan./jun. 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0103-2003200900010000900002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> BALKE, N. S.; FOMBY, T. B. Threshold cointegration. <b>International   Economic Review. </b>v. 38, n. 3, p. 627-645, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S0103-2003200900010000900003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARRETT, C.B. Market analysis methods: are our enriched toolkits   well-suited to enlivened markets? <b>American Journal of Agricultural   Economics,</b> v. 78, n. 3, p. 825-829, august 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0103-2003200900010000900004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARRETT, C.B. Measuring integration and efficiency in international   agricultural markets. <b>Review of Agricultural Economics,</b> v. 23, n. 1, p.   19-32, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003200900010000900005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARRETT, C. B.; LI, J. R. Distinguishing between equilibrium and   integration in spatial price analysis. <b>American Journal of Agricultural   Economics,</b> v. 84, n. 2, p. 292-307, may 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0103-2003200900010000900006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BAULCH, B. Transfer costs, spatial arbitrage, and testing for food market   integration. <b>American Journal of Agricultural Economics,</b> v. 79, n. 2, p.   477-487, may 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003200900010000900007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BEN-KAABIA, M.; GIL, J. M.; AMEUR, M. Vertical integration and   non-linear price adjustments: the Spanish poultry sector. <b>Agribusiness.</b> v. 21, n. 2, p. 253-271, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003200900010000900008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COELHO, A. B. <b>A cultura do algod&atilde;o e a quest&atilde;o da integra&ccedil;&atilde;o entre   pre&ccedil;os internos e externos.</b> 2002. 136 p. Disserta&ccedil;&atilde;o (Mestrado) -   Faculdade de Economia, Administra&ccedil;&atilde;o e Contabilidade. Universidade   de S&atilde;o Paulo. S&atilde;o Paulo, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003200900010000900009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ENGLE, R. F; GRANGER, C. W. Co-integration and Error-correction:   Representation, Estimation and Testing . <b>Econometrica,</b> v. 55, p. 251-76, 1987.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003200900010000900010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FACKLER, P.; GOODWIN, B. K. Spatial price analysis: <b>a methodological   review.</b> North Carolina: Department of Agricultural and Resource   Economics, North Carolina State University, 2000. (Mimeogr.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003200900010000900011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->). </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FAMINOW, M. D.; BENSON, B.L. Integration of spatial markets. American <b>Journal of Agricultural Economics,</b> v. 72, n. 1, p. 49-62, february 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003200900010000900012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FIANI, R. Teoria dos custos de transa&ccedil;&atilde;o. In: KUPFER, D.;   HASENCLEVER, L. <b>Economia industrial:</b> fundamentos te&oacute;ricos e   pr&aacute;ticas no Brasil. Rio de Janeiro: Elsevier, 2002. cap. 12, p. 267-286, 640 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003200900010000900013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FRANSES, P. H. <b>Testing for seasonal unit root in monthly data.</b> Econometric Institute Report 9032A. Rotterdam: Erasmus University, 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003200900010000900014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FRANSES, P. H.; HOBIJN, B. Critical values for unit root tests in seasonal   time series. <b>Journal of Applied Statistics. </b>v. 24, p. 25-46, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003200900010000900015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FUNDA&Ccedil;&Atilde;O GET&Uacute;LIO VARGAS. Pre&ccedil;os Recebidos pelos Produtores -   Boi Gordo para Corte. 2005. Dispon&iacute;vel em: &lt;<a href="http://fgvdados.fgv.br/" target="_blank">http://fgvdados.fgv.br/</a>&gt;.   Acesso em 12 dez. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003200900010000900016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GONZ&Aacute;LEZ-RIVERA, G., HELFAND, S. M. The extent, pattern, and   degree of market integration: a multivariate approach for Brazilian rice   market. <b>American Journal of Agricultural Economics,</b> v. 83, n. 3, p.   576-592, Aug. 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003200900010000900017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GOODWIN, B. K.; HOLT, M. T. Price transmission and asymmetric   adjustment in the U.S. beef sector. <b>American Journal of Agricultural   Economics,</b> v. 81, n. 3, p. 630-637, Aug. 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003200900010000900018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GOODWIN, B. K.; PIGOTT, N. E. Spatial market integration in the   presence of threshold effects. <b>American Journal of Agriculture   Economics, </b>v. 83, n. 2, p. 302-317, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003200900010000900019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GOODWIN, B. K.; SCHROEDER, T.C. Cointegration tests and spatial   price linkages in regional cattle markets. <b>American Journal of   Agricultural Economics,</b> v. 73, n. 2, p. 452-464, may 1991.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003200900010000900020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GUJARATI, D.N. <b>Econometria B&aacute;sica.</b> 3 ed. S&atilde;o Paulo: Makron Books,   2000. 846p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003200900010000900021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HANSEN, B. E.; SEO, B. Testing for two-regime threshold cointegration   in vector error-correction models. <b>Journal of Econometrics. </b>v. 110, n. 9, p.   293-318, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0103-2003200900010000900022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHANSEN, S. Statistical analysis of cointegrating vectors. <b>Journal of   Economics Dynamics and Control,</b> v.12, p.231-254, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0103-2003200900010000900023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> JOHANSEN, S.; JUSELIUS, K. Maximum Likelihood Estimation and   Inference on Cointegration with Application to the Demand for Money. <b>Oxford Bulletin of Economics and Statistics,</b> v. 52, p. 169-209, 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0103-2003200900010000900024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LO, M.; ZIVOT, E. Threshold cointegration and nonlinear adjustment to   the law of one price. <b>Macroeconomic Dynamics.</b> v. 5, n. 4, p. 533-576, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0103-2003200900010000900025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">L&Uuml;TKEPOHL, H.; KR&Auml;TZIG, M. (Ed). <b>Applied time series econometrics.</b> Cambridge: Cambridge University Press, 2004. 323p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S0103-2003200900010000900026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MEYER, J. Measuring market integration in the presence of transaction   costs - a threshold vector error correction approach. <b>Agricultural   Economics.</b> v. 31, n. 21, p. 327-334, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000197&pid=S0103-2003200900010000900027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NOGUEIRA, F. T. P. <b>Integra&ccedil;&atilde;o espacial e efetividade do "hedge" no   mercado brasileiro de caf&eacute; ar&aacute;bica.</b> 2001. 147 p. Disserta&ccedil;&atilde;o (Mestrado) -   Departamento de Economia Rural. Universidade Federal de Vi&ccedil;osa.   Vi&ccedil;osa-MG, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S0103-2003200900010000900028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NOGUEIRA, F. T. P. <b>Integra&ccedil;&atilde;o dos mercados internos e externos de   caf&eacute;. </b>2005. 120 p. Tese (Doutorado) - Departamento de Economia Rural.   Universidade Federal de Vi&ccedil;osa. Vi&ccedil;osa-MG, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000201&pid=S0103-2003200900010000900029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PAULA, V. A. F.; MARTINELLI, D. P. Os custos de transa&ccedil;&atilde;o na an&aacute;lise de   contratos: um estudo de caso. In: Semin&aacute;rios em Administra&ccedil;&atilde;o FEA -   USP, 7, 2004, S&atilde;o Paulo. <b>Pain&eacute;is Gest&atilde;o de Agroneg&oacute;cios.</b> Dispon&iacute;vel em:   &lt;<a href="http://www.ead.fea.usp.br/Semead/7semead/index.htm" target="_blank">http://www.ead.fea.usp.br/Semead/7semead/index.htm</a>&gt;. Acesso em   02 mar. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000203&pid=S0103-2003200900010000900030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PEREIRA, L. R. R. <b>Integra&ccedil;&atilde;o espacial no mercado brasileiro de boi   gordo.</b> 2005. 166 p. Tese (Doutorado) - Departamento de Economia Rural.   Universidade Federal de Vi&ccedil;osa. Vi&ccedil;osa-MG, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000205&pid=S0103-2003200900010000900031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PINDYCK, R. S.; RUBINFELD, D. L. <b>Microeconomia.</b> 5 ed. S&atilde;o Paulo:   Prentice Hall, 2002. 711 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000207&pid=S0103-2003200900010000900032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">RAVALLION, M. Testing market integration.<b> American Journal of   Agricultural Economics,</b> v. 68, n. 1, p. 102-109, february 1986.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000209&pid=S0103-2003200900010000900033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ROSADO, P. L. <b>Integra&ccedil;&atilde;o especial entre os mercados brasileiros de   su&iacute;nos.</b> 2006. 117 p. Tese (Doutorado) - Departamento de Economia   Rural. Universidade Federal de Vi&ccedil;osa. Vi&ccedil;osa-MG, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000211&pid=S0103-2003200900010000900034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="not01"></a><a href="#not1">1</a> Arbitragem: "Pr&aacute;tica de comprar a um pre&ccedil;o mais baixo em uma certa localidade para vender a um pre&ccedil;o maior em outra." (PINDYCK e RUBINFELD, 2002, p.8).     <br>   <a name="not02"></a><a href="#not2">2</a> Custos de transa&ccedil;&atilde;o s&atilde;o os custos que os agentes enfrentam todas as vezes que recorrem ao mercado, ou seja, s&atilde;o os custos de se negociar, redigir e garantir o cumprimento de um contrato (FIANI, 2002).     <br>   <a name="not03"></a><a href="#not3">3</a> Ver, por exemplo, limita&ccedil;&otilde;es e sugest&otilde;es para trabalhos futuros, mencionadas nos estudos de Nogueira (2005) e Pereira (2005).     <br>   <a name="not04"></a><a href="#not4">4</a> Uma revis&atilde;o dessa literatura foi apresentada por Lo e Zivot (2001).     <br>   <a name="not05"></a><a href="#not5">5</a> Hansen e Seo (2002) utilizaram </font>&#960;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>0</sub> = 0,05.     <br>   <a name="not06"></a><a href="#not6">6</a> Este procedimento tamb&eacute;m foi adotado, por exemplo, por Ben-Kaabia <i>et al</i>. (2005). Para detalhes do teste, consultar, por exemplo, L&uuml;tkepohl e Kr&auml;tzig (2004).     <br>   <a name="not07"></a><a href="#not7">7</a> Os teste de ADF foi realizado para as primeiras diferen&ccedil;as das s&eacute;ries, sendo confirmado que ambas s&atilde;o integradas de primeira ordem &#91;I(1)&#93;.     <br>   <a name="not08"></a><a href="#not8">8</a> Valor entre par&ecirc;nteses refere-se ao erro padr&atilde;o do par&acirc;metro estimado.     ]]></body>
+<body><![CDATA[<br>   <a name="not09"></a><a href="#not9">9</a> Seguindo Hansen e Seo (2002), adotou-se &pi;0 = 0,05. Os valores referentes ao c&aacute;lculo do par&acirc;metro s&atilde;o apresentados na <a href="#an01">Tabela 1</a> do Ap&ecirc;ndice.     <br>   <a name="nota10"></a><a href="#not10">10</a> Ver equa&ccedil;&atilde;o (2).     <br>   <a name="nota11"></a><a href="#not11">11</a> Pereira (2005), ao analisar a integra&ccedil;&atilde;o dos mercados estaduais de boi gordo no Brasil, concluiu que o grau de integra&ccedil;&atilde;o, que, segundo Gonz&aacute;lez-Rivera e Helfand (2001) &eacute; fun&ccedil;&atilde;o inversa dos custos de transa&ccedil;&atilde;o, est&aacute; positivamente relacionado ao maior acesso &agrave; infra-estrutura de comunica&ccedil;&atilde;o, aos melhores n&iacute;veis de qualifica&ccedil;&atilde;o da m&atilde;o-de-obra e &agrave; infra-estrutura de transporte.     <br>   <a name="nota12"></a><a href="#not12">12</a> O procedimento adotado para realiza&ccedil;&atilde;o do teste de Chow encontra-se descrito, por exemplo, em Gujarati (2000, p. 257). </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>AP&Ecirc;NDICE 1</b></font></p>     <p><a name="an01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n1/a09an01.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALEXANDER]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WYETH]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cointegration and market integration: na application to the indonesian rice market]]></article-title>
+<source><![CDATA[The Journal of Development Studies]]></source>
+<year>Janu</year>
+<month>ar</month>
+<day>y </day>
+<volume>30</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>303-328</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M. R. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[L. R. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Formação de preço do açúcar cristal empacotado ao varejo da região Centro-Sul do Brasil]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>jan.</year>
+<month>/j</month>
+<day>un</day>
+<volume>53</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BALKE]]></surname>
+<given-names><![CDATA[N. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FOMBY]]></surname>
+<given-names><![CDATA[T. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threshold cointegration]]></article-title>
+<source><![CDATA[International Economic Review.]]></source>
+<year>1997</year>
+<volume>38</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>627-645</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETT]]></surname>
+<given-names><![CDATA[C.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Market analysis methods: are our enriched toolkits well-suited to enlivened markets?]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>augu</year>
+<month>st</month>
+<day> 1</day>
+<volume>78</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>825-829</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETT]]></surname>
+<given-names><![CDATA[C.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Measuring integration and efficiency in international agricultural markets]]></article-title>
+<source><![CDATA[Review of Agricultural Economics]]></source>
+<year>2001</year>
+<volume>23</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>19-32</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETT]]></surname>
+<given-names><![CDATA[C. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LI]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Distinguishing between equilibrium and integration in spatial price analysis]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>may </year>
+<month>20</month>
+<day>02</day>
+<volume>84</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>292-307</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAULCH]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Transfer costs, spatial arbitrage, and testing for food market integration]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>may </year>
+<month>19</month>
+<day>97</day>
+<volume>79</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>477-487</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BEN-KAABIA]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GIL]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AMEUR]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Vertical integration and non-linear price adjustments: the Spanish poultry sector]]></article-title>
+<source><![CDATA[Agribusiness]]></source>
+<year>2005</year>
+<volume>21</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>253-271</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A cultura do algodão e a questão da integração entre preços internos e externos]]></source>
+<year>2002</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Co-integration and Error-correction: Representation, Estimation and Testing]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1987</year>
+<volume>55</volume>
+<page-range>251-76</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FACKLER]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B. K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial price analysis: a methodological review]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[North Carolina ]]></publisher-loc>
+<publisher-name><![CDATA[Department of Agricultural and Resource EconomicsNorth Carolina State University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FAMINOW]]></surname>
+<given-names><![CDATA[M. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BENSON]]></surname>
+<given-names><![CDATA[B.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Integration of spatial markets]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>febr</year>
+<month>ua</month>
+<day>ry</day>
+<volume>72</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>49-62</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIANI]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Teoria dos custos de transação]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[KUPFER]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HASENCLEVER]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia industrial: fundamentos teóricos e práticas no Brasil]]></source>
+<year>2002</year>
+<page-range>267-286</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRANSES]]></surname>
+<given-names><![CDATA[P. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Testing for seasonal unit root in monthly data: Econometric Institute Report 9032A]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Rotterdam ]]></publisher-loc>
+<publisher-name><![CDATA[Erasmus University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRANSES]]></surname>
+<given-names><![CDATA[P. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOBIJN]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Critical values for unit root tests in seasonal time series]]></article-title>
+<source><![CDATA[Journal of Applied Statistics]]></source>
+<year>1997</year>
+<volume>24</volume>
+<page-range>25-46</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<collab>FUNDAÇÃO GETÚLIO VARGAS</collab>
+<source><![CDATA[Preços Recebidos pelos Produtores: Boi Gordo para Corte]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONZÁLEZ-RIVERA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HELFAND]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The extent, pattern, and degree of market integration: a multivariate approach for Brazilian rice market]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>Aug.</year>
+<month> 2</month>
+<day>00</day>
+<volume>83</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>576-592</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOLT]]></surname>
+<given-names><![CDATA[M. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Price transmission and asymmetric adjustment in the U.S. beef sector]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>Aug.</year>
+<month> 1</month>
+<day>99</day>
+<volume>81</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>630-637</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIGOTT]]></surname>
+<given-names><![CDATA[N. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial market integration in the presence of threshold effects]]></article-title>
+<source><![CDATA[American Journal of Agriculture Economics]]></source>
+<year>2001</year>
+<volume>83</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>302-317</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHROEDER]]></surname>
+<given-names><![CDATA[T.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cointegration tests and spatial price linkages in regional cattle markets]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>may </year>
+<month>19</month>
+<day>91</day>
+<volume>73</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>452-464</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUJARATI]]></surname>
+<given-names><![CDATA[D.N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria Básica]]></source>
+<year>2000</year>
+<edition>3</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Makron Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HANSEN]]></surname>
+<given-names><![CDATA[B. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SEO]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Testing for two-regime threshold cointegration in vector error-correction models]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>2002</year>
+<volume>110</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>293-318</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical analysis of cointegrating vectors]]></article-title>
+<source><![CDATA[Journal of Economics Dynamics and Control]]></source>
+<year>1988</year>
+<volume>12</volume>
+<page-range>231-254</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUSELIUS]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Maximum Likelihood Estimation and Inference on Cointegration with Application to the Demand for Money]]></article-title>
+<source><![CDATA[Oxford Bulletin of Economics and Statistics]]></source>
+<year>1990</year>
+<volume>52</volume>
+<page-range>169-209</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZIVOT]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threshold cointegration and nonlinear adjustment to the law of one price]]></article-title>
+<source><![CDATA[Macroeconomic Dynamics.]]></source>
+<year>2001</year>
+<volume>5</volume><volume>4</volume>
+<page-range>533-576</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LÜTKEPOHL]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KRÄTZIG]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied time series econometrics]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MEYER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Measuring market integration in the presence of transaction costs: a threshold vector error correction approach]]></article-title>
+<source><![CDATA[Agricultural Economics.]]></source>
+<year>2004</year>
+<volume>31</volume>
+<numero>21</numero>
+<issue>21</issue>
+<page-range>327-334</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOGUEIRA]]></surname>
+<given-names><![CDATA[F. T. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Integração espacial e efetividade do "hedge" no mercado brasileiro de café arábica]]></source>
+<year>2001</year>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOGUEIRA]]></surname>
+<given-names><![CDATA[F. T. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Integração dos mercados internos e externos de café]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PAULA]]></surname>
+<given-names><![CDATA[V. A. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARTINELLI]]></surname>
+<given-names><![CDATA[D. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Os custos de transação na análise de contratos: um estudo de caso]]></article-title>
+<source><![CDATA[Seminários em Administração FEA - USP]]></source>
+<year>2004</year>
+<volume>7</volume>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Painéis Gestão de Agronegócios]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[L. R. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Integração espacial no mercado brasileiro de boi gordo]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PINDYCK]]></surname>
+<given-names><![CDATA[R. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBINFELD]]></surname>
+<given-names><![CDATA[D. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>2002</year>
+<edition>5</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[MicroeconomiaPrentice Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAVALLION]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Testing market integration]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>febr</year>
+<month>ua</month>
+<day>ry</day>
+<volume>68</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>102-109</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSADO]]></surname>
+<given-names><![CDATA[P. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Integração especial entre os mercados brasileiros de suínos]]></source>
+<year>2006</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

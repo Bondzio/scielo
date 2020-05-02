@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1981-3821</journal-id>
+<journal-title><![CDATA[Brazilian Political Science Review]]></journal-title>
+<abbrev-journal-title><![CDATA[Bras. Political Sci. Rev.]]></abbrev-journal-title>
+<issn>1981-3821</issn>
+<publisher>
+<publisher-name><![CDATA[Associação Brasileira de Ciência Política]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1981-38212013000100002</article-id>
+<article-id pub-id-type="doi">10.1590/S1981-38212013000100002</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[When is statistical significance not significant?]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Figueiredo Filho]]></surname>
+<given-names><![CDATA[Dalson Britto]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Paranhos]]></surname>
+<given-names><![CDATA[Ranulfo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rocha]]></surname>
+<given-names><![CDATA[Enivaldo C. da]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Batista]]></surname>
+<given-names><![CDATA[Mariana]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva Jr.]]></surname>
+<given-names><![CDATA[José Alexandre da]]></given-names>
+</name>
+<xref ref-type="aff" rid="A05"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[Manoel L. Wanderley D.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A06"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Marino]]></surname>
+<given-names><![CDATA[Jacira Guiro]]></given-names>
+</name>
+<xref ref-type="aff" rid="A07"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Federal University of Pernambuco Political Science Department ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Federal University of Alagoas Social Science Institute ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Federal University of Pernambuco Political Science Department ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Federal University of Pernambuco  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="A05">
+<institution><![CDATA[,Federal University of Goiás Social Science School ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="A06">
+<institution><![CDATA[,Federal University of Minas Gerais Department of Political Science ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="A07">
+<institution><![CDATA[,Carlos Drummond de Andrade School  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2013</year>
+</pub-date>
+<volume>7</volume>
+<numero>1</numero>
+<fpage>31</fpage>
+<lpage>55</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1981-38212013000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1981-38212013000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1981-38212013000100002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[The article provides a non-technical introduction to the p value statistics. Its main purpose is to help researchers make sense of the appropriate role of the p value statistics in empirical political science research. On methodological grounds, we use replication, simulations and observational data to show when statistical significance is not significant. We argue that: (1) scholars must always graphically analyze their data before interpreting the p value; (2) it is pointless to estimate the p value for non-random samples; (3) the p value is highly affected by the sample size, and (4) it is pointless to estimate the p value when dealing with data on population.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[p value statistics]]></kwd>
+<kwd lng="en"><![CDATA[statistical significance]]></kwd>
+<kwd lng="en"><![CDATA[significance tests]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ARTICLE</b></font></p>     <p align="right">&nbsp;</p>     <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>When is statistical   significance not significant?</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dalson   Britto Figueiredo Filho<sup>I</sup>; Ranulfo   Paranhos<sup>II</sup>; Enivaldo   C. da Rocha<sup>III</sup>; Mariana   Batista<sup>IV</sup>; Jos&eacute;   Alexandre da Silva Jr.<sup>V</sup>; Manoel   L. Wanderley D. Santos<sup>VI</sup>; Jacira   Guiro Marino<sup>VII</sup></font></b></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Political   Science Department, Federal University of Pernambuco (UFPE), Brazil</font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>II</sup>Social       Science Institute, Federal University of Alagoas (UFAL),       Brazil    <br>     </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>III</sup>Political       Science Department, Federal University of Pernambuco (UFPE), Brazil    <br>     </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>IV</sup>Ph.D candidate in       Political Science, Federal University of Pernambuco (UFPE),       Brazil    ]]></body>
+<body><![CDATA[<br>     </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>V</sup>Social       Science School, Federal University of Goi&aacute;s (UFG),       Brazil    <br>     </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>VI</sup>Department       of Political Science, Federal University of       Minas Gerais (UFMG), Brazil    <br>     </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>VII</sup>Carlos       Drummond de Andrade School (FCDA), Brazil</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The article provides a   non-technical introduction to the <i>p value</i> statistics. Its main purpose   is to help  researchers  make sense of the appropriate role   of the <i>p value</i> statistics in empirical political science research. On   methodological grounds, we use replication, simulations and observational data   to show when statistical significance is not significant. We argue that: (1)   scholars must always graphically analyze their data before interpreting the <i>p     value</i>; (2) it is pointless to estimate the <i>p value</i> for   non-random samples; (3) the <i>p value</i> is highly affected by the sample   size, and (4) it is pointless to estimate the <i>p value</i> when   dealing with data on population. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Keywords: </b>p value statistics; statistical   significance; significance tests. </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>The basic problem with     the null hypothesis significance test in political science is that it often     does not tell political scientists what they think it is telling them. (</i>J. Gill)</font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>The statistical     difficulties arise more generally with findings that are suggestive but not     statistically significant. (</i>A. Gelman and D. Weakliem)</font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>The research     methodology literature in recent years has included a full frontal assault on     statistical significance testing. (</i>J. E. McLean and J. M. Ernest)</font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Statistical     significance testing has involved more fantasy than fact. (</i>R. Carver)</font></p>       <p>&nbsp;</p> </blockquote>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introduction<a href="#_edn1" name="_ednref1" title=""><sup><b>1</b></sup></a> </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">What is the fate of a research   paper that does not find statistically significant results? According to Gerber,   Green and Nickerson (2001: 01), "articles that do not reject the null   hypothesis tend to go unpublished" Likewise, Sigelman (1999: 201) argues that   "statistically significant results are achieved more frequently in published   than unpublished studies. Such publication bias is generally seen as the   consequence of a widespread prejudice against non significant results"<a href="#_edn2" name="_ednref2" title=""><sup>2</sup></a>.   Conversely, Henkel (1976: 07) argues that significance tests "are of little or   no value in basic social science research, where basic research is identified   as that which is directed toward the development and validation of theory". Similarly,   McLean and Ernest (1998: 15) point out that significance tests provide   no information about the practical significance of an event, or about whether   or not the result is replicable. More directly, Carver (1978;   1993) argues that all forms of significance test should be abandoned<a href="#_edn3" name="_ednref3" title=""><sup>3</sup></a>. Considering   this controversy, what is the appropriate role of the p value statistic in empirical   political science research? This is our research question. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This paper provides a non-technical   introduction to the p value statistic. Our main purpose is to help students in   making sense of the appropriate role of the p value statistic in empirical political   science research. On methodological grounds, we use observational data from the   Quality of Government Institute<a href="#_edn4" name="_ednref4" title=""><sup>4</sup></a> simulations and replicate results from Anscombe (1973), Cohen (1988) and Hair et   al., (2006) to show what can be learned from the p value statistic. There are   situations where interpretation of the <i>p value </i>requires caution and we suggest   four warnings: (1) scholars must always graphically analyze their data before   interpreting the p value; (2) it is pointless to estimate the p value for   non-random samples; (3) the p value is highly affected by the sample size, and   (4) it is pointless to estimate the p value when dealing with data from   population<a href="#_edn5" name="_ednref5" title=""><sup>5</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The remainder   of the paper consists of three sections. Firstly, we outline the underlying   logic of null hypothesis significance tests, and we define what p value is and   how it should be properly interpreted. Next, we replicate Anscombe (1973),   Cohen (1988) and Hair et al., (2006) data, using basic simulation and analyze   observational data to explain our view regarding the proper role of the p value   statistic. We close with a few concluding remarks on statistical inference in   political science.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>What   the p value is, what it means and what it does not</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Statistical inference is based on   the idea that it is possible to generalize results from a sample to the   population<a href="#_edn6" name="_ednref6" title=""><sup>6</sup></a>.   How can we assure that relations observed in a sample are not simply due to   chance? Significance tests are designed to offer an objective measure to inform   decisions about the validity of the generalization. For example, one can find a   negative relationship in a sample between education and corruption, but   additional information is necessary to show that the result is not simply due   to chance, but that it is "statistically significant". According to Henkel   (1976), hypothesis testing is: </font></p>     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Employed to test some     assumption (hypothesis) we have about the population against a sample from the     population (...) the result of a significance test is a probability which we     attach to a descriptive statistic calculated from a sample. This probability     reflects how likely it is that the statistic could have come from a sample     drawn from the population specified in the hypothesis (Henkel, 1976: 09)<a href="#_edn7" name="_ednref7" title=""><sup>7</sup></a>. </font></p> </blockquote>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In the standard approach to   significance testing, one has a null hypothesis (H<sub>o</sub>) and an   alternative hypothesis (H<sub>a</sub>), which describe opposite and mutually   exclusive patterns regarding some phenomena<a href="#_edn8" name="_ednref8" title=""><sup>8</sup></a>.   Usually while the null hypothesis (H<sub>o</sub>) denies the existence of a relationship   between <i>X</i> and <i>Y</i>, the alternative hypothesis (H<sub>a</sub>) supports   that <i>X</i> and <i>Y</i> are associated. For example, in a study about the   determinants of corruption, while the null hypothesis (H<sub>o</sub>) states that   there is no correlation between education and corruption, the alternative   hypothesis (H<sub>a</sub>) states that these variables are correlated, or more   specifically indicates the direction of the relationship; that education and   corruption are negatively associated<a href="#_edn9" name="_ednref9" title=""><sup>9</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Usually, scholars are interested in   rejecting the null hypothesis in favor of the alternative hypothesis, since the   alternative hypothesis represents the corroboration of the theoretical expectations   of the researcher. Also, as identified by Gerber, Green and Nickerson (2001),   there is a publication bias that favors papers that successfully reject the   null hypothesis. Therefore, scholars have both substantial and practical incentives   to prefer statistically significant results.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">McLean and Ernest (1998: 16) argue   that "a null hypothesis (H<sub>o</sub>) and an alternative hypothesis (H<sub>a</sub>)   are stated, and if the value of the test statistic falls in the rejection   region the null hypothesis is rejected in favor of the alternative hypothesis.   Otherwise the null hypothesis is retained on the basis that there is   insufficient evidence to reject it". In essence, the main purpose of hypothesis   test is to help the researcher to make a decision about two competing views of   the reality.&nbsp; According to Henkel (1976), </font></p>     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Significance testing     is assumed to offer an advantage over subjective evaluations of closeness in     contexts such as that illustrated above where there are no specific criteria     for what constitutes enough agreement (between our expectations and our     observations) to allow us to continue to believe our hypothesis, or constitutes     great enough divergence to lead us to suspect that our hypothesis is false. In     a general sense, tests of significance, as one approach to assessing our     beliefs or assumptions about reality, differ from the common sense approach     only in the degree to which the criterion for closeness of, or correspondence     between, observed and expected results are formalized, that is, specific and     standardized across tests. Significance testing allows us to evaluate     differences between what we expect on the basis of our hypothesis, and what we     observe, but only in terms of one criterion, the probability that these     differences could have occurred by 'chance' (Henkel, 1976: 10).</font></p> </blockquote>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In theory, the p value is a   continuous measure of evidence, but in practice it is typically trichotomized   approximately into highly significant, marginally significant, and not   statistically significant at conventional levels, with cutoffs at p&#8804;0.01,   p&#8804;0.05 and p&gt;0.10 (Gelman, 2012: 2). According to Cramer and Howitt   (2004), </font></p>     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The level at which the     null hypothesis is rejected is usually set as 5 or fewer times out of 100. This     means that such a difference or relationship is likely to occur by chance 5 or     fewer times out of 100. This level is generally described as the proportion     0.05 and sometimes as the percentage 5%. The 0.05 probability level was     historically an arbitrary choice but has been acceptable as a reasonable choice     in most circumstances. If there is a reason to vary this level, it is     acceptable to do so. So in circumstances where there might be very serious     adverse consequences if the wrong decision were made about the hypothesis, then     the significance level could be made more stringent at, say, 1% (Cramer and Howitt,     2004: 151).</font></p> </blockquote>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02fig01.jpg">Figure 1</a>   illustrates the logic of null hypothesis significance testing. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We   know that the area under the curve equates to 1 and can be represented by a   probability density function. As we standardize the variable to a standard   normal, we have a mean of zero and the spread is described by the standard   deviation. Importantly, given that this curve's standard deviation equals 1, we   know that 68.26% of all observations are between -1 and +1 standard deviation,   95.44% of all observations will fall between -2 and +2 standard deviation and   99.14% of all cases are between -3 and +3 standard deviation. The shaded area   represents the probability of observing a result from a sample as extreme as we   observed, assuming the null hypothesis in population is true. For   example, in a regression of <i>Y</i> on <i>X</i> the first step is to state the   competing hypotheses:</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">H<sub>o</sub>: <i>b</i><sub>x </sub>= 0</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">H<sub>a</sub>: <i>b</i><sub>x </sub>&#8800; 0</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">While   the null hypothesis states that the effect of <i>X</i> on <i>Y</i> is zero (<i>b</i><sub>x </sub>= 0), the alternative hypothesis states that the effect is different from   zero (<i>b</i><sub>x </sub>&#8800; 0). The second step is to compare our   estimate with the parameters specified under the null hypothesis. The more our   estimate approximates to the parameters specified by the null hypothesis, the   less confidence we have in rejecting it. The more distant our estimate is from   the parameters specified by the null hypothesis, the more confidence we have in   rejecting H<sub>o</sub> in favor of H<sub>a</sub>. The p value statistic is a   conditional probability, the probability of obtaining the observed or more   extreme result given that the null hypothesis is true. To estimate the p value or the probability value, we should proceed as follows; (1)   write down both the null (H<sub>o</sub>) and the alternative hypothesis (H<sub>a</sub>);   (2) calculate the difference between the expected value under the null   hypothesis and the observed value based on sample data; (3) standardize the   difference into Z scores, and (4) estimate the probability of the alternative   hypothesis assuming that the null hypothesis is true. Algebraically,</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/bpsr/v7n1/a02img01.jpg"></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Where <img src="/img/revistas/bpsr/v7n1/a02img02.jpg" align="absmiddle"> represents the   observed value, &#956;<sub>0 </sub>represents the value under the null, &#963;   represents the variance of the distribution and n represents the sample size   (number of observations). When the difference between the observed value and   the value under the null increases, all other things constant, higher is the Z.   Similarly, when the sample size gets bigger, all other things constant, the variance   is lower and the Z is higher. The Z score is higher, and the p value statistic   is lower. Therefore, the p value depends not only upon the effect magnitude but   is, by definition, determined by the sample size. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">To   make the estimation of the p value statistic more practical to political   science scholars, we use observational data from the Quality of Government   Institute<a href="#_edn11" name="_ednref11" title=""><sup>11</sup></a>.   The first step is to state both the null hypothesis and the alternative   hypothesis. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">H<sub>o</sub>: <i>r</i> &#8805;0</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">H<sub>a</sub>: <i>r</i> &lt;0</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Theoretically,   we expect a negative correlation between schooling years and corruption (<i>r</i> &lt; 0). Alternatively, the H<sub>o</sub> (null hypothesis) states that the correlation between schooling   years and corruption will be higher or equal to zero (r&#8805;0). The <i>p value</i> statistic will inform the probability that the observed value is   due to chance, assuming that the null hypothesis is true. We know from basic   statistics classes the rule that "when the p value is low, the null hypothesis   must go". In other words, the lower the p value, the higher our confidence in   rejecting the null hypothesis in favor of the alternative hypothesis. <a href="/img/revistas/bpsr/v7n1/a02fig02.jpg">Figure 2</a>   summarizes our empirical results.&nbsp;</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   results suggest a strong negative (-0.799) correlation between average   schooling years and corruption. The relationship is statistically significant (p   value&lt;0,000) with a sample of 113 country-cases. Following the 0.05 criteria,   we should reject the null hypothesis of no or positive association between the   variables. Then, we should conclude that there is a negative relationship   between average schooling years and the level of corruption. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Most   statistics handbooks present a rule of thumb of 0.1, 0.05 and 0.01 significance   levels. It is important to stress that these are highly arbitrary cutoffs, and that   the scholar should choose between them, preferably before analyzing the data. Fisher   (1923) argues that: </font></p>     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If one in twenty does     not seem high enough, we may, if we prefer it, draw the line at one in fifty (2     per cent point), or one in one hundred (the 1 per cent point). Personally, the     writer prefers to set a low standard of significance at the 5 per cent point,     and ignore entirely all results which fail to reach this level. A scientific     fact should be regarded as experimentally established only if a properly designed     experiment rarely fails to give this level of significance (Fisher, 1923: 85).&nbsp; </font></p> </blockquote>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Through   analyzing the relationship between schooling years and corruption, we   established a 0.05 cutoff. Our p value is less than 0.000. To be sure, the p   value is never exactly zero, but it is usual to report only three digits, therefore   we interpret it as less than 0.01. So, given the null hypothesis that the   correlation between schooling years and corruption is higher or equal to zero,   the p value of less than 0.000 means that the probability of finding a   correlation as extreme as -0.799 is less than 0.000. Therefore we should reject   the null hypothesis in favor of the alternative hypothesis. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">After   defining what the p value means, it is important to stress what is does not. It   does not mean that the likelihood that the observed results are due to chance   is less than 1%. Similarly, a p value of .01 does not mean that there is a 99%   chance that your results are true, and a p value of .01 does not mean that   there is a 1% chance that the null hypothesis is true. Additionally, you cannot   interpret it as 99% evidence that the alternative hypothesis is true<a href="#_edn12" name="_ednref12" title=""><sup>12</sup></a>. Lets   follow Fisher's classic definition: the p value is the probability, under the   assumption of no effect (the null hypothesis H<sub>0</sub>), of obtaining a   result equal to or more extreme than what was actually observed (Fisher, 1925). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   next section considers situations where the p value interpretation requires   caution, and presents four warnings to properly interpret the p value statistic.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Four Warnings on   Significance Testing</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Anscombe (1973) demonstrated the   importance of exploring data graphically before drawing inferences from it. He   showed that different relationships between <i>X</i> and <i>Y</i> can be   summarized by the same statistics (F, standard error, b, beta etc). <a href="/img/revistas/bpsr/v7n1/a02fig03.jpg">Figure 3</a>   replicates his data, presenting four different relationships between variables   with the same significant p value.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">All graphs in <a href="/img/revistas/bpsr/v7n1/a02fig03.jpg">Figure 3</a> gave the   same p value statistic of 0.002. However, the graphical analysis shows that the   nature of the relationship between the variables is markedly different. For   example, the upper-right graph shows a non-linear relationship. As long the   scholar only examines the p value he would never get this information. Therefore,   if you rely only on statistical significance you would reject the null   hypothesis for all cases, arguing that the relationship found using sample data   could be generalized to the population. In addition, the researcher may fail to   reject the null hypothesis after finding significant coefficient estimates, but   this could be due an outlier effect (for example the bottom right graph in   <a href="/img/revistas/bpsr/v7n1/a02fig03.jpg">Figure 3</a>). Basic statistics handbooks teach us that outliers can influence the   probability of making Type I and Type II errors<a href="#_edn13" name="_ednref13" title=""><sup>13</sup></a>. Thus,   our first warning is that before interpreting the p value statistic, scholars   must graphically analyze their data. To make our case more explicitly, we   examine the correlation between the Human Development Index (HDI) and   corruption. </font></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02fig04.jpg">Figure 4</a></font></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In both cases the correlation is   statistically significant (p value&lt;0.000). However, when the researcher   examines only the p value he would fail to acknowledge that the relationship   between the variables is best described by a quadratic function (r<sup>2</sup> =0.673) rather than by a linear function (r<sup>2</sup> =0.457). The practical   consequence of functional form misspecification <a href="#_edn14" name="_ednref14" title=""><sup>14</sup></a>in   this case is the underestimation of the magnitude of relationship between the   variables. Functional form misspecification can also lead to Type I and Type II   errors. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">To summarize, the careful graphical   depiction of data is an essential step in empirical research. Scholars must avoid   interpreting the p value statistic without graphically analyzing their data   first. Breaking this important rule can lead to incorrect conclusions about   political phenomena. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Our second warning is that it is pointless   to estimate a p value for non-random samples<a href="#_edn15" name="_ednref15" title=""><sup>15</sup></a>.   &nbsp;According to Moore and McCabe (2006: 250), "a simple random sample (SRS) of   size n consists of n individuals from the population chosen in such a way that   every set of n individuals has an equal chance to be the sample actually   selected". There are different sampling methods, considering the complexity of   the population and the representativeness of different characteristics.   However, regardless of the method, if the sample is not random, the underlying   assumptions of both the normal distribution and central limit theorem<a href="#_edn16" name="_ednref16" title=""><sup>16</sup></a>do not   hold. Thus, sample statistics are no longer unbiased and efficient estimates of   population parameters<a href="#_edn17" name="_ednref17" title=""><sup>17</sup></a>.   According to Smith (1983: 394), "the arguments for randomization are twofold.   The first, and most important for science, is that randomization eliminates   personal choice and hence eliminates the possibility of subjective selection   bias. The second is that the randomization distribution provides a basis for   statistical inference".</font></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02fig05.jpg">Figure 5</a></font></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Henkel (1976: 23) argues that "the   manner in which we select samples from our populations is critical to   significance testing, since the sampling procedure determines the manner in   which chance factors affect the statistic(s) we are concerned with, and   consequently affect the sampling distribution of the statistic"<a href="#_edn18" name="_ednref18" title=""><sup>18</sup></a>. If   the sample is random, the data is subject to the laws of probability and the   behavior of estimated statistics as described by the sampling distribution. According   to Moore and McCabe (2006), when you use systematic   random samples to collect your data, the values of the estimated statistic   neither consistently overestimate nor consistently underestimate the value of   the population parameters. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">While randomization minimizes bias,   the larger sample size reduces variability; the researcher is interested in   producing estimates that are both unbiased and efficient (low variability) (see   bottom right example). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">To make this claim more practical,   we intentionally selected a biased sample and then we estimated the   relationship between Human Development Index (HDI) and corruption<a href="#_edn19" name="_ednref19" title=""><sup>19</sup></a>. <a href="/img/revistas/bpsr/v7n1/a02fig06.jpg">Figure 6</a> summarizes this information. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">When dealing with the biased sample<a href="#_edn20" name="_ednref20" title=""><sup>20</sup></a> (n =   14), the scholar would conclude that Human Development Index (HDI) and   corruption are independent variables (r = 0.018 with a p value of 0.950).   However, when we consider the full sample (N = 172), we observe a negative   (-0.676) and statistically significant correlation (p value&lt;0.000). This is   to say that if we use the biased sample to infer about the population, we would   not reject the null hypothesis when we should reject it (type II error).&nbsp; It is   natural to blame the sample size when explaining a lack of statistical   significance. However, this is not always the case; as long the pattern of   correlation between the variables is stable, as we use a random sample, it is   more likely to detect the presence of the association. <a href="/img/revistas/bpsr/v7n1/a02fig07.jpg">Figure 7</a> illustrates   this argument.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">When dealing with a random sample   of the same size (n=14), we observe a negative (-0.760) and statistically   significant (p value = 0.002) correlation between the variables. In this case,   when working with the random sample the scholar would reach the same conclusion   based on population data. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Another potential problem is the   use of a biased sample to reject the null hypothesis when it should not be   rejected (type I error). <a href="/img/revistas/bpsr/v7n1/a02fig08.jpg">Figure 8</a> illustrates this problem. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We   analyzed the correlation between the geographic area and average schooling   years. While the left graph shows the raw data, the right one displays the   transformed data (logarithmic). In both cases, the correlation is not   statistically significant. In other words, we cannot reject the null hypothesis   that the estimated coefficient is equal to zero. So, we should conclude that geographical   area and education are statistically independent. The following figure replicates this correlation with an income biased sample.</font></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02fig08a.jpg">Figure 8a</a></font></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The result is markedly different. When   dealing with the income biased sample (n=14), we observe a positive (0.671) and   statistically significant (p value = 0.009) correlation between the variables.   In this case, we would wrongly reject the null hypothesis (type I error). Therefore,   we would conclude that geographical area and schooling years are positively   associated. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Regardless of the sampling method   design, we should meet the assumption of equiprobability, i.e. that each   element in the population has the same chance of being selected. Non   probabilistic samples cannot be used to make reliable statistical inferences.   Therefore, we argue that it is pointless to interpret the p value of non-random   samples. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Our third claim is that even   marginal effects tend to be statistically significant when the sample size is   large enough. We use basic simulation to show that, as the size of the sample   increases, the power (<i>b</i>) of detecting a significant relationship also   enhances. Hair et al. (2006: 10) argue that "power is the probability of   correctly rejecting the null hypothesis when it should be rejected. Thus, power   is the probability that statistical significance will be indicated if it is   present". They suggest five rules of thumb regarding statistical power   analysis: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">(1)   Researchers should always design the study to achieve a power level of .80 at   the desired significance level;</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">(2)   More severe significance levels require larger samples to achieve the desired   power level;</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">(3)   Conversely, power can be increased by choosing a less severe alpha. 4. Smaller   effects sizes always require large sample sizes to achieve the desired power,   and 5. Any increase in power is most likely achieved by increasing sample size. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">To make our case, we partially   replicate the experiment developed by The Institute for Digital Research and   Education from the University of California<a href="#_edn21" name="_ednref21" title=""><sup>21</sup></a>.   We want to compare the means of two groups on a standardized mathematic test.   Computationally, we used the Stata program function fpower to do the power   analysis<a href="#_edn22" name="_ednref22" title=""><sup>22</sup></a>.   To do so, we had to define (1) the number of groups, (2) the effect size   (delta)<a href="#_edn23" name="_ednref23" title=""><sup>23</sup></a>and   (3) the alpha level. We compared two groups with two different effect sizes   (0.35 and 1.2), and we varied the alpha level in the three traditional cutoffs   (0.1; 0.05 and 0.01). <a href="/img/revistas/bpsr/v7n1/a02fig09.jpg">Figure 9</a> summarizes   this information. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Our simulation results show that   the larger the sample size, the higher the probability of detecting statistical   significance. Similarly, the smaller the effect's size, the greater the   sample's size should be to achieve statistical significance.&nbsp; In particular,&nbsp;   when sample size approaches 250 any difference/effect is statistically   significant, regardless of the alpha level. To make our argument more robust,   we generated three random variables. X has a mean of zero and standard   deviation of 1. X and Z correlates at .75, and X and W correlates at .10.   <a href="/img/revistas/bpsr/v7n1/a02fig10.jpg">Figure 10</a> illustrates their relationship.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">According to Hair   et al., (2006: 11), "by increasing sample size,   smaller and smaller effects will be found to be statistically significant,   until at very large samples sizes almost any effect is significant". What   is the meaning of a minute difference that is statistically significant? The   relationship between X and W is statistically significant (p-value&lt;0,000)   but there is no substantive meaning on it. As stated by Gill (1999: 658), "political   scientists are more interested in the relative magnitude of effects (...) and   making only binary decisions about the existence of an effect is not   particularly important". Similarly, Luskin, (1991: 1044) points out that "to   know that a parameter is almost certainly nonzero is to know very little. We   care much more about its magnitude. But on this score the numbers do not speak   for themselves". Rather than focusing only on the <i>p value</i>,   scholars should be looking at the magnitude of their estimates, the difference   between group means, etc. The main conclusion is that when the sample is large   enough (n&gt;300), even marginal effects/differences tend to be statistically   significant. Scholars should be aware of this fact before claiming too much   about their empirical findings.&nbsp;&nbsp;&nbsp; </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In summary, whether we maintain the   effect size constant and vary the sample size (<a href="/img/revistas/bpsr/v7n1/a02fig09.jpg">figure 9</a>), and whether we hold   the number of cases constant and vary the magnitude&nbsp; of the observed   relationship between the variables (<a href="/img/revistas/bpsr/v7n1/a02fig10.jpg">figure 10</a>), these procedures have a great effect   on the size of the p value statistic. In either case, scholars should be   cautions before extracting too much information from it, at the risk to reach   wrong substantive conclusions.&nbsp; </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Our fourth claim is that it is pointless   to estimate the <i>p value</i> when you are dealing with population.   Analytical data from the population has increased in political science in   general. Examples of this in Brazilian political science include the analysis   of elections, roll-call votes and budget allocations. According to Hair et al.,   (2006), "a census of the entire population makes statistical inference   unnecessary, because any differences or relationship, however small, is true   and does exist" (Hair et al. (2006: 09). Introductory statistics handbooks   teach us that we should use samples because they are faster and cheaper. If   they are properly collected, they are also reliable. Keeping in mind that the   role of inferential statistics is to draw inferences about the population from   sample data, if the population is contained in all observations, estimation<a href="#_edn24" name="_ednref24" title=""><sup>24</sup></a>is   not needed. There is no reason to test the hypothesis since you already know   your parameters.</font></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02fig11.jpg">Figure 11</a></font></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In our view, if the sample size is equal   to the size of the population, we cannot expect any error in estimating the   true population parameter. Imagine a census of the population where men are shown   to have an average income of X and women an average income of X+1. The mean   difference between the groups is just one unit. As long we have information   about all cases (the population), there is no room for estimating the expected   value of the population parameter, since we already know it. The important   issue is the magnitude of the difference, which is in this case very small. Our   general position is that scholars should focus on the size of the expected   effects, instead of worrying about the significance of the difference,   especially in the situations we have defined here.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Usually, statistical handbooks   present introductory statistics based on this sample-population inference   approach. However, it is important to stress that this position is not   unanimous in the literature. There are differing answers to the "what does   statistical p value mean when the sample equals the population" question. There   is an ongoing debate between frequentist-bayesian approaches. In general,   Bayesian scholars tend to reject point estimation (p value) and prefer to use   confidence intervals. Some of them have even argued that confidence intervals   should be abolished altogether. For example, Gelman (2012b, n.p.) states "I'm   thinking more and more that we have to get rid of statistical significance, 95%   intervals, and all the rest, and just come to a more fundamental acceptance of   uncertainty" (Gelman, 2012a, n.p.). Regarding the sample-population debate,   Bayesian scholars also tend to believe that we should always consider the   population as a sample produced by an underlying generative process. The   rationale is the following; the population you examined can be seen as a result   of a more complex and dynamic process that can always generate a different population   in some other moment in time. However, if you ask the same question to a   frequentist researcher, he will likely answer that there is no meaning in the   interpretation of the p value when the sample equals the population, since we   already know the true parameter value. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As long as our main purpose is to   introduce the logic of the p value statistic and is based on the frequentist   position, we do not examine this debate more deeply. We encourage readers to   follow the references to obtain more information about this issue.   Additionally, we advise students to adopt the following guidelines; (1) define   your own position on the role of the p value statistic when the sample size   equals the population; (2) once you pick one, you should be consistent with it,   and (3) regardless of your technical position, you should always report not   only the p value but also all the estimates in order to facilitate other people's   assessment of your work. As a rule, you should always report all the   information since your reader may not share the same opinions as you. &nbsp;</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Conclusion</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">And if my estimated coefficient is   not statistically significant? God help you! Unfortunately, many scholars still   share this opinion. The evidence of this claim can be found in publication bias   phenomena in various fields of knowledge. Gill (1999: 669) argues that "from   the current presentation of null hypothesis significance testing in published   work it is very easy to confuse statistical significance with theoretical or   substantive importance". In other words, political science students should be   aware of the difference between statistical significance and practical   significance. The p value cannot inform us about the magnitude of the effect of   X on Y. Similarly, the p value cannot help us to choose which variable explains   the most. The p value cannot be compared across samples of different sizes. The   p value cannot, by itself, answer the questions scholars are interested in. As   noted by Moore and McCabe (2006), critical thinking about the use of   significance tests is a sign of statistical maturity, however, scholars cannot   make this decision when they do not fully understand the role of significance   tests. Through this essay, we hope to help political science students make   sense of the appropriate role of the <i>p value</i> statistic in empirical   research.</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>References</b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ANSCOMBE,   F. J. (1973), Graphs in Statistical Analysis, <i>The American Statistician</i>,   vol. 27, nº 1, pp. 17-21.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S1981-3821201300010000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARRO,   Robert J., and LEE, Jong-Wha. (2000<i>), International Data on Educational     Attainment: Updates and Implications,</i> Center for International Development   (CID) -Working Paper nº 42, Harvard University, &lt;<a href="http://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/cid-working-paper-no.-42" target="_blank">http://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/cid-working-paper-no.-42</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S1981-3821201300010000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BEGG,   Collin B. and BERLIN, Jesse A. (1988), Publication Bias: A Problem in   Interpreting Medical Data, <i>Journal of the Royal Statistical Society &#150; Series     A</i>, vol. 151, nº 3, pp. 419-463.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S1981-3821201300010000200003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CARVER,   Ronald P. (1978), The case against statistical significance testing, <i>Harvard     Educational Review</i>, vol. 48, nº 3, pp. 378-399.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S1981-3821201300010000200004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CARVER,   Ronald P. (1993), The Case Against   Statistical Significance Testing, Revisited, <i>The Journal of Experimental     Education</i>, vol. 61, nº4, pp. 287-292.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S1981-3821201300010000200005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COHEN,   Jacob. (1988), <i>Statistical Power Analysis for the Behavioral Sciences </i>&#150;   2<sup>nd</sup> Edition. Mahwah, NJ: Lawrence Erlbaum Associates.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S1981-3821201300010000200006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COURSOUL,   Allan and WAGNER, Edwin E. (1986), Effect of Positive Findings on Submission   and Acceptance Rates: A Note on Meta-Analysis Bias, <i>Professional Psychology</i>,   vol. 17, nº 2, pp. 136-137.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S1981-3821201300010000200007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CRAMER, Duncan and HOWITT, Dennis L. (2004), <i>The   SAGE Dictionary of Statistics: A Practical Resource for Students in the Social   Sciences</i>. SAGE Publications Ltd., London.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S1981-3821201300010000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DANIEL,   Larry G. (1998), Statistical significance testing: A historical overview of   misuse and misinterpretation with implications for the editorial policies of   educational journals, <i>Research in the Schools</i>, vol. 5, nº 2, pp. 23-32.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S1981-3821201300010000200009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DAVIDSON,   Julia. (2006), Non-probability (non-random) sampling. The Sage Dictonary of   Social Research Methods, &lt;<a href="http://srmo.sagepub.com/view/the-sage-dictionary-of-social-research-methods/n130.xml" target="_blank">http://srmo.sagepub.com/view/the-sage-dictionary-of-social-research-methods/n130.xml</a><u>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S1981-3821201300010000200010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</u></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DE   LONG, J. Bradford and LANG, Kevin. (1992), Are All Economic Hypotheses False? <i>Journal     of Political Economy</i>, vol. 100, nº 6, pp. 1257-1272.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S1981-3821201300010000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">EVERITT, Brian S. (2006), <i>The Cambridge Dictionary of Statistics </i>&#150; 3<sup>rd</sup> edition<i>.</i> New York: Cambridge   University Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S1981-3821201300010000200012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">EVERITT, Brian S. and SKRONDAL, Anders (2010), <i>The Cambridge   Dictionary of Statistics.</i> New York: Cambridge University   Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S1981-3821201300010000200013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FISHER,   Ronald A. (1923), Statistical Tests of Agreement Between Observation and   Hipothesys, <i>Economica</i>, nº 8, pp. 139-147.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S1981-3821201300010000200014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">_____ (1925), Theory of   Statistical Estimation, <i>Mathematical Proceedings of the Cambridge     Philosophical Society</i>, vol. 22, 700-725.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S1981-3821201300010000200015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GELMAN,   Andrew, CARLIN, John B., STERN, Hal S. and RUBIN, Donald B. (2003), <i>Bayesian     Data Analysis</i> &#150; 2<sup>nd</sup> edition. New York: Chapman and Hall/CRC   Texts in Statistical Science.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S1981-3821201300010000200016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GELMAN, Andrew and STERN, Hal. (2006), The   Difference Between "Significant" and "Not Significant" is not Itself Statistically   Significant, <i>The American Statistician</i>, vol. 60, nº 4, pp.   328-331.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S1981-3821201300010000200017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GELMAN,   Andrew (2007), <i>Bayesian statistics</i>. Basel Statistical   Society, Switzerland.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S1981-3821201300010000200018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GELMAN,   Andrew and WEAKLIEM, David. (2009), Of Beauty, Sex and Power, <i>American     Scientist</i>, vol. 97, pp. 310-317.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S1981-3821201300010000200019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GELMAN, Andrew.   (2012a), The   inevitable problems with statistical significance and 95% intervals<i>, Statistical Modeling, Causal Inference, and Social Science</i>,   &lt; <a href="http://andrewgelman.com/2012/02/02/the-inevitable-problems-with-statistical-significance-and-95-intervals/" target="_blank">http://andrewgelman.com/2012/02/02/the-inevitable-problems-with-statistical-significance-and-95-intervals/</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S1981-3821201300010000200020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GELMAN, Andrew.   (2012b), What   do statistical p-values mean when the sample = the population<i>?, Statistical Modeling, Causal Inference, and Social Science</i>,<i> &lt;</i><a href="http://andrewgelman.com/2012/09/what-do-statistical-p-values-mean-when-the-sample-the-population/" target="_blank">http://andrewgelman.com/2012/09/what-do-statistical-p-values-mean-when-the-sample-the-population/</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S1981-3821201300010000200021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GERBER, Alan, GREEN, Donald P. and NICKERSON, David.   (2001), Testing for Publication Bias in Political Science, <i>Political     Analysis</i>, vol. 9, nº 4, pp. 385-392.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S1981-3821201300010000200022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GILL,   Jeff. (1999), The Insignificance of Null Hypothesis Significance Testing, <i>Political     Research Quarterly</i>, vol. 52, nº 3, pp. 647-674.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S1981-3821201300010000200023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">______ (2007), <i>Bayesian   Methods: A Social and Behavioral Sciences Approach</i> &#150; 2<sup>nd</sup> edition.   New York: Chapman and Hall/CRC Statistics in the Social and Behavioral   Sciences.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S1981-3821201300010000200024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GREENWALD, Anthony G.   (1975), Consequences of Prejudice Against the Null Hypothesis, <i>Psychological     Bulletin</i>, vol. 82, nº 1, pp. 1-12.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S1981-3821201300010000200025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HAIR,   Joseph F., BLACK, William C., BABIN, Barry J., ANDERSON, Rohph E. and TATHAM, Ronald   L. (2006), <i>Multivariate Data Analysis</i> &#150; 6ª edition. Upper Saddle River,   NJ: Pearson Prentice Hall.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S1981-3821201300010000200026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HENKEL,   Ramon E. (1976), <i>Tests of significance.</i> Newbury Park, CA: Sage.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S1981-3821201300010000200027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HUBERTY, Carl J. (1993),   Historical origins of statistical testing practices: The treatment of Fisher   versus Neyman-Pearson views in textbooks, <i>The Journal of Experimental     Education</i>, vol. 61, nº 4, pp. 317-333.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S1981-3821201300010000200028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JORDAN,   Michael I. (2009), Bayesian or Frequentist, Which are You?, Department of   Electrical Engineering and Computer Sciences, University of California -   Berkeley, Videolectures.net, &lt;<a href="http://videolectures.net/mlss09uk_jordan_bfway/" target="_blank">http://videolectures.net/mlss09uk_jordan_bfway/</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S1981-3821201300010000200029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KING,   Gary, KEOHANE, Robert and VERBA, Sidney. (1994), <i>Designing Social Inquiry:     Scientific Inference in Qualitative Research. </i>Princeton. N.J.: Princeton   University Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S1981-3821201300010000200030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LUSKIN, Robert C. (1991), Abusus   Non Tollit Usum: Standardized Coefficients, Correlations, and R<sup>2</sup>s, <i>American     Journal of Political Science, </i>vol. 35, nº 4, pp. 1032-1046.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S1981-3821201300010000200031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MAHONEY, Michael J. (1977),   Publication Prejudices: An Experimental Study of Confirmatory Bias in the Peer   Review System, <i>Cognitive Therapy Research</i>, vol. 1, nº 2, pp. 161&#150;175.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S1981-3821201300010000200032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">McLEAN,   James E., and ERNEST, James M. (1998), The Role of Statistical Significance   Testing in Educational Research, <i>Research in the Schools, v</i>ol. 5, nº 2, pp.   15-22.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S1981-3821201300010000200033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MOORE,   David S. and McCABE, George P. (2006), <i>Introduction to the Practice of     Statistics </i>&#150; 5<sup>th</sup> edition. New York: Freeman.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S1981-3821201300010000200034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ROGERS,   Tom (n.d), Type I and Type II Errors &#150; Making Mistakes in the Justice System, <i>Amazing     Applications of Probability and Statistics,</i> &lt;<a href="http://www.intuitor.com/statistics/T1T2Errors.html" target="_blank">http://www.intuitor.com/statistics/T1T2Errors.html</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S1981-3821201300010000200035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SAWILOWSKY,   Shlomo. (2003), Deconstructing Arguments From The Case Against Hypothesis   Testing, <i>Journal of Modern Applied Statistical Methods</i>, vol. 2, nº 2, pp.   467-474.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S1981-3821201300010000200036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SCARGLE,   Jeffrey D. (2000), Publication Bias: The "File-Drawer Problem" in Scientific   Inference, <i>The Journal of Scientific Exploration</i>, vol. 14, nº 1, pp. 91-106.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S1981-3821201300010000200037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SIGELMAN,   Lee. (1999), Publication Bias Reconsidered, <i>Political Analysis</i>, vol. 8,   nº 2, pp. 201-210.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S1981-3821201300010000200038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SIMES, John R. (1986),   Publication Bias: The Case for an International Registry of Clinical Trials, <i>Journal     of Clinical Oncology</i>, vol. 4, nº 10, pp. 1529-1541.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S1981-3821201300010000200039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHAVER, J. (1992), <i>What   significance testing is, and what it isn't</i>. Paper presented at the Annual Meeting   of the American Educational Research Association, San Francisco, CA.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S1981-3821201300010000200040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SMITH,   T. M. F. (1983), On the validity of inferences from Non-random Samples,<i> Journal of the Royal Statistical Society</i> &#150; Series A (General), vol. 146, nº   4, pp. 394&#150;403.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S1981-3821201300010000200041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">THE   COCHRANE COLLABORATION. (n.d), What is publication bias? The Cochrane   Collaboration open learning material, &lt;<a href="http://www.cochrane-net.org/openlearning/html/mod15-2.htm" target="_blank">http://www.cochrane-net.org/openlearning/html/mod15-2.htm</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S1981-3821201300010000200042&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VAN   EVERA, Stephen. (1997), <i>Guide to Methods for Students of Political Science</i>.   Ithaca, NY: Cornell University Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S1981-3821201300010000200043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">YOUTUBE.   (2010), What the p-value?, &lt;<a href="http://www.youtube.com/watch?v=ax0tDcFkPic&amp;feature=related" target="_blank">http://www.youtube.com/watch?v=ax0tDcFkPic&amp;feature=related</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S1981-3821201300010000200044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Submitted in August 2012<br />   Accepted in April 2013</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Notes</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#_ednref1" name="_edn1" title="">1</a> As the paper provides   a non-technical introduction to the p value statistic, we minimized   mathematical application of all concepts presented. Readers interested in more   sophisticated approaches should follow the references. In addition, we are mute   on the frequentist-bayesian debate, since it falls outside of the context of   this paper. For   an online introduction to the frequentist-bayesian debate, see Jordan (2009). Readers interested in   the Bayesian statistics should check Gelman, Carlin, Stern and Rubin (2003), Gill (2007)   and Gelman (2007).</font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#_ednref2" name="_edn2" title="">2</a> Publication bias represents the trend of both referees and scholars       to overestimate the importance of statistical significant findings. According       to Scargle (2000: 91), "publication bias arises whenever the probability that a       study is published depends on the statistical significance of its results. This       bias, often called the file-drawer effect because the unpublished results are       imagined to be tucked away in researchers' file cabinets, is a potentially       severe impediment to combining the statistical results of studies collected       from the literature". Similarly, Everitt and Skrondal (2010: 346) define it as       "the       possible bias in published accounts of, for example, clinical trials, produced       by editors of journals being more likely to accept a paper if a statistically       significant effect has been demonstrated". To       get more information on publication bias see Greenwald (1975), Mahoney (1977),       Coursoul and Wagner (1986), Simes (1986) and Begg and Berlin (1988), De Long       and Lang (1992). In political science see Sigelman (1999) and Gerber, Green and       Nickerson (2001). To see a simple definition see The cocharane Collaboration       (n.d).    <br>         </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#_ednref3" name="_edn3" title="">3</a> For a rebuttal of           Carver arguments see Sawilowsky           (2003). <br />           <a href="#_ednref4" name="_edn4" title="">4</a> Most data in           political science comes from observational research designs rather than from           experimental ones. For this reason, we use observational data to show the     ]]></body>
+<body><![CDATA[      interpretation of the <i>p value</i> statistic when dealing with real political           science research problems. As we know, observational data suffers from all           sorts of shortcomings compared to experimental data. Scholars working with           observational data face more challenges in making causal claims compared to           those working with experiments. In addition, it is easier for a novice to           understand examples based on observational data than from basic simulation.&nbsp; <br />           <a href="#_ednref5" name="_edn5" title="">5</a> A more systematic           way of examining the role of the p value statistic in Brazilian political           science literature is to survey all empirical papers and analyze how scholars           have been interpreting the statistical significance of their empirical     ]]></body>
+<body><![CDATA[      findings. The downside of this approach is the potential personal damage of           exposing eventual mistakes. To minimize conflict, we prefer to focus on a more pedagogical           approach.&nbsp; <br />           <a href="#_ednref6" name="_edn6" title="">6</a> Everitt (2006: 306)           defines population as "any finite or infinite collection of 'units', which are           often people but may be, for example, institutions, events, etc. Similarly, he           defines sample as "a selected subset of a population chosen by some process           usually with the objective of investigating particular properties of the parent           population".<br />           <a href="#_ednref7" name="_edn7" title="">7</a> According to Gill (1999: 648), "the current, nearly omnipresent, approach to     ]]></body>
+<body><![CDATA[      hypothesis testing in all of the social sciences is a synthesis of the Fisher           test of significance and the Neyman-Pearson hypothesis test". For a historical           overview of statistical significance see Huberty (1993). For an introduction to           the statistical significance debate see Carver (1978; 1993), Henkel (1976), Shaver           (1992), Daniel (1998), Sawilowsky (2003), Gill (1999), Gelman and Stern (2006)           and Gelman and Weakliem (2009). <br />           <a href="#_ednref8" name="_edn8" title="">8</a> Van Evera (1997: 09)           defines a hypothesis as "A conjectured relationship between two phenomena. Like           Laws, hypothesis can be of two types: causal (I surmise that A causes B) and           noncausal (I surmise that A and B are caused by C; hence A and B are correlated     ]]></body>
+<body><![CDATA[      but neither causes the other)."<br />           <a href="#_ednref9" name="_edn9" title="">9</a> The hypothesis           formulation is fundamental in any empirical research. For this reason, it           should be clearly stated at the beginning of the study. <br />           10 </a> Regarding <a href="/img/revistas/bpsr/v7n1/a02fig01.jpg">figure 1</a>, Gill (1999) argues that the test procedure assigns one of           two decisions (D<sub>0</sub>, D<sub>1</sub>) to all possible values in the           sample space of T, which correspond to supporting either H<sub>o</sub> or H<sub>1</sub> respectively. The <i>p value</i> (associated probability) is equal to the area           in the tail (or tails) of the assumed distribution under H<sub>o,</sub> which           starts at the point designated by the placement of T on the horizontal axis and           continues to infinity. If a predetermined &alpha; level has been     ]]></body>
+<body><![CDATA[      specified, then H<sub>o </sub>is rejected for <i>p value</i>s less than &alpha;,           otherwise the <i>p value</i> itself is reported. Thus decision D<sub>1</sub> is           made if the test statistic is sufficiently atypical given the distribution           under the H<sub>o</sub> (Gill, 1999).<br />           <a href="#_ednref11" name="_edn11" title="">11</a> The description of           the variables, basic descriptive statistics and distributions are presented in           the appendix.<br />           <a href="#_ednref12" name="_edn12" title="">12</a> Too see this example           in a cartoon see Youtube (2010).<br />           <a href="#_ednref13" name="_edn13" title="">13</a> A     ]]></body>
+<body><![CDATA[      Type I error is the rejection of a true null hypothesis. Simply put, it is the           chance of the test showing statistical significance when it is not present           (false positive). The Type II error is the probability of failing to reject the           null hypothesis when you should reject it (false positive) (Hair et al., 2006:           10). A more intuitive way of thinking about type I and type II errors is the           following: imagine a man in a courtroom. He is not guilty (H<sub>o</sub>). If           he is convicted, the jury mistakenly rejected a true null hypothesis (type I           error). Contrary, if the man is guilty (H<sub>o</sub>) and the jury let him           free, it means that they failed to reject a false null hypothesis (type II           error). More details about this example can be found at Rogers (n.d).<br />     ]]></body>
+<body><![CDATA[      <a href="#_ednref14" name="_edn14" title="">14</a> Everitt and Skrondal           (2010: 280) define misspecification as "a term applied to describe assumed           statistical models which are incorrect for one of a variety of reasons, for           example using the wrong probability distribution, omitting important covariates,           or using the wrong link function. Such errors can produce inconsistent or           inefficient estimates of parameters".<br />           <a href="#_ednref15" name="_edn15" title="">15</a> "a           probability sample is a sample chosen by chance. We must know what samples are           possible and what chance, or probability, each possible sample has (...) the use           of chance to select the sample is the essential principle of statistical     ]]></body>
+<body><![CDATA[      sampling" (Moore and McCabe, 2006: 250-251). <br />           <a href="#_ednref16" name="_edn16" title="">16</a> Draw a random sample           of size n from any population with mean &#181; and standard deviation &#963;. When n           is large, the sampling distribution of the sample mean is approximately normal.           Then, all properties of normal distribution apply to drawing inferences about           population using sample data. According to Moore and McCabe (2006: 398), "the           central limit theorem allows us to use normal probability calculations to           answer questions about sample means from many observations even when the           population distribution is not normal".<br />           <a href="#_ednref17" name="_edn17" title="">17</a> By unbiased we mean     ]]></body>
+<body><![CDATA[      that the sampling distribution of the statistic is equal to the true value of the           parameter we are interested in. By efficient we mean that the estimated           statistic has the lowest variability of all unbiased estimates.&nbsp; <br />           <a href="#_ednref18" name="_edn18" title="">18</a> The probability           distribution of a statistic calculated from a random sample of a particular           size. For example, the sampling distribution of the arithmetic mean of samples           of size n, taken from a normal distribution with mean &#181; and standard deviation           &#963;,           is a normal distribution also with mean but with standard deviation  (Everitt, 2006: 350).<br />           <a href="#_ednref19" name="_edn19" title="">19</a> The biased sample is     ]]></body>
+<body><![CDATA[      an intentional selection of the 20 countries with the highest Gross Domestic           Product (GDP).<br />           <a href="#_ednref20" name="_edn20" title="">20</a> There are two main           types of sample: the probabilistic sample and the non-probabilistic sample.           Non-probability sampling is a sampling technique where the samples are gathered           in a process that does not give all the individuals in the population an equal           chance of being selected. According to Davidson (2006: 15), "forms of sampling           that do not adhere to probability methods. Probability methods choose samples           using random selection and every member of the population has an equal chance           of selection. Some types of nonrandom sampling still aim to achieve a degree of     ]]></body>
+<body><![CDATA[      representativeness without using random methods. Several different techniques           are associated with this approach, for example accidental or convenience           sampling; snowball sampling; volunteer sampling; quota sampling, and           theoretical sampling. Convenience samples are also known as accidental or           opportunity samples. The problem with all of these types of samples is that           there is no evidence that they are representative of the populations to which           the researchers wish to generalize". Simple Random Sampling: A simple random           sample (SRS) of size n is produced by a scheme which ensures that each subgroup           of the population of size n has an equal probability of being chosen as the           sample. Stratified Random Sampling: Divide the population into     ]]></body>
+<body><![CDATA[      "strata". There can be any number of these. Then choose a simple           random sample from each stratum. Combine those into the overall sample; this is           a stratified random sample. (Example: Church A has 600 women and 400 men as           members. One way to get a stratified random sample size of 30 is to take an SRS           of 18 women from the 600 women and another SRS of 12 men from the 400 men.)           Multi-Stage Sampling: Sometimes the population is too large and scattered for           it to be practical to make a list of the entire population from which to draw           an SRS. For instance, when a polling organization samples US voters, they do           not do an SRS. Since voter lists are compiled by counties, they might first do           a sample of the counties and then sample within the selected counties. This     ]]></body>
+<body><![CDATA[      illustrates two stages. In some instances, they might use even more stages. At           each stage, they might do a stratified random sample on sex, race, income           level, or any other useful variable on which they could get information before           sampling. See: <a href="http://www.ma.utexas.edu/users/parker/sampling/srs.htm" target="_blank">http://www.ma.utexas.edu/users/parker/sampling/srs.htm</a>.           Since sampling procedures design is not the focus of this paper, we restrict           ourselves to discussing the role of the p value statistic for probabilistic           samples. To get more information about sampling           see <a     href="http://www.sagepub.com/upm-data/40803_5.pdf" target="_blank">http://www.sagepub.com/upm-data/40803_5.pdf</a><br />           <a href="#_ednref21" name="_edn21" title="">21</a> The full description     ]]></body>
+<body><![CDATA[      of the original simulation is available at <a     href="http://www.ats.ucla.edu/stat/stata/dae/fpower.htm" target="_blank">http://www.ats.ucla.edu/stat/stata/dae/fpower.htm</a><br />           <a href="#_ednref22" name="_edn22" title="">22</a> Power analysis is           the name given to the process of determining the sample size for a research           study. The technical definition of power is that it is the probability of           detecting a "true" effect when it exists.<br />           <a href="#_ednref23" name="_edn23" title="">23</a> According to Everitt           and Skrondal (2010: 148), "most commonly the difference between the control           group and experimental group population means of a response variable divided by           the assumed common population standard deviation. Estimated by the difference     ]]></body>
+<body><![CDATA[      of the sample means in the two groups divided by a pooled estimate of the           assumed common standard deviation".<br />           <a href="#_ednref24" name="_edn24" title="">24</a> According to Everitt           and Skrondal (2010: 154) "The process of providing a numerical value for a           population parameter on the basis of information collected from a sample. If a           single figure is calculated for the unknown parameter the process is called           point estimation. If an interval is calculated which is likely to contain the           parameter, then the procedure is called interval estimation".</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>APPENDIX 1</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">According to King, Keohane and Verba   (1994: 27), "scholars should always record the exact methods, rules, and   procedures used to gather information and draw inferences so that another   researcher can do the same thing and draw the same conclusion". The main   purpose of this section is to describe how the variables were measured.</font></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02tab01.jpg">Table 1</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02tab02.jpg">Table 2</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02fig12.jpg">Figure 12</a></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/bpsr/v7n1/a02fig13.jpg">Figure 13</a></font></p>     <p>&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANSCOMBE]]></surname>
+<given-names><![CDATA[F. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Graphs in Statistical Analysis]]></article-title>
+<source><![CDATA[The American Statistician]]></source>
+<year>1973</year>
+<volume>27</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>17-21</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRO]]></surname>
+<given-names><![CDATA[Robert J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[Jong-Wha]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[International Data on Educational Attainment: Updates and Implications]]></article-title>
+<source><![CDATA[Working Paper]]></source>
+<year>2000</year>
+<numero>42</numero>
+<issue>42</issue>
+<publisher-name><![CDATA[Harvard University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BEGG]]></surname>
+<given-names><![CDATA[Collin B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERLIN]]></surname>
+<given-names><![CDATA[Jesse A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Publication Bias: A Problem in Interpreting Medical Data]]></article-title>
+<source><![CDATA[Journal of the Royal Statistical Society]]></source>
+<year>1988</year>
+<volume>151</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>419-463</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVER]]></surname>
+<given-names><![CDATA[Ronald P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The case against statistical significance testing]]></article-title>
+<source><![CDATA[Harvard Educational Review]]></source>
+<year>1978</year>
+<volume>48</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>378-399</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVER]]></surname>
+<given-names><![CDATA[Ronald P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Case Against Statistical Significance Testing, Revisited]]></article-title>
+<source><![CDATA[The Journal of Experimental Education]]></source>
+<year>1993</year>
+<volume>61</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>287-292</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COHEN]]></surname>
+<given-names><![CDATA[Jacob]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Statistical Power Analysis for the Behavioral Sciences]]></source>
+<year>1988</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Mahwah^eNJ NJ]]></publisher-loc>
+<publisher-name><![CDATA[Lawrence Erlbaum Associates]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COURSOUL]]></surname>
+<given-names><![CDATA[Allan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WAGNER]]></surname>
+<given-names><![CDATA[Edwin E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effect of Positive Findings on Submission and Acceptance Rates: A Note on Meta-Analysis Bias]]></article-title>
+<source><![CDATA[Professional Psychology]]></source>
+<year>1986</year>
+<volume>17</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>136-137</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CRAMER]]></surname>
+<given-names><![CDATA[Duncan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOWITT]]></surname>
+<given-names><![CDATA[Dennis L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The SAGE Dictionary of Statistics: A Practical Resource for Students in the Social Sciences]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[SAGE Publications Ltd.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DANIEL]]></surname>
+<given-names><![CDATA[Larry G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical significance testing: A historical overview of misuse and misinterpretation with implications for the editorial policies of educational journals]]></article-title>
+<source><![CDATA[Research in the Schools]]></source>
+<year>1998</year>
+<volume>5</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>23-32</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DAVIDSON]]></surname>
+<given-names><![CDATA[Julia]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Sage Dictonary of Social Research Methods]]></source>
+<year>2006</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DE LONG]]></surname>
+<given-names><![CDATA[J. Bradford]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LANG]]></surname>
+<given-names><![CDATA[Kevin]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Are All Economic Hypotheses False?]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>1992</year>
+<volume>100</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>1257-1272</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EVERITT]]></surname>
+<given-names><![CDATA[Brian S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Cambridge Dictionary of Statistics]]></source>
+<year>2006</year>
+<edition>3</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EVERITT]]></surname>
+<given-names><![CDATA[Brian S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SKRONDAL]]></surname>
+<given-names><![CDATA[Anders]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Cambridge Dictionary of Statistics]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FISHER]]></surname>
+<given-names><![CDATA[Ronald A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical Tests of Agreement Between Observation and Hipothesys]]></article-title>
+<source><![CDATA[Economica]]></source>
+<year>1923</year>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>139-147</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FISHER]]></surname>
+<given-names><![CDATA[Ronald A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Theory of Statistical Estimation]]></article-title>
+<source><![CDATA[Mathematical Proceedings of the Cambridge Philosophical Society]]></source>
+<year>1925</year>
+<volume>22</volume>
+<page-range>700-725</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GELMAN]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARLIN]]></surname>
+<given-names><![CDATA[John B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STERN]]></surname>
+<given-names><![CDATA[Hal S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBIN]]></surname>
+<given-names><![CDATA[Donald B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bayesian Data Analysis]]></source>
+<year>2003</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman and HallCRC Texts in Statistical Science]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GELMAN]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STERN]]></surname>
+<given-names><![CDATA[Hal.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Difference Between "Significant" and "Not Significant" is not Itself Statistically Significant]]></article-title>
+<source><![CDATA[The American Statistician]]></source>
+<year>2006</year>
+<volume>60</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>328-331</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GELMAN]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bayesian statistics]]></source>
+<year>2007</year>
+<publisher-name><![CDATA[Basel Statistical Society]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GELMAN]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEAKLIEM]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Of Beauty, Sex and Power]]></article-title>
+<source><![CDATA[American Scientist]]></source>
+<year>2009</year>
+<volume>97</volume>
+<page-range>310-317</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GELMAN]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The inevitable problems with statistical significance and 95% intervals]]></article-title>
+<source><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GELMAN]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[What do statistical p-values mean when the sample = the population?]]></article-title>
+<source><![CDATA[Statistical Modeling, Causal Inference, and Social Science]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GERBER]]></surname>
+<given-names><![CDATA[Alan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GREEN]]></surname>
+<given-names><![CDATA[Donald P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NICKERSON]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Testing for Publication Bias in Political Science]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2001</year>
+<volume>9</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>385-392</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GILL]]></surname>
+<given-names><![CDATA[Jeff]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Insignificance of Null Hypothesis Significance Testing]]></article-title>
+<source><![CDATA[Political Research Quarterly]]></source>
+<year>1999</year>
+<volume>52</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>647-674</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GILL]]></surname>
+<given-names><![CDATA[Jeff]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Bayesian Methods: A Social and Behavioral Sciences Approach]]></source>
+<year>2007</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman and HallCRC Statistics in the Social and Behavioral Sciences]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENWALD]]></surname>
+<given-names><![CDATA[Anthony G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Consequences of Prejudice Against the Null Hypothesis]]></article-title>
+<source><![CDATA[Psychological Bulletin]]></source>
+<year>1975</year>
+<volume>82</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-12</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAIR]]></surname>
+<given-names><![CDATA[Joseph F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLACK]]></surname>
+<given-names><![CDATA[William C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BABIN]]></surname>
+<given-names><![CDATA[Barry J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANDERSON]]></surname>
+<given-names><![CDATA[Rohph E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TATHAM]]></surname>
+<given-names><![CDATA[Ronald L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multivariate Data Analysis]]></source>
+<year>2006</year>
+<edition>6</edition>
+<publisher-loc><![CDATA[Upper Saddle River^eNJ NJ]]></publisher-loc>
+<publisher-name><![CDATA[Pearson Prentice Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HENKEL]]></surname>
+<given-names><![CDATA[Ramon E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tests of significance]]></source>
+<year>1976</year>
+<publisher-loc><![CDATA[Newbury Park^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HUBERTY]]></surname>
+<given-names><![CDATA[Carl J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Historical origins of statistical testing practices: The treatment of Fisher versus Neyman-Pearson views in textbooks]]></article-title>
+<source><![CDATA[The Journal of Experimental Education]]></source>
+<year>1993</year>
+<volume>61</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>317-333</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JORDAN]]></surname>
+<given-names><![CDATA[Michael I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bayesian or Frequentist, Which are You?]]></source>
+<year>2009</year>
+<publisher-name><![CDATA[Department of Electrical Engineering and Computer Sciences, University of California - Berkeley]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KING]]></surname>
+<given-names><![CDATA[Gary]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KEOHANE]]></surname>
+<given-names><![CDATA[Robert]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VERBA]]></surname>
+<given-names><![CDATA[Sidney]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Designing Social Inquiry: Scientific Inference in Qualitative Research]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Princeton^eN.J. N.J.]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUSKIN]]></surname>
+<given-names><![CDATA[Robert C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Abusus Non Tollit Usum: Standardized Coefficients, Correlations, and R²s]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>1991</year>
+<volume>35</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1032-1046</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAHONEY]]></surname>
+<given-names><![CDATA[Michael J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Publication Prejudices: An Experimental Study of Confirmatory Bias in the Peer Review System]]></article-title>
+<source><![CDATA[Cognitive Therapy Research]]></source>
+<year>1977</year>
+<volume>1</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>161-175</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McLEAN]]></surname>
+<given-names><![CDATA[James E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ERNEST]]></surname>
+<given-names><![CDATA[James M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Role of Statistical Significance Testing in Educational Research]]></article-title>
+<source><![CDATA[Research in the Schools]]></source>
+<year>1998</year>
+<volume>5</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>15-22</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOORE]]></surname>
+<given-names><![CDATA[David S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McCABE]]></surname>
+<given-names><![CDATA[George P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to the Practice of Statistics]]></source>
+<year>2006</year>
+<edition>5</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Freeman]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROGERS]]></surname>
+<given-names><![CDATA[Tom]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Type I and Type II Errors: Making Mistakes in the Justice System]]></article-title>
+<source><![CDATA[Amazing Applications of Probability and Statistics]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAWILOWSKY]]></surname>
+<given-names><![CDATA[Shlomo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Deconstructing Arguments From The Case Against Hypothesis Testing]]></article-title>
+<source><![CDATA[Journal of Modern Applied Statistical Methods]]></source>
+<year>2003</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>467-474</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCARGLE]]></surname>
+<given-names><![CDATA[Jeffrey D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Publication Bias: The "File-Drawer Problem" in Scientific Inference]]></article-title>
+<source><![CDATA[The Journal of Scientific Exploration,]]></source>
+<year>2000</year>
+<volume>14</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>91-106</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SIGELMAN]]></surname>
+<given-names><![CDATA[Lee]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Publication Bias Reconsidered]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>1999</year>
+<volume>8</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>201-210</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SIMES]]></surname>
+<given-names><![CDATA[John R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Publication Bias: The Case for an International Registry of Clinical Trials]]></article-title>
+<source><![CDATA[Journal of Clinical Oncology]]></source>
+<year>1986</year>
+<volume>4</volume>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>1529-1541</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAVER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[What significance testing is, and what it isn't.]]></source>
+<year>1992</year>
+<conf-name><![CDATA[ Annual Meeting of the American Educational Research Association]]></conf-name>
+<conf-loc>San Francisco CA</conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[T. M. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the validity of inferences from Non-random Samples]]></article-title>
+<source><![CDATA[Journal of the Royal Statistical Society]]></source>
+<year>1983</year>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<collab>THE COCHRANE COLLABORATION</collab>
+<article-title xml:lang="en"><![CDATA[What is publication bias?]]></article-title>
+<source><![CDATA[The Cochrane Collaboration open learning material]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VAN EVERA]]></surname>
+<given-names><![CDATA[Stephen]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Guide to Methods for Students of Political Science]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Ithaca^eNY NY]]></publisher-loc>
+<publisher-name><![CDATA[Cornell University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="">
+<source><![CDATA[What the p-value?]]></source>
+<year>2010</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

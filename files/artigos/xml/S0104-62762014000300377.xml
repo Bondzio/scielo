@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0104-6276</journal-id>
+<journal-title><![CDATA[Opinião Pública]]></journal-title>
+<abbrev-journal-title><![CDATA[Opin. Publica]]></abbrev-journal-title>
+<issn>0104-6276</issn>
+<publisher>
+<publisher-name><![CDATA[ Centro de Estudos de Opinião Pública da Universidade Estadual de Campinas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0104-62762014000300377</article-id>
+<article-id pub-id-type="doi">10.1590/1807-01912014203377</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[A identificação de enquadramentos através da análise de correspondências: um modelo analítico aplicado à controvérsia das ações afirmativas raciais na imprensa]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Campos]]></surname>
+<given-names><![CDATA[Luiz Augusto]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Estadual do Rio de Janeiro Instituto de Estudos Sociais e Políticos Grupo de Estudos Multidisciplinares da Ação Afirmativa (Gemaa)]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>20</volume>
+<numero>3</numero>
+<fpage>377</fpage>
+<lpage>406</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-62762014000300377&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0104-62762014000300377&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0104-62762014000300377&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Embora o conceito de enquadramento venha sendo intensivamente utilizado nos estudos de mídia, parece unânime a opinião de que seu emprego ainda é fluido demais para fundar um paradigma teórico. Contribui para isso a informalidade metodológica característica das rotinas tradicionalmente usadas para a identificação de enquadramentos. Diante dessa lacuna, este artigo propõe um protocolo para a identificação de enquadramentos midiáticos a partir da combinação de Programas Computacionais de Codificação Assistida de Dados Qualitativos (Caqdas, na sigla anglófona) com a técnica da Análise de Correspondências. Tal combinação permite explicitar os critérios que validam uma dada tipologia de enquadramentos sem, contudo, automatizar todo o processo. Para exemplificar os ganhos heurísticos dessa técnica, ela é aplicada a um corpusde textos sobre as ações afirmativas raciais nas universidades brasileiras publicados nos dois principais jornais brasileiros.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The concept of framing is intensively used in media studies. However, it is usually employed in a fractured way. In despite of its semantics inaccuracy, also contributes to these problems the lack of formal routines to identify media-frames. This article proposes a routine to framing identification based on the combination between Computer-Assisted Qualitative Data Analysis Software (Caqdas) and Correspondence Analysis techniques. Such mixed method could clarify the formalization of media-frames without mechanizing the full process. To exemplify the usefulness of this technique, it's applied to a corpusof journalistic texts about the affirmative action in Brazil.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[enquadramento]]></kwd>
+<kwd lng="pt"><![CDATA[Caqdas]]></kwd>
+<kwd lng="pt"><![CDATA[imprensa]]></kwd>
+<kwd lng="pt"><![CDATA[análise de correspondências]]></kwd>
+<kwd lng="pt"><![CDATA[ações afirmativas]]></kwd>
+<kwd lng="en"><![CDATA[framing]]></kwd>
+<kwd lng="en"><![CDATA[Caqdas]]></kwd>
+<kwd lng="en"><![CDATA[press]]></kwd>
+<kwd lng="en"><![CDATA[correspondence analysis]]></kwd>
+<kwd lng="en"><![CDATA[affirmative action]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["A Conferência de Durban contra o Racismo e a responsabilidade de todos"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Política Internacional]]></source>
+<year>2002</year>
+<volume>vol. 45</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 198-223</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AUSTIN]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[How to do things with words]]></source>
+<year>1962</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAKER]]></surname>
+<given-names><![CDATA[C. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Implications of rival visions of electoral campaigns]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BENNETT]]></surname>
+<given-names><![CDATA[W. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ENTMAN]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mediated politics:communication in the future of democracy]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BATESON]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Steps to an ecology of mind:collected essays in anthropology, psychiatry, evolution, and epistemology]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[Northvale ]]></publisher-loc>
+<publisher-name><![CDATA[Aronson]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BENZÉCRI]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Correspondence analysis handbook statistics]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Marcel Dekker Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOURDIEU]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A distinção:crítica social do julgamento]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Zouk e Edusp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAPPELLA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JAMIESON]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spiral of cynicism]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["A theory of framing and opinion formation in competitive elite environments"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHONG]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DRUCKMAN]]></surname>
+<given-names><![CDATA[J. N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Communication]]></source>
+<year>2007</year>
+<volume>vol. 57</volume>
+<numero>n° 1</numero>
+<issue>n° 1</issue>
+<page-range>p. 99-118</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Framing: toward clarification of a fractured paradigm"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENTMAN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Communication]]></source>
+<year>1993</year>
+<volume>vol. 43</volume>
+<numero>n° 4</numero>
+<issue>n° 4</issue>
+<page-range>p. 51-8</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GAMSON]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Talking politics]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GAMSON]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Foreword]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[REESE]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GANDY JR.]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Framing public life:perspectives on media and our understanding of the social world]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Mahwah ]]></publisher-loc>
+<publisher-name><![CDATA[Lawrence Erlbaum Associates Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["The changing culture of affirmative action"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GAMSON]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MODIGLIANI]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Research in Political Sociology]]></source>
+<year>1987</year>
+<numero>n° 3</numero>
+<issue>n° 3</issue>
+<page-range>p. 137-77</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GANDy JR.]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Epilogue - Framing at the horizon: a retrospective assessment]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[REESE]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GANDY JR.]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Framing public life:perspectives on media and our understanding of the social world]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Mahwah ]]></publisher-loc>
+<publisher-name><![CDATA[Lawrence Erlbaum Associates Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GITLIN]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The whole world is watching:mass media in the making &amp; unmaking of the new left]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Berkeley ]]></publisher-loc>
+<publisher-name><![CDATA[University of California Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOFFMAN]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Frame analysis:an essay on the organization of experience]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[Northeastern University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENACRE]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Correspondence analysis in practice]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Boca Raton ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman & Hall/CRC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Decline of a paradigm? Bias and objectivity in news media studies"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HACKETT]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Critical Studies in Mass Communication]]></source>
+<year>1984</year>
+<volume>vol. 1</volume>
+<numero>n° 3</numero>
+<issue>n° 3</issue>
+<page-range>p. 229-59</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HALLIN]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[We keep America on top of the world:television journalism and the public sphere]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HALLIN]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANCINI]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparing media systems:three models of media and politics]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<article-title xml:lang="en"><![CDATA[Routinizing frame analysis]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KOENIG]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[ISA, Research Committee on Logic and Methodology RC33]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Leverkusen ]]></publisher-loc>
+<publisher-name><![CDATA[Leske & Budrich]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LASSwELL]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Politics:who gets what, when, how]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Literary Licensing]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAZARSFELD]]></surname>
+<given-names><![CDATA[P. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERELSON]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GAUDET]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The people's choice:how the voter makes up his mind in a presidential campaign]]></source>
+<year>1944</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Duell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Debates públicos na mídia: enquadramentos e troca pública de razões"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAIA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Ciência Política]]></source>
+<year>2009</year>
+<numero>n°2</numero>
+<issue>n°2</issue>
+<page-range>p. 303-40</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["The agenda-setting function of mass media"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCCOMBS]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHAW]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Public Opinion Quarterly]]></source>
+<year>1972</year>
+<volume>vol. 36</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 176-87</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Enquadramento: diferentes operacionalizações analíticas de um conceito"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENDONçA]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SIMõES]]></surname>
+<given-names><![CDATA[P. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Ciências Sociais]]></source>
+<year>2012</year>
+<volume>vol. 27</volume>
+<page-range>p. 187-201</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Um raio em céu azul: reflexões sobre a política de cotas e a identidade nacional brasileira"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudos Afro-Asiáticos]]></source>
+<year>2003</year>
+<volume>vol. 25</volume>
+<numero>n° 3</numero>
+<issue>n° 3</issue>
+<page-range>p. 463-82</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PORTO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Enquadramentos da mídia e política]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[RUBIM]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comunicação e política:conceitos e abordagens]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[Edufba e Ed. Unesp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REESE]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Framing public life: a bridging model for media research]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[REESE]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GANDY JR.]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Framing public life:perspectives on media and our understanding of the social world]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Mahwah ]]></publisher-loc>
+<publisher-name><![CDATA[Lawrence Erlbaum Associates Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Framing as a theory of media effects"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHEUFELE]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Communication]]></source>
+<year>1999</year>
+<volume>vol. 49</volume>
+<numero>n. 1</numero>
+<issue>n. 1</issue>
+<page-range>p. 103-22</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Agenda-setting, priming, and framing revisited: another look at cognitive effects of political communication"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHEUFELE]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mass Communication and Society]]></source>
+<year>2000</year>
+<volume>vol. 3</volume>
+<numero>n° 2-3</numero>
+<issue>n° 2-3</issue>
+<page-range>p. 297-316</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TANKARD JR.]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The empirical approach to the study of media framing]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[REESE]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GANDY JR.]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Framing public life:perspectives on media and our understanding of the social world]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Mahwah ]]></publisher-loc>
+<publisher-name><![CDATA[Lawrence Erlbaum Associates Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Objectivity as strategic ritual: an examination of newsmen's notions of objectivity"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TUCHMAN]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The American Journal of Sociology]]></source>
+<year>1972</year>
+<volume>vol. 77</volume>
+<numero>n° 4</numero>
+<issue>n° 4</issue>
+<page-range>p. 660-79</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Making news by doing work: routinizing the unexpected"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TUCHMAN]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Sociology]]></source>
+<year>1973</year>
+<volume>vol. 79</volume>
+<numero>n° 1</numero>
+<issue>n° 1</issue>
+<page-range>p. 110-31</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TUCHMAN]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Making news:a study in the construction of reality]]></source>
+<year>1978</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[The Free Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["The framing of decisions and the psychology of choice"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TVERSKY]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KAHNEMAN]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Science]]></source>
+<year>1981</year>
+<numero>n° 211</numero>
+<issue>n° 211</issue>
+<page-range>p. 453-8</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["News framing: theory and typology"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VREESE]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Information Design Journal + Document Design]]></source>
+<year>2005</year>
+<volume>vol. 13</volume>
+<numero>n° 1</numero>
+<issue>n° 1</issue>
+<page-range>p. 51-62</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

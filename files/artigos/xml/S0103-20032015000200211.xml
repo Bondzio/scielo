@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032015000200211</article-id>
+<article-id pub-id-type="doi">10.1590/1234-56781806-9479005302002</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Volatilidade dos Retornos de Commodities Agropecuárias Brasileiras: um teste utilizando o modelo APARCH]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Freitas]]></surname>
+<given-names><![CDATA[Clailton Ataídes de]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Sáfadi]]></surname>
+<given-names><![CDATA[Thelma]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal de Santa Maria  ]]></institution>
+<addr-line><![CDATA[Santa Maria Rio Grande do Sul]]></addr-line>
+<country>BR</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade Federal de Lavras  ]]></institution>
+<addr-line><![CDATA[Lavras Minas Gerais]]></addr-line>
+<country>BR</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2015</year>
+</pub-date>
+<volume>53</volume>
+<numero>2</numero>
+<fpage>211</fpage>
+<lpage>228</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032015000200211&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032015000200211&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032015000200211&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo:Este estudo analisou (2005-2013) a persistência, a alavancagem e a variância incondicional dos retornos de commodities agropecuárias3. Assim, recorreu-se ao modelo denominado APARCH. As estimativas apontaram que a alavancagem não foi confirmada nessas séries; a variância condicional foi assimétrica nos retornos do etanol, do café, do algodão, do boi gordo e do bezerro; as volatilidades mais intensas, embora com convergência às suas médias históricas, ocorreram nos retornos do açúcar, da soja, do café, do trigo, do frango e do boi gordo; as maiores volatilidades incondicionais foram dos retornos do etanol, do frango, do algodão, da soja e do açúcar.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract:This research analyzed (2005-2013) persistence, leverage and unconditional variance Agricultural-commodities4 return. Therefore, we resorted to APARCH model. Estimates pointed out that leverage was not confirmed in these series; conditional variance was asymmetric in ethanol, coffee, cotton, cattle and calf's return; the most intense volatilities, although converging to its historical averages, happened to sugar, soybean, coffee, wheat, poultry and cattle; the largest unconditional volatilities were on ethanol, poultry, cotton, soybean and sugar returns.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Efeito alavancagem]]></kwd>
+<kwd lng="pt"><![CDATA[Modelo da família ARCH]]></kwd>
+<kwd lng="pt"><![CDATA[Séries agropecuárias]]></kwd>
+<kwd lng="pt"><![CDATA[Potência assimétrica.]]></kwd>
+<kwd lng="en"><![CDATA[Leverage effect]]></kwd>
+<kwd lng="en"><![CDATA[ARCH model]]></kwd>
+<kwd lng="en"><![CDATA[Agriculture series]]></kwd>
+<kwd lng="en"><![CDATA[Asymmetric power.]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Volatility of main stock indexes: similarities and differences]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALENCAR]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SÁFADI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Journal of Statistics and Economics]]></source>
+<year>2012</year>
+<volume>9</volume>
+<numero>A12</numero>
+<issue>A12</issue>
+<page-range>1-12</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOLLERSLEV]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Glossary to ARCH (GARCH)]]></source>
+<year>2009</year>
+<page-range>01-41</page-range><publisher-loc><![CDATA[North Caroline, United States ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUENO]]></surname>
+<given-names><![CDATA[R. L. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria de séries temporais]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Cengage Learning]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Análise da volatilidade de preços de produtos agropecuários no Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[K. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Agronegócio]]></source>
+<year>2007</year>
+<volume>5</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>303-28</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Agroenergia: a questão da volatilidade de preços e o efeito alavancagem dos produtos agrícolas]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[K. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIACENTI]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA JUNIOR]]></surname>
+<given-names><![CDATA[A.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de PolíticaAgrícola]]></source>
+<year>2007</year>
+<volume>16</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>34-48</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Modeling of market volatility with APARCH model]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DING]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Project Report]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Uppsala University Department of Mathematics, Sweden, Uppsaka ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A long memory property of stock market returns and a new model]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DING]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Empirical Finance]]></source>
+<year>1993</year>
+<volume>1</volume>
+<page-range>83-106</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENDERS]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied econometric time series]]></source>
+<year>2010</year>
+<edition>3. ed</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons, Inc]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Autoregressive conditional heteroscedasticity with estimates of the variance of United Kingdom inflation]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econométrica]]></source>
+<year>1982</year>
+<volume>50</volume>
+<page-range>987-1007</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAMOUNIER]]></surname>
+<given-names><![CDATA[W. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comportamento dos preços no mercado "spot" de café do Brasil: análise nos domínios do tempo e da freqüência]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Viçosa, MG ]]></publisher-loc>
+<publisher-name><![CDATA[Programa de Pós-Graduação em Economia Aplicada, Universidade Federal de Viçosa]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<collab>MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO - MAPA</collab>
+<source><![CDATA[Dados básicos de economia agrícola]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A volatilidade do preço do café: um estudo dos modelos heterocedásticos]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORAES]]></surname>
+<given-names><![CDATA[L. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[C. A. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Inovação Tecnológica e Propriedade Intelectual: Desafios da Engenharia de Produção na Consolidação do Brasil no Cenário Econômico Mundial]]></source>
+<year>2011</year>
+<conf-name><![CDATA[ ENCONTRO NACIONAL DE ENGENHARIA DE PRODUÇÃO, 31]]></conf-name>
+<conf-date>2011</conf-date>
+<conf-loc>Belo Horizonte </conf-loc>
+<publisher-loc><![CDATA[Belo Horizonte MG ]]></publisher-loc>
+<publisher-name><![CDATA[ENEGEP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORETTIN]]></surname>
+<given-names><![CDATA[P. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOLOI]]></surname>
+<given-names><![CDATA[C. M. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de séries temporais]]></source>
+<year>2006</year>
+<edition>2. ed</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[EgardBlucher]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Volatilidade condicional dos retornos de commodities agropecuárias brasileiras]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[V. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRAGA]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENDONÇA]]></surname>
+<given-names><![CDATA[T. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia]]></source>
+<year>2010</year>
+<volume>36</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>73-94</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[C. A. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORAES]]></surname>
+<given-names><![CDATA[L. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise da dinâmica da volatilidade dos preços à vista do café arábica: aplicação dos modelos heteroscedásticos]]></source>
+<year>2012</year>
+<conf-name><![CDATA[ CONFERÊNCIA EM GESTÃO DE RISCO E COMERCIALIZAÇÃO DE COMMODITIES, 2]]></conf-name>
+<conf-date>2012</conf-date>
+<conf-loc>São Paulo </conf-loc>
+<publisher-loc><![CDATA[São Paulo SP ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Educacional BM&FBOVESPA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Uma análise empírica da volatilidade do retorno de commodities agrícolas utilizando modelos ARCH: os casos do café e da soja]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[W. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SÁFADI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTRO JÚNIOR]]></surname>
+<given-names><![CDATA[L. G. de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2005</year>
+<volume>43</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>119-34</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[C. A. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise da volatilidade dos preços de boi gordo no Estado de São Paulo: uma aplicação dos modelos GARCH]]></source>
+<year>2008</year>
+<conf-name><![CDATA[ ANAIS DO CONGRESSO DA SOCIEDADE BRASILEIRA DE ECONOMIA E SOCIOLOGIA RURAL (SOBER), 46]]></conf-name>
+<conf-date>2008</conf-date>
+<conf-loc>Rio Branco </conf-loc>
+<publisher-loc><![CDATA[Rio Branco AC ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[S. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dinâmica da volatilidade do retorno das principais commodities brasileiras: uma abordagem dos modelos ARCH]]></source>
+<year>2008</year>
+<conf-name><![CDATA[ ANAIS DO CONGRESSO DA SOCIEDADE BRASILEIRA DE ECONOMIA E SOCIOLOGIA RURAL (SOBER), 46]]></conf-name>
+<conf-date>2008</conf-date>
+<conf-loc>Rio Branco, Brasil </conf-loc>
+<publisher-loc><![CDATA[Rio Branco AC ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Volatilidade e assimetria de choques no mercado Agropecuário brasileiro um uso dos modelos da família GARCH]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAITH]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KAMITANI]]></surname>
+<given-names><![CDATA[T. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tecnologia e Ciência Agropecuária]]></source>
+<year>2012</year>
+<volume>6</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-07</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modelos estruturais para previsão de séries temporais: abordagens clássica e bayesiana]]></source>
+<year>1989</year>
+<conf-name><![CDATA[ COLÓQUIO BRASILEIRO DE MATEMÁTICA, 17]]></conf-name>
+<conf-date>1989</conf-date>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Rio de Janeiro, RJ ]]></publisher-loc>
+<publisher-name><![CDATA[IMPA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Volatility of primary commodity prices: some evidence from agricultural exports in SubSaharan Africa]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SWARAY]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Discussion paper in economics]]></source>
+<year>2002</year>
+<numero>6/2002</numero>
+<issue>6/2002</issue>
+<publisher-loc><![CDATA[York, England ]]></publisher-loc>
+<publisher-name><![CDATA[Department of Economics and Related Studies, University of York]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modeling financial time series]]></source>
+<year>2008</year>
+<edition>2. ed</edition>
+<publisher-loc><![CDATA[Singapore ]]></publisher-loc>
+<publisher-name><![CDATA[World Scientific Printers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Financial stylized facts and the Taylor-Effect in Stochastic Volatility Models]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VEIGA]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economics Bulletin]]></source>
+<year>2009</year>
+<volume>29</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>2-11</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

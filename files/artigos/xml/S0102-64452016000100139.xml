@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0102-6445</journal-id>
+<journal-title><![CDATA[Lua Nova: Revista de Cultura e Política]]></journal-title>
+<abbrev-journal-title><![CDATA[Lua Nova]]></abbrev-journal-title>
+<issn>0102-6445</issn>
+<publisher>
+<publisher-name><![CDATA[CEDEC]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0102-64452016000100139</article-id>
+<article-id pub-id-type="doi">10.1590/0102-6445139-171/97</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[PODER E DIREITO EM FOUCAULT: RELENDO VIGIAR E PUNIR 40 ANOS DEPOIS]]></article-title>
+<article-title xml:lang="en"><![CDATA[POWER AND LAW IN FOUCAULT: RE-READING DISCIPLINE AND PUNISH 40 YEARS LATER]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Josué Pereira da]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Estadual de Campinas Instituto de Filosofia e Ciências Humanas ]]></institution>
+<addr-line><![CDATA[Campinas SP]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>2016</year>
+</pub-date>
+<numero>97</numero>
+<fpage>139</fpage>
+<lpage>171</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0102-64452016000100139&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0102-64452016000100139&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0102-64452016000100139&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este artigo trata da concepção de Foucault a respeito do poder e sua relação com o direito, conforme aparece principalmente em seu livro Vigiar e punir, publicado pela primeira vez em 1975. Esse livro é, portanto, a principal fonte deste artigo, embora eu recorra também a outros textos de Foucault. Depois de apresentar de forma detalhada a análise do poder, assim como a relação deste último com a análise do direito conforme aparece em sua obra, eu concluo enfatizando a importante contribuição de seus escritos para nossa compreensão das sociedades modernas. Mas faço também comentários críticos tanto em relação a seu diagnóstico da sociedade moderna como uma quase completa patologia, quanto à ausência de uma dimensão normativa em sua perspectiva teórica.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This article deals with Foucault's conception of power and its relation to law, as it appears especially in his book Discipline and Punish, first published in 1975. That book is the main source of this article, though I rely also on a number of Foucault's texts. After a detailed presentation of his analysis of power as well as the relation between power and law in his works, I conclude by emphasizing his important contributions to our understanding of modern societies. But I also advance some critical comments regarding both his diagnosis of modern society as an almost total pathology and the lack of a normative dimension in his theoretical perspective.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Foucault]]></kwd>
+<kwd lng="pt"><![CDATA[Poder]]></kwd>
+<kwd lng="en"><![CDATA[Foucault]]></kwd>
+<kwd lng="en"><![CDATA[Power]]></kwd>
+<kwd lng="en"><![CDATA[Law]]></kwd>
+<kwd lng="en"><![CDATA[Discipline and Punish]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ADORNO]]></surname>
+<given-names><![CDATA[T. W]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HORKHEIMER]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dialética do esclarecimento]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Jorge Zahar Ed]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BIRMAN]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Saber e poder"]]></source>
+<year>2015</year>
+<publisher-name><![CDATA[O Estado de S. Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOUBEKER]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Foucault et les études postcoloniales"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BERT]]></surname>
+<given-names><![CDATA[J.-F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAMY]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Michel Foucault: un héritage critique]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[CNRS]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMARGO]]></surname>
+<given-names><![CDATA[S.C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modernidade e dominação: Theodor Adorno e a teoria social contemporânea]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Annablume/Fapesp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTEL]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Crítica social. Radicalismo o reformismo político"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[CASTEL]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pensar y resistir]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[A sociología crítica después de Foucault. Madrid ]]></publisher-loc>
+<publisher-name><![CDATA[DIN Impresores S. L]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DREYFUS]]></surname>
+<given-names><![CDATA[H. L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RABINOW]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Michel Foucault: beyond structuralism and hermeneutics]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DREYFUS]]></surname>
+<given-names><![CDATA[H. L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RABINOW]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["What is maturity? Habermas on Foucault on 'What is Enlightenment'"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HOY]]></surname>
+<given-names><![CDATA[D. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Foucault: a critical reader]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Basil Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Naissance de la clinique]]></source>
+<year>1963</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[PUF]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The archeology of knowledge &amp; discourse on language]]></source>
+<year>1972</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Pantheon Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Surveiller et punir: naissance de la prison]]></source>
+<year>1975</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Gallimard]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Vigiar e punir: nascimento da prisão]]></source>
+<year>1977</year>
+<publisher-loc><![CDATA[Tradução de Lígia M. Pondé Vassalo. Petrópolis, RJ ]]></publisher-loc>
+<publisher-name><![CDATA[Vozes]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[História da loucura]]></source>
+<year>1978</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Perspectiva]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Power/Knowledge: selected writings, interviews &amp; other writings - 1972-1977]]></source>
+<year>1980</year>
+<publisher-loc><![CDATA[Edited by Colin Gordon. New York ]]></publisher-loc>
+<publisher-name><![CDATA[Pantheon Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="">
+<article-title xml:lang=""><![CDATA["Two lectures"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Power/Knowledge: selected writings, interviews &amp; other writings - 1972-1977]]></source>
+<year>1980</year>
+<month>a</month>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<article-title xml:lang=""><![CDATA["On popular justice: a discussion with Maoists"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Power/Knowledge: selected writings, interviews &amp; other writings - 1972-1977]]></source>
+<year>1980</year>
+<month>b</month>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Pantheon Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[História da sexualidade I: a vontade de saber]]></source>
+<year>1980</year>
+<month>c</month>
+<edition>3.</edition>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Graal]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<article-title xml:lang=""><![CDATA["Truth and power"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Power/Knowledge: selected writings, interviews &amp; other writings - 1972-1977]]></source>
+<year>1980</year>
+<month>d</month>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Pantheon Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<article-title xml:lang=""><![CDATA["Power and strategies"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Power/Knowledge: selected writings, interviews &amp; other writings - 1972-1977]]></source>
+<year>1980</year>
+<month>e</month>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Pantheon Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["The subject and power"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[DREIFUS]]></surname>
+<given-names><![CDATA[H. L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RABINOW]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Michel Foucault: beyond structuralism and hermeneutics]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Foucault reader]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[Edited by Paul Rabinow. New York ]]></publisher-loc>
+<publisher-name><![CDATA[Pantheon Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<article-title xml:lang=""><![CDATA["What is Enlightenment?"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Foucault reader]]></source>
+<year>1984</year>
+<month>a</month>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Pantheon Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[História da sexualidade II: o uso dos prazeres]]></source>
+<year>1984</year>
+<month>b</month>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Graal]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[História da sexualidade III: o cuidado de si]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Graal]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Questions of method: an interview with Michel Foucault"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BAYNES]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[After philosophy: end or transformation?]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[Cambridge, MA ]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[As palavras e as coisas]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Martins Fontes]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRASER]]></surname>
+<given-names><![CDATA[N]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Unruly practices]]></source>
+<year>1989</year>
+<publisher-loc><![CDATA[Minneapolis ]]></publisher-loc>
+<publisher-name><![CDATA[University of Minnesota Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GAGNEBIN]]></surname>
+<given-names><![CDATA[J.-M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Filosofia do e no presente"]]></source>
+<year>2015</year>
+<publisher-name><![CDATA[Blog de Filosofia da PUC-SP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GORZ]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Adieux au prolétariat. Au de-là du socialisme]]></source>
+<year>1980</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Galilée]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HABERMAS]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The philosophical discourse of modernity]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[Cambridge, MA ]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<article-title xml:lang=""><![CDATA["Taking aim at the heart of the present: on Foucault's lecture on Kant's What is Enlightenment?"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HABERMAS]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The new conservatism]]></source>
+<year>1989</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HABERMAS]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Teoria do agir comunicativo]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Martins Fontes]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HONNETH]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Critique of power]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[Cambridge, MA ]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOY]]></surname>
+<given-names><![CDATA[D.C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Power, repression, progress: Foucault, Lukes, and the Frankfurt School"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HOY]]></surname>
+<given-names><![CDATA[D.C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Foucault: a critical reader]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Basil Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOY]]></surname>
+<given-names><![CDATA[D.C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Conflicting conceptions of critique: Foucault versus Habermas"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HOY]]></surname>
+<given-names><![CDATA[D. C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MCCARTHY]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Critical theory]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOY]]></surname>
+<given-names><![CDATA[D.C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Foucault: a critical reader]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Basil Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JAY]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Marxism and totality: the adventures of a concept from Lukács to Habermas]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[Berkeley ]]></publisher-loc>
+<publisher-name><![CDATA[University of California Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACHADO]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ciência e saber: a trajetória da arqueologia de Foucault]]></source>
+<year>1982</year>
+<month>a</month>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Graal]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACHADO]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Por uma genealogia do poder"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[FOUCAULT]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Microfísica do poder]]></source>
+<year>1982</year>
+<month>b</month>
+<edition>3.</edition>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Graal]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<article-title xml:lang=""><![CDATA["The critique of impure reason: Foucault and the Frankfurt School"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCCARTHY]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ideals and illusions]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[Cambridge, MA ]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[O'NEILL]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The poverty of postmodernism]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POSTER]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Foucault, Marxism &amp; History]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Polity Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAID]]></surname>
+<given-names><![CDATA[E.W]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Foucault and the imagination of power"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HOY]]></surname>
+<given-names><![CDATA[D.C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Foucault: a critical reader]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Basil Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAAR]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Pouvoir"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BERT]]></surname>
+<given-names><![CDATA[J.-F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAMY]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Michel Foucault: un héritage critique]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[CNRS]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[J.P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[André Gorz: trabalho e política]]></source>
+<year>2011</year>
+<edition>2.</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Annablume]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TOLSTÓI]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Guerra e paz]]></source>
+<year>2013</year>
+<volume>2</volume>
+<publisher-loc><![CDATA[Tradução de Rubens Figueiredo. São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Cosac Naify]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VEYNE]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Como se escreve a história. Foucault revoluciona a história]]></source>
+<year>1982</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ed UnB]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VISKER]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Michel Foucault: genealogy as critique]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Verso]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

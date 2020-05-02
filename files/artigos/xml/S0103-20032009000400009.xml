@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032009000400009</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032009000400009</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Determinação dos clubes de convergência da renda per capita agrícola: uma análise para os municípios cearenses]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Oliveira Junior]]></surname>
+<given-names><![CDATA[José Nilo de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Diniz]]></surname>
+<given-names><![CDATA[Marcelo Bentes]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Castelar]]></surname>
+<given-names><![CDATA[Ivan]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[Roberto Tatiwa]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal do Pará Programa de Pós-Graduação em Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal do Pará Programa de Pós-Graduação em Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidade Federal do Pará Programa de Pós-Graduação em Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Universidade Federal do Ceará Programa de Pós-Graduação em Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2009</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2009</year>
+</pub-date>
+<volume>47</volume>
+<numero>4</numero>
+<fpage>995</fpage>
+<lpage>1021</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032009000400009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032009000400009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032009000400009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este artigo analisa o processo de convergência do valor da produção agrícola dos municípios cearenses utilizando um modelo com efeito threshold no período de 1970 a 1996. Os resultados mostraram a existência de quatro clubes de convergência. Um formado pelo grupo de municípios mais ricos, outro formado pelo grupo de municípios mais pobres e dois grupos intermediários. Os resultados intra-clubes indicam que tanto o capital humano como o capital físico são importantes na explicação do processo de crescimento da agricultura cearense. Já os resultados para a terra mostraram que este fator é importante apenas para os dois clubes mais ricos.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This paper analyzes the process of agricultural county convergence in the state of Ceará using a threshold model in the period from 1970 to 1996. The results show the existence of four clubs of convergence. One formed by the group of richer counties; another one by the group of poor counties and two intermediate groups. The results intra-clubs show that both human capital and physical capital are important to explain the growth process of Ceará's agriculture. On the other hand land is important only for the two richer clubs.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[setor agrícola cearense]]></kwd>
+<kwd lng="pt"><![CDATA[convergência municipal]]></kwd>
+<kwd lng="pt"><![CDATA[modelo threshold]]></kwd>
+<kwd lng="en"><![CDATA[Ceará's agricultural sector]]></kwd>
+<kwd lng="en"><![CDATA[county convergence]]></kwd>
+<kwd lng="en"><![CDATA[threshold model]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="verdana"><b>Determina&ccedil;&atilde;o dos clubes de converg&ecirc;ncia da renda <i>per capita </i>agr&iacute;cola - uma an&aacute;lise para os munic&iacute;pios cearenses</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>Jos&eacute; Nilo de Oliveira Junior<sup>I</sup>; Marcelo Bentes Diniz<sup>II</sup>; Ivan Castelar<sup>III</sup>; Roberto Tatiwa Ferreira<sup>IV</sup></b></font></p>     <p><font size="2" face="Verdana"><sup>I</sup>Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Economia, Universidade Federal do Par&aacute; (PPGEconomia/UFPA), Brasil. Email: <a href="mailto:joseniloojr@yahoo.com.br">joseniloojr@yahoo.com.br</a>    <br>   <sup>II</sup>Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Economia, Universidade Federal do Par&aacute; (PPGEconomia/UFPA), Brasil. Email: <a href="mailto:mbdiniz2007@hotmail.com">mbdiniz2007@hotmail.com</a>    <br>   <sup>III</sup>Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Economia, Universidade Federal do Cear&aacute; (CAEN/UFC), Brasil    <br>   <sup>IV</sup>Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Economia, Universidade Federal do Cear&aacute; (CAEN/UFC), Brasil. E-mail: <a href="mailto:rtf2@uol.com.br">rtf2@uol.com.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><b>RESUMO</b> </font></p>     <p><font size="2" face="Verdana">Este artigo analisa o processo de converg&ecirc;ncia do valor da produ&ccedil;&atilde;o agr&iacute;cola   dos munic&iacute;pios cearenses utilizando um modelo com efeito <i>threshold </i>no per&iacute;odo de   1970 a 1996. Os resultados mostraram a exist&ecirc;ncia de quatro clubes de converg&ecirc;ncia.   Um formado pelo grupo de munic&iacute;pios mais ricos, outro formado pelo grupo de   munic&iacute;pios mais pobres e dois grupos intermedi&aacute;rios. Os resultados intra-clubes   indicam que tanto o capital humano como o capital f&iacute;sico s&atilde;o importantes na explica&ccedil;&atilde;o do processo de crescimento da agricultura cearense. J&aacute; os resultados para a   terra mostraram que este fator &eacute; importante apenas para os dois clubes mais ricos.</font></p>     <p> <font face="Verdana" size="2"><b>Palavras-chaves: </b>setor agr&iacute;cola cearense, converg&ecirc;ncia municipal, modelo <i>threshold</i>.</font></p>   <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>ABSTRACT</b></font></p>     <p><font size="3" face="Verdana"><font size="2">This paper analyzes the process    of agricultural county convergence in the state of</font><b> </b></font><font size="2" face="Verdana">Cear&aacute;    using a threshold model in the period from 1970 to 1996. The results show the    existence of four clubs of convergence. One formed by the group of richer counties;    another one by the group of poor counties and two intermediate groups. The results    intra-clubs show that both human capital and physical capital are important    to explain the growth process of Cear&aacute;'s agriculture. On the other hand    land is important only for the two richer clubs.</font></p>     <p> <font size="2" face="Verdana"><b>Key-words: </b>Cear&aacute;'s agricultural sector, county convergence, threshold model.    <br><b>Classifica&ccedil;&atilde;o JEL:</b> Q19, O49, C21.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A hip&oacute;tese da converg&ecirc;ncia pode assumir tr&ecirc;s formas distintas: i) a hip&oacute;tese da Converg&ecirc;ncia Absoluta &#150; onde as rendas <i>per capita </i>dos pa&iacute;ses convergiriam entre si em longo prazo, independentemente de suas condi&ccedil;&otilde;es iniciais; ii) a hip&oacute;tese da Converg&ecirc;ncia Condicional &#150; onde as rendas <i>per capita </i>dos pa&iacute;ses convergiriam em longo prazo entre os pa&iacute;ses de caracter&iacute;sticas estruturais id&ecirc;nticas, independentemente de suas condi&ccedil;&otilde;es iniciais; iii) a hip&oacute;tese de Clubes de Converg&ecirc;ncia &#150; onde haveria a forma&ccedil;&atilde;o de grupos de pa&iacute;ses com as mesmas caracter&iacute;sticas estruturais e cada grupo teria um padr&atilde;o pr&oacute;prio de crescimento. Esta &uacute;ltima hip&oacute;tese caracterizaria a persist&ecirc;ncia da pobreza, da polariza&ccedil;&atilde;o e da divis&atilde;o de pa&iacute;ses em grupos (GALOR, 1996).</font> </p>     <p><font size="2" face="Verdana">Al&eacute;m do trabalho de Galor (1996), nos estudos de Durlauf e Johnson (1995) e Rappaport (1999), a heterogeneidade entre as regi&otilde;es pode gerar um processo de crescimento econ&ocirc;mico caracterizado por m&uacute;ltiplos estados estacion&aacute;rios. Isto geraria grupos onde a renda <i>per capita </i>convergiria ao redor de um pequeno n&uacute;mero de estados estacion&aacute;rios comuns, dependendo das condi&ccedil;&otilde;es iniciais de cada regi&atilde;o espec&iacute;fica.</font></p>     <p><font size="2" face="Verdana">Nesse sentido, o estudo de crescimento econ&ocirc;mico &eacute; particularmente importante por v&aacute;rias raz&otilde;es. Primeiro porque propicia identificar padr&otilde;es que permitem visualizar as trajet&oacute;rias das rendas das economias. Segundo porque pode indicar as poss&iacute;veis causas de trajet&oacute;rias bem sucedidas de crescimento, dando lugar a a&ccedil;&otilde;es de pol&iacute;ticas p&uacute;blicas com vista a corrigir poss&iacute;veis desequil&iacute;brios e desigualdades.</font></p>     <p><font size="2" face="Verdana">Deste modo, este artigo tem como escopo analisar o setor agr&iacute;cola dos munic&iacute;pios cearenses, de 1970 a 1996, com o intuito de investigar se existem evid&ecirc;ncias de m&uacute;ltiplos regimes ou clubes de converg&ecirc;ncia entre os munic&iacute;pios; se existe evid&ecirc;ncia de converg&ecirc;ncia intraclubes; e, ainda, se existe associa&ccedil;&atilde;o espacial entre esses clubes.</font></p>     <p><font size="2" face="Verdana">As tr&ecirc;s d&eacute;cadas que compreendem o per&iacute;odo de an&aacute;lise testemunharam v&aacute;rias mudan&ccedil;as estruturais que marcaram indelevelmente o desenvolvimento agr&iacute;cola no Brasil. A d&eacute;cada de 1970 foi marcada pela implementa&ccedil;&atilde;o de grandes planos de desenvolvimento nacional e por choques externos como o do petr&oacute;leo, crescimento da d&iacute;vida externa e, conseq&uuml;entemente, pela crise na balan&ccedil;a de pagamentos. Por sua vez, a d&eacute;cada de 1980 foi marcada por mudan&ccedil;as pol&iacute;ticas, descontrole inflacion&aacute;rio, fracassos dos diversos planos econ&ocirc;micos e, principalmente, pelo acirramento do problema da d&iacute;vida externa. Por fim, a d&eacute;cada de 1990 foi caracterizada pela abertura comercial, estabiliza&ccedil;&atilde;o dos pre&ccedil;ose pela expans&atilde;o das exporta&ccedil;&otilde;es brasileiras, culminando com a cria&ccedil;&atilde;o de umnovo padr&atilde;o econ&ocirc;mico no pa&iacute;s (BRUM, 2003).</font></p>     <p><font size="2" face="Verdana">A fim de alcan&ccedil;ar os objetivos propostos, utilizou-se um modelo com efeito limiar (<i>threshold</i>), baseado em Hansen (2000), bem como dados censit&aacute;rios agr&iacute;colas do IBGE (Instituto Brasileiro de Geografia e Estat&iacute;stica). Tal modelo permite testar estatisticamente e identificar os subgrupos de munic&iacute;pios com caracter&iacute;sticas comuns quanto ao processo de converg&ecirc;ncia; isto &eacute;, converg&ecirc;ncia para regimes m&uacute;ltiplos.</font></p>     <p><font size="2" face="Verdana">Este processo de identifica&ccedil;&atilde;o poderia, por exemplo, ser realizado atrav&eacute;s do algoritmo da &aacute;rvore de regress&otilde;es, utilizado por Durlauf e Johnson (1995). Entretanto, enquanto a t&eacute;cnica de &aacute;rvore de regress&otilde;es possui um car&aacute;ter <i>ad hoc,</i> n&atilde;o apresentando uma estat&iacute;stica de teste com uma distribui&ccedil;&atilde;o conhecida, a principal vantagem da metodologia desenvolvida por Hansen &eacute; a exist&ecirc;ncia de uma estat&iacute;stica de teste fundamentada na teoria assint&oacute;tica. Ademais, o comportamento dessa estat&iacute;stica em pequenas amostras j&aacute; foi suficientemente estudado atrav&eacute;s de simula&ccedil;&otilde;es de Monte Carlo.</font></p>      <p><font size="2" face="Verdana">Al&eacute;m desta introdu&ccedil;&atilde;o, o artigo se divide em mais 5 se&ccedil;&otilde;es. A se&ccedil;&atilde;o 2 trata da revis&atilde;o da literatura sobre o tema proposto; a se&ccedil;&atilde;o 3 traz uma an&aacute;lise da economia rural cearense; a se&ccedil;&atilde;o 4 apresenta o modelo te&oacute;rico utilizado; a se&ccedil;&atilde;o 5 descreve a metodologia econom&eacute;trica empregada no trabalho; a se&ccedil;&atilde;o 6 traz os resultados emp&iacute;ricos e, por fim, a se&ccedil;&atilde;o 7 trata das conclus&otilde;es.</font></p> <font size="2" face="Verdana"></font>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>2. Revis&atilde;o da Literatura</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Desde o trabalho de Baumol (1986), que concluiu pela exist&ecirc;ncia de converg&ecirc;ncia entre pa&iacute;ses industrializados, o estudo da converg&ecirc;ncia entre pa&iacute;ses tem sido um tema de pesquisa controvertido. De Long (1988) contesta as  conclus&otilde;es de Baumol apontando, entre outros defeitos, o vi&eacute;s de sele&ccedil;&atilde;o dos pa&iacute;ses analisados.</font></p>     <p><font size="2" face="Verdana">Em um cl&aacute;ssico sobre converg&ecirc;ncia, Barro e Sala-i-Martin (1992) detectam converg&ecirc;ncia absoluta entre os estados americanos de 1840 a 1988. No entanto, com dados transversais para um grupo de 110 pa&iacute;ses, somente foi detectada converg&ecirc;ncia condicional entre 1960 e 1985. Sala-i-Martin (1996) obt&eacute;m os mesmos resultados para o mesmo grupo de 110 pa&iacute;ses no per&iacute;odo de 1960 a 1990, por&eacute;m encontra converg&ecirc;ncia absoluta para uma subamostra de pa&iacute;ses da OECD (Organiza&ccedil;&atilde;o para a Coopera&ccedil;&atilde;o e Desenvolvimento Econ&ocirc;mico); </font><font><i>&#946;</i></font><font size="2" face="verdana">-converg&ecirc;ncia absoluta e condicional, bem como </font><font><i>&#963;</i></font><font size="2" face="verdana">-converg&ecirc;ncia, para os estados dos EUA, prefeituras do Jap&atilde;o e para as regi&otilde;es da Alemanha, Reino Unido, Fran&ccedil;a, It&aacute;lia e Espanha, respectivamente.</font></p>     <p><font size="2" face="Verdana">J&aacute; em rela&ccedil;&atilde;o &agrave; classe de modelos de crescimento end&oacute;geno, destacam-se ostrabalhos de Lucas (1988) e Romer (1986). O primeiro inclui na fun&ccedil;&atilde;o de produ&ccedil;&atilde;o neocl&aacute;ssica o insumo capital humano, concebido como o estoque de conhecimento acumulado da popula&ccedil;&atilde;o. Romer, por sua vez, abandonou a hip&oacute;tese de concorr&ecirc;ncia perfeita e retornos decrescentes dos fatores e postulou aexist&ecirc;ncia de externalidades advindas do aprendizado adquirido no processo produtivo.</font></p>     <p><font size="2" face="Verdana">Ap&oacute;s estes dois trabalhos, proliferou a literatura que associava o crescimento econ&ocirc;mico ao n&iacute;vel educacional da sociedade. Destacam-se entre estes, por exemplo, os trabalhos de Baumol et al. (1989), os quais concluem que pa&iacute;ses com n&iacute;veis educacionais semelhantes convergem mais rapidamente. Mankiw et al. (1992) verificaram que o n&iacute;vel de poupan&ccedil;a, o crescimento populacional e o n&iacute;vel de educa&ccedil;&atilde;o explicam a maior parte da varia&ccedil;&atilde;o do crescimento econ&ocirc;mico. Vale ressaltar que existe uma abund&acirc;ncia de evid&ecirc;ncias emp&iacute;ricas que demonstram uma correla&ccedil;&atilde;o positiva entre o n&iacute;vel de escolaridade e a taxa de crescimento, por&eacute;m, a rela&ccedil;&atilde;o causal &eacute; questionada. Um exemplo desta corrente &eacute; Bills e Klenow (2000), os quais argumentam que o crescimento econ&ocirc;mico &eacute; mais relevante para o n&iacute;vel educacional que o contr&aacute;rio. </font></p>     <p><font size="2" face="Verdana">J&aacute; com rela&ccedil;&atilde;o ao Brasil, v&aacute;rios s&atilde;o os trabalhos na &aacute;rea de converg&ecirc;ncia. Andrade (1997), analisando o per&iacute;odo de 1970 a 1995, revela a import&acirc;ncia do capital humano para o crescimento econ&ocirc;mico regional. Ele estima que um ano adicional de estudo implica em 0,32% de varia&ccedil;&atilde;o positiva do PIB. Zini Jr (1998) conclui, utilizando a s&eacute;rie de Azzoni (1997), pela exist&ecirc;ncia de fraca converg&ecirc;ncia absoluta e converg&ecirc;ncia condicional.</font></p>     <p><font size="2" face="Verdana">Azzoni et al. (2000) e Azzoni e Barossi (2003), utilizando dados em painel e s&eacute;ries temporais, concluem que existe uma fraca converg&ecirc;ncia do PIB <i>per capita</i> dos estados. Segundo estes autores, cinco estados se encontram em processo de converg&ecirc;ncia e tr&ecirc;s de fraca converg&ecirc;ncia, enquanto Amap&aacute;, Par&aacute;, Piau&iacute;, Santa Catarina e S&atilde;o Paulo n&atilde;o est&atilde;o convergindo.</font></p>     <p><font size="2" face="Verdana">Vergolino e Monteiro Neto (1996) verificam a hip&oacute;tese de converg&ecirc;ncia para as microrregi&otilde;es nordestinas entre 1970 e 1993. Os autores identificam poucas evid&ecirc;ncias de converg&ecirc;ncia absoluta e apontam as capitais estaduais como agentes inibidores. Rocha e Vergolino (2001) estendem o per&iacute;odo analisado a 1998, onde verificam a ocorr&ecirc;ncia de converg&ecirc;ncia absoluta na d&eacute;cada de 1970, mas n&atilde;o encontram evid&ecirc;ncias para a d&eacute;cada seguinte. Os autores apontam converg&ecirc;ncia condicional ao introduzirem capital humano, localiza&ccedil;&atilde;o geogr&aacute;fica e condi&ccedil;&otilde;es de vida da popula&ccedil;&atilde;o como vari&aacute;veis estruturais.</font></p>     <p><font size="2" face="Verdana">Porto Jr. e Ribeiro (2000), al&eacute;m da metodologia usual de Barro, utilizaram matrizes de transi&ccedil;&atilde;o de Markov e estima&ccedil;&atilde;o de fun&ccedil;&otilde;es densidades de probabilidade para analisar o processo de converg&ecirc;ncia entre os munic&iacute;pios da Regi&atilde;o Sul de 1970 a 1991. Os autores constataram a forma&ccedil;&atilde;o de dois clubes de converg&ecirc;ncia entre os munic&iacute;pios. Porto Jr. e Souza (2002), utilizando matrizes de transi&ccedil;&atilde;o de Markov e testes de Drennam e Lobo, verificaram a inexist&ecirc;ncia de converg&ecirc;ncia entre os munic&iacute;pios da Regi&atilde;o Nordeste entre 1970 e 1991. Constataram, ainda, a polariza&ccedil;&atilde;o na distribui&ccedil;&atilde;o da renda <i>per capita </i>dos estados.</font></p>     <p><font size="2" face="Verdana">Barreto e Gondim (2004) investigaram a converg&ecirc;ncia entre estados, mesorregi&otilde;es, microrregi&otilde;es e munic&iacute;pios. Considerando as unidades federativas, entre 1950 e 2000, os autores verificaram instabilidade no processo de converg&ecirc;ncia e concluem que a distribui&ccedil;&atilde;o da renda <i>per capita </i>evolui ao longo do tempo para uma forma&ccedil;&atilde;o bi-modal em todos os n&iacute;veis geogr&aacute;ficos. Os autores encontraram, ainda, evid&ecirc;ncias robustas de converg&ecirc;ncia condicional quando a distribui&ccedil;&atilde;o de renda <i>per capita </i>&eacute; condicionada no &acirc;mbito da escolaridade e da localiza&ccedil;&atilde;o geogr&aacute;fica.</font></p>     <p><font size="2" face="Verdana">Marino (2004) analisou a hip&oacute;tese de converg&ecirc;ncia entre as rendas <i>per capita </i>dos estados e dos munic&iacute;pios brasileiros, de 1970 a 2000, rejeitando a hip&oacute;tese de converg&ecirc;ncia absoluta entre os estados. No entanto, constatou a polariza&ccedil;&atilde;o da renda <i>per capita </i>em dois clubes de converg&ecirc;ncia. O primeiro, formado pelos estados do Norte e Nordeste, e o segundo formado pelas unidades das regi&otilde;es Sudeste, Sul e Centro-Oeste. Vale ressaltar que, nesse estudo, o capital humano e o grau de urbaniza&ccedil;&atilde;o do munic&iacute;pio s&atilde;o as vari&aacute;veis condicionantes de maior relev&acirc;ncia para o processo de converg&ecirc;ncia.</font></p>      ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">No estudo de Magalh&atilde;es (2001), o autor se prop&ocirc;s a verificar a exist&ecirc;ncia de clubes de converg&ecirc;ncia entre os estados brasileiros, de 1986 a 1995, a partir de hiatos<a name="tx01"></a><a href="#nt01"><sup>1</sup></a> de renda<a name="tx02"></a><a href="#nt02"><sup>2</sup></a>. Os resultados preliminares para &acirc;-converg&ecirc;ncia entre os estados indicam a inexist&ecirc;ncia de um processo de converg&ecirc;ncia. J&aacute; os resultados para clubes de converg&ecirc;ncia indicaram a presen&ccedil;a de dois clubes; constatando que o primeiro clube, formado pelos estados do Rio de Janeiro, Rio Grande do Sul e Minas Gerais, estaria convergindo para o n&iacute;vel de renda <i>per capita </i>de S&atilde;o Paulo; enquanto que o segundo clube, constitu&iacute;do por todos os estados do Nordeste e alguns do Norte, estaria divergindo.</font></p>      <p><font size="2" face="Verdana">Laurini et al. (2003) investigaram a exist&ecirc;ncia de clubes de converg&ecirc;ncia de renda <i>per capita </i>para um total de 3.781 munic&iacute;pios entre 1970 e 1996. A metodologia utilizada foi a de matrizes de transi&ccedil;&atilde;o de Markov e n&uacute;cleo estoc&aacute;stico. Os resultados de ambas as t&eacute;cnicas confirmaram a presen&ccedil;a de dois clubes de converg&ecirc;ncia para renda <i>per capita </i>dos munic&iacute;pios no per&iacute;odo em quest&atilde;o. Os resultados sugerem que a forma&ccedil;&atilde;o de clubes deve-se ao distanciamento uniforme da renda relativa das regi&otilde;es Norte e Nordeste em rela&ccedil;&atilde;o aos valores das regi&otilde;es Centro-Oeste, Sudeste e Sul.</font></p>      <p><font size="2" face="Verdana">Alencar (2005) investigou a import&acirc;ncia das dota&ccedil;&otilde;es iniciais de capital f&iacute;sico e capital humano para caracterizar o desempenho socioecon&ocirc;mico dos munic&iacute;pios do Brasil, bem como verificou a exist&ecirc;ncia de clubes de converg&ecirc;ncia da renda <i>per capita </i>ao usar um modelo <i>threshold</i>. Nesse estudo, o autor fez uso de dados transversais entre 1980 e 2000 para um total de 4.786 munic&iacute;pios, usando a dota&ccedil;&atilde;o inicial da renda <i>per capita </i>e a taxa de analfabetismo para delimitar os clubes de converg&ecirc;ncia. Seus resultados mostram a exist&ecirc;ncia de oito de clubes de converg&ecirc;ncia entre os munic&iacute;pios e constata converg&ecirc;ncia dentro de todos eles. Este autor conclui, ainda, que as dota&ccedil;&otilde;es iniciais de capital humano s&atilde;o mais importantes para o processo de crescimento da renda <i>per capita </i>do que as dota&ccedil;&otilde;es iniciais de capital f&iacute;sico.</font></p>     <p><font size="2" face="Verdana">Gondim et al. (2007) verificaram os principais condicionantes dos clubes de converg&ecirc;ncia no Brasil. Para tanto, utilizaram a metodologia de Quah para a renda condicionada de estados e munic&iacute;pios entre 1970 e 2000, dividida em nove classes de tamanho fixo. Os condicionantes utilizados foram: localiza&ccedil;&atilde;o geogr&aacute;fica, escolaridade, abertura comercial e desigualdade de renda. Os resultados, tanto para os estados como para os munic&iacute;pios, indicam a forma&ccedil;&atilde;o de dois clubes de converg&ecirc;ncia. O maior clube &eacute; formado por unidades com renda baixa; e outro, menor, formado por unidades com renda alta. Quanto aoscondicionantes, os resultados indicam, tanto para estados como para munic&iacute;pios, que o n&iacute;vel de escolaridade e a localiza&ccedil;&atilde;o geogr&aacute;fica seriam fatores importantes na forma&ccedil;&atilde;o desses clubes. Por outro lado, a maior integra&ccedil;&atilde;o ao com&eacute;rcio internacional e a desigualdade da renda n&atilde;o parecem ter influ&ecirc;ncia sobre a desigualdade regional no Brasil.</font></p>     <p><font size="2" face="Verdana">Oliveira J&uacute;nior et al<i>. </i>(2007) investigaram a hip&oacute;tese de clubes converg&ecirc;ncia da renda agr&iacute;cola entre as microrregi&otilde;es do Brasil usando dados dos censos agr&iacute;cola de 1970 a 1995 e um modelo <i>threshold. </i>Os resultados apontam a forma&ccedil;&atilde;o de tr&ecirc;s clubes de converg&ecirc;ncia: um clube mais rico formado por microrregi&otilde;es do Sul e Sudeste, um clube intermedi&aacute;rio formado, principalmente, pelas microrregi&otilde;es do Norte e Centro-Oeste e, por fim, um clube mais pobre formado pelas microrregi&otilde;es do Nordeste. Os resultados tamb&eacute;m mostraram que o capital f&iacute;sico &eacute; mais importante que o capital humano na explica&ccedil;&atilde;o do processo de crescimento da agricultura brasileira.</font></p>     <p><font size="2" face="Verdana">Constata-se nos diversos trabalhos sobre a hip&oacute;tese de converg&ecirc;ncia para o Brasil, nos diversos per&iacute;odos de an&aacute;lise, que existem algumas conclus&otilde;es coincidentes. Observa-se, entre os estados brasileiros, que o processo de converg&ecirc;ncia &eacute; inst&aacute;vel e fraco. Em rela&ccedil;&atilde;o aos munic&iacute;pios, n&atilde;o obstante o pequeno n&uacute;mero de trabalhos, a literatura aponta para a diverg&ecirc;ncia e a polariza&ccedil;&atilde;o. H&aacute; ainda fortes evid&ecirc;ncias da forma&ccedil;&atilde;o de dois p&oacute;los, seja de estados ou munic&iacute;pios, com caracter&iacute;sticas socioecon&ocirc;micas diferentes. Percebe-se, assim, que ao contr&aacute;rio dos pa&iacute;ses desenvolvidos, as desigualdades regionais brasileiras s&atilde;o extremamente persistentes.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>3. Uma Descri&ccedil;&atilde;o da Economia do Estado do Cear&aacute;</b></font></p>     <p><font size="2" face="Verdana"><b><i>3.1. An&aacute;lise dos Indicadores de Educa&ccedil;&atilde;o do Estado do Cear&aacute;</i></b></font></p>      <p><font size="2" face="Verdana">O estado do Cear&aacute; vem melhorando seus indicadores econ&ocirc;micos e sociais ao longo dos &uacute;ltimos anos, principalmente quando se observa a evolu&ccedil;&atilde;o da educa&ccedil;&atilde;o. Analisando a <a href="#fig01">Figura 1</a>, a seguir, e considerando a evolu&ccedil;&atilde;o do IDH (&Iacute;ndice de Desenvolvimento Humano), tendo como refer&ecirc;ncia a educa&ccedil;&atilde;o<a name="tx03"></a><a href="#nt03"><sup>3</sup></a>, observa-se que o estado acompanha a trajet&oacute;ria de crescimento do &iacute;ndice nacional, bem como as dos demais estados da regi&atilde;o Nordeste.</font></p>     ]]></body>
+<body><![CDATA[<p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09fig01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Esta vari&aacute;vel indica que as pol&iacute;ticas sociais implementadas no estado ao longo dos &uacute;ltimos 30 anos t&ecirc;m sido eficazes no que diz respeito ao aumento da alfabetiza&ccedil;&atilde;o e freq&uuml;&ecirc;ncia escolar, o que implica no aumento da qualifica&ccedil;&atilde;o da popula&ccedil;&atilde;o cearense e que pode, em linhas gerais, fomentar maior dinamismo no crescimento econ&ocirc;mico.</font></p>     <p><font size="2" face="Verdana">Esta melhora nos indicadores de educa&ccedil;&atilde;o pode ser observada tamb&eacute;m no &acirc;mbito municipal, uma vez que os anos m&eacute;dios de estudo v&ecirc;m crescendo ao longo das &uacute;ltimas tr&ecirc;s d&eacute;cadas, sobretudo, no interior do estado. As <a href="#fig02">Figuras 2</a> e <a href="#fig03">3</a> foram criadas utilizando os dados do Atlas do Desenvolvimento Humano, no qual se pode fazer a compara&ccedil;&atilde;o da dispers&atilde;o das m&eacute;dias dos anos de estudo entre munic&iacute;pios.</font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09fig02.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><a name="fig03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09fig03.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Na <a href="#fig02">Figura 2</a>, utilizando dados da m&eacute;dia de anos de educa&ccedil;&atilde;o em 1991, pode-se observar que apenas cerca de 40 munic&iacute;pios apresentam popula&ccedil;&atilde;o com mais de dois anos de estudos e estes est&atilde;o concentrados principalmente em torno das grandes cidades como Fortaleza, Itapipoca, Sobral e Juazeiro do Norte. Os munic&iacute;pios em condi&ccedil;&otilde;es mais cr&iacute;ticas concentram-se principalmente nas regi&otilde;es Norte e Sudoeste do estado.</font></p>     <p><font size="2" face="Verdana">J&aacute; quando os mesmos dados s&atilde;o observados em 2000, na <a href="#fig03">Figura 3</a>, apresenta-se uma nova realidade, principalmente no interior, uma vez que o n&uacute;mero de munic&iacute;pios com popula&ccedil;&atilde;o com mais de dois anos de estudo &eacute; agora de 145, restando apenas cerca de 38 munic&iacute;pios que possuem menos de dois anos de estudo m&eacute;dios. Novamente, as regi&otilde;es em situa&ccedil;&otilde;es mais cr&iacute;ticas s&atilde;o as regi&otilde;es Norte e Sudoeste do estado. Portanto, os dados mostram uma evolu&ccedil;&atilde;o consider&aacute;vel em termos de educa&ccedil;&atilde;o no estado, principalmente, considerando o interior.</font></p>     <p><font size="2" face="Verdana"><b>3.2. O Setor Rural Cearense</b></font></p>     <p><font size="2" face="Verdana">A <a href="/img/revistas/resr/v47n4/a09tab01.gif">Tabela 1</a> traz uma descri&ccedil;&atilde;o socioecon&ocirc;mica do setor rural do estado do Cear&aacute;, tendo como base os dados dos Censos Agropecu&aacute;rios de 1970 &#150; 1995/1996, bem como os dados do Censo Demogr&aacute;fico de 2000. </font></p>     <p><font size="2" face="Verdana">Pode-se observar, em linhas gerais, que a renda<a name="tx04"></a><a href="#nt04"><sup>4</sup></a> <i>per capita </i>m&eacute;dia em 1970 no setor era de R$ 789,29, passando para R$ 1.211,61 em 1995/96, o que corresponde a uma varia&ccedil;&atilde;o positiva de 34,85% no per&iacute;odo. Em termos de educa&ccedil;&atilde;o, a m&eacute;dia de anos de estudo para o conjunto de microrregi&otilde;es em 2000 era de 3,08 com um desvio-padr&atilde;o de 0,765. </font></p>     <p><font size="2" face="Verdana">Verifica-se, tamb&eacute;m, que a microrregi&atilde;o de Fortaleza apresentou maior renda <i>per capita </i>tanto em 1970 quanto em 1995/96, de R$ 3.145,48 e R$ 4.567,13, respectivamente, com taxa de crescimento de cerca de 40% no per&iacute;odo. A referida microrregi&atilde;o tamb&eacute;m registrou o melhor indicador de educa&ccedil;&atilde;o, com mais de seis anos de estudo, em m&eacute;dia. No entanto, a microrregi&atilde;o possui apenas 25.013 pessoas ocupadas, enquanto a m&eacute;dia do estado &eacute; de 36.143. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">J&aacute; a &uacute;ltima microrregi&atilde;o no <i>rank</i>, Litoral do Aracati, apresenta uma renda <i>per capita </i>de R$ 377,38 em 1970, que &eacute; 10 vezes menor que a renda <i>per capita </i>da microrregi&atilde;o de Fortaleza no mesmo ano. No entanto, em 1995/96, a renda <i>per capita </i>da referida microrregi&atilde;o passou a ser de R$ 2.129,25, o que equivale a um crescimento de 173% no per&iacute;odo de an&aacute;lise.</font></p>     <p><font size="2" face="Verdana">Com rela&ccedil;&atilde;o ao capital f&iacute;sico<a name="tx05"></a><a href="#nt05"><sup>5</sup></a>, pode-se observar na <a href="/img/revistas/resr/v47n4/a09tab01.gif">Tabela 1</a> que existe uma grande heterogeneidade quanto ao volume de estoque pertencente &agrave;s microrregi&otilde;es. A microrregi&atilde;o de Fortaleza destaca-se como a microrregi&atilde;o com maior estoque, representando cerca de 9,5% do estoque estadual, seguida das microrregi&otilde;es de Sert&atilde;o de Quixeramobim, M&eacute;dio Jaguaribe, Baixo Jaguaribe e Litoral do Aracati, com 4,66%, 3,87%, 3,80% e 3,63%, respectivamente.</font></p>     <p><font size="2" face="Verdana">Ainda com rela&ccedil;&atilde;o ao capital f&iacute;sico, a <a href="#fig04">Figura 4</a> mostra que o volume de investimentos realizados no ano no setor em n&iacute;vel de mesorregi&atilde;o cresceu at&eacute; 1980 quando houve uma revers&atilde;o dessa tend&ecirc;ncia. J&aacute; com rela&ccedil;&atilde;o ao n&uacute;mero de tratores nessas mesorregi&otilde;es, observa-se que existe uma tend&ecirc;ncia de crescimento comum a todas, liderada pela mesorregi&atilde;o do Sul Cearense.</font></p>     <p><a name="fig04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09fig04.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Quanto &agrave; distribui&ccedil;&atilde;o da terra, pode-se observar pelo &iacute;ndice de Gini<a name="tx06"></a><a href="#nt06"><sup>6</sup></a> (SOUZA; LIMA, 2003) e seguindo a conven&ccedil;&atilde;o<a name="tx07"></a><a href="#nt07"><sup>7</sup></a> estabelecida por C&acirc;mara (1949) que o Brasil e os estados da Bahia, Alagoas, Para&iacute;ba, Rio Grande do Norte, Pernambuco, Sergipe e Cear&aacute; apresentam a distribui&ccedil;&atilde;o da terra com caracter&iacute;stica de concentra&ccedil;&atilde;o forte a muito forte. J&aacute; os estados do Piau&iacute; e Maranh&atilde;o apresentam uma concentra&ccedil;&atilde;o de forte a absoluta. Portanto, os resultados apontam uma grande concentra&ccedil;&atilde;o da terra nos estados da regi&atilde;o Nordeste (<a href="#fig05">Figura 5</a>).</font></p>     <p><a name="fig05"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n4/a09fig05.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Ainda com rela&ccedil;&atilde;o &agrave; distribui&ccedil;&atilde;o da posse da terra, a <a href="#fig06">Figura 6</a> traz os indicadores da &aacute;rea m&eacute;dia em hectares, o percentual da &aacute;rea correspondente a 50% dos menores estabelecimentos e o percentual correspondente a 5% dos maiores estabelecimentos para o estado do Cear&aacute;, segundo dados dos Censos Agropecu&aacute;rios de 1970-95/96.</font></p>     <p><a name="fig06"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09fig06.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">V&ecirc;-se que a &aacute;rea m&eacute;dia dos estabelecimentos apresentou comportamento c&iacute;clico, decaindo principalmente ap&oacute;s 1980. Quanto ao comportamento do percentual da &aacute;rea correspondente a 50% dos menores estabelecimentos, pode-se verificar que o mesmo apresentou eleva&ccedil;&atilde;o durante 1970 e 1980, decaindo desse per&iacute;odo em diante. J&aacute; o percentual da &aacute;rea relativa a 5% dos maiores estabelecimentos apresentou decl&iacute;nio at&eacute; 1980 e crescimento ap&oacute;s esta d&eacute;cada. Portanto, os resultados permitem concluir que no per&iacute;odo de an&aacute;lise houve um aumento na concentra&ccedil;&atilde;o da terra no estado do Cear&aacute;, uma vez que os menores estabelecimentos perderam participa&ccedil;&atilde;o em favor dos maiores estabelecimentos. </font></p>     <p><font size="2" face="Verdana">Quanto &agrave;s principais culturas do estado em 2007, a <a href="#fig07">Figura 7</a> mostra que as tr&ecirc;s principais atividades da agricultura s&atilde;o milho, feij&atilde;o e castanha de caju, com total de &aacute;rea plantada, em hectares, de 679400, 561220 e 376141, respectivamente. Al&eacute;m dessas, possuem ainda certo destaque as culturas de mandioca, coco, cana-de-a&ccedil;&uacute;car, banana e arroz. </font></p>     <p><a name="fig07"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09fig07.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Portanto, as diferen&ccedil;as de renda entre as microrregi&otilde;es do estado, o comportamento c&iacute;clico da &aacute;rea m&eacute;dia de terras utilizadas, a posse heterog&ecirc;nea do estoque de capital f&iacute;sico, bem como o aumento da participa&ccedil;&atilde;o dos grandes estabelecimentos em detrimento dos pequenos, refor&ccedil;a a id&eacute;ia da exist&ecirc;ncia de diferentes grupos de munic&iacute;pios com caracter&iacute;sticas diferenciadas.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>4. An&aacute;lise Te&oacute;rica de M&uacute;ltiplos Regimes ou Clubes de Converg&ecirc;ncia</b></font></p>     <p><font size="2" face="Verdana"><i><b>4.1. Modelo de Solow Aumentado</b></i></font></p>     <p><font size="2" face="Verdana">A metodologia empregada baseia-se em Alencar (2005), o qual segue os modelos de Mankiw et al<i>. </i>(1992) e Durlauf e Johnson (1995). O modelo considera que a renda agr&iacute;cola do munic&iacute;pio <i>i </i>no tempo <i>t </i>(<i>Y<sub>i,t</sub></i>) &eacute; determinado por uma fun&ccedil;&atilde;o de produ&ccedil;&atilde;o do tipo Cobb-Douglas, que tem como argumentos a tecnologia, (<i>A<sub>i,t</sub></i>); o trabalho, (<i>Li,t</i>); o capital f&iacute;sico (<i>K<sub>i,t</sub></i>), o capital humano (<i>H<sub>i,t</sub></i>) e a terra (<i>T<sub>i,t</sub></i>); como mostra a equa&ccedil;&atilde;o abaixo.</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm01.gif"></p>     <p><font size="2" face="Verdana">Assume-se que todas as vari&aacute;veis est&atilde;o em tempo cont&iacute;nuo e que a tecnologia e a for&ccedil;a de trabalho crescem a uma taxa constante, dadas por <i>g </i>e <i>n<sub>i</sub></i>, respectivamente. Cada munic&iacute;pio multiplica seu estoque de capital f&iacute;sico e humano pela taxa de poupan&ccedil;a, representadas por <img src="/img/revistas/resr/v47n4/a09img01.gif" align="absmiddle">  e <img src="/img/revistas/resr/v47n4/a09img02.gif" align="absmiddle">, enquanto ambos os estoques depreciam-se &agrave; mesma taxa </font><font>&#948;</font><font size="2" face="verdana">. Isto induz a equa&ccedil;&atilde;o de acumula&ccedil;&atilde;o do capital da forma <i>dK<sub>i,t</sub> dt = <img src="/img/revistas/resr/v47n4/a09img03.gif" align="absmiddle"> Y  <sub>i, t </sub></i> &#150; </font><font> &#948;</font><font size="2" face="verdana"> <i><sub>i ,t</sub></i> e <i>dH<sub>i, t</sub> / dt </i>= <img src="/img/revistas/resr/v47n4/a09img04.gif" align="absmiddle"> <i>Y<sub>i ,t</sub> </i>- </font><font>&#948;</font><font size="2" face="verdana">H <i><sub>i ,t</sub></i> . Como resultado, sobre qualquer intervalo de <i>T </i>a <i>T</i>+t, o produto por trabalhador segue a seguinte lei,</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n4/a09frm02.gif"></p>     <p><font size="2" face="Verdana">em que </font>&#920;<font size="2" face="Verdana">=1 / (1 &#150; </font><font><i>&#945; </i></font><font size="2" face="Verdana">&#150;</font> <font><i>&#947;</i></font><font size="2" face="Verdana"> &#150;</font> <font><i>&#946;</i></font><font size="2" face="verdana">)ln</font><font size="2" face="Verdana"><i> &#934;</i></font> <font size="2" face="Verdana">&#150;</font><font size="2" face="verdana"> ln <i>A<sub>T</sub> </i></font><font size="2" face="Verdana">&#150;</font><font size="2" face="verdana"> <i>gT </i>e </font><font>&#955;</font><font size="2" face="verdana"><i><sub>i </sub></i>&eacute; a taxa de converg&ecirc;ncia em dire&ccedil;&atilde;o ao estado estacion&aacute;rio.</font></p>     <p><font size="2" face="Verdana">As equa&ccedil;&otilde;es (2) e (3) representam uma vers&atilde;o restrita do modelo de Solow, com uma restri&ccedil;&atilde;o n&atilde;o linear entre os coeficientes da regress&atilde;o. A fim de superar este problema, assume-se o mesmo valor da </font><font>&#955;</font><font size="2" face="verdana"><i><sub>i </sub></i></font><font size="2" face="Verdana"> para todos os munic&iacute;pios da amostra; o que, por sua vez, gera uma vers&atilde;o irrestrita do modelo de Solow do produto por trabalhador:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm04.gif"></p>     <p><font size="2" face="Verdana">A evid&ecirc;ncia de converg&ecirc;ncia &eacute; associada com o sinal negativo para -(1-<i> <img src="/img/revistas/resr/v47n4/a09img05.gif" align="absmiddle"></i>) t no modelo restrito ou para </font><font><i>&#946;</i></font><font size="2" face="Verdana"><sub>1</sub> no modelo irrestrito. A intui&ccedil;&atilde;o &eacute; que a converg&ecirc;ncia ocorre quando economias com renda <i>per capita </i>baixa crescem mais r&aacute;pido que economias com renda <i>per capita </i>alta.</font></p>     <p><font size="2" face="Verdana"><b><i>4.2. Evid&ecirc;ncias para M&uacute;ltiplos Regimes ou Clubes de Converg&ecirc;ncia</i></b></font></p>     <p><font size="2" face="Verdana">Na literatura contempor&acirc;nea &eacute; comum observar modelos que s&atilde;o baseados na id&eacute;ia de que podem existir fun&ccedil;&otilde;es de produ&ccedil;&atilde;o que n&atilde;o sejam c&ocirc;ncavas, permitindo diferentes equil&iacute;brios de estado estacion&aacute;rio para diferentes condi&ccedil;&otilde;es iniciais. Um destes modelos &eacute; o de Azariadis-Drazen (1990), que introduz um efeito limiar (<i>threshold) </i>no processo de acumula&ccedil;&atilde;o de capital f&iacute;sico ou humano, de forma que</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm05.gif"></p>     <p><font size="2" face="Verdana">no qual</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09img09.gif"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Este tipo de n&atilde;o-convexidade<a name="tx08"></a><a href="#nt08"><sup>8</sup></a>, para alguns valores limiares de <img src="/img/revistas/resr/v47n4/a09img06.gif" align="absmiddle"> e <img src="/img/revistas/resr/v47n4/a09img07.gif" align="absmiddle">, gera m&uacute;ltiplos estados estacion&aacute;rios com a seguinte lei de forma&ccedil;&atilde;o,</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm06.gif"></p>     <p><font size="2" face="Verdana">em que</font></p>     <p><img src="/img/revistas/resr/v47n4/a09img10.gif"></p>     <p><font size="2" face="Verdana">Assim, os munic&iacute;pios ir&atilde;o seguir umas das quatro leis de forma&ccedil;&atilde;o distintas do Modelo de Solow, de acordo com o relacionamento entre (<i>K<sub>i,t</sub> </i>, <i>H<sub>i,t</sub></i>) e <img src="/img/revistas/resr/v47n4/a09img11.gif" align="absmiddle"></font></p>     <p><font size="2" face="Verdana">&Eacute; importante observar que o modelo ilustrado acima encoraja a estrat&eacute;gia emp&iacute;rica adotada neste trabalho, o qual tem como principal objetivo analisar o comportamento dos subgrupos de munic&iacute;pios, identificados por dota&ccedil;&otilde;es iniciais da renda agr&iacute;cola <i>per capita </i>e seguindo diferentes tipos de regress&otilde;es de crescimento de Solow.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>5. Metodologia</b></font></p>     <p><font size="2" face="Verdana"><b><i>5.1. Modelo Threshold e Intervalo de Confian&ccedil;a</i></b></font></p>     <p><font size="2" face="Verdana">A abordagem descrita abaixo &eacute; baseada em Hansen (2000), que desenvolveu um modelo que permite a divis&atilde;o da amostra baseada em uma fun&ccedil;&atilde;o indicadora, a qual utiliza vari&aacute;veis observ&aacute;veis, definidas previamente, como determinantes na divis&atilde;o da amostra em subgrupos. As equa&ccedil;&otilde;es a seguir descrevem o modelo e as t&eacute;cnicas de infer&ecirc;ncia estat&iacute;stica necess&aacute;rias para a an&aacute;lise emp&iacute;rica proposta neste trabalho.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O modelo de regress&atilde;o com efeito <i>threshold </i>pode ser expresso como:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm07.gif"></p>     <p><font size="2" face="Verdana">no qual <i>q<sub>i</sub> </i>&eacute; a vari&aacute;vel <i>threshold, </i>a qual &eacute; usada para dividir a amostra em dois grupos que podem ser chamados de classes ou regimes. A vari&aacute;vel aleat&oacute;ria <i>e<sub>i</sub> </i>&eacute; o erro de regress&atilde;o. </font></p>     <p><font size="2" face="Verdana">Para escrever o modelo em uma &uacute;nica equa&ccedil;&atilde;o, define-se a vari&aacute;vel <i>dummy di </i>(</font><font>&#947;</font><font size="2" face="verdana">)= <i>I</i>{<i>qi </i><u>&lt;</u> </font><font>&#947;</font><font size="2" face="verdana">}, onde <i>I</i>{} &eacute; uma fun&ccedil;&atilde;o indicadora, e faz-se <i>x<sub>i</sub> </i>(</font><font>&#947;</font><font size="2" face="verdana">)= <i>x<sub>i</sub> d<sub>i</sub> </i>(</font><font>&#947;</font><font size="2" face="verdana">), tal que:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm09.gif"></p>     <p><font size="2" face="Verdana">em que </font><font>&#948;</font><font size="2" face="verdana"><i><sub>n </sub></i>= </font><font>&#952;</font><font size="2" face="verdana"><sub>2</sub>-</font><font> &#952;</font><font size="2" face="verdana"><sub>1</sub> .</font></p>     <p><font size="2" face="Verdana">A equa&ccedil;&atilde;o (9) pode ser representada na forma matricial. Isto &eacute;, <i>Y </i>e <i>e </i>s&atilde;o vetores (<i>n x 1</i>); <i>X </i>e <i>X</i>g matrizes com dimens&atilde;o (<i>n x m</i>); ent&atilde;o, a equa&ccedil;&atilde;o (9) pode ser escrita como,</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm10.gif"></p>     <p><font size="2" face="Verdana">Os par&acirc;metros da equa&ccedil;&atilde;o acima (</font><font><i>&#952;</i></font><i><font size="2" face="verdana">, </font><font>&#948;</font><font size="2" face="verdana">n , </font><font>&#947;</font></i><font size="2" face="verdana">) podem ser estimados por m&iacute;nimos quadrados. Definindo <i>Sn </i>(</font><font><i>&#952;</i></font><i><font size="2" face="verdana">, </font><font>&#948;</font><font size="2" face="verdana">n , </font><font>&#947;</font></i><font size="2" face="verdana">)=(<i>Y</i>&#150;<i>X</i></font><font><i>&#952;</i></font><font size="2" face="verdana">&#150;<i>X</i></font><font><sub>&#947;</sub></font> <font><i>&#948;</i></font><font size="2" face="verdana">)' (<i>Y</i>&#150;<i>X</i></font><font><i>&#952;</i></font><font size="2" face="verdana">&#150;<i>X</i></font><font><sub>&#947;</sub></font> <font><i>&#948;</i></font><font size="2" face="verdana">), como a fun&ccedil;&atilde;o de soma de quadrados dos erros, por defini&ccedil;&atilde;o os estimadores de m&iacute;nimos quadrados <img src="/img/revistas/resr/v47n4/a09img15.gif" align="absmiddle"> , minimizam a soma acima. Neste processo, assume-se que  </font><font>&#947;</font><font size="2" face="verdana"> &eacute; restrito a um conjunto limitado <img src="/img/revistas/resr/v47n4/a09img08.gif" align="absmiddle"> =</font> &#915;<font size="2" face="verdana">.</font></p>     <p><font size="2" face="Verdana">Condicionando os par&acirc;metros da equa&ccedil;&atilde;o (10) em rela&ccedil;&atilde;o aos valores de </font> <font>&#947;</font><font size="2" face="Verdana">, obt&eacute;m-se os estimadores de m&iacute;nimos quadrados condicionados, <img src="/img/revistas/resr/v47n4/a09img12.gif" align="absmiddle"> e <img src="/img/revistas/resr/v47n4/a09img13.gif" align="absmiddle">, atrav&eacute;s da regress&atilde;o de <i>Y </i>em <i> <img src="/img/revistas/resr/v47n4/a09img14.gif" align="absmiddle"></i> =&#91;<i>X X </i></font><i> <font>&#947;</font></i><font size="2" face="Verdana">&#93;. Assim, <i>S<sub>n</sub> </i>(</font><font><i>&#952;</i></font><i><font size="2" face="verdana">, </font><font>&#948;</font><font size="2" face="verdana">,</font></i><font size="2" face="verdana"></font><font>&#947;</font><font size="2" face="verdana">) pode ser escrita na forma concentrada:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n4/a09frm11.gif"></p>     <p><font size="2" face="Verdana">Para encontrar o valor de <img src="/img/revistas/resr/v47n4/a09img16.gif" align="absmiddle"> que minimiza a equa&ccedil;&atilde;o (9) deve-se realizar uma varredura sobre os valores de </font><font>&#947;</font><font size="2" face="verdana">; i.e. sobre  </font><font>&#915;</font><font size="2" face="verdana">, tal que </font></p>     <p><img src="/img/revistas/resr/v47n4/a09img17.gif"></p>     <p><font size="2" face="Verdana">no qual </font><font>&#915;</font><font size="2" face="Verdana"><i><sub>n </sub></i>=<img src="/img/revistas/resr/v47n4/a09img08.gif" align="absmiddle"></font>&#8745;<font size="2" face="Verdana">{<i>q</i><sub>1</sub> ,...<i>q<sub>n</sub></i>}, e {<i>q</i><sub>1</sub> ,K<i>,q<sub>n</sub></i>} &eacute; a amostra de vari&aacute;veis candidatas &agrave; vari&aacute;vel <i>threshold</i>. Ap&oacute;s a determina&ccedil;&atilde;o de <img src="/img/revistas/resr/v47n4/a09img16.gif" align="absmiddle">, as estimativas de MQO de </font><font><i>&#952;</i></font><font size="2" face="Verdana"> e  </font><font>&#947;</font><font size="2" face="Verdana">, s&atilde;o dadas por <img src="/img/revistas/resr/v47n4/a09img18.gif" align="absmiddle"> = <img src="/img/revistas/resr/v47n4/a09img18.gif" alt="" align="absmiddle">' (<img src="/img/revistas/resr/v47n4/a09img16.gif" align="absmiddle"> ) e <img src="/img/revistas/resr/v47n4/a09img19.gif" align="absmiddle">= <img src="/img/revistas/resr/v47n4/a09img19.gif" align="absmiddle">' (<img src="/img/revistas/resr/v47n4/a09img16.gif" align="absmiddle"> ). </font></p>     <p><font size="2" face="Verdana">Em geral, a estima&ccedil;&atilde;o do intervalo de confian&ccedil;a no modelo <i>threshold </i>&eacute; encontrada atrav&eacute;s da invers&atilde;o da estat&iacute;stica de Wald ou da estat&iacute;stica <i>t</i>. No entanto, como no modelo em quest&atilde;o o par&acirc;metro  </font><font>&#947;</font><font size="2" face="Verdana"> n&atilde;o &eacute; identificado, a estat&iacute;stica de Wald tem suas propriedades de pequenas amostras prejudicadas<a name="tx09"></a><a href="#nt09"><sup>9</sup></a>. A estrat&eacute;gia utilizada por Hansen &eacute; baseada na estat&iacute;stica de verossimilhan&ccedil;a <i>LR<sub>n</sub> </i>(</font><font>&#947;</font><font size="2" face="Verdana">).</font></p>     <p><font size="2" face="Verdana">Para elaborar regi&otilde;es de confian&ccedil;a baseado em <i>LR<sub>n</sub> </i>( </font><font>&#947;</font><font size="2" face="Verdana">), define-se <i>C </i>como o n&iacute;vel de intervalo de confian&ccedil;a assint&oacute;tico (<i>C </i>= 0,95) e <i>c</i>= <i>c </i></font><font><sub>&#958;</sub></font><font size="2" face="verdana">  (C ) como o valor cr&iacute;tico do intervalo <img src="/img/revistas/resr/v47n4/a09img20.gif" align="absmiddle"> ={</font><font>&#947;</font><font size="2" face="verdana">: <i>LR<sub>n</sub> </i>(</font><font>&#947;</font><font size="2" face="verdana">) <u>&lt;</u><i> c</i>}.</font></p>     <p><font size="2" face="Verdana">Observe-se que se a hip&oacute;tese de homocedasticidade &eacute; rejeitada, a estat&iacute;stica de verossimilhan&ccedil;a pode ser redefinida como:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm12.gif"></p>     <p><font size="2" face="Verdana"><b>5.2. O Modelo Econom&eacute;trico - A Equa&ccedil;&atilde;o de Converg&ecirc;ncia</b></font></p>     <p><font size="2" face="Verdana">A an&aacute;lise emp&iacute;rica consiste de dois passos. No primeiro, o modelo <i>threshold</i> identifica a exist&ecirc;ncia de m&uacute;ltiplos regimes ou dos clubes de converg&ecirc;ncia e, no segundo, s&atilde;o estimadas regress&otilde;es por M&iacute;nimos Quadrados Ordin&aacute;rios para cada um dos clubes identificados<a name="tx10"></a><a href="#nt10"><sup>10</sup></a>.</font> </p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O modelo econom&eacute;trico &eacute; obtido utilizando o mesmo valor de  	</font><font>&#955;</font><font size="2" face="verdana"><i><sub>i </sub></i>para todos os munic&iacute;pios, resultando na seguinte equa&ccedil;&atilde;o para o produto por trabalhador.</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09frm11a.gif"></p>     <p><font size="2" face="Verdana">Onde e  	</font><font><i>&#949;</i></font><font size="2" face="verdana"> ~ <i>N</i>(0,</font><font>&#937;<sub><i>&#949;</i></sub></font><font size="2" face="verdana">) &eacute; o erro da regress&atilde;o e assume-se, seguindo Mankiw et al. (1992), que <i>g </i>= 0,02 e  	</font><font><i>&#948;</i></font><font size="2" face="verdana"> = 0,03. Esta equa&ccedil;&atilde;o ser&aacute; estimada de acordo com o procedimento descrito na se&ccedil;&atilde;o 4.1.</font></p>     <p><font size="2" face="Verdana">A evid&ecirc;ncia de converg&ecirc;ncia &eacute; associada com o sinal negativo para  	</font><font><i>&#946;</i></font><font size="2" face="verdana"><sub>1</sub>. Ou seja, a converg&ecirc;ncia ocorre quando economias com produto <i>per capita </i>menor crescem mais r&aacute;pido que economias com produto <i>per capita </i>maior. Vale salientar, que a taxa de converg&ecirc;ncia em estado estacion&aacute;rio &eacute; dada por  	</font><font>&#955;</font><font size="2" face="verdana"><i>i </i>= ln(1+</font><font><i>&#946;</i></font><font size="2" face="verdana"><sub>1</sub> ) /  	</font><font>&#964;</font><font size="2" face="verdana">.</font></p>     <p><font size="2" face="Verdana">Os dados utilizados s&atilde;o <i>cross-sections </i>para 141 munic&iacute;pios dos per&iacute;odos de 1970 e 1996, retirados dos Censos Agr&iacute;colas e dos Censos Demogr&aacute;ficos do IBGE, coletados junto ao Ipeadata<sup><a name="tx11" id="tx11"></a><a href="#nt11">11</a></sup>. As vari&aacute;veis utilizadas s&atilde;o descritas abaixo. Vale ressaltar, tamb&eacute;m, que o estado do Cear&aacute;, segundo o Censo de 2000, possu&iacute;a 187 munic&iacute;pios. Entretanto, considerando o interesse numa an&aacute;lise desagregada, o que levou &agrave; elei&ccedil;&atilde;o do munic&iacute;pio como unidade de observa&ccedil;&atilde;o, h&aacute; uma certa descontinuidade durante o per&iacute;odo amostral. Por quest&otilde;es pol&iacute;ticoadministrativas foram criados v&aacute;rios munic&iacute;pios entre 1970 e 1996; implicando, desta forma, que a amostra teve que ser reduzida para 141 munic&iacute;pios, uma vez que 46 munic&iacute;pios que n&atilde;o existiam em 1970 foram exclu&iacute;dos. </font></p>     <p><font size="2" face="Verdana">Quanto &agrave;s vari&aacute;veis utilizadas, estas s&atilde;o descritas a seguir:</font></p>     <blockquote>       <p><font size="2" face="Verdana">i. (<i>Y </i>/ <i>L</i>)<i><sub>i,t </sub></i>= Foi utilizado como <i>proxy </i>para a renda <i>per capita </i>agr&iacute;cola o valor da produ&ccedil;&atilde;o agropecu&aacute;ria total divido pelo total do pessoal ocupado no meio rural para o munic&iacute;pio <i>i</i>, no ano t = 1970, 1996. O valor da produ&ccedil;&atilde;o da agropecu&aacute;ria exclui a ind&uacute;stria rural e os valores est&atilde;o em milhares de reais de 2000, corrigidos pelo deflator impl&iacute;cito do PIB nacional;</font></p>       <p><font size="2" face="Verdana"> ii. (<i>capital f&iacute;sico</i>)<sub><i>i</i>,1996</sub> = Foi utilizado como <i>proxy </i>para capital f&iacute;sico, o valor m&eacute;dio dos bens agropecu&aacute;rios no per&iacute;odo de 1970 a 1985, dividido pelo n&uacute;mero total de estabelecimentos rurais no ano de 1996 para o munic&iacute;pio <i>i</i>. Os valores dos bens agropecu&aacute;rios est&atilde;o em milhares de reais de 2000, tamb&eacute;m corrigidos pelo deflator impl&iacute;cito do PIB nacional;</font></p>       <p><font size="2" face="Verdana"> iii. (<i>capital humano</i>)<i>i </i>= Foi utilizada como <i>proxy </i>para capital humano a m&eacute;dia de anos de estudo para o per&iacute;odo de 1970 a 2000 do munic&iacute;pio <i>i</i>. Compreende os anos de estudo de pessoas com 25 anos e mais;</font></p>       ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"> iv. (<i>n</i>)<i>i </i>= Compreende a taxa de crescimento m&eacute;dia do pessoal ocupado no meio rural durante 1970 e 1996 do munic&iacute;pio <i>i</i>;</font></p>       <p><font size="2" face="Verdana"> v. (<i>terra</i>)<i>i </i>= Foi utilizado como <i>proxy </i>para terra, uma medida de hectares <i>per capita </i>utilizados na agropecu&aacute;ria no per&iacute;odo de an&aacute;lise. A vari&aacute;vel foi constru&iacute;da, dividindo a &aacute;rea m&eacute;dia total dos estabelecimentos em hectares no per&iacute;odo de 1970 a 1996, pelo n&uacute;mero m&eacute;dio de estabelecimentos rurais do munic&iacute;pio <i>i</i></font></p> </blockquote>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>6. Resultados Emp&iacute;ricos</b></font></p>     <p><font size="2" face="Verdana">A vari&aacute;vel renda agr&iacute;cola <i>per capita </i>1970 foi considerada como candidata &agrave; vari&aacute;vel <i>threshold </i>do modelo. Evid&ecirc;ncias para o efeito <i>threshold </i>s&atilde;o obtidas usando o teste de Multiplicador de Lagrange com corre&ccedil;&atilde;o para heterocedasticidade, como descrito anteriormente. O procedimento consiste em verificar se existe evid&ecirc;ncia para o efeito <i>threshold</i>, considerando a hip&oacute;tese nula de inexist&ecirc;ncia e computando os <i>p-valores </i>via <i>bootstrap</i>.</font></p>     <p><font size="2" face="Verdana">O teste para efeito <i>threshold </i>foi aplicado de forma interativa at&eacute; n&atilde;o haver mais evid&ecirc;ncia estat&iacute;stica da ecessidade de novas subdivis&otilde;es amostrais. A <a href="#tab02">Tabela 2</a> sumariza os resultados encontrados para a divis&atilde;o da amostra entre os n&oacute;s de decis&atilde;o. Esta cont&eacute;m a identifica&ccedil;&atilde;o de cada n&oacute;, os valores da estat&iacute;stica LM, o valor <i>threshold </i>e o intervalo de confian&ccedil;a. Os resultados revelam a exist&ecirc;ncia de tr&ecirc;s n&oacute;s de decis&atilde;o e de quatro n&oacute;s terminais, ou clubes de converg&ecirc;ncia. Os n&oacute;s de decis&atilde;o correspondem ao n&oacute; inicial, um na primeira  intera&ccedil;&atilde;o (1.1) e um na segunda intera&ccedil;&atilde;o (2.1). Desta forma, de acordo com o exposto acima, pode-se concluir pela exist&ecirc;ncia de quatro grupos com caracter&iacute;sticas socioecon&ocirc;micas distintas (1.2; 2.2; 3.1; 3.2).</font></p>     <p><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09tab02.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Para melhor visualiza&ccedil;&atilde;o, foi elaborado um diagrama de &aacute;rvore que cont&eacute;m os n&oacute;s de decis&atilde;o e os n&oacute;s terminais. Nele, os quadrados representam os n&oacute;s de decis&atilde;o e os tri&acirc;ngulos representam os n&oacute;s terminais, ou clubes de converg&ecirc;ncia. As informa&ccedil;&otilde;es em cada quadrado representam a identifica&ccedil;&atilde;o do n&oacute; e o n&uacute;mero de munic&iacute;pios contidos nele. J&aacute; o valor <i>threshold </i>&eacute; disposto nos bra&ccedil;os que saem de cada n&oacute;. Similarmente, a informa&ccedil;&atilde;o dentro do n&oacute; terminal representa sua identifica&ccedil;&atilde;o e o n&uacute;mero de munic&iacute;pios contidos em cada um deles. Ressalta-se que o lado esquerdo de cada n&oacute; de decis&atilde;o cont&eacute;m as observa&ccedil;&otilde;es no qual a vari&aacute;vel &eacute; menor ou igual ao valor <i>threshold </i>(<a href="#fig08">Figura 8</a>).</font></p>     <p><a name="fig08"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09fig08.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">O clube 3.1, correspondente ao clube mais pobre, abrange os 33 munic&iacute;pios com renda agr&iacute;cola <i>per capita </i>inferior a R$ 733,25. O n&oacute; 3.2 corresponde a um clube de converg&ecirc;ncia intermedi&aacute;rio com 56 munic&iacute;pios que possuem a renda agr&iacute;cola <i>per capita </i>entre R$ 733,25 e R$ 1093,45. O n&oacute; terminal 2.2 corresponde ao segundo clube intermedi&aacute;rio, com 43 munic&iacute;pios que possuem a renda agr&iacute;cola <i>per capita</i> entre R$ 1093,45 e R$ 1999,39. Por fim, tem-se o clube de converg&ecirc;ncia 1.2 que corresponde ao clube mais rico, compreendendo os 9 munic&iacute;pios que possuem a renda agr&iacute;cola <i>per capita </i>superior a R$ 1999,39<a href="#nt12"><sup>12</sup></a>.</font><a name="tx12"></a></p>     <p><font size="2" face="Verdana"><b><i>6.1. An&aacute;lise Intra-Clubes</i></b></font></p>     <p><font size="2" face="Verdana">A <a href="#tab03">Tabela 3</a> apresenta os resultados de MQO para cada um dos cinco n&oacute;s terminais e para a amostra total, ou seja, para todo o estado do Cear&aacute;. </font></p>     <p><a name="tab03"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n4/a09tab03.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Observa-se que, quando se considera a amostra total, o coeficiente do logaritmo da renda agr&iacute;cola <i>per capita </i>dos munic&iacute;pios apresenta-se significante e com sinal negativo, indicando que existe converg&ecirc;ncia entre os mesmos. E ainda, o capital f&iacute;sico, o capital humano e a tecnologia mostraram-se significantes. J&aacute; em rela&ccedil;&atilde;o &agrave; terra, esta n&atilde;o se mostrou importante para explicar o processo de converg&ecirc;ncia, considerando a amostra global.</font></p>     <p><font size="2" face="Verdana">Ao analisar os n&oacute;s terminais, observa-se a forma&ccedil;&atilde;o de quatro clubes de converg&ecirc;ncia bem distintos. O grupo 1.2 &eacute; o grupo de munic&iacute;pios com maior renda agr&iacute;cola <i>per capita</i>; o grupo 3.1 &eacute; o grupo com menor renda agr&iacute;cola <i>per capita</i>; j&aacute; os grupos 2.2 e 3.2 s&atilde;o os clubes com renda intermedi&aacute;ria.</font></p>     <p><font size="2" face="Verdana">Observando os resultados para o clube com maior renda agr&iacute;cola <i>per capita</i> (superior a R$ 1999,39 (1.2)), constata-se a exist&ecirc;ncia de converg&ecirc;ncia dentro deste grupo, bem como &eacute; poss&iacute;vel observar que o capital f&iacute;sico, o capital humano, a terra e a tecnologia se mostraram importantes para explicar o referido processo. </font></p>     <p><font size="2" face="Verdana">Com rela&ccedil;&atilde;o ao clube com menor renda agr&iacute;cola <i>per capita </i>(inferior a R$ 733,25 (3.1)), nota-se que o processo de converg&ecirc;ncia se manifesta e que o capital f&iacute;sico e o capital humano mostraram-se importantes na explica&ccedil;&atilde;o do crescimento desses munic&iacute;pios; entretanto, a terra e a tecnologia foram insignificantes. Dada &agrave;s condi&ccedil;&otilde;es socioecon&ocirc;micas prec&aacute;rias deste clube, os resultados comprovam as expectativas preliminares de que tanto o capital f&iacute;sico quanto o capital humano fossem importantes para explicar o seu processo de crescimento, o que tamb&eacute;m era esperado para a dota&ccedil;&atilde;o de terra.</font></p>     <p><font size="2" face="Verdana">Os resultados do clube com renda agr&iacute;cola <i>per capita </i>intermedi&aacute;ria (3.2), dentro do intervalo de R$ 733,25 e R$ 1093,45, mostraram a exist&ecirc;ncia de converg&ecirc;ncia entre os munic&iacute;pios, bem como que o capital f&iacute;sico, o capital humano e a tecnologia mostram-se importantes no processo de converg&ecirc;ncia do clube, por&eacute;m, a terra n&atilde;o se mostrou expressiva.</font></p>     <p><font size="2" face="Verdana">Em rela&ccedil;&atilde;o ao clube (2.2), que se situa dentro do intervalo de R$ 1.093,45 e R$  1.999,39, os resultados apresentados na <a href="#tab03">Tabela 3</a> s&atilde;o d&uacute;bios no que se refere &agrave; exist&ecirc;ncia de um processo de converg&ecirc;ncia neste grupo de munic&iacute;pios. Apesar do coeficiente do logaritmo da renda agr&iacute;cola <i>per capita </i>do per&iacute;odo inicial apresentar sinal negativo indicando a exist&ecirc;ncia de converg&ecirc;ncia, o mesmo n&atilde;o &eacute; estatisticamente significante aos n&iacute;veis usuais. Neste clube, os par&acirc;metros do capital f&iacute;sico, do capital humano e da tecnologia foram significantes, por&eacute;m, o coeficiente da terra n&atilde;o apresenta signific&acirc;ncia estat&iacute;stica. Essa aus&ecirc;ncia de defini&ccedil;&atilde;o quanto ao processo de converg&ecirc;ncia ou diverg&ecirc;ncia pode estar indicando que os munic&iacute;pios pertencentes a este clube est&atilde;o em transi&ccedil;&atilde;o e podem, posteriormente, migrar para outros clubes ou mesmo formar outros.</font></p>     <p><font size="2" face="Verdana">A <a href="#fig09">Figura 9</a> traz a dispers&atilde;o dos munic&iacute;pios, levando-se em considera&ccedil;&atilde;o a classifica&ccedil;&atilde;o dos quatro clubes de converg&ecirc;ncia, bem como mostra os contornos para as microrregi&otilde;es estaduais. Nesta Figura, observa-se que os munic&iacute;pios pertencentes ao clube de converg&ecirc;ncia mais pobre concentram-se na regi&atilde;o Norte e Centro Oeste do estado, principalmente, nas microrregi&otilde;es de Corea&uacute;, Meruoca, Santa Quit&eacute;ria, Sert&atilde;o de Crate&uacute;s e Litoral do Aracati; o que atesta os resultados preliminares encontrados sobre os seus indicadores sociais. Quanto aos outros clubes, estes apresentam os munic&iacute;pios dispersos por todo o espa&ccedil;o geogr&aacute;fico do estado.</font></p>     <p><a name="fig09"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a09fig09.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Considerando todas as regress&otilde;es, verifica-se que tanto o capital humano quanto o capita f&iacute;sico mostraram-se significantes para explicar o processo de crescimento dos munic&iacute;pios cearenses. Entretanto, a <i>proxy </i>utilizada para terra foi significante apenas para os dois clubes de maiores renda.</font></p>     <p><font size="2" face="Verdana">Estes resultados corroboram as evid&ecirc;ncias encontradas por Barreto e Almeida (2008), onde os autores estudaram o papel do capital humano para o crescimento econ&ocirc;mico e a converg&ecirc;ncia de renda dos munic&iacute;pios do Cear&aacute; no per&iacute;odo de 1996 a 2003. Atrav&eacute;s do uso de um modelo de efeitos fixos com depend&ecirc;ncia espacial, esses autores comprovaram a exist&ecirc;ncia de converg&ecirc;ncia condicional, bem como encontraram que o crescimento do PIB <i>per capita </i>foi afetado negativamente pela vari&aacute;vel densidade demogr&aacute;fica e, positivamente, pelas vari&aacute;veis capital humano, infra-estrutura, capital social, mercado regional e externalidades espaciais.</font></p>     <p><font size="2" face="Verdana">Os resultados obtidos por Lau et al. (2003) que estudaram o papel do capital humano no crescimento econ&ocirc;mico do setor agr&iacute;cola brasileiro em 1970, 1975 e 1980, mostram signific&acirc;ncia para o capital humano, encontrando uma elasticidade de 0,21 para o mesmo.</font></p>     <p><font size="2" face="Verdana">J&aacute; o estudo de Freitas e Bacha (2004), que estimou a contribui&ccedil;&atilde;o do capital humano para o setor agr&iacute;cola no per&iacute;odo entre 1970 e 1996, para os estados brasileiros, encontrou que o capital humano &eacute; relevante; no entanto, o capital f&iacute;sico n&atilde;o foi significante. Vale ressaltar que quando estes autores utilizam o efeito <i>threshold </i>para mensurar a contribui&ccedil;&atilde;o do capital humano, este se mostra insignificante.</font></p>     <p><font size="2" face="Verdana">J&aacute; para o insumo terra, os resultados encontrados nesse estudo podem ser explicados pela grande concentra&ccedil;&atilde;o fundi&aacute;ria no estado. Conforme Souza e Lima (2003), os resultados para o &iacute;ndice de Gini para a terra concluem que o estado do Cear&aacute; apresenta a distribui&ccedil;&atilde;o da terra com caracter&iacute;stica de concentra&ccedil;&atilde;o forte a muito forte. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>7. Conclus&atilde;o</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Este trabalho teve como objetivo investigar a exist&ecirc;ncia de um processo de converg&ecirc;ncia do PIB agr&iacute;cola entre os munic&iacute;pios do Cear&aacute;, levando em considera&ccedil;&atilde;o a possibilidade de exist&ecirc;ncia de grupos de munic&iacute;pios com caracter&iacute;sticas diferentes.</font></p>     <p><font size="2" face="Verdana">Os resultados mostraram que a hip&oacute;tese de grupos de munic&iacute;pios com caracter&iacute;sticas socioecon&ocirc;micas diferentes foi comprovada, indicando a exist&ecirc;ncia de quatro clubes de converg&ecirc;ncia. J&aacute; dentro dos clubes de onverg&ecirc;ncia, os resultados mostraram que a hip&oacute;tese de converg&ecirc;ncia verifica-se dentro de tr&ecirc;s dos quatro clubes.</font></p>     <p><font size="2" face="Verdana">Os resultados tamb&eacute;m mostraram que o capital humano parece influenciar mais o processo de crescimento dos munic&iacute;pios do que o capital f&iacute;sico, que s&oacute; foi significante em tr&ecirc;s clubes. Os resultados aqui encontrados para o capital humano corroboram os resultados de Freitas e Bacha (2004), que tamb&eacute;m encontraram evid&ecirc;ncias fortes para import&acirc;ncia do capital humano no processo de crescimento.</font></p>     <p><font size="2" face="Verdana">Pode-se observar ainda que os munic&iacute;pios que apresentaram os piores indicadores sociais como, por exemplo, anos de educa&ccedil;&atilde;o, foram aqueles que formaram o clube de converg&ecirc;ncia com menor renda <i>per capita. </i>J&aacute; os demais clubes s&atilde;o compostos por munic&iacute;pios dispersos por todo o espa&ccedil;o geogr&aacute;fico do estado.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>8. Refer&ecirc;ncias Bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana">ALENCAR, Fredrico A. Gomes. <i>Searching for Socioeconomic Patterns in the Brazilian Municipalities. An Analysis of Clube Convergence</i>. Texto para Discuss&atilde;o<i>, </i>2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S0103-2003200900040000900001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ALMEIDA, M. B.; CASTELAR, I.; CARVALHO J&Uacute;NIOR, J. R. A. e FRAN&Ccedil;A, J. M. S., <i>Padr&otilde;es de &acirc;-converg&ecirc;ncia e &oacute;-converg&ecirc;ncia: Uma An&aacute;lise da Ind&uacute;stria Brasileira.</i> Revista Econ&ocirc;mica do Nordeste, Fortaleza, v28, pp. 275-288, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000201&pid=S0103-2003200900040000900002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">ARRAES, R. de A. <i>Hip&oacute;tese de Converg&ecirc;ncia da Renda per capita e da Produtividade Setorial para o Nordeste. </i>Fortaleza, CAEN/UFC, Texto para Discuss&atilde;o, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000203&pid=S0103-2003200900040000900003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">AZARIADIS, C. e DRAZEN, A. <i>Threshold Externalities in Economic Development,.Quarterly Journal of Economics</i>, vol.105, no.2, pp. 501-526, 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000205&pid=S0103-2003200900040000900004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BENHABIB, J. E SPIEGEL, M<b>. </b><i>The Role of Human Capital in Economic Development: Evidence from Aggregate Cross-Country Data</i>. Journal of Monetary Economics, 34 (2):143-174, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000207&pid=S0103-2003200900040000900005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      <!-- ref --><p><font size="2" face="Verdana">BREIMAN, L., FRIEDMAN, J. L., OLSHEN, R.A. e STONE, C.J., <i>Classification and Regression Tress, </i> Wadsworth, Belmont, CA, 1984.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000209&pid=S0103-2003200900040000900006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      <!-- ref --><p><font size="2" face="Verdana">BRUM, Argemiro Jr. <i>Desenvolvimento Econ&ocirc;mico Brasileiro. </i>23ª Edi&ccedil;&atilde;o, Editora Vozes, 569p, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000211&pid=S0103-2003200900040000900007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">C&Acirc;MARA, L. <i>A Concentra&ccedil;&atilde;o da Propriedade Agr&aacute;ria no Brasil. </i>Boletim Geogr&aacute;fico, Rio de Janeiro, v. 7, n.77, pp. 516-528, ago.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000213&pid=S0103-2003200900040000900008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->,</font></p>     <!-- ref --><p><font size="2" face="Verdana">DESDOIGTS, A., <i>Patterns of Economic Development and the Formation Clubs, </i>Journal of Economic Growth, vol.4, n3, pp. 305-30, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000215&pid=S0103-2003200900040000900009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DUALAUF, S. N., KOURTELLOS, A. e MINKIN, A., <i>The Local Solow Growth Model</i>, European Economic Review, vol. 45, n4-6, pp. 928940, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000217&pid=S0103-2003200900040000900010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      <!-- ref --><p><font size="2" face="Verdana">DUFOUR, Jean-Marie., <i>Some Impossibility Theorems in Econometrics with Applications to Structural and Dynamic Models. </i>Econometrica, 65, pp. 1365-1388, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000219&pid=S0103-2003200900040000900011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p> <font face="Verdana">     <!-- ref --><p><font size="2">DURLAUF, S. N. e JOHNSON, P., <i>Multiple Regimes and Cross-Country Growth Behaviour</i>, Journal of Applied Econometrics, vol. 10, n4, pp. 365-384, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000221&pid=S0103-2003200900040000900012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p> </font>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">FREITAS, C. A. e BACHA, C. J. C. <i>Contribui&ccedil;&atilde;o do Capital Humano para o Crescimento da Agropecu&aacute;ria Brasileira &#150; Per&iacute;odo de 1970 a 1996. </i>Revista Brasileira de Economia, 58 (4), pp. 533-557, out/dez, 2004</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000223&pid=S0103-2003200900040000900013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">GALOR, O., <i>Convergece? Inferences from Theoretical Models</i>, Economic Journal, vol. 106, n437, pp. 1056-1069, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000224&pid=S0103-2003200900040000900014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HANSEN, B. E., <i>Sample Splitting and Threshold Estimation, </i>Econometrica, vol. 68, n3, pp.575-603, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000226&pid=S0103-2003200900040000900015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HANUSHEK, E. A. e KIMKO, D. D. <i>Schooling, Labor-Force Quality, and Gowth of Nations. </i> American Economic Review, 90(5):1184-208, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000228&pid=S0103-2003200900040000900016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      <!-- ref --><p><font size="2" face="Verdana">HOFFMANN, R. <i>Estat&iacute;stica para Economistas</i>. 2. ed. S&atilde;o Paulo: Livraria Pioneira Editora. 1991. 426p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000230&pid=S0103-2003200900040000900017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">JONES, C.I., <i>On the Evolution of World Income Distribuition. </i>Journal of Economic Perspectives, vol. 11, n3, pp.19-36, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000232&pid=S0103-2003200900040000900018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KRUEGER, A. B.; LINDAHL, M<b>. </b><i>Education for Growth<b>: </b>Why and for Whom? </i>Journal of Economic Literature, 39(4):1101-1136, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000234&pid=S0103-2003200900040000900019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LAU, L. J.; JAMISON, D. T.; LIU, S. e RIVKIN, S. <i>Education and Economic Growth: Some Cross-Sectional Evidence from Brazil </i> Journal of Development Economics, 41, pp. 45-70, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000236&pid=S0103-2003200900040000900020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      <!-- ref --><p><font size="2" face="Verdana">LUCAS, R. <i>On the Mechanics of Economic Development, </i>Journal of Monetary Economics, 22, pp.3-42, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000238&pid=S0103-2003200900040000900021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MANKIW, N. G., D., ROMER, e D. WEIL, <i>A Contribution to the Empirics of Economic Growth</i>, Quarterly Journal of Economics, vol. 107, n2, pp. 407-437, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000240&pid=S0103-2003200900040000900022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      <!-- ref --><p><font size="2" face="Verdana">OLIVEIRA JUNIOR, J. N; CASTELAR, I.; FERREIRA, R. T. <i>Converg&ecirc;ncia Microrregional no Setor Agr&iacute;cola usando um Modelo Threshold</i>, 2007. Dispon&iacute;vel em:&lt;<a href="http://www.anpec.org.br/encontro2007/artigos/A07A123.pdf" target="_blank">http://www.anpec.org.br/encontro2007/artigos/A07A123.pdf</a>&gt; Acesso em 3 jan 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000242&pid=S0103-2003200900040000900023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">PRITCHETT, L. <i>Divergence, Big Time</i>. Journal of Economic Pespectives, vol.11, n3, pp.3-17, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000244&pid=S0103-2003200900040000900024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">QUAH, D. <i>Twin Peaks: Growth and Convergence in Models of Distributions Dynamics</i>, Economic Journal, vol. 106, n437, pp.1045-1055, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000246&pid=S0103-2003200900040000900025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">__________, <i>Empirics for Growth and Distribution: Stratification, Polarization and Convergence Clubs. </i>Journal of Economic Growth, 2(1):27-59, march, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000248&pid=S0103-2003200900040000900026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">REPPAPROT, J., <i>Local Growth Empirics, </i>Center for International Development at Harvard University &#150; CID Working Paper n 23, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000250&pid=S0103-2003200900040000900027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ROMER, P. <i>Increasing Returns and Long Run Growth. </i>Journal of Political Economy, Octuber, 1986.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000252&pid=S0103-2003200900040000900028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SOBRERIA, C.E.P., SOARES, R.B., FILHO, A. B. e TEIXEIRA, R. M. G. <i>Gastos P&uacute;blicos Na Agricultura Brasil &#150; Cear&aacute;</i></font><font size="2" face="Verdana">. Texto para Discuss&atilde;o, n 19, IPECE, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000254&pid=S0103-2003200900040000900029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SOUZA, Paulo Marcelo.; LIMA, Jo&atilde;o Eust&aacute;quio de, <i>A Distribui&ccedil;&atilde;o da Terra no Brasil e nas Unidades da Federa&ccedil;&atilde;o, 1970 &#150; 95/96. </i>Revista de Economia do Nordeste, Fortaleza, v. 34, n.1, jan-mar. 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000256&pid=S0103-2003200900040000900030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">WOLF, E. N. <i>Human Capital Investment and Economic Growth: Exploring Cross CountryEvidence</i>. Structural Change and Economic Dynamics, 11(4):433-472, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000258&pid=S0103-2003200900040000900031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <font size="2" face="Verdana"><a name="nt01"></a><a href="#tx01">1</a> O hiato &eacute; entendido como o logaritmo da raz&atilde;o entre o estado de maior renda per capita  (S&atilde;o Paulo) e o estado i.    <br> <a name="nt02"></a><a href="#tx02">2</a> Foi utilizado como proxy para renda o PIB dos estados.    ]]></body>
+<body><![CDATA[<br> <a name="nt03"></a><a href="#tx03">3</a> O IDH relativo &agrave; educa&ccedil;&atilde;o &eacute; obtido a partir da taxa de alfabetiza&ccedil;&atilde;o e da taxa bruta de freq&uuml;&ecirc;ncia &agrave; escola, convertidas em &iacute;ndices por: (valor observado - limite inferior) / (limite superior - limite inferior), com limites inferior e superior de 0% e 100%. O IDH-Educa&ccedil;&atilde;o &eacute; a m&eacute;dia desses 2 &iacute;ndices, com peso 2 para o da taxa de alfabetiza&ccedil;&atilde;o e peso 1 para o da taxa bruta de freq&uuml;&ecirc;ncia.    <br> <a name="nt04"></a><a href="#tx04">4</a> Valores em reais de 2000, deflacionados pelo Deflator Impl&iacute;cito do PIB Nacional. Avari&aacute;vel foi constru&iacute;da dividindo o valor da produ&ccedil;&atilde;o agropecu&aacute;ria pelo total da popula&ccedil;&atilde;o ocupada no meio rural.    <br> <a name="nt05"></a><a href="#tx05">5</a> Valores em reais de 2000, deflacionados pelo Deflator Impl&iacute;cito do PIB Nacional. Avari&aacute;vel foi constru&iacute;da dividindo o valor m&eacute;dio dos bens pelo n&uacute;mero total deestabelecimentos rurais.    <br> <a name="nt06"></a><a href="#tx06">6</a> A defini&ccedil;&atilde;o &iacute;ndice de Gini pode ser dada pela curva de Lorenz. Seja o p o valor propor&ccedil;&atilde;o acumulado da popula&ccedil;&atilde;o at&eacute; certo estrato e F o valor correspondente &agrave; propor&ccedil;&atilde;o acumulada da posse da terra. Os pares de valores (p, F), para os diversos estratos, ir&atilde;o definir um conjunto de pontos, cuja uni&atilde;o constitui a curva de Lorenz, que mostra como a propor&ccedil;&atilde;o acumulada da posse da terra varia em fun&ccedil;&atilde;o da propor&ccedil;&atilde;o acumulada de propriet&aacute;rios, com os indiv&iacute;duos ordenados de acordo com valores crescentes de tamanho das propriedades (HOFFMANN, 1991).    <br> <a name="nt07"></a><a href="#tx07">7</a> A classifica&ccedil;&atilde;o das faixas do &iacute;ndice de Gini segue a seguinte classifica&ccedil;&atilde;o: de 0-0,100, concentra&ccedil;&atilde;o nula; 0,101-0,250, concentra&ccedil;&atilde;o nula a fraca; 0,251-0,500, concentra&ccedil;&atilde;o fraca a m&eacute;dia; 0,501-0,700, concentra&ccedil;&atilde;o m&eacute;dia a forte; 0,701-0,900, concentra&ccedil;&atilde;o forte a muito forte e, 0,901-1,00, concentra&ccedil;&atilde;o muito forte a absoluta.    <br> <a name="nt08"></a><a href="#tx08">8</a> A n&atilde;o-convexidade da fun&ccedil;&atilde;o de produ&ccedil;&atilde;o est&aacute; intimamente ligada &agrave; heterogeneidade    observada entre os munic&iacute;pios, o que leva &agrave; possibilidade de exist&ecirc;ncia de m&uacute;ltiplos  estados estacion&aacute;rios.    <br> <a name="nt09"></a><a href="#tx09">9</a>  Mais informa&ccedil;&otilde;es ver Dufour (1997).    <br> <a name="nt10"></a><a href="#tx10">10</a> Foram empregadas estima&ccedil;&otilde;es com corre&ccedil;&otilde;es para heterocedasticidade. Mais informa&ccedil;&otilde;es ver Durlauf e Johnson (1995).    <br> <a name="nt11"></a><a href="#tx11">11</a> Ver <a href="http://www.ipea.gov.br" target="_blank">www.ipea.gov.br</a>.    <br> <a name="nt12"></a><a href="#tx12">12</a> Esse valor &eacute; derivado da aplica&ccedil;&atilde;o do antilog no valor <i>threshold </i>correspondente a cada n&oacute; terminal. </font>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALENCAR]]></surname>
+<given-names><![CDATA[Fredrico A. Gomes]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Searching for Socioeconomic Patterns in the Brazilian Municipalities: An Analysis of Clube Convergence]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[M. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTELAR]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARVALHO JÚNIOR]]></surname>
+<given-names><![CDATA[J. R. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRANÇA]]></surname>
+<given-names><![CDATA[J. M. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Padrões de â-convergência e ó-convergência: Uma Análise da Indústria Brasileira]]></article-title>
+<source><![CDATA[Revista Econômica do Nordeste]]></source>
+<year>1997</year>
+<volume>28</volume>
+<page-range>275-288</page-range><publisher-loc><![CDATA[Fortaleza ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARRAES]]></surname>
+<given-names><![CDATA[R. de A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Hipótese de Convergência da Renda per capita e da Produtividade Setorial para o Nordeste]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Fortaleza ]]></publisher-loc>
+<publisher-name><![CDATA[CAENUFC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AZARIADIS]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DRAZEN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threshold Externalities in Economic Development]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>1990</year>
+<volume>105</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>501-526</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BENHABIB]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SPIEGEL]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Role of Human Capital in Economic Development: Evidence from Aggregate Cross-Country Data]]></article-title>
+<source><![CDATA[Journal of Monetary Economics]]></source>
+<year>1994</year>
+<volume>34</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>143-174</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BREIMAN]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRIEDMAN]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OLSHEN]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STONE]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Classification and Regression Tress]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[Wadsworth^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Belmont]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRUM]]></surname>
+<given-names><![CDATA[Argemiro Jr]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desenvolvimento Econômico Brasileiro]]></source>
+<year>2003</year>
+<edition>23</edition>
+<publisher-name><![CDATA[Editora Vozes]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CÂMARA]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A Concentração da Propriedade Agrária no Brasil]]></article-title>
+<source><![CDATA[Boletim Geográfico]]></source>
+<year></year>
+<volume>7</volume>
+<numero>77</numero>
+<issue>77</issue>
+<page-range>516-528</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DESDOIGTS]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Patterns of Economic Development and the Formation Clubs]]></article-title>
+<source><![CDATA[Journal of Economic Growth]]></source>
+<year>1999</year>
+<volume>4</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>305-30</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DUALAUF]]></surname>
+<given-names><![CDATA[S. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KOURTELLOS]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MINKIN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Local Solow Growth Model]]></article-title>
+<source><![CDATA[European Economic Review]]></source>
+<year>2001</year>
+<volume>45</volume>
+<numero>4-6</numero>
+<issue>4-6</issue>
+<page-range>928940</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DUFOUR]]></surname>
+<given-names><![CDATA[Jean-Marie]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Some Impossibility Theorems in Econometrics with Applications to Structural and Dynamic Models]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1997</year>
+<volume>65</volume>
+<page-range>1365-1388</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DURLAUF]]></surname>
+<given-names><![CDATA[S. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JOHNSON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Multiple Regimes and Cross-Country Growth Behaviour]]></article-title>
+<source><![CDATA[Journal of Applied Econometrics]]></source>
+<year>1995</year>
+<volume>10</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>365-384</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREITAS]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C. J. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Contribuição do Capital Humano para o Crescimento da Agropecuária Brasileira: Período de 1970 a 1996]]></article-title>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>out/</year>
+<month>de</month>
+<day>z,</day>
+<volume>58</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>533-557</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GALOR]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Convergece?: Inferences from Theoretical Models]]></article-title>
+<source><![CDATA[Economic Journal]]></source>
+<year>1996</year>
+<volume>106</volume>
+<numero>437</numero>
+<issue>437</issue>
+<page-range>1056-1069</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HANSEN]]></surname>
+<given-names><![CDATA[B. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sample Splitting and Threshold Estimation]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>2000</year>
+<volume>68</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>575-603</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HANUSHEK]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KIMKO]]></surname>
+<given-names><![CDATA[D. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Schooling, Labor-Force Quality, and Gowth of Nations]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>2000</year>
+<volume>90</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>1184-208</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFFMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estatística para Economistas]]></source>
+<year>1991</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Livraria Pioneira Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JONES]]></surname>
+<given-names><![CDATA[C.I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the Evolution of World Income Distribuition]]></article-title>
+<source><![CDATA[Journal of Economic Perspectives]]></source>
+<year>1997</year>
+<volume>11</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>19-36</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KRUEGER]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LINDAHL]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Education for Growth: Why and for Whom?]]></article-title>
+<source><![CDATA[Journal of Economic Literature]]></source>
+<year>2001</year>
+<volume>39</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1101-1136</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAU]]></surname>
+<given-names><![CDATA[L. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JAMISON]]></surname>
+<given-names><![CDATA[D. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIU]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RIVKIN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Education and Economic Growth: Some Cross-Sectional Evidence from Brazil]]></article-title>
+<source><![CDATA[Journal of Development Economics]]></source>
+<year>1993</year>
+<volume>41</volume>
+<page-range>45-70</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUCAS]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the Mechanics of Economic Development]]></article-title>
+<source><![CDATA[Journal of Monetary Economics]]></source>
+<year>1988</year>
+<volume>22</volume>
+<page-range>3-42</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MANKIW]]></surname>
+<given-names><![CDATA[N. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROMER]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEIL]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A Contribution to the Empirics of Economic Growth]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>1992</year>
+<volume>107</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>407-437</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA JUNIOR]]></surname>
+<given-names><![CDATA[J. N]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTELAR]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[R. T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Convergência Microrregional no Setor Agrícola usando um Modelo Threshold]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRITCHETT]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Divergence, Big Time]]></article-title>
+<source><![CDATA[Journal of Economic Pespectives]]></source>
+<year>1997</year>
+<volume>11</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>3-17</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QUAH]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Twin Peaks: Growth and Convergence in Models of Distributions Dynamics]]></article-title>
+<source><![CDATA[Economic Journal]]></source>
+<year>1996</year>
+<volume>106</volume>
+<numero>43</numero>
+<issue>43</issue>
+<page-range>1045-1055</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QUAH]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Empirics for Growth and Distribution: Stratification, Polarization and Convergence Clubs]]></article-title>
+<source><![CDATA[Journal of Economic Growth]]></source>
+<year>marc</year>
+<month>h,</month>
+<day> 1</day>
+<volume>2</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>27-59</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REPPAPROT]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Local Growth Empirics]]></source>
+<year>1999</year>
+<volume>23</volume>
+<publisher-name><![CDATA[Center for International DevelopmentHarvard University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROMER]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Increasing Returns and Long Run Growth]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>Octu</year>
+<month>be</month>
+<day>r,</day>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOBRERIA]]></surname>
+<given-names><![CDATA[C.E.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES]]></surname>
+<given-names><![CDATA[R.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FILHO]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[R. M. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Gastos Públicos Na Agricultura Brasil: Ceará]]></article-title>
+<source><![CDATA[Texto para Discussão]]></source>
+<year>2005</year>
+<numero>19</numero>
+<issue>19</issue>
+<publisher-name><![CDATA[IPECE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[Paulo Marcelo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[João Eustáquio de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A Distribuição da Terra no Brasil e nas Unidades da Federação, 1970 - 95/96]]></article-title>
+<source><![CDATA[Revista de Economia do Nordeste]]></source>
+<year>jan-</year>
+<month>ma</month>
+<day>r.</day>
+<volume>34</volume>
+<numero>1</numero>
+<issue>1</issue>
+<publisher-loc><![CDATA[Fortaleza ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WOLF]]></surname>
+<given-names><![CDATA[E. N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Human Capital Investment and Economic Growth: Exploring Cross CountryEvidence]]></article-title>
+<source><![CDATA[Structural Change and Economic Dynamics]]></source>
+<year>2000</year>
+<volume>11</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>433-472</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

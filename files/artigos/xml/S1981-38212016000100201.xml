@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1981-3821</journal-id>
+<journal-title><![CDATA[Brazilian Political Science Review]]></journal-title>
+<abbrev-journal-title><![CDATA[Bras. Political Sci. Rev.]]></abbrev-journal-title>
+<issn>1981-3821</issn>
+<publisher>
+<publisher-name><![CDATA[Associação Brasileira de Ciência Política]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1981-38212016000100201</article-id>
+<article-id pub-id-type="doi">10.1590/1981-38212016000100001</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Modernization Without Change: Decision-Making Process in the Mercosur Parliament]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Medeiros]]></surname>
+<given-names><![CDATA[Marcelo de Almeida]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Mota]]></surname>
+<given-names><![CDATA[Mariana Hipólito Ramos]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meunier]]></surname>
+<given-names><![CDATA[Isabel]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal de Pernambuco  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,University of Calgary  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Canada</country>
+</aff>
+<aff id="Af3">
+<institution><![CDATA[,Universidade de São Paulo  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2016</year>
+</pub-date>
+<volume>10</volume>
+<numero>1</numero>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1981-38212016000100201&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1981-38212016000100201&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1981-38212016000100201&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[This article analyzes the role of Mercosur's Parliament within Mercosur&#8217;s institutional design and decision-making process by associating its institutional arrangements to potential outcomes over representativeness. Generally, it discusses how representative Mercosur&#8217;s chosen mechanism for ruling seats in its Parliament, the so-called &#8220;citizen representation&#8221;, is and how that might affect coordination trends and solutions concerning political conflicts. Hence, the article investigates such mechanism in terms of its consequences for representativeness. The method relies on a Game Theoretical perspective through the application of the Banzhaf Index, which seeks to precisely measure the power of each player as their capacity to influence decisions. The article shows that, although the criteria used by the &#8220;citizen representation&#8221; is more representative than the previously used mechanism (in which all of Mercosur&#8217;s member-states had the same number of seats) in terms of the actual population within Mercosur, not all the changes brought by the mechanism are an advance when it comes to democratic participation. Brazil will be the most powerful in influencing the final decision once the mechanism is fully implemented; Argentina, in turn, will have the same amount of power in influencing the final outcome than will have Venezuela even though its population is 30% larger than the latter.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Mercosur Parliament]]></kwd>
+<kwd lng="en"><![CDATA[institutions]]></kwd>
+<kwd lng="en"><![CDATA[representativeness]]></kwd>
+<kwd lng="en"><![CDATA[Banzhaf Index]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[Paulo Roberto de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Mercosul: a visão dos primeiros vinte anos e as perspectivas futuras &#8211; Prefácio]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[RESENDE]]></surname>
+<given-names><![CDATA[Erica]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MALLMAN]]></surname>
+<given-names><![CDATA[Maria Isabel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mercosul: 21 anos: maturidade ou imaturidade?]]></source>
+<year>2013</year>
+<page-range>05-12</page-range><publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Appris]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Weighted voting doesn't work: a mathematical analysis]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BANZHAF]]></surname>
+<given-names><![CDATA[John]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Rutgers Law Review]]></source>
+<year>1965</year>
+<volume>19</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>317-43</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOBBIO]]></surname>
+<given-names><![CDATA[Norberto]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dicionário de política &#8211; Volume 02]]></source>
+<year>1998</year>
+<page-range>668-1318</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Editora UnB]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAETANO]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PÉREZ]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Hacia un parlamento del Mercosur]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[CAETANO]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PERINA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La encrucijada política del Mercosur: parlamentos y nueva institucionalidad]]></source>
+<year>2003</year>
+<page-range>305-22</page-range><publisher-loc><![CDATA[Montevideo ]]></publisher-loc>
+<publisher-name><![CDATA[CLAEH, UPD-OEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAETANO]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PERINA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La encrucijada política del Mercosur: parlamentos y nueva institucionalidad]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Montevideo ]]></publisher-loc>
+<publisher-name><![CDATA[CLAEH, UPD-OEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DABÈNE]]></surname>
+<given-names><![CDATA[Olivier]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The politics of regional integration in Latin America]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Palgrave Macmillan]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Limits of the institutional mimesis of the EU: the case of the Mercosur parliament]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRI]]></surname>
+<given-names><![CDATA[Clarissa]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Latin American Policy]]></source>
+<year>2010</year>
+<volume>01</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>52-74</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Funcionalidade parlamentar nas experiências européia e andina: quais perspectivas para o Mercosul?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRI]]></surname>
+<given-names><![CDATA[Clarissa]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Novos Estudos Jurídicos]]></source>
+<year>2009</year>
+<volume>14</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>169-84</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[As funções do parlamento entre o estado-nação e a integração regional: esgotamento orgânico ou adaptação institucional?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRI]]></surname>
+<given-names><![CDATA[Clarissa]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Ciências Humanas]]></source>
+<year>2006</year>
+<numero>39</numero>
+<issue>39</issue>
+<page-range>84-98</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRUMMOND]]></surname>
+<given-names><![CDATA[M. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Parlamento do Mercosul: consolidação e desenvolvimento de suas competências]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[CAETANO]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La reforma institucional del Mercosur: del diagnóstico a las propuestas]]></source>
+<year>2009</year>
+<page-range>105-23</page-range><publisher-loc><![CDATA[Montevideo ]]></publisher-loc>
+<publisher-name><![CDATA[CEFIR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRUMMOND]]></surname>
+<given-names><![CDATA[M. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A democracia desconstruída: o déficit democrático nas relações internacionais e os parlamentos da integração]]></source>
+<year>2005</year>
+<publisher-name><![CDATA[Universidade de Brasília]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Para Dilma, acordo com União Europeia é prioridade para o Mercosul]]></article-title>
+<collab>FOLHA DE SÃO PAULO</collab>
+<source><![CDATA[Folha de São Paulo]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GENEYRO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[El parlamento ante la vulnerabilidad del Mercosur]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[CAETANO]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PERINA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La encrucijada política del Mercosur: parlamentos y nueva institucionalidad]]></source>
+<year>2003</year>
+<page-range>177-210</page-range><publisher-loc><![CDATA[Montevideo ]]></publisher-loc>
+<publisher-name><![CDATA[CLAEH, UPD-OEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GENEYRO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUSTAPIC]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Fortalecimiento de la dimensión parlamentaria e institucional del proceso de integración. Pautas para su futura evolución]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[CAETANO]]></surname>
+<given-names><![CDATA[Gerardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PERINA]]></surname>
+<given-names><![CDATA[Rubén]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Parlamentos e instituciones en el MERCOSUR. Los nuevos desafíos]]></source>
+<year>2000</year>
+<page-range>73-94</page-range><publisher-loc><![CDATA[Montevideo ]]></publisher-loc>
+<publisher-name><![CDATA[CLAEH, UPD-OEA-CPC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Why There is a Democratic Deficit in the EU: A Response to Majone and Moravcsik]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HIX]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FOLLESDAL]]></surname>
+<given-names><![CDATA[Andreas]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Common Market Studies]]></source>
+<year>2006</year>
+<volume>44</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>533-62</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[O parlamento do Mercosul e consequências não intencionais da ação]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFFMAN]]></surname>
+<given-names><![CDATA[Andrea]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Radar do sistema internacional]]></source>
+<year>2006</year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOOGHE]]></surname>
+<given-names><![CDATA[Liesbet]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARKS]]></surname>
+<given-names><![CDATA[Gary]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multi-level governance and European integration]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Maryland ]]></publisher-loc>
+<publisher-name><![CDATA[Rowman and Littlefield Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[As regras do jogo: a lógica da política de saúde na França, na Suíça e na Suécia]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IMMERGUT]]></surname>
+<given-names><![CDATA[Ellen]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Ciências Sociais]]></source>
+<year>1993</year>
+<numero>30</numero>
+<issue>30</issue>
+<page-range>139-65</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MALAMUD]]></surname>
+<given-names><![CDATA[Andres]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Interdependência, liderança e institucionalização: o déficit triplo e as perspectivas negativas para o Mercosul]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[RESENDE]]></surname>
+<given-names><![CDATA[Erica]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MALLMAN]]></surname>
+<given-names><![CDATA[Maria Isabel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mercosul: 21 anos: maturidade ou imaturidade?]]></source>
+<year>2013</year>
+<page-range>229-52</page-range><publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Appris]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Mercosul turns 15: between rising rhetoric and declining achievement]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MALAMUD]]></surname>
+<given-names><![CDATA[Andres]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cambridge Review of International Affairs]]></source>
+<year>2005</year>
+<volume>18</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>421-36</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A eleição parlamentar no Mercosul]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARIANO]]></surname>
+<given-names><![CDATA[Karina]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Política Internacional]]></source>
+<year>2011</year>
+<volume>02</volume>
+<numero>54</numero>
+<issue>54</issue>
+<page-range>138-57</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A questão da representação no Mercosul: os casos do Parlasul e do FCCR]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MEDEIROS]]></surname>
+<given-names><![CDATA[Marcelo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2010</year>
+<volume>18</volume>
+<numero>37</numero>
+<issue>37</issue>
+<page-range>31-57</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="">
+<collab>MERCOSUL</collab>
+<source><![CDATA[Protocolo constitutivo do parlamento do Mercosul]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<collab>MERCOSUL</collab>
+<source><![CDATA[Regimento interno do parlamento do Mercosul]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[In Defence of the &#8220;Democratic Deficit&#8221;: Reassessing the Le- gitimacy of the European Union]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORAVCSIK]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Common Market Studies]]></source>
+<year>2002</year>
+<volume>40</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>603-34</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The elementary statistics of majority voting]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PENROSE]]></surname>
+<given-names><![CDATA[Lionel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of the Royal Statistical Society]]></source>
+<year>1946</year>
+<volume>09</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>53-7</page-range><publisher-name><![CDATA[Blackwell Publishing]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The chain of responsiveness]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POWELL]]></surname>
+<given-names><![CDATA[Bingham]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Democracy]]></source>
+<year>2004</year>
+<volume>15</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>91-105</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRZEWORSKI]]></surname>
+<given-names><![CDATA[Adam]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STOKES]]></surname>
+<given-names><![CDATA[Susan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANIN]]></surname>
+<given-names><![CDATA[Bernard]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[en"&gt;Introduction]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[PRZEWORSKI]]></surname>
+<given-names><![CDATA[Adam]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STOKES]]></surname>
+<given-names><![CDATA[Susan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANIN]]></surname>
+<given-names><![CDATA[Bernard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democracy, accountability, and representation]]></source>
+<year>1999</year>
+<page-range>01-26</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QUERMONNE]]></surname>
+<given-names><![CDATA[Jean-Louis]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Le système politique de l'union européenne]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Montchrestien]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[La participación de la sociedad civil en el marco del nuevo modelo de desarrollo nacional y regional]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RACOVSCHIK]]></surname>
+<given-names><![CDATA[Maria Alejandra]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Centro Argentino de Estudios Internacionales]]></source>
+<year>2009</year>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSINHA]]></surname>
+<given-names><![CDATA[Doutor]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mercosul: um a, b, c...]]></source>
+<year>2008</year>
+<edition>2aed</edition>
+<publisher-name><![CDATA[Câmara dos deputados]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Maior institucionalidade e cidadania]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSINHA]]></surname>
+<given-names><![CDATA[Doutor]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de la Secretaria Ejecutiva de Mercociudades]]></source>
+<year>2007</year>
+<numero>24</numero>
+<issue>24</issue>
+<page-range>40-1</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Mercosur RIP?]]></article-title>
+<collab>THE ECONOMIST</collab>
+<source><![CDATA[The Economist]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[De la asamblea parlamentaria de la CECA al parlamento del Mercosur. La representación política en los procesos deintegración regional]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VASQUEZ]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Agenda Internacional]]></source>
+<year>2004</year>
+<volume>Año 01</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>90-111</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Instituições e conflitos comerciais no Mercosul]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VIGEVANI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARIANO]]></surname>
+<given-names><![CDATA[M. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENDES]]></surname>
+<given-names><![CDATA[Ricardo G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[São Paulo em Perspectiva]]></source>
+<year>2002</year>
+<volume>16</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>44-53</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Voting in the European Union: the square root system of Penrose and a critical point]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[&#379;YCZKOWSKI]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[S&#321;OMCZY&#323;SK]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Homo Oeconomicus]]></source>
+<year>2004</year>
+<volume>24</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>381-99</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

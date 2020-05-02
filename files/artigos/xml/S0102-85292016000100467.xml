@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0102-8529</journal-id>
+<journal-title><![CDATA[Contexto Internacional]]></journal-title>
+<abbrev-journal-title><![CDATA[Contexto int.]]></abbrev-journal-title>
+<issn>0102-8529</issn>
+<publisher>
+<publisher-name><![CDATA[Pontifícia Universidade Católica do Rio de Janeiro, Instituto de Relações Internacionais]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0102-85292016000100467</article-id>
+<article-id pub-id-type="doi">10.1590/S0102-8529.2016380100013</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Presidents, Legislators, and Foreign Policy in Latin America]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ribeiro]]></surname>
+<given-names><![CDATA[Pedro Feliú]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Pinheiro]]></surname>
+<given-names><![CDATA[Flávio]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,University of São Paulo  ]]></institution>
+<addr-line><![CDATA[São Paulo SP]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,University of São Paulo  ]]></institution>
+<addr-line><![CDATA[São Paulo SP]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2016</year>
+</pub-date>
+<volume>38</volume>
+<numero>1</numero>
+<fpage>467</fpage>
+<lpage>501</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0102-85292016000100467&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0102-85292016000100467&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0102-85292016000100467&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract Which factors determine legislative support for the foreign policy initiatives of Latin American presidents? How do political parties and politicians behave when dealing with presidential foreign policy? The issue of whether presidents exercise greater influence over foreign or domestic affairs has been extensively debated in recent years, and the evidence indicates that legislators do behave differently when dealing with foreign policy proposals. Building on this debate, we analyse legislative support for the foreign policies of 22 Latin-American presidents in eight countries from 1994 to 2014, using an original dataset in a quantile regression framework. We also use three selected cases to illustrate our evidence. Our findings are counter-intuitive and bring new elements into the debate about legislative behaviour towards foreign policy in presidential countries. Measures of a political party's ideology, the size of the governing coalition, and the effective number of parties (ENP) play important roles in levels of legislative support for presidential foreign policy agendas. Surprisingly, the popularity of presidents and the nature of their initiatives - high or low politics - do not affect these levels of support.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Foreign Policy Analysis]]></kwd>
+<kwd lng="en"><![CDATA[Domestic Actors]]></kwd>
+<kwd lng="en"><![CDATA[Latin American Politics]]></kwd>
+<kwd lng="en"><![CDATA[Legislative Behaviour]]></kwd>
+<kwd lng="en"><![CDATA[Presidential Systems]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alcántara Sáez]]></surname>
+<given-names><![CDATA[Manuel]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moreno]]></surname>
+<given-names><![CDATA[Mercedes García]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Institutions and politicians: an analysis of the factors that determine presidential legislative success]]></source>
+<year>2008</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alemán]]></surname>
+<given-names><![CDATA[Eduardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Calvo]]></surname>
+<given-names><![CDATA[Ernesto]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Analyzing legislative success in Latin America: The case of democratic Argentina]]></source>
+<year>2008</year>
+<publisher-name><![CDATA[Woodrow Wilson Center]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Institutions and the legislative success of "strong" residents: an analysis of government bills in Chile]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alemán]]></surname>
+<given-names><![CDATA[Eduardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Patricio]]></surname>
+<given-names><![CDATA[Navia]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Legislative Studies]]></source>
+<year>2009</year>
+<volume>15</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>401-19</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The politics of coalition formation and survival in multiparty presidential democracies: the case of Uruguay, 1989-1999]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Altman]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Party Politics]]></source>
+<year>2000</year>
+<volume>6</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>259-83</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alexandre]]></surname>
+<given-names><![CDATA[Cristina Vieira Machado]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Congresso Brasileiro E a Política Externa (1985-2005)]]></source>
+<year>2006</year>
+<publisher-name><![CDATA[Pontifícia Universidade Católica do Rio de Janeiro, Instituto de Relações Internacionais]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ardila]]></surname>
+<given-names><![CDATA[Martha]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carvajal]]></surname>
+<given-names><![CDATA[Leonardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garay]]></surname>
+<given-names><![CDATA[Javier]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marín]]></surname>
+<given-names><![CDATA[Margarita]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Niño]]></surname>
+<given-names><![CDATA[Javier]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Puyana]]></surname>
+<given-names><![CDATA[José Ricardo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La Toma de Decisiones de La Política Exterior Colombiana]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Bogotá ]]></publisher-loc>
+<publisher-name><![CDATA[Universidad Externado de Colombia, Facultad de Finanzas, Gobierno y Relaciones Internacionales]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Gobernando sin mayorías parlamentarias en América Latina]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Badillo]]></surname>
+<given-names><![CDATA[Margarita Jiménez]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2007</year>
+<volume>13</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>148-84</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baldwin]]></surname>
+<given-names><![CDATA[Robert E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Magee]]></surname>
+<given-names><![CDATA[Christopher S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Congressional Trade Votes: from NAFTA Approval to Fast-track Defeat]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Washington, DC ]]></publisher-loc>
+<publisher-name><![CDATA[Peterson Institute]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Foreign policy as battlefield: a study of national interest and party motives]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bjereld]]></surname>
+<given-names><![CDATA[Ulf]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Demker]]></surname>
+<given-names><![CDATA[Marie]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Scandinavian Political Studies]]></source>
+<year>2000</year>
+<volume>23</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>17-36</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Influences shaping members' decision making: Congressional voting on the Persian Gulf War]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Burgin]]></surname>
+<given-names><![CDATA[Eileen]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Behavior]]></source>
+<year>1994</year>
+<volume>16</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>319-42</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Los actores de la Política Exterior: el caso del Congreso Nacional de Chile]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bustamante]]></surname>
+<given-names><![CDATA[Gilberto Aranda]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rivera]]></surname>
+<given-names><![CDATA[Jorge Riquelme]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Polis]]></source>
+<year>2011</year>
+<volume>10</volume>
+<numero>28</numero>
+<issue>28</issue>
+<page-range>359-92</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The responsive legislature: Public opinion and law-making in a highly disciplined legislature]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Calvo]]></surname>
+<given-names><![CDATA[Ernesto]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2007</year>
+<volume>37</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>263-80</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Toward a broader understanding of presidential power: a reevaluation of the two presidencies thesis]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Canes-Wrone]]></surname>
+<given-names><![CDATA[Brandice]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Howell]]></surname>
+<given-names><![CDATA[William G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lewis]]></surname>
+<given-names><![CDATA[David E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>2008</year>
+<volume>70</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-16</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cárdenas]]></surname>
+<given-names><![CDATA[Mauricio]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Junguito]]></surname>
+<given-names><![CDATA[Roberto]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pachón]]></surname>
+<given-names><![CDATA[Mónica]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stein]]></surname>
+<given-names><![CDATA[Ernesto]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tommasi]]></surname>
+<given-names><![CDATA[Mariano]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Scartascini]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Spiller]]></surname>
+<given-names><![CDATA[Pablo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political institutions and policy outcomes in Colombia: the effects of the 1991 constitution]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[César]]></surname>
+<given-names><![CDATA[Susan Elizabeth Martins]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Congresso Nacional e a Política Externa Brasileira]]></source>
+<year>2002</year>
+<publisher-name><![CDATA[Universidade de Brasília, Departamento de Relações Internacionais]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chasquetti]]></surname>
+<given-names><![CDATA[Daniel]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lanzaro]]></surname>
+<given-names><![CDATA[Jorge]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democracia, multipartidismo y coaliciones en América Latina: evaluando la difícil combinación]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[CLACSO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Government coalitions and legislative success under presidentialism and parliamentarism]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cheibub]]></surname>
+<given-names><![CDATA[José Antonio]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Przeworski]]></surname>
+<given-names><![CDATA[Adam]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saiegh]]></surname>
+<given-names><![CDATA[Sebastian M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2004</year>
+<volume>34</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>565-87</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Derailing presidential fast-track authority: The impact of constituency pressures and political ideology on trade policy in Congress]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Conley]]></surname>
+<given-names><![CDATA[Richard S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Research Quarterly]]></source>
+<year>1999</year>
+<volume>52</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>785-99</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cox]]></surname>
+<given-names><![CDATA[Gary W]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McCubbins]]></surname>
+<given-names><![CDATA[Mathew D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Haggard]]></surname>
+<given-names><![CDATA[Stephan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McCubbins]]></surname>
+<given-names><![CDATA[Mathew D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political structure and economic policy: the institutional determinants of policy outcomes]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dahl]]></surname>
+<given-names><![CDATA[Robert A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Congress and Foreign Policy]]></source>
+<year>1950</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[WW Norton]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The role of the Brazilian Congress in foreign policy: an empirical contribution to the debate]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Diniz]]></surname>
+<given-names><![CDATA[Simone]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ribeiro]]></surname>
+<given-names><![CDATA[Cláudio Oliveira]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2008</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>10-38</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Edwards]]></surname>
+<given-names><![CDATA[George C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[At the Margins: Presidential Leadership of Congress]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[New Haven ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The importance of policy scope to presidential success in Congress]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eshbaugh-Soha]]></surname>
+<given-names><![CDATA[Matthew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Presidential Studies Quarterly]]></source>
+<year>2010</year>
+<volume>40</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>708-24</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Political and institutional determinants of the executive's legislative success in Latin America]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[Argelina Cheibub]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Salles]]></surname>
+<given-names><![CDATA[Denise Lopes]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vieira]]></surname>
+<given-names><![CDATA[Marcelo Martins]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2011</year>
+<volume>3</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>155-71</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The demise of the two presidencies]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fleisher]]></surname>
+<given-names><![CDATA[Richard]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bond]]></surname>
+<given-names><![CDATA[Jon R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Krutz]]></surname>
+<given-names><![CDATA[Glen S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hanna]]></surname>
+<given-names><![CDATA[Stephen]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Politics Research]]></source>
+<year>2000</year>
+<volume>28</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>3-25</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[La Relación Entre El Ejecutivo Y El Congreso En Materia de Politica Exterior Durante El Sexenio de Vicente Fox: Cooperación O Conflicto?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Flores]]></surname>
+<given-names><![CDATA[Rafael Velázquez]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Política Y Gobierno]]></source>
+<year>2008</year>
+<volume>15</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>113-58</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Selection and influence: interest groups and congressional voting on trade policy]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fordham]]></surname>
+<given-names><![CDATA[Benjamin O]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McKeown]]></surname>
+<given-names><![CDATA[Timothy J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Organization]]></source>
+<year>2003</year>
+<volume>57</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>519-49</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A Entrada da Venezuela no Mercosul: análise dos aspectos políticos e econômicos]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Goldzweig]]></surname>
+<given-names><![CDATA[Rafael Schmuziger]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Iniciação Científica em Relações Internacionais]]></source>
+<year>2013</year>
+<volume>1</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>2-29</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[González]]></surname>
+<given-names><![CDATA[Luis Eduardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gillespie]]></surname>
+<given-names><![CDATA[Charles Guy]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Linz]]></surname>
+<given-names><![CDATA[Juan J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valenzuela]]></surname>
+<given-names><![CDATA[Arturo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Presidentialism and democratic stability in Uruguay]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Baltimore ]]></publisher-loc>
+<publisher-name><![CDATA[Johns Hopkins University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[González]]></surname>
+<given-names><![CDATA[Guadalupe]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Herrera-Lasso]]></surname>
+<given-names><![CDATA[Luis]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Las Bases Internas de La Política Exterior: Realidades y Retos de La Apertura Económica y la Democracia]]></source>
+<year>2006</year>
+<page-range>155-235</page-range><publisher-loc><![CDATA[México ]]></publisher-loc>
+<publisher-name><![CDATA[FCE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Votes and vetoes: the political determinants of commercial openness]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Henisz]]></surname>
+<given-names><![CDATA[Witold J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mansfield]]></surname>
+<given-names><![CDATA[Edward D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Studies Quarterly]]></source>
+<year>2006</year>
+<volume>50</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>189-212</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Commerce, coalitions, and factor mobility: evidence from congressional votes on trade legislation]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hiscox]]></surname>
+<given-names><![CDATA[Michael J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2002</year>
+<volume>96</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>593-608</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Consensus lost, consensus regained?: foreign policy beliefs of American leaders, 1976-1980]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Holsti]]></surname>
+<given-names><![CDATA[Ole R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rosenau]]></surname>
+<given-names><![CDATA[James N]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Studies Quarterly]]></source>
+<year>1986</year>
+<volume>30</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>375-409</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Political parties and foreign policy: a structuralist approach]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[King]]></surname>
+<given-names><![CDATA[Gary]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Psychology]]></source>
+<year>1986</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>83-101</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Regression quantiles]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Koenker]]></surname>
+<given-names><![CDATA[Roger]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bassett Jr]]></surname>
+<given-names><![CDATA[Gilbert]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica: Journal of the Econometric Society]]></source>
+<year>1978</year>
+<volume>46</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>33-50</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Dead center: The demise of liberal internationalism in the United States]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kupchan]]></surname>
+<given-names><![CDATA[Charles A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Trubowitz]]></surname>
+<given-names><![CDATA[Peter L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Security]]></source>
+<year>2007</year>
+<volume>32</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>7-44</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Effective number of parties: a measure with application to West Europe]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Laakso]]></surname>
+<given-names><![CDATA[Markku]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Taagepera]]></surname>
+<given-names><![CDATA[Rein]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparative Political Studies]]></source>
+<year>1979</year>
+<volume>12</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>3-27</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Foreign and defense policy in Congress: a research agenda for the 1990s]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lindsay]]></surname>
+<given-names><![CDATA[James M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ripley]]></surname>
+<given-names><![CDATA[Randall B]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>1992</year>
+<volume>17</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>417-49</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lemos]]></surname>
+<given-names><![CDATA[Leany]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Congress and Foreign Affairs: Abdication or Delegation?]]></source>
+<year>2010</year>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA['Political parties, ideology and foreign policy in Uruguay (2010-2014)]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López Burian]]></surname>
+<given-names><![CDATA[Camilo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Colombia Internacional]]></source>
+<year>2015</year>
+<volume>83</volume>
+<page-range>135-69</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[El Poder Legislativo En La Definición de La Política Exterior Argentina: El Caso de Los Hielos Continentales Patagónicos]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lucero]]></surname>
+<given-names><![CDATA[Mariel R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cuadernos Politca Exterior Argentina (CERIR)]]></source>
+<year>2007</year>
+<numero>90</numero>
+<issue>90</issue>
+<page-range>1-109</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Foreign policy votes and presidential support in Congress]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mack]]></surname>
+<given-names><![CDATA[W R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rouen]]></surname>
+<given-names><![CDATA[Karl De]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lanoue]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Foreign Policy Analysis]]></source>
+<year>2013</year>
+<volume>9</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>79-102</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Presidentialism, multipartism, and democracy: the difficult combination]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mainwaring]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparative Political Studies]]></source>
+<year>1993</year>
+<volume>26</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>198-228</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mainwaring]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mainwaring]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shugart]]></surname>
+<given-names><![CDATA[Matthew Søberg]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multipartism, robust federalism, and presidentialism in Brazil]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Revisiting the two presidencies: the strategic use of executive orders]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Marshall]]></surname>
+<given-names><![CDATA[Bryan W]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacelle Jr]]></surname>
+<given-names><![CDATA[Richard L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Politics Research]]></source>
+<year>2005</year>
+<volume>33</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>81-105</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[O Processo de formulação da política de comércio nas Américas: lições da experiência Mexicana]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mena]]></surname>
+<given-names><![CDATA[Antonio Ortiz]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Comércio Exterior]]></source>
+<year>2004</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>65-79</page-range></nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Bipartisanship, partisanship, and ideology in congressional-executive foreign policy relations, 1947-1988]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McCormick]]></surname>
+<given-names><![CDATA[James M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wittkopf]]></surname>
+<given-names><![CDATA[Eugene R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>1990</year>
+<volume>52</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1077-100</page-range></nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Politics and bipartisanship at the water's edge: a note on Bush and Clinton]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McCormick]]></surname>
+<given-names><![CDATA[James M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wittkopf]]></surname>
+<given-names><![CDATA[Eugene R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Danna]]></surname>
+<given-names><![CDATA[David M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Polity]]></source>
+<year>1997</year>
+<volume>30</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>133-49</page-range></nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McCoy]]></surname>
+<given-names><![CDATA[Terry]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Agor]]></surname>
+<given-names><![CDATA[W H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Congress, the president, and political instability in Peru]]></source>
+<year>1971</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Praeger]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Presidential support in Congress: Conflict and consensus on foreign and defense policy]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meernik]]></surname>
+<given-names><![CDATA[James]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>1993</year>
+<volume>55</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>569-87</page-range></nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Milner]]></surname>
+<given-names><![CDATA[Helen V]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tingley]]></surname>
+<given-names><![CDATA[Dustin H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sailing the water's edge: where domestic politics meets foreign policy]]></source>
+<year>2012</year>
+<publisher-name><![CDATA[Princeton University, Harvard University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Political institutions, policymaking processes, and policy outcomes in Paraguay, 1954-2003]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Molinas]]></surname>
+<given-names><![CDATA[José]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pérez Liñán]]></surname>
+<given-names><![CDATA[Aníbal]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saiegh]]></surname>
+<given-names><![CDATA[Sebastián]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Ciencia Política]]></source>
+<year>2004</year>
+<volume>24</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>67-93</page-range><publisher-loc><![CDATA[Santiago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Montero]]></surname>
+<given-names><![CDATA[Mercedes García]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Presidentes y parlamentos:¿ quién controla la actividad legislativa en América Latina?]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Madrid ]]></publisher-loc>
+<publisher-name><![CDATA[Centro de Investigaciones Sociológicas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B54">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mustapic]]></surname>
+<given-names><![CDATA[Ana M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Llanos]]></surname>
+<given-names><![CDATA[Mariana]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Caetano]]></surname>
+<given-names><![CDATA[Gerardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Perina]]></surname>
+<given-names><![CDATA[Rubén]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El Papel Del Congreso Argentino en el Tratamiento del Presupuesto y el Mercosur]]></source>
+<year>2000</year>
+<page-range>51-76</page-range><publisher-loc><![CDATA[Montevidéo ]]></publisher-loc>
+<publisher-name><![CDATA[Productora Editorial]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B55">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Minority presidents and democratic performance in Latin America]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Negretto]]></surname>
+<given-names><![CDATA[Gabriel L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Latin American Politics and Society]]></source>
+<year>2006</year>
+<volume>48</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>63-92</page-range></nlm-citation>
+</ref>
+<ref id="B56">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[O papel do legislativo nas negociações do Mercosul e da ALCA]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Neves]]></surname>
+<given-names><![CDATA[João Augusto de Castro]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Contexto Internacional]]></source>
+<year>2003</year>
+<volume>25</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>103-38</page-range></nlm-citation>
+</ref>
+<ref id="B57">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Empresariado e política comercial brasileira: atuação na arena legislativa]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[Amâncio Jorge de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Onuki]]></surname>
+<given-names><![CDATA[Janina]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Papéis Legislativos (Opsa/Iuperj)]]></source>
+<year>2007</year>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>1-21</page-range></nlm-citation>
+</ref>
+<ref id="B58">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The surprising success of multiparty presidentialism]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pereira]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Melo]]></surname>
+<given-names><![CDATA[Marcus André]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Democracy]]></source>
+<year>2012</year>
+<volume>23</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>156-70</page-range></nlm-citation>
+</ref>
+<ref id="B59">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Poder Legislativo e Política Externa: Um Estudo Sobre a Influência do Congresso Nacional do Chile na Formulação da Política Comercial durante a Década de 1990]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pinheiro]]></surname>
+<given-names><![CDATA[Flavio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Contexto Internacional]]></source>
+<year>2008</year>
+<volume>30</volume>
+<page-range>89-139</page-range></nlm-citation>
+</ref>
+<ref id="B60">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pinheiro]]></surname>
+<given-names><![CDATA[Flávio Leão]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Poder Legislativo e Política Externa na América Latina]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[CLACSO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B61">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Parlamento y política exterior: algunas reflexiones en torno a la "Ley del Azúcar]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Porcelli]]></surname>
+<given-names><![CDATA[Emanuel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Meritum]]></source>
+<year>2010</year>
+<volume>5</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>349-75</page-range></nlm-citation>
+</ref>
+<ref id="B62">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA['Does government ideology influence political alignment with the US? An empirical analysis of voting in the UN General Assembly]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Potrafke]]></surname>
+<given-names><![CDATA[Niklas]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Review of International Organizations]]></source>
+<year>2009</year>
+<volume>4</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>245-68</page-range></nlm-citation>
+</ref>
+<ref id="B63">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Congressional support of the president: a comparison of foreign, defense, and domestic policy decision making during and after the Cold War]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Prins]]></surname>
+<given-names><![CDATA[Brandon C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marshall]]></surname>
+<given-names><![CDATA[Bryan W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Presidential Studies Quarterly]]></source>
+<year>2001</year>
+<volume>31</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>660-78</page-range></nlm-citation>
+</ref>
+<ref id="B64">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Política Externa Chilena e Espectro Ideológico Político-Partidário: um Estudo sobre a Câmara dos Deputados (2002-2006)]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ribeiro]]></surname>
+<given-names><![CDATA[Pedro]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[Amâncio Jorge de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galdino]]></surname>
+<given-names><![CDATA[Manoel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dados]]></source>
+<year>2009</year>
+<volume>52</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>835-70</page-range></nlm-citation>
+</ref>
+<ref id="B65">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ripley]]></surname>
+<given-names><![CDATA[Randall B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lindsay]]></surname>
+<given-names><![CDATA[James M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Congress Resurgent: Foreign and Defense Policy on Capitol Hill]]></source>
+<year>1993</year>
+<volume>6</volume>
+<publisher-loc><![CDATA[Ann Harbor ]]></publisher-loc>
+<publisher-name><![CDATA[University of Michigan Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B66">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rudalevige]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Managing the President's Program: Presidential Leadership and Legislative Policy Formulation]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B67">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[El control presidencial de la agenda legislativa en América Latina]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[Manoel Leonardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pérez-Liñán]]></surname>
+<given-names><![CDATA[Aníbal]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garcia Montero]]></surname>
+<given-names><![CDATA[Mercedes]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Ciencia Política (Santiago)]]></source>
+<year>2014</year>
+<volume>34</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>511-36</page-range></nlm-citation>
+</ref>
+<ref id="B68">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[Dos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guilherme]]></surname>
+<given-names><![CDATA[Wanderley]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sessenta e Quatro: Anatomia da Crise]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Vértice]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B69">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[El papel del Congreso Nacional de Argentina en la elaboración de la política exterior (1999-2003). Un modelo para su análisis]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sanchez]]></surname>
+<given-names><![CDATA[Leandro Enrique]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Colombia Internacional]]></source>
+<year>2015</year>
+<volume>83</volume>
+<page-range>103-32</page-range></nlm-citation>
+</ref>
+<ref id="B70">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The two presidencies, 1984-98: a replication and extension]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schraufnagel]]></surname>
+<given-names><![CDATA[Scot]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shellman]]></surname>
+<given-names><![CDATA[Stephen M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Presidential Studies Quarterly]]></source>
+<year>2001</year>
+<volume>31</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>699-707</page-range></nlm-citation>
+</ref>
+<ref id="B71">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Shugart]]></surname>
+<given-names><![CDATA[Matthew Soberg]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carey]]></surname>
+<given-names><![CDATA[John M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Presidents and Assemblies: Constitutional Design and Electoral Dynamics]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B72">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sinclair]]></surname>
+<given-names><![CDATA[Barbara]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Congressional party leaders in the foreign and defense policy arena]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Ann Arbor ]]></publisher-loc>
+<publisher-name><![CDATA[University of Michigan Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B73">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Constitutional frameworks and democratic consolidation: Parliamentarianism versus presidentialism]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stepan]]></surname>
+<given-names><![CDATA[Alfred]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Skach]]></surname>
+<given-names><![CDATA[Cindy]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[World Politics]]></source>
+<year>1993</year>
+<volume>46</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-22</page-range></nlm-citation>
+</ref>
+<ref id="B74">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The two presidencies]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wildavsky]]></surname>
+<given-names><![CDATA[Aaron]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Transaction]]></source>
+<year>1966</year>
+<volume>4</volume>
+<page-range>7-14</page-range></nlm-citation>
+</ref>
+<ref id="B75">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Congressional roll call voting on China trade policy]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Xie]]></surname>
+<given-names><![CDATA[Tao]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Politics Research]]></source>
+<year>2006</year>
+<volume>34</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>732-58</page-range></nlm-citation>
+</ref>
+<ref id="B76">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Presidential power and the United States Supreme Court]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yates]]></surname>
+<given-names><![CDATA[Jeff]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Whitford]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Research Quarterly]]></source>
+<year>1998</year>
+<volume>51</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>539-50</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

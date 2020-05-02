@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032016000300517</article-id>
+<article-id pub-id-type="doi">10.1590/1234-56781806-94790540307</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Convergência da Produtividade Agropecuária do Sul do Brasil: uma análise espacial]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Raiher]]></surname>
+<given-names><![CDATA[Augusta Pelinski]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[Renato Alves de]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Carmo]]></surname>
+<given-names><![CDATA[Alex Sander Souza do]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Stege]]></surname>
+<given-names><![CDATA[Alysson Luiz]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Estadual de Ponta Grossa. Ponta Grossa  ]]></institution>
+<addr-line><![CDATA[ Paraná]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade Estadual de Ponta Grossa. Ponta Grossa  ]]></institution>
+<addr-line><![CDATA[ Paraná]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af3">
+<institution><![CDATA[,Universidade Estadual de Ponta Grossa. Ponta Grossa  ]]></institution>
+<addr-line><![CDATA[ Paraná]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af4">
+<institution><![CDATA[,Universidade Estadual de Ponta Grossa  ]]></institution>
+<addr-line><![CDATA[Ponta Grossa Paraná]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2016</year>
+</pub-date>
+<volume>54</volume>
+<numero>3</numero>
+<fpage>517</fpage>
+<lpage>536</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032016000300517&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032016000300517&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032016000300517&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo:  Este trabalho tem como objetivo analisar a evolução da produtividade da agropecuária nas microrregiões do Sul do Brasil, identificando a existência de um processo de convergência. Para isso, mensurou-se a produtividade da agropecuária em 1995/96 e em 2006, que foi utilizada como variável dependente em um modelo de convergência. Como se confirmou a hipótese de que a distribuição espacial da produtividade da terra não é aleatória, o modelo de convergência foi estimado por meio das técnicas da econometria espacial. Os resultados obtidos confirmaram a hipótese de convergência (absoluta e condicional) da produtividade da agropecuária na região Sul do Brasil.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract: This work aims to analyze the evolution of land productivity in the Southern region of Brazil, identifying the existence of a convergence process. In order to do that, we measured the land productivity in 1995/96 and in 2006 and we used this variable as dependent in a convergence model. Subsequently, we estimated a convergence model using spatial econometrics. As a result, we confirmed the convergence process hypothesis (absolute and conditional) in the Southern region of Brazil.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Convergência]]></kwd>
+<kwd lng="pt"><![CDATA[Produtividade]]></kwd>
+<kwd lng="pt"><![CDATA[Região Sul]]></kwd>
+<kwd lng="en"><![CDATA[Convergence]]></kwd>
+<kwd lng="en"><![CDATA[Productivity]]></kwd>
+<kwd lng="en"><![CDATA[Brazilian Southern region]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Produtividade na agricultura brasileira]]></article-title>
+<collab>AGROANALYSIS</collab>
+<source><![CDATA[Revista de Agronegócio da FGV]]></source>
+<year>2008</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria espacial aplicada]]></source>
+<year>2012</year>
+<page-range>498 p.</page-range><publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[Alinea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[MEECA: um Modelo Econométrico Espacial para Projeção Consistente de Culturas Agropecuárias]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HADDAD]]></surname>
+<given-names><![CDATA[E. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RER]]></source>
+<year>2004</year>
+<volume>42</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>507-27</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Existe convergência espacial da produtividade agrícola no Brasil?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEROBELLI]]></surname>
+<given-names><![CDATA[F. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[P. G. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2008</year>
+<volume>46</volume>
+<page-range>31-52</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUANZIROLI]]></surname>
+<given-names><![CDATA[C. E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise exploratória espacial e convergência condicional das taxas de crimes em Minas Gerais nos anos 2000]]></source>
+<year>2013</year>
+<conf-name><![CDATA[ Encontro Nacional de Economia (ANPEC), XLI]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Foz do Iguaçu (PR) ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[O que significam as medidas de produtividade da agricultura?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Agronegócio]]></source>
+<year>2010</year>
+<volume>8</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>349-70</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Indicadores de Produtividade de Capital na Agropecuária Brasileira]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVIN]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DIMONDE]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia &amp; Energia]]></source>
+<year>2010</year>
+<volume>77</volume>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMORIM]]></surname>
+<given-names><![CDATA[A. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CORONEL]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[E. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Agropecuária na Economia Brasileira: uma análise de Insumo Produto]]></source>
+<year>2009</year>
+<conf-name><![CDATA[ XLVIICongresso da Sociedade Brasileira de Economia, Administração e Sociologia]]></conf-name>
+<conf-loc>Porto Alegre, RS, Brasil </conf-loc>
+<page-range>01-15</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C. J. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia e política agrícola no Brasil]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Atlas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C. J. C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The evolution of Brazilian agriculture from 1987 to 2009]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BAER]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FLEISCHER]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The economics of Argentina and Brazil: a comparative perspective]]></source>
+<year>2011</year>
+<page-range>97-129</page-range><publisher-loc><![CDATA[Northampton, Mass ]]></publisher-loc>
+<publisher-name><![CDATA[Edward Elgar Publishing]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[R. C. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[E. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A contribuição do capital humano para o crescimento econômico e convergência espacial do PIB per capita no Ceará]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Ceará ]]></publisher-loc>
+<publisher-name><![CDATA[IPECE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A contribuição da pesquisa para convergência e crescimento da renda agropecuária no Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[R. C. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[E. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RESR]]></source>
+<year>2009</year>
+<volume>47</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>719-37</page-range><publisher-loc><![CDATA[Piracicaba, SP ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Convergência espacial do PIB per capita no estado do Ceará]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[R. C. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[E. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[J. E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia]]></source>
+<year>2010</year>
+<volume>36</volume>
+<page-range>25-40</page-range><publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SALA-I-MARTIN]]></surname>
+<given-names><![CDATA[X]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic growth]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[MacGrawHill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Análise da Participação da agropecuária no PIB do Brasil de 1986 a 2004]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRUGNARO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C. J. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estud. Econ]]></source>
+<year>2009</year>
+<volume>39</volume>
+<numero>1</numero>
+<issue>1</issue>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Produtividade agrícola e segurança alimentar dos domicílios das regiões metropolitanas brasileiras]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COSTA]]></surname>
+<given-names><![CDATA[L. V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Rev. Econ. Sociol. Rural]]></source>
+<year>2013</year>
+<volume>51</volume>
+<numero>4</numero>
+<issue>4</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Agropecuária Brasileira: desempenho regional e determinantes de produtividade]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FELEMA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAIHER]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[C. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RESR]]></source>
+<year>2013</year>
+<volume>51</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>555-74</page-range><publisher-loc><![CDATA[Piracicaba-SP ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[M. G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Agricultura e estrutura produtiva do Estado do Mato Grosso: uma análise insumo-produto]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+<publisher-name><![CDATA[Programa de Pós-graduação em Economia, Escola Superior de Agricultura "Luiz de Queiroz", Universidade de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Specification searches in spatial econometrics: The relevance of Hendry's methodology]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FLORAX]]></surname>
+<given-names><![CDATA[R. J. G. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FOLMER]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[REY]]></surname>
+<given-names><![CDATA[S. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Regional Science and Urban Economics]]></source>
+<year>2003</year>
+<volume>33</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>557-79</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Análise da convergência da produtividade da mão-de-obra agropecuária entre os estados brasileiros: aplicação de matrizes de Markov, 1990-2000]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOCHEZATTO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STÜLP]]></surname>
+<given-names><![CDATA[V. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RESR]]></source>
+<year>2008</year>
+<volume>46</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>739-65</page-range><publisher-loc><![CDATA[Piracicaba, SP ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Condicionantes da produtividade da agropecuária brasileira]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Produtividade da Agricultura Brasileira e os Efeitos de Algumas Políticas]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Política Agrícola]]></source>
+<year>2012</year>
+<volume>3</volume>
+<page-range>83</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUERREIRO]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Produtividade do trabalho e da terra na agropecuária paranaense]]></source>
+<year>1995</year>
+<numero>136 f.</numero>
+<issue>136 f.</issue>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+<publisher-name><![CDATA[Departamento de Economia, Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFFMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JAMAS]]></surname>
+<given-names><![CDATA[A. L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A produtividade da terra e do trabalho na agricultura de 332 microrregiões do Brasil]]></source>
+<year>1990</year>
+<volume>2</volume>
+<conf-name><![CDATA[ Congresso Brasileiro de Economia e Sociologia Rural (SOBER), 28]]></conf-name>
+<conf-date>1990</conf-date>
+<conf-loc>Florianópolis </conf-loc>
+<page-range>21-40</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The contribution of agriculture to economic growth: some empirical evidence]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HWA]]></surname>
+<given-names><![CDATA[E-C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[World Development]]></source>
+<year>1988</year>
+<volume>16</volume>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>1329-39</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Specification and estimation of spatial autoregressive models with autoregressive and heteroskedastic disturbances]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KELEJIAN]]></surname>
+<given-names><![CDATA[H. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PRUCHA]]></surname>
+<given-names><![CDATA[I. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>2010</year>
+<volume>157</volume>
+<page-range>53-67</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEWIS]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[O desenvolvimento econômico com oferta ilimitada de mão-de-obra]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[AGARWALA]]></surname>
+<given-names><![CDATA[A. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SINGH]]></surname>
+<given-names><![CDATA[S. P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A economia do subdesenvolvimento]]></source>
+<year>1969</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Cia Editora Forense]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Study of agricultural productivity and its convergence across China's regions]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LI]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZENG]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZHANG]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Review of Regional Studies]]></source>
+<year>2008</year>
+<volume>38</volume>
+<page-range>361-79</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[O uso das terras no sul do Brasil: uma análise a partir de indicadores de localização]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RER]]></source>
+<year>2006</year>
+<volume>44</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>677-94</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOPES]]></surname>
+<given-names><![CDATA[J. L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação do processo de convergência da produtividade da terra na agricultura brasileira no período de 1960 a 2001]]></source>
+<year>2004</year>
+<publisher-name><![CDATA[ESALQ/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Convergência lenta? Anova teoria do crescimento endógeno e o desenvolvimento regional]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTIM]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SUNLEY]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cadernos IPPUR/UFRJ]]></source>
+<year>2000</year>
+<volume>14</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>7-12</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The interpretation of statistical maps]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORAN]]></surname>
+<given-names><![CDATA[P. A. P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Royal Statistical Society]]></source>
+<year>1948</year>
+<volume>10</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>243-51</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Determinação dos Clubes de Convergência da Renda per capita Agrícola - Uma Análise para os Municípios Cearenses]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA JUNIOR]]></surname>
+<given-names><![CDATA[J. N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2009</year>
+<volume>47</volume>
+<page-range>995-1022</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Análise espacial da produtividade agrícola no estado do Paraná: implicações para o seguro agrícola]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OZAKi]]></surname>
+<given-names><![CDATA[V]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RESR]]></source>
+<year>2008</year>
+<volume>46</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>869-86</page-range><publisher-loc><![CDATA[Piracicaba, SP ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Uma Nota Sobre "Teste da Convergência do PIB per capita da Agropecuária no Brasil"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PENNA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LINHARES]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RESR]]></source>
+<year>2013</year>
+<volume>51</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>091-104</page-range><publisher-loc><![CDATA[Piracicaba-SP ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Uma nota sobre "Teste da convergência do PIB per capita da agropecuária no Brasil"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PENNA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LINHARES]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Rev. Econ. Sociol. Rural]]></source>
+<year>mar.</year>
+<month> 2</month>
+<day>01</day>
+<volume>51</volume>
+<numero>1</numero>
+<issue>1</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Transition modeling and econometric convergence tests]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PHILLIPS]]></surname>
+<given-names><![CDATA[P. C. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SUL]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica, Econometric Society]]></source>
+<year>2007</year>
+<volume>75</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>1771-855</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Agricultural productivity convergence: myth or reality]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POUDEL]]></surname>
+<given-names><![CDATA[B. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PAUDEL]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZILBERMAN]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Agricultural and Applied Economics]]></source>
+<year>2011</year>
+<volume>43</volume>
+<page-range>143-56</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[US Regional income convergence: a spatial econometric perspective]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REY]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MONTOURI]]></surname>
+<given-names><![CDATA[B. D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Regional Studies]]></source>
+<year>1999</year>
+<volume>33</volume>
+<page-range>143- 156</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[O papel da agricultura no processo de desenvolvimento econômico e as políticas governamentais para o setor agrícola]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RODRIGUES]]></surname>
+<given-names><![CDATA[J. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Administração Pública]]></source>
+<year>1978</year>
+<page-range>09-37</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSTOW]]></surname>
+<given-names><![CDATA[W. W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Etapas do desenvolvimento econômico: um manifesto não comunista]]></source>
+<year>1978</year>
+<edition>6. ed.</edition>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Zahar Editores]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Produtividade do trabalho e da terra na agropecuária paranaense]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUERREIRO]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Publ. UEPG Ci. Hum., Ci. Soc. Apl., Ling., Letras e Artes]]></source>
+<year>2005</year>
+<volume>13</volume>
+<page-range>59-78</page-range><publisher-loc><![CDATA[Ponta Grossa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Mudança Tecnológica e Produtividade do Milho e da Soja No Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[G. L. S. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VICENTE]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASER]]></surname>
+<given-names><![CDATA[D. V]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>1993</year>
+<volume>47</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>281-303</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[N. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PÔRTO JR.]]></surname>
+<given-names><![CDATA[S. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crescimento regional e novos testes de convergência para os municípios da região nordeste do Brasil]]></source>
+<year>2002</year>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Erosão nos campos sulinos: arenização no sudoeste do Rio Grande do Sul]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SUERTGARAY]]></surname>
+<given-names><![CDATA[D. M. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Geomorfologia]]></source>
+<year>2011</year>
+<volume>12</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>61-74</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Produtividade total de fatores e eficiência no setor de lavouras da agricultura brasileira]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VICENTE]]></surname>
+<given-names><![CDATA[J. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Agronegócio]]></source>
+<year>2011</year>
+<volume>9</volume>
+<page-range>303-24</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

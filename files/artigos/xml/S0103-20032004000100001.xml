@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032004000100001</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032004000100001</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Oferta de exportação de açúcar do Brasil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Alves]]></surname>
+<given-names><![CDATA[Lucilio Rogerio Aparecido]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Bacchi]]></surname>
+<given-names><![CDATA[Mirian Rumenos Piedade]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz Centro de Estudos Avançados em Economia Aplicada]]></institution>
+<addr-line><![CDATA[Piracicaba São Paulo]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz Departamento de Economia, Administração e Sociologia]]></institution>
+<addr-line><![CDATA[Piracicaba São Paulo]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>01</month>
+<year>2004</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>01</month>
+<year>2004</year>
+</pub-date>
+<volume>42</volume>
+<numero>1</numero>
+<fpage>9</fpage>
+<lpage>33</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032004000100001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032004000100001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032004000100001&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O objetivo deste trabalho é estimar uma função de oferta de exportação brasileira de açúcar utilizando a metodologia de Auto-Regressão Vetorial com identificação pelo processo de Bernanke. Os dados utilizados são do período de outubro de 1995 a dezembro de 2002. A equação especificada para avaliar os impactos de variações nas condicionantes das exportações é fundamentada em um modelo teórico que tem como pressuposto que elas se constituem, em grande parte, no excedente do mercado interno. As propriedades de integração e co-integração das séries utilizadas no modelo foram consideradas na análise. Os resultados mostram que o aumento do preço de exportação e a desvalorização cambial causam significativo aumento das exportações brasileiras. Por outro lado, um aumento da renda interna e do preço doméstico tem reflexos negativos sobre o quantum exportado. Os efeitos mais expressivos de uma mesma variação percentual nas condicionantes das exportações sobre o quantum exportado de açúcar, ocorrem no caso da variável renda interna.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[comércio internacional]]></kwd>
+<kwd lng="pt"><![CDATA[mercado de açúcar]]></kwd>
+<kwd lng="pt"><![CDATA[Brasil]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="4"><b>Oferta    de exporta&ccedil;&atilde;o de a&ccedil;&uacute;car do Brasil</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><b><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Lucilio    Rogerio Aparecido Alves<sup>I</sup>; Mirian Rumenos Piedade Bacchi<sup>II</sup></font></b></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><sup>I</sup>Doutorando    do Programa de P&oacute;s-gradua&ccedil;&atilde;o em Economia Aplicada da Escola    Superior de Agricultura "Luiz de Queiroz" – ESALQ/USP. Pesquisador do Centro    de Estudos Avan&ccedil;ados em Economia Aplicada – CEPEA/ESALQ/USP. Av. P&aacute;dua    Dias, 11. CEP 13418-900 – Piracicaba – S&atilde;o Paulo. E-mail: <a href="mailto:lualves@esalq.usp.br">lualves@esalq.usp.br</a>    <br>    <sup>II</sup>Professora    do Departamento de Economia, Administra&ccedil;&atilde;o e Sociologia – ESALQ/USP.    Av. P&aacute;dua Dias, 11. CEP 13418-900 – Piracicaba – S&atilde;o Paulo. E-mail:    <a href="mailto:mrpbacch@esalq.usp.br">mrpbacch@esalq.usp.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr noshade size="1">     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><b>RESUMO    </b></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"> O objetivo    deste trabalho &eacute; estimar uma fun&ccedil;&atilde;o de oferta de exporta&ccedil;&atilde;o    brasileira de a&ccedil;&uacute;car utilizando a metodologia de Auto-Regress&atilde;o    Vetorial com identifica&ccedil;&atilde;o pelo processo de Bernanke. Os dados    utilizados s&atilde;o do per&iacute;odo de outubro de 1995 a dezembro de 2002.    A equa&ccedil;&atilde;o especificada para avaliar os impactos de varia&ccedil;&otilde;es    nas condicionantes das exporta&ccedil;&otilde;es &eacute; fundamentada em um    modelo te&oacute;rico que tem como pressuposto que elas se constituem, em grande    parte, no excedente do mercado interno. As propriedades de integra&ccedil;&atilde;o    e co-integra&ccedil;&atilde;o das s&eacute;ries utilizadas no modelo foram consideradas    na an&aacute;lise. Os resultados mostram que o aumento do pre&ccedil;o de exporta&ccedil;&atilde;o    e a desvaloriza&ccedil;&atilde;o cambial causam significativo aumento das exporta&ccedil;&otilde;es    brasileiras. Por outro lado, um aumento da renda interna e do pre&ccedil;o dom&eacute;stico    tem reflexos negativos sobre o <i>quantum</i> exportado. Os efeitos mais expressivos    de uma mesma varia&ccedil;&atilde;o percentual nas condicionantes das exporta&ccedil;&otilde;es    sobre o <i>quantum</i> exportado de a&ccedil;&uacute;car, ocorrem no caso da    vari&aacute;vel renda interna.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><b>Palavras-chave:</b>    com&eacute;rcio internacional, mercado de a&ccedil;&uacute;car, Brasil.</font></p> <hr noshade size="1">     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3"><b>1 – Introdu&ccedil;&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">O objetivo    deste trabalho &eacute; estimar uma fun&ccedil;&atilde;o de oferta de exporta&ccedil;&atilde;o    brasileira de a&ccedil;&uacute;car utilizando a metodologia de Auto-Regress&atilde;o    Vetorial com identifica&ccedil;&atilde;o pelo processo de Bernanke. Os dados    compreendem o per&iacute;odo de outubro de 1995 a dezembro de 2002.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">A balan&ccedil;a comercial desempenha importante papel no processo de ajustamento    das contas externas da economia nacional. Justifica-se a realiza&ccedil;&atilde;o    de an&aacute;lises que propiciem um maior conhecimento dos mecanismos respons&aacute;veis    pela <i>performance</i> do segmento exportador da economia nacional, entre os    quais encontram-se os de produtos agr&iacute;colas e agroindustriais.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">A import&acirc;ncia da agroind&uacute;stria canavieira no contexto econ&ocirc;mico    nacional e dos produtos desse setor na balan&ccedil;a comercial brasileira,    entre os quais o a&ccedil;&uacute;car &eacute; o que tem maior representatividade,    motiva a condu&ccedil;&atilde;o de trabalhos que tratem do desempenho desse    segmento exportador de forma particularizada<i>.</i> Estudos sobre as vari&aacute;veis    condicionantes das exporta&ccedil;&otilde;es brasileiras podem contribuir na    defini&ccedil;&atilde;o de estrat&eacute;gias direcionadas &agrave; dinamiza&ccedil;&atilde;o    desses mercados. A estima&ccedil;&atilde;o de equa&ccedil;&atilde;o de oferta    de exporta&ccedil;&atilde;o de a&ccedil;&uacute;car torna poss&iacute;vel verificar    o efeito de pol&iacute;ticas de incentivo, possibilitando a elabora&ccedil;&atilde;o    de an&aacute;lises prospectivas sobre o comportamento do com&eacute;rcio externo,    podendo tamb&eacute;m auxiliar os agentes ligados ao setor na tomada de decis&otilde;es    sobre produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">A relev&acirc;ncia de estudar o funcionamento da agroind&uacute;stria canavieira    brasileira reside em sua grande import&acirc;ncia tanto no contexto dom&eacute;stico    como internacional. No mercado dom&eacute;stico, esta agroind&uacute;stria diferencia-se    dos demais pa&iacute;ses por produzir, em escala industrial, tanto a&ccedil;&uacute;car    como &aacute;lcool. A cana-de-a&ccedil;&uacute;car ocupa posi&ccedil;&atilde;o    de destaque entre as principais culturas quanto &agrave; &aacute;rea plantada    e tamb&eacute;m quanto ao volume e valor da produ&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">No contexto internacional, a representatividade do produto brasileiro aumentou    de forma expressiva nos &uacute;ltimos anos. Atualmente o Brasil &eacute; o    maior produtor de a&ccedil;&uacute;car do mundo, ultrapassando a produ&ccedil;&atilde;o    da &Iacute;ndia e da Uni&atilde;o Europ&eacute;ia e, no ano-safra 1995/96, tornou-se    o maior exportador mundial desse produto, posi&ccedil;&atilde;o que mant&eacute;m    at&eacute; os dias atuais.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Al&eacute;m desta breve introdu&ccedil;&atilde;o, este trabalho consta de mais    quatro outras partes. Na segunda, faz-se uma caracteriza&ccedil;&atilde;o do    setor a&ccedil;ucareiro nacional. Na terceira, descreve-se o modelo econ&ocirc;mico    e, na quarta parte, os procedimentos metodol&oacute;gicos. Os dados utilizados    e os resultados e discuss&atilde;o s&atilde;o apresentados na quinta parte do    presente trabalho.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3"><b>2 – Caracteriza&ccedil;&atilde;o    dos Setores Exportador e Produtor de A&ccedil;&uacute;car Brasileiro</b></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">&Eacute;    importante ressaltar dois momentos vividos pela agroind&uacute;stria canavieira    na d&eacute;cada de 90. O primeiro relacionado &agrave; extin&ccedil;&atilde;o    do Instituto do A&ccedil;&uacute;car e do &Aacute;lcool (IAA), em mar&ccedil;o    de 1990, que alterou a din&acirc;mica do mercado de a&ccedil;&uacute;car. Os    produtores dessa <i>commodity</i> passaram a atuar, desde ent&atilde;o, em um    ambiente competitivo e foram for&ccedil;ados a empregar mecanismos de mercado    nunca antes utilizados, quando o pre&ccedil;o era fixado de forma a assegurar    rentabilidade para a atividade.<a name="top1"></a><a href="#back1"><sup>1</sup></a>    As dificuldades relacionadas a cr&eacute;dito, comuns em setores n&atilde;o    regulados, estimularam os produtores a utilizar o mercado externo como forma    de financiar a produ&ccedil;&atilde;o e aumentar a liquidez, sobretudo atrav&eacute;s    de Adiantamentos sobre os Contratos de C&acirc;mbio (ACC) (Moraes, 2000). O    per&iacute;odo p&oacute;s-desregulamenta&ccedil;&atilde;o coincide com aquele    no qual tanto a produ&ccedil;&atilde;o como as exporta&ccedil;&otilde;es brasileiras    cresceram, especialmente na Regi&atilde;o Centro-Sul, a taxas superiores &agrave;s    praticadas anteriormente.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Um segundo momento est&aacute; relacionado &agrave; mudan&ccedil;a da pol&iacute;tica    cambial brasileira, ocorrida em janeiro de 1999, quando foi extinto o chamado    "regime de bandas cambiais", que determinava os limites de flutua&ccedil;&atilde;o    do pre&ccedil;o da moeda estrangeira, adotando-se o regime de c&acirc;mbio flex&iacute;vel.    A liberaliza&ccedil;&atilde;o do c&acirc;mbio foi acompanhada por uma progressiva    desvaloriza&ccedil;&atilde;o da moeda brasileira, o que elevou a competitividade    dos produtos nacionais export&aacute;veis, favorecendo, entre outros, o setor    exportador de a&ccedil;&uacute;car.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Os principais fatores que impulsionaram o crescimento das exporta&ccedil;&otilde;es    brasileiras na d&eacute;cada de 1990 t&ecirc;m sido apontados como: a liberaliza&ccedil;&atilde;o    das exporta&ccedil;&otilde;es em julho de 1994, que encerrou o regime de quotas    tarif&aacute;rias, quando se taxava em 40% os volumes exportados superiores    aos estabelecidos como quota; o aumento da demanda mundial, que se refletiu    em condi&ccedil;&otilde;es favor&aacute;veis no mercado internacional; e a extin&ccedil;&atilde;o    de acordos especiais de com&eacute;rcio entre governos, que propiciou a entrada    do Brasil em mercados at&eacute; ent&atilde;o fechados.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Segundo Veiga Filho (2000), pode-se creditar o crescimento das exporta&ccedil;&otilde;es    brasileiras de a&ccedil;&uacute;car a motivos de origem interna e externa. De    origem externa, cita o fim do acordo bilateral entre a Uni&atilde;o das Rep&uacute;blicas    Socialistas Sovi&eacute;ticas e Cuba (URSS-Cuba), que possibilitou ao Brasil    ocupar, em parte, o lugar de Cuba nesse mercado. No &acirc;mbito interno cita    as crescentes exporta&ccedil;&otilde;es oriundas do Estado de S&atilde;o Paulo,    respaldadas pelos baixos custos de produ&ccedil;&atilde;o em rela&ccedil;&atilde;o    ao de outras regi&otilde;es do Brasil e do mundo. A produ&ccedil;&atilde;o de    cana-de-a&ccedil;&uacute;car da Regi&atilde;o Norte-Nordeste caracteriza-se    por menor produ&ccedil;&atilde;o e maiores custos, comparativamente &agrave;    Regi&atilde;o Centro-Sul, que &eacute; conhecida por sua alta produtividade    e excelente desenvolvimento ambiental, com consider&aacute;vel potencial de    expans&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">A redu&ccedil;&atilde;o da demanda de &aacute;lcool hidratado na d&eacute;cada    de 1990 pode ser considerada outro fator que propiciou o aumento das exporta&ccedil;&otilde;es    brasileiras de a&ccedil;&uacute;car. Este fator conduz ao deslocamento da oferta,    favorecendo a produ&ccedil;&atilde;o de a&ccedil;&uacute;car em detrimento ao    &aacute;lcool.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">De acordo com dados da safra 2001/02, o Brasil foi o principal produtor mundial    seguido pela &Iacute;ndia, Uni&atilde;o Europ&eacute;ia, China, EUA, Tail&acirc;ndia,    M&eacute;xico, Austr&aacute;lia e Cuba (United States Department of Agriculture    – USDA, 2002). Nessa safra, a produ&ccedil;&atilde;o e exporta&ccedil;&atilde;o    brasileiras representaram 15,2% e 28,7%, respectivamente, do total mundial.    Da safra 1992/93 &agrave; 2001/02, a produ&ccedil;&atilde;o mundial cresceu    &agrave; taxa geom&eacute;trica de 2,4% a.a. e a brasileira &agrave; taxa de    8,7% a.a.. Quanto &agrave; exporta&ccedil;&atilde;o, o com&eacute;rcio mundial    teve uma amplia&ccedil;&atilde;o &agrave; taxa de 4,0% a.a., sendo que as exporta&ccedil;&otilde;es    brasileiras aumentaram 17,7% a.a.. No per&iacute;odo que compreende os anos-safra    1992/93 a 2001/02, as exporta&ccedil;&otilde;es brasileiras representaram em    m&eacute;dia 42,2% do total produzido no pa&iacute;s (dados b&aacute;sicos de    USDA, 2002). Do total exportado, a maior parte refere-se ao a&ccedil;&uacute;car    na forma bruta, sendo o restante da categoria de a&ccedil;&uacute;car branco,    que inclui o cristal e o refinado. A participa&ccedil;&atilde;o da receita de    exporta&ccedil;&atilde;o de a&ccedil;&uacute;car na receita total de exporta&ccedil;&otilde;es    brasileiras apresentou uma m&eacute;dia de 3,9% nos &uacute;ltimos anos (Associa&ccedil;&atilde;o    de Produtores de &Aacute;lcool e A&ccedil;&uacute;car do Estado do Paran&aacute;    – Alcopar, 2003).</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">As exporta&ccedil;&otilde;es    brasileiras de a&ccedil;&uacute;car podem tamb&eacute;m ser avaliadas de forma    desagregada, em termos de a&ccedil;&uacute;cares (bruto e branco) e em termos    de regi&otilde;es exportadoras (Centro-Sul e Norte-Nordeste). Nas <a href="#fig1">Figuras    1</a> e <a href="#fig2">2</a> observa-se a tend&ecirc;ncia crescente das vendas    de a&ccedil;&uacute;car ao mercado externo. No per&iacute;odo compreendido entre    janeiro de 1996 e dezembro de 2002, o volume das exporta&ccedil;&otilde;es de    a&ccedil;&uacute;car bruto representou aproximadamente 61,25% do total exportado    (<a href="#fig1">Figura 1</a>). A quantidade exportada pela Regi&atilde;o Centro-Sul    apresenta destaque, com aproximadamente 75% do total exportado, sendo que alguns    meses suas exporta&ccedil;&otilde;es representaram 100% das exporta&ccedil;&otilde;es    brasileiras (<a href="#fig2">Figura 2</a>).</font></p>     <p align="center"><a name="fig1"></a></p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920f1.gif"></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="fig2"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920f2.gif"></p>     <p align="center">&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">As exporta&ccedil;&otilde;es das Regi&otilde;es Centro-Sul e Norte-Nordeste    diferem em rela&ccedil;&atilde;o aos seus mercados de destino. O n&uacute;mero    de pa&iacute;ses que importaram a&ccedil;&uacute;car da Regi&atilde;o Norte-Nordeste    manteve-se praticamente inalterado entre 1996 e 2002. As exporta&ccedil;&otilde;es    dessa regi&atilde;o s&atilde;o destinadas, em grande parte, aos Estados Unidos    da Am&eacute;rica (EUA), uma vez que as quotas preferenciais concedidas por    este pa&iacute;s ao Brasil s&atilde;o apropriadas pelas usinas nordestinas.    O Centro-Sul, por sua vez, apresentou uma expans&atilde;o no n&uacute;mero de    mercados importadores entre 1996 e 2002.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Contudo, o aumento das receitas de exporta&ccedil;&atilde;o de a&ccedil;&uacute;car    est&aacute; relacionado &agrave; possibilidade do Brasil ampliar sua participa&ccedil;&atilde;o    no cen&aacute;rio mundial atrav&eacute;s da conquista de novos mercados. Embora    as exporta&ccedil;&otilde;es brasileiras atinjam grande n&uacute;mero de pa&iacute;ses,    os sete principais destinos (R&uacute;ssia, Nig&eacute;ria, Emirados &Aacute;rabes,    Egito, Marrocos, Canad&aacute; e Ir&atilde;) representam aproximadamente 63%    do total exportado (dados b&aacute;sicos de Alcopar, 2003).</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Destaca-se que uma das mais importantes caracter&iacute;sticas da agroind&uacute;stria    canavieira brasileira consiste na flexibilidade de sua produ&ccedil;&atilde;o.    As usinas de a&ccedil;&uacute;car com destilaria anexa podem direcionar o caldo    oriundo da moagem da cana-de-a&ccedil;&uacute;car tanto para a fabrica&ccedil;&atilde;o    de a&ccedil;&uacute;car como para de &aacute;lcool, dependendo da rentabilidade    desses produtos. Segundo Marjotta-Maistro (2002), no processo de tomada de decis&atilde;o    os agentes formam expectativa considerando pre&ccedil;os e quantidades demandadas    de a&ccedil;&uacute;car e &aacute;lcool, tanto no mercado interno como no externo.    Al&eacute;m disso, por causa do grande crescimento da cana-de-a&ccedil;&uacute;car    baseada no suporte de ambas as ind&uacute;strias (a&ccedil;&uacute;car e &aacute;lcool)    no Brasil, o pa&iacute;s demonstra o potencial de expans&atilde;o da exporta&ccedil;&atilde;o    de a&ccedil;&uacute;car mais r&aacute;pido do que qualquer outro pa&iacute;s    exportador.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Quanto ao mercado interno, os principais estados produtores de cana-de-a&ccedil;&uacute;car,    considerando a m&eacute;dia da produ&ccedil;&atilde;o da safra 2002/03, s&atilde;o:    S&atilde;o Paulo (60,6%), Paran&aacute; (7,5%), Alagoas (7,0%), Pernambuco (4,6%)    e Minas Gerais (4,5%). No geral, a agroind&uacute;stria canavieira do Estado    de S&atilde;o Paulo aparece como a mais din&acirc;mica do pa&iacute;s.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Entre as safras 1988/89 e 2001/02, a produ&ccedil;&atilde;o de a&ccedil;&uacute;car    da Regi&atilde;o Norte-Nordeste cresceu &agrave; taxa de 0,9% a.a., enquanto    que na Regi&atilde;o Centro-Sul o crescimento foi de 11,5% a.a., resultando    em uma expans&atilde;o nacional de 8,6% a.a. (dados b&aacute;sicos da UNICA,    2002). Considerando a m&eacute;dia das safras 1999/00 e 2001/02, a Regi&atilde;o    Centro-Sul produziu pr&oacute;ximo de 83% do total nacional. O estado que mais    se destaca nessa produ&ccedil;&atilde;o &eacute; S&atilde;o Paulo, que representou,    na safra 2002/03, 60% das produ&ccedil;&otilde;es da Regi&atilde;o Centro-Sul    e nacional.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Quanto &agrave;s elasticidades da demanda de a&ccedil;&uacute;car no mercado    interno, no trabalho de Caruso (2000) foram estimadas as elasticidades-pre&ccedil;o    da ordem de -0,47 e -0,18, utilizando modelos ajustados por m&iacute;nimos quadrados    ordin&aacute;rios e m&iacute;nimos quadrados generalizados, respectivamente.    Sabe-se tamb&eacute;m que o a&ccedil;&uacute;car &eacute; um produto que tem    baixa elasticidade-renda da demanda. Hoffmann (2000), estimou, utilizando o    ajustamento de poligonal com dados da POF de 1995/96, elasticidades-renda m&eacute;dia    da despesa com a&ccedil;&uacute;cares refinado e cristal da ordem de 0,13 e    -0,20, respectivamente.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">A literatura que trata do estudo do mercado do &aacute;lcool, por sua vez,    &eacute; ainda escassa em fun&ccedil;&atilde;o da interven&ccedil;&atilde;o    governamental verificada at&eacute; passado recente. Poucos trabalhos sobre    o processo de forma&ccedil;&atilde;o de pre&ccedil;o no setor de combust&iacute;veis    foram realizados no Brasil, podendo-se citar o de Marjotta-Maistro (2002). Essa    autora estimou a elasticidade-renda da demanda de gasolina C em 0,21 e a elasticidade-pre&ccedil;o    em 0,6. Considerando que o &aacute;lcool anidro &eacute; utilizado em propor&ccedil;&otilde;es    relativamente fixas na constitui&ccedil;&atilde;o da gasolina C, pode-se inferir    que esses valores seriam uma boa <i>proxy</i> para as elasticidades de demanda    de &aacute;lcool anidro.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Observa-se, ent&atilde;o, que tanto o a&ccedil;&uacute;car como o &aacute;lcool    t&ecirc;m demandas inel&aacute;sticas a pre&ccedil;os e renda. Dessa forma,    impactos nessas vari&aacute;veis ter&atilde;o efeitos menos que proporcional    na quantidade demandada dos produtos no mercado dom&eacute;stico, podendo-se    inferir que aumento na produ&ccedil;&atilde;o n&atilde;o levar&aacute;, atrav&eacute;s    da queda de pre&ccedil;os, a aumentos significativos na demanda interna, especialmente    no caso do a&ccedil;&uacute;car, o que sugere a gera&ccedil;&atilde;o de excedentes    que dever&atilde;o ser direcionados ao mercado externo.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">O mercado exportador de a&ccedil;&uacute;car brasileiro tem sido estudado sob    v&aacute;rios enfoques e dentre os trabalhos existentes na literatura sobre    esse mercado pode-se citar: Barros (1975), Carvalho &amp; Brandt (1987), Stalder    &amp; Burnquist (1997), Reis &amp; Crespo (1998), Burnquist &amp; Miranda (1999),    Caruso (2001) e Barros et al. (2002).</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3"><b>3 – Modelo    Econ&ocirc;mico</b></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Muitos s&atilde;o os trabalhos existentes sobre o com&eacute;rcio internacional    de <i>commodities</i>, alguns tratando de produtos no agregado, outros tratando    da comercializa&ccedil;&atilde;o de produtos de forma individual. Entre aqueles    que tratam de fun&ccedil;&otilde;es de exporta&ccedil;&atilde;o podem ser citados,    entre outros: Goldstein &amp; Khan (1978), Zini (1988), Castro &amp; Cavalcanti    (1997), Cavalcanti &amp; Ribeiro (1998), Onunkwo &amp; Epperson (1999), Senhadji    &amp; Montenegro (1999), Carvalho &amp; Negri (2000), Miranda (2001) e Barros    et al. (2002).</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">No presente estudo teve-se como objetivo estimar uma fun&ccedil;&atilde;o de    oferta de exporta&ccedil;&atilde;o de a&ccedil;&uacute;car do Brasil, sendo    a especifica&ccedil;&atilde;o dessa fun&ccedil;&atilde;o feita fundamentando-se    no modelo proposto por Barros et al. (2002). Na defini&ccedil;&atilde;o desse    modelo, considera-se que o <i>quantum</i> exportado do produto depende dos excedentes    do mercado dom&eacute;stico.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">As fun&ccedil;&otilde;es de oferta e demanda interna podem ser escritas na    forma logar&iacute;tmica, respectivamente, como:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x1.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">onde: <i>pd</i> &eacute; o logaritmo do pre&ccedil;o dom&eacute;stico; <i>w</i>    representa deslocadores da oferta; e, <i>y</i> representa deslocadores da demanda,    entre os quais pode-se citar a renda.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Considera-se que:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x2.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">onde <i>qx</i> &eacute; o <i>quantum</i> exportado.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Relacionando o pre&ccedil;o das exporta&ccedil;&otilde;es e pre&ccedil;o interno,    tem-se uma margem de exporta&ccedil;&atilde;o que cobre o custo dessa opera&ccedil;&atilde;o.    Admite-se que, na forma logar&iacute;tmica, essa margem possa ser representada    por:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x3.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">onde <font face="Symbol">a</font>    &eacute; a elasticidade relacionando <i>m</i> a <i>pd</i>. O pre&ccedil;o de    exporta&ccedil;&atilde;o expresso em moeda nacional (<i>px</i>), na forma logar&iacute;tmica,    &eacute; igual ao pre&ccedil;o que vigora no mercado interno mais a margem de    exporta&ccedil;&atilde;o:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x4.gif"></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Tomando (1), (2) e (3), especifica-se a fun&ccedil;&atilde;o de oferta de exporta&ccedil;&atilde;o    como sendo afetada pelas mesmas vari&aacute;veis que influenciam a oferta e    demanda interna. Considerando tamb&eacute;m a rela&ccedil;&atilde;o expressa    em (7), pode-se representar a fun&ccedil;&atilde;o de oferta de exporta&ccedil;&atilde;o    genericamente, em logaritmo, por:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x5.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Entretanto,    sabendo-se que <i>px=pe+tc</i>, onde <i>pe</i> &eacute; o logaritmo do pre&ccedil;o    das exporta&ccedil;&otilde;es em moeda estrangeira e <i>tc</i> &eacute; o logaritmo    da taxa de c&acirc;mbio, pode-se reescrever a equa&ccedil;&atilde;o (8) como</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x6.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Sendo o modelo expresso em logaritmos, os coeficientes estimados s&atilde;o    as pr&oacute;prias elasticidades. Al&eacute;m do mais, a transforma&ccedil;&atilde;o    dos dados em logaritmo ameniza problemas associados &agrave; vari&acirc;ncia    n&atilde;o constante dos erros, quando eles existem.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">No modelo apresentado, o <i>quantum</i> exportado depende dos pre&ccedil;os    de exporta&ccedil;&atilde;o expresso em moeda estrangeira, do pre&ccedil;o dom&eacute;stico,    da taxa de c&acirc;mbio real, da renda interna e de um deslocador da oferta    (por exemplo, o &aacute;lcool, n&atilde;o considerado neste trabalho por falta    de s&eacute;ries temporais dispon&iacute;veis). Esperam-se coeficientes com    sinal negativo no caso do pre&ccedil;o interno e da renda, e positivo para taxa    de c&acirc;mbio e pre&ccedil;o das exporta&ccedil;&otilde;es. O pre&ccedil;o    interno tende a refletir o resultado do balan&ccedil;o entre a oferta e a demanda    interna e, dessa forma, pre&ccedil;os baixos refletem maior disponibilidade    do produto e maior possibilidade de exporta&ccedil;&atilde;o. Uma mudan&ccedil;a    que provoque uma varia&ccedil;&atilde;o positiva no pre&ccedil;o interno &eacute;    um indicativo de que a demanda aumentou, relativamente &agrave; oferta, sinalizando    uma queda das exporta&ccedil;&otilde;es; o inverso ocorreria no caso de queda    no pre&ccedil;o. Entretanto, espera-se que contemporaneamente haja influ&ecirc;ncia    apenas do pre&ccedil;o de exporta&ccedil;&atilde;o sobre o pre&ccedil;o dom&eacute;stico    e que os impactos dessas vari&aacute;veis e das demais sobre o <i>quantum</i>    a ser exportado ocorra apenas em per&iacute;odos posteriores, conforme resultados    de estudo preliminar realizado por Alves (2002).</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Diferentemente do trabalho realizado por Barros et al. (2002), no qual a fun&ccedil;&atilde;o    de oferta de exporta&ccedil;&atilde;o de a&ccedil;&uacute;car foi ajustada utilizando    os procedimentos de An&aacute;lise de Regress&atilde;o cl&aacute;ssicos, prop&ocirc;s-se    aqui usar a metodologia de Auto-Regress&atilde;o Vetorial para estimar aquela    fun&ccedil;&atilde;o, pois ela permite analisar os efeitos din&acirc;micos de    altera&ccedil;&otilde;es nas vari&aacute;veis inclu&iacute;das nos modelos.    O modelo descrito foi usado como refer&ecirc;ncia para a defini&ccedil;&atilde;o    das vari&aacute;veis relevantes da fun&ccedil;&atilde;o de oferta de exporta&ccedil;&atilde;o.    O procedimento de Auto-Regress&atilde;o Vetorial permite que as vari&aacute;veis    inclu&iacute;das no modelo sejam consideradas end&oacute;genas e, por serem    especificadas nas defasagens, s&atilde;o tomadas como pr&eacute;-determinadas.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3"><b>4 – Procedimentos    Metodol&oacute;gicos</b></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">A metodologia de Auto-Regress&atilde;o Vetorial (VAR) foi proposta como alternativa    aos modelos estruturais multi-equacionais. &Eacute; uma abordagem bastante utilizada    na an&aacute;lise de quest&otilde;es macroecon&ocirc;micas e tem sido tamb&eacute;m    utilizada em estudos relacionados &agrave; economia agr&iacute;cola, podendo-se    citar, nesse caso, Myers et al. (1990), Barros (1994), Burnquist et al. (1994),    Aguiar (1994), Barros &amp; Bittencourt (1997) e Bacchi &amp; Burnquist (1999).</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">O uso da metodologia VAR permite a obten&ccedil;&atilde;o de elasticidades    de impulso para <i>k</i> per&iacute;odos &agrave; frente. Essas elasticidades    de impulso possibilitam a avalia&ccedil;&atilde;o do comportamento das vari&aacute;veis    em resposta a choques (inova&ccedil;&otilde;es) individuais em quaisquer dos    componentes do sistema, podendo-se assim analisar, atrav&eacute;s de simula&ccedil;&atilde;o,    efeitos de eventos que tenham alguma probabilidade de ocorrer. A metodologia    VAR possibilita a decomposi&ccedil;&atilde;o hist&oacute;rica da vari&acirc;ncia    dos erros de previs&atilde;o, <i>k</i> per&iacute;odos &agrave; frente, em percentagens    a serem atribu&iacute;das a cada vari&aacute;vel componente do sistema, analisando    a import&acirc;ncia de cada choque (em cada vari&aacute;vel do modelo) ocorrido    no passado na explica&ccedil;&atilde;o dos desvios dos valores observados das    vari&aacute;veis em rela&ccedil;&atilde;o &agrave; sua previs&atilde;o realizada    no in&iacute;cio do per&iacute;odo considerado.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">A metodologia VAR tem como uma limita&ccedil;&atilde;o o fato de ter uma estrutura    recursiva para as rela&ccedil;&otilde;es contempor&acirc;neas entre as vari&aacute;veis.    O modelo conhecido como VAR estrutural desenvolvido por Bernanke (1986) supera    tal restri&ccedil;&atilde;o e permite estabelecer rela&ccedil;&otilde;es contempor&acirc;neas    tomando a teoria econ&ocirc;mica como refer&ecirc;ncia (Harvey, 1990 e Hamilton,    1994).</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Um modelo VAR estrutural pode ser representado por:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x7.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">onde <b>y<sub>t</sub>    </b>&eacute; um vetor com vari&aacute;veis de interesse; <b>B<sub>j</sub></b>    s&atilde;o matrizes (<i>n</i> x <i>n</i>) para qualquer <i>j,</i> com <b>B<sub>o</sub></b>    sendo a matriz de rela&ccedil;&otilde;es contempor&acirc;neas e <b>e<sub>t</sub></b>    &eacute; um vetor <i>n</i> x 1 de choques ortogonais. Al&eacute;m de se considerar    que os componentes de <b>e<sub>t</sub></b> s&atilde;o n&atilde;o correlacionados    serialmente, adota-se a suposi&ccedil;&atilde;o de que eles n&atilde;o t&ecirc;m    causa comum, tratando-os como mutuamente n&atilde;o correlacionados, de tal    forma que <i>E</i>(<b>e<sub>t</sub>e&acute;<sub>t</sub></b>)=<b>D</b>. A equa&ccedil;&atilde;o    (10) pode ser escrita como:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x8.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">onde <b>B(L)</b>    &eacute; um polin&ocirc;mio em L (<b>B<sub>o</sub>+B<sub>1</sub>L+B<sub>1</sub></b><i>L<sup>2</sup></i><b>+...+B<sub>p</sub></b>L<i><sup>P</sup></i>)    com <i>L</i> sendo o operador de defasagem tal que <i>L<sup>j</sup>y<sub>t</sub>    = y<sub>t-j</sub></i> para <i>j</i> inteiro.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Para fins    de estima&ccedil;&atilde;o, pr&eacute; multiplica-se (11) por <b>B<sub>o</sub><sup>-1</sup></b>    e obt&eacute;m-se a forma reduzida:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x9.gif"></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">onde<img src="/img/revistas/resr/v42n1/20920x17.gif" align="absmiddle">.    A equa&ccedil;&atilde;o (12) pode ser estimada por M&iacute;nimos Quadrados    Ordin&aacute;rios. Com o uso do procedimento de Bernanke (1986) pode-se estimar,    atrav&eacute;s da maximiza&ccedil;&atilde;o da fun&ccedil;&atilde;o de verossimilhan&ccedil;a,    os coeficientes de <b>B<sub>o</sub></b> e <b>D</b>.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Se o processo &eacute; estacion&aacute;rio (ver L&uuml;tkepohl, 1991), a equa&ccedil;&atilde;o    (12) pode ser escrita na forma de m&eacute;dia m&oacute;vel.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x10.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">onde <b>C</b>(L),    que &eacute; estimado conhecendo-se <b>A</b>(L), &eacute; um polin&ocirc;mio    de ordem infinita de matrizes <b>C<sub>j</sub></b>. Escrevendo a equa&ccedil;&atilde;o    (13) em termos de <b>e<sub>t</sub></b> tem-se</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x11.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Essa equa&ccedil;&atilde;o pode ser usada para analisar os efeitos dos choques    e a decomposi&ccedil;&atilde;o da vari&acirc;ncia do erro de previs&atilde;o.    O modelo, conforme descrito, requer o uso de s&eacute;ries estacion&aacute;rias    ou s&eacute;ries que se tornam estacion&aacute;rias ap&oacute;s a diferencia&ccedil;&atilde;o,    objetivando evitar obter um relacionamento esp&uacute;rio entre as vari&aacute;veis.    Para testar a estacionariedade das s&eacute;ries, utilizaram-se os testes de    Dickey-Fuller. Se as s&eacute;ries s&atilde;o integradas de mesma ordem e co-integradas,    um termo de corre&ccedil;&atilde;o de erro deve ser inclu&iacute;do no modelo,    sem o que ocorre erro de especifica&ccedil;&atilde;o &#91;mais detalhes em Engle    &amp; Granger (1987) e Johansen &amp; Juselius (1990)&#93;.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Diversos estudos tratam de estabelecer procedimentos para verificar a ordem    de integra&ccedil;&atilde;o de uma s&eacute;rie temporal. Dentre os procedimentos    existentes, os de Fuller (1976), complementados pelos de Dickey &amp; Fuller    (1979 e 1981), tem sido bastante utilizados. Pressupondo que a s&eacute;rie    &eacute; gerada por um processo auto-regressivo de ordem <i>p</i> &#91;AR(<i>p</i>)&#93;,    o seguinte modelo pode ser utilizado para testar raiz unit&aacute;ria:</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x12.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">sendo: <img src="/img/revistas/resr/v42n1/20920x13.gif" align="absmiddle">    ; e <i>T</i> = tend&ecirc;ncia determinista do modelo. Os testes de AIC (AKAIKE    Information Criterion) e SC (SCHWARZ Criterion) numa vers&atilde;o uni-equacional    podem ser utilizados para a determina&ccedil;&atilde;o do valor de <i>p</i>,    de forma a se obter res&iacute;duos n&atilde;o correlacionados, ou seja, ru&iacute;do    branco (ver L&uuml;tkepohl, 1991). O teste <i>Q</i> de Ljung Box, por sua vez,    d&aacute; uma indica&ccedil;&atilde;o da exist&ecirc;ncia ou n&atilde;o de autocorrela&ccedil;&atilde;o    serial, podendo ser utilizado como procedimento auxiliar na determina&ccedil;&atilde;o    do valor de <i>p</i>.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Os testes    de Dickey &amp; Fuller consistem na utiliza&ccedil;&atilde;o das estat&iacute;sticas    <font face="Symbol">t<sub>bt</sub></font> e <font face="Symbol">t<sub>a</sub></font><sub>&#181;</sub>    que avaliam a signific&acirc;ncia dos coeficientes da vari&aacute;vel tend&ecirc;ncia    (<i>b</i>) do modelo que inclui essa vari&aacute;vel e da constante no modelo    no qual a tend&ecirc;ncia &eacute; exclu&iacute;da. S&atilde;o utilizadas as    estat&iacute;sticas <font face="Symbol">t<sub>t</sub></font>, <font face="Symbol">t</font><sub>&#181;</sub>    e <font face="Symbol">t</font>, as quais correspondem aos coeficientes da vari&aacute;vel    defasada (<font face="Symbol">h</font>) do modelo com constante e tend&ecirc;ncia,    apenas constante e sem constante e tend&ecirc;ncia, respectivamente.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">O teste &eacute; repetido, quando necess&aacute;rio, fazendo-se diferen&ccedil;as    sucessivas da s&eacute;rie. O n&uacute;mero de ra&iacute;zes unit&aacute;rias    (ordem de integra&ccedil;&atilde;o) &eacute; dado pelo n&uacute;mero de vezes    que a s&eacute;rie deve ser diferenciada para se tornar estacion&aacute;ria.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Se as vari&aacute;veis s&atilde;o integradas de mesma ordem, um pr&oacute;ximo    passo seria testar a exist&ecirc;ncia de co-integra&ccedil;&atilde;o entre elas.    O conceito de co-integra&ccedil;&atilde;o est&aacute; relacionado com uma rela&ccedil;&atilde;o    de equil&iacute;brio no longo prazo entre as vari&aacute;veis. A metodologia    indicada para modelos com mais de duas vari&aacute;veis explicativas, ou para    aqueles nos quais existe endogeneidade dos regressores, &eacute; a proposta    por Johansen (1988).</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">O procedimento de Johansen baseia-se na seguinte vers&atilde;o reparametrizada    de um modelo de Vetor Auto-regressivo (VAR) de ordem <i>p</i>.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><img src="/img/revistas/resr/v42n1/20920x14.gif"></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">onde <b>y<sub>t</sub>    </b>&eacute; um vetor com <i>k</i> vari&aacute;veis, <img src="/img/revistas/resr/v42n1/20920x18.gif" align="absmiddle">    para qualquer <i>t</i> diferente de <i>s</i> e <b>d<sub>t</sub> </b>&eacute;    um vetor de vari&aacute;veis bin&aacute;rias para captar a varia&ccedil;&atilde;o    estacional.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Considerando    <i>r</i> o posto da matriz <b>?</b> , ent&atilde;o <b>?</b> tem <i>r</i> autovalores    diferentes de zero. Tr&ecirc;s situa&ccedil;&otilde;es podem ocorrer: se <i>r</i>    = <i>k</i> ent&atilde;o <b>y<sub>t</sub></b> &eacute; estacion&aacute;rio; se    <i>r</i> = 0 ent&atilde;o <img src="/img/revistas/resr/v42n1/20920x19.gif" align="absmiddle">    &eacute; estacion&aacute;rio; finalmente, se 0 &lt; <i>r</i> &lt; <i>n</i> existem    matrizes <b>a</b> e <b>b</b> de dimens&atilde;o <i>k</i> x <i>r</i> tais que    <i><img src="/img/revistas/resr/v42n1/20920x20.gif" align="absmiddle"></i> e o vetor <img src="/img/revistas/resr/v42n1/20920x21.gif" align="absmiddle">    &eacute; estacion&aacute;rio, havendo <i>r</i> vetores de co-integra&ccedil;&atilde;o    (as <i>r</i> colunas de <b>b</b>)<i>.</i> Johansen &amp; Juselius (1990) apresentaram    dois testes, bem como seus valores cr&iacute;ticos, para identificar o n&uacute;mero    de vetores de co-integra&ccedil;&atilde;o: teste do tra&ccedil;o <b><img src="/img/revistas/resr/v42n1/20920x22.gif" align="absmiddle"></b>    e do m&aacute;ximo autovalor <img src="/img/revistas/resr/v42n1/20920x23.gif" align="absmiddle">.    Os crit&eacute;rios AIC e SC, num contexto multi-equacional, s&atilde;o utilizados    para a determina&ccedil;&atilde;o do valor de <i>p</i>.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Para a realiza&ccedil;&atilde;o dos testes de raiz unit&aacute;ria e de co-integra&ccedil;&atilde;o    e para estimar o modelo VAR, utilizar-se-&aacute; o programa Regression Analysis    of Time Series (RATS).</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3"><b>5 – Resultados    e Discuss&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Inicialmente, apresentam-se as fontes dos dados a serem utilizados no modelo    especificado para a an&aacute;lise da oferta de exporta&ccedil;&atilde;o brasileira    de a&ccedil;&uacute;car. Em seguida, descrevem-se os resultados dos testes efetuados.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Os dados de quantidade exportada (em sc/50kg) e de valor das exporta&ccedil;&otilde;es,    utilizados no c&aacute;lculo do pre&ccedil;o das exporta&ccedil;&otilde;es (US$/sc/50kg),    foram obtidos junto &agrave; Secretaria de Com&eacute;rcio Exterior (SECEX),    do Minist&eacute;rio de Desenvolvimento Ind&uacute;stria e Com&eacute;rcio (MDIC).    Os pre&ccedil;os dom&eacute;sticos (R$/sc/50kg) foram os divulgados pelo Centro    de Estudos Avan&ccedil;ados em Economia Aplicada, da Escola Superior de Agricultura    "Luiz de Queiroz" (ESALQ/USP), deflacionados pelo &Iacute;ndice Geral de Pre&ccedil;os    – Disponibilidade Interna (IGP – DI), da Funda&ccedil;&atilde;o Get&uacute;lio    Vargas. A taxa de c&acirc;mbio real utilizada &eacute; o &iacute;ndice calculado    pelo Instituto de Pesquisa em Economia Aplicada (IPEA), denominado Taxa de C&acirc;mbio    Efetiva Real (IPA-OG – exporta&ccedil;&otilde;es). Para a renda foi usada como    <i>proxy</i> o &iacute;ndice divulgado pelo Instituto Brasileiro de Geografia    e Estat&iacute;stica – IBGE, da Pesquisa Industrial Mensal – Produ&ccedil;&atilde;o    F&iacute;sica – Ind&uacute;stria Geral. Utilizou-se uma vari&aacute;vel <i>dummy</i>    para representar o per&iacute;odo de safra e entressafra da cultura da cana-de-a&ccedil;&uacute;car    com a finalidade de melhorar o ajustamento do modelo, sabendo-se que as exporta&ccedil;&otilde;es    s&atilde;o maiores no per&iacute;odo de safra, que oficialmente compreende os    meses de maio a dezembro. Os dados utilizados t&ecirc;m freq&uuml;&ecirc;ncia    mensal e foram transformados em logaritmos para o ajustamento do modelo.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Na <a href="#tab1">Tabela    1</a>, apresentam-se os resultados dos testes de raiz unit&aacute;ria para as    s&eacute;ries: quantidade exportada (qe), pre&ccedil;o das exporta&ccedil;&otilde;es    (pe), pre&ccedil;o dom&eacute;stico (pd), taxa de c&acirc;mbio real (tc) e renda    (ren). O procedimento proposto por Enders (1995) foi utilizado para identificar    o modelo espec&iacute;fico a ser considerado no teste, incluindo ou n&atilde;o    termos deterministas. Os resultados encontrados apontam que no per&iacute;odo    analisado a s&eacute;rie relativa &agrave; quantidade exportada &eacute; estacion&aacute;ria,    enquanto as demais s&atilde;o integradas de ordem um &#91;I(1)&#93;. Portanto,    &eacute; necess&aacute;rio que na especifica&ccedil;&atilde;o do modelo elas    sejam consideradas nas diferen&ccedil;as de primeira ordem.</font></p>     <p align="center"><a name="tab1"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920t1.gif"></p>     <p align="center">&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Nos resultados    da an&aacute;lise de co-integra&ccedil;&atilde;o para as s&eacute;ries integradas    de mesma ordem, os testes do m&aacute;ximo autovalor e do tra&ccedil;o indicam    que existe um vetor de co-integra&ccedil;&atilde;o (<a href="#tab2">Tabela 2</a>).    Dessa forma, os resultados mostram que h&aacute; rela&ccedil;&otilde;es de equil&iacute;brio    de longo prazo entre as vari&aacute;veis. O modelo ajustado foi, portanto, um    modelo VAR com Corre&ccedil;&atilde;o de Erro (VEC), considerando os aspectos    tanto de curto quanto de longo prazos.</font></p>     <p align="center"><a name="tab2"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920t2.gif"></p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Na <a href="#tab3">Tabela    3</a>, apresenta-se o coeficiente estimado para a matriz de rela&ccedil;&otilde;es    contempor&acirc;neas do modelo VEC, especificada considerando que h&aacute;    rela&ccedil;&atilde;o contempor&acirc;nea apenas do pre&ccedil;o de exporta&ccedil;&atilde;o    sobre o pre&ccedil;o de mercado interno, e que os impactos dessas e das demais    vari&aacute;veis sobre a quantidade exportada ocorrem apenas em per&iacute;odos    posteriores. O sinal do coeficiente est&aacute; de acordo com o esperado e &eacute;    significativo.</font></p>     <p align="center"><a name="tab3"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920t3.gif"></p>     <p align="center">&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">As <a href="#fig3">Figuras    3 a 6</a> mostram os efeitos de choques nas vari&aacute;veis que comp&otilde;em    o modelo nos primeiros 12 per&iacute;odos seguintes ao instante do choque inicial.    Os resultados indicam que o efeito de uma varia&ccedil;&atilde;o do c&acirc;mbio    sobre o <i>quantum</i> exportado passa a ser expressivo no terceiro m&ecirc;s    ap&oacute;s o choque, tendo seu maior valor no quarto per&iacute;odo (<a href="#fig3">Figura    3</a>). Uma varia&ccedil;&atilde;o de 1% na taxa de c&acirc;mbio provoca, ap&oacute;s    quatro meses, uma varia&ccedil;&atilde;o de aproximadamente 2,18% nas exporta&ccedil;&otilde;es    de a&ccedil;&uacute;car. O pre&ccedil;o externo tem um efeito positivo da ordem    de 0,49% sobre o quanto exportado no segundo per&iacute;odo, e um negativo no    terceiro per&iacute;odo (<a href="#fig4">Figura 4</a>). Essa vari&aacute;vel,    entre as consideradas no modelo, foi a que apresentou o menor efeito sobre as    exporta&ccedil;&otilde;es.</font></p>     <p align="center"><a name="fig3"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920f3.gif"></p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p>     <p align="center"><a name="fig4"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920f4.gif"></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="fig5"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920f5.gif"></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="fig6"></a></p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920f6.gif"></p>     <p align="center">&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">No caso    do pre&ccedil;o interno e da renda, os maiores efeitos ocorrem no segundo e    terceiro m&ecirc;s ap&oacute;s o choque, respectivamente. Para o pre&ccedil;o    interno, a elasticidade para esse m&ecirc;s &eacute; de aproximadamente –1,36%,    e para renda, de –3,67 % no terceiro per&iacute;odo ap&oacute;s o choque (<a href="#fig5">Figuras    5</a> e <a href="#fig6">6</a>).</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Os resultados    encontrados para o per&iacute;odo sob an&aacute;lise mostraram que as vari&aacute;veis    relacionadas ao mercado dom&eacute;stico t&ecirc;m grande influ&ecirc;ncia sobre    o <i>quantum</i> exportado de a&ccedil;&uacute;car, para uma mesma varia&ccedil;&atilde;o    percentual. Esse resultado sugere que as exporta&ccedil;&otilde;es de a&ccedil;&uacute;car    s&atilde;o grandemente afetadas pela conjuntura dom&eacute;stica.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Como mencionado    anteriormente, a metodologia VAR permite avaliar o poder explanat&oacute;rio    de cada vari&aacute;vel do modelo sobre as demais atrav&eacute;s da decomposi&ccedil;&atilde;o    da vari&acirc;ncia do erro de previs&atilde;o. Na <a href="#tab4">Tabela 4</a>    tem-se a referida decomposi&ccedil;&atilde;o para a vari&aacute;vel quantidade    exportada de a&ccedil;&uacute;car, as estimativas dos desvios-padr&atilde;o    dos erros, bem como a propor&ccedil;&atilde;o desses erros atribu&iacute;da    a cada vari&aacute;vel do modelo. Observa-se que o pre&ccedil;o dom&eacute;stico    explica de 5,7% a 10,2% da vari&acirc;ncia do erro de previs&atilde;o do <i>quantum</i>    exportado e a renda de 3,5% a 10,5%, dependendo do per&iacute;odo considerado.    O pre&ccedil;o das exporta&ccedil;&otilde;es e a taxa de c&acirc;mbio t&ecirc;m    menor poder explicativo sobre o erro de previs&atilde;o do <i>quantum</i> exportado,    comparativamente &agrave;s vari&aacute;veis de mercado interno.</font></p>     <p align="center"><a name="tab4"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920t4.gif"></p>     <p align="center">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Nas <a href="#tab5">Tabelas    5</a> e <a href="#tab6">6</a> s&atilde;o apresentadas as decomposi&ccedil;&otilde;es    da vari&acirc;ncia do erro de previs&atilde;o do pre&ccedil;o das exporta&ccedil;&otilde;es    e do pre&ccedil;o dom&eacute;stico, respectivamente. Verifica-se que o pre&ccedil;o    dom&eacute;stico explica aproximadamente 12% do erro de previs&atilde;o do pre&ccedil;o    das exporta&ccedil;&otilde;es ap&oacute;s o quarto m&ecirc;s, enquanto o pre&ccedil;o    das exporta&ccedil;&otilde;es explica aproximadamente 15% do erro de previs&atilde;o    do pre&ccedil;o do mercado dom&eacute;stico ap&oacute;s esse per&iacute;odo.    Esse resultado relativamente expressivo entre o pre&ccedil;o interno e de exporta&ccedil;&atilde;o    &eacute; justificado pela intera&ccedil;&atilde;o existente nos anos recentes    entre os mercados dom&eacute;stico e internacional de a&ccedil;&uacute;car.    Vale lembrar que a rela&ccedil;&atilde;o contempor&acirc;nea entre esses pre&ccedil;os    foi estimada em aproximadamente 0,43, indicando uma rela&ccedil;&atilde;o expressiva    entre eles.</font></p>     <p align="center"><a name="tab5"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920t5.gif"></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="tab6"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n1/20920t6.gif"></p>     <p align="center">&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Estes resultados, em termos gerais, corroboram os encontrados por Barros, et    al. (2002). No entanto, diferentemente daquele trabalho, a metodologia aqui    empregada permite que se observe, al&eacute;m da magnitude do efeito do choque,    tamb&eacute;m a dura&ccedil;&atilde;o deles. Esta informa&ccedil;&atilde;o &eacute;    importante para fundamentar a elabora&ccedil;&atilde;o de an&aacute;lises prospectivas.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3"><b>Considera&ccedil;&otilde;es    Finais</b></font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">O modelo te&oacute;rico utilizado para a defini&ccedil;&atilde;o das condicionantes    das exporta&ccedil;&otilde;es de a&ccedil;&uacute;car, no qual se considera    que a oferta de exporta&ccedil;&atilde;o brasileira depende da diferen&ccedil;a    entre a oferta e demanda dom&eacute;stica, apresenta-se adequado para a an&aacute;lise.    O pre&ccedil;o e a renda dom&eacute;stica, vari&aacute;veis que refletem diretamente    as condi&ccedil;&otilde;es de mercado interno, foram de grande import&acirc;ncia    na determina&ccedil;&atilde;o das exporta&ccedil;&otilde;es brasileiras de a&ccedil;&uacute;car,    sendo o efeito defasado (subseq&uuml;entes ao choque) dessas vari&aacute;veis    sobre o <i>quantum</i> exportado bastante expressivo. Do mesmo modo, h&aacute;    est&iacute;mulo &agrave;s exporta&ccedil;&otilde;es de a&ccedil;&uacute;car    quando a moeda nacional sofre desvaloriza&ccedil;&atilde;o em rela&ccedil;&atilde;o    &agrave; moeda americana. Embora o efeito da varia&ccedil;&atilde;o da taxa    de c&acirc;mbio sobre o <i>quantum</i> exportado n&atilde;o seja grande no primeiro    e no segundo per&iacute;odos ap&oacute;s um choque, ele passa a ser bastante    expressivo ap&oacute;s tr&ecirc;s meses.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">O pre&ccedil;o das exporta&ccedil;&otilde;es, que reflete as condi&ccedil;&otilde;es    de oferta e demanda prevalecentes no mercado internacional, embora tenha apresentado    menor elasticidade comparativamente &agrave;s vari&aacute;veis de mercado interno,    teve algum grau de influ&ecirc;ncia sobre o <i>quantum</i> exportado de a&ccedil;&uacute;car,    sabendo-se que ele &eacute; um sinalizador do potencial de absor&ccedil;&atilde;o    do produto naquele mercado. Segundo Barros et al. (2002), maiores pre&ccedil;os    internacionais indicam excesso de demanda nesse mercado, o que possibilita a    expans&atilde;o das exporta&ccedil;&otilde;es brasileiras.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Acredita-se que pol&iacute;ticas setoriais que levem a ganhos em produ&ccedil;&atilde;o    e produtividade, por terem car&aacute;ter mais independente do que as pol&iacute;ticas    macroecon&ocirc;micas que afetam de forma diferenciada v&aacute;rios segmentos    da economia, sendo de dif&iacute;cil implementa&ccedil;&atilde;o, parecem ser    instrumentos eficazes para possibilitar a gera&ccedil;&atilde;o de excedentes    export&aacute;veis. A situa&ccedil;&atilde;o econ&ocirc;mica favor&aacute;vel    das unidades produtoras de a&ccedil;&uacute;car, que se refletem nos tratos    culturais da lavoura da cana-de-a&ccedil;&uacute;car e na produ&ccedil;&atilde;o    de a&ccedil;&uacute;car, podem contribuir para a dinamiza&ccedil;&atilde;o do    setor exportador a&ccedil;ucareiro brasileiro.</font></p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Deve-se considerar, tamb&eacute;m, que a flexibilidade existente na agroind&uacute;stria    canavieira quanto &agrave; possibilidade de se produzir a&ccedil;&uacute;car    ou &aacute;lcool, dependendo das condi&ccedil;&otilde;es de mercados desses    produtos, deve influir sobremaneira na defini&ccedil;&atilde;o dos excedentes    export&aacute;veis de a&ccedil;&uacute;car. Nesse sentido, seria importante    a introdu&ccedil;&atilde;o do pre&ccedil;o do &aacute;lcool no modelo ajustado    para a an&aacute;lise das exporta&ccedil;&otilde;es de a&ccedil;&uacute;car,    o que n&atilde;o foi feito em fun&ccedil;&atilde;o da indisponibilidade desses    dados para a maior parte do per&iacute;odo de abrang&ecirc;ncia do estudo. &Eacute;    importante lembrar que o pre&ccedil;o do &aacute;lcool foi por muito tempo tabelado    e, portanto, a s&eacute;rie dessa vari&aacute;vel apresenta pouca variabilidade,    justificando a sua n&atilde;o inclus&atilde;o na fun&ccedil;&atilde;o de oferta    de a&ccedil;&uacute;car.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="3"><b>Refer&ecirc;ncias    Bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">AGUIAR, D. Custo, risco e margem de comercializa&ccedil;&atilde;o de arroz    e feij&atilde;o no Estado de S&atilde;o Paulo: an&aacute;lise din&acirc;mica    e testes de modelos alternativos. Piracicaba, 1994. Tese (Doutorado) – Escola    Superior de Agricultura "Luiz de Queiroz"/Universidade de S&atilde;o Paulo.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003200400010000100001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">ALVES, L.R.A. Transmiss&atilde;o de pre&ccedil;os entre produtos do setor sucroalcooleiro    do Estado de S&atilde;o Paulo. Piracicaba, 2002. Disserta&ccedil;&atilde;o (Mestrado)    – Escola Superior de Agricultura "Luiz de Queiroz"/Universidade de S&atilde;o    Paulo.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003200400010000100002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">ASSOCIA&Ccedil;&Atilde;O    DE PRODUTORES DE &Aacute;LCOOL E A&Ccedil;&Uacute;CAR DO ESTADO DO PARAN&Aacute;    – ALCOPAR. <b>Mercado de a&ccedil;&uacute;car</b>. <a href="http://www.alcopar.org.br/estatdiv/macucar.htm" target="_blank">http://www.alcopar.org.br/estatdiv/macucar.htm</a>    (15 abr. 2003)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003200400010000100003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">BACCHI,    M.R.P.; BURNQUIST, H.L. Transmiss&atilde;o de pre&ccedil;os entre os segmentos    produtivos da pecu&aacute;ria de corte brasileira. In: CONGRESSO BRASILEIRO    DE ECONOMIA E SOCIOLOGIA RURAL, Foz de Igua&ccedil;u, PR, 1999. <b>Anais</b>,    Bras&iacute;lia : SOBER, 1999.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003200400010000100004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">BARROS, G.S. de C. Forma&ccedil;&atilde;o de pre&ccedil;os no setor de frango    de corte no Brasil. <b>Relat&oacute;rio de Pesquisa</b>. Escola Superior de    Agricultura Luiz de Queiroz/USP. 1994.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003200400010000100005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">BARROS, G.S. de C.; BACCHI, M.R.P.; BURNQUIST, H.L. Estima&ccedil;&atilde;o    de equa&ccedil;&otilde;es de oferta de exporta&ccedil;&atilde;o de produtos    agropecu&aacute;rios para o Brasil (1992/2000). <b>Texto para Discuss&atilde;o</b>,    Bras&iacute;lia: IPEA, n.865, mar. 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003200400010000100006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">BARROS, G.S. de C.; BITTENCOURT, M.V.L. Forma&ccedil;&atilde;o de pre&ccedil;os    sob oligops&ocirc;nio: o mercado de frango em S&atilde;o Paulo. <b>Revista Brasileira    de Economia</b>, Rio de Janeiro, v.51, n.2, p.181-199, 1997.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003200400010000100007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">BARROS, W.J.de. <b>An&aacute;lise econom&eacute;trica dos mercados interno    e de exporta&ccedil;&atilde;o de a&ccedil;&uacute;car</b>. Vi&ccedil;osa, 1975.    Disserta&ccedil;&atilde;o (Mestrado) – Universidade Federal de Vi&ccedil;osa.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003200400010000100008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">BERNANKE,    B.S. Alternative explanations of the money-income correlation. <b>Carnegie-Rochester    Conference Series on Public Policy</b>, v.25, p.49-100, 1986.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003200400010000100009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">BURNQUIST,    H.L.(Coord.); BACCHI, M.R.P.; FIGUEIREDO, N.M.S. de; VIEIRA, W. da C. Liberaliza&ccedil;&atilde;o    comercial: um fator de desenvolvimento do setor agr&iacute;cola brasileiro.    <b>S&eacute;rie Estudos de Pol&iacute;tica Agr&iacute;cola</b>, Relat&oacute;rio    de Pesquisa, Bras&iacute;lia: IPEA, n.14, 1994.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003200400010000100010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">BURNQUIST, H.L.; MIRANDA, S.H.G. de Desempenho recente das exporta&ccedil;&otilde;es    brasileiras de a&ccedil;&uacute;car: uma abordagem de "market-share" constante.    <b>Revista de Economia e Sociologia Rural</b>, Bras&iacute;lia, v.37, n.3, p.    69-90, jul.-set. 1999.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003200400010000100011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">CARVALHO,    A.; NEGRI, J.A. Estima&ccedil;&atilde;o de equa&ccedil;&otilde;es de importa&ccedil;&atilde;o    e exporta&ccedil;&atilde;o de produtos agropecu&aacute;rios para o Brasil (1977/1998).    <b>Texto para Discuss&atilde;o</b>, Bras&iacute;lia: IPEA, n.698, 2000.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-2003200400010000100012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">CARVALHO, F.C.; BRANDT, S.A. Avalia&ccedil;&atilde;o da pol&iacute;tica de    estabiliza&ccedil;&atilde;o de pre&ccedil;os no mercado de exporta&ccedil;&atilde;o    de a&ccedil;&uacute;car do Brasil. <b>Revista de Economia Rural,</b> Bras&iacute;lia,    v.25, n.3, p.357-365, sul.-set. 1987.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003200400010000100013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">CASTRO,    A.S; CAVALCANTI, M.A. Estima&ccedil;&atilde;o de equa&ccedil;&otilde;es de exporta&ccedil;&atilde;o    e importa&ccedil;&atilde;o para o Brasil &#150; 1955/95. <b>Texto para Discuss&atilde;o</b>,    Bras&iacute;lia: IPEA, n.469, mar. 1997.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S0103-2003200400010000100014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">CAVALCANTI,    M.A.; RIBEIRO, M.A.F.H. As exporta&ccedil;&otilde;es no per&iacute;odo 1977/96:    desempenho e determinantes. <b>Texto para Discuss&atilde;o</b>, Bras&iacute;lia:    IPEA, n.545, fev. 1998.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003200400010000100015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">DICKEY, D.A.; FULLER, W.A. Distribution of the estimator for auto-regressive    time series with a unit root. <b>Jornal of the American Statistical Association</b>,    v.74, n.366, p.427-431, Jun. 1979.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-2003200400010000100016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">DICKEY, D.A.; FULLER, W.A. Likelihood ratio statistics for autoregressive time    series with a unit root. <b>Econometrica</b>, Chicago, v.49, n.4, p.1057-1072,    Jul. 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003200400010000100017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">HAMILTON,    J.D. <b>Time series analysis</b>. Princenton University Press. Princenton: New    Yersey. 1994<i>.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003200400010000100018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">HARVEY,    A. The econometric analysis of time series. MIT Press. Cambridge, Massachusetts.    1990.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003200400010000100019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">HOFFMANN, R. Elasticidades-renda das despesas e do consumo f&iacute;sico de    alimentos no Brasil metropolitano em 1995/96. <b>Agricultura em S&atilde;o Paulo</b>,    S&atilde;o Paulo, v.47, n.1, p.111-122, 2000.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-2003200400010000100020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">JOHANSEN,    S. Statistical analysis of cointegration vectors<i>.</i> <b>Journal of Economic    Dynamics and Control</b>, v.12, p.231-254, 1988.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003200400010000100021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">JOHANSEN,    S.; JUSELIUS, K. Maximum likelihood estimation and inference on cointegration    - with aplications to the demand for money. <b>Oxford Bulletin of Economics    and Statistics</b>, v.52, p.169-219, 1990.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003200400010000100022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">L&Uuml;TKEPOHL,    H. <b>Introduction to multiple time series analysis</b>. Springer-Verlag. Berlin.    1991.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003200400010000100023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">MARJOTTA-MAISTRO, M.C. Ajustes nos mercados de &aacute;lcool e gasolina no    processo de desregulamenta&ccedil;&atilde;o. Piracicaba, 2002. 180p. Tese (Doutorado)    – Escola Superior de Agricultura "Luiz de Queiroz", Universidade de S&atilde;o    Paulo.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0103-2003200400010000100024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">MINIST&Eacute;RIO    DO DESENVOLVIMENTO, IND&Uacute;STRIA E COM&Eacute;RCIO/SECRETARIA DE COM&Eacute;RCIO    EXTERIOR – MDIC/SECEX. <a href="http://www.mdic.gov.br" target="_blank">http://www.mdic.gov.br</a>    (15 abr. 2003)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003200400010000100025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">MIRANDA,    S.H.G. de. Quantifica&ccedil;&atilde;o dos efeitos das barreiras n&atilde;o-tarif&aacute;rias    sobre as exporta&ccedil;&otilde;es brasileiras de carne bovina. Piracicaba,    2001. Tese (Doutorado) &#150; Escola Superior de Agricultura &quot;Luiz de Queiroz&quot;,    Universidade de S&atilde;o Paulo.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0103-2003200400010000100026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">MORAES, M.A.F.D. de. <b>A desregulamenta&ccedil;&atilde;o do setor sucroalcooleiro    do Brasil</b>. Americana: Caminho Editorial, 2000. 238p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0103-2003200400010000100027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">MYERS, R.J.;    PIGGOTT, R.R.; TOMEK, W.G. Esthimating sources of fluctuations in the australian    wool market: an application of VAR methods. <b>Australian Journal of Agricultural    Economics</b>, v.34, p.242-262, 1990.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0103-2003200400010000100028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">ONUNKWO,    I.M.; EPPERSON, J.E. Export demand for U.S. Pecans: impacts of U.S. export promotion    programs. In: ANNUAL MEETING OF THE AMERICAN AGRICULTURAL ECONOMICS ASSOCIATION    IN NASHVILLE. Tennessee. Aug. 1999, p.8-11.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0103-2003200400010000100029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">OSTERWALD-LENUM, M. A note with quantiles of the asymptotic distribution of    the maximum likelihood cointegration rank test statistics. <b>Oxford Bulletin    of Economics and Statistics</b>, v.53, n.3, p.461-472, 1992.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003200400010000100030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">REIS, J.N.P.; CRESPO, J.E.Q. Um modelo econom&eacute;trico para as exporta&ccedil;&otilde;es    de a&ccedil;&uacute;car do Brasil. <b>Agricultura Em S&atilde;o Paulo</b>, S&atilde;o    Paulo, v.45, n.1, p.17-32, 1998.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0103-2003200400010000100031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">SENHADJI,    A.S.; MONTENEGRO, C.E. Time series analysis of export demand equations: a cross-country    analysis. <b>IMF Staff Papers</b>, v.46, n.3, p.259-273, Sep./Dec. 1999.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003200400010000100032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">STALDER, S.H.G.; BURNQUIST, H.L. Exporta&ccedil;&otilde;es de a&ccedil;&uacute;car    no Brasil: uma abordagem de elasticidade. In: CONGRESSO BRASILEIRO DE ECONOMIA    E SOCIOLOGIA RURAL, 35., NATAL, 1997. <b>Anais</b>. Bras&iacute;lia: SOBER,    1997. p.289.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0103-2003200400010000100033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">UNI&Atilde;O    DA AGROIND&Uacute;STRIA CANAVIEIRA DO ESTADO DE S&Atilde;O PAULO – UNICA. <b>Sociedade</b>.    <a href="http://www.unica.com.br/pages/sociedade_mercado1.asp" target="_blank">http://www.unica.com.br/pages/sociedade_mercado1.asp</a>    (20 out. 2002)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0103-2003200400010000100034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">UNITED STATES    DEPARTMENT OF AGRICULTURE – USDA. <b>Sugar</b>: world markets and trade. <a href="http://www.fas.usda.gov/htp/sugar/sugar.html" target="_blank">http://www.fas.usda.gov/htp/sugar/sugar.html</a>    (15 Nov. 2002)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S0103-2003200400010000100035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">VEIGA FILHO, A. O dilema da "escolha de sofia" nas exporta&ccedil;&otilde;es    de a&ccedil;&uacute;car pelo Brasil. <b>Informa&ccedil;&otilde;es Econ&ocirc;micas</b>,    S&atilde;o Paulo, v.30, n.9, p.53-59, set. 2000.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003200400010000100036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">ZINI JR.,    A.A. Fun&ccedil;&otilde;es de exporta&ccedil;&atilde;o e de importa&ccedil;&atilde;o    para o Brasil. <b>Pesquisa e Planejamento Econ&ocirc;mico</b>, Rio de Janeiro,    v.18, p.615-662, 1988.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000197&pid=S0103-2003200400010000100037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2">Recebido    em setembro de 2003 e revisto em fevereiro de 2004</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica-Normal, sans-serif" size="2"><a name="back1"></a><a href="#top1">1</a>    Destaca-se que n&atilde;o obstante a liberaliza&ccedil;&atilde;o havida nos    &uacute;ltimos anos no mercado interno de a&ccedil;&uacute;car e &aacute;lcool,    o com&eacute;rcio internacional de a&ccedil;&uacute;car ainda enfrenta barreiras    estabelecidas por outros pa&iacute;ses. Este &eacute; o caso das importa&ccedil;&otilde;es    de a&ccedil;&uacute;car dos Estados Unidos e das exporta&ccedil;&otilde;es pela    Uni&atilde;o Europ&eacute;ia. No caso do &aacute;lcool, as transa&ccedil;&otilde;es    internacionais ainda s&atilde;o pouco representativas.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AGUIAR]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Custo, risco e margem de comercialização de arroz e feijão no Estado de São Paulo: análise dinâmica e testes de modelos alternativos]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[L.R.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Transmissão de preços entre produtos do setor sucroalcooleiro do Estado de São Paulo]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<collab>ASSOCIAÇÃO DE PRODUTORES DE ÁLCOOL E AÇÚCAR DO ESTADO DO PARANÁ</collab>
+<source><![CDATA[Mercado de açúcar]]></source>
+<year>15 a</year>
+<month>br</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M.R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURNQUIST]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Transmissão de preços entre os segmentos produtivos da pecuária de corte brasileira]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>1999</year>
+<conf-name><![CDATA[ CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL]]></conf-name>
+<conf-date>1999</conf-date>
+<conf-loc>Foz de Iguaçu PR</conf-loc>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G.S. de C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Formação de preços no setor de frango de corte no Brasil]]></source>
+<year>1994</year>
+<publisher-name><![CDATA[Escola Superior de Agricultura Luiz de Queiroz/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G.S. de C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M.R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURNQUIST]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estimação de equações de oferta de exportação de produtos agropecuários para o Brasil (1992/2000)]]></article-title>
+<source><![CDATA[Texto para Discussão]]></source>
+<year>mar.</year>
+<month> 2</month>
+<day>00</day>
+<numero>865</numero>
+<issue>865</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G.S. de C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BITTENCOURT]]></surname>
+<given-names><![CDATA[M.V.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Formação de preços sob oligopsônio: o mercado de frango em São Paulo]]></article-title>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>1997</year>
+<volume>51</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>181-199</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[W.J.de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise econométrica dos mercados interno e de exportação de açúcar]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERNANKE]]></surname>
+<given-names><![CDATA[B.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Alternative explanations of the money-income correlation]]></article-title>
+<source><![CDATA[Carnegie-Rochester Conference Series on Public Policy]]></source>
+<year>1986</year>
+<volume>25</volume>
+<page-range>49-100</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BURNQUIST]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M.R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[N.M.S. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA]]></surname>
+<given-names><![CDATA[W. da C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Liberalização comercial: um fator de desenvolvimento do setor agrícola brasileiro]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BURNQUIST]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[S.H.G. de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Desempenho recente das exportações brasileiras de açúcar: uma abordagem de "market-share" constante]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jul.</year>
+<month>-s</month>
+<day>et</day>
+<volume>37</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>69-90</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NEGRI]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estimação de equações de importação e exportação de produtos agropecuários para o Brasil (1977/1998)]]></article-title>
+<source><![CDATA[Texto para Discussão]]></source>
+<year>2000</year>
+<numero>698</numero>
+<issue>698</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[F.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRANDT]]></surname>
+<given-names><![CDATA[S.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Avaliação da política de estabilização de preços no mercado de exportação de açúcar do Brasil]]></article-title>
+<source><![CDATA[Revista de Economia Rural]]></source>
+<year>1987</year>
+<volume>25</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>357-365</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[A.S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAVALCANTI]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estimação de equações de exportação e importação para o Brasil - 1955/95]]></article-title>
+<source><![CDATA[Texto para Discussão]]></source>
+<year>mar.</year>
+<month> 1</month>
+<day>99</day>
+<numero>469</numero>
+<issue>469</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAVALCANTI]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RIBEIRO]]></surname>
+<given-names><![CDATA[M.A.F.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[As exportações no período 1977/96: desempenho e determinantes]]></article-title>
+<source><![CDATA[Texto para Discussão]]></source>
+<year>fev.</year>
+<month> 1</month>
+<day>99</day>
+<numero>545</numero>
+<issue>545</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Distribution of the estimator for auto-regressive time series with a unit root]]></article-title>
+<source><![CDATA[Jornal of the American Statistical Association]]></source>
+<year>Jun.</year>
+<month> 1</month>
+<day>97</day>
+<volume>74</volume>
+<numero>366</numero>
+<issue>366</issue>
+<page-range>427-431</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Likelihood ratio statistics for autoregressive time series with a unit root]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>Jul.</year>
+<month> 1</month>
+<day>98</day>
+<volume>49</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1057-1072</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAMILTON]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series analysis]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Princenton^eNew Yersey New Yersey]]></publisher-loc>
+<publisher-name><![CDATA[Princenton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HARVEY]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The econometric analysis of time series]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Cambridge^eMassachusetts Massachusetts]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFFMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Elasticidades-renda das despesas e do consumo físico de alimentos no Brasil metropolitano em 1995/96]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>2000</year>
+<volume>47</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>111-122</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical analysis of cointegration vectors]]></article-title>
+<source><![CDATA[Journal of Economic Dynamics and Control]]></source>
+<year>1988</year>
+<volume>12</volume>
+<page-range>231-254</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUSELIUS]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Maximum likelihood estimation and inference on cointegration: with aplications to the demand for money]]></article-title>
+<source><![CDATA[Oxford Bulletin of Economics and Statistics]]></source>
+<year>1990</year>
+<volume>52</volume>
+<page-range>169-219</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LÜTKEPOHL]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to multiple time series analysis]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer-Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARJOTTA-MAISTRO]]></surname>
+<given-names><![CDATA[M.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ajustes nos mercados de álcool e gasolina no processo de desregulamentação]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<collab>MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA E COMÉRCIO^dSECRETARIA DE COMÉRCIO EXTERIOR</collab>
+<source><![CDATA[]]></source>
+<year>15 a</year>
+<month>br</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[S.H.G. de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Quantificação dos efeitos das barreiras não-tarifárias sobre as exportações brasileiras de carne bovina]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORAES]]></surname>
+<given-names><![CDATA[M.A.F.D. de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A desregulamentação do setor sucroalcooleiro do Brasil]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Americana ]]></publisher-loc>
+<publisher-name><![CDATA[Caminho Editorial]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MYERS]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIGGOTT]]></surname>
+<given-names><![CDATA[R.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOMEK]]></surname>
+<given-names><![CDATA[W.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Esthimating sources of fluctuations in the australian wool market: an application of VAR methods]]></article-title>
+<source><![CDATA[Australian Journal of Agricultural Economics]]></source>
+<year>1990</year>
+<volume>34</volume>
+<page-range>242-262</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ONUNKWO]]></surname>
+<given-names><![CDATA[I.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[EPPERSON]]></surname>
+<given-names><![CDATA[J.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Export demand for U.S. Pecans: impacts of U.S. export promotion programs]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ ANNUAL MEETING OF THE AMERICAN AGRICULTURAL ECONOMICS ASSOCIATION IN NASHVILLE]]></conf-name>
+<conf-date>Aug. 1999</conf-date>
+<conf-loc>Tennessee Tennessee</conf-loc>
+<page-range>8-11</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OSTERWALD-LENUM]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A note with quantiles of the asymptotic distribution of the maximum likelihood cointegration rank test statistics]]></article-title>
+<source><![CDATA[Oxford Bulletin of Economics and Statistics]]></source>
+<year>1992</year>
+<volume>53</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>461-472</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REIS]]></surname>
+<given-names><![CDATA[J.N.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CRESPO]]></surname>
+<given-names><![CDATA[J.E.Q.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Um modelo econométrico para as exportações de açúcar do Brasil]]></article-title>
+<source><![CDATA[Agricultura Em São Paulo]]></source>
+<year>1998</year>
+<volume>45</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>17-32</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SENHADJI]]></surname>
+<given-names><![CDATA[A.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MONTENEGRO]]></surname>
+<given-names><![CDATA[C.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Time series analysis of export demand equations: cross-country analysis]]></article-title>
+<source><![CDATA[IMF Staff Papers]]></source>
+<year>Sep.</year>
+<month>/D</month>
+<day>ec</day>
+<volume>46</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>259-273</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STALDER]]></surname>
+<given-names><![CDATA[S.H.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURNQUIST]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Exportações de açúcar no Brasil: uma abordagem de elasticidade]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>1997</year>
+<conf-name><![CDATA[35 CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL]]></conf-name>
+<conf-date>1997</conf-date>
+<conf-loc>NATAL </conf-loc>
+<page-range>289</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="">
+<collab>UNIÃO DA AGROINDÚSTRIA CANAVIEIRA DO ESTADO DE SÃO PAULO</collab>
+<source><![CDATA[Sociedade]]></source>
+<year>20 o</year>
+<month>ut</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="">
+<collab>UNITED STATES DEPARTMENT OF AGRICULTURE</collab>
+<source><![CDATA[Sugar: world markets and trade]]></source>
+<year>15 N</year>
+<month>ov</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VEIGA FILHO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O dilema da "escolha de sofia" nas exportações de açúcar pelo Brasil]]></article-title>
+<source><![CDATA[Informações Econômicas]]></source>
+<year>set.</year>
+<month> 2</month>
+<day>00</day>
+<volume>30</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>53-59</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZINI JR.]]></surname>
+<given-names><![CDATA[A.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Funções de exportação e de importação para o Brasil]]></article-title>
+<source><![CDATA[Pesquisa e Planejamento Econômico]]></source>
+<year>1988</year>
+<volume>18</volume>
+<page-range>615-662</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

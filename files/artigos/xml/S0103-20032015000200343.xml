@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032015000200343</article-id>
+<article-id pub-id-type="doi">10.1590/1234-56781806-9479005302009</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Quebras Estruturais Sistêmicas e Efeito Threshold na Dinâmica dos Preços do Boi Gordo: o caso das regiões Sudeste e Centro-Oeste]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Soares]]></surname>
+<given-names><![CDATA[Thiago Costa]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Lopes]]></surname>
+<given-names><![CDATA[Luckas Sabioni]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal de Juiz de Fora  ]]></institution>
+<addr-line><![CDATA[Governador Valadares Minas Gerais]]></addr-line>
+<country>BR</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2015</year>
+</pub-date>
+<volume>53</volume>
+<numero>2</numero>
+<fpage>343</fpage>
+<lpage>360</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032015000200343&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032015000200343&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032015000200343&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo:Este estudo objetivou analisar os possíveis efeitos de quebras estruturais sobre a integração de preços e os custos de transação nos mercados de boi gordo das regiões Sudeste e Centro-Oeste do País, utilizando dados mensais para os anos entre 1980 e 2012. A amostra foi dividida em diferentes períodos de acordo com um teste de quebras múltiplas que ocorrem em datas comuns a todas as séries de preços nesses estados. Em seguida, estimou-se o modelo de cointegração comthreshold, M-TAR, para controlar os efeitos da assimetria no ajustamento dentro de cada subamostra. Pelos resultados obtidos, foram identificadas duas importantes quebras estruturais: a primeira, relacionada ao período hiperinflacionário, e a segunda, à crise internacional de 2007/2008. Essas quebras são determinantes para o entendimento da dinâmica conjunta das séries. Percebeu-se, por exemplo, que os custos de transação foram maiores no período hiperinflacionário, muito embora houvesse cointegração nesta conjuntura. Na última subamostra, de instabilidade externa, a hipótese de relação estável em longo prazo foi rejeitada, não obstante com baixos custos de transação. Ressalta-se, assim, a necessidade de se considerar a possibilidade de quebras estruturais em análises de integração de preços da commodity em questão.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract:In this paper, we aimed to investigate beef cattle markets integration, when taking into account structural breaks in multivariate (auto)regressions, and transaction costs, in the Southeast and Central-West regions in Brazil. Data set is monthly, ranging from 1980 to 2012. Our methodological approach is built on two main blocks: first, time series are divided into smaller samples sharing common characteristics, according to the structural breaks test due to Qu and Perron (2007); second, momentum threshold model (M-TAR, ENDERS; SIKLOS, 2001) is employed addressing to issues as cointegration and asymmetrical adjustment. Our results show two significant breaks, one related to the hyperinflationary period, and another to the 2007/2008 financial crisis. Moreover, those breaks are decisive to understand the time series dynamics. For instance, in the hyperinflationary sample, transaction costs were higher, although markets were integrated. Conversely, between 2007 and 2012, prices were not synchronized, while transaction costs were almost non-significant. Thus, integration analyses that do not consider structural breaks may mislead some relevant aspects of the data.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Boi gordo]]></kwd>
+<kwd lng="pt"><![CDATA[integração de mercados]]></kwd>
+<kwd lng="pt"><![CDATA[quebras estruturais]]></kwd>
+<kwd lng="pt"><![CDATA[Sudeste]]></kwd>
+<kwd lng="pt"><![CDATA[Centro-oeste.]]></kwd>
+<kwd lng="en"><![CDATA[Beef cattle]]></kwd>
+<kwd lng="en"><![CDATA[market integration]]></kwd>
+<kwd lng="en"><![CDATA[structural breaks]]></kwd>
+<kwd lng="en"><![CDATA[Southeast]]></kwd>
+<kwd lng="en"><![CDATA[Central-West]]></kwd>
+<kwd lng="en"><![CDATA[Brazil.]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Co-integração entre os mercados spot e futuro: evidências dos mercados de boi gordo e soja]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ABITANTE]]></surname>
+<given-names><![CDATA[K. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RER]]></source>
+<year>2008</year>
+<volume>46</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>75-96</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALAM]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Measuring Market Integration in the Presence of Threshold Effect: The case of Bangladesh Rice Markets]]></source>
+<year>2012</year>
+<conf-name><![CDATA[ AAEA Conference]]></conf-name>
+<conf-loc>Seattle, Washington, USA </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Testing for and Dating Common Breaks in Multivariate Time Series]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAI]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Review of Economic Studies]]></source>
+<year>1998</year>
+<volume>65</volume>
+<page-range>395-432</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Measuring Integration and Efficiency in International Agricultural Markets]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETT]]></surname>
+<given-names><![CDATA[C. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Review of Agricultural Economics]]></source>
+<year>2001</year>
+<volume>23</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>19-32</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOX]]></surname>
+<given-names><![CDATA[G. E. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JENKINS]]></surname>
+<given-names><![CDATA[G. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time Series Analysis: Forecasting and Control]]></source>
+<year>1970</year>
+<edition>4. ed</edition>
+<publisher-name><![CDATA[Wiley Publication]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Modelos de previsão de preços aplicados aos contratos futuros de boi gordo na BM&amp;F]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRESSAN]]></surname>
+<given-names><![CDATA[A. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Nova Economia]]></source>
+<year>2002</year>
+<volume>12</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>117-40</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUENO]]></surname>
+<given-names><![CDATA[R. L. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria de séries temporais]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Cengage Learning]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Unit Roots in the Presence of Abrupt Governmental Interventions with an Application to Brazilian Data]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CATI]]></surname>
+<given-names><![CDATA[a]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Applied Econometrics]]></source>
+<year>1999</year>
+<volume>14</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>27-56</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Consistency and limiting distribution of the least squares estimator of a threshold autoregressive model]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHAN]]></surname>
+<given-names><![CDATA[K. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Annals of Statistics]]></source>
+<year>1993</year>
+<volume>21</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>520-33</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Integração Espacial do Mercado de Boi Gordo: uma Análise de Cointegração com Threshold]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CUNHA]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise Econômica]]></source>
+<year>2010</year>
+<volume>28</volume>
+<numero>53</numero>
+<issue>53</issue>
+<page-range>251-67</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Distribution of the Estimators for Autoregressive Time Series With a Unit Root]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>1979</year>
+<volume>74</volume>
+<numero>366</numero>
+<issue>366</issue>
+<page-range>427-31</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Cointegration and Threshold Adjustment]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENDERS]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SIKLOS]]></surname>
+<given-names><![CDATA[P. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Business &amp; Economic Statistics]]></source>
+<year>2001</year>
+<volume>19</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>166-76</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Cointegration and error correction: representation, estimation and testing]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica]]></source>
+<year>1987</year>
+<volume>35</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>251-76</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<collab>FGV</collab>
+<source><![CDATA[Dados]]></source>
+<year>s.d.</year>
+<publisher-name><![CDATA[Fundação Getúlio Vargas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, IBGE</collab>
+<source><![CDATA[ABATEBOVINOS]]></source>
+<year>2014</year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Statistical analysis of cointegration vectors]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Economics Dynamics and Control]]></source>
+<year>1988</year>
+<volume>12</volume>
+<numero>2-3</numero>
+<issue>2-3</issue>
+<page-range>231-54</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Análise dos impactos das cotações do dólar paralelo e do índice pluviométrico sobre os preços do boi gordo no estado de São Paulo]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARGARIDO]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>1996</year>
+<volume>50</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>255-78</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Integração espacial de mercados na presença de custos de transação: um estudo para o mercado de boi gordo em Minas Gerais e São Paulo]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MATTOS]]></surname>
+<given-names><![CDATA[L. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2009</year>
+<volume>47</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>249-74</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Output Fluctuations in the United States: What Has Changed Since the Early 1980's?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McCONNELL]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEREZ-QUIROS]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Economic Review]]></source>
+<year>2000</year>
+<volume>90</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>1464-76</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Measuring market integration in the presence of transaction costs - a threshold vector error correction approach]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MEYER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Agricultural Economics]]></source>
+<year>2004</year>
+<volume>31</volume>
+<numero>21</numero>
+<issue>21</issue>
+<page-range>327-34</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Asymmetric Price Transmission: A Survey]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MEYER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[von CRAMON-TAUBADEL]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Agricultural Economics]]></source>
+<year>2004</year>
+<volume>55</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>581-661</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Análise da eficiência do mercado futuro brasileiro de boi gordo usando co-integração]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORAES]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2009</year>
+<volume>47</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>601-14</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Nonlinear aspects of goods-market arbitrage and adjustment: Heckscher's commodity points revisited]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OBSTFELD]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of the Japanese and International Economies]]></source>
+<year>1997</year>
+<volume>11</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>441-79</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Estimating and testing structural changes in Multivariate regressions]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QU]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PERRON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica]]></source>
+<year>2007</year>
+<volume>75</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>459-502</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Ajuste externo e agricultura no Brasil, 1981-86]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REZENDE]]></surname>
+<given-names><![CDATA[G. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>1988</year>
+<volume>42</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>101-37</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Do Cruzado ao Collor: Os planos de estabilização e a agricultura]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REZENDE]]></surname>
+<given-names><![CDATA[G. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia Política]]></source>
+<year>1992</year>
+<volume>12</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>106-25</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STOCK]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WATSON]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Has The Business Cycle Changed And Why?]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[NBER, National Bureau of Economic Research]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[URSO]]></surname>
+<given-names><![CDATA[F. S. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A cadeia da carne bovina no Brasil: uma análise de poder de mercado e teoria da informação]]></source>
+<year>2007</year>
+<publisher-name><![CDATA[Fundação Getúlio Vargas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Análise da cointegração e causalidade dos preços de boi gordo em diferentes praças nas regiões sudeste e centro-oeste do brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZILLI]]></surname>
+<given-names><![CDATA[J. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia Agrícola]]></source>
+<year>2008</year>
+<volume>55</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>105-19</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

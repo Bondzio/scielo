@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032006000400007</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032006000400007</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Análise do armazenamento de milho no Brasil em um mercado de economia aberta]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Guimarães]]></surname>
+<given-names><![CDATA[Vania Di Addario]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Barros]]></surname>
+<given-names><![CDATA[Geraldo Sant'Ana de Camargo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,USP ESALQ ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal do Paraná Departamento de Economia Rural e Extensão ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,USP ESALQ Departamento de Economia, Administração e Sociologia Rural]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2006</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2006</year>
+</pub-date>
+<volume>44</volume>
+<numero>4</numero>
+<fpage>751</fpage>
+<lpage>771</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032006000400007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032006000400007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032006000400007&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O estudo desenvolve um modelo dinâmico de expectativas racionais para analisar o mercado de milho no Brasil no final da década de 1990, no qual o governo intervém com uma política de subsídio ao produtor, através do Prêmio para Escoamento de Produto (PEP) e considerando ainda o comércio internacional. O modelo é estimado através de programação dinâmica estocástica. Os resultados mostram que a abertura do mercado transfere para o comércio exterior o papel de amortecedor de choques de oferta e demanda internos que, no caso de mercados fechados, é desempenhado pelos estoques entre anos safra. Os resultados sugerem que, dependendo dos valores relativos entre o preço mínimo e o preço de exportação, a política de subsídio pode levar o país à condição de exportador, às custas de gastos crescentes para o governo.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[A dynamic rational expectation storage models was developed to represent the Brazilian corn market in the late 90’s. In theses years the Brazilian agricultural price policy changed from a buffer stock scheme to a producer price subsidy (Prêmio para Escoamento de Produto - PEP) and the Brazilian market was open to international trade. The model was estimated through stochastic dynamic programming. The results show that with open markets, exports and imports play the role of shocks absorbers, played by storage in closed economies. Results suggest that the producer price subsidy policy may lead the country to be an exporter, depending on the relative values between minimum price and export price at the cost of ever increasing government expenditures.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Estoques]]></kwd>
+<kwd lng="pt"><![CDATA[Política de Preços]]></kwd>
+<kwd lng="pt"><![CDATA[Expectativas Racionais]]></kwd>
+<kwd lng="en"><![CDATA[Storage]]></kwd>
+<kwd lng="en"><![CDATA[Price Policy]]></kwd>
+<kwd lng="en"><![CDATA[Rational Expectation]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana"><B>An&aacute;lise do armazenamento de milho no    Brasil em um mercado de economia aberta</B></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>Vania Di Addario Guimar&atilde;es<sup>I</sup>;    Geraldo Sant'Ana de Camargo Barros<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana"><sup>I</sup>Doutora em Economia Aplicada pela    ESALQ/USP, Professora Adjunta do Departamento de Economia Rural e Extens&atilde;o    da Universidade Federal do Paran&aacute;. <a href="mailto:addariov@agrarias.ufpr.br">addariov@agrarias.ufpr.br</a>    <br>   <sup>II</sup>Professor Titular do Departamento de Economia, Administra&ccedil;&atilde;o    e Sociologia Rural da ESALQ/USP. <a href="mailto:gscbarro@esalq.usp.br">gscbarro@esalq.usp.br</a></FONT></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="VERDANA"><B>RESUMO</B></font></p>     <p><font size="2" face="Verdana">O estudo desenvolve um modelo din&acirc;mico    de expectativas racionais para analisar o mercado de milho no Brasil no final    da d&eacute;cada de 1990, no qual o governo interv&eacute;m com uma pol&iacute;tica    de subs&iacute;dio ao produtor, atrav&eacute;s do Pr&ecirc;mio para Escoamento    de Produto (PEP) e considerando ainda o com&eacute;rcio internacional. O modelo    &eacute; estimado atrav&eacute;s de programa&ccedil;&atilde;o din&acirc;mica    estoc&aacute;stica. Os resultados mostram que a abertura do mercado transfere    para o com&eacute;rcio exterior o papel de amortecedor de choques de oferta    e demanda internos que, no caso de mercados fechados, &eacute; desempenhado    pelos estoques entre anos safra. Os resultados sugerem que, dependendo dos valores    relativos entre o pre&ccedil;o m&iacute;nimo e o pre&ccedil;o de exporta&ccedil;&atilde;o,    a pol&iacute;tica de subs&iacute;dio pode levar o pa&iacute;s &agrave; condi&ccedil;&atilde;o    de exportador, &agrave;s custas de gastos crescentes para o governo.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><B>Palavras-chave:</B> Estoques. Pol&iacute;tica    de Pre&ccedil;os. Expectativas Racionais.     <br>   <B>Classifica&ccedil;&atilde;o JEL:</B> Q11, Aggregate Supply and Demand Analysis;    Prices. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana">A dynamic rational expectation storage models    was developed to represent the Brazilian corn market in the late 90’s. In theses    years the Brazilian agricultural price policy changed from a buffer stock scheme    to a producer price subsidy (Pr&ecirc;mio para Escoamento de Produto – PEP)    and the Brazilian market was open to international trade. The model was estimated    through stochastic dynamic programming.     <br>   The results show that with open markets, exports and imports play the role of    shocks absorbers, played by storage in closed economies. Results suggest that    the producer price subsidy policy may lead the country to be an exporter, depending    on the relative values between minimum price and export price at the cost of    ever increasing government expenditures.</font></p>     <p><font size="2" face="Verdana"><b>Key word:</b> Storage. Price Policy. Rational    Expectation.    <br>   <b>Classifica&ccedil;&atilde;o JEL:</b> Q11, Aggregate Supply and Demand Analysis;    Prices.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>1. Introdu&ccedil;&atilde;o</B></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A forma&ccedil;&atilde;o de estoques entre anos    safra de produtos agr&iacute;colas pela iniciativa privada &eacute; um tema    pouco explorado na literatura brasileira e internacional. Em geral, quando a    influ&ecirc;ncia dos estoques entre anos safra foi objeto de estudo, o interesse    era em avaliar o efeito de estoques governamentais sobre o mercado. As pesquisas    fundamentais nesta linha s&atilde;o as de Waugh (1944), Oi (1961), Massel (1969)    e podem ser encontradas ainda em Reutlinger (1976), Turnovsky (1974) e outros.    Em todos estes casos, o armazenamento privado &eacute; ignorado. </font></p>     <p><font size="2" face="Verdana">At&eacute; meados da d&eacute;cada de 1990, pouca    aten&ccedil;&atilde;o foi dada aos estoques privados tamb&eacute;m no Brasil,    concentrando-se nos efeitos dos estoques p&uacute;blicos (Lima e Barros, 1996;    Barros e Guimar&atilde;es, 1998). Mas na d&eacute;cada de 1990 a pol&iacute;tica    de pre&ccedil;os agr&iacute;colas no Brasil acompanhou um conjunto de outras    mudan&ccedil;as, incluindo a abertura do mercado ao com&eacute;rcio exterior,    pela redu&ccedil;&atilde;o ou elimina&ccedil;&atilde;o das al&iacute;quotas    de importa&ccedil;&atilde;o. A nova pol&iacute;tica brasileira de pre&ccedil;os    agr&iacute;colas procura garantir um pre&ccedil;o m&iacute;nimo aos produtores,    mas sem que o governo tenha de formar estoques. Os instrumentos desta nova pol&iacute;tica    s&atilde;o o Pr&ecirc;mio para Escoamento de Produto (PEP) e os Contratos de    Op&ccedil;&atilde;o de Venda. No que se refere &agrave; forma&ccedil;&atilde;o    de estoques entre anos safra, o instrumento de maior interesse &eacute; o PEP,    pois as op&ccedil;&otilde;es vencem no pr&oacute;prio ano safra e, assim, teriam    maior efeito sobre o estoque intra-ano. </font></p>     <p><font size="2" face="Verdana">O Pr&ecirc;mio para Escoamento de Produto (PEP),    lan&ccedil;ado em 1996, &eacute; um destes novos instrumentos da PGPM e tem    por objetivo permitir que a iniciativa privada adquira a produ&ccedil;&atilde;o    no per&iacute;odo de safra garantindo ao produtor o pre&ccedil;o m&iacute;nimo,    subsidiando os produtores (CONAB, 2000). Uma determinada quantidade de lotes    de produto (cujos propriet&aacute;rios s&atilde;o identificados) &eacute; colocada    em leil&atilde;o com um pr&ecirc;mio m&aacute;ximo que o governo se disp&otilde;e    a aceitar. Leva o produto aquele comprador que ofertar o menor pr&ecirc;mio,    ou seja, o menor subs&iacute;dio pelo qual ele aceita adquirir o produto. Considerando    um ambiente competitivo, o pr&ecirc;mio de arremate dos leil&otilde;es corresponde    &agrave; diferen&ccedil;a entre o pre&ccedil;o m&iacute;nimo e o pre&ccedil;o    de equil&iacute;brio de mercado. Assim, o PEP &eacute; um subs&iacute;dio de    pre&ccedil;o ao produtor rural e afeta, inicialmente, as decis&otilde;es de    produ&ccedil;&atilde;o dos agricultores, mas deve ter influ&ecirc;ncia sobre    todo o mercado. Este estudo se concentra em analisar o efeito do subs&iacute;dio    atrav&eacute;s do PEP para o mercado brasileiro de milho.</font></p>     <p><font size="2" face="Verdana">At&eacute; d&eacute;cada de 1980, a teoria do    armazenamento n&atilde;o deu a devida aten&ccedil;&atilde;o a duas caracter&iacute;sticas    do problema. A primeira &eacute; que o armazenamento &eacute; um problema econ&ocirc;mico    din&acirc;mico, pois a decis&atilde;o no per&iacute;odo corrente afeta o(s)    per&iacute;odo(s) futuro(s). Portanto, a est&aacute;tica comparativa n&atilde;o    &eacute; o arcabou&ccedil;o te&oacute;rico adequado para a an&aacute;lise de    problemas de forma&ccedil;&atilde;o de estoques, mas sim, a Teoria do Controle.    A segunda caracter&iacute;stica &eacute; o fato de que &eacute; poss&iacute;vel    guardar produto de um ano para consumir no futuro, mas n&atilde;o &eacute; poss&iacute;vel    emprestar produto do futuro para consumir no presente, ou seja, o estoque n&atilde;o    pode ser negativo e a atividade de armazenar num determinado per&iacute;odo    pode n&atilde;o ocorrer.</font></p>     <p><font size="2" face="Verdana">Na d&eacute;cada de 1980 estes dois pontos foram    devidamente incorporados ao estudo de forma&ccedil;&atilde;o de estoques de    produtos agr&iacute;colas resgatando o trabalho pioneiro de Gustafson (1958).    Sob esta nova vis&atilde;o surgiram diversos estudos como Gardner (1979), Wright    &amp; Williams (1984), Lowry <i>et al</i>. (1987), Glauber <i>et al</i>. (1989),    Miranda &amp; Helmberger (1988), Miranda &amp; Glauber (1993), Gardner e L&oacute;pez    (1996), Makki <i>et al</i>. (1996) e Lence &amp; Hayes (2000). O modelo desenvolvido    para o mercado brasileiro de milho resulta em parte da adapta&ccedil;&atilde;o    dos modelos existentes e &eacute; original em parte.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>2. Material e M&eacute;todos</b></font></p>     <p><font size="2" face="Verdana"><I><b>2.1 Modelo econ&ocirc;mico</b></I></font></p>     <p><font size="2" face="Verdana">Este trabalho considera apenas produtos agr&iacute;colas    armazen&aacute;veis com produ&ccedil;&atilde;o anual e a unidade de tempo considerada    &eacute; o ano safra. As expectativas do modelo s&atilde;o racionais no sentido    de Muth (1961) e end&oacute;genas ao modelo<a name="tx01"></a><a href="#nt01"><sup>1</sup></a>.    O mercado &eacute; aberto e o governo interv&eacute;m atrav&eacute;s do PEP,    instalando um diferencial de pre&ccedil;os no mercado – um para o produtor (m&iacute;nimo,    <i>P<SUP>M</SUP></i>) e o pre&ccedil;o de mercado de equil&iacute;brio. O governo    n&atilde;o forma estoques. No per&iacute;odo de plantio, cada produtor decide    a &aacute;rea que pretende plantar, maximizando o lucro esperado, dado por: </font></p>     <blockquote>        ]]></body>
+<body><![CDATA[<p><img src="/img/revistas/resr/v44n4/a07frm01.gif"></p> </blockquote>     <p><font size="2" face="Verdana">onde <img src="/img/revistas/resr/v44n4/a07img01.gif" align="absmiddle">    &eacute; a &aacute;rea a ser plantada pelo produtor <i>i</i> no per&iacute;odo    <i>t</i>, <i>E<SUB>t</SUB>P<SUB>t</SUB></i><SUB>+1</SUB> &eacute; a sua expectativa    em <i>t</i> para o pre&ccedil;o no per&iacute;odo seguinte (<i>t</i>+1), <i>E<SUB>t</SUB>Y<SUB>t</SUB></i><SUB>+1</SUB>    &eacute; a sua expectativa quanto a produtividade no ano <i>t</i>+1 e <i>C<SUB>t</SUB></i>    &eacute; o custo total de produ&ccedil;&atilde;o, em fun&ccedil;&atilde;o da    &aacute;rea; <font face="Symbol">d</font> &eacute; a taxa de desconto dada por    &#91;1/(1+r)&#93; onde r &eacute; a taxa de juros. A condi&ccedil;&atilde;o de primeira    ordem para maximiza&ccedil;&atilde;o do lucro do produtor em rela&ccedil;&atilde;o    &agrave; &aacute;rea a ser plantada &eacute; dada por:</font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm02.gif"></p> </blockquote>     <p><font size="2" face="Verdana">Em ambiente competitivo o produtor iguala o custo    por hectare (<img src="/img/revistas/resr/v44n4/a07img02.gif" align="absmiddle">)    &agrave; receita marginal esperada por hectare (<font face="Symbol">d</font><i>E<SUB>t</SUB>P<SUB>t</SUB></i><SUB>+1*</SUB><i>E<SUB>t</SUB>Y<SUB>t</SUB></i><SUB>+1</SUB>).    A &aacute;rea plantada &eacute; fun&ccedil;&atilde;o do maior de dois valores:    pre&ccedil;o m&iacute;nimo e pre&ccedil;o de mercado esperado e atende &agrave;    condi&ccedil;&atilde;o de equil&iacute;brio dada em (2):</font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm03.gif"></p> </blockquote>     <p><font size="2" face="Verdana">onde <i>A</i><SUB>t</SUB> &eacute; a &aacute;rea    plantada no ano <i>t</i>, <i>E<SUB>t</SUB></i>(<i>P<SUB>t</SUB></i><SUB>+1</SUB>)    &eacute; a expectativa dos produtores quanto ao pre&ccedil;o para o ano safra    seguinte e <i>P<SUP>M</SUP><SUB>t</SUB></i><SUB>+1</SUB> &eacute; o pre&ccedil;o    m&iacute;nimo anunciado no ano safra <i>t</i> a vigorar no ano safra <i>t</i>+1.    O pr&ecirc;mio ou subs&iacute;dio (<font face="Symbol">q</font><SUB><i>t</i></SUB>)    a ser pago pelo governo por unidade de produto ser&aacute; dado por:</font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07img05.gif"></p> </blockquote>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O subs&iacute;dio &eacute; concedido apenas ao    produtor e para a produ&ccedil;&atilde;o colhida no ano safra. Assim, o subs&iacute;dio    total do ano (<font face="Symbol">Q</font>t) &eacute; o produto do subs&iacute;dio    por unidade e da produ&ccedil;&atilde;o do ano. A produ&ccedil;&atilde;o que    ser&aacute; colhida no ano safra (Ht) &eacute; o produto da &aacute;rea plantada    no ano safra anterior e da produtividade obtida no ano (Yt):</font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm05.gif"></p> </blockquote>     <p><font size="2" face="Verdana">A produtividade &eacute; uma vari&aacute;vel    ex&oacute;gena aleat&oacute;ria com distribui&ccedil;&atilde;o normal, m&eacute;dia    &#181; e vari&acirc;ncia <font face="Symbol">s</font><SUP>2</SUP>    (<i>Y<SUB>t</SUB></i> <font face="Symbol">&raquo;</font> N(&#181;,<font face="Symbol">s</font><SUP>2</SUP>))    e sua variabilidade corresponde aos choques de oferta, provenientes de varia&ccedil;&otilde;es    clim&aacute;ticas sobre a produtividade. O ano safra come&ccedil;a com uma disponibilidade    inicial <i>S<SUB>t</SUB></i> composta dos estoques finais privados do ano safra    anterior (<img src="/img/revistas/resr/v44n4/a07img03.gif" align="absmiddle">)    e da nova produ&ccedil;&atilde;o (<i>H</i><SUB>t</SUB>):  </font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm06.gif"></p> </blockquote>     <p><font size="2" face="Verdana">A fun&ccedil;&atilde;o inversa da demanda para    consumo &eacute; uma fun&ccedil;&atilde;o negativamente inclinada dos pre&ccedil;os    correntes de mercado e de um choque aleat&oacute;rio <i>u<SUB>t</SUB></i>, que apresenta distribui&ccedil;&atilde;o normal, m&eacute;dia zero e vari&acirc;ncia    <font face="Symbol">s</font><SUP>2</SUP> (<i>u<SUB>t</SUB></i> <font face="Symbol">&raquo;</font>    N(0,<font face="Symbol">s</font><SUP>2</SUP>)):</font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm07.gif"></p> </blockquote>     <p><font size="2" face="Verdana">Admite-se que as fun&ccedil;&otilde;es de oferta    de &aacute;rea e de demanda para consumo s&atilde;o as mesmas em todos os anos.    O com&eacute;rcio internacional &eacute; inclu&iacute;do atrav&eacute;s de uma    condi&ccedil;&atilde;o de arbitragem espacial entre o mercado interno e o externo:</font></p>     ]]></body>
+<body><![CDATA[<blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm08.gif"></p> </blockquote>     <p><font size="2" face="Verdana">Onde <font face="Symbol">t</font><SUB>t</SUB>    &eacute; o custo de transa&ccedil;&atilde;o no mercado internacional, considerado    o mesmo tanto para a exporta&ccedil;&atilde;o quanto para a importa&ccedil;&atilde;o.    A express&atilde;o (8) significa que, quando o pre&ccedil;o no mercado externo    (P<SUP>RM</SUP><SUB>t</SUB>) &eacute; maior do que o pre&ccedil;o no mercado    interno (P<SUB>t</SUB>) mais o custo de Transa&ccedil;&atilde;o, o pa&iacute;s    exporta (M &gt; 0); quando ocorre o inverso, o pa&iacute;s importa. O Brasil    foi considerado pequeno no mercado internacional do milho e, assim, um tomador    de pre&ccedil;os. O volume de produto dispon&iacute;vel ser&aacute; utilizado    para consumo ou ser&aacute; armazenado e, quanto ao com&eacute;rcio internacional,    parte da disponibilidade pode ser alocada para exporta&ccedil;&atilde;o (M &gt;0)    ou ent&atilde;o o montante dispon&iacute;vel aumenta pelo volume de importa&ccedil;&otilde;es    (M&lt;0). Se a rela&ccedil;&atilde;o for de igualdade n&atilde;o h&aacute; com&eacute;rcio    exterior.</font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm09.gif"></p> </blockquote>     <p><font size="2" face="Verdana">Substituindo (6) em (9):</font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm10.gif"></p> </blockquote>     <p><font size="2" face="Verdana">O n&iacute;vel de estoque privado de equil&iacute;brio    que ser&aacute; formado segue a condi&ccedil;&atilde;o de arbitragem temporal:</font></p>     <blockquote>        ]]></body>
+<body><![CDATA[<p><img src="/img/revistas/resr/v44n4/a07frm11.gif"></p> </blockquote>     <p><font size="2" face="Verdana">A rela&ccedil;&atilde;o (11) implica em que,    se o pre&ccedil;o esperado (a valor presente) for menor do que o pre&ccedil;o    corrente mais o custo de armazenamento, n&atilde;o se formam estoques (<i>I</i><SUB>t</SUB>    = 0). A solu&ccedil;&atilde;o deste sistema de equa&ccedil;&otilde;es &eacute;    o estoque de equil&iacute;brio. Observe que o pre&ccedil;o esperado (expectativa    racional) para o per&iacute;odo <i>t</i>+1 &eacute; fun&ccedil;&atilde;o do    estoque a ser formado no per&iacute;odo <i>t</i>. Explicitamente o que se procura    &eacute; o valor de <i>I<SUB>t</SUB></i> que soluciona a seguinte express&atilde;o:</font></p>     <blockquote>        <p><img src="/img/revistas/resr/v44n4/a07frm12.gif"></p> </blockquote>     <p><font size="2" face="Verdana"><B><i>2.2 Procedimento e dados</i></B></font></p>     <p><font size="2" face="Verdana">Este modelo de expectativas racionais n&atilde;o    possui solu&ccedil;&atilde;o alg&eacute;brica e deve ser resolvido atrav&eacute;s    de m&eacute;todos num&eacute;ricos (Gustafson, 1958). A solu&ccedil;&atilde;o    do modelo &eacute; uma fun&ccedil;&atilde;o que relaciona o estoque (<i>I<SUB>t</SUB></i>)    ao volume de produto dispon&iacute;vel (<i>S<SUB>t</SUB></i>) e permite obter    os valores de equil&iacute;brio para todas as vari&aacute;veis end&oacute;genas.    Trata-se de um modelo de equil&iacute;brio din&acirc;mico, o qual caracteriza    o comportamento de um mercado atrav&eacute;s de condi&ccedil;&otilde;es de arbitragem    intertemporal, que s&atilde;o atingidas pela a&ccedil;&atilde;o individual de    in&uacute;meros agentes maximizadores. Gustafon (1958) formulou o problema do    armazenamento como um problema de otimiza&ccedil;&atilde;o din&acirc;mica, sob    a teoria do controle. O estoque no tempo &eacute; a pol&iacute;tica &oacute;tima,    que corresponde &agrave; solu&ccedil;&atilde;o do problema, de acordo com o    Princ&iacute;pio de Bellman (Kennedy, 1986). Formulado nesta &oacute;tica, o    problema pode ser solucionado atrav&eacute;s de m&eacute;todos num&eacute;ricos.    </font></p>     <p><font size="2" face="Verdana">Nesta abordagem, o problema do armazenamento    corresponde a um problema din&acirc;mico de expectativas racionais, onde as    vari&aacute;veis estado e decis&atilde;o s&atilde;o cont&iacute;nuas e pertencem    a um conjunto convexo fechado n&atilde;o nulo, mas o tempo &eacute; discreto    (Miranda &amp; Fackler, 2001). Se a fun&ccedil;&atilde;o do pre&ccedil;o de    equil&iacute;brio do mercado fosse conhecida, a expectativa racional <i>ex ante</i>    do pre&ccedil;o poderia ser computada integrando a partir da distribui&ccedil;&atilde;o    de probabilidade da produtividade <i>Y</i> e do choque de demanda <i>u<SUB>t</SUB></i>.    Adicionando esta equa&ccedil;&atilde;o &agrave;s anteriores, o resultado seria    um sistema de equa&ccedil;&otilde;es alg&eacute;bricas n&atilde;o lineares que    seria determinado e, em princ&iacute;pio, com solu&ccedil;&atilde;o para todas    as inc&oacute;gnitas. </font></p>     <p><font size="2" face="Verdana">Desde que se conhe&ccedil;a a fun&ccedil;&atilde;o    do pre&ccedil;o esperado, a solu&ccedil;&atilde;o n&atilde;o apresenta maior    dificuldade. A distribui&ccedil;&atilde;o cont&iacute;nua de probabilidade da    vari&aacute;vel aleat&oacute;ria &eacute; transformada em uma distribui&ccedil;&atilde;o    discreta<a name="tx02"></a><a href="#nt02"><sup>2</sup></a> o que permite o    c&aacute;lculo do pre&ccedil;o esperado para qualquer disponibilidade inicial.    O problema &eacute; que a fun&ccedil;&atilde;o do pre&ccedil;o esperado n&atilde;o    &eacute; conhecida, mas pode ser aproximada atrav&eacute;s de polin&ocirc;mios    Judd (1999). Este estudo aproxima a fun&ccedil;&atilde;o do pre&ccedil;o esperado    atrav&eacute;s de um polin&ocirc;mio de quarta ordem, seguindo a sugest&atilde;o    de Wright &amp; Williams (1991). </font></p>     <p><font size="2" face="Verdana">A partir da produtividade m&eacute;dia brasileira    no per&iacute;odo analisado e o respectivo desvio padr&atilde;o foi constru&iacute;da    uma distribui&ccedil;&atilde;o de freq&uuml;&ecirc;ncia discreta desta vari&aacute;vel    com 8 valores e respectivas probabilidades, assumindo distribui&ccedil;&atilde;o    normal. O mesmo procedimento foi adotado para os choques de demanda (6 valores),    partindo dos res&iacute;duos da regress&atilde;o de ajustamento da demanda para    consumo. Estas s&atilde;o as duas vari&aacute;veis estoc&aacute;sticas do modelo.    Para as simula&ccedil;&otilde;es, foram gerados 2.500 valores aleat&oacute;rios    de cada vari&aacute;vel. Produtividade e choques de demanda foram considerados    independentes. Estes valores foram gerados atrav&eacute;s do programa Matlab.    Todos os demais c&aacute;lculos foram realizados em planilha eletr&ocirc;nica.    O algoritmo pode ser obtido entrando em contato com os autores. Os par&acirc;metros    utilizados no modelo s&atilde;o apresentados em <a href="#anx">anexo</a>.</font></p>     <p><font size="2" face="Verdana"><B>Dados </B></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Foram estimadas fun&ccedil;&otilde;es de demanda    para consumo e oferta de &aacute;rea plantada para milho no Brasil, obtidos    os valores m&eacute;dios hist&oacute;ricos, para o per&iacute;odo de 1986 a    2000, do custo de armazenamento f&iacute;sico por tonelada, do pre&ccedil;o    m&eacute;dio do milho no mercado internacional representado pela Bolsa de Chicago,    do custo m&eacute;dio de importa&ccedil;&atilde;o/exporta&ccedil;&atilde;o do    produto tendo como refer&ecirc;ncia uma dist&acirc;ncia m&eacute;dia de 300    quil&ocirc;metros at&eacute; o porto. A taxa de juros utilizada foi de 12% ao    ano. As &aacute;reas plantadas consideradas para estimar a fun&ccedil;&atilde;o    de oferta s&atilde;o do IBGE. O custo de armazenamento foi calculado a partir    das tabelas de pre&ccedil;os da CONAB para produto a granel. Os pre&ccedil;os    de mercado externo se referem &agrave;s cota&ccedil;&otilde;es para primeiro    vencimento na Bolsa de Chicago. Os custos para exportar/importar foram obtidos    junto a empresas do setor. O pre&ccedil;o de mercado para o milho, usado para    estimar a fun&ccedil;&atilde;o de demanda tem como fonte a Funda&ccedil;&atilde;o    Get&uacute;lio Vargas. Todos os pre&ccedil;os foram deflacionados pelo IGP-DI    para mar&ccedil;o de 2001.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>3. Resultados e discuss&atilde;o</b></font></p>     <p><font size="2" face="Verdana">A <a href="#fig01">Figura 1</a> anexo apresenta    a pol&iacute;tica &oacute;tima ou regra do armazenamento que relaciona, para    cada disponibilidade inicial, o volume &oacute;timo de estoque. Pelo fato de    haver com&eacute;rcio com o mercado externo, a forma&ccedil;&atilde;o de estoques    internamente s&oacute; &eacute; economicamente vi&aacute;vel para pre&ccedil;os    de equil&iacute;brio entre a paridade de importa&ccedil;&atilde;o e de exporta&ccedil;&atilde;o.    O estoque privado passa a existir a partir de uma disponibilidade de 35,1 milh&otilde;es    de toneladas e se torna est&aacute;vel a partir de 37 milh&otilde;es que corresponde    ao volume a partir do qual se torna vi&aacute;vel exportar, dados os par&acirc;metros    do modelo. </font></p>     <p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v44n4/a07fig01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Uma vis&atilde;o geral das an&aacute;lises que    o modelo permite &eacute; considerar as m&eacute;dias de longo prazo das vari&aacute;veis    end&oacute;genas, obtidas por meio de simula&ccedil;&otilde;es para um determinado    per&iacute;odo de tempo. Neste estudo o per&iacute;odo foi de 10 anos come&ccedil;ando    no ano zero com uma determinada disponibilidade inicial. Segundo Wright &amp;    Williams (1991) e Miranda &amp; Fackler (2001), as simula&ccedil;&otilde;es    devem partir de um ano com disponibilidade inicial acima ou abaixo da m&eacute;dia    para permitir avaliar de que forma um choque inicial positivo ou negativo &eacute;    absorvido pelo sistema.</font></p>     <p><font size="2" face="Verdana">O importante &eacute; que, partindo de um per&iacute;odo    de excesso de oferta ou de escassez, o modelo deve convergir para a m&eacute;dia    de longo prazo. A op&ccedil;&atilde;o de simula&ccedil;&atilde;o foi para uma    disponibilidade inicial acima da m&eacute;dia, de 40 milh&otilde;es de toneladas,    resultado de um estoque anterior de 5 milh&otilde;es de toneladas e nova produ&ccedil;&atilde;o    de 35 milh&otilde;es. Esta seq&uuml;&ecirc;ncia de 10 anos foi simulada 2.500    vezes para cada modelo e a m&eacute;dia de cada ano &eacute; a m&eacute;dia    destes 2.500 valores. Este tipo de an&aacute;lise permite averiguar de que maneira    o sistema absorve o excesso de oferta inicial. O ano zero representa a primeira    resposta do mercado &agrave; abertura e &agrave; implanta&ccedil;&atilde;o da    pol&iacute;tica. Uma vez aberto o mercado e definida a pol&iacute;tica, esta    situa&ccedil;&atilde;o perdura para os anos seguintes. Na <a href="#tab01a">Tabela    1</a> s&atilde;o apresentados os valores m&eacute;dios de longo prazo das vari&aacute;veis    end&oacute;genas do modelo que representa o mercado brasileiro de milho a partir    do final da d&eacute;cada de 1990. As <a href="#tab02">Tabelas 2</a> e <a href="#tab03">3</a>,    em <a href="#anx">anexo</a>, apresentam dois resultados das 2.500 simula&ccedil;&otilde;es    que geraram as m&eacute;dias apresentadas na <a href="#tab01a">Tabela 1</a>.</font></p>     ]]></body>
+<body><![CDATA[<p><a name="tab01a"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v44n4/a07tab01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">A leitura dos resultados deve ser feita em linha,    facilitando a compreens&atilde;o dos mesmos. A cada ano, dada uma disponibilidade    inicial, o pre&ccedil;o do ano, o volume que ser&aacute; consumido, o volume    a ser estocado e a &aacute;rea plantada no ano, para ser colhida no ano seguinte,    s&atilde;o os valores de equil&iacute;brio para aquele ano. A pol&iacute;tica    de subs&iacute;dio afeta, inicialmente, a &aacute;rea plantada, que ser&aacute;    sempre fun&ccedil;&atilde;o do maior valor: pre&ccedil;o esperado para o ano    seguinte ou o pre&ccedil;o m&iacute;nimo. Assim, mesmo quando o estoque &eacute;    relativamente alto (reduzindo o pre&ccedil;o esperado) a &aacute;rea plantada    n&atilde;o reduz se o pre&ccedil;o m&iacute;nimo for superior ao esperado. </font></p>     <p><font size="2" face="Verdana">N&atilde;o reduzindo a &aacute;rea, h&aacute;    uma tend&ecirc;ncia para haver uma maior disponibilidade de produto internamente,    o que beneficia os consumidores. Os valores m&eacute;dios de longo prazo do    consumo para o per&iacute;odo simulado s&atilde;o apresentados na <a href="#fig02">Figura    2</a>, na forma de &iacute;ndice, ou seja, tendo o valor no ano zero como base    100 e os valores dos demais anos, proporcionais a este valor inicial.</font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v44n4/a07fig02.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A disponibilidade inicial acima da m&eacute;dia    &eacute; absorvida no ano safra seguinte atrav&eacute;s de exporta&ccedil;&atilde;o.    O consumo interno se mant&eacute;m est&aacute;vel nos anos seguintes porque    excessos s&atilde;o canalizados para exporta&ccedil;&atilde;o e estoque interno,    e per&iacute;odos de escassez s&atilde;o compensados por compras externas.</font></p>     <p><font size="2" face="Verdana">Os pre&ccedil;os tendem a se estabilizar em torno    da m&eacute;dia de longo prazo, lembrando que estas m&eacute;dias s&atilde;o    resultado de diversas combina&ccedil;&otilde;es de choques de oferta e demanda    internos, mantidos constantes os valores para pre&ccedil;o externo e pre&ccedil;o    m&iacute;nimo (<a href="#fig03">Figura 3</a>). O estoque ao longo do tempo para    a m&eacute;dia de longo prazo reduz-se para 20% do volume inicial. O mercado    externo passa a receber e fornecer o volume de produto necess&aacute;rio para    atender o consumo interno. Nos anos em que o pre&ccedil;o de equil&iacute;brio    do mercado &eacute; inferior ao pre&ccedil;o m&iacute;nimo, o governo realiza    leil&otilde;es de PEP. Considerando que o ambiente &eacute; competitivo, o pr&ecirc;mio    deve equivaler &agrave; diferen&ccedil;a entre o pre&ccedil;o de equil&iacute;brio    e o pre&ccedil;o m&iacute;nimo. Os valores m&eacute;dios deste subs&iacute;dio    tamb&eacute;m s&atilde;o apresentados na tabela. O gasto m&eacute;dio do governo    ao longo do tempo pode ser visualizado na <a href="#fig04">Figura 4</a>.</font></p>     <p><a name="fig03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v44n4/a07fig03.gif"></p>     <p>&nbsp;</p>     <p><a name="fig04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v44n4/a07fig04.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Da forma apresentada no estudo, o mercado externo    imp&otilde;e uma faixa de pre&ccedil;os para o mercado brasileiro. O efeito    &eacute; semelhante ao pretendido por uma pol&iacute;tica de estoques reguladores,    mas sem que o governo forme estoques. Os resultados mostram que o estoque formado    pela iniciativa privada tamb&eacute;m ocorre dentro desta faixa de pre&ccedil;os.    Na pr&aacute;tica, esta faixa muda de posi&ccedil;&atilde;o freq&uuml;entemente,    acompanhando as oscila&ccedil;&otilde;es do mercado internacional. Os pre&ccedil;os    internos devem variar dentro da faixa imposta pelos pre&ccedil;os de paridade    com o exterior, mas a faixa muda de posi&ccedil;&atilde;o o que torna imposs&iacute;vel,    a m&eacute;dio e longo prazo, estabilizar os pre&ccedil;os internos apenas garantir    uma faixa de varia&ccedil;&atilde;o que n&atilde;o seria poss&iacute;vel com    economia fechada.</font></p>     <p><font size="2" face="Verdana">Os resultados anal&iacute;ticos do modelo est&atilde;o    condicionados aos par&acirc;metros estabelecidos, entre eles a rela&ccedil;&atilde;o    entre o pre&ccedil;o m&iacute;nimo e de paridade de exporta&ccedil;&atilde;o    e importa&ccedil;&atilde;o, que s&atilde;o m&eacute;dias hist&oacute;ricas do    per&iacute;odo 1986 a 2000. O pre&ccedil;o m&iacute;nimo, nestas circunst&acirc;ncias,    &eacute; maior do que o pre&ccedil;o de paridade de exporta&ccedil;&atilde;o    e inferior ao de importa&ccedil;&atilde;o. Nestas circunst&acirc;ncias, a &aacute;rea    plantada tende a se manter em n&iacute;vel ou acima do valor de equil&iacute;brio    relativo ao pre&ccedil;o m&iacute;nimo. O gasto do governo cresce quanto maior    a produ&ccedil;&atilde;o, o que indica que, quanto maior o pre&ccedil;o m&iacute;nimo,    maior disponibilidade interna e, dependendo do valor relativo do subs&iacute;dio    e da fun&ccedil;&atilde;o de oferta de &aacute;rea, o pa&iacute;s poderia se    tornar exportador. Diversas simula&ccedil;&otilde;es s&atilde;o poss&iacute;veis    atrav&eacute;s destes modelos, com diferentes pre&ccedil;os m&iacute;nimos,    pre&ccedil;os externos, tornando o pa&iacute;s importante no mercado externo    (oferta e/ou demanda externas n&atilde;o perfeitamente inel&aacute;sticas),    entre outros.</font></p>     <p><font size="2" face="Verdana">Os modelos econ&ocirc;micos desenvolvidos neste    estudo podem ser utilizados para quaisquer produtos agr&iacute;colas armazen&aacute;veis    com produ&ccedil;&atilde;o anual, tais como arroz, trigo e algod&atilde;o. Em    princ&iacute;pio qualquer pol&iacute;tica de pre&ccedil;os vinculada a estes    mercados pode ser incorporada aos modelos permitindo avaliar seus impactos sobre    o mercado como um todo. Destaca-se, novamente, que o modelo &eacute; prospectivo    e n&atilde;o retrospectivo – pode ser usado para previs&otilde;es do equil&iacute;brio    do mercado e da necessidade ou n&atilde;o de interven&ccedil;&atilde;o do governo    e em qual volume de recursos. Por isso o modelo n&atilde;o foi comparado a nenhuma    seq&uuml;&ecirc;ncia de valores do passado porque os par&acirc;metros que s&atilde;o    mantidos constantes no modelo n&atilde;o se mantiveram fixos ao longo do tempo    (passado), tais como os pre&ccedil;os internacionais e pre&ccedil;o m&iacute;nimo.    A maior utilidade deste estudo &eacute; a possibilidade de modelar o mercado    a cada momento (alterando os par&acirc;metros) e estimar os equil&iacute;brios    de mercado futuros.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>4. Conclus&atilde;o</B></font></p>     <p><font size="2" face="Verdana">A abertura ao com&eacute;rcio exterior tem forte    influ&ecirc;ncia sobre o equil&iacute;brio din&acirc;mico do mercado brasileiro    de milho, tanto sobre os pre&ccedil;os internos quanto na forma&ccedil;&atilde;o    de estoques. Com mercado aberto, um pa&iacute;s pequeno no mercado internacional,    tem sua forma&ccedil;&atilde;o de estoques delegada ao resto do mundo e o pa&iacute;s    depender&aacute; das compras externas para compensar os choques de oferta e    demanda internos. Os resultados sugerem que, quanto maior o pre&ccedil;o m&iacute;nimo,    maior a oferta interna, o que pode tornar o pa&iacute;s um crescente exportador.    Como o PEP &eacute; um subs&iacute;dio de pre&ccedil;o ao produtor, sua influ&ecirc;ncia    se d&aacute; sobre a &aacute;rea plantada, que ser&aacute; maior quanto maior    o pre&ccedil;o m&iacute;nimo. Quanto mais excedente de produto houver no mercado,    maior o volume a ser exportado. Atualmente o Brasil &eacute; um pequeno exportador    de milho, mas dependendo do valor do pre&ccedil;o m&iacute;nimo e dos pre&ccedil;os    externos, o pa&iacute;s pode passar a exportar volumes mais expressivos. Tal    pol&iacute;tica poderia receber cr&iacute;ticas internacionais, em fun&ccedil;&atilde;o    dos acordos comerciais em andamento.</font></p>     <p><font size="2" face="Verdana">Um pre&ccedil;o m&iacute;nimo inferior ao pre&ccedil;o    de paridade de exporta&ccedil;&atilde;o torna a pol&iacute;tica in&oacute;cua,    pois os pre&ccedil;os esperados ser&atilde;o sempre superiores ao pre&ccedil;o    m&iacute;nimo. A determina&ccedil;&atilde;o dos n&iacute;veis de pre&ccedil;os    m&iacute;nimos para os produtos amparados pela Pol&iacute;tica de Garantia de    Pre&ccedil;os M&iacute;nimos com mercados abertos exige do governo estudos para    diferentes cen&aacute;rios. Uma das muitas possibilidades que os modelos desenvolvidos    neste estudo permite &eacute; incluir uma restri&ccedil;&atilde;o or&ccedil;ament&aacute;ria    ao governo para a execu&ccedil;&atilde;o da pol&iacute;tica para cada produto.    Sob esta restri&ccedil;&atilde;o &eacute; poss&iacute;vel estimar os valores    de equil&iacute;brio das vari&aacute;veis end&oacute;genas do modelo. Estas    e outras an&aacute;lises podem ser feitas buscando os novos equil&iacute;brios    para mudan&ccedil;as nos par&acirc;metros dos modelos tais como o custo de armazenamento    e a taxa de juros. Os resultados anal&iacute;ticos mostram a consist&ecirc;ncia    te&oacute;rica dos modelos e abrem um amplo leque de situa&ccedil;&otilde;es    em que esta modelagem pode ser utilizada para estimar as respostas do mercado    a estas mudan&ccedil;as.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>5. Refer&ecirc;ncias bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana">BARROS, G.S.A.C.; GUIMAR&Atilde;ES, V.D.A. An&aacute;lise    da efic&aacute;cia da pol&iacute;tica de pre&ccedil;os para arroz e milho por    meio de um modelo econ&ocirc;mico de expectativas racionais. <B>Revista de Economia    e Sociologia Rural</B>, v.36, n.4, p.113-133, 1998.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S0103-2003200600040000700001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">COMPANHIA NACIONAL DE ABASTECIMENTO. <B>Regulamento    para oferta de pr&ecirc;mio para escoamento de produto - PEP</B>. <a href="http://www.conab.gov.br/comercializacao/regulamentopep.doc" target="_blank">http://www.conab.gov.br/comercializacao/regulamentopep.doc</a>    (06 Jun. 2000a)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0103-2003200600040000700002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">GARDNER, B. <B>Optimal stockpiling of grain</B>.    Lexington: Lexington Books, 1979. 175p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S0103-2003200600040000700003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">GARDNER, B.; L&Oacute;PEZ, R. Interest-rate subsidies    in price stabilization. <B>American Journal of Agricultural Economics</B>, v.78,    n.3, p.508-516, 1996.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0103-2003200600040000700004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">GLAUBER, J.; HELMBERGER, P.; MIRANDA, M. Four    approaches to commodity market stabilization: a comparative analysis. <B>American    Journal of Agricultural Economics</B>, v.71, n.2, p.326-337, 1989.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S0103-2003200600040000700005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">GUSTAFSON, R.L. <B>Carryover levels for grain</B>:    a method for determining amounts that are optimal under specified conditions.    Washington: USDA, 1958. 92p. (Technical Bulletin, 1178)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0103-2003200600040000700006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">JUDD, K.L. <B>Numerical methods in economics</B>.    Cambridge: The MIT Press, 1999. 633p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0103-2003200600040000700007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">KENNEDY, J.O.S. <B>Dynamic programming</B>: applications    to agriculture and natural resources. London: Elsevier Applied Science, 1986.    341p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S0103-2003200600040000700008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">LENCE, S.H.; HAYES, D.J. <B>U.S. farm policy    and the variability of commodity prices and farm revenues</B>. Ames: Iowa State    University, 2000. 36p. (Working Paper, 00-WP 239)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0103-2003200600040000700009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">LIMA, S.M.A; BARROS, G.S.A.C. Efic&aacute;cia    da pol&iacute;tica de pre&ccedil;os m&iacute;nimos nos anos 80 e 90: o caso    do milho no Brasil. <B>Revista Brasileira de Economia</B>, v.50, n.2, p.161-178,    1996.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S0103-2003200600040000700010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">LOWRY, M.; GLAUBER, J.; MIRANDA, M.; HELMBERGER,    P. Pricing and storage of field crops: a quarterly model applied to soybeans.    <B>American Journal of Agricultural Economics</B>, v.69, n.4, p.740-749, Nov.1987.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0103-2003200600040000700011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">MAKKI, S.S.; TWEETEN, L.G.; MIRANDA, M.J. Wheat    storage and trade in an efficient global market. <B>American Journal of Agricultural    Economics</B>, v.78, n.4, p.879-890, Nov.1996.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S0103-2003200600040000700012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">MASSEL, B.F. Price stabilization and welfare.    <B>Quarterly Journal of Economics</B>, v.83, n.2, p.284-298, 1969.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0103-2003200600040000700013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">MIRANDA, M.J.; FACKLER, P.L. <B>Applied computational    economics and finance</B>. <a href="http://www4.ncsu.edu/%7Epfackler/compecon/compecon.pdf" target="_blank">http://www4.ncsu.edu/~pfackler/compecon/compecon.pdf</a>    (12 Mai. 2001).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S0103-2003200600040000700014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">MIRANDA, M.J.; GLAUBER, J.W. Estimation of dynamic    nonlinear rational expectations models for primary commodity markets with private    and government stockholding. <B>Review of Economics and Statistics</B>, v.75,    n.3, p.463-470, Aug.1993.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003200600040000700015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">MIRANDA, M.J.; HELMBERGER, P.B. The effects of    commodity price stabilization programs. <B>American Economic Review</B>, v.78,    n.1, p.46-57, Mar.1988.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000127&pid=S0103-2003200600040000700016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">MUTH, J.F. Rational expectations and the theory    of price movements. <B>Econometrica</B>, v.29, n.2, p.315-335, Apr.1961.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003200600040000700017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">REUTLINGER, S. A simulation model for evaluating    worldwide buffer stocks of wheat. <B>American Journal of Agricultural Economics</B>,    v.58, n.1, p.1-12, Feb.1976.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000129&pid=S0103-2003200600040000700018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">OI, W.Y. The desirability of price instability    under perfect competition. <B>Econometrica</B>, v.29, n.2, p.58-62, Apr. 1961.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003200600040000700019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">TURNOVSKY, S.J. Price expectations and the welfare    grains from price stabilization. <B>American Journal of Agricultural Economics</B>,    v.56, n.4, p.706-716, Nov.1974.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000131&pid=S0103-2003200600040000700020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">WAUGH, F.V. Does the consumer gain from price    instability? <B>Quarterly Journal of Economics</B>, v.58, n.2, p.602-614, Aug,    1944.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200600040000700021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">WRIGHT, B.R.; WILLIAMS, J.C. The welfare effects    of the introduction of storage. <B>Quarterly Journal of Economics</B>, v.99,    n.1, p.169-182, Feb.1984.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S0103-2003200600040000700022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">WRIGHT, B.R.; WILLIAMS, J.C. <B>Storage and commodity    markets.</B> New York: Cambridge University Press, 1991. 502p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200600040000700023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Recebido em junho de 2001 e revisto em agosto    de 2006. </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"> <a name="nt01"></a><a href="#tx01">1</a> Isto    significa que a fun&ccedil;&atilde;o do pre&ccedil;o esperado n&atilde;o &eacute;    conhecida <i>a priori</i> e &eacute; determinada pelo modelo, de acordo com    o estoque inicial de produto no ano safra. Justamente porque a fun&ccedil;&atilde;o    do pre&ccedil;o esperado n&atilde;o &eacute; conhecida nem a fun&ccedil;&atilde;o    do estoque a ser formado, que o modelo n&atilde;o pode ser obtido por outra    metodologia a n&atilde;o ser a programa&ccedil;&atilde;o din&acirc;mica estoc&aacute;stica.    As expectativas racionais neste modelo s&atilde;o prospectivas e n&atilde;o    adaptativas.    <br>   <a name="nt02"></a><a href="#tx02">2</a> Segundo a Quadratura de Gauss (Miranda    &amp; Fackler, 2001)</FONT></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><b><a name="anx"></a>7. Anexo</b></font></p>     <p><font size="2" face="Verdana">Tanto a <a href="#tab02">Tabela 2</a> quanto    a <a href="#tab03">Tabela 3</a> devem ser lidas em linha, que representa um    ano safra poss&iacute;vel para o mercado de milho, como enfatizado no texto,    dados os par&acirc;metros utilizados nesta modelagem (apresentados na <a href="#tab01">Tabela    1</a> deste anexo). Nestas tabelas s&atilde;o apresentadas duas das 2.500 simula&ccedil;&otilde;es    feitas neste estudo e mostram como (e quantificam) o mercado se ajustaria em    cada situa&ccedil;&atilde;o.</font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v44n4/a07taba1.gif"></p>     <p>&nbsp;</p>     <p><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><a href="/img/revistas/resr/v44n4/a07taba2.gif"><img src="/img/revistas/resr/v44n4/a07tba2.gif" border="0"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="tab03"></a></p>     <p>&nbsp;</p>     <p align="center"><a href="/img/revistas/resr/v44n4/a07taba3.gif"><img src="/img/revistas/resr/v44n4/a07tba3.gif" border="0"></a></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Tomando a <a href="#tab01">Tabela 1</a> a leitura    &eacute; a seguinte. O ano 1 come&ccedil;a com o estoque inicial formado no    ano zero (<i>I<SUB>t</SUB></i><SUB>-1</SUB>) de 1.178,2 mil toneladas de milho.    A &aacute;rea plantada no ano zero (<i>A<SUB>t</SUB></i><SUB>-1</SUB>) foi de    12.963,2 mil hectares cuja produ&ccedil;&atilde;o &eacute; colhida no ano 1,    e foi de 32.369,0 mil toneladas (<i>H<SUB>t</SUB></i>). Um dos par&acirc;metros    &eacute; a produtividade m&eacute;dia de 2,4 toneladas por hectare o que daria    uma produ&ccedil;&atilde;o no ano 1 de 31.111,6 mil toneladas, no entanto, a    produ&ccedil;&atilde;o foi maior o que implica um choque positivo de oferta    neste ano – a produtividade m&eacute;dia, aleat&oacute;ria e estoc&aacute;stica    foi de 2.492 kg/ha – uma das vari&aacute;veis ex&oacute;genas ao modelo pois    depende das condi&ccedil;&otilde;es clim&aacute;ticas. Al&eacute;m disso, neste    ano ocorre um choque de demanda (<i>u<SUB>t</SUB></i>), positivo, em 1.739,6    mil toneladas. De acordo com o modelo, soma-se &agrave; produ&ccedil;&atilde;o    o estoque inicial e deduz-se o choque de demanda resultando na disponibilidade    total do ano (<i>S<SUB>t</SUB></i>). A partir deste total o modelo encontra    a solu&ccedil;&atilde;o de equil&iacute;brio, que &eacute; end&oacute;gena,    simultaneamente para as seguintes vari&aacute;veis: o pre&ccedil;o de equil&iacute;brio    de mercado (<i>P</i><SUB>t</SUB>), a quantidade demandada internamente (<i>D</i><SUB>t</SUB>),    se haver&aacute; ou n&atilde;o importa&ccedil;&atilde;o ou exporta&ccedil;&atilde;o,    qual o pre&ccedil;o esperado para o ano safra seguinte (<i>E<SUB>t</SUB>P<SUB>t</SUB></i><SUB>+1</SUB>)    e conseq&uuml;entemente, qual o estoque que ser&aacute; formado no ano t (<i>I<SUB>t</SUB></i>)    e a &aacute;rea que ser&aacute; plantada (<i>A<SUB>t</SUB></i>). Dado o equil&iacute;brio,    calcula-se se o PEP ser&aacute; realizado, o pr&ecirc;mio a ser pago e o gasto    total do governo. Como no ano 1 o pre&ccedil;o de equil&iacute;brio de mercado    ficou acima do pre&ccedil;o m&iacute;nimo, n&atilde;o haver&aacute; PEP. A mesma    leitura se repete em seq&uuml;&ecirc;ncia para os anos seguintes. Em resumo    o modelo permite antever, a partir de um determinado estoque inicial e os par&acirc;metros    mencionados, quais ser&atilde;o os valores de equil&iacute;brio do mercado de    milho em qualquer situa&ccedil;&atilde;o.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G.S.A.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUIMARÃES]]></surname>
+<given-names><![CDATA[V.D.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise da eficácia da política de preços para arroz e milho por meio de um modelo econômico de expectativas racionais]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>1998</year>
+<volume>36</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>113-133</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>COMPANHIA NACIONAL DE ABASTECIMENTO</collab>
+<source><![CDATA[Regulamento para oferta de prêmio para escoamento de produto - PEP]]></source>
+<year>06 J</year>
+<month>un</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARDNER]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Optimal stockpiling of grain]]></source>
+<year>1979</year>
+<publisher-loc><![CDATA[Lexington ]]></publisher-loc>
+<publisher-name><![CDATA[Lexington Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARDNER]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LÓPEZ]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Interest-rate subsidies in price stabilization]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>1996</year>
+<volume>78</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>508-516</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GLAUBER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HELMBERGE]]></surname>
+<given-names><![CDATA[R, P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Four approaches to commodity market stabilization: a comparative analysis]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>1989</year>
+<volume>71</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>326-337</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUSTAFSON]]></surname>
+<given-names><![CDATA[R.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Carryover levels for grain: a method for determining amounts that are optimal under specified conditions]]></source>
+<year>1958</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[USDA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JUDD]]></surname>
+<given-names><![CDATA[K.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Numerical methods in economics]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[The MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KENNEDY]]></surname>
+<given-names><![CDATA[J.O.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dynamic programming: applications to agriculture and natural resources]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier Applied Science]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LENCE]]></surname>
+<given-names><![CDATA[S.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HAYES]]></surname>
+<given-names><![CDATA[D.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[U.S. farm policy and the variability of commodity prices and farm revenues]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Ames ]]></publisher-loc>
+<publisher-name><![CDATA[Iowa State University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[S.M.A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G.S.A.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Eficácia da política de preços mínimos nos anos 80 e 90: o caso do milho no Brasil]]></article-title>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>1996</year>
+<volume>50</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>161-178</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOWRY]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GLAUBER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HELMBERGER]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Pricing and storage of field crops: a quarterly model applied to soybeans]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>Nov.</year>
+<month>19</month>
+<day>87</day>
+<volume>69</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>740-749</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAKKI]]></surname>
+<given-names><![CDATA[S.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TWEETEN]]></surname>
+<given-names><![CDATA[L.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Wheat storage and trade in an efficient global market]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>Nov.</year>
+<month>19</month>
+<day>96</day>
+<volume>78</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>879-890</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MASSEL]]></surname>
+<given-names><![CDATA[B.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Price stabilization and welfare]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>1969</year>
+<volume>83</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>284-298</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FACKLER]]></surname>
+<given-names><![CDATA[P.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied computational economics and finance]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GLAUBER]]></surname>
+<given-names><![CDATA[J.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Estimation of dynamic nonlinear rational expectations models for primary commodity markets with private and government stockholding]]></article-title>
+<source><![CDATA[Review of Economics and Statistics]]></source>
+<year>Aug.</year>
+<month>19</month>
+<day>93</day>
+<volume>75</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>463-470</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HELMBERGER]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The effects of commodity price stabilization programs]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>Mar.</year>
+<month>19</month>
+<day>88</day>
+<volume>78</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>46-57</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUTH]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Rational expectations and the theory of price movements]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>Apr.</year>
+<month>19</month>
+<day>61</day>
+<volume>29</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>315-335</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REUTLINGER]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A simulation model for evaluating worldwide buffer stocks of wheat]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>Feb.</year>
+<month>19</month>
+<day>76</day>
+<volume>58</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-12</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OI]]></surname>
+<given-names><![CDATA[W.Y.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The desirability of price instability under perfect competition]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>Apr.</year>
+<month> 1</month>
+<day>96</day>
+<volume>29</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>58-62</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TURNOVSKY]]></surname>
+<given-names><![CDATA[S.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Price expectations and the welfare grains from price stabilization]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>Nov.</year>
+<month>19</month>
+<day>74</day>
+<volume>56</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>706-716</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WAUGH]]></surname>
+<given-names><![CDATA[F.V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Does the consumer gain from price instability?]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>Aug,</year>
+<month> 1</month>
+<day>94</day>
+<volume>58</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>602-614</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WRIGHT]]></surname>
+<given-names><![CDATA[B.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WILLIAMS]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The welfare effects of the introduction of storage]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>Feb.</year>
+<month>19</month>
+<day>84</day>
+<volume>99</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>169-182</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WRIGHT]]></surname>
+<given-names><![CDATA[B.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WILLIAMS]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Storage and commodity markets]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032005000100007</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032005000100007</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Uma análise empírica da volatilidade do retorno de commodities agrícolas utilizando modelos ARCH: os casos do café e da soja]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Washington Santos da]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Sáfadi]]></surname>
+<given-names><![CDATA[Thelma]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Castro Júnior]]></surname>
+<given-names><![CDATA[Luiz Gonzaga de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Lavras  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal de Lavras Departamento de Ciências Exatas ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidade Federal de Lavras Departamento de Administração e Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2005</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2005</year>
+</pub-date>
+<volume>43</volume>
+<numero>1</numero>
+<fpage>119</fpage>
+<lpage>134</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032005000100007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032005000100007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032005000100007&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Examinou-se o processo da volatilidade dos retornos de duas importantes commodities agrícolas brasileiras, o café e a soja, por meio de modelos da classe ARCH. Os resultados empíricos sugerem fortes sinais de persistência e assimetria na volatilidade de ambas as séries. Além disso, os resultados sugerem que a implementação de políticas que criem, facilitem o acesso e estimulem a utilização de instrumentos de hedging baseados no mercado podem ser estratégias adequadas para tais setores diante da persistência de choques e volatilidade pronunciadas constatadas para os retornos destas commodities]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[We examined the volatility process of the returns of two important Brazilian agricultural commodities, coffee and soy, using ARCH class models. Empirical results suggest strong signs of persistence and asymmetry in the volatility of both series. Furthermore, the results suggest that the design of policies that create, facilitate the access and stimulate the use of market-based hedging devices can be proper strategies for such sectors in view of the persistence of shocks and the pronounced volatility found for the returns of these commodities.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[commodities agrícolas brasileiras]]></kwd>
+<kwd lng="pt"><![CDATA[modelos ARCH]]></kwd>
+<kwd lng="pt"><![CDATA[volatilidade]]></kwd>
+<kwd lng="en"><![CDATA[ARCH models]]></kwd>
+<kwd lng="en"><![CDATA[Brazilian agricultural commodities]]></kwd>
+<kwd lng="en"><![CDATA[volatility]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b><a name="top1"></a>Uma    an&aacute;lise emp&iacute;rica da volatilidade do retorno de commodities agr&iacute;colas    utilizando modelos ARCH: os casos do caf&eacute; e da soja<a href="#back1"><sup>1</sup></a></b>    </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Washington Santos    da Silva<sup>I</sup>; Thelma S&aacute;fadi<sup>II</sup>; Luiz Gonzaga de Castro    J&uacute;nior<sup>III</sup></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Economista,    Doutorando em Estat&iacute;stica na Universidade Federal de Lavras &#150; <a href="mailto:wss@ufla.br">wss@ufla.br</a>    <br>   <sup>II</sup>Profa.    do Depto. de Ci&ecirc;ncias Exatas da Universidade Federal de Lavras &#150;    <a href="mailto:safadi@ufla.br">safadi@ufla.br</a>    <br>   <sup>III</sup>Prof.    do Depto. de Administra&ccedil;&atilde;o e Economia da Universidade Federal    de Lavras &#150; <a href="mailto:lgcastro@ufla.br">lgcastro@ufla.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Examinou-se o processo    da volatilidade dos retornos de duas importantes <i>commodities</i> agr&iacute;colas    brasileiras, o caf&eacute; e a soja, por meio de modelos da classe ARCH. Os    resultados emp&iacute;ricos sugerem fortes sinais de persist&ecirc;ncia e assimetria    na volatilidade de ambas as s&eacute;ries. Al&eacute;m disso, os resultados    sugerem que a implementa&ccedil;&atilde;o de pol&iacute;ticas que criem, facilitem    o acesso e estimulem a utiliza&ccedil;&atilde;o de instrumentos de <i>hedging</i>    baseados no mercado podem ser estrat&eacute;gias adequadas para tais setores    diante da persist&ecirc;ncia de choques e volatilidade pronunciadas constatadas    para os retornos destas <i>commodities</i></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chave</b>: <i>commodities</i> agr&iacute;colas brasileiras, modelos ARCH, volatilidade.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Classifica&ccedil;&atilde;o    JEL</b>: C22, E32, Q11, Q14</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">We examined the    volatility process of the returns of two important Brazilian agricultural commodities,    coffee and soy, using ARCH class models. Empirical results suggest strong signs    of persistence and asymmetry in the volatility of both series. Furthermore,    the results suggest that the design of policies that create, facilitate the    access and stimulate the use of market-based hedging devices can be proper strategies    for such sectors in view of the persistence of shocks and the pronounced volatility    found for the returns of these commodities.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key Words:</b>    ARCH models, Brazilian agricultural commodities, volatility.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>JEL Classification</b>:    C22, E32, Q11, Q14</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1. Introdu&ccedil;&atilde;o</b></font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Este artigo apresenta uma an&aacute;lise emp&iacute;rica do processo de volatilidade do retorno de duas importantes <i>commodities</i> agr&iacute;colas brasileiras, o caf&eacute; e a soja. Examinam-se duas caracter&iacute;sticas determinantes de tal processo, a persist&ecirc;ncia de choques e assimetrias na volatilidade. Este t&oacute;pico &eacute; particularmente importante para a economia brasileira, dada a expressiva import&acirc;ncia econ&ocirc;mica de tais <i>commodities</i>. Assim, a an&aacute;lise do padr&atilde;o da volatilidade dos retornos gerados por estas <i>commodities</i> possui implica&ccedil;&otilde;es importantes concernentes &agrave; formula&ccedil;&atilde;o de pol&iacute;ticas para o setor e performance econ&ocirc;mica do pa&iacute;s.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Conforme Swaray (2002), a origem da volatilidade difere para os diferentes tipos de <i>commodities</i>. No caso das <i>commodities</i> prim&aacute;rias, a volatilidade do pre&ccedil;o surgiria, sobretudo, devido a dist&uacute;rbios na oferta; enquanto para mat&eacute;rias-primas industriais, ela seria resultado de dist&uacute;rbios na demanda. A intera&ccedil;&atilde;o de tais dist&uacute;rbios com a demanda de curto de prazo e as elasticidades da oferta resultaria em acentuadas flutua&ccedil;&otilde;es de pre&ccedil;os.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Swaray (2002) escreve que &eacute; um fato comum assumir que informa&ccedil;&atilde;o de mercado e <i>hedging</i> s&atilde;o caracter&iacute;sticas que aplicam-se somente aos mercados financeiros e que a disponibilidade f&iacute;sica seria o conceito similar nos mercados de <i>commodities</i> prim&aacute;rias. Entretanto, analisando-se os mercados de <i>commodities</i> prim&aacute;rias, pode-se constatar que informa&ccedil;&atilde;o, <i>hedging</i>, especula&ccedil;&atilde;o e disponibilidade f&iacute;sica seriam todos fatores cruciais que influenciariam a volatilidade dos mercados de <i>commodities</i> prim&aacute;rias. Al&eacute;m disso, Herrman (1983) coloca que o aumento da volatilidade nos mercados de <i>commodities</i> prim&aacute;rias pode justificar o uso de processos baseados em informa&ccedil;&atilde;o para a modelagem do padr&atilde;o de volatilidade do retorno de tais <i>commodities</i>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Isto posto, neste    artigo utilizam-se tr&ecirc;s variantes da classe de modelos de heterocedasticidade    condicional autorregressiva, ARCH (de "<i>Autoregressive Conditional Heteroskedascitiy</i>"),    para caracterizar e analisar a volatilidade das s&eacute;ries de retornos mensais    do caf&eacute; e da soja. Pretende-se, assim, fornecer subs&iacute;dios para    o delineamento de estrat&eacute;gias adequadas para o gerenciamento do risco    de varia&ccedil;&otilde;es nos pre&ccedil;os (retornos) destas <i>commodities</i>.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. Metodologia</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2.1. Modelo econom&eacute;trico</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nesta se&ccedil;&atilde;o formalizam-se os tr&ecirc;s modelos da fam&iacute;lia ARCH utilizados e os procedimentos de infer&ecirc;ncia adotados. Desde a introdu&ccedil;&atilde;o do modelo de hetorecedasticidade condicional auto-regressiva no artigo seminal de Engle (1982), diversas variantes do modelo original t&ecirc;m sido propostas. Neste artigo ser&atilde;o estimadas tr&ecirc;s variantes muito utilizadas do modelo original, a saber, os modelos GARCH, EGARCH e TARCH. A vari&acirc;ncia condicional fornecida por estes modelos &eacute; utilizada como <i>proxy</i> para a volatilidade do retorno das <i>commodities</i> consideradas.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O modelo original de Engle (1982) pode ser descrito em termos da distribui&ccedil;&atilde;o dos erros de um modelo auto-regressivo linear din&acirc;mico. Seja P<sub>t</sub> o pre&ccedil;o de uma <i>commoditie</i> no per&iacute;odo t e r<sub>t</sub>=ln(P<sub>t</sub>)-ln(P<sub>t-1</sub>) o retorno composto continuamente gerado pela <i>commoditie</i> no per&iacute;odo entre t-1 e t. Suponha-se que os retornos gerados possam ser descritos pelo seguinte processo auto-regressivo de ordem k:</font></p>      <p align="center"><img src="/img/revistas/resr/v43n1/25839x1.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O modelo ARCH (p), em que p denota a ordem do modelo, expressa a vari&acirc;ncia condicional do modelo anterior para a m&eacute;dia condicional como uma fun&ccedil;&atilde;o das inova&ccedil;&otilde;es quadr&aacute;ticas passadas,</font></p>      <p align="center"><img src="/img/revistas/resr/v43n1/25839x2.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">em que <font face="Symbol">s</font><sub>t</sub><sup>2</sup>    denota a vari&acirc;ncia condicional dado o conjunto de informa&ccedil;&otilde;es    dispon&iacute;vel em t-1, denotado por <font face="Symbol">W</font><sub>t-1</sub>.    As restri&ccedil;&otilde;es param&eacute;tricas <font face="Symbol">a</font><sub>0</sub>&gt;0,    <font face="Symbol">a</font><sub>i</sub>&gt;0 para todo i = 2...p e <font face="Symbol">&aring;a</font><sub>i</sub>&lt;1    s&atilde;o necess&aacute;rias para assegurar que a vari&acirc;ncia condicional    seja positiva e fracamente estacion&aacute;ria. Note-se que as inova&ccedil;&otilde;es,    denotadas por <font face="Symbol">e</font><sub>t</sub>, s&atilde;o n&atilde;o    correlacionadas serialmente mas n&atilde;o estocasticamente independentes, posto    que s&atilde;o relacionadas em seus segundos momentos. Seguindo o modelo original    de Engle (1982) assumiu-se que a distribui&ccedil;&atilde;o condicional das    inova&ccedil;&otilde;es &eacute; gaussiana.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A literatura econom&eacute;trica sobre qual o conjunto de informa&ccedil;&otilde;es utilizado pelos agentes nos mercados para formar suas expectativas &eacute; vasta. Bollerslev (1986) prop&ocirc;s uma generaliza&ccedil;&atilde;o do modelo ARCH (p) dado em (3) de forma a ampliar o conjunto de informa&ccedil;&atilde;o utilizado e obter uma formula&ccedil;&atilde;o mais parcimoniosa. Seu modelo para a vari&acirc;ncia condicional &eacute; formalizado por</font></p>      <p align="center"><img src="/img/revistas/resr/v43n1/25839x4.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O modelo em (4)    &eacute; denominado GARCH (p,q) ( de "<i>Generalized Autoregressive Conditional    Heteroskedascitiy"</i>) em que p representa a ordem do componente ARCH e q a    ordem do componente GARCH. Em outras palavras, o modelo GARCH (p,q) descreve    a volatilidade (i.e, vari&acirc;ncia condicional) de uma s&eacute;rie de retornos    como dependendo de uma constante, de informa&ccedil;&otilde;es defasadas da    volatilidade (isto &eacute;, os termos <font face="Symbol">e</font><sub>t-i</sub><sup>2</sup>)    e de vari&acirc;ncias previstas passadas (os termos <font face="Symbol">s</font><sub>t-j</sub><sup>2</sup>).    Conforme Swaray (2002), a inclus&atilde;o de vari&acirc;ncias condicionais defasadas    pode capturar a "aprendizagem adaptativa" que caracteriza o processo. Bollerslev    et al. (1994) colocam que a especifica&ccedil;&atilde;o mais robusta verificada    nas aplica&ccedil;&otilde;es &eacute; a do modelo GARCH (1,1):</font></p>      <p align="center"><img src="/img/revistas/resr/v43n1/25839x5.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A vantagem desta    especifica&ccedil;&atilde;o &eacute; que ela cont&eacute;m poucas restri&ccedil;&otilde;es    nos par&acirc;metros. As condi&ccedil;&otilde;es para a vari&acirc;ncia do processo    ser positiva e fracamente estacion&aacute;ria s&atilde;o <font face="Symbol">a</font><sub>0</sub>,<font face="Symbol">a</font><sub>1</sub>&gt;0;    <font face="Symbol">b</font><sub>1</sub>&gt;0 e <font face="Symbol">a</font><sub>1</sub>+<font face="Symbol">b</font><sub>1</sub>&lt;1.    A persist&ecirc;ncia de choques na volatilidade da s&eacute;rie de retornos    gerada por uma <i>commoditie</i> &eacute; medida pela soma de <font face="Symbol">a</font><sub>1</sub>    e <font face="Symbol">b</font><sub>1</sub>. Quanto mais pr&oacute;xima de um    for a soma, maior o tempo que um choque na s&eacute;rie levar&aacute; para dissipar-se.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nos mercados financeiros, observa-se que per&iacute;odos de quedas nos pre&ccedil;os s&atilde;o freq&uuml;entemente seguidos por per&iacute;odos de intensa volatilidade, enquanto que em per&iacute;odos de alta nos pre&ccedil;os a volatilidade n&atilde;o &eacute; t&atilde;o intensa. Tal fato &eacute; denominado "efeito alavancagem", sendo que, em geral, choques positivos e negativos tendem a ter impactos diferenciados sobre a volatilidade. Estas assimetrias na volatilidade podem ser capturadas por duas variantes do modelo GARCH, o modelo TARCH de Zakoian (1994) e o modelo EGARCH de Nelson (1991). A vari&acirc;ncia condicional do modelo TARCH (1,1) ( <i>Threshold Autoregressive Conditional Heteroskedasticity</i>) pode ser formalizada por:</font></p>      <p align="center"><img src="/img/revistas/resr/v43n1/25839x6.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">em que a vari&aacute;vel    bin&aacute;ria assume o valor d<sub>t-1</sub>=1, se <font face="Symbol">e</font><sub>t-1</sub>&lt;0,    e d<sub>t-1</sub>=0 caso contr&aacute;rio. N&atilde;o h&aacute; assimetria na    vari&acirc;ncia se <font face="Symbol">g</font><sub>1</sub> = 0. Condi&ccedil;&otilde;es    adversas do mercado e informa&ccedil;&otilde;es negativas ( i.e, <font face="Symbol">e</font><sub>t-1</sub>&lt;0),    como previs&otilde;es de geadas, secas ou instabilidade pol&iacute;tica, t&ecirc;m    um impacto de <font face="Symbol">a</font><sub>1</sub>+ <font face="Symbol">g</font><sub>1</sub>.    Informa&ccedil;&otilde;es positivas (i.e, <font face="Symbol">e</font><sub>t-1</sub>&gt;0)    , como boas condi&ccedil;&otilde;es da demanda por exemplo, t&ecirc;m impacto    <font face="Symbol">a</font>. Se <font face="Symbol">g</font><sub>1</sub> &gt;    0, h&aacute; evid&ecirc;ncias do efeito alavancagem.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No modelo proposto por Nelson (1991), denominado EGARCH (p,q) ( <i>Exponential GARCH</i>), o efeito de choques &eacute; exponencial e n&atilde;o quadr&aacute;tico. A especifica&ccedil;&atilde;o da vari&acirc;ncia condicional para o modelo EGARCH (1,1) pode ser formalizada por:</font></p>      <p align="center"><img src="/img/revistas/resr/v43n1/25839x7.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">observando que    n&atilde;o h&aacute; assimetria na volatilidade quando <font face="Symbol">g</font><sub>1</sub>=0.    Segundo Issler (1999), isto constitui um procedimento de teste para o efeito    da assimetria. Se <font face="Symbol">g</font><sub>1</sub> <font face="Symbol">&sup1;</font>    0, h&aacute; um impacto diferenciado de choques negativos e positivos na volatilidade.    Se <font face="Symbol">g</font><sub>1</sub> &lt; 0, h&aacute; o denominado "efeito    alavancagem" definido anteriormente. A persist&ecirc;ncia de choques na volatilidade    &eacute; medida pelo par&acirc;metro <font face="Symbol">b</font><sub>1</sub>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O m&eacute;todo empregado usualmente para a estima&ccedil;&atilde;o dos modelos apresentados anteriormente &eacute; o da m&aacute;xima verossimilhan&ccedil;a ap&oacute;s adotar-se uma distribui&ccedil;&atilde;o param&eacute;trica para as inova&ccedil;&otilde;es. Uma hip&oacute;tese geralmente utilizada &eacute; a de que as inova&ccedil;&otilde;es sejam gaussianas. Esta &eacute; uma hip&oacute;tese justific&aacute;vel, posto que Bollerslev &amp; Wooldridge (1992) mostraram que os estimadores de m&aacute;xima verossimilhan&ccedil;a dos par&acirc;metros de um modelo GARCH, assumido-se inova&ccedil;&otilde;es gaussianas, s&atilde;o consistentes ainda que a verdadeira distribui&ccedil;&atilde;o n&atilde;o seja gaussiana. Para atingir tal consist&ecirc;ncia, necessita-se utilizar a matriz de vari&acirc;ncia-covari&acirc;ncia corrigida, proposta por Bollerslev &amp; Wooldridge (1992), corre&ccedil;&atilde;o utilizada neste trabalho.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Conforme Issler (1999), para implementar a estima&ccedil;&atilde;o por m&aacute;xima verossimilhan&ccedil;a, primeiro decomp&otilde;e-se a densidade conjunta da amostra (r<sub>1</sub>,...,r<sub>t</sub>) recursivamente, como um produto das densidades condicionais para formar:</font></p>      <p align="center"><img src="/img/revistas/resr/v43n1/25839x8.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">em que <font face="Symbol">q</font>    &eacute; o vetor de par&acirc;metros da densidade conjunta, r<sub>t</sub> &eacute;    um vetor que cont&eacute;m a vari&aacute;vel explicada e T o n&uacute;mero de    observa&ccedil;&otilde;es. O condicionamento em rela&ccedil;&atilde;o &agrave;s    observa&ccedil;&otilde;es pr&eacute;-amostrais est&aacute; impl&iacute;cito.    Assumindo-se, por exemplo, normalidade condicional para as inova&ccedil;&otilde;es    <font face="Symbol">e</font><sub>t</sub> do modelo GARCH (p,q), tem-se que:</font></p>      <p align="center"><img src="/img/revistas/resr/v43n1/25839x9.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com a especifica&ccedil;&atilde;o    correta da forma funcional de f (r<sub>t</sub> | r<sub>t-1</sub>,...,r<sub>t-k</sub>;<font face="Symbol">q</font>),    a fun&ccedil;&atilde;o de verossimilhan&ccedil;a condicional e derivada da normal    pode ser escrita como:</font></p>      ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v43n1/25839x10.gif"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    </font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A fun&ccedil;&atilde;o    (10) &eacute; maximizada por m&eacute;todos num&eacute;ricos, sujeita &agrave;s    restri&ccedil;&otilde;es de negatividade necess&aacute;rias. Neste trabalho    utilizou-se o m&eacute;todo de Marquardt.(1963). Al&eacute;m disso, deve-se    fornecer valores iniciais para o vetor de par&acirc;metros <font face="Symbol">q</font>    e para as s&eacute;ries <font face="Symbol">e</font><sub>t</sub><sup>2</sup>    e <font face="Symbol">s</font><sub>t</sub><sup>2</sup>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para testar-se a presen&ccedil;a de heterocedasticidade condicional auto-regressiva utilizou-se o teste do tipo multiplicador de Lagrange proposto por Engle (1982); a estat&iacute;stica de teste possui distribui&ccedil;&atilde;o qui-quadrado. Assim, comparando-se o valor calculado desta estat&iacute;stica com a entrada apropriada de uma distribui&ccedil;&atilde;o qui-quadrado, pode-se testar a hip&oacute;tese nula de n&atilde;o haver evid&ecirc;ncia de heterocedasticidade condicional.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2.2. Dados</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os dados utilizados    s&atilde;o a s&eacute;rie de pre&ccedil;os mensais &agrave; vista em d&oacute;lares    (pre&ccedil;o/kg) do caf&eacute; em coco pagos ao produtor. A s&eacute;rie abrange    o per&iacute;odo de janeiro de 1967 a abril de 2002, com um total de 423 observa&ccedil;&otilde;es,    e a s&eacute;rie de pre&ccedil;os mensais &agrave; vista em d&oacute;lares (pre&ccedil;o/tonelada    m&eacute;trica) da soja em farelo; o per&iacute;odo coberto abrange janeiro    de 1957 a mar&ccedil;o de 2002, totalizando 543 observa&ccedil;&otilde;es. Os    dados foram obtidos na base de dados mantida na internet pelo Instituto de Pesquisa    Econ&ocirc;mica Aplicada (IPEA) (<a href="http://www.ipeadata.gov.br">www.ipeadata.gov.br</a>),    tendo a s&eacute;rie de pre&ccedil;os do caf&eacute;, que originalmente estava    em reais, sido convertida para d&oacute;lares. Posto que desejava-se modelar    a volatilidade dos retornos gerados pelas duas <i>commodities</i>, calcularam-se    os retornos instant&acirc;neos compostos continuamente por r<sub>t</sub>=ln(P<sub>t</sub>)-ln(P<sub>t-1</sub>).    Conforme Tsay (2002) existem duas raz&otilde;es principais para trabalhar-se    com retornos em vez de pre&ccedil;os. A primeira &eacute; que para investidores    (produtores) m&eacute;dios, o retorno de um ativo &eacute; um sum&aacute;rio    completo e independente da escala da oportunidade de investimento. Segundo,    s&eacute;ries de retornos s&atilde;o mais f&aacute;ceis de manipular que s&eacute;ries    de pre&ccedil;os, dado que as primeiras t&ecirc;m propriedades estat&iacute;sticas    mais trat&aacute;veis.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. Resultados    e discuss&otilde;es</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href="#fig1">Figura    1</a> ilustra o comportamento das s&eacute;ries de pre&ccedil;os e retornos    do caf&eacute; no per&iacute;odo considerado. A <a href="#fig2">Figura 2</a>    representa o comportamento das s&eacute;ries de pre&ccedil;os e retornos para    o caso da soja no per&iacute;odo sob an&aacute;lise.</font></p>     <p><a name="fig1"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v43n1/25839f1.gif"></p>     <p>&nbsp;</p>     <p><a name="fig2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n1/25839f2.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Algumas estat&iacute;sticas    descritivas b&aacute;sicas para os retornos do caf&eacute; e da soja s&atilde;o    reportadas na <a href="#tab1">Tabela 1</a>. A <a href="#tab2">Tabela 2</a> cont&eacute;m    algumas estimativas dos coeficientes das fun&ccedil;&otilde;es de autocorrela&ccedil;&atilde;o    e de autocorrela&ccedil;&atilde;o parcial para os retornos e retornos quadr&aacute;ticos    da soja e do caf&eacute;.</font></p>     <p><a name="tab1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n1/25839t1.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n1/25839t2.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O coeficiente de    curtose amostral evidencia que ambas as s&eacute;ries de retornos s&atilde;o    leptoc&uacute;rticas em rela&ccedil;&atilde;o &agrave; distribui&ccedil;&atilde;o    normal, o que, juntamente com uma inspe&ccedil;&atilde;o visual nas <a href="#fig1">Figuras    1</a> e <a href="#fig2">2</a>, revela que ambas as s&eacute;ries de retornos    exibem sinais de heterocedasticidade e de agrupamento da volatilidade, caracter&iacute;sticas    compartilhadas com as s&eacute;ries financeiras.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os coeficientes    de autocorrela&ccedil;&atilde;o estimados revelaram um padr&atilde;o previs&iacute;vel    para a m&eacute;dia condicional dos retornos do caf&eacute; e da soja. As autocorrela&ccedil;&otilde;es    estimadas para os retornos quadr&aacute;ticos de ambas as s&eacute;ries tamb&eacute;m    exibem sinais de previsibilidade, uma evid&ecirc;ncia de efeitos ARCH. Para    confirmar as evid&ecirc;ncias de que a volatilidade das s&eacute;ries de retorno    possui um padr&atilde;o ARCH, efetuou-se o teste do tipo multiplicador de Lagrange,    proposto por Engle (1982) nos res&iacute;duos dos modelos AR ajustados para    a m&eacute;dia condicional dos retornos. Os p-valores do teste est&atilde;o    reportados na <a href="#tab3">Tabela 3</a>.</font></p>     <p><a name="tab3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n1/25839t3.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Conforme os p-valores    reportados, o teste para efeitos ARCH de Engle (1982) fornece fortes evid&ecirc;ncias    contra a hip&oacute;tese nula de n&atilde;o haver heterocedasticidade condicional    na volatilidade de ambos os modelos.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com base nestes resultados, ajustou-se uma s&eacute;rie de modelos para a m&eacute;dia condicional de ambas as s&eacute;ries. Para a s&eacute;rie de retornos do caf&eacute;, o melhor modelo foi um AR(1) para todos os modelos da classe ARCH na vari&acirc;ncia, enquanto que para a s&eacute;rie de retornos da soja o melhor modelo foi um AR(1) para os modelos GARCH(1,1), TARCH(1,1) e TARCH(1,2) na vari&acirc;ncia, e um AR(2) incompleto para o modelo EGARCH(1,1). Os erros padr&otilde;es dos par&acirc;metros de ambos os modelos foram estimados pelo procedimento de Newey &amp; West (1987). Assim, s&atilde;o robustos &agrave; heterocedasticidade e autocorrela&ccedil;&atilde;o no processo do res&iacute;duo. Este fato contradiz a hip&oacute;tese de efici&ecirc;ncia dos mercados, no entanto, Issler (1999) coloca que autocorrela&ccedil;&otilde;es esp&uacute;rias podem ocorrer pela falta de com&eacute;rcio cont&iacute;nuo. Posto que os dados possuem freq&uuml;&ecirc;ncia mensal, esta pode ser uma explica&ccedil;&atilde;o para o padr&atilde;o de previsibilidade encontrado para a m&eacute;dia condicional dos retornos.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O passo seguinte foi modelar a volatilidade dos retornos condicionais da soja e do caf&eacute;, levando em considera&ccedil;&atilde;o o padr&atilde;o heteroced&aacute;stico da volatilidade. Isto foi implementado ajustando-se os modelos GARCH, EGARCH e TARCH &agrave; volatilidade dos modelos ajustados para a m&eacute;dia condicional dos retornos. Dado que adotou-se a hip&oacute;tese de normalidade dos res&iacute;duos dos modelos ajustados para a m&eacute;dia condicional dos retornos na estima&ccedil;&atilde;o dos modelos e considerando a evid&ecirc;ncia de n&atilde;o normalidade fornecida pelo teste de Jarque &amp; Bera (1987) para os res&iacute;duos de ambos os modelos (p-valor=0,000), adotou-se a matriz de vari&acirc;ncia-covari&acirc;ncia corrigida proposta por Bollerslev &amp; Wooldridge (1992), no procedimento de estima&ccedil;&atilde;o dos modelos da classe ARCH.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados da    estima&ccedil;&atilde;o para a m&eacute;dia condicional e a volatilidade dos    retornos do caf&eacute; est&atilde;o reportados na <a href="#tab4">Tabela 4</a>.    A soma dos par&acirc;metros <font face="Symbol">a</font><sub>1</sub> e <font face="Symbol">b</font><sub>1</sub>    no modelo GARCH(1,1) foi igual a 0,88, indicando que um choque na s&eacute;rie    dos retornos do caf&eacute; ter&aacute; efeito por v&aacute;rios per&iacute;odos    na volatilidade destes retornos. O modelo EGARCH (1,1) fornece evid&ecirc;ncia    de assimetria na volatilidade dos retornos do caf&eacute;, posto que o coeficiente    do termo <font face="Symbol">e</font><sub>t-1</sub>/<font face="Symbol">s</font><sub>t-1</sub>    mostrou-se significativo aos n&iacute;veis usuais de signific&acirc;ncia. Assim,    choques positivos e negativos t&ecirc;m impacto distinto sobre a volatilidade,    entretanto, n&atilde;o h&aacute; evid&ecirc;ncia do efeito alavancagem. A persist&ecirc;ncia    de choques na volatilidade dos retornos, captada pelo termo ln(<font face="Symbol">s</font><sup>2</sup><sub>t-1</sub>),    foi de 0,97, pr&oacute;xima da captada pelo modelo GARCH (1,1). O modelo TARCH    (1,1) confirma a assimetria evidenciada pelo modelo EGARCH (1,1), posto que    o par&acirc;metro associado ao termo d<sub>t-1.</sub><font face="Symbol">e</font><sup>2</sup><sub>t-1</sub>    mostrou-se significativamente diferente de zero e tamb&eacute;m n&atilde;o fornece    evid&ecirc;ncia do efeito alavancagem. Os indicadores da qualidade do ajuste    mostraram que todos os modelos ajustados tiveram um desempenho bastante adequado.</font></p>     <p><a name="tab4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n1/25839t4.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados da    estima&ccedil;&atilde;o para a m&eacute;dia condicional e a volatilidade dos    retornos da soja est&atilde;o reportados na <a href="#tab5">Tabela 5</a>. O    somat&oacute;rio dos par&acirc;metros <font face="Symbol">a</font><sub>1</sub>    e <font face="Symbol">b</font><sub>1</sub> do modelo GARCH (1,1) foi 0,956,    indicando elevada persist&ecirc;ncia de choques sobre a volatilidade dos retornos    da soja.</font></p>     ]]></body>
+<body><![CDATA[<p><a name="tab5"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n1/25839t5.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A elevada persist&ecirc;ncia    de choques &eacute; confirmada pelo modelo EGARCH (1,1), posto que o coeficiente    estimado do termo ln(<font face="Symbol">s</font><sup>2</sup><sub>t-1</sub>)    foi 0,95. A assimetria de choques sobre a volatilidade &eacute; confirmada tanto    pelo modelo EGARCH (1,1), posto que o coeficiente estimado associado ao termo    <font face="Symbol">e</font><sub>t-1</sub>/<font face="Symbol">s</font><sub>t-1</sub>    mostrou-se significativo, quanto pelo modelo TARCH (1,1), visto que o par&acirc;metro    estimado relacionado ao termo d<sub>t-1.</sub><font face="Symbol">e</font><sup>2</sup><sub>t-1</sub>    mostrou-se significativamente diferente de zero. Novamente, as medidas da qualidade    do ajuste observadas evidenciaram um bom desempenho dos modelos estimados.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados emp&iacute;ricos sugerem que um choque que gere um decl&iacute;nio do pre&ccedil;o e, portanto dos retornos, de tais <i>commodities</i> pode implicar em v&aacute;rios per&iacute;odos de intensa volatilidade nos mercados destas <i>commodities</i> que, por sua vez, podem gerar perdas consider&aacute;veis para os respectivos setores e para a economia, devido &agrave; assimetria, que implica que choques negativos podem ter um impacto maior que choques positivos, e &agrave; persist&ecirc;ncia de choques sugerida pelos modelos estimados (cuja implica&ccedil;&atilde;o &eacute; a de que choques sobre a volatilidade podem levar v&aacute;rios per&iacute;odos para dissiparem-se).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Conforme Swaray (2002), a inadequabilidade de esquemas de estabiliza&ccedil;&atilde;o dos mercados de <i>commodities</i> geralmente implementados por pa&iacute;ses dependentes das receitas provenientes destas <i>commodities</i>, juntamente com a inefici&ecirc;ncia dos acordos internacionais elaborados por institui&ccedil;&otilde;es que congregam os pa&iacute;ses produtores, sugerem o uso de instrumentos de <i>hedging</i> baseados no mercado para o gerenciamento do risco inerente a estes mercados. Esta proposi&ccedil;&atilde;o de pol&iacute;tica &eacute; tamb&eacute;m sugerida pelo Banco Mundial (1999), segundo o qual a facilita&ccedil;&atilde;o do acesso, pelos pa&iacute;ses menos desenvolvidos, aos mercados futuros existentes e o delineamento, quando poss&iacute;vel, de bolsas e instrumentos de mercado apropriados para o <i>hedging</i> do risco das <i>commodities</i> seriam as melhores respostas diante da instabilidade verificada dos pre&ccedil;os das principais <i>commodities</i>. Voituriez (2001) afirma que mercados incompletos, mercados para os quais n&atilde;o &eacute; poss&iacute;vel efetuar <i>hedging</i> para todos os riscos, implicam em inefici&ecirc;ncia. Assim, a obten&ccedil;&atilde;o de mercados completos deveria ser o pr&oacute;ximo passo l&oacute;gico na agenda do com&eacute;rcio global caso objetive-se a efici&ecirc;ncia e para que todos os benef&iacute;cios do livre com&eacute;rcio sejam realizados.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Portanto, do ponto de vista do <i>hedging</i>, a persist&ecirc;ncia e a assimetria sugeridas pelos resultados obtidos fornecem subs&iacute;dios para que instrumentos financeiros, como futuros, op&ccedil;&otilde;es, entre outros, sejam analisados como instrumentos potenciais que podem diminuir a exposi&ccedil;&atilde;o &agrave; volatilidade noticiada e, portanto, ao risco envolvido nos mercados de <i>commodities</i> considerados. Brown et al. (2002) analisaram dados de pre&ccedil;os do caf&eacute; brasileiro &agrave; vista e no mercado futuro, utilizando uma modelagem que envolvia o uso de modelos GARCH e de um vetor auto-regressivo e encontraram evid&ecirc;ncias de que a atividade de <i>hedging</i> baseada em contratos futuros para o caf&eacute; pode ter um impacto positivo no mercado &agrave; vista brasileiro, isto &eacute;, reduzindo as flutua&ccedil;&otilde;es e a volatilidade dos pre&ccedil;os e, portanto, dos retornos no mercado &agrave; vista.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Aguiar et al. (2003) analisaram a efetividade do <i>hedging</i> baseado em contratos futuros para os produtos do complexo soja e reportaram resultados favor&aacute;veis para o mercado de gr&atilde;os, conquanto a baixa liquidez deste mercado. Entretanto, o mesmo n&atilde;o verificou-se para o farelo e &oacute;leo de soja, em que se faz necess&aacute;rio o <i>cross-hedge</i>, posto que n&atilde;o existem contratos futuros dispon&iacute;veis para estes produtos. Os resultados obtidos por Aguiar et al. (2003) s&atilde;o consistentes com a proposi&ccedil;&atilde;o de Voituriez (2001), que postula a necessidade de medidas que levem &agrave; cria&ccedil;&atilde;o de mercados completos.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados ressaltam a necessidade de pol&iacute;ticas que criem, facilitem e estimulem o acesso dos produtores destas <i>commodities</i> a instrumentos de <i>hedging</i> baseados no mercado, uma vez que existem evid&ecirc;ncias de que a utiliza&ccedil;&atilde;o destes instrumentos pode minimizar a exposi&ccedil;&atilde;o &agrave; volatilidade pronunciada destes mercados.</font></p>      ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. Conclus&atilde;o</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste estudo efetuou-se uma an&aacute;lise emp&iacute;rica da volatilidade dos retornos de duas importantes <i>commodities</i> agr&iacute;colas brasileiras, o caf&eacute; e a soja, utilizando modelos da classe ARCH.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados emp&iacute;ricos evidenciaram um comportamento semelhante da volatilidade das duas s&eacute;ries. Tanto a volatilidade dos retornos do caf&eacute; quanto a da soja mostraram fortes sinais de assimetria na volatilidade, indicando que choques negativos e positivos t&ecirc;m impacto diferenciado sobre a volatilidade dos retornos, fatos comprovados pelos modelos GARCH, EGARCH e TARCH gaussianos. Verificou-se que choques sobre ambas as s&eacute;ries tendem a repercutir por longos per&iacute;odos. A situa&ccedil;&atilde;o do mercado cafeeiro nos &uacute;ltimos anos fornece evid&ecirc;ncias a favor deste resultado, pois parece ter havido um choque de oferta positivo que derrubou o pre&ccedil;o. O efeito de tal choque sobre a volatilidade, pelos resultados emp&iacute;ricos, tende a levar v&aacute;rios per&iacute;odos para dissipar-se.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No que tange &agrave;s implica&ccedil;&otilde;es sobre formula&ccedil;&atilde;o de pol&iacute;ticas, os resultados emp&iacute;ricos sugerem que a cria&ccedil;&atilde;o e o fomento da utiliza&ccedil;&atilde;o de instrumentos de <i>hedging</i> baseados no mercado podem ser estrat&eacute;gias adequadas diante da grande volatilidade e persist&ecirc;ncia acentuada de choques sobre a volatilidade verificadas para os retornos destas <i>commodities</i>.</font></p>      <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Refer&ecirc;ncias    Bibliogr&aacute;ficas</b></font></p>      <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">AGUIAR, D. R. D.; LIMA, J. E. &amp; SILVA, A. R. "Hedge com contratos futuros no complexo soja brasileiro: BM&amp;F vs. CBOT", <b>Revista de Economia e Sociologia Rural</b>, v.41, n. 2, p.279-300, 2003.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S0103-2003200500010000700001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BOLLERSLEV, T. "Generalized Autorregressive Conditional Heteroskedasticity", <b>Journal of Econometrics</b>, v.31, p.307-327, 1986.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S0103-2003200500010000700002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BOLLERSLEV, T.; ENGLE, R. F.; NELSON, D. B. ARCH models. In: ENGLE, R. F.; MACFADDEN, D. L. (Ed). <b>Handbook of Econometrics</b>. Amsterdan: North-Holland, 1994. v.4, cap. 49, p.2959-3038.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S0103-2003200500010000700003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BOLLERSLEV, T. &amp; WOOLDRIDGE, J. M. "Quasi-Maximun Likelihood Estimation and Inference in Dynamic Models with Time-Varying Covariances", <b>Econometric Reviews</b>, v.11, n.2, p.143-172, 1992.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0103-2003200500010000700004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BROWN, C. J.; CURCI, R. &amp; TIVELLI, S. W. "Coffee futures trading and cash market volatility", <b>Working Paper</b>, College of Business Administration, University of Texas Pan American, 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S0103-2003200500010000700005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ENGLE, R. F. "Autorregressive Conditional Heteroskedasticity with Estimates of the Variance of United Kingdom Inflation", <b>Econometrica</b>, v.50, n.4, p.987-1007, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0103-2003200500010000700006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HERRMANN, R. "The Effects of Partial International Price Stabilization on the Stability of National Export Earnings", <b>The Developing Economies</b>, v.21, p.207-224, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S0103-2003200500010000700007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ISSLER, J.V. "Estimating and Forecasting the Volatility of Brazilian Finance Series Using ARCH Models", <b>The Brazilian Review of Econometrics</b>, v.19, n.1, p.5-56, 1999.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0103-2003200500010000700008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">JARQUE, C. &amp; BERA, A. "A Test for Normality of Obervations and Regression Residuals", <b>International Statistical Review</b>, v.55, p.163-172, 1987.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0103-2003200500010000700009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MARQUARDT, D. W. "An Algorithm for Least Squares Estimation of Non Linear Parameters", <b>Journal of the Society for Industrial and Applied Mathematics</b>, v.11, p.431-441, 1963.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S0103-2003200500010000700010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NELSON, D. B. "Conditional Heteroskedasticity in Asset Returns: A New Aproach", <b>Econometrica</b>, v.59, p.347-370, 1991.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0103-2003200500010000700011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NEWEY, W. &amp; WEST, K. "A Simple Positive Semi-Definite, Heroskedasticity and Autocorrelation Consistent Covariance Matrix ", <b>Econometrica</b>, v.55, p.703-708, 1987.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S0103-2003200500010000700012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SWARAY, R. B. "Volatility of Primary Commodity Prices: Some Evidence from Agricultural Exports in Sub-Saharan Africa", <b>Discussion Papers in Economics</b>, n.2002/06, University of York, 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0103-2003200500010000700013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TSAY, R. S. <b>The analysis of financial time series</b>. New York: J. WILEY, 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S0103-2003200500010000700014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VOITURIEZ, T. "What explains price volatility changes in commodity markets? Answers from the world palm-oil market", <b>Agricultural Economics,</b> v.25, p.295-301, 2001.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0103-2003200500010000700015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BANCO MUNDIAL. International task force on commodity risk management in developing countries. <b>Final Discussion Paper</b>. The World Bank, Washington, DC, 1999.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S0103-2003200500010000700016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ZAKOIAN, J.M. "Threshold    Heteroskedasticity Models", <b>Journal of Economic Dynamics and Control</b>,    v.18, p.931-955. 1994.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003200500010000700017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back1"></a><a href="#top1">1</a>    Gostar&iacute;amos de agradecer aos pareceristas an&ocirc;nimos cujas cr&iacute;ticas    e sugest&otilde;es melhoraram substancialmente o artigo. O primeiro autor agradece    o financiamento da FAPEMIG e da CAPES.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AGUIAR]]></surname>
+<given-names><![CDATA[D. R. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[A. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Hedge com contratos futuros no complexo soja brasileiro: BM&F vs. CBOT]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2003</year>
+<volume>41</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>279-300</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOLLERSLEV]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Generalized Autorregressive Conditional Heteroskedasticity]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>1986</year>
+<volume>31</volume>
+<page-range>307-327</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOLLERSLEV]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NELSON]]></surname>
+<given-names><![CDATA[D. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[ARCH models]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MACFADDEN]]></surname>
+<given-names><![CDATA[D. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Handbook of Econometrics]]></source>
+<year>1994</year>
+<volume>4</volume>
+<page-range>2959-3038</page-range><publisher-loc><![CDATA[Amsterdan^eNorth-Holland North-Holland]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOLLERSLEV]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WOOLDRIDGE]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Quasi-Maximun Likelihood Estimation and Inference in Dynamic Models with Time-Varying Covariances]]></article-title>
+<source><![CDATA[Econometric Reviews]]></source>
+<year>1992</year>
+<volume>11</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>143-172</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BROWN]]></surname>
+<given-names><![CDATA[C. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CURCI]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TIVELLI]]></surname>
+<given-names><![CDATA[S. W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Coffee futures trading and cash market volatility]]></source>
+<year></year>
+<conf-name><![CDATA[ Working Paper]]></conf-name>
+<conf-date>2002</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Autorregressive Conditional Heteroskedasticity with Estimates of the Variance of United Kingdom Inflation]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1982</year>
+<volume>50</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>987-1007</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HERRMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Effects of Partial International Price Stabilization on the Stability of National Export Earnings]]></article-title>
+<source><![CDATA[The Developing Economies]]></source>
+<year>1983</year>
+<volume>21</volume>
+<page-range>207-224</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ISSLER]]></surname>
+<given-names><![CDATA[J.V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Estimating and Forecasting the Volatility of Brazilian Finance Series Using ARCH Models]]></article-title>
+<source><![CDATA[The Brazilian Review of Econometrics]]></source>
+<year>1999</year>
+<volume>19</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>5-56</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JARQUE]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A Test for Normality of Obervations and Regression Residuals]]></article-title>
+<source><![CDATA[International Statistical Review]]></source>
+<year>1987</year>
+<volume>55</volume>
+<page-range>163-172</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARQUARDT]]></surname>
+<given-names><![CDATA[D. W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An Algorithm for Least Squares Estimation of Non Linear Parameters]]></article-title>
+<source><![CDATA[Journal of the Society for Industrial and Applied Mathematics]]></source>
+<year>1963</year>
+<volume>11</volume>
+<page-range>431-441</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NELSON]]></surname>
+<given-names><![CDATA[D. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Conditional Heteroskedasticity in Asset Returns: A New Aproach]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1991</year>
+<volume>59</volume>
+<page-range>347-370</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEWEY]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEST]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A Simple Positive Semi-Definite, Heroskedasticity and Autocorrelation Consistent Covariance Matrix]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1987</year>
+<volume>55</volume>
+<page-range>703-708</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SWARAY]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Volatility of Primary Commodity Prices: Some Evidence from Agricultural Exports in Sub-Saharan Africa]]></source>
+<year></year>
+<conf-name><![CDATA[2002/06 Discussion Papers in Economics]]></conf-name>
+<conf-date>2002</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TSAY]]></surname>
+<given-names><![CDATA[R. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[J. WILEY]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VOITURIEZ]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[What explains price volatility changes in commodity markets? Answers from the world palm-oil market]]></article-title>
+<source><![CDATA[Agricultural Economics]]></source>
+<year>2001</year>
+<volume>25</volume>
+<page-range>295-301</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="confpro">
+<collab>BANCO MUNDIAL</collab>
+<source><![CDATA[International task force on commodity risk management in developing countries]]></source>
+<year></year>
+<conf-name><![CDATA[ Final Discussion Paper]]></conf-name>
+<conf-date>1999</conf-date>
+<conf-loc>Washington DC</conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZAKOIAN]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threshold Heteroskedasticity Models]]></article-title>
+<source><![CDATA[Journal of Economic Dynamics and Control]]></source>
+<year>1994</year>
+<volume>18</volume>
+<page-range>931-955</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1981-3821</journal-id>
+<journal-title><![CDATA[Brazilian Political Science Review]]></journal-title>
+<abbrev-journal-title><![CDATA[Bras. Political Sci. Rev.]]></abbrev-journal-title>
+<issn>1981-3821</issn>
+<publisher>
+<publisher-name><![CDATA[Associação Brasileira de Ciência Política]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1981-38212017000300202</article-id>
+<article-id pub-id-type="doi">10.1590/1981-3821201700030003</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Politics on the Web: Using Twitter to Estimate the Ideological Positions of Brazilian Representatives]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Souza]]></surname>
+<given-names><![CDATA[Rafael Martins de]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Graça]]></surname>
+<given-names><![CDATA[Luís Felipe Guedes da]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Ralph dos Santos]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Fundação Getulio Vargas  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade Federal de Santa Catarina  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af3">
+<institution><![CDATA[,Universidade Federal do Rio de Janeiro  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2017</year>
+</pub-date>
+<volume>11</volume>
+<numero>3</numero>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1981-38212017000300202&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1981-38212017000300202&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1981-38212017000300202&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[The use of social media has become increasingly widespread among citizens and politicians in Brazil. This means of communication served as a key arena for debate and propaganda during the 2014 legislative and presidential elections, when a very polarized political scenario emerged. New approaches have been developed that use information from the social network structure constructed by political actors on social media platforms, such as Twitter, in order to calculate ideal points. Can data from the decision to 'follow' a profile on Twitter be used to estimate politicians' ideological positions? Can approaches like this show the variance of political positions even within a very fragmented legislative body, such as the Brazilian Chamber of Deputies? This article presents and analyzes the successful application of a Bayesian spatial model developed by Barberá (2015), using data from Brazil. This method allowed to capture differences between parties and political actors similar to those found by means of roll call votes. It also makes possible to calculate ideal points for actors who participate in the public debate, but are not professional politicians.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Bayesian inference]]></kwd>
+<kwd lng="en"><![CDATA[election campaigns]]></kwd>
+<kwd lng="en"><![CDATA[political participation]]></kwd>
+<kwd lng="en"><![CDATA[social media]]></kwd>
+<kwd lng="en"><![CDATA[Brazil]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMES]]></surname>
+<given-names><![CDATA[Barry]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The deadlock of democracy in Brazil (interests, identities, and institutions in comparative politics)]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Michigan ]]></publisher-loc>
+<publisher-name><![CDATA[University of Michigan Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARBERÁ]]></surname>
+<given-names><![CDATA[Pablo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Birds of the same feather tweet together: Bayesian ideal point estimation using twitter data]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2015</year>
+<volume>23</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>76-91</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BEAUCHAMP]]></surname>
+<given-names><![CDATA[Nicholas]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Predicting and interpolating state-level polls using twitter textual data]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2016</year>
+<volume>53</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>107-21</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOND]]></surname>
+<given-names><![CDATA[Robert]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MESSING]]></surname>
+<given-names><![CDATA[Solomon]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Quantifying social media's political space: estimating ideology from publicly revealed preferences on Facebook]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2015</year>
+<volume>109</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>62-78</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BONICA]]></surname>
+<given-names><![CDATA[Adam]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Ideology and interests in the political marketplace]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2013</year>
+<volume>57</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>294-311</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOUTET]]></surname>
+<given-names><![CDATA[Antoine]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KIM]]></surname>
+<given-names><![CDATA[Hyoungshick]]></given-names>
+</name>
+<name>
+<surname><![CDATA[YONEKI]]></surname>
+<given-names><![CDATA[Eiko]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[What's in twitter: I know what parties are popular and who you are supporting now!]]></article-title>
+<source><![CDATA[Social Network Analysis and Mining]]></source>
+<year>2015</year>
+<volume>03</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>1379-91</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CERON]]></surname>
+<given-names><![CDATA[Andrea]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CREMONESI]]></surname>
+<given-names><![CDATA[Alessandra Caterina]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Politicians go social. Estimating intra-party heterogeneity (and its effects) through the analysis of social media]]></source>
+<year>2013</year>
+<conf-name><![CDATA[ NYU La Pietra Dialogues on Social Media and Political Participation]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Florence ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLINTON]]></surname>
+<given-names><![CDATA[Joshua]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JACKMAN]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RIVERS]]></surname>
+<given-names><![CDATA[Douglas]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The statistical analysis of roll call data]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2004</year>
+<volume>98</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>355-70</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CONOVER]]></surname>
+<given-names><![CDATA[Michael D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GONÇALVES]]></surname>
+<given-names><![CDATA[Bruno]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RATKIEWICZ]]></surname>
+<given-names><![CDATA[Jacob]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FLAMMINI]]></surname>
+<given-names><![CDATA[Alessandro]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENCZER]]></surname>
+<given-names><![CDATA[Filippo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Predicting the political alignment of twitter users]]></source>
+<year>2011</year>
+<conf-name><![CDATA[ IEEE Third International Conference on Social Computing (SocialCom)]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Boston ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ECKER]]></surname>
+<given-names><![CDATA[Alejandro]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Estimating policy positions using social network data:]]></article-title>
+<source><![CDATA[Social Science Computer Review]]></source>
+<year>2017</year>
+<volume>35</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>53-67</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FARRELL]]></surname>
+<given-names><![CDATA[Henry]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The consequences of the internet for politics]]></article-title>
+<source><![CDATA[Annual Review of Political Science]]></source>
+<year>2012</year>
+<volume>15</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>35-52</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[Argelina Cheibub]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMONGI]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Executivo e legislativo na nova ordem constitucional]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Editora FGV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GALLAGHER]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Election indices dataset]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GAYO-AVELLO]]></surname>
+<given-names><![CDATA[Daniel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[I Wanted to predict elections with twitter and all I got was this lousy Paper: a balanced survey on election prediction using twitter data]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GROVES]]></surname>
+<given-names><![CDATA[Robert M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Three eras of survey research]]></article-title>
+<source><![CDATA[Public Opinion Quartely]]></source>
+<year>2011</year>
+<volume>75</volume>
+<numero>05</numero>
+<issue>05</issue>
+<page-range>861-71</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HUG]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Selection effects in roll call votes]]></article-title>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2010</year>
+<volume>40</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>225-35</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IMAI]]></surname>
+<given-names><![CDATA[Kosuke]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LO]]></surname>
+<given-names><![CDATA[James]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OLMSTED]]></surname>
+<given-names><![CDATA[Jonathan]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Fast estimation of ideal points with massive data]]></article-title>
+<source><![CDATA[American Political Science Association]]></source>
+<year>2016</year>
+<volume>110</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>631-56</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JACKMAN]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Multidimensional analysis of roll call data via Bayesian simulation: identification, estimation, inference, and model checking]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2001</year>
+<volume>09</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>227-41</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JUNGHERR]]></surname>
+<given-names><![CDATA[Andreas]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JÜRGENS]]></surname>
+<given-names><![CDATA[Pascal]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHOEN]]></surname>
+<given-names><![CDATA[Harald]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Why the pirate party won the German election of 2009 or the trouble with predictions: a response to Tumasjan, A., Sprenger, T. O., Sander, P. G., Welpe, I. M., "Predicting elections with twitter: what 140 characters reveal about political sentiment"]]></article-title>
+<source><![CDATA[Social Science Computer Review]]></source>
+<year>2012</year>
+<volume>30</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>229-34</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KING]]></surname>
+<given-names><![CDATA[Aaron Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ORLANDO]]></surname>
+<given-names><![CDATA[Framk J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SPARKS]]></surname>
+<given-names><![CDATA[David B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ideological extremity and primary success: a social network approach]]></source>
+<year>2011</year>
+<conf-name><![CDATA[ Annual Meeting of the Midwest Political Science Association]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAMPOS]]></surname>
+<given-names><![CDATA[Vasileios]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[On voting intentions inference from twitter content: a case study on UK 2010 general election]]></article-title>
+<source><![CDATA[Technical report]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSENTHAL]]></surname>
+<given-names><![CDATA[Howard]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[D-Nominate after 10 years: a comparative update to congress: a political-economic history of roll-call voting]]></article-title>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>2001</year>
+<volume>26</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>05-29</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSENTHAL]]></surname>
+<given-names><![CDATA[Howard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Congress: a political-economic history of roll call voting]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POWER]]></surname>
+<given-names><![CDATA[Thimothy J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZUCCO JR.]]></surname>
+<given-names><![CDATA[Cesar]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Elite preferences in a consolidating democracy: the brazilian legislative surveys, 1990-2009]]></article-title>
+<source><![CDATA[Latin American Politics and Society]]></source>
+<year>2012</year>
+<volume>54</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>01-27</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUEDIGER]]></surname>
+<given-names><![CDATA[Marco Aurélio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Eleições 2014- comportamentos, valores e expectativas do eleitorado brasileiro]]></source>
+<year>2016</year>
+<volume>05</volume>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV-DAPP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+</name>
+<name>
+<surname><![CDATA[CANELLO]]></surname>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Pontos ideais estimados - (2011-2014)]]></article-title>
+<source><![CDATA[NECON -Núcleo de estudos do congresso]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHUGART]]></surname>
+<given-names><![CDATA[Matthew Soberg]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAREY]]></surname>
+<given-names><![CDATA[John M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Presidents and assemblies: constitutional design and electoral dynamics]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STEPAN]]></surname>
+<given-names><![CDATA[Alfred]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Brazil's decentralized federalism: bringing government closer to the citizens?]]></article-title>
+<source><![CDATA[Daedalus]]></source>
+<year>2000</year>
+<volume>129</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>145-69</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAROUCO]]></surname>
+<given-names><![CDATA[Gabriela da Silva]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Brazilian parties according to their manifestos: political identity and programmatic emphases]]></article-title>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2011</year>
+<volume>05</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>54-76</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAROUCO]]></surname>
+<given-names><![CDATA[Gabriela da Silva]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MADEIRA]]></surname>
+<given-names><![CDATA[Rafael Machado]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Partidos, programas e o debate sobre esquerda e direita no Brasil]]></article-title>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2013</year>
+<volume>21</volume>
+<numero>45</numero>
+<issue>45</issue>
+<page-range>149-65</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TUMASJAN]]></surname>
+<given-names><![CDATA[Andranik]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SPRENGER]]></surname>
+<given-names><![CDATA[Timm O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANDNER]]></surname>
+<given-names><![CDATA[Philipp G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WELPE]]></surname>
+<given-names><![CDATA[Isabell M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Election forecasts with twitter: how 140 characters reflect the political landscape]]></article-title>
+<source><![CDATA[Social Science Computer Review]]></source>
+<year>2011</year>
+<volume>29</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>402-18</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZUCCO JR]]></surname>
+<given-names><![CDATA[Cesar]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Ideology or what? Legislative behavior in multiparty presidential settings]]></article-title>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>2009</year>
+<volume>71</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>1076-92</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZUCCO JR]]></surname>
+<given-names><![CDATA[Cesar]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAUDERDALE]]></surname>
+<given-names><![CDATA[Benjamin E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Distinguishing between influences on Brazilian legislative behavior]]></article-title>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>2011</year>
+<volume>36</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>363-96</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

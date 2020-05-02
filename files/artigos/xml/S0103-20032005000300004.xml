@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032005000300004</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032005000300004</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Economias de escala na produção de frangos de corte no Brasil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Garcia]]></surname>
+<given-names><![CDATA[Luís Alberto Ferreira]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ferreira Filho]]></surname>
+<given-names><![CDATA[Joaquim Bento de Souza]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,USP ESALQ ]]></institution>
+<addr-line><![CDATA[Cascavel PR]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Monash University Departamento de Economia, Administração e Sociologia ESALQ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2005</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2005</year>
+</pub-date>
+<volume>43</volume>
+<numero>3</numero>
+<fpage>465</fpage>
+<lpage>483</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032005000300004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032005000300004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032005000300004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Neste trabalho, estima-se os parâmetros de uma função de custos translog, que se mostrou adequada para representar a estrutura de custos do setor de produção de frangos de corte no Brasil. Os coeficientes encontrados foram utilizados para calcular as economias de escala no setor. Os dados do estudo são de corte transversal, obtidos a partir de pesquisa de campo em uma amostra de 229 avicultores nos principais estados produtores do país. No trabalho são apresentados, também, alguns resultados relativos às características das propriedades da amostra pesquisada, que permitem inferir sobre os resultados encontrados. As estimativas de economias de escala obtidas para o modelo de custos translog apontam uma escala ótima de produção de aproximadamente 110 mil quilos de frango vivo ou 3.500m² de aviário. Conclui-se que o tamanho ótimo da exploração, obtido no trabalho empírico, é menor que o sugerido por algumas empresas de abate do setor. Estas propriedades, com produções superiores, estariam operando com deseconomias, o que poderia ocasionar uma certa pressão dos produtores por uma melhor remuneração da atividade. As evidências sugerem, também, que algumas características da pequena produção podem minimizar a importância destas economias.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[In this paper we estimate the parameters of a translog cost function for the broiler production activity in Brazil, to infer about scale economies in the activity. Cross-section data is used, from a survey of 229 producers in the main producing regions. Other characteristics of the producers surveyed are also discussed. Our estimates of scale economies show an optimal scale of production around 110 thousand kilos of live hens, corresponding to a 3,500 m² plant area. The paper points to the conclusion that the optimal size of exploitation is smaller than that suggested by some processing industries. Larger scale farms would be operating with diseconomies of scale, what could generate pressures for price increases in the future. The evidence suggests also that some small-scale producers characteristics could help minimize the importance of operating under optimal scale.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Frangos de Corte]]></kwd>
+<kwd lng="pt"><![CDATA[Função Custo Translog]]></kwd>
+<kwd lng="pt"><![CDATA[Economias de Escala]]></kwd>
+<kwd lng="pt"><![CDATA[Dualidade]]></kwd>
+<kwd lng="en"><![CDATA[Broilers]]></kwd>
+<kwd lng="en"><![CDATA[Translog Cost Function]]></kwd>
+<kwd lng="en"><![CDATA[Economies of Scale]]></kwd>
+<kwd lng="en"><![CDATA[Duality]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b><a name="top10"></a>Economias    de escala na produ&ccedil;&atilde;o de frangos de corte no Brasil<a href="#back1"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Lu&iacute;s    Alberto Ferreira Garcia<sup>I</sup>; Joaquim Bento de Souza Ferreira Filho<sup>II</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Doutor    em Economia Aplicada pela ESALQ/USP. Professor Adjunto do Colegiado de Ci&ecirc;ncias    Econ&ocirc;micas do Centro de Ci&ecirc;ncias Sociais Aplicadas da UNIOESTE:    Campus de Cascavel/PR. Rua: Terra Roxa, 1425 &#150; Casa: 205. Regi&atilde;o    do Lago II. Cascavel/PR. CEP: 85.816-360. E-mail: <a href="mailto:sgarcia@adslcertto.com.br">sgarcia@adslcertto.com.br</a>;    <a href="mailto:ferreira@unioeste.br">ferreira@unioeste.br</a>    <br>   <sup>II</sup>P&oacute;s-Doutor    pela Monash University, Austr&aacute;lia. Livre Docente do Departamento de Economia,    Administra&ccedil;&atilde;o e Sociologia da ESALQ/USP. Av. P&aacute;dua Dias,    11. Piracicaba/SP. CEP: 13.418-900. E-mail: <a href="mailto:jbsferr@carpa.ciagri.usp.br">jbsferr@carpa.ciagri.usp.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> Neste trabalho,    estima-se os par&acirc;metros de uma fun&ccedil;&atilde;o de custos translog,    que se mostrou adequada para representar a estrutura de custos do setor de produ&ccedil;&atilde;o    de frangos de corte no Brasil. Os coeficientes encontrados foram utilizados    para calcular as economias de escala no setor. Os dados do estudo s&atilde;o    de corte transversal, obtidos a partir de pesquisa de campo em uma amostra de    229 avicultores nos principais estados produtores do pa&iacute;s. No trabalho    s&atilde;o apresentados, tamb&eacute;m, alguns resultados relativos &agrave;s    caracter&iacute;sticas das propriedades da amostra pesquisada, que permitem    inferir sobre os resultados encontrados. As estimativas de economias de escala    obtidas para o modelo de custos translog apontam uma escala &oacute;tima de    produ&ccedil;&atilde;o de aproximadamente 110 mil quilos de frango vivo ou 3.500m<sup>2</sup>    de avi&aacute;rio. Conclui-se que o tamanho &oacute;timo da explora&ccedil;&atilde;o,    obtido no trabalho emp&iacute;rico, &eacute; menor que o sugerido por algumas    empresas de abate do setor. Estas propriedades, com produ&ccedil;&otilde;es    superiores, estariam operando com deseconomias, o que poderia ocasionar uma    certa press&atilde;o dos produtores por uma melhor remunera&ccedil;&atilde;o    da atividade. As evid&ecirc;ncias sugerem, tamb&eacute;m, que algumas caracter&iacute;sticas    da pequena produ&ccedil;&atilde;o podem minimizar a import&acirc;ncia destas    economias.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-Chaves:</b> Frangos de Corte, Fun&ccedil;&atilde;o Custo Translog, Economias de Escala, Dualidade.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Classifica&ccedil;&atilde;o    JEL:</b> D24, Q12</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> In this paper    we estimate the parameters of a translog cost function for the broiler production    activity in Brazil, to infer about scale economies in the activity. Cross-section    data is used, from a survey of 229 producers in the main producing regions.    Other characteristics of the producers surveyed are also discussed. Our estimates    of scale economies show an optimal scale of production around 110 thousand kilos    of live hens, corresponding to a 3,500 m<sup>2</sup> plant area. The paper points    to the conclusion that the optimal size of exploitation is smaller than that    suggested by some processing industries. Larger scale farms would be operating    with diseconomies of scale, what could generate pressures for price increases    in the future. The evidence suggests also that some small-scale producers characteristics    could help minimize the importance of operating under optimal scale.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Keywords:</b>    Broilers, Translog Cost Function, Economies of Scale, Duality.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>JEL Classification:</b>    D24, Q12.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1 Introdu&ccedil;&atilde;o</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A fim de atender uma demanda interna e externa crescente, a produ&ccedil;&atilde;o de frangos de corte, de excepcional desempenho no agroneg&oacute;cio brasileiro, tem se expandido, nos &uacute;ltimos anos, para outros estados do pa&iacute;s al&eacute;m dos tradicionais produtores.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com a reorganiza&ccedil;&atilde;o da base agroindustrial desta cadeia produtiva, principalmente atrav&eacute;s da implanta&ccedil;&atilde;o de modernos projetos av&iacute;colas nos estados da regi&atilde;o Centro-Oeste, surge um novo produtor integrado ao sistema, com perfil diferenciado. Nos estados da regi&atilde;o Sul, principais produtores e exportadores de frango do pa&iacute;s, a produ&ccedil;&atilde;o se deu basicamente em pequenas propriedades e em pequena escala. Por outro lado, a produ&ccedil;&atilde;o em parceria com algumas agroind&uacute;strias de abate, instaladas no Centro-Oeste brasileiro, passa a incorporar produtores com &aacute;reas de terra maiores e com escalas mais significativas de produ&ccedil;&atilde;o, tornando poss&iacute;vel que a capacidade de abate das empresas seja suprida com um n&uacute;mero menor de grandes avicultores.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Justifica-se, assim,    a investiga&ccedil;&atilde;o emp&iacute;rica para determinar o tamanho &oacute;timo    da atividade de produ&ccedil;&atilde;o de frangos de corte, a fim de inferir    sobre a exist&ecirc;ncia ou n&atilde;o de economias de escala no setor. Os &iacute;ndices    de economias de escala s&atilde;o obtidos a partir das estimativas dos par&acirc;metros    de uma fun&ccedil;&atilde;o de custos transcendental logar&iacute;tmica (translog).<a name="top2"></a><a href="#back2"><sup>2</sup></a></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Adicionalmente,    com base nos resultados encontrados para a amostra, procura-se avaliar a possibilidade    dos pequenos avicultores das regi&otilde;es tradicionais serem afetados, diante    da concorr&ecirc;ncia com a produ&ccedil;&atilde;o av&iacute;cola em grande    escala do Centro-Oeste brasileiro.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2 Referencial    te&oacute;rico e metodol&oacute;gico<a name="top3"></a><a href="#back3"><sup>3</sup></a></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O referencial te&oacute;rico deste estudo &eacute; o da teoria microecon&ocirc;mica dos custos de produ&ccedil;&atilde;o e dualidade. Binswanger (1974), Lerda (1979), Silberberg (1990), Chambers (1994), Alves (1996), Barbosa (1995) e Bairam (1998), entre outros, s&atilde;o refer&ecirc;ncias para fun&ccedil;&atilde;o custo e dualidade. Para estimar-se economias de escala na produ&ccedil;&atilde;o de frangos de corte os princ&iacute;pios da "teoria da dualidade" s&atilde;o de grande import&acirc;ncia, ao permitir obter-se estimativas destas economias a partir da fun&ccedil;&atilde;o custo, sem a necessidade de se conhecer diretamente a fun&ccedil;&atilde;o de produ&ccedil;&atilde;o a ela associada.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2.1 A fun&ccedil;&atilde;o custo transcendental logar&iacute;tmica - Translog</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A forma transcendental logar&iacute;tmica (translog) da fun&ccedil;&atilde;o custo &eacute; uma forma funcional flex&iacute;vel, n&atilde;o impondo restri&ccedil;&otilde;es <i>a priori</i> &agrave; fun&ccedil;&atilde;o de produ&ccedil;&atilde;o a ela associada. Segundo Binswanger (1974), as fun&ccedil;&otilde;es de custo translog s&atilde;o atraentes por apresentarem equa&ccedil;&otilde;es de demanda derivadas por fatores de produ&ccedil;&atilde;o lineares nos logaritmos. Para Christensen &amp; Greene (1976), a forma funcional da fun&ccedil;&atilde;o de custos translog &eacute; importante devido ao fato de n&atilde;o impor nenhuma condi&ccedil;&atilde;o &agrave;s possibilidades de substitui&ccedil;&atilde;o entre os fatores de produ&ccedil;&atilde;o e de admitir varia&ccedil;&otilde;es nas economias de escala de acordo com o n&iacute;vel de produ&ccedil;&atilde;o, caracter&iacute;stica essencial para que a curva de custo m&eacute;dio tenha a forma de "U" cl&aacute;ssica.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2.2 Descri&ccedil;&atilde;o das vari&aacute;veis</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os dados utilizados    s&atilde;o de corte transversal (<i>cross section</i>), coletados a partir da    pesquisa realizada de setembro a dezembro de 2002<a name="top4"></a><a href="#back4"><sup>4</sup></a>,    em uma amostra de 229 produtores que mant&eacute;m contratos de parceria com    15 empresas av&iacute;colas brasileiras nos estados do Rio Grande do Sul, Santa    Catarina, Paran&aacute;, Minas Gerais (regi&atilde;o tradicional), Goi&aacute;s,    Mato Grosso e Mato Grosso do Sul (regi&atilde;o de expans&atilde;o).<a name="top5"></a><a href="#back5"><sup>5</sup></a>    A metodologia adotada para determina&ccedil;&atilde;o dos itens constantes da    planilha de custos &eacute;, basicamente, a descrita em Hoffmann (1987) e Buarque    (1991), com as adapta&ccedil;&otilde;es realizadas para o setor, descritas nos    trabalhos de Canever (1997) e Ferreira (1998).</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A an&aacute;lise dos custos de produ&ccedil;&atilde;o foi feita a partir do recebimento dos pintos de um dia pelo produtor at&eacute; a entrega dos frangos vivos para a agroind&uacute;stria. Deve-se observar, no entanto, que como custos do produtor parceiro da agroind&uacute;stria s&atilde;o considerados apenas aqueles que efetivamente s&atilde;o de sua responsabilidade. Ou seja, n&atilde;o s&atilde;o considerados os custos que, por for&ccedil;a do contrato de parceria av&iacute;cola, s&atilde;o de responsabilidade da agroind&uacute;stria como, por exemplo, os pintos de um dia, a ra&ccedil;&atilde;o, os medicamentos, a assist&ecirc;ncia t&eacute;cnica e outros.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os custos considerados foram: capital (K), energia (E), m&atilde;o-de-obra (L) e cama de frango (F), que representam aproximadamente 97% dos custos do produtor. As parcelas de custo dos fatores de produ&ccedil;&atilde;o selecionados foram calculadas dividindo-se as despesas totais com cada um deles pelo custo total da atividade. Os pre&ccedil;os dos fatores foram obtidos diretamente, atrav&eacute;s da pesquisa, ou pela raz&atilde;o entre a despesa com o fator e a quantidade utilizada do mesmo.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os dados apresentados, relativos &agrave;s caracter&iacute;sticas das propriedades nas diferentes regi&otilde;es produtoras, foram obtidos, tamb&eacute;m, a partir dos resultados da pesquisa de campo realizada com os produtores da amostra selecionada.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2.3 Procedimentos de estima&ccedil;&atilde;o</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O procedimento de estima&ccedil;&atilde;o utilizado segue o descrito em Greene (2000, p.630 a 644), calculando-se conjuntamente a fun&ccedil;&atilde;o custo total translog e as equa&ccedil;&otilde;es de parcelas de custo como um sistema de "regress&atilde;o multivariada". Segundo o autor, a estimativa conjunta das fun&ccedil;&otilde;es de custo total translog e de parcelas de custo, resultam em par&acirc;metros mais eficientes do que aqueles que seriam obtidos aplicando-se M&iacute;nimos Quadrados Ordin&aacute;rios (M.Q.O.) para a fun&ccedil;&atilde;o custo sozinha. Esta metodologia foi utilizada em trabalhos como os de Christensen &amp; Greene (1976), Ray (1982) e Albuquerque (1987), entre outros. Assume-se que os erros t&ecirc;m distribui&ccedil;&atilde;o normal e s&atilde;o aditivos para cada uma das equa&ccedil;&otilde;es de parcela de custos e para a fun&ccedil;&atilde;o custo.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para tornar o modelo operacional, imp&otilde;em-se as restri&ccedil;&otilde;es te&oacute;ricas de simetria e homogeneidade atrav&eacute;s da normaliza&ccedil;&atilde;o da fun&ccedil;&atilde;o custo total translog. O problema da singularidade da matriz de vari&acirc;ncia e covari&acirc;ncia dos erros das equa&ccedil;&otilde;es de parcela de custos &eacute; equacionado deixando-se de fora a equa&ccedil;&atilde;o de parcela de custos de um dos fatores de produ&ccedil;&atilde;o. Estima-se, assim, o restante do sistema e obt&ecirc;m-se os par&acirc;metros exclu&iacute;dos por diferen&ccedil;a. Em princ&iacute;pio, &eacute; irrelevante qual o fator &eacute; escolhido como aquele a ser exclu&iacute;do. Segundo Greene (2000), os par&acirc;metros obtidos ser&atilde;o invariantes em rela&ccedil;&atilde;o &agrave; equa&ccedil;&atilde;o a ser suprimida deixando-se interagir as estimativas por M&iacute;nimos Quadrados Generalizados (M.Q.G.) ou estimando-se o modelo por M&aacute;xima Verossimilhan&ccedil;a. Neste sentido, computam-se estimativas de M&aacute;xima Verossimilhan&ccedil;a dos par&acirc;metros para assegurar a invari&acirc;ncia com respeito &agrave; escolha da equa&ccedil;&atilde;o de parcela de custos a ser deixada de fora do modelo.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Considerando-se    as estimativas do modelo obtidas por M&aacute;xima Verossimilhan&ccedil;a, pode-se    testar as hip&oacute;teses de homoteticidade, homogeneidade e de elasticidade    de substitui&ccedil;&atilde;o unit&aacute;ria da fun&ccedil;&atilde;o de produ&ccedil;&atilde;o,    usando-se o teste de "raz&atilde;o de verossimilhan&ccedil;a" (<i>likelihood    ratio test</i>). Especificando-se os determinantes das estimativas restritas    (R) e irrestritas (U) da matriz de vari&acirc;ncias e covari&acirc;ncias dos    erros por <img src="/img/revistas/resr/v43n3/27742s1.GIF" align="absmiddle"> e <img src="/img/revistas/resr/v43n3/27742s2.gif" align="absmiddle">,    respectivamente, pode-se definir a rela&ccedil;&atilde;o de probabilidade como    sendo: (Christensen &amp; Greene, 1976 e Greene, 2000).</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742x1.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Onde <i>T</i> &eacute; o n&uacute;mero de firmas (observa&ccedil;&otilde;es).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Testa-se estas    hip&oacute;teses usando-se o fato que -2 ln <font face="Symbol">l</font> &eacute;    assintoticamente distribu&iacute;do com distribui&ccedil;&atilde;o de qui-quadrado    com graus de liberdade iguais ao n&uacute;mero de restri&ccedil;&otilde;es independentes    que s&atilde;o impostas.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>4.4 Estimativa do modelo</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Define-se <i>i</i>    e <i>j</i> como os fatores de produ&ccedil;&atilde;o capital (K), energia (E),    m&atilde;o-de-obra (L) e cama de frango (F). S<sub>K</sub>, S<sub>E</sub> e    S<sub>L</sub>, e S<sub>F</sub> referem-se &agrave;s parcelas de gastos com capital,    energia, trabalho e cama de frango respectivamente. <i>Y</i> &eacute; o valor    da produ&ccedil;&atilde;o de frangos vivos (em kg). <i>P<sub>K</sub> P<sub>E</sub></i>,    <i>P<sub>L</sub></i>, <i>P<sub>F</sub></i> s&atilde;o os pre&ccedil;os    dos insumos (em R$).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As restri&ccedil;&otilde;es de homogeneidade linear e as de simetria, s&atilde;o incorporadas ao sistema atrav&eacute;s da normaliza&ccedil;&atilde;o das equa&ccedil;&otilde;es pelo pre&ccedil;o do insumo cama de frango (F).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como a soma das    parcelas dos gastos com os fatores capital, energia, trabalho e cama de frango    &eacute; igual &agrave; unidade (<i>S<sub>K</sub> + S<sub>E</sub> + </i>S<sub><i>L</i></sub>    + <i>S<sub>F</sub> = </i>1), suprime-se a equa&ccedil;&atilde;o    da parcela de gastos com cama de frango para evitar uma matriz de covari&acirc;ncia    singular. Desta forma, o modelo a ser estimado, por M&aacute;xima Verossimilhan&ccedil;a,    com as restri&ccedil;&otilde;es impostas, fica composto do seguinte conjunto    de equa&ccedil;&otilde;es:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742x2.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os par&acirc;metros    restantes s&atilde;o calculados por diferen&ccedil;a, de acordo com as express&otilde;es:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742x6.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3 Resultados    e discuss&atilde;o</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>3.1 Par&acirc;metros estimados</i></b></font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Economias de escala    podem ser convenientemente medidas com o modelo de custo transcendental logar&iacute;tmico.    A diferencia&ccedil;&atilde;o da fun&ccedil;&atilde;o custo translog resulta    na estima&ccedil;&atilde;o direta da express&atilde;o da elasticidade de custos    em rela&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o (<i>EC</i>*). A partir    deste resultado, obt&eacute;m-se os &iacute;ndices de economia de escala (IES)    subtraindo-se <i>EC</i>* da unidade.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Considera-se, no    estudo, al&eacute;m do modelo de custos translog (modelo A) mais quatro modelos:    O modelo B imp&otilde;e homoteticidade &agrave; fun&ccedil;&atilde;o de produ&ccedil;&atilde;o    associada; o modelo C, homogeneidade; o modelo D imp&otilde;e elasticidade de    substitui&ccedil;&atilde;o unit&aacute;ria e o modelo E, homogeneidade e elasticidade    de substitui&ccedil;&atilde;o unit&aacute;ria. As f&oacute;rmulas para os &iacute;ndices    de economias de escala (IES), para cada modelo s&atilde;o apresentadas na <a href="#tab1">Tabela    1</a>.</font></p>     <p><a name="tab1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742t1.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na <a href="#tab2">Tabela    2</a> apresentam-se os par&acirc;metros obtidos, por m&aacute;xima verossimilhan&ccedil;a,    para os cinco modelos considerados. O modelo completo, translog (A), resultou    na estimativa direta de 15 coeficientes, 13 deles estatisticamente diferentes    de zero ao n&iacute;vel de signific&acirc;ncia de 1% e 2 deles ao n&iacute;vel    de signific&acirc;ncia de 20%. Atrav&eacute;s da imposi&ccedil;&atilde;o das    restri&ccedil;&otilde;es de simetria e homogeneidade, foram calculados os 6    (seis) par&acirc;metros restantes do modelo sendo, 4 significativos a 1%, 1    a 10% e 1 a 20%.</font></p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742t2.gif"></p>      ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As estat&iacute;sticas    <i>t</i> para os par&acirc;metros de n&atilde;o homoteticidade (<font face="Symbol">g</font><i><sub>iY</sub></i>)    e elasticidade de substitui&ccedil;&atilde;o unit&aacute;ria (<font face="Symbol">g</font><i><sub>ij</sub></i>)    para o modelo A (translog) sugerem que, nem a hip&oacute;tese de homoteticidade    nem a de elasticidade de substitui&ccedil;&atilde;o unit&aacute;ria s&atilde;o    consistentes com o conjunto de dados.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esta suposi&ccedil;&atilde;o    &eacute; confirmada pelo teste de "raz&atilde;o de verossimilhan&ccedil;a" (<i>likelihood    ratio test</i>), que tem seus resultados apresentados na <a href="#tab3">Tabela    3</a>. As estat&iacute;sticas do teste <font face="Symbol">c</font><sup>2</sup>    de para os modelos B, C, D e E nos sugerem a rejei&ccedil;&atilde;o estat&iacute;stica    das hip&oacute;teses realizadas com respeito &agrave; fun&ccedil;&atilde;o de    produ&ccedil;&atilde;o de: homoteticidade, homogeneidade, elasticidade de substitui&ccedil;&atilde;o    unit&aacute;ria e homogeneidade com elasticidade de substitui&ccedil;&atilde;o    unit&aacute;ria.</font></p>     <p><a name="tab3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742t3.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Desta forma, pode-se concluir que o modelo de custos translog (modelo A) &#150; que permite n&atilde;o homoteticidade, n&atilde;o homogeneidade e elasticidades de substitui&ccedil;&atilde;o n&atilde;o unit&aacute;ria &agrave; estrutura de produ&ccedil;&atilde;o associada &#150; &eacute; o mais adequado para representar a estrutura de custos do setor de produ&ccedil;&atilde;o de frangos de corte no Brasil. Verifica-se, assim, para este modelo, as condi&ccedil;&otilde;es que a fun&ccedil;&atilde;o custo t&ecirc;m que satisfazer para corresponder a estruturas de produ&ccedil;&atilde;o bem-comportadas de, monotonicidade e convexidade nos pre&ccedil;os dos fatores.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A monotonicidade da fun&ccedil;&atilde;o &eacute; comprovada pelo comportamento das parcelas de custos, calculadas pela m&eacute;dia aritm&eacute;tica da amostra, que se apresentam todas positivas: SK = 0,4083; SE = 0,1685; SL = 0,3346 e SF = 0,0886.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os sinais das elasticidades-pre&ccedil;o    diretas da demanda por fatores (<font face="Symbol">h</font><i><sub>i</sub></i>),    bem como os das elasticidades de substitui&ccedil;&atilde;o parcial de Allen    diretas (<font face="Symbol">s</font><i><sub>i</sub></i>), foram todos negativos    (<a href="#tab4">Tabela 4</a>), o que significa que a concavidade da fun&ccedil;&atilde;o    custos tamb&eacute;m foi atendida.</font></p>     ]]></body>
+<body><![CDATA[<p><a name="tab4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742t4.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>3.2 &Iacute;ndices de economias de escala para a amostra de produtores</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Estimativas de    economias de escala (IES) podem ser calculadas para cada produtor individualmente,    ao n&iacute;vel observado de produ&ccedil;&atilde;o e pre&ccedil;os de fatores,    atrav&eacute;s das f&oacute;rmulas da <a href="#tab1">Tabela 1</a>. Adota-se,    no entanto, o procedimento descrito em Christensen &amp; Greene (1976) e divide-se    a amostra dos produtores em grupos, de acordo com o n&iacute;vel de produ&ccedil;&atilde;o.    Optou-se por dividir a amostra em seis grupos. Os IES s&atilde;o calculados    para a m&eacute;dia de produ&ccedil;&atilde;o e pre&ccedil;os de cada grupo    como segue: 1) produ&ccedil;&atilde;o m&eacute;dia de 18,58 mil quilos de frango    vivo; 2) 37,16 mil quilos; 3) 55,74 mil quilos; 4) 92,89 mil quilos; 5)198,16    mil quilos e 6) produ&ccedil;&atilde;o m&eacute;dia de 297,24 mil quilos. Na    <a href="#tab5">Tabela 5</a> apresentam-se os resultados dos IES para a m&eacute;dia    dos grupos. A fim de possibilitar compara&ccedil;&otilde;es, s&atilde;o calculados    os IES para todos os modelos considerados.</font></p>     <p><a name="tab5"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742t5.gif"></p>     <p>&nbsp;</p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os IES para os modelos C e E &#150; que imp&otilde;em homogeneidade &agrave; fun&ccedil;&atilde;o de produ&ccedil;&atilde;o &#150; s&atilde;o constantes para todos os n&iacute;veis de produto. Segundo Christensen &amp; Greene (1976), este resultado deixa a err&ocirc;nea impress&atilde;o que h&aacute; economias de escala significativas para todos os tamanhos de planta. N&atilde;o obstante, os modelos n&atilde;o homog&ecirc;neos indicam que as economias de escala se esgotam dentro dos n&iacute;veis de produ&ccedil;&atilde;o da amostra, passando algumas plantas a apresentarem deseconomias. Para os modelos A, B e D observa-se que, como esperado, as economias de escala diminuem com o aumento da produ&ccedil;&atilde;o. As estimativas de IES para estes modelos s&atilde;o muito similares. O efeito da imposi&ccedil;&atilde;o de homoteticidade sobre a fun&ccedil;&atilde;o custos translog do modelo A faz com que os IES sejam ligeiramente superiores, enquanto a imposi&ccedil;&atilde;o de elasticidade de substitui&ccedil;&atilde;o unit&aacute;ria reduz o &iacute;ndice.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o modelo de custos translog (A), verifica-se que produtores com n&iacute;vel de produ&ccedil;&atilde;o de 198,16 mil quilos apresentam deseconomias de escala bastante acentuadas, que se agravam quando a produ&ccedil;&atilde;o aumenta para 297,24 mil quilos.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Eacute; interessante verificar os resultados encontrados para os IES do modelo A, considerando-se o tamanho da planta, em m<sup>2</sup> (metro quadrado) de avi&aacute;rio, que corresponde &agrave; produ&ccedil;&atilde;o m&eacute;dia especificada. Dado um peso m&eacute;dio de 2,3Kg e uma densidade m&eacute;dia de 13,7 frangos por metro quadrado, tem-se para os estratos considerados o equivalente a 600m<sup>2</sup> de capacidade de alojamento na propriedade para o primeiro estrato, 1.200m<sup>2</sup> para o segundo, 1.800m<sup>2</sup> para o terceiro, 3.000m<sup>2</sup> para o quarto estrato, 6.400m<sup>2</sup> para produ&ccedil;&atilde;o do quinto estrato e 9.600m<sup>2</sup> para o sexto e &uacute;ltimo estrato. Assim, conforme sugerem os resultados do modelo estimado, verifica-se que propriedades com 6.400m<sup>2</sup> de avi&aacute;rio ou metragem superior apresentam deseconomias de escala, dentro da amplitude da amostra.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>3.3 Curva de custo m&eacute;dio para a amostra de produtores de frango</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Utilizam-se os    par&acirc;metros do modelo estimado para construir a curva de custo m&eacute;dio    da amostra de dados (<a href="#fig1">Figura 1</a>). A curva de custo m&eacute;dio    &eacute; derivada avaliando-se sua fun&ccedil;&atilde;o para uma gama de produ&ccedil;&otilde;es,    mantendo-se os pre&ccedil;os dos fatores fixos na m&eacute;dia da amostra.</font></p>     <p><a name="fig1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27742f1.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Observa-se que a curva de custo m&eacute;dio correspondente ao modelo translog, apresenta a forma cl&aacute;ssica de U, com os custos decrescendo com o n&iacute;vel de produ&ccedil;&atilde;o at&eacute; um ponto de m&iacute;nimo, quando ent&atilde;o os custos m&eacute;dios passam a ser crescentes. A escala &oacute;tima de produ&ccedil;&atilde;o ocorre quando se obt&eacute;m retornos constantes &agrave; escala, ou seja, quando o produtor est&aacute; operando no ponto de custo m&iacute;nimo da curva de custo m&eacute;dio. Al&eacute;m deste ponto tem-se deseconomias e o produtor passa a operar no ramo crescente da curva de custo m&eacute;dio.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Observa-se, pela    <a href="#fig1">Figura 1</a>, que o ponto de m&iacute;nimo custo corresponde    a uma produ&ccedil;&atilde;o de aproximadamente 110 mil quilos de frango vivo.    Considerando-se mais uma vez o peso m&eacute;dio de 2,3kg e uma densidade de    aproximadamente 13,7 aves por m<sup>2</sup>, tem-se a escala &oacute;tima de    produ&ccedil;&atilde;o em propriedades que possuem 3.500m<sup>2</sup> de avi&aacute;rio    aproximadamente. Al&eacute;m desta capacidade de produ&ccedil;&atilde;o, haveria    deseconomias de escala.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5 Conclus&otilde;es</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A amostra de produtores de frango pesquisada representou bem as realidades regionais, com o predom&iacute;nio de produtores com pequenas propriedades e menor capacidade produtiva no Sul do pa&iacute;s e Minas Gerais e produtores com propriedades maiores e n&iacute;veis de produ&ccedil;&atilde;o mais elevados nos estados do Centro-Oeste brasileiro. Nas regi&otilde;es Oeste do Paran&aacute; e no Tri&acirc;ngulo Mineiro (regi&otilde;es tradicionais produtoras de soja e milho) encontramos os produtores com maiores &aacute;reas de terra e com as maiores capacidades de alojamento de aves da amostra da regi&atilde;o tradicional. No Centro-Oeste, os produtores visitados no Estado do Mato Grosso do Sul foram os que apresentaram menores &aacute;reas de terra e menores estratos de capacidade de produ&ccedil;&atilde;o de frangos de corte, enquanto os produtores pesquisados do Estado de Goi&aacute;s foram os que apresentaram os maiores estratos de capacidade de produ&ccedil;&atilde;o da regi&atilde;o.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Verificou-se, na pesquisa de campo realizada, que 24,7% das propriedades da amostra da regi&atilde;o Sul e Minas Gerais possuem at&eacute; 840m<sup>2</sup> de avi&aacute;rio e 63,1% at&eacute; 1.350m<sup>2</sup>; com possibilidades, portanto, de redu&ccedil;&atilde;o do custo m&eacute;dio com a amplia&ccedil;&atilde;o do n&iacute;vel de opera&ccedil;&atilde;o, aproveitando as economias de escala dispon&iacute;veis. Destaca-se que, nessa regi&atilde;o, apenas 6,8% dos produtores pesquisados possu&iacute;am de 3.000m<sup>2</sup> a 3.700m<sup>2</sup> de avi&aacute;rios na propriedade (bem pr&oacute;ximo, portanto, do ponto limite de esgotamento das economias de escala) e apenas 2% tinham mais de 3.700 m<sup>2</sup> de avi&aacute;rio (trabalhando, portanto, na faixa das deseconomias de escala).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A amostra pesquisada poderia sugerir que, na regi&atilde;o tradicional, a amplia&ccedil;&atilde;o da produ&ccedil;&atilde;o na maioria das propriedades poderia levar a um melhor aproveitamento das economias de escala. Conclui-se por&eacute;m, com base na amostra, que h&aacute; na regi&atilde;o tradicional, dificuldades na amplia&ccedil;&atilde;o da produ&ccedil;&atilde;o na grande maioria das propriedades produtoras, dado os fatores limitantes de &aacute;rea e m&atilde;o-de-obra. Uma exce&ccedil;&atilde;o seria a regi&atilde;o Oeste do Paran&aacute; e na regi&atilde;o do Tri&acirc;ngulo Mineiro, nas quais encontramos avicultores com &aacute;reas de terra maiores.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na regi&atilde;o Centro-Oeste, por sua vez, 24,1% da amostra dos produtores pesquisados possuem de 900 a 1.350m<sup>2</sup> de avi&aacute;rios na propriedade, 15,7% de 1.400 a 2.000m<sup>2</sup>, 21,7% de 2.100 a 2.700m<sup>2</sup>, 10,8% de 3.000 a 3.700m<sup>2</sup> e 20,5% de 6.000 a 6.400m<sup>2</sup>. No total da amostra da regi&atilde;o 72,3% dos produtores pesquisados tem at&eacute; 3.700m<sup>2</sup> de avi&aacute;rios na propriedade. Isto significa que 27,7% da amostra de produtores da regi&atilde;o trabalham na faixa das deseconomias. Operando com rendimentos decrescentes de escala, estes produtores poderiam exercer uma certa press&atilde;o por melhores remunera&ccedil;&otilde;es para a atividade, por parte da agroind&uacute;stria parceira. Al&eacute;m do mais, a pr&oacute;pria estrutura da produ&ccedil;&atilde;o em parceria, implantada nos novos projetos do Centro-Oeste brasileiro, composta por um pequeno n&uacute;mero de grandes produtores, exp&otilde;e a agroind&uacute;stria e fortalece os produtores, em termos de negocia&ccedil;&atilde;o de pre&ccedil;os.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Destaca-se que, no c&aacute;lculo dos &iacute;ndices de economia de escala encontrados, leva-se em conta os custos de produ&ccedil;&atilde;o que efetivamente s&atilde;o do produtor, por for&ccedil;a de contrato. N&atilde;o sendo inclu&iacute;dos, portanto, os custos com ra&ccedil;&atilde;o e pintos de um dia e os seus correspondentes custos de transporte, que s&atilde;o de responsabilidade da agroind&uacute;stria. Acredita-se que, se estes custos fossem de responsabilidade do produtor, os resultados encontrados poderiam indicar economias de escala significativas para plantas ainda maiores, dado que, teoricamente, ter-se-iam ganhos em termos de redu&ccedil;&atilde;o de custos, devido &agrave;s dist&acirc;ncias maiores na regi&atilde;o produtora do Centro-Oeste brasileiro. Cabe observar, tamb&eacute;m, que os maiores produtores de frangos do Centro-Oeste, que fizeram altos investimentos em instala&ccedil;&otilde;es de avi&aacute;rios, receberam pre&ccedil;os mais elevados por ave produzida do que os estratos menores da regi&atilde;o tradicional, o que pode ter compensado, em parte, as perdas decorrentes do tamanho.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As empresas, na regi&atilde;o de expans&atilde;o, estimulam a produ&ccedil;&atilde;o em escalas maiores que a &oacute;tima estimada (em um dos projetos av&iacute;colas implantados na regi&atilde;o, a empresa opta por n&uacute;cleos de produ&ccedil;&atilde;o com at&eacute; 6.400m<sup>2</sup> de avi&aacute;rio), muito provavelmente devido &agrave;s dist&acirc;ncias relativamente maiores entre as propriedades e a agroind&uacute;stria. N&uacute;cleos de produ&ccedil;&atilde;o maiores facilitariam a log&iacute;stica de assist&ecirc;ncia t&eacute;cnica e veterin&aacute;ria, bem como do abastecimento de ra&ccedil;&atilde;o e pintos de um dia. Por outro lado, os avicultores entram no sistema de parceria com a agroind&uacute;stria fazendo os investimentos necess&aacute;rios &agrave; produ&ccedil;&atilde;o em n&uacute;cleos maiores que o &oacute;timo, convencidos de uma rentabilidade que seja satisfat&oacute;ria para a atividade e compensem os investimentos. Al&eacute;m disto, outros incentivos atraem os produtores da regi&atilde;o Centro-Oeste para o sistema de produ&ccedil;&atilde;o em parceria av&iacute;cola, nas escalas sugeridas pelas agroind&uacute;strias: primeiro, a facilidade (como no caso dos novos projetos av&iacute;colas) de aquisi&ccedil;&atilde;o do capital financeiro necess&aacute;rio &agrave; montagem dos n&uacute;cleos produtivos, com garantias da agroind&uacute;stria parceira e com prazos e juros atrativos; segundo, a possibilidade de utiliza&ccedil;&atilde;o do res&iacute;duo org&acirc;nico da atividade (cama de frango) na aduba&ccedil;&atilde;o das planta&ccedil;&otilde;es da regi&atilde;o.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Avalia-se que os produtores s&atilde;o atra&iacute;dos e adquirem estas linhas de cr&eacute;dito para instala&ccedil;&atilde;o dos n&uacute;cleos produtivos, dado que os custos de oportunidade para a aquisi&ccedil;&atilde;o do capital s&atilde;o quase nulos. Ou seja, os recursos e as condi&ccedil;&otilde;es de capta&ccedil;&atilde;o dos mesmos s&atilde;o espec&iacute;ficos para a entrada na atividade. Assim o valor real do custo do capital fica "pouco vis&iacute;vel" ao produtor. &Eacute; importante destacar que, os custos ser&atilde;o mais vis&iacute;veis (portanto melhor avaliados), quanto maior o seu custo de oportunidade.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados emp&iacute;ricos    sugerem que as pequenas propriedades da regi&atilde;o tradicional n&atilde;o    est&atilde;o aproveitamento todas as economias de escala poss&iacute;veis. Apesar    disso, alguns fatores, dentre outros, s&atilde;o determinantes para minimizar    esta desvantagem em rela&ccedil;&atilde;o &agrave; maior produ&ccedil;&atilde;o    e para a manuten&ccedil;&atilde;o destas propriedades na atividade: (1) a longa    experi&ecirc;ncia dos produtores na atividade, que se reflete em um melhor manejo    na produ&ccedil;&atilde;o; (2) o fato, captado na pesquisa, da renda proveniente    da atividade de produ&ccedil;&atilde;o de frangos representar um percentual    significativo da renda total do propriet&aacute;rio. Esta quest&atilde;o geraria    uma certa subordina&ccedil;&atilde;o do pequeno produtor a agroind&uacute;stria,    o que ocasionaria uma predisposi&ccedil;&atilde;o de aceitar remunera&ccedil;&otilde;es    menores pelo lote de frango; (3) a maior densidade de ind&uacute;strias e de    produtores na regi&atilde;o tradicional. O investimento em plantas industriais    de abate e em avi&aacute;rios &eacute; elevado. Dado a especificidade dos ativos    produtivos, os custos de sa&iacute;da da atividade s&atilde;o, da mesma forma,    altos (tanto para o produtor quanto para a ind&uacute;stria); (4) devido &agrave;    grande densidade de pequenos produtores produzindo em pequenas propriedades,    as agroind&uacute;strias parceiras tem facilidade no planejamento log&iacute;stico    da distribui&ccedil;&atilde;o da ra&ccedil;&atilde;o e dos pintos de um dia,    bem como da assist&ecirc;ncia t&eacute;cnica e veterin&aacute;ria, que s&atilde;o    feitos por &aacute;reas de produ&ccedil;&atilde;o; (5) os sistemas cooperativos,    consolidados na regi&atilde;o, que incentivam a atividade e, em alguns casos,    remuneram melhor o produtor, inclusive com distribui&ccedil;&atilde;o de sobras    financeiras; (6) a proximidade, da regi&atilde;o produtora tradicional, dos    portos mar&iacute;timos, dado que uma significativa parcela da produ&ccedil;&atilde;o    dos estados do Sul e de MG &eacute; destinada &agrave; exporta&ccedil;&atilde;o.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Refer&ecirc;ncias    bibliograficas</b></font></p>      <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALBUQUERQUE, M.C.C. de. Uma an&aacute;lise translog sobre mudan&ccedil;a tecnol&oacute;gica e efeitos de escala: Um caso de moderniza&ccedil;&atilde;o eficiente. <b>Pesquisa e Planejamento Econ&ocirc;mico,</b> v.1, n.17, p.191-220, abr. 1987.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000106&pid=S0103-2003200500030000400001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALVES, E. <b>A fun&ccedil;&atilde;o Custo</b>. Bras&iacute;lia: EMBRAPA-SPI, 1996. 106p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000107&pid=S0103-2003200500030000400002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BAIRAM, E.I. (Ed.). <b>Production and cost functions:</b> Specification, measurement and applications. Vermont: Ashgate publishing ltd, 1998. 132p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000108&pid=S0103-2003200500030000400003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BARBOSA, F. de H. <b>Microeconomia: Teoria, modelos econom&eacute;tricos e aplica&ccedil;&otilde;es &agrave; economia brasileira</b>. Rio de Janeiro: IPEA/INPES, 1995. 556p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000109&pid=S0103-2003200500030000400004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BERNDT, E.R.; WOOD D.O. Thechnology, prices and the derived demand for energy. <b>The Review of Economics and Statistics,</b> v.LVII, n.3, p.259-268, Aug. 1975.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S0103-2003200500030000400005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BINSWANGER, H.P. A cost function approach to the measurement of elasticities of factor demand and elasticities of substitution. <b>American Journal of agricultural Economics</b>, v.56, p.377-386, May. 1974.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S0103-2003200500030000400006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BUARQUE, C. <b>Avalia&ccedil;&atilde;o econ&ocirc;mica de projetos</b>. Rio de Janeiro: Campus, 1991. 266p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S0103-2003200500030000400007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CANEVER, M.D. Competitividade relativa entre as cadeias de carne de frango Brasileira e Argentina. Vi&ccedil;osa, 1997. 134p. Disserta&ccedil;&atilde;o (Mestrado) - UFV.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0103-2003200500030000400008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CHAMBERS, R.G. <b>Applied production analysis: A dual approach</b>. New York, Cambridge University Press, 1994. 331p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S0103-2003200500030000400009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CHRISTENSEN, L.R.; GREENE, W.H. Economies of scale in U.S. electric power generation. <b>Journal of Political Economy,</b> v.84, n.4, p. 655-676, 1976.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0103-2003200500030000400010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FERREIRA, A.A. Caracter&iacute;sticas dos sistemas de produ&ccedil;&atilde;o, efici&ecirc;ncia econ&ocirc;mica e economias de escala na produ&ccedil;&atilde;o de frangos de corte no Estado de Minas Gerais. Vi&ccedil;osa, 1998. 140p. Disserta&ccedil;&atilde;o (Mestrado) - UFV.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S0103-2003200500030000400011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GREENE, W.H. <b>Econometric Analysis</b>. 4th ed. New Jersey: Prentice-Hall, 2000. 1.004p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0103-2003200500030000400012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GARCIA, L. A. F. Economias de escala na produ&ccedil;&atilde;o de frangos de corte no Brasil. Piracicaba, 2004. 114p. Tese (Doutorado) - Escola Superior de Agricultura "Luiz de Queiroz", Universidade de S&atilde;o Paulo.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0103-2003200500030000400013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HOFFMANN, R.; ENGLER, J.J. de C.; SERRANO, O. et al. <b>Administra&ccedil;&atilde;o da empresa agr&iacute;cola</b>. 2ª ed. S&atilde;o Paulo: Pioneira, 1987. 325p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S0103-2003200500030000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LERDA, J.C. Resultados b&aacute;sicos na teoria da dualidade: vantagens e alguns usos em microeconomia. <b>Estudos Econ&ocirc;micos</b>, v.9, n.1, p.101&#150;133, jan./abr. 1979.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0103-2003200500030000400015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MARTINS, S.S. Situa&ccedil;&atilde;o e perspectivas da avicultura paulista. <b>Informa&ccedil;&otilde;es Econ&ocirc;micas,</b> v.32, n.6, p.74&#150;77, Jun. 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S0103-2003200500030000400016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RAY, S.C. A translog cost function analysis of U.S agriculture, 1939-77. <b>American Journal of Agricultural Economics,</b> v.56, p: 490&#150;498, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0103-2003200500030000400017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">REIS, R.P.; TEIXEIRA, E.C. estrutura de demanda e substitui&ccedil;&atilde;o de fatores produtivos na pecu&aacute;ria leiteira: o modelo de custo translog. <b>Revista Brasileira de Economia</b>, v.49, n.3, p.545-554, jul./set. 1995.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S0103-2003200500030000400018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ROCHELLE, T.C.P.; FERREIRA FILHO, J.B. de S. Fun&ccedil;&atilde;o custo translog e o mercado de fatores para o algod&atilde;o no Estado de S&atilde;o Paulo: O caso da DIRA de Campinas. <b>Revista de Economia e Sociologia Rural</b>, v.37, n.2, p.77-95, abr./jun. 1999.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0103-2003200500030000400019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SILBERBERG, E. <b>The structure of economics: A mathematical analysis</b>. 2ª ed. New York: Mc Graw - Hill Inc. 1990. 686p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S0103-2003200500030000400020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ZAGATTO, L.C.A.G. Estrutura produtiva de pequenos agricultores e implica&ccedil;&otilde;es para a gera&ccedil;&atilde;o e ado&ccedil;&atilde;o de tecnologia. Vi&ccedil;osa, 1991. 112p. Tese (Doutorado) &#150; UFV.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003200500030000400021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ZELLNER, A. An    efficient method of estimating seemingly unrelated regressions and tests for    aggregatton bias. <b>Journal of the American Statistical Association,</b> n.57,    p.348&#150;368, Jun. 1962.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000127&pid=S0103-2003200500030000400022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Recebido em agosto    de 2004 e revisto em agosto de 2005</font></p>      <p>&nbsp;</p>     <p>&nbsp;</p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back1"></a><a href="#top10">1</a>    O presente artigo baseia-se, em parte, na Tese de Doutorado do primeiro autor,    apresentada ao Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Economia Aplicada    da ESALQ/USP, sob orienta&ccedil;&atilde;o do segundo autor.    <br>   <a name="back2"></a><a href="#top2">2</a>    Na verdade, a fun&ccedil;&atilde;o custo nos fornece informa&ccedil;&otilde;es    a respeito das "economias de tamanho" e n&atilde;o necessariamente "economias    de escala". Apesar do uso indiscriminado na literatura, existe uma diferen&ccedil;a    significativa entre esses dois conceitos (Chambers, 1994, p.69-73). As economias    de tamanho incluem as economias de escala e "outras economias" (como por exemplo,    as de ordem pecuni&aacute;ria e de aprendizagem) que possibilitem as firmas    operarem com o menor custo poss&iacute;vel. Nada obstante, como observa o autor,    apesar das diferen&ccedil;as, as economias de tamanho e de escala s&atilde;o    equivalentes quando a empresa est&aacute; no seu ponto de m&iacute;nimo custo    de produ&ccedil;&atilde;o. Dado que, no presente estudo, pressup&otilde;e-se    que os produtores sejam minimizadores de custos, n&atilde;o se faz necess&aacute;ria    a distin&ccedil;&atilde;o entre estes dois conceitos. Utilizou-se o termo "economias    de escala" por ser de uso mais corrente na literatura.    <br>   <a name="back3"></a><a href="#top3">3</a>    Para maiores detalhes quanto aos procedimentos metodol&oacute;gicos ver: Garcia    (2004).    <br>   <a name="back4"></a><a href="#top4">4</a>    O levantamento de campo fez parte de pesquisa mais ampla, intitulada: "Policy,    techinical and environmental determinants and implications of the scalingup    swine, broiler, layer and milk production in Brazil", realizada pelo Centro    de Estudos Avan&ccedil;ados em Economia Aplicada da ESALQ/USP em parceria com    a FAO/IFPRI (Food and Agricultural Organization e International Food Policy    Research Institute).    <br>   <a name="back5"></a><a href="#top5">5</a>    Apesar da relevante posi&ccedil;&atilde;o que ocupa o Estado de S&atilde;o Paulo    como produtor e exportador de frango de corte no Brasil, o mesmo foi exclu&iacute;do    da presente pesquisa pelos &oacute;rg&atilde;os financiadores. Al&eacute;m disto,    como observa Martins (2002, p. 74): "J&aacute; faz alguns anos que a avicultura    paulista vem apresentando perda relativa de participa&ccedil;&atilde;o na produ&ccedil;&atilde;o    nacional de carne de frango...".</font></p>       ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALBUQUERQUE]]></surname>
+<given-names><![CDATA[M.C.C. de.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Uma análise translog sobre mudança tecnológica e efeitos de escala: Um caso de modernização eficiente]]></article-title>
+<source><![CDATA[Pesquisa e Planejamento Econômico]]></source>
+<year>abr.</year>
+<month> 1</month>
+<day>98</day>
+<volume>1</volume>
+<numero>17</numero>
+<issue>17</issue>
+<page-range>191-220</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A função Custo]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[EMBRAPA-SPI]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAIRAM]]></surname>
+<given-names><![CDATA[E.I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Production and cost functions: Specification, measurement and applications]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Vermont ]]></publisher-loc>
+<publisher-name><![CDATA[Ashgate publishing ltd]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARBOSA]]></surname>
+<given-names><![CDATA[F. de H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Microeconomia: Teoria, modelos econométricos e aplicações à economia brasileira]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA/INPES]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERNDT]]></surname>
+<given-names><![CDATA[E.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WOOD]]></surname>
+<given-names><![CDATA[D.O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Thechnology, prices and the derived demand for energy]]></article-title>
+<source><![CDATA[The Review of Economics and Statistics]]></source>
+<year>Aug.</year>
+<month> 1</month>
+<day>97</day>
+<volume>LVII</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>259-268</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BINSWANGER]]></surname>
+<given-names><![CDATA[H.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A cost function approach to the measurement of elasticities of factor demand and elasticities of substitution]]></article-title>
+<source><![CDATA[American Journal of agricultural Economics]]></source>
+<year>May.</year>
+<month> 1</month>
+<day>97</day>
+<volume>56</volume>
+<page-range>377-386</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUARQUE]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação econômica de projetos]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Campus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CANEVER]]></surname>
+<given-names><![CDATA[M.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Competitividade relativa entre as cadeias de carne de frango Brasileira e Argentina]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHAMBERS]]></surname>
+<given-names><![CDATA[R.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied production analysis: A dual approach]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHRISTENSEN]]></surname>
+<given-names><![CDATA[L.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GREENE]]></surname>
+<given-names><![CDATA[W.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Economies of scale in U.S. electric power generation]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>1976</year>
+<volume>84</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>655-676</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[A.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Características dos sistemas de produção, eficiência econômica e economias de escala na produção de frangos de corte no Estado de Minas Gerais]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENE]]></surname>
+<given-names><![CDATA[W.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric Analysis]]></source>
+<year>2000</year>
+<edition>4th</edition>
+<publisher-loc><![CDATA[New Jersey ]]></publisher-loc>
+<publisher-name><![CDATA[Prentice-Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARCIA]]></surname>
+<given-names><![CDATA[L. A. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economias de escala na produção de frangos de corte no Brasil]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFFMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ENGLER]]></surname>
+<given-names><![CDATA[J.J. de C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SERRANO]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Administração da empresa agrícola]]></source>
+<year>1987</year>
+<edition>2ª</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Pioneira]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LERDA]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Resultados básicos na teoria da dualidade: vantagens e alguns usos em microeconomia]]></article-title>
+<source><![CDATA[Estudos Econômicos]]></source>
+<year>jan.</year>
+<month>/a</month>
+<day>br</day>
+<volume>9</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>101-133</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTINS]]></surname>
+<given-names><![CDATA[S.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Situação e perspectivas da avicultura paulista]]></article-title>
+<source><![CDATA[Informações Econômicas]]></source>
+<year>Jun.</year>
+<month> 2</month>
+<day>00</day>
+<volume>32</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>74-77</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAY]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A translog cost function analysis of U.S agriculture, 1939-77]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>1982</year>
+<volume>56</volume>
+<page-range>490-498</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REIS]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[E.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[estrutura de demanda e substituição de fatores produtivos na pecuária leiteira: o modelo de custo translog]]></article-title>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>jul.</year>
+<month>/s</month>
+<day>et</day>
+<volume>49</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>545-554</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROCHELLE]]></surname>
+<given-names><![CDATA[T.C.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA FILHO]]></surname>
+<given-names><![CDATA[J.B. de S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Função custo translog e o mercado de fatores para o algodão no Estado de São Paulo: O caso da DIRA de Campinas]]></article-title>
+<source><![CDATA[]]></source>
+<year>abr.</year>
+<month>/j</month>
+<day>un</day>
+<volume>37</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>77-95</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILBERBERG]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The structure of economics: A mathematical analysis]]></source>
+<year>1990</year>
+<edition>2ª</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Mc Graw - Hill Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZAGATTO]]></surname>
+<given-names><![CDATA[L.C.A.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estrutura produtiva de pequenos agricultores e implicações para a geração e adoção de tecnologia]]></source>
+<year>1991</year>
+<publisher-name><![CDATA[Viçosa]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZELLNER]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An efficient method of estimating seemingly unrelated regressions and tests for aggregatton bias]]></article-title>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>Jun.</year>
+<month> 1</month>
+<day>96</day>
+<numero>57</numero>
+<issue>57</issue>
+<page-range>348-368</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032008000200001</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032008000200001</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Produtos agropecuários: para quem exportar?]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Mata]]></surname>
+<given-names><![CDATA[Daniel da]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Freitas]]></surname>
+<given-names><![CDATA[Rogério Edivaldo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,IPEA  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2008</year>
+</pub-date>
+<volume>46</volume>
+<numero>2</numero>
+<fpage>257</fpage>
+<lpage>290</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032008000200001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032008000200001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032008000200001&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este trabalho procurou discutir fatores de atração das exportações agropecuárias brasileiras. Para tal implementou-se um modelo gravitacional acrescido de procedimentos econométricos de efeitos fixos e aleatórios, além da abordagem por Mínimos Quadrados Ordinários (MQO). As principais variáveis identificadas como determinantes dessas exportações foram a distância para os mercados de destino, o PIB dos parceiros comerciais e a localização geográfica do país importador. Ademais, verificaram-se efeitos puzzles para a taxa de câmbio, o perfil agroexportador do país importador e a participação do setor agrícola na economia de destino. Por fim, o trabalho realça uma diferenciação das variáveis relevantes em função de características específicas dos parceiros comerciais brasileiros.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The paper discussed the main factors that explain the Brazilian agricultural exports. In order to achieve this goal, the paper applied a gravity model that includes fixed and random effects estimations, besides the Ordinary Least Squares (OLS) approach. Distance, trade partners' GDP, and geographical localization were the significant variables. Moreover, puzzle effects are associated to exchange rate, partners' agricultural exports profile and the partners' agricultural share in GDP. Finally, this study highlights the potential change of the relevant variables because of specific characteristics of each commercial Brazilian partner.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[exportações]]></kwd>
+<kwd lng="pt"><![CDATA[modelo gravitacional]]></kwd>
+<kwd lng="pt"><![CDATA[setor agropecuário]]></kwd>
+<kwd lng="en"><![CDATA[exports]]></kwd>
+<kwd lng="en"><![CDATA[gravity model]]></kwd>
+<kwd lng="en"><![CDATA[agricultural sector]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Produtos agropecu&aacute;rios: para quem exportar?</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Daniel da Mata<sup>I</sup>; Rog&eacute;rio Edivaldo Freitas<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Economista, e T&eacute;cnico de Planejamento e Pesquisa do IPEA    <br> <sup>II</sup> Economista, e T&eacute;cnico de Planejamento e Pesquisa do IPEA</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este trabalho procurou discutir fatores de atra&ccedil;&atilde;o das exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras. Para tal implementou-se um modelo gravitacional acrescido de procedimentos econom&eacute;tricos de efeitos fixos e aleat&oacute;rios, al&eacute;m da abordagem por M&iacute;nimos Quadrados Ordin&aacute;rios (MQO). As principais vari&aacute;veis identificadas como determinantes dessas exporta&ccedil;&otilde;es foram a dist&acirc;ncia para os mercados de destino, o PIB dos parceiros comerciais e a localiza&ccedil;&atilde;o geogr&aacute;fica do pa&iacute;s importador. Ademais, verificaram-se efeitos puzzles para a taxa de c&acirc;mbio, o perfil agroexportador do pa&iacute;s importador e a participa&ccedil;&atilde;o do setor agr&iacute;cola na economia de destino. Por fim, o trabalho real&ccedil;a uma diferencia&ccedil;&atilde;o das vari&aacute;veis relevantes em fun&ccedil;&atilde;o de caracter&iacute;sticas espec&iacute;ficas dos parceiros comerciais brasileiros. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chave:</b> exporta&ccedil;&otilde;es, modelo gravitacional, setor agropecu&aacute;rio. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The paper discussed the main factors that explain the Brazilian agricultural exports. In order to achieve this goal, the paper applied a gravity model that includes fixed and random effects estimations, besides the Ordinary Least Squares (OLS) approach. Distance, trade partners' GDP, and geographical localization were the significant variables. Moreover, puzzle effects are associated to exchange rate, partners' agricultural exports profile and the partners' agricultural share in GDP. Finally, this study highlights the potential change of the relevant variables because of specific characteristics of each commercial Brazilian partner. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key words:</b> exports, gravity model, agricultural sector.     <br> <b>JEL Classification:</b> Q17, F13 </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Atualmente, as exporta&ccedil;&otilde;es de produtos agropecu&aacute;rios representam em torno de 28% das divisas de exporta&ccedil;&otilde;es do pa&iacute;s. Ademais, o setor responde por parcela significativa do superavit comercial brasileiro, constituindo-se em elemento chave para o equil&iacute;brio das contas externas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ao mesmo tempo, as cadeias de produtos agropecu&aacute;rios respondem por parcela importante do Produto Interno Bruto (PIB) (MAIA ET AL., 2005). De acordo com Guilhoto, Silveira e Azzoni (2004), em 2003, 30,6% da renda total da economia brasileira foram derivados do agroneg&oacute;cio, considerando-se nesta categoria as empresas que fornecem insumos &agrave;s unidades agropecu&aacute;rias, as unidades agropecu&aacute;rias em si, as empresas processadoras e as empresas distribuidoras. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em particular na regi&atilde;o Nordeste, a agricultura corresponde a 34,5% das exporta&ccedil;&otilde;es, a 9,8% do PIB local, e a 4% da for&ccedil;a de trabalho ali ocupada. Nestes termos, os impactos regionais de est&iacute;mulos ao setor podem ser ainda mais significativos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esse quadro &eacute; o pano de fundo que destaca a import&acirc;ncia em se conhecer de forma clara os fatores que afetam as vendas para o exterior dos produtos agropecu&aacute;rios brasileiros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em itens importantes das exporta&ccedil;&otilde;es agropecu&aacute;rias, o Brasil exerce papel de um dos principais ofertantes no mercado mundial, a saber: a&ccedil;&uacute;car (ao lado de Uni&atilde;o Europ&eacute;ia<a name="n1"></a><a href="#nt1"><sup>1</sup></a> e &Iacute;ndia), soja e derivados (ao lado de Argentina e Estados Unidos), suco de laranja (ao lado dos Estados Unidos), e caf&eacute; (ao lado da Col&ocirc;mbia). Em alguma medida, muitos desses setores podem estar se tornando mais concentrados na sua etapa de processamento, com &eacute; o caso da soja, do suco de laranja e do a&ccedil;&uacute;car, devido &agrave; presen&ccedil;a de grandes traders, por exemplo, o que aponta para a possibilidade de controles de oferta ao arb&iacute;trio dos agentes privados situados naqueles pontos da cadeia produtiva, com impactos necess&aacute;rios sobre a produ&ccedil;&atilde;o inicial e comercializa&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em termos de destinos, h&aacute; um movimento de expans&atilde;o e diversifica&ccedil;&atilde;o das exporta&ccedil;&otilde;es para novos mercados, embora seja ainda importante a participa&ccedil;&atilde;o de pa&iacute;ses como os Estados Unidos e os da Europa (Alemanha, Reino Unido, Pa&iacute;ses Baixos, R&uacute;ssia, It&aacute;lia etc.). Nos &uacute;ltimos anos, tem crescido o com&eacute;rcio internacional dos principais grupos de produtos agropecu&aacute;rios brasileiros com pa&iacute;ses da &Aacute;sia e do Oriente M&eacute;dio, como a China, &Iacute;ndia, e Ar&aacute;bia Saudita, ao mesmo tempo em que existe uma certa concentra&ccedil;&atilde;o da pauta agroexportadora em determinados grupos de produtos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os anos da d&eacute;cada de 1990, em particular, representaram um momento de profundas transforma&ccedil;&otilde;es da economia brasileira. Nesse novo cen&aacute;rio, o setor agropecu&aacute;rio tem se destacado por sua contribui&ccedil;&atilde;o ao crescimento da economia local, mesmo sob grandes entraves macroecon&ocirc;micos como, por exemplo, a pol&iacute;tica de juros altos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No seu desempenho externo, diversos fatores afetam a capacidade de exporta&ccedil;&atilde;o dos produtos agropecu&aacute;rios brasileiros. Estes fatores contemplam as vantagens comparativas locais, a solu&ccedil;&atilde;o de restri&ccedil;&otilde;es infra-estruturais dom&eacute;sticas, as restri&ccedil;&otilde;es comerciais externas e vari&aacute;veis macroecon&ocirc;micas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As vantagens comparativas do Pa&iacute;s exercem um papel primordial. Essas vantagens comparativas j&aacute; existiam e foram aproveitadas ou desenvolvidas a partir de decis&otilde;es de pol&iacute;ticas p&uacute;blicas. V&aacute;rios resultados decorreram de tais decis&otilde;es - como, por exemplo, o desenvolvimento de novas t&eacute;cnicas de produ&ccedil;&atilde;o e a gera&ccedil;&atilde;o de novas variedades vegetais e animais - gra&ccedil;as &agrave; constru&ccedil;&atilde;o de uma rede de universidades e institutos de pesquisa ligada &agrave; produ&ccedil;&atilde;o agropecu&aacute;ria. Esse processo permitiu n&atilde;o apenas solucionar gargalos do abastecimento alimentar dom&eacute;stico bem como gerar superavits de produ&ccedil;&atilde;o que transformaram o agroneg&oacute;cio brasileiro num dos mais din&acirc;micos setores da economia brasileira. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O segundo fator refere-se &agrave; infra-estrutura log&iacute;stica. O processo exportador requer uma infra-estrutura log&iacute;stica dom&eacute;stica e uma disponibilidade energ&eacute;tica tais que a atividade exportadora seja de fato rent&aacute;vel para o empres&aacute;rio local. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As regras do com&eacute;rcio internacional representam um terceiro filtro para que os produtos brasileiros atinjam mercados externos com a gera&ccedil;&atilde;o de divisas para o pa&iacute;s. Segundo Anderson, Martin, e Van der Mensbrugghe (2005), o Brasil obteria incrementos comerciais expressivos (US$ 38 bilh&otilde;es at&eacute; 2015) caso as barreiras comerciais fossem removidas. Atualmente, o Brasil participa de exerc&iacute;cios de integra&ccedil;&atilde;o comercial com resultados que ser&atilde;o significativos para os diferentes setores produtivos. A pr&oacute;pria participa&ccedil;&atilde;o brasileira no chamado Grupo de Cairns bem como a recente atua&ccedil;&atilde;o ao lado de pa&iacute;ses como a &Iacute;ndia sob a roupagem do G20 na Rodada de Doha mostram a centralidade econ&ocirc;mica e pol&iacute;tica do tema. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No caso da &Aacute;rea de Livre Com&eacute;rcio das Am&eacute;ricas (ALCA), a polariza&ccedil;&atilde;o de propostas, a amplitude de temas tratados e a pouca disposi&ccedil;&atilde;o de estabelecer regras claras e abrangentes t&ecirc;m direcionado o di&aacute;logo para o foco dos problemas e exce&ccedil;&otilde;es, em lugar de apontar solu&ccedil;&otilde;es para um com&eacute;rcio internacional mais intenso. Tais caracter&iacute;sticas t&ecirc;m enfraquecido os resultados e a profundidade desse processo negociador. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">J&aacute; as reuni&otilde;es do f&oacute;rum biregional Uni&atilde;o Europ&eacute;ia (UE)-Mercosul ganham relev&acirc;ncia &agrave; propor&ccedil;&atilde;o em que se torna claro que uma das dificuldades do hist&oacute;rico das rela&ccedil;&otilde;es entre o Brasil e a Europa unificada sempre esteve no entrave quanto ao ingresso de produtos agropecu&aacute;rios nas economias capitalistas do velho continente. Todavia, as negocia&ccedil;&otilde;es bilaterais n&atilde;o t&ecirc;m sido efetivas em solucionar os problemas de acesso das commodities agropecu&aacute;rias e alimentos processados brasileiros ao mercado consumidor da UE. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m disso, &eacute; v&aacute;lido frisar a exist&ecirc;ncia de mercados potenciais representada pelos pa&iacute;ses de mesmo n&iacute;vel de desenvolvimento que o Brasil, como &Iacute;ndia, China e &Aacute;frica do Sul, sem citar o restante dos pa&iacute;ses em desenvolvimento que compreende parte dos pa&iacute;ses asi&aacute;ticos, africanos e latino-americanos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sob este aspecto, o crescimento dos acordos preferenciais e de outras formas de integra&ccedil;&atilde;o comercial e econ&ocirc;mica d&aacute;-se concomitantemente ao processo de fragmenta&ccedil;&atilde;o pol&iacute;tica verificado desde a segunda metade do s&eacute;culo XX. De acordo com Braun, Hausmann e Pritchett (2002), cerca de 125 novos pa&iacute;ses foram criados entre 1943 e 1994, mais do que o dobro do n&uacute;mero de pa&iacute;ses existentes ao final da Segunda Guerra Mundial. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nesse contexto, a pr&oacute;pria exist&ecirc;ncia de acordos preferenciais ao estilo &Aacute;frica, Caribe e Pac&iacute;fico (ACP), Pa&iacute;ses de Menor Desenvolvimento Relativo (PMDR), ou Sistema Geral de Prefer&ecirc;ncias (SGP) sinaliza para o reconhecimento de diferencia&ccedil;&otilde;es por origem do produto aos olhos do pr&oacute;prio pa&iacute;s comprador<a name="n2"></a><a href="#nt2"><sup>2</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como quarto condicionante, mas n&atilde;o menos importante, citam-se os elementos da macroeconomia local, em particular a taxa de c&acirc;mbio e o ambiente tribut&aacute;rio. Em dada medida, esses elementos podem limitar ou expandir substancialmente a rentabilidade da atividade exportadora. Segundo Homem de Melo (2005) parte do crescimento das exporta&ccedil;&otilde;es brasileiras p&oacute;s-1999 decorreu dos incentivos &agrave; atividade exportadora no contexto de desvaloriza&ccedil;&atilde;o da moeda local. N&atilde;o obstante, parte do incremento nas vendas externas est&aacute; associada a esfor&ccedil;os comerciais empreendidos por v&aacute;rias inst&acirc;ncias governamentais. S&atilde;o exemplos nesse sentido, a Lei Kandir que desonerou parte das exporta&ccedil;&otilde;es do pa&iacute;s no come&ccedil;o da d&eacute;cada de 1990, e a &ecirc;nfase em capacita&ccedil;&atilde;o e know-how dos exportadores brasileiros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Isto posto, o presente trabalho tem por objetivo estudar os determinantes das exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras, de modo a identificar caracter&iacute;sticas relevantes dos parceiros comerciais do Brasil. Outrossim, o trabalho visa averiguar o impacto do crescimento dom&eacute;stico sobre as exporta&ccedil;&otilde;es de produtos agropecu&aacute;rios do Brasil e estudar se pa&iacute;ses que t&ecirc;m nas exporta&ccedil;&otilde;es agropecu&aacute;rias uma parcela significativa da pauta exportadora total deixam de importar produtos agropecu&aacute;rios brasileiros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m da parte introdut&oacute;ria, o trabalho cont&eacute;m mais quatro se&ccedil;&otilde;es. A segunda se&ccedil;&atilde;o aborda o estado das artes acerca do tema. A terceira parte apresenta os procedimentos metodol&oacute;gicos e os dados empregados. Por fim, as se&ccedil;&otilde;es quatro e cinco foram reservadas aos resultados e &agrave;s considera&ccedil;&otilde;es finais, respectivamente. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Estado da Arte: vari&aacute;veis de impacto sobre as exporta&ccedil;&otilde;es agropecu&aacute;rias </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diversos trabalhos t&ecirc;m analisado os determinantes das exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras. De regra, tais estudos focam dois aspectos: os determinantes em n&iacute;vel de firmas ou os em n&iacute;vel de pa&iacute;ses. Dada a preocupa&ccedil;&atilde;o e o escopo do presente artigo, a revis&atilde;o da literatura abordar&aacute; somente os trabalhos com o enfoque nos determinantes da &oacute;tica do pa&iacute;s. Nesse contexto, h&aacute; um n&uacute;mero n&atilde;o desprez&iacute;vel de artigos que se dedicam &agrave;s exporta&ccedil;&otilde;es de produtos agropecu&aacute;rios. Essa se&ccedil;&atilde;o procura realizar uma revis&atilde;o n&atilde;o-exaustiva da literatura nacional e internacional do tema. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na literatura internacional, pelos menos dois estudos merecem escrut&iacute;nio. Sevela (2002) identificou tr&ecirc;s vari&aacute;veis para o estudo das exporta&ccedil;&otilde;es agropecu&aacute;rias da Rep&uacute;blica Tcheca, a citar, o Produto Nacional Bruto (PNB) - ou, alternativamente, o PNB per capita - dos pa&iacute;ses comprador e vendedor, a dist&acirc;ncia geogr&aacute;fica, e a contig&uuml;idade espacial entre as na&ccedil;&otilde;es analisadas. Este autor versa, especialmente, acerca do efeito locacional sobre o desempenho exportador no referido pa&iacute;s. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O impacto da integra&ccedil;&atilde;o norte-americana e do MERCOSUL sobre as exporta&ccedil;&otilde;es agropecu&aacute;rias dos Estados Unidos foi estudado por Zahniser et al. (2002) tanto em n&iacute;vel agregado como para grupos de commodities. Esse trabalho ressalta que as exporta&ccedil;&otilde;es dos EUA para o M&eacute;xico foram significativamente maiores que as exporta&ccedil;&otilde;es dos EUA para outros pa&iacute;ses no per&iacute;odo de 1980-1999, tanto para agregado quanto para 14 produtos agropecu&aacute;rios selecionados. Por outro lado, os resultados para o Canad&aacute; foram bastante limitados e n&atilde;o significantes estatisticamente. O estudo concluiu que o estabelecimento do MERCOSUL desviou parte das exporta&ccedil;&otilde;es agr&iacute;colas dos EUA, fen&ocirc;meno particularmente not&aacute;vel em rela&ccedil;&atilde;o &agrave;s exporta&ccedil;&otilde;es norte-americanas de trigo para o Brasil, uma vez que foram substitu&iacute;das pela oferta argentina. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outros seis trabalhos, na literatura nacional, particularmente alinhados com a preocupa&ccedil;&atilde;o do presente artigo s&atilde;o Castilho (2001), Carvalho e De Negri (2000), Barros, Bacchi e Burnquist (2002), Maia (2003), Reis e Crespo (1998) e Fonseca e Hidalgo (2006). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Castilho (2001) estimou equa&ccedil;&otilde;es gravitacionais por setores de atividade econ&ocirc;mica (dentre eles o agropecu&aacute;rio), incluindo, por exemplo, dist&acirc;ncia e l&iacute;ngua comum como vari&aacute;veis explicativas. Os coeficientes estimados para dist&acirc;ncia foram negativos e significativos. No caso da l&iacute;ngua comum, detectou-se uma influ&ecirc;ncia positiva sobre os fluxos comerciais bilaterais. Evidenciou-se tamb&eacute;m o car&aacute;ter discriminat&oacute;rio das barreiras comerciais e dos acordos comerciais preferenciais, em particular nos casos de carnes e miudezas, a&ccedil;&uacute;cares e confeitaria e vinhos e bebidas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O texto de Carvalho e De Negri (2000) emprega a metodologia de vetores auto-regressivos (VAR) com testes para a exogeneidade das vari&aacute;veis<a name="n3"></a><a href="#nt3"><sup>3</sup></a> e baseia-se em um modelo de substitui&ccedil;&atilde;o imperfeita de bens em equa&ccedil;&otilde;es simult&acirc;neas de com&eacute;rcio exterior, com foco nos grupos de produtos agropecu&aacute;rios importados e exportados, segundo a defini&ccedil;&atilde;o da Funda&ccedil;&atilde;o Centro de Estudos do Com&eacute;rcio Exterior (FUNCEX). Concluiu-se que as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras eram influenciadas basicamente pelo n&iacute;vel de atividade mundial e, em menor medida, pela taxa de c&acirc;mbio real. Al&eacute;m disso, os autores n&atilde;o detectaram signific&acirc;ncia no papel desempenhado pelo PIB dom&eacute;stico, em termos de explica&ccedil;&atilde;o das exporta&ccedil;&otilde;es agropecu&aacute;rias. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Barros, Bacchi e Burnquist (2002) trataram a oferta de exporta&ccedil;&otilde;es agropecu&aacute;rias como um excesso de oferta dom&eacute;stica sobre a demanda local, empregando os procedimentos de Johansen e termo de corre&ccedil;&atilde;o de erro se as vari&aacute;veis apresentassem co-integra&ccedil;&atilde;o. Os autores empregaram tal metodologia para an&aacute;lises pontuais no caso do frango, farelo de soja, carne bovina resfriada e congelada, carne bovina industrializada, a&ccedil;&uacute;car, algod&atilde;o, caf&eacute;, e suco de laranja, e empregaram dados de jan/92 a dez/00, salvo no caso do a&ccedil;&uacute;car (jan/95-dez/00) e carne bovina industrializada (set/94-dez/00). Tr&ecirc;s foram as principais conclus&otilde;es do trabalho. Em primeiro lugar, impactos do crescimento da economia brasileira sobre as exporta&ccedil;&otilde;es dos produtos analisados mostraram-se expressivos<a name="n4"></a><a href="#nt4"><sup>4</sup></a>. Como segundo ponto, ressalta-se que a taxa de c&acirc;mbio &eacute; fator determinante das exporta&ccedil;&otilde;es do agroneg&oacute;cio, em especial no caso da soja (e derivados) e do a&ccedil;&uacute;car. Al&eacute;m disso, os pre&ccedil;os de exporta&ccedil;&atilde;o mostraram-se relevantes nos casos de a&ccedil;&uacute;car, soja, e carne industrializada. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O referido artigo &eacute; bastante &uacute;til em esclarecer as nuances espec&iacute;ficas de cada mercado e produto considerado, o que certamente contribui para uma melhor qualifica&ccedil;&atilde;o dos resultados obtidos caso a caso, vez que os mercados de suco de laranja e de algod&atilde;o s&atilde;o intrinsecamente diferentes, por exemplo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por seu turno, Maia (2003) utilizou o modelo Mundell-Flemming para an&aacute;lise do impacto das vari&aacute;veis do mercado de ativos sobre as pol&iacute;ticas econ&ocirc;micas em diferentes cen&aacute;rios de regimes cambiais, o qual foi operacionalizado atrav&eacute;s de um modelo VAR com causalidades contempor&acirc;neas. O autor realizou um recorte de an&aacute;lise de modo a comparar os resultados de dois subper&iacute;odos (1980-1990 versus 19902001) sob o argumento de que o segundo per&iacute;odo desenvolveu-se em um ambiente de economia aberta. No mencionado trabalho, os produtos componentes do grupo das exporta&ccedil;&otilde;es agr&iacute;colas foram: soja em gr&atilde;o, farelo de soja, &oacute;leo de soja, am&ecirc;ndoas de cacau, manteiga de cacau, caf&eacute; em gr&atilde;o, caf&eacute; sol&uacute;vel, suco de laranja e a&ccedil;&uacute;car. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados a se destacar seriam a redu&ccedil;&atilde;o do poder de explica&ccedil;&atilde;o da taxa de c&acirc;mbio sobre as exporta&ccedil;&otilde;es a partir de 1990 e o aumento de participa&ccedil;&atilde;o da taxa de juros sobre a vari&acirc;ncia da previs&atilde;o das exporta&ccedil;&otilde;es de 1990 em diante. Adicionalmente, no segundo per&iacute;odo, de economia aberta, os choques aut&ocirc;nomos de cada vari&aacute;vel do sistema foram absorvidos de forma mais r&aacute;pida. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ainda, Reis e Crespo (1998) aplicaram um modelo de equil&iacute;brio simult&acirc;neo entre oferta e demanda com corre&ccedil;&atilde;o de m&iacute;nimos quadrados de dois est&aacute;gios (MQO2) para avalia&ccedil;&atilde;o das exporta&ccedil;&otilde;es brasileiras de a&ccedil;&uacute;car, assumindo concorr&ecirc;ncia imperfeita no mercado internacional do produto face &agrave; import&acirc;ncia do Brasil como ofertante. Do lado da oferta, as vari&aacute;veis utilizadas foram o pre&ccedil;o unit&aacute;rio do a&ccedil;&uacute;car brasileiro exportado, o pre&ccedil;o interno de varejo do a&ccedil;&uacute;car no Brasil, o consumo aparente de a&ccedil;&uacute;car no Brasil, a taxa de c&acirc;mbio real e o estoque inicial de a&ccedil;&uacute;car no mundo. No que concerne ao lado da demanda, empregaram-se o pre&ccedil;o unit&aacute;rio do a&ccedil;&uacute;car brasileiro exportado, o Produto Interno Bruto (PIB) dos principais pa&iacute;ses importadores de a&ccedil;&uacute;car brasileiro, a quantidade de a&ccedil;&uacute;car exportada pela Am&eacute;rica (excluindo o Brasil e Cuba) e o pre&ccedil;o unit&aacute;rio das exporta&ccedil;&otilde;es mundiais de produtos substitutos do a&ccedil;&uacute;car. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os autores utilizaram dados do per&iacute;odo entre 1961 e 1994 e destacam-se quatro conclus&otilde;es interessantes do trabalho. Em primeiro plano, a elasticidade renda calculada sugere que o a&ccedil;&uacute;car &eacute; um bem superior para os pa&iacute;ses importadores. Em segundo lugar, a exporta&ccedil;&atilde;o de a&ccedil;&uacute;car parece ser uma atividade mais dependente da situa&ccedil;&atilde;o do mercado interno que da conjuntura internacional. Como terceiro ponto, em muitos momentos, o efeito positivo dos pre&ccedil;os internacionais do a&ccedil;&uacute;car tem sido capaz de suplantar os efeitos negativos (sobre as exporta&ccedil;&otilde;es do produto) de um c&acirc;mbio valorizado. E, por fim, grandes estoques de a&ccedil;&uacute;car podem induzir os maiores produtores a elevar sua oferta de exporta&ccedil;&otilde;es - mesmo que com nova queda de pre&ccedil;os - caso os custos de estocagem sejam superiores ao custo de exportar a pre&ccedil;os declinantes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fonseca e Hidalgo (2006) analisaram o potencial efeito da ALCA sobre as exporta&ccedil;&otilde;es agr&iacute;colas brasileiras, em especial para seis produtos: caf&eacute;, cacau, soja, a&ccedil;&uacute;car, suco de laranja e carnes. Utilizando um modelo de equil&iacute;brio parcial para estimar os efeitos de primeira ordem da integra&ccedil;&atilde;o regional da ALCA no setor agropecu&aacute;rio brasileiro, chegou-se ao resultado de que, a partir de simula&ccedil;&otilde;es entre 1999 e 2002, o efeito cria&ccedil;&atilde;o de com&eacute;rcio foi superior ao efeito desvio de com&eacute;rcio, caracterizando a competitividade dos produtos do agroneg&oacute;cio e os prov&aacute;veis benef&iacute;cios de integra&ccedil;&atilde;o comercial no referido acordo de livre com&eacute;rcio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A parte referente aos resultados do presente estudo realizar&aacute; um contraste dos resultados da literatura com os encontrados nos procedimentos econom&eacute;tricos utilizados. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Procedimentos Metodol&oacute;gicos e Estrat&eacute;gia Emp&iacute;rica </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A metodologia empregada no presente trabalho segue uma equa&ccedil;&atilde;o gravitacional (gravity equation) tradicional, do estilo log-linear. Essa ferramenta tem sido largamente usada em trabalhos emp&iacute;ricos na &aacute;rea de economia internacional, tanto no agregado da pauta comercial como para subgrupos de produtos. Segundo Feenstra, Markusen e Rose (2001), a equa&ccedil;&atilde;o gravitacional ajusta-se razoavelmente bem tanto para os pa&iacute;ses da OCDE como para as na&ccedil;&otilde;es em desenvolvimento. Alguns dos trabalhos seminais empregando essa metodologia foram Anderson (1979), Bergstrand (1985), e Bergstrand (1989). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A intui&ccedil;&atilde;o da equa&ccedil;&atilde;o gravitacional origina-se da F&iacute;sica: quanto maior a renda e a popula&ccedil;&atilde;o de um parceiro comercial e quanto menor a dist&acirc;ncia em rela&ccedil;&atilde;o a ele, maior o montante de com&eacute;rcio entre duas na&ccedil;&otilde;es. Uma das principais raz&otilde;es para a difus&atilde;o desse procedimento, como frisado anteriormente, &eacute; o bom ajuste que ele tem proporcionado em muitos trabalhos emp&iacute;ricos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sem embargo, essa boa ader&ecirc;ncia emp&iacute;rica suscitou certo debate e algumas cr&iacute;ticas sob o argumento de que tal metodologia ainda carece de melhor embasamento te&oacute;rico. Al&eacute;m disso, muitos analistas ressaltam quest&otilde;es de especifica&ccedil;&atilde;o econom&eacute;trica ainda n&atilde;o bem resolvidas no uso do modelo gravitacional. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em contrapartida, nas discuss&otilde;es te&oacute;ricas do modelo gravitacional, h&aacute; an&aacute;lises que o associam aos modelos de competi&ccedil;&atilde;o monopol&iacute;stica (KRUGMAN, 1980), aos modelos de dumping rec&iacute;proco (FEENSTRA, MARKUSEN e ROSE, 1998), &agrave;s an&aacute;lises de diferencia&ccedil;&atilde;o perfeita entre produtos de diferentes origens (estrutura de Armington) em Feenstra, Markusen e Rose (2001), ou &agrave; estiliza&ccedil;&atilde;o do modelo Heckscher-Ohlin (DEARDOFF, 1998). Sobre os fundamentos econ&ocirc;micos da equa&ccedil;&atilde;o de gravidade, refer&ecirc;ncias importantes s&atilde;o Anderson (1979), Bergstrand (1985) e Evennet e Keller (2002). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bergstrand (1985), por exemplo, desenvolveu uma forma gravitacional generalizada, em resposta a muitos artigos que refutavam o uso do modelo gravitacional na an&aacute;lise de bens de perfeita substitutibilidade no com&eacute;rcio internacional e sob arbitragem perfeita. A conclus&atilde;o principal do trabalho &eacute; que a exist&ecirc;ncia de produtos diferenciados nacionalmente (seja em termos de dist&acirc;ncia ou por conta de caracter&iacute;sticas espec&iacute;ficas do pa&iacute;s produtor) descaracteriza o quadro de arbitragem perfeita em muitos casos. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com base em quatro regress&otilde;es do tipo cross sections realizadas para os fluxos comerciais totais de 15 pa&iacute;ses da OCDE, o autor estimou duas vers&otilde;es do modelo gravitacional: a primeira referida como "padr&atilde;o" e a segunda tida como forma "generalizada" por incluir vari&aacute;veis explicativas caracter&iacute;sticas de cada pa&iacute;s<a name="n5"></a><a href="#nt5"><sup>5</sup></a>. Para a maior parte dos coeficientes que se referiam &agrave;s mesmas vari&aacute;veis explicativas, os valores estimados foram similares nas duas vers&otilde;es do modelo. Al&eacute;m disso, os quatro anos analisados no mencionado estudo apresentaram resultados mais est&aacute;veis na forma generalizada, bem como maior robustez estat&iacute;stica. Ante tais resultados, o autor argumenta pela ado&ccedil;&atilde;o da forma generalizada, mais robusta estatisticamente e melhor definida teoricamente. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bergstrand (1989) apresenta embasamentos microecon&ocirc;micos para o uso do modelo gravitacional e inclui, na sua an&aacute;lise, vari&aacute;veis de dota&ccedil;&atilde;o de fatores relacionadas ao modelo Heckscher-Ohlin. Desta feita, o autor faz an&aacute;lises desagregadas por grupos de produtos e demonstra que, dentre os quatro anos avaliados, em no m&iacute;nimo dois per&iacute;odos, os produtos aliment&iacute;cios poderiam ser considerados intensivos em capital. Sobretudo, o autor afirma que dois setores similares (em pa&iacute;ses distintos) podem produzir o mesmo item com diferencia&ccedil;&atilde;o somente na presen&ccedil;a de mercados em concorr&ecirc;ncia monopol&iacute;stica. Esse argumento, numa roupagem moderna sinaliza para a identifica&ccedil;&atilde;o de nichos de mercado sob concorr&ecirc;ncia n&atilde;o perfeita. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">N&atilde;o menos importante, o trabalho citado representa um grande esfor&ccedil;o para dar consist&ecirc;ncia ao modelo gravitacional entre as tradicionais e as novas teorias de economia internacional. Mais explicitamente, o autor usa uma fun&ccedil;&atilde;o utilidade CD-CES transformada e assume, do lado da oferta, que os produtores ofertam bens levemente diferenciados, originando um mercado de competi&ccedil;&atilde;o monopol&iacute;stica. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em especial acerca da especifica&ccedil;&atilde;o econom&eacute;trica da equa&ccedil;&atilde;o gravitacional, trabalhos recentes<a name="n6"></a><a href="#nt6"><sup>6</sup></a> debatem estrat&eacute;gias te&oacute;ricas e procedimentos para melhorar a precis&atilde;o e robustez dos modelos gravitacionais, as quais, muitas vezes n&atilde;o s&atilde;o operacionaliz&aacute;veis por conta da natureza e volume de dados que demandam. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Eacute; v&aacute;lido ressaltar que v&aacute;rios estudos nacionais contemplam a an&aacute;lise do fluxo comercial com a metodologia das equa&ccedil;&otilde;es gravitacionais, como &eacute; o caso de Castilho (2001). A t&iacute;tulo de ilustra&ccedil;&atilde;o, Piani e Kume (2000) refor&ccedil;am que fatores tradicionalmente identificados na literatura, como renda do pa&iacute;s importador, renda per capita e dist&acirc;ncia entre os mercados vendedor e comprador s&atilde;o determinantes-chave das exporta&ccedil;&otilde;es brasileiras. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hidalgo e Vergolino (1998) utilizaram um modelo gravitacional para estudar o impacto das barreiras nacionais (entre unidades de federa&ccedil;&atilde;o) e internacionais ao com&eacute;rcio. Nesse trabalho, foram inclu&iacute;das vari&aacute;veis como PIB dom&eacute;stico e externo, dist&acirc;ncia e receita de exporta&ccedil;&otilde;es, al&eacute;m de vari&aacute;veis dummies para captar os fluxos comerciais dom&eacute;sticos. Os resultados destacaram a exist&ecirc;ncia de importantes barreiras pol&iacute;ticas ao com&eacute;rcio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Paz e Franco Neto (2003) estimaram o efeito de fronteira geogr&aacute;fica no com&eacute;rcio brasileiro em modelos Tobit ou pooled cross sections. No artigo, os autores destacaram a flexibilidade da equa&ccedil;&atilde;o gravitacional para incorporar a maior parte dos fen&ocirc;menos emp&iacute;ricos observados no com&eacute;rcio internacional, como o grande volume de com&eacute;rcio entre os pa&iacute;ses industrializados, o com&eacute;rcio intra-ind&uacute;stria ou mesmo resultados de ajuste de liberaliza&ccedil;&atilde;o comercial. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Especifica&ccedil;&atilde;o Econom&eacute;trica </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A estrat&eacute;gia emp&iacute;rica inicia-se com uma fun&ccedil;&atilde;o de produ&ccedil;&atilde;o Cobb-Douglas na sua express&atilde;o convencional: </font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n2/a01exp01.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na equa&ccedil;&atilde;o (1), tem-se que:</font></p>     <blockquote><font size="2" face="Verdana, Arial, Helvetica, sans-serif">- F<sub>ij</sub>: fluxos comerciais da economia <sub>i</sub> para a economia <sub>j</sub>;    <br>  - X<sub>k</sub>: vari&aacute;veis explicativas;    <br>  - </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>0</sub>: constante;    <br>  - </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>k</sub>: par&acirc;metros do modelo;     <br> - n: n&uacute;mero de vari&aacute;veis explicativas;     <br> - u<sub>ij</sub>: termo err&aacute;tico com as hip&oacute;teses do modelo cl&aacute;ssico de regress&atilde;o.</font></blockquote>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A equa&ccedil;&atilde;o acima pode ser traduzida em uma express&atilde;o log-linear, que &eacute; linear nos par&acirc;metros, linear nos logs das vari&aacute;veis F e X<a name="n7"></a><a href="#nt7"><sup>7</sup></a>, e pode ser estimada pelo m&eacute;todo dos m&iacute;nimos quadrados ordin&aacute;rios (MQO). Nesses termos, para os prop&oacute;sitos da presente an&aacute;lise, tem-se a equa&ccedil;&atilde;o (2): </font>     <p align="center"><img src="/img/revistas/resr/v46n2/a01exp02.jpg">     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: </font></p>     <blockquote><font size="2" face="Verdana, Arial, Helvetica, sans-serif">- ln F <sub>ijt</sub>: log das receitas de exporta&ccedil;&atilde;o de i (Brasil = <sub>i</sub>) para a economia <sub>j</sub> no momento <sub>t</sub>;     <br> - ln X<sub>k</sub>: matriz de logs das vari&aacute;veis explicativas;     <br> - </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>0</sub>: constante;     <br> - n: n&uacute;mero de vari&aacute;veis explicativas;    <br> - </font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>ijt</sub>: termo err&aacute;tico com as hip&oacute;teses do modelo cl&aacute;ssico de regress&atilde;o.</font></blockquote>      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste estudo, os fluxos comerciais s&atilde;o as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras. Nesse caso os produtos inclu&iacute;dos correspondem &agrave; defini&ccedil;&atilde;o de agropecu&aacute;ria da Rodada do Uruguai (sistema GATT/OMC). Assim, como crit&eacute;rio de categoriza&ccedil;&atilde;o, utilizou-se o Sistema Harmonizado (SH) de Classifica&ccedil;&atilde;o de Mercadorias, de modo que os dados contemplam os cap&iacute;tulos do SH, conforme a <a href="#tab1">Tabela 1</a>. </font></p>     <p><a name="tab1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a01tab01.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As vari&aacute;veis explanat&oacute;rias aqui empregadas foram escolhidas em linha com os postulados tradicionais da equa&ccedil;&atilde;o gravitacional e/ou a partir dos trabalhos relacionados com a identifica&ccedil;&atilde;o de determinantes das exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras. A lista de vari&aacute;veis inclui: dist&acirc;ncia do parceiro comercial at&eacute; o Brasil, Produto Interno Bruto (PIB) dos pa&iacute;ses importadores, dummy para pa&iacute;ses africanos, dummy para pa&iacute;ses do Leste Asi&aacute;tico e Pac&iacute;fico, dummy para pa&iacute;ses da Am&eacute;rica Latina, popula&ccedil;&atilde;o total dos parceiros comerciais, porcentagem do setor agr&iacute;cola no PIB do pa&iacute;s importador, porcentagem das exporta&ccedil;&otilde;es agropecu&aacute;rias nas exporta&ccedil;&otilde;es totais do pa&iacute;s importador, porcentagem da popula&ccedil;&atilde;o rural na popula&ccedil;&atilde;o total do pa&iacute;s importador, taxa de c&acirc;mbio (paridade do poder de compra - PPP), PIB per capita do Brasil, e grupo de pa&iacute;ses componentes do G20. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O per&iacute;odo avaliado compreende de 1996 a 2001, para o qual todas as informa&ccedil;&otilde;es estavam dispon&iacute;veis. Procurou-se obter informa&ccedil;&otilde;es referentes aos anos de 2002 e posteriores. Todavia, dada a grande massa de dados ausentes para muitos pa&iacute;ses em desenvolvimento e que, n&atilde;o raro, possui sistemas de informa&ccedil;&otilde;es muito simples e menos cuidado comparativamente ao caso brasileiro, somente o intervalo de 1996 a 2001 apresentou informa&ccedil;&atilde;o completa para quase todos os pa&iacute;ses do mundo, conforme aqui elaborado. As fontes de dados utilizadas est&atilde;o relacionadas na <a href="#tab2">Tabela 2</a>. </font></p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a01tab02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esses produtos t&ecirc;m representado parcela significativa das receitas de exporta&ccedil;&otilde;es e do saldo comercial brasileiro, conforme se pode observar do gr&aacute;fico a seguir. </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a01graf01.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A introdu&ccedil;&atilde;o dos pa&iacute;ses do G20<a name="n8"></a><a href="#nt8"><sup>8</sup></a> como vari&aacute;vel dummy no processo de modelagem representa a inclus&atilde;o de um argumento de economia pol&iacute;tica. O G-20 &eacute; uma coaliz&atilde;o de pa&iacute;ses em desenvolvimento formada durante as negocia&ccedil;&otilde;es preparat&oacute;rias &agrave; reuni&atilde;o Ministerial de Canc&uacute;n, da Organiza&ccedil;&atilde;o Mundial do Com&eacute;rcio (OMC). Esta coaliz&atilde;o elaborou uma proposta liberalizante para subs&iacute;dios dom&eacute;sticos e para subs&iacute;dios a exporta&ccedil;&otilde;es, bem como para o acesso aos mercados por parte dos pa&iacute;ses desenvolvidos, em contraposi&ccedil;&atilde;o &agrave; proposta agr&iacute;cola protecionista apresentada em conjunto pela UE e pelos EUA (ICONE, 2007). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A participa&ccedil;&atilde;o no grupo sinaliza que seus componentes teriam, ao menos em tese, interesses diplom&aacute;ticos alinhados &agrave; estrat&eacute;gia brasileira nas negocia&ccedil;&otilde;es realizadas no &acirc;mbito da OMC, o que, em termos pr&aacute;ticos, poderia sinalizar pa&iacute;ses com estruturas de oferta de produtos agropecu&aacute;rios - efetiva ou potencialmente - pr&oacute;ximas da condi&ccedil;&atilde;o brasileira. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A t&iacute;tulo de exemplo, no caso de itens como sementes e oleaginosas, a&ccedil;&uacute;cares e confeitaria, e algod&atilde;o, alguns dos grandes importadores de produtos brasileiros em 2005 foram integrantes do G20, conforme observ&aacute;vel na <a href="#tab3">Tabela 3</a>. </font></p>     <p><a name="tab3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a01tab03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diversas especifica&ccedil;&otilde;es do modelo emp&iacute;rico foram utilizadas e estimadas via m&iacute;nimos quadrados ordin&aacute;rios em dados painel (pooled OLS). Essas especifica&ccedil;&otilde;es referem-se ao conjunto dos produtos da pauta agro exportadora brasileira. O uso das v&aacute;rias especifica&ccedil;&otilde;es visa realizar um teste de sensibilidade dos coeficientes obtidos, como ser&aacute; abordado com mais detalhes a seguir. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Eacute; igualmente v&aacute;lido incluir as caracter&iacute;sticas geogr&aacute;ficas dos pa&iacute;ses porque elas t&ecirc;m efeitos importantes sobre os fluxos comerciais e s&atilde;o, em regra, n&atilde;o correlacionadas com outros determinantes da renda. Em outros termos, ainda que caracter&iacute;sticas geogr&aacute;ficas n&atilde;o sejam uma conseq&uuml;&ecirc;ncia da renda ou da pol&iacute;tica dos pa&iacute;ses, elas s&atilde;o fatores importantes para facilitar ou restringir fluxos e dire&ccedil;&otilde;es comerciais. Como dito anteriormente, o presente trabalho inclui vari&aacute;veis dummies de localiza&ccedil;&atilde;o geogr&aacute;fica, i.e., os continentes em que os pa&iacute;ses importadores est&atilde;o localizados. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outra necessidade &eacute; reconhecer a exist&ecirc;ncia de fatores hist&oacute;ricos, culturais, &eacute;tnicos, pol&iacute;ticos e geogr&aacute;ficos que afetam o n&iacute;vel e as dire&ccedil;&otilde;es do com&eacute;rcio. Tais fatores podem estar correlacionados com as vari&aacute;veis "de gravidade" (PIB, popula&ccedil;&atilde;o, e dist&acirc;ncia). Nesse contexto, as estimativas que n&atilde;o contemplem tais fatores adicionais poderiam apresentar vi&eacute;s (CHENG e WALL, 2004). Esse condicionante levou &agrave; utiliza&ccedil;&atilde;o da estrat&eacute;gia emp&iacute;rica de estima&ccedil;&atilde;o de modelos de efeitos fixo e aleat&oacute;rio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os modelos de efeitos fixo e aleat&oacute;rio podem ser representados para o contexto desse trabalho na express&atilde;o abaixo: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n2/a01exp03.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">- no modelo de efeito fixo </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>0 </sub>&eacute; vari&aacute;vel para cada par i e j, e n&atilde;o varia com o tempo, mas sobretudo em fun&ccedil;&atilde;o daquele espec&iacute;fico parceiro comercial. Aqui, a varia&ccedil;&atilde;o seria somente em fun&ccedil;&atilde;o de j (pa&iacute;s importador), porque i &eacute; um exportador fixo, no caso, o Brasil; </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">- no modelo de efeito aleat&oacute;rio, </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>i</sub>= </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>0 +</sub> &xi;<sub>i</sub>, sendo </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">constante e &xi;<sub>i</sub>, um termo err&aacute;tico n&atilde;o correlacionado com as vari&aacute;veis explanat&oacute;rias do modelo para cada espec&iacute;fico pa&iacute;s importador. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No que tange ao funcionamento e &agrave; implementa&ccedil;&atilde;o dos modelos, a principal diferen&ccedil;a entre as duas estrat&eacute;gias de modelagem est&aacute; na matriz de vari&acirc;ncia e covari&acirc;ncia que decorre da presen&ccedil;a do termo err&aacute;tico no segundo modelo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em alguns casos, uma compara&ccedil;&atilde;o inter-pa&iacute;ses pode tamb&eacute;m incluir o conjunto completo de unidades geogr&aacute;ficas para as quais &eacute; razo&aacute;vel assumir que as diferen&ccedil;as entre unidades podem ser representadas por deslocamentos conhecidos (ou n&atilde;o err&aacute;ticos) de </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>0</sub> (efeito fixo). Em outros casos, pode ser mais apropriado raciocinar a constante de cada espec&iacute;fico grupo cross-section como aleatoriamente distribu&iacute;da (efeito aleat&oacute;rio) (GREENE, 2000). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dada a natureza dos dados aqui trabalhados, esses modelos representam possibilidades adicionais bastante interessantes, uma vez que &eacute; razo&aacute;vel assumir que vari&aacute;veis relevantes s&atilde;o distintas por parceria comercial (efeito fixo) e n&atilde;o necessariamente conhecidas de ano a ano ou mesmo n&atilde;o pass&iacute;veis de quantifica&ccedil;&atilde;o por sua pr&oacute;pria natureza (efeito aleat&oacute;rio). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nessa linha, incluem-se barreiras sanit&aacute;rias, fito-sanit&aacute;rias, ou mesmo regulamenta&ccedil;&otilde;es t&eacute;cnicas ou de rotulagem, que por certo oscilam de pa&iacute;s para pa&iacute;s bem como ao longo dos anos, muitas vezes de forma arbitrada, como resultado de a&ccedil;&otilde;es de economia pol&iacute;tica (liberalizante ou protecionista)<a name="n9"></a><a href="#nt9"><sup>9</sup></a>. Al&eacute;m disso, a pr&oacute;pria exist&ecirc;ncia de diferentes cronogramas e estruturas de desgravamento tarif&aacute;rio, regras de origem e listas de exce&ccedil;&atilde;o comercial dentre grupos de produtos refor&ccedil;a tal racioc&iacute;nio. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Note que a vari&aacute;vel pre&ccedil;o n&atilde;o foi inclu&iacute;da explicitamente. Segundo Anderson (1979), no modelo gravitacional, quase necessariamente a diferencia&ccedil;&atilde;o relaciona-se ao local de origem (ou &agrave; dist&acirc;ncia) do produtor. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Resultados </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como frisado anteriormente, estimaram-se diversas especifica&ccedil;&otilde;es do modelo gravitacional. Precisamente, quatro especifica&ccedil;&otilde;es diferentes foram postuladas. Na primeira tabela de resultados, os modelos foram estimados via Pooled OLS do mais parcimonioso - em termos das vari&aacute;veis explicativas - para o mais inclusivo <a name="n10"></a><a href="#nt10"><sup>10</sup></a>. Tal exerc&iacute;cio visa testar a sensibilidade dos resultados e coeficientes estimados das vari&aacute;veis inclusas no modelo gravitacional. Isto posto, adiciona-se ao modelo gravitacional cl&aacute;ssico vari&aacute;veis que potencialmente explicam a rela&ccedil;&atilde;o do fluxo comercial agropecu&aacute;rio brasileiro, como feito em v&aacute;rios estudos que incluem na especifica&ccedil;&atilde;o emp&iacute;rica vari&aacute;veis de economia pol&iacute;tica, macroeconomia e de an&aacute;lise regional-espacial (SEVELA, 2002; ZAHNISER et al., 2002; POROJAN, 2000). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A primeira especifica&ccedil;&atilde;o inclui somente duas vari&aacute;veis na abordagem gravitacional: Produto Interno Bruto (PIB) dos pa&iacute;ses importadores e a dist&acirc;ncia dos mesmos at&eacute; o Brasil. Ambas vari&aacute;veis s&atilde;o significativas a 1%. Os resultados indicam que quanto mais distante for o pa&iacute;s, menor sua aquisi&ccedil;&atilde;o de produtos agropecu&aacute;rios brasileiros. Resultado contr&aacute;rio &eacute; verificado para a vari&aacute;vel PIB: quanto maior a economia do parceiro comercial, mais ele importa produtos agropecu&aacute;rios do Brasil. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tal resultado permanece para as diversas especifica&ccedil;&otilde;es utilizadas, e o que muda s&atilde;o as magnitudes dos coeficientes. A t&iacute;tulo de ilustra&ccedil;&atilde;o, para a equa&ccedil;&atilde;o (1), o coeficiente da vari&aacute;vel PIB total &eacute; 1,12, enquanto que na especifica&ccedil;&atilde;o (3) &eacute; 0,76. Para o caso do PIB do importador, caso a economia do pa&iacute;s comprador cres&ccedil;a 1%, haver&aacute; um aumento na importa&ccedil;&atilde;o de produtos agropecu&aacute;rios brasileiros de aproximadamente 0,76%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A dist&acirc;ncia dos mercados compradores &eacute; a vari&aacute;vel que exibe maior impacto individual negativo para as vendas brasileiras de produtos agropecu&aacute;rios. O aumento de 1% na dist&acirc;ncia do Brasil para um de seus parceiros comerciais equivale a uma queda de aproximadamente 2,38% (modelo 3) nas vendas de produtos agropecu&aacute;rios brasileiros. Nesse sentido, as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras s&atilde;o negativamente el&aacute;sticas &agrave; dist&acirc;ncia para com os mercados consumidores externos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As dummies para regi&otilde;es geogr&aacute;ficas retratam uma atra&ccedil;&atilde;o positiva exercida pelos pa&iacute;ses do Leste Asi&aacute;tico e Pac&iacute;fico, provavelmente associada &agrave; presen&ccedil;a de Jap&atilde;o, China e &Iacute;ndia. Ao mesmo tempo, os pa&iacute;ses latino-americanos e africanos n&atilde;o se mostraram receptivos &agrave;s exporta&ccedil;&otilde;es agropecu&aacute;rias do Brasil, quase certamente por conta do baixo dinamismo econ&ocirc;mico que se tem verificado naquelas &aacute;reas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras tamb&eacute;m reagiram positivamente a incrementos na popula&ccedil;&atilde;o de nossos parceiros comerciais. O crescimento de 1% na popula&ccedil;&atilde;o dos pa&iacute;ses compradores acarreta acr&eacute;scimos de divisas de exporta&ccedil;&otilde;es agropecu&aacute;rias da ordem de 0,28% a 0,38%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por outro lado, o fato de o pa&iacute;s comprador elevar a participa&ccedil;&atilde;o de suas exporta&ccedil;&otilde;es agropecu&aacute;rias nas exporta&ccedil;&otilde;es totais impacta negativamente as exporta&ccedil;&otilde;es agropecu&aacute;rias do Brasil, embora esse impacto seja relativamente pequeno. Um ponto percentual (p.p.) a mais na participa&ccedil;&atilde;o de produtos agropecu&aacute;rios na pauta total de exporta&ccedil;&otilde;es do comprador externo acarreta em aproximadamente 0,02 p.p. de redu&ccedil;&atilde;o nas importa&ccedil;&otilde;es de produtos agropecu&aacute;rios oriundos do Brasil. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Vale ressaltar que a porcentagem da popula&ccedil;&atilde;o rural na popula&ccedil;&atilde;o total do pa&iacute;s estrangeiro n&atilde;o se mostrou estatisticamente significante para explicar o desempenho das exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras. Esse resultado pode ser compreendido &agrave; medida que, mesmo no Brasil, a popula&ccedil;&atilde;o rural n&atilde;o est&aacute; necessariamente engajada em atividades de produ&ccedil;&atilde;o agropecu&aacute;ria<a name="n11"></a><a href="#nt11"><sup>11</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Igualmente importante observar que, nas estimativas apresentadas, o crescimento da economia brasileira n&atilde;o mostrou efeito significativo sobre o desempenho do setor exportador agropecu&aacute;rio. Ao mesmo tempo, o impacto da taxa de c&acirc;mbio sobre as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras mostrou-se substancialmente pequeno ou mesmo nulo. Resultados similares j&aacute; haviam sido encontrados em trabalhos anteriores de outros pesquisadores, como descrito no item 2 referente &agrave; revis&atilde;o da literatura. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, como discutido na se&ccedil;&atilde;o metodol&oacute;gica, resultados mais acurados podem ser obtidos com a implementa&ccedil;&atilde;o dos procedimentos de efeito fixo ou aleat&oacute;rio na equa&ccedil;&atilde;o gravitacional. Isto feito, os respectivos resultados s&atilde;o apresentados &agrave; frente. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As estat&iacute;sticas usuais foram empregadas para averiguar o uso dos modelos de efeito fixo/aleat&oacute;rio. A estat&iacute;stica do teste de Breusch-Pagan para os modelos estimados foi significativa. O teste de Breusch-Pagan &eacute; utilizado para mensurar a estrutura de vari&acirc;ncia dos res&iacute;duos da regress&atilde;o cl&aacute;ssica por m&iacute;nimos quadrados, e se aplica para avalia&ccedil;&atilde;o de homocedasticidade dos mesmos, sendo considerado um teste assint&oacute;tico com distribui&ccedil;&atilde;o de &chi;<sup>2</sup>. No caso do presente estudo, as fontes amostradas representam a pr&oacute;pria popula&ccedil;&atilde;o objeto de an&aacute;lise nos anos avaliados<a name="n12"></a><a href="#nt12"><sup>12</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Desta forma, para o n&iacute;vel de signific&acirc;ncia de 1% rejeitou-se a hip&oacute;tese de que o modelo de pooled m&iacute;nimos quadrados ordin&aacute;rios (Pooled OLS) era apropriado, significando que o modelo correto poderia ser o de efeitos fixos ou aleat&oacute;rios. A estat&iacute;stica do teste de Hausman para os modelos estimados foi n&atilde;o significativa a 5%, demonstrando que o m&eacute;todo de estima&ccedil;&atilde;o de efeitos aleat&oacute;rios &eacute; o que melhor se ajusta aos dados. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo de efeitos aleat&oacute;rios aparenta ser mais apropriado para captar vari&aacute;veis n&atilde;o-expl&iacute;citas e de incid&ecirc;ncia err&aacute;tica. A t&iacute;tulo de ilustra&ccedil;&atilde;o, podem-se citar mudan&ccedil;as de governo nos pa&iacute;ses importadores, mudan&ccedil;as de classifica&ccedil;&atilde;o do Brasil nos acordo preferenciais de com&eacute;rcio e mesmo crises cambiais locais (i.e., dos mercados de destino). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#tab5">Tabela 5</a> exibe as quatro especifica&ccedil;&otilde;es para o procedimento de efeitos aleat&oacute;rios implementado. Em termos de signific&acirc;ncia dos par&acirc;metros, os resultados variaram pouco entre as diversas especifica&ccedil;&otilde;es. Similarmente, aqui as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras s&atilde;o negativamente el&aacute;sticas &agrave; dist&acirc;ncia para os mercados de destino: um incremento de 1% na dist&acirc;ncia do Brasil para um de seus parceiros comerciais gera, na m&eacute;dia, um recuo de cerca de 2,50% nas vendas desses produtos. </font></p>     <p><a name="tab4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a01tab04.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="tab5"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a01tab05.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De outra parte, agora o impacto do PIB externo sobre as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras &eacute; maior, ou seja, um acr&eacute;scimo de 0,92% (contra 0,76% nas estimativas Pooled OLS, <a href="#tab4">Tabela 4</a>) nas vendas desses produtos a cada 1% de crescimento do PIB do pa&iacute;s importador. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Novamente, as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras mostraram rea&ccedil;&atilde;o negativa ao crescimento da pauta agropecu&aacute;ria nas exporta&ccedil;&otilde;es totais do pa&iacute;s comprador e tamb&eacute;m negativamente afetadas pela localiza&ccedil;&atilde;o geogr&aacute;fica na Am&eacute;rica Latina. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por fim, foram calculados valores para aferi&ccedil;&atilde;o de robustez dos resultados, consoante as <a href="#tab6">Tabelas 6</a> e <a href="#tab7">7</a>. Nesse contexto, foram estimados modelos com cortes por tamanho (de popula&ccedil;&atilde;o) dos mercados de destino dos produtos sob an&aacute;lise. Os modelos emp&iacute;ricos s&atilde;o semelhantes em termos de vari&aacute;veis empregadas aos (3) e (4) das <a href="#tab4">Tabelas 4</a> e <a href="#tab5">5</a>. </font></p>     <p><a name="tab6"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n2/a01tab06.jpg"></p>     <p>&nbsp;</p>     <p><a name="tab7"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n2/a01tab07.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O primeiro corte levou em conta somente os pa&iacute;ses com 5 milh&otilde;es de habitantes ou mais, o que excluiu um grande n&uacute;mero de ilhas independentes e pa&iacute;ses de pequenas dimens&otilde;es geogr&aacute;ficas e econ&ocirc;micas. J&aacute; o segundo corte selecionou apenas os pa&iacute;ses com pelo menos 25 milh&otilde;es de habitantes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O primeiro corte (<a href="#tab6">Tabela 6</a>) implementado com o procedimento de efeito aleat&oacute;rio repetiu o sinal dos resultados da <a href="#tab5">Tabela 5</a> para as vari&aacute;veis dist&acirc;ncia, PIB do mercado de destino, e localiza&ccedil;&atilde;o na Am&eacute;rica Latina, registrando-se flutua&ccedil;&atilde;o nos valores dos par&acirc;metros. N&atilde;o obstante, deve-se observar que as vari&aacute;veis propor&ccedil;&atilde;o do setor agr&iacute;cola no PIB (pa&iacute;s de destino), taxa de c&acirc;mbio e PIB per capita do Brasil tornaram-se significativas estatisticamente a 1% e com os sinais esperados em teoria. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na transi&ccedil;&atilde;o para o segundo corte, em pa&iacute;ses de pelo menos 25 milh&otilde;es de habitantes, o mesmo procedimento diagnosticou um menor n&uacute;mero de vari&aacute;veis explanat&oacute;rias significativas<a name="n13"></a><a href="#nt13"><sup>13</sup></a>, comparativamente ao corte anterior. Nesse caso, nenhuma dummy para regi&atilde;o geogr&aacute;fica foi significativa. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ademais, as vari&aacute;veis dist&acirc;ncia, PIB do parceiro comercial, e taxa de c&acirc;mbio continuaram significativas estatisticamente, mas com respostas menores sobre as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras. Para esse segundo crit&eacute;rio, comparativamente ao anterior, apenas a vari&aacute;vel porcentagem do setor agr&iacute;cola no PIB do pa&iacute;s destino mostrou maior n&iacute;vel de impacto sobre as exporta&ccedil;&otilde;es analisadas (especifica&ccedil;&atilde;o 4). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Isso sinaliza uma clara diferencia&ccedil;&atilde;o das vari&aacute;veis relevantes para explicar as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras em fun&ccedil;&atilde;o de caracter&iacute;sticas espec&iacute;ficas de pa&iacute;ses ou grupamentos de mercados de destino desses produtos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Adicionalmente &eacute; preciso ressaltar que, de fato, os pa&iacute;ses do G20, China e &Iacute;ndia n&atilde;o se apresentaram como fatores de atra&ccedil;&atilde;o per si. No caso do conjunto de pa&iacute;ses do G20, a n&atilde;o signific&acirc;ncia dos par&acirc;metros estimados alinha-se com o fato de que esses pa&iacute;ses possuem interesses comerciais pr&oacute;ximos aos do Brasil e, assim, &eacute; razo&aacute;vel que n&atilde;o sejam mercados naturais de atra&ccedil;&atilde;o desses itens quando produzidos na economia brasileira. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em rela&ccedil;&atilde;o &agrave; China e &agrave; &Iacute;ndia, deve ser compreendido que h&aacute; tamb&eacute;m dois condicionantes envolvidos. Em primeiro plano, o intervalo de dados dispon&iacute;vel para a pesquisa (1996-2001) n&atilde;o atinge o per&iacute;odo auge de grandes volumes de exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras para aqueles mercados. Al&eacute;m disso, embora China e &Iacute;ndia sejam grandes mercados consumidores de alimentos e de alimentos processados, esses dois pa&iacute;ses s&atilde;o tamb&eacute;m grandes produtores desses bens. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. Considera&ccedil;&otilde;es finais </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O presente trabalho teve por objetivo averiguar os fatores de atra&ccedil;&atilde;o das exporta&ccedil;&otilde;es agropecu&aacute;rias do Brasil. Nesse contexto, prop&ocirc;s-se a responder a tr&ecirc;s quest&otilde;es espec&iacute;ficas, ou seja, detectar as caracter&iacute;sticas dos parceiros comerciais que afetam as exporta&ccedil;&otilde;es desses produtos, aferir o impacto do crescimento dom&eacute;stico sobre essas exporta&ccedil;&otilde;es e avaliar o efeito do perfil agroexportador dos pa&iacute;ses parceiros nas exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A metodologia utilizada - o modelo gravitacional - atendeu aos objetivos desenhados e sua aplica&ccedil;&atilde;o para os prop&oacute;sitos emp&iacute;ricos estabelecidos no presente trabalho havia sido discutida recentemente em Evennet e Keller (2002) e, tamb&eacute;m, nos artigos seminais de Anderson (1979), Bergstrand (1985), e Bergstrand (1989). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com rela&ccedil;&atilde;o ao primeiro questionamento, as vari&aacute;veis dist&acirc;ncia para o mercado de destino e Produto Interno Bruto (PIB) dos parceiros comerciais mostraram-se relevantes para o maior ou menor montante de exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras no per&iacute;odo analisado. Nesse sentido, observa-se que os pa&iacute;ses com maiores contingentes populacionais e com maior n&iacute;vel de atividade econ&ocirc;mica, em termos de PIB, s&atilde;o os que importam mais produtos do setor agropecu&aacute;rio brasileiro. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ao mesmo tempo, a desvaloriza&ccedil;&atilde;o da moeda local exibiu um impacto positivo sobre as vendas agropecu&aacute;rias ao exterior, quando observados os grupamentos de pa&iacute;ses por cortes populacionais no procedimento econom&eacute;trico de efeitos aleat&oacute;rios. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ademais, nas estimativas referentes &agrave; implementa&ccedil;&atilde;o dos cortes por faixa populacional, identificou-se um grande efeito negativo sobre essas exporta&ccedil;&otilde;es em decorr&ecirc;ncia de aumentos da import&acirc;ncia do setor agr&iacute;cola no PIB do mercado de destino. O que seria um sinalizador de crescimento de autonomia daquele pa&iacute;s destino no que se reporta &agrave; sua auto-sufici&ecirc;ncia na produ&ccedil;&atilde;o de alimentos. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dentre os modelos empregados, n&atilde;o se identificou claro fator de atra&ccedil;&atilde;o associado &agrave; localiza&ccedil;&atilde;o geogr&aacute;fica (&Aacute;frica, &Aacute;sia, ou Am&eacute;rica Latina). Antes disso, no caso dos pa&iacute;ses latino-americanos, o local de identifica&ccedil;&atilde;o do pa&iacute;s traduz-se numa menor atra&ccedil;&atilde;o dos produtos agropecu&aacute;rios ofertados pelo Brasil no mercado internacional. Esse resultado est&aacute; provavelmente associado a estruturas produtivas substitutas nesses bens (caso da Argentina em carnes, cereais e leguminosas, por exemplo) ou mesmo por h&aacute;bitos alimentares distintos (como no caso de M&eacute;xico, com maior aceita&ccedil;&atilde;o de milho e alimentos condimentados ou Chile e Peru, com maior prefer&ecirc;ncia por peixes e bebidas). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto ao segundo questionamento, o crescimento da economia local mostrou-se elemento limitante das exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras somente nas estimativas do corte de pa&iacute;ses com mais de cinco milh&otilde;es de habitantes. A aparente indiferen&ccedil;a das exporta&ccedil;&otilde;es agropecu&aacute;rias ao crescimento do PIB local pode estar relacionada &agrave; maior capacidade de resposta e maior habilidade de deslocamento de produ&ccedil;&atilde;o que o agroneg&oacute;cio brasileiro tem desenvolvido seja em fun&ccedil;&atilde;o de maci&ccedil;os investimentos pregressos em tecnologia e manejo da produ&ccedil;&atilde;o (maior capacidade de resposta) seja pelo estabelecimento de cadeias de integra&ccedil;&atilde;o verticais e melhor conex&atilde;o entre distribuidoras de insumo, produtores in loco, e processadores finais (deslocamento da produ&ccedil;&atilde;o). Al&eacute;m disso, h&aacute; que se ter em mente que o per&iacute;odo de avalia&ccedil;&atilde;o (1996-2001) exibiu taxas de crescimento dom&eacute;stico realmente bastante modestas, em patamares tais que de fato fossem pouco impactantes das vendas de bens agropecu&aacute;rios no mercado internacional. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sobre esse resultado, Carvalho e De Negri (2000) haviam obtido n&uacute;meros similares em rela&ccedil;&atilde;o &agrave; influ&ecirc;ncia do PIB dom&eacute;stico sobre as exporta&ccedil;&otilde;es agropecu&aacute;rias. Todavia, a abertura por grupos de produtos pode revelar um car&aacute;ter importante para as exporta&ccedil;&otilde;es agropecu&aacute;rias, como identificado nos trabalhos de Sevela (2000) (para o caso da Rep&uacute;blica Tcheca), Reis e Crespo (1998), Barros, Bacchi e Burnquist (2002) e Maia (2003), sobretudo porque os grupos de produtos agropecu&aacute;rios s&atilde;o razoavelmente distintos entre si em termos de suas estruturas de mercado, tanto no Brasil como no exterior. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">J&aacute; quanto ao perfil agroexportador dos parceiros comerciais, o caso geral nos procedimentos padr&atilde;o (pooled OLS) e de efeitos aleat&oacute;rios identificaram um modesto impacto negativo da maior presen&ccedil;a da pauta agroexportadora desses pa&iacute;ses sobre as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras. Como enunciado &agrave; introdu&ccedil;&atilde;o do estudo, pa&iacute;ses que s&atilde;o grandes produtores e vendedores de produto agropecu&aacute;rio (China, &Iacute;ndia, R&uacute;ssia, Austr&aacute;lia e mesmo Estados Unidos e Uni&atilde;o Europ&eacute;ia) s&atilde;o, igualmente, grandes importadores l&iacute;quidos de in&uacute;meros produtos que n&atilde;o por acaso encabe&ccedil;am a lista de produtos efetivamente exportados pelo Brasil, como a&ccedil;&uacute;car e carnes, para citar dois exemplos caracter&iacute;sticos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por fim, como visto, tanto na revis&atilde;o te&oacute;rica como pelos resultados diferenciados dos modelos de efeitos aleat&oacute;rios (caso geral, e cortes), h&aacute; rela&ccedil;&otilde;es comerciais espec&iacute;ficas do Brasil com os demais pa&iacute;ses. Isso sugere uma diferencia&ccedil;&atilde;o das vari&aacute;veis relevantes para explicar as exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras em fun&ccedil;&atilde;o de caracter&iacute;sticas espec&iacute;ficas de pa&iacute;ses ou grupamentos de mercados de destino desses produtos. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>7. Refer&ecirc;ncias bibliogr&aacute;ficas </b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ANDERSON, J. A. A theoretical foundation for the gravity equation. American Economic Review. v.69, n.1, p.106-116, 1979.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-2003200800020000100001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ANDERSON, K.; MARTIN, W.; VAN DER MENSBRUGGHE, D., Doha Merchandise Trade Reform and Developing Countries: What is at Stake? Washington. World Bank, 2005 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003200800020000100002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARROS, G. S. C.; BACCHI, M. R. P.; BURNQUIST, H. L. Estima&ccedil;&atilde;o de equa&ccedil;&otilde;es de Oferta de Exporta&ccedil;&atilde;o de Produtos Agropecu&aacute;rios para o Brasil (1992/2000). Bras&iacute;lia: IPEA, 2002. 53p. (Texto para Discuss&atilde;o, 875).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003200800020000100003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BERGSTRAND, J. H.. The gravity equation in international trade: some microeconomic foundations and empirical evidence. Review of Economics and Statistics, n.67, v.3 p.474-481, 1985.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003200800020000100004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BERGSTRAND, J. H.. The generalized gravity equation monopolistic competition, and the factor proportions theory in international trade. Review of Economics and Statistics, n.71, p.143-153, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0103-2003200800020000100005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BOU&Euml;T, A. A bilateral and disaggregated measurement of agricultural market access in the European Union and in Mercosur. Paris. Centre d'Analyse &Eacute;conomique et de Traitement d&ecirc;s donn&eacute;es &eacute;conomiques (CATT) / Centre d'&Eacute;tudes Prospectives et d'Informations Internationales (CEPII), 2003. 31p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0103-2003200800020000100006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BRAUN, M.; HAUSMANN, R.; PRITCHETT, L. Disintegration and the proliferation of sovereigns: Are there lessons for integration? Harvard University: Center for International Development (CID), 2002. 45p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0103-2003200800020000100007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CARVALHO, A.; DE NEGRI, J. A. Estima&ccedil;&atilde;o de equa&ccedil;&otilde;es de importa&ccedil;&atilde;o e exporta&ccedil;&atilde;o de Produtos Agropecu&aacute;rios para o Brasil (1977/1998). Bras&iacute;lia: IPEA, 2000. 30p. (Texto para Discuss&atilde;o, 698).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0103-2003200800020000100008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CASTILHO, M.R. O sistema de prefer&ecirc;ncias comerciais da Uni&atilde;o Europ&eacute;ia. Bras&iacute;lia: IPEA, 2000. 67p. (Texto para Discuss&atilde;o, 742) </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S0103-2003200800020000100009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CASTILHO, M. R. (2001). O Acesso das exporta&ccedil;&otilde;es do Mercosul ao mercado europeu. IN: XXIX ENCONTRO NACIONAL DE ECONOMIA, Salvador, Anais, ... Salvador: ANPEC, 2001. 21p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003200800020000100010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CENTRO DE ESTUDOS AVAN&Ccedil;ADOS EM ECONOMIA APLICADA (CEPEA). TBT - Barreiras T&eacute;cnicas ao Com&eacute;rcio Internacional. Piracicaba: CEPEA, 2007. 13p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0103-2003200800020000100011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHENG, I.H.; WALL, H.J. Controlling for heterogeneity in Gravity Models of Trade. Working Paper 99-010A. Saint Louis: Federal Reserve Bank of Saint Louis, 2004 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0103-2003200800020000100012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CUNHA FILHO, J.H. As quotas tarif&aacute;rias e o acesso dos produtos agroindustriais Brasileiros ao mercado internacional. 2004. 159p. Disserta&ccedil;&atilde;o (M.S.) - Escola Superior de Agricultura "Luiz de Queiroz", Universidade de S&atilde;o Paulo, Piracicaba, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000201&pid=S0103-2003200800020000100013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DEARDOFF, A. V. Determinants of bilateral trade: does gravity work in a neoclassical world? In: The Regionalization of the World Economy (Ed. JEFFREY A. FRANKEL). Chicago: Chicago University Press, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000203&pid=S0103-2003200800020000100014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --> EVENETT, S. J.; KELLER, W. On Theories Explaining the Success of the Gravity Equation. Journal of Political Economy, v.110, n.2, p.281-316, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0103-2003200800020000100015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FEENSTRA, R. C.; MARKUSEN, J. R.; ROSE, A. K. Understanding the home market effect and the gravity equation: the role of differentiating goods. NBER Working Paper 6804, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0103-2003200800020000100016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FEENSTRA, R. C.; MARKUSEN, J. R.; ROSE, A. K. Using the gravity equation to differentiate among alternative theories of trade. The Canadian Journal of Economics, v.34, n.2, p.430-477, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S0103-2003200800020000100017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FERREIRA, B.; BALSADI, O. V.; FREITAS, R. E..; ALMEIDA, A. N. Ocupa&ccedil;&otilde;es agr&iacute;colas e n&atilde;o agr&iacute;colas: trajet&oacute;ria e rendimentos no meio rural brasileiro. In: DE NEGRI, J.; DE NEGRI, F.; COELHO, D. (Orgs.) Tecnologia, exporta&ccedil;&atilde;o e emprego. Bras&iacute;lia: IPEA, 2006, v.1, p.445-488.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000210&pid=S0103-2003200800020000100018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FONSECA, M. B.; HIDALGO, A. B., A forma&ccedil;&atilde;o da ALCA e os prov&aacute;veis efeitos sobre as exporta&ccedil;&otilde;es agr&iacute;colas brasileiras, Revista de Economia e Sociologia Rural, v. 44, n.1, pp. 9-26, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000212&pid=S0103-2003200800020000100019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FOREIGN TRADE AND INFORMATION SERVICE (FTIS). Agreement establishing the World Trade Organization: the Uruguay round final act. Dispon&iacute;vel em: &lt; <a href="http://www.sice.oas.org/trade/ur_round/URTOC.asp" target="_blank">http://www.sice.oas.org/trade/ ur_round/URTOC.asp</a> &gt;. Acesso em 12 dez.. 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000214&pid=S0103-2003200800020000100020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GREENE, W. Econometric Analysis. New Jersey: Prentice-Hall, 2000. 1004p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000216&pid=S0103-2003200800020000100021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GUILHOTO, J. J. M.; SILVEIRA, F. G.; AZZONI, C. PIB das cadeias produtivas da agricultura familiar. Bras&iacute;lia: NEAD/MDA/FIPE, 2004. 32p (apresenta&ccedil;&atilde;o).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000218&pid=S0103-2003200800020000100022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HIDALGO, A. B.; VERGOLINO, J. R. O nordeste e o com&eacute;rcio interregional e internacional: um teste dos impactos por meio do modelo gravitacional. Economia Aplicada, v. 2, n. 4, p. 707-725, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000220&pid=S0103-2003200800020000100023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HOMEM DE MELO, F. B. A abertura comercial e o papel dos aumentos de produtividade na agricultura brasileira. Mimeo (s.d.). Dispon&iacute;vel em: &lt; <a href="http://www.ifb.com.br/documentos/hdemelo.pdf" target="_blank">http://www.ifb.com.br/documentos/hdemelo.pdf</a>. &gt;. Acesso em 07 jul. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000222&pid=S0103-2003200800020000100024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">INSTITUTO DE ESTUDOS DO COM&Eacute;RCIO E NEGOCIA&Ccedil;&Otilde;ES INTERNACIONAIS (ICONE). Sobre Com&eacute;rcio e Negocia&ccedil;&otilde;es. Dispon&iacute;vel no site: &lt; <a href="http://www.iconebrasil.org.br" target="_blank">http://www.iconebrasil.org.br</a> &gt;, Acesso em 08 jan. 2007 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000224&pid=S0103-2003200800020000100025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KOENKER, R. A Note on Studentizing a test for Heterocedasticity. Journal of Econometrics, v.17, p.1180-1200, 1981.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000225&pid=S0103-2003200800020000100026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KRUGMAN, P. Scale economies, product differentiation, and the pattern of trade. The American Economic Review, v.70, n.5, p.950-959, 1980.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000227&pid=S0103-2003200800020000100027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MAIA, A. G.; DEDECCA, C. S.; VIEIRA FILHO, J. E.; SILVEIRA, J. M. F. J. A evolu&ccedil;&atilde;o recente da ocupa&ccedil;&atilde;o e do rendimento no setor agr&iacute;cola. IN: XLIII CONGRESSO DA SOBER, Ribeir&atilde;o Preto, Anais ..., Ribeir&atilde;o Preto: SOBER, 2005. 19p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000229&pid=S0103-2003200800020000100028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MAIA, S. F. Determinantes das exporta&ccedil;&otilde;es agr&iacute;colas em cen&aacute;rio de macroeconomia aberta: abordagem por modelos de s&eacute;ries de tempo. IN: ANAIS DO XXXI ENCONTRO NACIONAL DE ECONOMIA, Porto Seguro, Anais ..., Porto Seguro: ANPEC, 2003, 20p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000231&pid=S0103-2003200800020000100029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MINIST&Eacute;RIO DO DESENVOLVIMENTO IND&Uacute;STRIA E COM&Eacute;RCIO EXTERIOR (MDIC). Barreiras externas &agrave;s exporta&ccedil;&otilde;es brasileiras 2001. Bras&iacute;lia: MCID, 2001. 86p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000233&pid=S0103-2003200800020000100030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MINIST&Eacute;RIO DO DESENVOLVIMENTO IND&Uacute;STRIA E COM&Eacute;RCIO EXTERIOR (MDIC). Aliceweb. Bras&iacute;lia: MCID. Dispon&iacute;vel em: &lt; <a href="http://aliceweb.mdic.gov.br/" target="_blank">http://aliceweb.mdic.gov.br/</a> &gt;. Acesso: 13 fev. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000235&pid=S0103-2003200800020000100031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PAZ, L. S.; FRANCO NETO, A., A Brazilian border and MERCOSUR integration effects: an exploratory assessment using the gravity model. IN: ANAIS DO XXXI ENCONTRO NACIONAL DE ECONOMIA, Porto Seguro, Anais ..., Porto Seguro: ANPEC, 2003, 21p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000237&pid=S0103-2003200800020000100032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PIANI, G.; KUME, H. Fluxos bilaterais de com&eacute;rcio e blocos regionais: uma aplica&ccedil;&atilde;o do modelo gravitacional. Rio de Janeiro: Ipea, jul. 2000. 22p. (Texto para Discuss&atilde;o, n. 749).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000239&pid=S0103-2003200800020000100033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">POROJAN, A., Trade Flows and Spatial Effects: the Gravity Model Revisited. Derby: Universtity of Derby, 2000. 15p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000241&pid=S0103-2003200800020000100034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">REIS, J. N. P.; CRESPO, J. E. Q., Um Modelo Econom&eacute;trico para as Exporta&ccedil;&otilde;es de A&ccedil;&uacute;car do Brasil. Agricultura em S&atilde;o Paulo, S&atilde;o Paulo, v.45, n.1, p.17-32, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000243&pid=S0103-2003200800020000100035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SEVELA, M., Gravity type-model of Czech agricultural export. Agricultural Economics, v, 48, p.463-466, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000245&pid=S0103-2003200800020000100036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SANTOS SILVA, J.; TENREYRO, S. 2005. The Log of Gravity. CEPR Discussion Paper no. 5.311. London: Centre for Economic Policy Research. Dispon&iacute;vel em: &lt; <a href="http://www.cepr.org/pubs/dps/DP5311.asp" target="_blank">http://www.cepr.org/pubs/dps/DP5311.asp</a> &gt;. Acesso 15 mai. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000247&pid=S0103-2003200800020000100037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">UNITED NATIONS (UN). Growth in United Nations Membership, 19452005. Dispon&iacute;vel em: &lt; <a href="http://www.un.org/Overview/growth.htm" target="_blank">http://www.un.org/Overview/growth.htm</a>. &gt; Acesso: 22 mar. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000249&pid=S0103-2003200800020000100038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">WORLD TRADE ORGANIZATION (WTO). Regional Trade Agreements: facts and figures. Bruxelas: World Trade Organization, Dispon&iacute;vel em: &lt; <a href="http://www.wto.org/english/tratop_e/region_e/regfac_e.htm" target="_blank">http://www.wto.org/english/tratop_e/region_e/regfac_e.htm</a> &gt; Acesso: 22 mar. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000251&pid=S0103-2003200800020000100039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ZAHNISER, S.; PICK, D.; POMPELLI; G. M.; GEHLHAR, M. J. Regionalism in the western hemisphere and its impact on U.S. agricultural exports: a gravity-model analysis. American Journal of Agricultural Economics, v.84, n.3, p.791-797, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000253&pid=S0103-2003200800020000100040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="nt1"></a><a href="#n1">1</a> Inclui os valores viabilizados atrav&eacute;s de subs&iacute;dios &agrave;s exporta&ccedil;&otilde;es.    <br> <a name="nt2"></a><a href="#n2">2</a> Acerca desse ponto, &eacute; conhecido o car&aacute;ter discriminat&oacute;rio desses acordos em rela&ccedil;&atilde;o &agrave;s exporta&ccedil;&otilde;es agropecu&aacute;rias brasileiras, conforme discutido em Castilho (2000), MDIC (2001), Bou&euml;t (2003) e Cunha Filho (2004).    <br> <a name="nt3"></a><a href="#n3">3</a> As principais vari&aacute;veis empregadas no referido modelo foram: a taxa de c&acirc;mbio, o subs&iacute;dio &agrave; comercializa&ccedil;&atilde;o, os pre&ccedil;os de exporta&ccedil;&atilde;o, os pre&ccedil;os dom&eacute;sticos, o produto efetivo local, o produto potencial local, e o produto externo efetivo.     <br> <a name="nt4"></a><a href="#n4">4</a> As vari&aacute;veis inclu&iacute;das na an&aacute;lise foram: quantidade exportada, pre&ccedil;o do mercado interno do produto, taxa de c&acirc;mbio efetiva, pre&ccedil;o recebido pelas exporta&ccedil;&otilde;es, renda nacional real, vari&aacute;veis bin&aacute;rias representando os diferentes meses do ano e vari&aacute;veis bin&aacute;rias que representam os anos da amostra.     <br> <a name="nt5"></a><a href="#n5">5</a> Especificamente, as taxas de c&acirc;mbio, &iacute;ndices de valor das exporta&ccedil;&otilde;es e de valor das importa&ccedil;&otilde;es, e os deflatores dos respectivos PIBs. Essa forma generalizada &eacute; tratada como um subsistema de equil&iacute;brio parcial de um modelo de com&eacute;rcio de equil&iacute;brio geral com produtos diferenciados nacionalmente.     <br> <a name="nt6"></a><a href="#n6">6</a> Um aprofundamento desse ponto foge ao objetivo e escopo do presente texto. O lei-tor interessado poder&aacute; encontrar maiores detalhes em Porojan (2000), Cheng e Wall (2004), e Santos Silva e Tenreyro (2005).    ]]></body>
+<body><![CDATA[<br> <a name="nt7"></a><a href="#n7">7</a> Para uma discuss&atilde;o em pormenores ver Greene (2000).     <br> <a name="nt8"></a><a href="#n8">8</a> A composi&ccedil;&atilde;o original do G20 contempla os seguintes pa&iacute;ses: &Aacute;frica do Sul, Argentina, Bol&iacute;via, Brasil, Chile, Filipinas, Guatemala, Indon&eacute;sia, Paraguai, Tail&acirc;ndia, China, Cuba, Egito, Equador, &Iacute;ndia, M&eacute;xico, Nig&eacute;ria, Paquist&atilde;o, Peru e Venezuela.     <br> <a name="nt9"></a><a href="#n9">9</a> Segundo CEPEA (2007) &eacute; poss&iacute;vel observar que as barreiras n&atilde;o tarif&aacute;rias assumem hoje um papel crescente em termos de restri&ccedil;&otilde;es &agrave;s movimenta&ccedil;&otilde;es comerciais.     <br> <a name="nt10"></a><a href="#n10">10</a> Como checagem, tanto para o caso geral como para os maiores pa&iacute;ses, tamb&eacute;m foram estimados modelos <i>Pooled </i>OLS com <i>dummies </i>para os diferentes anos da amostra. Todavia, os par&acirc;metros estimados e a signific&acirc;ncia estat&iacute;stica dessas estimativas pouco diferiram dos resultados apresentados na <a href="#tab4">Tabela 4</a> e, portanto, n&atilde;o s&atilde;o reportadas.    <br> <a name="nt11"></a><a href="#n11">11</a> Para um aprofundamento do caso brasileiro, veja-se Ferreira <i>et al. </i>(2006).     <br> <a name="nt12"></a><a href="#n12">12</a> Detalhamentos sobre o teste podem ser encontrados em Koenker (1981).     <br> <a name="nt13"></a><a href="#n13">13</a> Sempre se referindo ao per&iacute;odo para o qual os dados estiveram dispon&iacute;veis. </font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANDERSON]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A theoretical foundation for the gravity equation]]></article-title>
+<source><![CDATA[American Economic Review.]]></source>
+<year>1979</year>
+<volume>69</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>106-116</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANDERSON]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARTIN]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VAN DER MENSBRUGGHE]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Doha Merchandise Trade Reform and Developing Countries: What is at Stake?]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[World Bank]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G. S. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M. R. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURNQUIST]]></surname>
+<given-names><![CDATA[H. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estimação de equações de Oferta de Exportação de Produtos Agropecuários para o Brasil (1992/2000)]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERGSTRAND]]></surname>
+<given-names><![CDATA[J. H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[The gravity equation in international trade: some microeconomic foundations and empirical evidence]]></article-title>
+<source><![CDATA[Review of Economics and Statistics]]></source>
+<year>1985</year>
+<volume>3</volume>
+<numero>67</numero>
+<issue>67</issue>
+<page-range>474-481</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERGSTRAND]]></surname>
+<given-names><![CDATA[J. H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The generalized gravity equation monopolistic competition, and the factor proportions theory in international trade]]></article-title>
+<source><![CDATA[Review of Economics and Statistics]]></source>
+<year>1989</year>
+<numero>71</numero>
+<issue>71</issue>
+<page-range>143-153</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOUËT]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A bilateral and disaggregated measurement of agricultural market access in the European Union and in Mercosur]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Centre d'Analyse Économique et de Traitement dês données économiques (CATT)Centre d'Études Prospectives et d'Informations Internationales (CEPII)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRAUN]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HAUSMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PRITCHETT]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Disintegration and the proliferation of sovereigns: Are there lessons for integration?]]></source>
+<year>2002</year>
+<page-range>45</page-range><publisher-name><![CDATA[Harvard UniversityCenter for International Development (CID)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DE NEGRI]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estimação de equações de importação e exportação de Produtos Agropecuários para o Brasil (1977/1998)]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTILHO]]></surname>
+<given-names><![CDATA[M.R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O sistema de preferências comerciais da União Européia]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTILHO]]></surname>
+<given-names><![CDATA[M. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O Acesso das exportações do Mercosul ao mercado europeu]]></article-title>
+<source><![CDATA[Anais, ...]]></source>
+<year>2001</year>
+<conf-name><![CDATA[ XXIX ENCONTRO NACIONAL DE ECONOMIA]]></conf-name>
+<conf-loc>Salvador </conf-loc>
+<publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[ANPEC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<collab>CENTRO DE ESTUDOS AVANÇADOS EM ECONOMIA APLICADA</collab>
+<source><![CDATA[TBT: Barreiras Técnicas ao Comércio Internacional]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+<publisher-name><![CDATA[CEPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHENG]]></surname>
+<given-names><![CDATA[I.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WALL]]></surname>
+<given-names><![CDATA[H.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Controlling for heterogeneity in Gravity Models of Trade]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Saint Louis ]]></publisher-loc>
+<publisher-name><![CDATA[Federal Reserve Bank of Saint Louis]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CUNHA FILHO]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[As quotas tarifárias e o acesso dos produtos agroindustriais Brasileiros ao mercado internacional]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DEARDOFF]]></surname>
+<given-names><![CDATA[A. V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Determinants of bilateral trade: does gravity work in a neoclassical world?]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[FRANKEL]]></surname>
+<given-names><![CDATA[JEFFREY A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Regionalization of the World Economy]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[Chicago University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EVENETT]]></surname>
+<given-names><![CDATA[S. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KELLER]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On Theories Explaining the Success of the Gravity Equation]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>2002</year>
+<volume>110</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>281-316</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FEENSTRA]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARKUSEN]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSE]]></surname>
+<given-names><![CDATA[A. K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Understanding the home market effect and the gravity equation: the role of differentiating goods]]></source>
+<year>1998</year>
+<publisher-name><![CDATA[NBER Working Paper 6804]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FEENSTRA]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARKUSEN]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSE]]></surname>
+<given-names><![CDATA[A. K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using the gravity equation to differentiate among alternative theories of trade]]></article-title>
+<source><![CDATA[The Canadian Journal of Economics]]></source>
+<year>2001</year>
+<volume>34</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>430-477</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BALSADI]]></surname>
+<given-names><![CDATA[O. V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FREITAS]]></surname>
+<given-names><![CDATA[R. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[A.N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Ocupações agrícolas e não agrícolas: trajetória e rendimentos no meio rural brasileiro]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[DE NEGRI]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DE NEGRI]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tecnologia, exportação e emprego]]></source>
+<year>2006</year>
+<volume>1</volume>
+<page-range>445-488</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FONSECA]]></surname>
+<given-names><![CDATA[M. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HIDALGO]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A formação da ALCA e os prováveis efeitos sobre as exportações agrícolas brasileiras]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2006</year>
+<volume>44</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>9-26</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<collab>FOREIGN TRADE AND INFORMATION SERVICE</collab>
+<source><![CDATA[Agreement establishing the World Trade Organization: the Uruguay round final act]]></source>
+<year>12 d</year>
+<month>ez</month>
+<day>..</day>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENE]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric Analysis]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[New Jersey ]]></publisher-loc>
+<publisher-name><![CDATA[Prentice-Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUILHOTO]]></surname>
+<given-names><![CDATA[J. J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVEIRA]]></surname>
+<given-names><![CDATA[F. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AZZONI]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[PIB das cadeias produtivas da agricultura familiar]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[NEADMDAFIPE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HIDALGO]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VERGOLINO]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O nordeste e o comércio interregional e internacional: um teste dos impactos por meio do modelo gravitacional]]></article-title>
+<source><![CDATA[Economia Aplicada]]></source>
+<year>1998</year>
+<volume>2</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>707-725</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOMEM DE MELO]]></surname>
+<given-names><![CDATA[F. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A abertura comercial e o papel dos aumentos de produtividade na agricultura brasileira: Mimeo]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<collab>INSTITUTO DE ESTUDOS DO COMÉRCIO E NEGOCIAÇÕES INTERNACIONAIS</collab>
+<source><![CDATA[Sobre Comércio e Negociações]]></source>
+<year>08 j</year>
+<month>an</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KOENKER]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A Note on Studentizing a test for Heterocedasticity]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>1981</year>
+<volume>17</volume>
+<page-range>1180-1200</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KRUGMAN]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Scale economies, product differentiation, and the pattern of trade]]></article-title>
+<source><![CDATA[The American Economic Review]]></source>
+<year>1980</year>
+<volume>70</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>950-959</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAIA]]></surname>
+<given-names><![CDATA[A. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DEDECCA]]></surname>
+<given-names><![CDATA[C. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA FILHO]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVEIRA]]></surname>
+<given-names><![CDATA[J. M. F. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A evolução recente da ocupação e do rendimento no setor agrícola]]></article-title>
+<source><![CDATA[Anais ...]]></source>
+<year>2005</year>
+<conf-name><![CDATA[ XLIII CONGRESSO DA SOBER]]></conf-name>
+<conf-loc>Ribeirão Preto </conf-loc>
+<publisher-loc><![CDATA[ibeirão Preto ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAIA]]></surname>
+<given-names><![CDATA[S. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Determinantes das exportações agrícolas em cenário de macroeconomia aberta: abordagem por modelos de séries de tempo]]></article-title>
+<source><![CDATA[Anais ...]]></source>
+<year>2003</year>
+<conf-name><![CDATA[ ANAIS DO XXXI ENCONTRO NACIONAL DE ECONOMIA]]></conf-name>
+<conf-loc>Porto Seguro </conf-loc>
+<page-range>20</page-range><publisher-loc><![CDATA[Porto Seguro ]]></publisher-loc>
+<publisher-name><![CDATA[ANPEC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<collab>MINISTÉRIO DO DESENVOLVIMENTO INDÚSTRIA E COMÉRCIO EXTERIOR</collab>
+<source><![CDATA[Barreiras externas às exportações brasileiras 2001]]></source>
+<year>2001</year>
+<page-range>86</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[MCID]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<collab>MINISTÉRIO DO DESENVOLVIMENTO INDÚSTRIA E COMÉRCIO EXTERIOR</collab>
+<source><![CDATA[Aliceweb]]></source>
+<year>13 f</year>
+<month>ev</month>
+<day>. </day>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[MCID]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PAZ]]></surname>
+<given-names><![CDATA[L. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRANCO NETO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A Brazilian border and MERCOSUR integration effects: an exploratory assessment using the gravity model]]></article-title>
+<source><![CDATA[Anais ...]]></source>
+<year>2003</year>
+<conf-name><![CDATA[ ANAIS DO XXXI ENCONTRO NACIONAL DE ECONOMIA]]></conf-name>
+<conf-loc>Porto Seguro </conf-loc>
+<publisher-loc><![CDATA[Porto Seguro ]]></publisher-loc>
+<publisher-name><![CDATA[ANPEC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIANI]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KUME]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fluxos bilaterais de comércio e blocos regionais: uma aplicação do modelo gravitacional]]></source>
+<year>jul.</year>
+<month> 2</month>
+<day>00</day>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POROJAN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Trade Flows and Spatial Effects: the Gravity Model Revisited]]></source>
+<year>2000</year>
+<page-range>15</page-range><publisher-loc><![CDATA[Derby ]]></publisher-loc>
+<publisher-name><![CDATA[Universtity of Derby]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REIS]]></surname>
+<given-names><![CDATA[J. N. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CRESPO]]></surname>
+<given-names><![CDATA[J. E. Q.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Um Modelo Econométrico para as Exportações de Açúcar do Brasil]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>1998</year>
+<volume>45</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>17-32</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SEVELA]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Gravity type-model of Czech agricultural export]]></article-title>
+<source><![CDATA[Agricultural Economics]]></source>
+<year>2002</year>
+<volume>48</volume>
+<page-range>463-466</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS SILVA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TENREYRO]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Log of Gravity: CEPR Discussion Paper no. 5.311]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Centre for Economic Policy Research]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="">
+<collab>UNITED NATIONS</collab>
+<source><![CDATA[Growth in United Nations Membership, 19452005]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<collab>WORLD TRADE ORGANIZATION</collab>
+<source><![CDATA[Regional Trade Agreements: facts and figures]]></source>
+<year></year>
+<publisher-loc><![CDATA[Bruxelas ]]></publisher-loc>
+<publisher-name><![CDATA[World Trade Organization]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZAHNISER]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PICK]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[POMPELLI]]></surname>
+<given-names><![CDATA[G. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GEHLHAR]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Regionalism in the western hemisphere and its impact on U.S. agricultural exports: a gravity-model analysis]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>2002</year>
+<volume>84</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>791-797</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

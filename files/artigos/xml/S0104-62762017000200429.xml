@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0104-6276</journal-id>
+<journal-title><![CDATA[Opinião Pública]]></journal-title>
+<abbrev-journal-title><![CDATA[Opin. Publica]]></abbrev-journal-title>
+<issn>0104-6276</issn>
+<publisher>
+<publisher-name><![CDATA[ Centro de Estudos de Opinião Pública da Universidade Estadual de Campinas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0104-62762017000200429</article-id>
+<article-id pub-id-type="doi">10.1590/1807-01912017232429</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Mecanismos de alinhamento de preferências em governos multipartidários: controle de políticas públicas no presidencialismo brasileiro]]></article-title>
+<article-title xml:lang="en"><![CDATA[Preference alignment in multiparty governments: control of public policy in Brazilian presidentialism]]></article-title>
+<article-title xml:lang="es"><![CDATA[Mecanismos de alineamiento de preferencias en gobiernos multipartidistas: control de las políticas públicas en el presidencialismo brasileño]]></article-title>
+<article-title xml:lang="fr"><![CDATA[Mécanismes d'alignement de préférences dans les gouvernements multipartites : le contrôle des politiques publiques dans le présidentialisme brésilien]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Araújo]]></surname>
+<given-names><![CDATA[Victor]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade de São Paulo Departamento de Ciência Política ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>08</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>08</month>
+<year>2017</year>
+</pub-date>
+<volume>23</volume>
+<numero>2</numero>
+<fpage>429</fpage>
+<lpage>458</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-62762017000200429&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0104-62762017000200429&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0104-62762017000200429&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo A formação de governos multipartidários potencializa o risco de assimetria de informação entre principals e agentes, de maneira que os conflitos do gabinete sobre políticas se refletem no comportamento dos partidos no parlamento. Diversos estudos demonstram que o controle mútuo entre os partidos integrantes do gabinete é uma forma de compensar a perda de informação inerente à delegação. Enquanto a literatura costuma focar na fase de formulação das políticas, analisando os governos formados no Brasil entre 1995 e 2014, argumento que existe um conjunto mais diversificado de estratégias que permitem aos partidos escrutinar as políticas implementadas por seus parceiros de gabinete. Fazendo uso de análise de redes e técnicas quantitativas de análise de texto (método Gibbs Sampling, algoritmo bayesiano derivado do Latent Dirichlet allocation &#8211; LDA) mostro que, nas situações em que os portfólios ministeriais são distribuídos para atores com distintas preferências sobre políticas, os partidos intensificam o uso dos Requerimentos de Informação (RIC) para monitorar os ministérios e políticas que lhes interessam. A estrutura das redes de controle intragabinete varia em função da saliência dos ministérios: os partidos responsáveis pelos portfólios com maior dotação orçamentária são os atores com maior grau de centralidade nas redes de monitoramento mútuo.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract The formation of multiparty governments increases the risk of asymmetry of information between principals and agents so that the cabinet's policy conflicts are reflected in the behavior of parties in parliament. Several studies reveal that mutual control between cabinet parties is a way to compensate for the loss of information inherent in the delegation. While analysts often focus on the policy-making process, I argue that there is a more diverse set of strategies that allow parties to scrutinize policies implemented by their cabinet partners. To test this argument, I analyze the multiparty governments formed in Brazil between 1995 and 2014. I use network analysis and machine learning&#8212;Gibbs Sampling Method, Bayesian algorithm derived from Latent Dirichlet allocation (LDA)&#8212;to show that, in situations in which ministerial portfolios are distributed to actors with different policy preferences, parties intensify the use of Information Requirements (RIC), an important tool for horizontal control, to monitor the ministries, policies, and programs that interest them. The structure of the intra-cabinet control networks varies according to the importance of the ministries: the parties allocated in the ministries with the largest portion of the federal budget&#8212;those with the most resources for the implementation of public policies&#8212;are the actors with the greatest degree of centrality in the intra-cabinet mutual control networks.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[Resumen La formación de gobiernos multipartidistas potencializa el riesgo de asimetría de información entre principals y agentes, de manera que los conflictos del gabinete sobre políticas se reflejan en el comportamiento de los partidos en el parlamento. Diversos estudios demuestran que el control mutuo entre los partidos integrantes del gabinete es una forma de compensar la pérdida de información inherente a la delegación. Mientras los analistas suelen enfocarse en la fase de formulación de las políticas, analizando los gobiernos formados en Brasil, entre 1995 y 2014, argumento en este trabajo que existe un conjunto más diversificado de estrategias que permiten a los partidos escudriñar las políticas implementadas por sus socios de gabinete. Utilizo análisis de redes y técnicas cuantitativas de análisis de texto &#8211; Método Gibbs Sampling, algoritmo bayesiano derivado del Latent Dirichlet allocation (LDA) &#8211; para mostrar que, en las situaciones en que los portafolios ministeriales se distribuyen a actores con distintas preferencias sobre políticas, los partidos intensifican el uso de los Requerimientos de Información (RIC), un importante instrumento de control horizontal, para monitorear los ministerios, políticas y programas que les interesan. La estructura de las redes de control horizontal intragabinete varía en función de la importancia de los ministerios: los partidos responsables de las carteras con mayor dotación presupuestaria &#8211; aquellos con más recursos para la implementación de políticas públicas &#8211; son los actores con mayor grado de centralidad en las redes de control mutuo.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="fr"><p><![CDATA[Résumé La formation des gouvernements pluripartites intensifie le risque de l&#8217;asymétrie d&#8217;information entre des principals et des agents, de sorte que les conflits du cabinet sur les politiques se reflètent dans le comportement des partis au Parlement. Plusieurs études ont démontré que le contrôle mutuel entre les partis intégrant le cabinet est un moyen de compenser la perte d&#8217;information inhérente à la délégation. Alors que les analystes se concentrent souvent sur le moment de la formulation des politiques, avec l&#8217;analyse des gouvernements formés au Brésil entre 1995 et 2014, je soutiens dans ce travail qu'il existe un ensemble plus diversifié de stratégies qui permettent aux partis de surveiller les politiques mises en &#339;uvre par les partenaires du cabinet. Grâce à l&#8217;analyse de réseau et les techniques quantitatives d&#8217;analyse de texte &#8211; Méthode Gibbs Sampling, algorithme bayésien dérivé du Latent Dirichlet allocation (LDA) &#8211; je montre que, dans les situations où les portefeuilles ministériels sont distribués à des acteurs ayant des préférences divergentes sur les politiques, les partis intensifient l&#8217;utilisation des Requêtes d&#8217;Information (RIC), un important instrument de contrôle horizontal pour surveiller les ministères, les politiques et les programmes qui les concernent. La structure des réseaux de contrôle horizontal dans le cabinet varie en fonction de l´importance des ministères: les partis responsables pour les dossiers avec les plus grandes allocations budgétaires &#8211; ceux qui ont plus de ressources pour la mise en &#339;uvre des politiques publiques &#8211; sont les acteurs ayant le degré de centralité le plus élevé dans les réseaux de contrôle mutuel, c´est-à-dire que ce sont ceux qui reçoivent la majeure partie du contrôle de leurs partenaires du gouvernement.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[presidencialismo]]></kwd>
+<kwd lng="pt"><![CDATA[coalizões de governo]]></kwd>
+<kwd lng="pt"><![CDATA[políticas públicas]]></kwd>
+<kwd lng="pt"><![CDATA[análise de redes]]></kwd>
+<kwd lng="pt"><![CDATA[machine learning]]></kwd>
+<kwd lng="en"><![CDATA[presidentialism]]></kwd>
+<kwd lng="en"><![CDATA[government coalitions]]></kwd>
+<kwd lng="en"><![CDATA[public policy]]></kwd>
+<kwd lng="en"><![CDATA[network analysis]]></kwd>
+<kwd lng="en"><![CDATA[machine learning]]></kwd>
+<kwd lng="es"><![CDATA[presidencialismo]]></kwd>
+<kwd lng="es"><![CDATA[coaliciones de gobierno]]></kwd>
+<kwd lng="es"><![CDATA[políticas públicas]]></kwd>
+<kwd lng="es"><![CDATA[análisis de redes]]></kwd>
+<kwd lng="es"><![CDATA[machine learning]]></kwd>
+<kwd lng="fr"><![CDATA[présidentialisme]]></kwd>
+<kwd lng="fr"><![CDATA[gouvernement de coalition]]></kwd>
+<kwd lng="fr"><![CDATA[les politiques publiques]]></kwd>
+<kwd lng="fr"><![CDATA[analyse de réseaux]]></kwd>
+<kwd lng="fr"><![CDATA[machine learning]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Abranches]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Presidencialismo de coalizão: o dilema institucional brasileiro"]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>1988</year>
+<volume>31</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>5-38</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alemán]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saiegh]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Legislative preferences, political parties, and coalition unity in Chile"]]></article-title>
+<source><![CDATA[Comparative Politics]]></source>
+<year>2007</year>
+<volume>39</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>253-72</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alemán]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tsebelis]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Political parties and government coalitions in the Americas"]]></article-title>
+<source><![CDATA[Journal of Politics in Latin America]]></source>
+<year>2011</year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>3-28</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ames]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os entraves da democracia no Brasil]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Amorim Neto]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Gabinetes presidenciais, ciclos eleitorais e disciplina legislativa no Brasil"]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>2000</year>
+<volume>43</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>479-519</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andeweg]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Ministers as double agents? The delegation process between cabinet and ministers"]]></article-title>
+<source><![CDATA[European Journal of Political Research]]></source>
+<year>2000</year>
+<volume>37</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>377-95</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Araújo]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Freitas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vieira]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["The presidential logic of government formation in Latin American democracies"]]></article-title>
+<source><![CDATA[Revista de Ciencia Política]]></source>
+<year></year>
+<publisher-loc><![CDATA[Chile ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Araújo]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vieira]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Measuring presidential dominance over cabinets in presidential systems: constitutional design and power sharing"]]></article-title>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2016</year>
+<volume>10</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-23</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Arretche]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Uma contribuição para fazermos avaliações menos ingênuas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Barreira]]></surname>
+<given-names><![CDATA[M. C. R. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carvalho]]></surname>
+<given-names><![CDATA[M. C. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tendências e perspectivas na avaliação de políticas e programas sociais]]></source>
+<year>2001</year>
+<page-range>43-56</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[IEE/PUC-SP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Athey]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Imbens]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["The state of applied econometrics-causality and policy evaluation"]]></article-title>
+<source><![CDATA[Journal of Economic Perspectives]]></source>
+<year>2017</year>
+<volume>31</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>3-32</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Batista]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["O poder no Executivo: uma análise do papel da presidência e dos ministérios no presidencialismo de coalizão brasileiro (1995-2010)"]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2013</year>
+<volume>19</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>449-73</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Batista]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Taking portfolios difference seriously: a composite measure based on policy, office, and budget in Brazil"]]></article-title>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2017</year>
+<volume>11</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-28</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Blei]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ng]]></surname>
+<given-names><![CDATA[A. Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jordan]]></surname>
+<given-names><![CDATA[M. I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Latent dirichlet allocation"]]></article-title>
+<source><![CDATA[Journal of Machine Learning Research]]></source>
+<year>2003</year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>993-1.022</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<collab>Brasil</collab>
+<collab>Congresso</collab>
+<collab>Câmara dos Deputados</collab>
+<source><![CDATA[Questão de Ordem 469/2004]]></source>
+<year>2004</year>
+<publisher-name><![CDATA[Câmara dos Deputados: Centro de Documentação e Informação]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<collab>Brasil</collab>
+<collab>Congresso</collab>
+<collab>Câmara dos Deputados</collab>
+<source><![CDATA[Regimento interno da Câmara dos Deputados (vol. 104)]]></source>
+<year>2015</year>
+<publisher-name><![CDATA[Edições Câmara]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carroll]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cox]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Shadowing ministers monitoring partners in coalition governments"]]></article-title>
+<source><![CDATA[Comparative Political Studies]]></source>
+<year>2012</year>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>220-36</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chang]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[LDA: Collapsed Gibbs sampling methods for topic models. R package version 1.3.2]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chang]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Reading tea leaves: how humans interpret topic models"]]></article-title>
+<source><![CDATA[Advances in Neural Information Processing Systems]]></source>
+<year>2009</year>
+<volume>31</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>288-96</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cheibub]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Presidentialism, parliamentarism, and democracy]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cheibub]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elkins]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ginsburg]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Beyond presidentialism and parliamentarism"]]></article-title>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2014</year>
+<volume>44</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>515-44</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cheibub]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Przeworski]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saiegh]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Government coalition under parliamentarism and presidentialism"]]></article-title>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2004</year>
+<volume>34</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>565-87</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Downs]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["An economic theory of political action in a democracy"]]></article-title>
+<source><![CDATA[The Journal of Political Economy]]></source>
+<year>1957</year>
+<volume>65</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>135-50</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Elgie]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Models of executive politics: a framework for the study of Executive Power relations in parliamentary and semi-presidential regimes"]]></article-title>
+<source><![CDATA[Political Studies]]></source>
+<year>1997</year>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>217-31</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Epstein]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[O&#8217;halloran]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Delegating powers: a transaction costs politics approach to policy making under separate powers]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Limongi]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Executivo e Legislativo na nova ordem constitucional]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Limongi]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Presidential power, legislative organization, and party behavior in Brazil"]]></article-title>
+<source><![CDATA[Comparative Politics]]></source>
+<year>2000</year>
+<volume>32</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>151-70</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Freitas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["O presidencialismo da coalizão"]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Departamento de Ciência Política, Universidade de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Freitas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Unboxing the active role of the Legislative Power in Brazil"]]></article-title>
+<source><![CDATA[Brazilian Political Science. Review]]></source>
+<year>2016</year>
+<volume>10</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-34</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gaylord]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Opening the black box: cabinet authorship of legislative proposals in a multiparty presidential system"]]></article-title>
+<source><![CDATA[Presidential Studies Quarterly]]></source>
+<year>2015</year>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>247-69</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hornik]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Grun]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Topicmodels: an R package for fitting topic models"]]></article-title>
+<source><![CDATA[Journal of Statistical Software]]></source>
+<year>2011</year>
+<volume>40</volume>
+<numero>13</numero>
+<issue>13</issue>
+<page-range>1-30</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Inácio]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rezende]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Partidos legislativos e governo de coalizão: controle horizontal das políticas públicas&#8221;]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2015</year>
+<volume>21</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>296-335</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[James]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An introduction to statistical learning: with applications in R]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kinzo]]></surname>
+<given-names><![CDATA[M. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Partidos, eleições e democracia no Brasil pós-1985"]]></article-title>
+<source><![CDATA[Revista Brasileira de Ciências Sociais]]></source>
+<year>2004</year>
+<volume>19</volume>
+<numero>54</numero>
+<issue>54</issue>
+<page-range>23-40</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Laver]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Governmental politics and the dynamics of multiparty competition"]]></article-title>
+<source><![CDATA[Political Research Quarterly]]></source>
+<year>2008</year>
+<volume>61</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>532-6</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Laver]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schofield]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multiparty government: the politics of coalition in Europe]]></source>
+<year>1998</year>
+<publisher-name><![CDATA[University of Michigan Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Laver]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shepsle]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cabinet ministers and parliamentary government]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lemos]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[&#8220;Controle legislativo em democracias presidencialistas: Brasil e EUA em perspectiva comparada&#8221;]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[UnB]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lemos]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Power]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Determinantes do controle horizontal em parlamentos reativos: o caso do Brasil (1988-2005)"]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>2013</year>
+<volume>56</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>383-412</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Limongi]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Poder de agenda e políticas substantivas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Inácio]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislativo brasileiro em perspectiva comparada]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Editora UFMG]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Luebbert]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparative democracy: policymaking and governing coalitions in Europe and Israel]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Columbia University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Magar]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moraes]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Factions with clout: presidential cabinet coalition and policy in the Uruguayan parliament"]]></article-title>
+<source><![CDATA[Party Politics]]></source>
+<year>2012</year>
+<volume>18</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>427-51</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Martin]]></surname>
+<given-names><![CDATA[L. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vanberg]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Parliaments and coalitions: the role of legislative institutions in multiparty governance]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Martin]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Policy, office and votes: the electoral value of ministerial office"]]></article-title>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2016</year>
+<volume>46</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>281-96</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Melo]]></surname>
+<given-names><![CDATA[C. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nunes]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Ideologia e distância entre preferências: uma comparação dos governos Lagos e Lula]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Inácio]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislativo brasileiro em perspectiva comparada]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Editora UFMG]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Melo]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pereira]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Making Brazil work: checking the president in a multiparty system]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Palgrave Macmillan]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Moury]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Coalition government and party mandate: how coalition agreements constrain ministerial action]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Strom]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Policy, office, or votes?: how political parties in Western Europe make hard decisions]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Strom]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Coalition governments in Western Europe]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[O&#8217;donnell]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Horizontal accountability in new democracies"]]></article-title>
+<source><![CDATA[Journal of Democracy]]></source>
+<year>1998</year>
+<volume>9</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>112-26</page-range></nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Power]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zucco]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Estimating ideology of Brazilian legislative parties, 1990-2005: a research communication"]]></article-title>
+<source><![CDATA[Latin American Research Review]]></source>
+<year>2009</year>
+<volume>44</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>218-46</page-range></nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pressman]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wildavsky]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Implementation: how great expectations in Washington are dashed in Oakland]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[Los Angeles ]]></publisher-loc>
+<publisher-name><![CDATA[University of California Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Raile]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pereira]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Power]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["The executive toolbox: building legislative support in a multiparty presidential regime"]]></article-title>
+<source><![CDATA[Political Research Quarterly]]></source>
+<year>2011</year>
+<volume>64</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>323-34</page-range></nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wojcik]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["The changing role of ministers in the legislative agenda in Brazil"]]></article-title>
+<source><![CDATA[Revista Ibero-Americana de Estudos Legislativos]]></source>
+<year>2015</year>
+<volume>4</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>57-69</page-range></nlm-citation>
+</ref>
+<ref id="B54">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Riker]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The theory of political coalitions]]></source>
+<year>1962</year>
+<publisher-loc><![CDATA[New Haven ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B55">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Russell]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gover]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wollter]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Does the Executive dominate the Westminster legislative process?: six reasons for doubt"]]></article-title>
+<source><![CDATA[Parliamentary Affairs]]></source>
+<year>2016</year>
+<volume>69</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>286-308</page-range></nlm-citation>
+</ref>
+<ref id="B56">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Strom]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Parliamentary control of coalition governments"]]></article-title>
+<source><![CDATA[Annual Review Political Science]]></source>
+<year>2010</year>
+<volume>13</volume>
+<page-range>517-35</page-range></nlm-citation>
+</ref>
+<ref id="B57">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thies]]></surname>
+<given-names><![CDATA[M. F. &#8220;]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Keeping tabs on partners: the logic of delegation in coalition governments&#8221;]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2001</year>
+<volume>45</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>580-98</page-range></nlm-citation>
+</ref>
+<ref id="B58">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tsebelis]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Decision making in political systems: veto players in presidentialism, parliamentarism, multicameralism and multipartyism"]]></article-title>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>1995</year>
+<volume>25</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>289-325</page-range></nlm-citation>
+</ref>
+<ref id="B59">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wasserman]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Faust]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Social network analysis: methods and applications]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B60">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zucco]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA["Legislative coalitions in presidential systems: the case of Uruguay"]]></article-title>
+<source><![CDATA[Latin American Politics and Society]]></source>
+<year>2013</year>
+<volume>55</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

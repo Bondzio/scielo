@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032008000300009</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032008000300009</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Economia política da disputa por terras em Minas Gerais]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Araujo Junior]]></surname>
+<given-names><![CDATA[Ari Francisco de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Shikida]]></surname>
+<given-names><![CDATA[Claudio]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Alvarenga]]></surname>
+<given-names><![CDATA[Patrícia Silva]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Ibmec Minas  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,UNI-BH  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2008</year>
+</pub-date>
+<volume>46</volume>
+<numero>3</numero>
+<fpage>803</fpage>
+<lpage>830</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032008000300009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032008000300009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032008000300009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O artigo estuda os determinantes da probabilidade de ocorrência de conflitos de terra, ocupações e assentamentos nos municípios mineiros. Os resultados apontam para a importância de fatores econômicos e políticos. Aparentemente, militantes pró-reforma agrária se adequam ao ciclo político, causando menos conflito em municípios governados por aliados. Por sua vez, a pobreza e o elevado crescimento arrefecem o ímpeto desses militantes.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The article analyzes the determinants of the probability of dispute over land (conflicts, occupations and settlement projects) in the Brazilian state of Minas Gerais. Through the use of a logit model, we found that the main influences are political and economical ones. Apparently, the behavior of the agrarian reform's supporters follows the political incentive, with fewer occurrences of conflicts in towns governed by political allies. By other hand, the economical determinants - degree of poverty and the economic growth - have negative impacts on it.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[desenvolvimento agrário]]></kwd>
+<kwd lng="pt"><![CDATA[economia política]]></kwd>
+<kwd lng="pt"><![CDATA[economia regional]]></kwd>
+<kwd lng="en"><![CDATA[agrarian development]]></kwd>
+<kwd lng="en"><![CDATA[political economy]]></kwd>
+<kwd lng="en"><![CDATA[regional economics]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b><a name="cima"></a>Economia pol&iacute;tica da disputa por terras em Minas Gerais<a href="#b1"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Ari Francisco de Araujo Junior<a href="#b2"><sup>2</sup></a>; Claudio Shikida<a href="#b3"><sup>3</sup></a>; Patr&iacute;cia Silva Alvarenga<a href="#b4"><sup>4</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1"noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O artigo estuda os determinantes da probabilidade de ocorr&ecirc;ncia de conflitos de terra, ocupa&ccedil;&otilde;es e assentamentos nos munic&iacute;pios mineiros. Os resultados apontam para a import&acirc;ncia de fatores econ&ocirc;micos e pol&iacute;ticos. Aparentemente, militantes pr&oacute;-reforma agr&aacute;ria se adequam ao ciclo pol&iacute;tico, causando menos conflito em munic&iacute;pios governados por aliados. Por sua vez, a pobreza e o elevado crescimento arrefecem o &iacute;mpeto desses militantes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chave: </b>desenvolvimento agr&aacute;rio, economia pol&iacute;tica, economia regional    <br> <b>Classifica&ccedil;&atilde;o JEL: </b>D72, D74, O43 </font></p> <hr size="1"noshade>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The article analyzes the determinants of the probability of dispute over land (conflicts, occupations and settlement projects) in the Brazilian state of Minas Gerais. Through the use of a logit model, we found that the main influences are political and economical ones. Apparently, the behavior of the agrarian reform's supporters follows the political incentive, with fewer occurrences of conflicts in towns governed by political allies. By other hand, the economical determinants - degree of poverty and the economic growth - have negative impacts on it. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key words: </b>agrarian development, political economy, regional economics </font></p> <hr size="1"noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     <p align="right"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>"...in considering possible income redistribution programs, account must be    <br>  taken not only of the political problems and the work incentive effects but also    <br>  the potential use of force as individuals readjust their wealth positions".    <br>  &#91;UMBECK, J. (1981), 57&#93; </i></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Toda sociedade apresenta problemas econ&ocirc;micos que envolvem perguntas cl&aacute;ssicas sobre "o que, como e para quem produzir". Tradicionalmente, essas quest&otilde;es fazem parte dos estudos sobre o funcionamento dos mercados e dos governos. Em situa&ccedil;&otilde;es nas quais o mercado &eacute; incapaz de alocar recursos eficientemente (<i>falhas de mercado</i>), fala-se da necessidade da interven&ccedil;&atilde;o governamental, embora esta tamb&eacute;m possa apresentar problemas (<i>falhas de governo</i>). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ambas as an&aacute;lises partem do pressuposto de que os membros da sociedade aceitam pacificamente alterar a aloca&ccedil;&atilde;o de direitos de propriedade. Na aquisi&ccedil;&atilde;o de um im&oacute;vel, por exemplo, o comprador adquire do vendedor o direito &agrave; propriedade do bem e, se eles respeitam a lei, aceitam tamb&eacute;m que a transa&ccedil;&atilde;o tenha parte de seu valor redirecionada ao governo atrav&eacute;s do Imposto de Transmiss&atilde;o de Bens Inter Vivos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, existe uma terceira forma de se alocar recursos al&eacute;m das tradicionais trocas volunt&aacute;rias (mercado) e involunt&aacute;rias, mas consentidas (governo/sistema pol&iacute;tico): a troca involunt&aacute;ria e n&atilde;o-consentida, que se refere &agrave;s aloca&ccedil;&otilde;es realizadas sem o respeito aos direitos de propriedade previamente estabelecidos. A invas&atilde;o de um terreno, sem autoriza&ccedil;&atilde;o de seu dono (ou das autoridades legais) e o assalto &agrave; m&atilde;o armada s&atilde;o dois exemplos deste tipo de aloca&ccedil;&atilde;o, independentemente das motiva&ccedil;&otilde;es desses atos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Observa-se tamb&eacute;m que essa forma de aloca&ccedil;&atilde;o - que pode ser chamada de <i>economia do conflito </i>- nem sempre &eacute; independente do sistema pol&iacute;tico. &Eacute; poss&iacute;vel que determinados grupos de interesse ap&oacute;iem a intensifica&ccedil;&atilde;o de conflitos em torno de (re)aloca&ccedil;&otilde;es dos direitos de propriedade com fins pol&iacute;ticos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste artigo, busca-se analisar os determinantes de uma das modalidades mais freq&uuml;entes de aloca&ccedil;&atilde;o feitas, ao menos inicialmente, a despeito da lei: as invas&otilde;es de terras promovidas pelo Movimento dos Trabalhadores Rurais Sem-Terra (MST) em Minas Gerais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para alguns defensores da reforma agr&aacute;ria, a mesma seria um objetivo urgente de pol&iacute;tica p&uacute;blica, o que amenizaria, por assim dizer, os desrespeitos infligidos aos direitos de propriedade sobre a terra<a name="c5"></a><a href="#b5"><sup>5</sup></a>. Para outros, a reforma agr&aacute;ria &eacute; guiada por objetivos ideol&oacute;gicos subjacentes<a name="c6"></a><a href="#b6"><sup>6</sup></a>. Este artigo parte de um ponto de vista distinto, considerando que custos e benef&iacute;cios, tanto pol&iacute;ticos como econ&ocirc;micos, guiam as a&ccedil;&otilde;es do MST, o que as tornam objeto de an&aacute;lise t&iacute;pico da Escolha P&uacute;blica<a name="c7"></a><a href="#b7"><sup>7</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A pr&oacute;xima se&ccedil;&atilde;o faz uma revis&atilde;o da literatura econ&ocirc;mica sobre o tema. Em seguida, descreve-se a base de dados utilizada, estima-se o modelo e analisam-se os resultados. Finalmente, a &uacute;ltima se&ccedil;&atilde;o apresenta as conclus&otilde;es. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Revis&atilde;o da literatura</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os estudos sobre os determinantes do conflito rural no Brasil sob a &oacute;tica econ&ocirc;mica da Nova Economia Pol&iacute;tica s&atilde;o recentes e devemse, basicamente, aos trabalhos de Alston, Libecap &amp; Schneider (1995) e Alston, Libecap &amp; Mueller (1997, 1999, 2005). Desse conjunto de estudos, aqueles que se encontram mais diretamente relacionados ao presente trabalho s&atilde;o Alston, Libecap &amp; Mueller (1999, 2005)<a name="c8"></a><a href="#b8"><sup>8</sup></a>. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alston, Libecap &amp; Mueller (1999)<a name="c9"></a><a href="#b9"><sup>9</sup></a> apresentam um modelo microecon&ocirc;mico, no qual donos de terras ("fazendeiros") e invasores otimizam o uso da viol&ecirc;ncia, dados certos par&acirc;metros institucionais. Entre os diversos resultados, cabe destacar: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>(...) a change that makes the courts more responsive to land reform and squatter&acute;s rights, will not only increase the amount of effort from the squatters, but may also lead to more effort from the farmers, leading to an overall increase in violent conflicts (Alston, Libecap &amp; Mueller, 1999, 149). </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Desse modo, por mais bem-intencionada que seja, a atua&ccedil;&atilde;o governamental pode ter conseq&uuml;&ecirc;ncias indesej&aacute;veis e estas, por sua vez, podem ser atribu&iacute;das &agrave; (m&aacute;) formata&ccedil;&atilde;o dos incentivos que a reforma agr&aacute;ria, tal como tem sido feita, representa para os atores no meio rural<a name="c10"></a><a href="#b10"><sup>10</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Eacute; interessante notar que, embora o discurso dos invasores de terra seja radicalmente anticapitalista, h&aacute; evid&ecirc;ncias na literatura de que a posse da terra altera as prefer&ecirc;ncias dos invasores em dire&ccedil;&atilde;o ao respeito pela import&acirc;ncia dos direitos de propriedade privados &#91;Di Tella, Galiani &amp; Schargrodsky (2004)&#93;<a name="c11"></a><a href="#b11"><sup>11</sup></a>. Isso refor&ccedil;a o argumento de Alston, Libecap &amp; Mueller (1999): a busca por terra pode ser pensada como uma disputa por direitos de propriedade. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outro aspecto caracter&iacute;stico do modelo dos autores &eacute; que a disputa pelos direitos de propriedade n&atilde;o se d&aacute; sobre um bem de uso comum, como geralmente aparece na literatura da Economia do Conflito &#91;Umbeck (1981), Hirshleifer (2001), Skaperdas (2003)&#93;. Trata-se do uso de viol&ecirc;ncia para alterar a estrutura de direitos de propriedade j&aacute; existente, com o uso alternativo da influ&ecirc;ncia pol&iacute;tica. A an&aacute;lise econom&eacute;trica utilizou dados estaduais (22 estados) no per&iacute;odo de 1988 a 1995. Os principais resultados do artigo foram: (i) aumentos no or&ccedil;amento do Incra (uma <i>proxy </i>da a&ccedil;&atilde;o governamental pr&oacute;-reforma agr&aacute;ria) geram aumentos no n&uacute;mero de conflitos; (ii) aumentos do pre&ccedil;o da terra levam a maiores conflitos de terras, (iii) maior prote&ccedil;&atilde;o aos direitos de propriedade gera menos conflitos e (iv) um n&uacute;mero maior de fazendas em um estado incentiva a ocorr&ecirc;ncia de conflitos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em Alston, Libecap &amp; Mueller (2005), os autores abordam outro aspecto do problema dos conflitos de terra, estudando o paradoxal sucesso do MST, j&aacute; que se trata de um grupo que n&atilde;o recebe votos ou, aparentemente, fundos que poderiam ser usados para eleger pol&iacute;ticos que lhe s&atilde;o favor&aacute;veis<a name="c12"></a><a href="#b12"><sup>12</sup></a>. Nas palavras dos autores: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>The MST is a well-organized interest group with a comparative advantage in influencing the information received by voters. This is done through highly-publicized farm occupations, marches, invasions of governmental offices, roadblocks, and accusations that the government is stalling. Through these actions voters revised their views regarding the government's commitment toward land reform and increased their  political pressure for more action. In this new scenario the equilibrium level of government effort for the land reform 'task' is greater than in the pre-MST scenario (Alston, Libecap, &amp; Mueller, 2005, 16). </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste artigo, a a&ccedil;&atilde;o do governo &eacute; tornada end&oacute;gena atrav&eacute;s de um modelo de m&uacute;ltiplos agentes e m&uacute;ltiplos principais. A influ&ecirc;ncia do MST na m&iacute;dia &eacute; destacada pelos autores e encontra-se resumida no <a href="#quad01">Quadro 1</a>. </font></p>     <p><a name="quad01"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n3/a09quad01.jpg" border="0" usemap="#Map2"> <map name="Map2"><area shape="rect" coords="504,144,516,154" href="#b13"> </map></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finalmente, a an&aacute;lise econom&eacute;trica de Alston, Libecap &amp; Mueller (2005) n&atilde;o refutou as evid&ecirc;ncias de que ocupa&ccedil;&otilde;es influenciam a popularidade presidencial de maneira significativa: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>The estimation indicates that a one standard deviation increase of the number of farms occupied, with all other variables at their means, reduces presidential popularity by 6.22 percentage points from 60.9% to 54.7%. This is a strong effect for a non-economic variable that doesn't really affect most (urban) voters' well-being directly (Alston, Libecap &amp; Mueller, 2005, 27). </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sucintamente, a literatura resenhada mostra que o correto delineamento dos direitos de propriedade sobre um recurso como a terra apresenta conseq&uuml;&ecirc;ncias importantes. Compreender a economia pol&iacute;tica - tal como entendida neste artigo<a name="c14"></a><a href="#b14"><sup>14</sup></a> -, que determina que a oferta e a demanda de pol&iacute;ticas p&uacute;blicas neste setor<a name="c15"></a><a href="#b15"><sup>15</sup></a> s&atilde;o essenciais n&atilde;o apenas para a compreens&atilde;o do tema, mas tamb&eacute;m para a proposi&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas<a name="c16"></a><a href="#b16"><sup>16</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nesse sentido, &eacute; interessante que estudos similares sejam realizados para cortes geogr&aacute;ficos diferentes, algo que n&atilde;o foi feito pelos autores resenhados. Assim, uma das contribui&ccedil;&otilde;es deste artigo &eacute; retomar Alston, Libecap &amp; Mueller (1999), mas no contexto estadual, a partir de uma base de dados municipal e focada no caso de Minas Gerais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A se&ccedil;&atilde;o seguinte detalha melhor esta base e a metodologia econom&eacute;trica adotada. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. A econometria da disputa por terras em Minas Gerais<a name="c17"></a><a href="#b17"><sup>17</sup></a></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><b>3.1. Defini&ccedil;&otilde;es das vari&aacute;veis e suas fontes</b></i></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A base de dados foi constru&iacute;da atrav&eacute;s de uma <i>cross-section </i>dos 853 munic&iacute;pios mineiros no ano de 2000. As vari&aacute;veis dependentes bin&aacute;rias (<i>conf, ocup e assent</i>) t&ecirc;m como fonte prim&aacute;ria o Incra<a name="c18"></a><a href="#b18"><sup>18</sup></a> (Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria) e a CPT<a name="c19"></a><a href="#b19"><sup>19</sup></a> (Comiss&atilde;o Pastoral da Terra). Definem-se da seguinte forma: </font></p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">    <blockquote>conf = 1, caso tenha sido observado pelo menos um conflito de terras em determinado munic&iacute;pio no ano de 2000 e,    <br>  conf = 0, caso contr&aacute;rio<a name="c20"></a><a href="#b20"><sup>20</sup></a>;     <br> ocup = 1, caso tenha sido observada pelo menos uma ocupa&ccedil;&atilde;o de terras em determinado munic&iacute;pio no ano de 2000<a name="c21"></a><a href="#b21"><sup>21</sup></a> e,    <br>  ocup = 0, caso contr&aacute;rio.     <br> assent00 = 1, caso tenha sido estabelecido pelo menos um assentamento em determinado munic&iacute;pio no ano de 2000<a name="c22"></a><a href="#b22"><sup>22</sup></a> e,     <br> assent00 = 0, caso contr&aacute;rio.</blockquote></font>      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O objetivo &eacute; estimar os determinantes da probabilidade de ocorr&ecirc;ncia de ocupa&ccedil;&otilde;es, conflitos de terra e assentamentos em Minas Gerais. Para o caso espec&iacute;fico dos assentamentos, talvez seja razo&aacute;vel supor que as condi&ccedil;&otilde;es econ&ocirc;micas e pol&iacute;ticas observadas em 2000 surtam efeito em termos do estabelecimento de assentamentos com alguma defasagem de tempo. Portanto, utilizou-se tamb&eacute;m a vari&aacute;vel de "assentamentos" estabelecidos em 2004 (assent04), ao final dos mandatos iniciados em 2000<a name="c23"></a><a href="#b23"><sup>23</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#tab1">Tabela 1</a> apresenta algumas estat&iacute;sticas descritivas sobre a disputa de terras em Minas Gerais. Em m&eacute;dia, menos de 2% dos munic&iacute;pios mineiros tiveram algum tipo de conflito por terras, enquanto pouco mais de 4% deles sofreram ocupa&ccedil;&atilde;o em 2000. Vale notar, portanto, que pode ocorrer conflito sem sucesso quanto &agrave; ocupa&ccedil;&atilde;o da terra. O contr&aacute;rio tamb&eacute;m pode ser verdadeiro: uma &aacute;rea pode ser ocupada sem que aconte&ccedil;a algum tipo de embate entre os representantes do movimento e os fazendeiros e seus funcion&aacute;rios. Por outro lado, a m&eacute;dia de munic&iacute;pios que tiveram o estabelecimento de pelo menos um assentamento foi inferior a 1% em 2000. Em 2005, passou para 1,4% em 2005, ou seja, um aumento superior a 40%. </font></p>     <p><a name="tab1"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09tab01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A primeira vari&aacute;vel explicativa da probabilidade de conflitos, ocupa&ccedil;&otilde;es e assentamentos utilizada foi o M&oacute;dulo Fiscal (mod). O m&oacute;dulo fiscal constitui uma refer&ecirc;ncia de &aacute;rea estabelecida pelo Incra que varia regionalmente. &Eacute; definido para cada munic&iacute;pio, a partir de v&aacute;rios fatores, tais como: qualidade do solo, relevo, condi&ccedil;&otilde;es de acesso ao local, entre outros. Esta vari&aacute;vel pode ser entendida como o inverso da produtividade, j&aacute; que, quanto maior o m&oacute;dulo fiscal, maior a quantidade de terra necess&aacute;ria para sustentar uma fam&iacute;lia no local. O sinal esperado, neste caso, &eacute; amb&iacute;guo, tendo em vista que pode-se pensar que os conflitos e ocupa&ccedil;&otilde;es t&ecirc;m maior chance de ocorrer em terras melhores, mais produtivas (portanto, sinal negativo) ou, do ponto de vista mais pol&iacute;tico, em terras de pior qualidade (portanto, sinal positivo), nas quais o propriet&aacute;rio n&atilde;o demonstra muita resist&ecirc;ncia para defend&ecirc;-la. Ou seja, os custos podem superar os benef&iacute;cios e, dessa forma, o movimento ganha visibilidade (benef&iacute;cios pol&iacute;ticos), mesmo que n&atilde;o obtenha benef&iacute;cios econ&ocirc;micos com o assentamento de seus membros em terras desse tipo. No caso dos assentamentos, parece existir uma tend&ecirc;ncia do Incra adquirir as terras de pior qualidade para a implanta&ccedil;&atilde;o de assentamentos, o que sugere uma rela&ccedil;&atilde;o esperada positiva entre o modulo fiscal e os assentamentos<a name="c24"></a><a href="#b24"><sup>24</sup></a>. Pode-se notar, na <a href="#tab2">Tabela 2</a>, que o m&oacute;dulo fiscal m&eacute;dio do estado situa-se em torno de 33 hectares. A vari&aacute;vel m&oacute;dulo fiscal tem tamb&eacute;m como fonte o Incra. </font></p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09tab02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para controlar as diferen&ccedil;as de renda entre os munic&iacute;pios, ser&aacute; utilizado um indicador de pobreza (POB) para o ano de 2000 do Atlas do Desenvolvimento Humano do conv&ecirc;nio FJP, Ipea e PNUD. A vari&aacute;vel pobreza &eacute; definida como a propor&ccedil;&atilde;o de indiv&iacute;duos com renda domiciliar <i>per capita </i>inferior a R$ 75,50 ou a metade do sal&aacute;rio m&iacute;nimo vigente em agosto de 2000. A pobreza municipal m&eacute;dia &eacute; de pouco mais de 42% no estado de Minas Gerais (<a href="#tab2">Tabela 2</a>). Como ocorre com outras vari&aacute;veis, a amplitude (e, conseq&uuml;entemente, a desigualdade) da pobreza &eacute; bastante elevada. O munic&iacute;pio com menor propor&ccedil;&atilde;o de pobres &eacute; Po&ccedil;os de Caldas, 8,92%, enquanto Monte Formoso apresenta propor&ccedil;&atilde;o de pobres quase 10 vezes superior (85,02%). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m de controlar pelo n&iacute;vel de renda, &eacute; importante verificar se o crescimento municipal exerce o mesmo efeito sobre as chances de conflitos, ocupa&ccedil;&otilde;es de terra e assentamento. Para tanto, ser&aacute; utilizada a taxa de crescimento m&eacute;dia entre 1991 e 2000 dos munic&iacute;pios mineiros. A fonte desta vari&aacute;vel tamb&eacute;m &eacute; o Atlas do Desenvolvimento Humano do conv&ecirc;nio FJP, Ipea e PNUD. Pela <a href="#tab2">Tabela 2</a>, nota-se que os munic&iacute;pios mineiros cresceram, em m&eacute;dia, 1,25% ao ano entre 1991 e 2000. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m dos determinantes socioecon&ocirc;micos, criou-se uma vari&aacute;vel para testar o determinante pol&iacute;tico dos conflitos, ocupa&ccedil;&otilde;es de terra e assentamentos estabelecidos. Trata-se de uma vari&aacute;vel <i>dummy </i>que assume o valor 1 caso o munic&iacute;pio seja governado em 2000 pelo Partido dos Trabalhadores (PT) e 0 nos casos restantes (d_pt). O objetivo &eacute; testar a poss&iacute;vel liga&ccedil;&atilde;o existente entre os movimentos de trabalhadores semterra e as administra&ccedil;&otilde;es petistas. Em outras palavras, se s&atilde;o maiores ou menores as chances de um munic&iacute;pio administrado pelo PT ter algum tipo de disputa por terra ou mesmo um assentamento estabelecido. A fonte de tal vari&aacute;vel &eacute; o Tribunal Superior Eleitoral<a name="c25"></a><a href="#b25"><sup>25</sup></a> (TSE). Tamb&eacute;m na <a href="#tab2">Tabela 2</a>, &eacute; poss&iacute;vel observar que pouco menos de 10% dos munic&iacute;pios mineiros eram administrados pelo PT. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finalmente, foi criada uma vari&aacute;vel que interage o m&oacute;dulo fiscal e a <i>dummy </i>do PT (mod_pt). O objetivo, neste caso, &eacute; verificar se o efeito observado para a vari&aacute;vel de m&oacute;dulo fiscal se mant&eacute;m para os munic&iacute;pios administrados pelo PT. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Resumindo, ser&atilde;o apresentadas as estimativas da seguinte equa&ccedil;&atilde;o: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09form04.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.2. Metodologia </i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com o objetivo de estimar os determinantes da probabilidade de conflito, ocupa&ccedil;&otilde;es de terra e assentamentos em Minas Gerais, analisa-se a correla&ccedil;&atilde;o, em termos probabil&iacute;sticos, de vari&aacute;veis socioecon&ocirc;micas e pol&iacute;ticas com uma vari&aacute;vel dependente bin&aacute;ria constru&iacute;da para capturar a ocorr&ecirc;ncia de conflitos, ocupa&ccedil;&otilde;es e assentamentos nos munic&iacute;pios mineiros no ano de 2000<a name="c26"></a><a href="#b26"><sup>26</sup></a>. Ou seja, trabalha-se com tr&ecirc;s regressandos distintos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dessa forma, visando verificar como tais probabilidades s&atilde;o influenciadas entre as unidades de an&aacute;lise, sup&otilde;e-se a seguinte rela&ccedil;&atilde;o linear: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09formu01.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> e </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> s&atilde;o os respectivos par&acirc;metros a serem estimados, X &eacute; a matriz dos regressores, </font>&#958;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> &eacute; a perturba&ccedil;&atilde;o aleat&oacute;ria e Y &eacute; vari&aacute;vel dependente que, especificamente, pode ser assim caracterizada: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Y = 1, caso tenha ocorrido pelo menos um conflito, ocupa&ccedil;&atilde;o ou assentamento em determinado munic&iacute;pio mineiro e, </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Y = 0, caso contr&aacute;rio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pode-se, ent&atilde;o, expressar as probabilidades de ocorr&ecirc;ncia/n&atilde;oocorr&ecirc;ncia atrav&eacute;s das seguintes express&otilde;es: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09formu02-03.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De modo que s&atilde;o estimadas: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09formu04.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <i>F(vX) </i>&eacute; a fun&ccedil;&atilde;o de distribui&ccedil;&atilde;o cumulativa de probabilidade. O problema &eacute; a escolha da rela&ccedil;&atilde;o funcional apropriada para as distribui&ccedil;&otilde;es de probabilidade acima que apresente predi&ccedil;&otilde;es consistentes. As formas funcionais mais comuns s&atilde;o a <i>Linear</i>, a <i>Logit </i>a <i>Probit<a name="c27"></a><a href="#b27"><sup>27</sup></a></i>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O principal problema com a primeira especifica&ccedil;&atilde;o &eacute; que ela pode gerar probabilidades estimadas fora do intervalo 0-1, n&atilde;o obedecendo as seguintes caracter&iacute;sticas estat&iacute;sticas esperadas: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09form05.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste exerc&iacute;cio, optou-se por estimar o modelo te&oacute;rico atrav&eacute;s do <i>Probit </i>por M&aacute;xima Verossimilhan&ccedil;a - MV. Faz-se tamb&eacute;m uma an&aacute;lise dos efeitos marginais obtidos a partir do modelo<a name="c28"></a><a href="#b28"><sup>28</sup></a>. Como descrito na se&ccedil;&atilde;o sobre as vari&aacute;veis utilizadas, a regress&atilde;o proposta inclui uma vari&aacute;vel que interage o m&oacute;dulo fiscal e a <i>dummy </i>de administra&ccedil;&atilde;o petista. Como observado por Ai &amp; Norton (2003), apesar do largo uso dos termos de intera&ccedil;&atilde;o em trabalhos de econometristas aplicados, a maioria dos pesquisadores n&atilde;o interpreta de modo correto o coeficiente estimado para estes termos em modelos n&atilde;o-lineares. Os autores revisaram 72 artigos publicados em <i>journals </i>de economia listados na base JSTOR e descobriram que em nenhum desses trabalhos o termo de intera&ccedil;&atilde;o foi interpretado corretamente. Os pesquisadores nacionais parecem cometer o mesmo tipo de erro. Em outros casos, a vari&aacute;vel interativa &eacute; inclu&iacute;da para melhor especificar o modelo, mas n&atilde;o se tem a preocupa&ccedil;&atilde;o de interpret&aacute;-la<a name="c29"></a><a href="#b29"><sup>29</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em modelos lineares, o valor esperado da vari&aacute;vel dependente condicional &agrave;s vari&aacute;veis independentes (incluindo o termo de intera&ccedil;&atilde;o) &eacute; dado por: </font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n3/a09form06.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se x<sub>1 </sub>e x<sub>2 </sub>s&atilde;o vari&aacute;veis cont&iacute;nuas, o efeito de intera&ccedil;&atilde;o (supondo que X &eacute; independente de x<sub>1 </sub>e x<sub>2 </sub>) das vari&aacute;veis x<sub>1 </sub>e x<sub>2 </sub>&eacute; uma derivada cruzada do valor esperado de Y:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09form07.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para o caso em que a intera&ccedil;&atilde;o &eacute; feita com vari&aacute;veis dicot&ocirc;micas, t&ecirc;m-se diferen&ccedil;as discretas: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09form08.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Portanto, um teste t do coeficiente </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>12 </sub>&eacute; suficiente para diagnosticar a signific&acirc;ncia estat&iacute;stica do efeito da vari&aacute;vel de intera&ccedil;&atilde;o. J&aacute; em modelos n&atilde;o-lineares, o efeito deve ser calculado de outro modo, tal como proposto em Ai &amp; Norton (2003). Supondo um modelo <i>Probit </i>(neste caso Y &eacute; uma <i>dummy</i>), tem-se: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09form09.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que F &eacute; a distribui&ccedil;&atilde;o cumulativa da normal padr&atilde;o e u &eacute; <img src="/img/revistas/resr/v46n3/a09txt04.jpg" align="absmiddle" > . Como afirmam os autores, a maioria dos pesquisadores usa o <img src="/img/revistas/resr/v46n3/a09txt05.jpg" align="absmiddle"> como efeito de intera&ccedil;&atilde;o. Na verdade, o efeito completo de intera&ccedil;&atilde;o &eacute; a derivada parcial cruzada do valor esperado de Y: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09form10.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Vale notar que o efeito de intera&ccedil;&atilde;o pode ser diferente de zero, mesmo que </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>12 </sub>seja igual a zero. A signific&acirc;ncia estat&iacute;stica do efeito da intera&ccedil;&atilde;o deve ser calculada, j&aacute; que n&atilde;o pode ser testada por um simples teste t do coeficiente do termo de intera&ccedil;&atilde;o </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>12</sub>. Al&eacute;m disso, o efeito de intera&ccedil;&atilde;o &eacute; condicional &agrave;s vari&aacute;veis independentes (o que n&atilde;o ocorria no caso de modelos lineares) e pode ter sinais diferentes para distintos valores das vari&aacute;veis explicativas. Ou seja, o sinal de </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>12 </sub>n&atilde;o indica necessariamente o sinal do efeito de intera&ccedil;&atilde;o. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Resumindo, as estimativas dos determinantes da disputa por terras em Minas Gerais ser&atilde;o feitas via modelo <i>Probit </i>(estimado por M&aacute;xima Verossimilhan&ccedil;a) com corre&ccedil;&atilde;o para heterocedasticidade pela matriz de vari&acirc;ncia-covari&acirc;ncia de White. Adicionalmente, utilizam-se o m&eacute;todo e o programa para Stata proposto por Ai &amp; Norton (2003) e Norton, Wang &amp; Ai (2004) para interpretar corretamente o termo de intera&ccedil;&atilde;o.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Resultados<a name="c30"></a><a href="#b30"><sup>30</sup></a></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados das estimativas econom&eacute;tricas das quatro vari&aacute;veis dependentes s&atilde;o reproduzidos na <a href="#tab3">Tabela 3</a>. Com rela&ccedil;&atilde;o ao conflito de terras, apenas uma vari&aacute;vel se mant&eacute;m significativa: a probabilidade de conflito aumenta com o m&oacute;dulo fiscal (ou seja, a probabilidade aumenta quanto pior a produtividade da terra). Portanto, sob uma &oacute;tica mais pol&iacute;tica, em terras de pior qualidade, o propriet&aacute;rio n&atilde;o demonstra muita resist&ecirc;ncia e, dessa forma, o movimento age com maior facilidade. Esse resultado &eacute; semelhante ao observado para dados estaduais em Alston, Libecap e Mueller (1999). Segundo os autores, terras mais caras e, conseq&uuml;entemente, mais desenvolvidas em termos produtivos, s&atilde;o, em m&eacute;dia, menos freq&uuml;entemente invadidas, j&aacute; que os movimentos sabem que a probabilidade de sucesso na "empreitada" &eacute; menor. Quantitativamente, o aumento de uma unidade no m&oacute;dulo fiscal geraria um aumento de apenas 0,0007% na probabilidade de ocorr&ecirc;ncia de conflitos de terra. Vale notar que o pseudo - R<sup>2 </sup>&eacute; de apenas 4,2%. Tamb&eacute;m &eacute; interessante que, pelos <a href="#g1">Gr&aacute;ficos 1</a> e <a href="#g2">2</a> do <a href="#anex3">Anexo 3</a>, apesar de apresentar sinais tanto positivos quanto negativos (na verdade, a maioria &eacute; negativo), o efeito de intera&ccedil;&atilde;o n&atilde;o &eacute; significativo ao n&iacute;vel de 5% para nenhum munic&iacute;pio. </font></p>     <p><a name="tab3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09tab03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A regress&atilde;o para ocupa&ccedil;&otilde;es mostra-se bem superior tanto em rela&ccedil;&atilde;o ao pseudo - R<sup>2 </sup>(18,1%) quanto para a signific&acirc;ncia estat&iacute;stica das vari&aacute;veis, j&aacute; que apenas uma delas (mod_pt) n&atilde;o &eacute; significativa ao n&iacute;vel de 10%. Neste caso, as chances de ocupa&ccedil;&atilde;o aumentam nas cidades cujas terras apresentam pior qualidade e caem com a pobreza, com o crescimento m&eacute;dio e com a <i>dummy </i>PT. Ou seja, as ocupa&ccedil;&otilde;es s&atilde;o mais freq&uuml;entes em munic&iacute;pios ricos, mas estagnados. Al&eacute;m disso, os resultados sugerem que os movimentos dos sem-terra "evitam" causar problemas para aqueles munic&iacute;pios cuja administra&ccedil;&atilde;o &eacute; petista<a name="c31"></a><a href="#b31"><sup>31</sup></a>. Quantitativamente, o aumento de uma unidade no m&oacute;dulo fiscal geraria um aumento de 0,0019% na probabilidade de ocorr&ecirc;ncia de ocupa&ccedil;&otilde;es de terra. O aumento de uma unidade na pobreza geraria uma redu&ccedil;&atilde;o 0,0007% na probabilidade de ocorr&ecirc;ncia de ocupa&ccedil;&otilde;es de terra. J&aacute; o aumento de uma unidade na taxa de crescimento m&eacute;dia reduziria em 0,027% a probabilidade de ocorr&ecirc;ncia de ocupa&ccedil;&otilde;es de terra. Finalmente, munic&iacute;pios administrados pelo PT apresentam uma chance 0,027% menor de ocorr&ecirc;ncia de ocupa&ccedil;&otilde;es. Em outras palavras, a ordem de magnitude do efeito "pol&iacute;tico" e a do "crescimento da renda" s&atilde;o os determinantes de maior impacto na probabilidade de ocupa&ccedil;&atilde;o. Apesar de a vari&aacute;vel de intera&ccedil;&atilde;o n&atilde;o ser significativa na regress&atilde;o, pelos <a href="#g3">Gr&aacute;ficos 3</a> e <a href="#g4">4</a> do <a href="#anex3">Anexo 3</a>, pode-se notar que o efeito completo de intera&ccedil;&atilde;o &eacute; significativo ao n&iacute;vel de 5% apenas para alguns munic&iacute;pios nos quais o efeito &eacute; negativo (ao contr&aacute;rio do sinal do par&acirc;metro estimado no <i>Probit</i>). Ou seja, as chances de ocupa&ccedil;&atilde;o s&atilde;o ligeiramente menores para algumas cidades cujas terras apresentam pior qualidade mas que s&atilde;o administradas pelo PT. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A regress&atilde;o para assentamentos em 2000 apresenta pseudo - R<sup>2 </sup>de 21,21%. As vari&aacute;veis m&oacute;dulo fiscal, pobreza e crescimento m&eacute;dio s&atilde;o significativas estatisticamente. Neste caso, a probabilidade de surgimento de um assentamento em determinado munic&iacute;pio aumenta com o m&oacute;dulo fiscal e cai com a pobreza e o crescimento m&eacute;dio. Novamente, os assentamentos s&atilde;o mais freq&uuml;entes em munic&iacute;pios ricos, mas estagnados. Al&eacute;m disso, as chances s&atilde;o maiores onde as terras s&atilde;o de pior qualidade. Quantitativamente, o aumento de uma unidade no m&oacute;dulo fiscal geraria uma eleva&ccedil;&atilde;o de 0,0003% na probabilidade de ocorr&ecirc;ncia de assentamentos. O aumento de uma unidade na pobreza geraria uma redu&ccedil;&atilde;o de 0,0002% na probabilidade de ocorr&ecirc;ncia de assentamentos. J&aacute; o aumento de uma unidade na taxa de crescimento m&eacute;dia reduziria em 0,005% a probabilidade de que trabalhadores sem-terra sejam assentados em determinado munic&iacute;pio. &Eacute; importante notar que, pelos <a href="#g5">Gr&aacute;ficos 5</a> e <a href="#g6">6</a> do <a href="#anex3">Anexo 3</a>, apesar de apresentar sinais positivos, o efeito de intera&ccedil;&atilde;o n&atilde;o &eacute; significativo ao n&iacute;vel de 5% para nenhum munic&iacute;pio. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Vale enfatizar que pode existir uma defasagem de tempo entre as condi&ccedil;&otilde;es socioecon&ocirc;micas e pol&iacute;ticas e o surgimento de assentamentos. A &uacute;ltima regress&atilde;o da <a href="#tab3">Tabela 3</a> relaciona as chances de assentamentos serem estabelecidos em 2004 com as condi&ccedil;&otilde;es vigentes em 2000. Neste caso, o pseudo - R<sup>2 </sup>tem valor em torno dos 14%. Interessante que a &uacute;nica vari&aacute;vel (al&eacute;m da constante) que se mant&eacute;m significativa &eacute; o crescimento m&eacute;dio municipal. Uma eleva&ccedil;&atilde;o de uma unidade na taxa de crescimento municipal apresenta chance 0,012% menor de ocorr&ecirc;ncia de assentamentos. Da mesma forma como observado na regress&atilde;o, nota-se, pelos <a href="#g7">Gr&aacute;ficos 7</a> e <a href="#g8">8</a> do <a href="#anex3">Anexo 3</a>, que o efeito completo de intera&ccedil;&atilde;o n&atilde;o &eacute; significativo para nenhum munic&iacute;pio da amostra. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Conclus&atilde;o</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A quest&atilde;o agr&aacute;ria &eacute;, sem d&uacute;vida, um dos maiores problemas socioecon&ocirc;micos do Brasil. Nesse sentido, &eacute; interessante analisar n&atilde;o apenas o desempenho dos assentamentos p&oacute;s-invas&otilde;es/assentamentos, mas tamb&eacute;m os determinantes das ocupa&ccedil;&otilde;es no campo. Este artigo se posiciona neste &uacute;ltimo tipo de an&aacute;lise: questiona-se sobre os incentivos pol&iacute;ticos e econ&ocirc;micos subjacentes aos conflitos sobre os direitos de propriedade de terras no estado de Minas Gerais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados apontam para a evid&ecirc;ncia de que incentivos econ&ocirc;micos e pol&iacute;ticos influenciam na decis&atilde;o de se intensificar ou n&atilde;o o conflito no campo: a pobreza, o crescimento econ&ocirc;mico e o suporte pol&iacute;tico aparecem como significativas estatisticamente e com o sinal esperado na maioria das regress&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em outras palavras, a hip&oacute;tese de que a lideran&ccedil;a de MST e similares n&atilde;o levam em conta apenas considera&ccedil;&otilde;es econ&ocirc;micas para promoverem suas a&ccedil;&otilde;es, mas agem tamb&eacute;m com orienta&ccedil;&otilde;es pol&iacute;ticas. Dos resultados obtidos, pode-se pensar que pol&iacute;ticas voltadas para o crescimento econ&ocirc;mico local t&ecirc;m potencial arrefecedor sobre o ritmo do conflito no campo, o que, teoricamente, significa um aumento do custo de oportunidade do uso da viol&ecirc;ncia (trocas involunt&aacute;rias) relativamente ao uso do mercado (trocas volunt&aacute;rias) para a obten&ccedil;&atilde;o de ganhos de bem-estar. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finalmente, uma poss&iacute;vel extens&atilde;o deste trabalho consistiria na amplia&ccedil;&atilde;o da base de dados em termos da dimens&atilde;o temporal, a fim de verificar a poss&iacute;vel exist&ecirc;ncia do ciclo pol&iacute;tico-econ&ocirc;mico sobre as a&ccedil;&otilde;es dos Sem-Terra. Outro estudo interessante seria utilizar uma base de dados ampliada tamb&eacute;m em termos municipais para verificar a exist&ecirc;ncia (ou n&atilde;o) de padr&otilde;es distintos dos conflitos em termos regionais. Vale notar que os resultados n&atilde;o podem ser generalizados para o Brasil devido a diferentes estrat&eacute;gias regionais dos movimentos sem-terra e das pol&iacute;ticas p&uacute;blicas locais. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. Refer&ecirc;ncias bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AI, C. &amp; NORTON, E.C. (2003) <b>Interaction terms in logit and probit models</b>. Economics Letters, v.80, p.123-129.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0103-2003200800030000900001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALSTON, L., LIBECAP, G. &amp; MUELLER B. (1999) <b>A Model of Rural Conflict: Violence and Land Reform Policy in Brazil</b>, Environment and Development Economics, Cambridge:UK, 4, p.135-160.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0103-2003200800030000900002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALSTON, L., LIBECAP, G. &amp; MUELLER, B. (1997) <b>Violence and the Development of Property Rights to Land in the Brazilian Amazon. </b>In: Nye, J.V.C. and Drobak, J.N., editors, Frontiers of the New Institutional Economics, Academic Press, San Diego, p.145-164.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003200800030000900003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALSTON, L.J., LIBECAP, G.D. &amp; MUELLER, B. (2005) <b>How Interest Groups with Limited Resources can Influence Political Outcomes: Information Control and the Landless Peasant Movement in Brazil</b>. Institute of Behavioral Science, Working Paper 2005-0005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003200800030000900004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALSTON, L.J., LIBECAP, G.D. &amp; SCHNEIDER, R. (1995) <b>Property Rights and the Preconditions for Markets: The Case of the Amazon Frontier</b>. Journal of Institutional and Theoretical Economics, v.151, n.1, p.89-107.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003200800030000900005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARRETO, R.C.S. ; KHAN, A.S. &amp; LIMA, P.V.P.S. (2005) <b>Sustentabilidade dos assentamentos no munic&iacute;pio de Caucaia-CE</b>. Revista de Economia e Sociologia Rural, v.43, n.2, p.225-247.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200800030000900006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BIELSCHOWSKY, R. (1988) <b>Pensamento Econ&ocirc;mico Brasileiro - o ciclo ideol&oacute;gico do desenvolvimentismo. </b>PNPE/IPEA, Rio de Janeiro.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200800030000900007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BOTELHO, D., URDAN, A. T. (2005) <b>Lealdade &agrave; marca e sensibilidade ao pre&ccedil;o: um estudo da escolha da marca pelo consumidor</b>. Revista de Administra&ccedil;&atilde;o Contempor&acirc;nea, v. 9, n. 4, p. 163-180.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003200800030000900008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COMPARATO, B.K. (2001) <b>A a&ccedil;&atilde;o pol&iacute;tica do MST</b>. S&atilde;o Paulo em Perspectiva, v.15, n.4, p.105-118.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200800030000900009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CONNING, J.H. &amp; ROBINSON, J.A. (2005) <b>Property Rights and the Political Organization of the Agriculture,</b> mimeo.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200800030000900010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CORSEUIL, C.H., SANTOS, D.D. &amp; FOGUEL, M.N. (2001) <b>Decis&otilde;es Cr&iacute;ticas em Idades Cr&iacute;ticas: a Escolha dos Jovens entre Estudo e Trabalho no Brasil e em outros Pa&iacute;ses da Am&eacute;rica Latina</b>. Texto Para Discuss&atilde;o nº 797, IPEA.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003200800030000900011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DI TELLA, R., GALIANI, S. &amp; SCHARGRODSKY, E. (2004) <b>Property Rights and Beliefs: Evidence from the Allocation of Land Titles to Squatters</b>. Ronald Coase Institute. Working Paper #5.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003200800030000900012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FETAEMG. <b>Hist&oacute;rico - a constru&ccedil;&atilde;o do movimento sindical. </b>&lt;<a href="http://www.fetaemg.org.br/historico.html" target="_blank">http://www.fetaemg.org.br/historico.html</a>&gt;. Acesso em 02.10.2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003200800030000900013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GALIANI, S. &amp; SCHARGRODSKY, E. (2005) <b>Property Rights for the Poor: Effects of Land Titling.</b> Ronald Coase Institute. Working Paper #7.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003200800030000900014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GARFINKEL, M.R. &amp; SKAPERDAS, S. (ed.) (1996) <b>The political economy of conflict and appropriation. </b>Cambridge University Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003200800030000900015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GRIPP, A. (2006) <b>Mais verbas, mais invas&otilde;es</b>. O Globo, 18.06.06. Dispon&iacute;vel em: <a href="http://www.e-agora.org.br/conteudo.php?cont=clipping&amp;id=4301_0_29_0_M" target="_blank">http://www.e-agora.org.br/conteudo.php?cont=clipping&id=4301_0_29_0_M</a> </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003200800030000900016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GROSSMAN, H.I. &amp; KIM, M. (1996) <b>Predation and production</b>. In: GARFINKEL, M.R. &amp; SKAPERDAS, S. (ed.) The political economy of conflict and appropriation. Cambridge University Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003200800030000900017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GROSSMAN, H.I. (1994) <b>Production, Appropriation, and Land Reform</b>. American Economic Review, v.84 (3), p.705-712.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0103-2003200800030000900018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HIRHSLEIFER, J. (1991) <b>The paradox of power</b>. Economics and Politics, v.3, p.177-200. &#91;Reproduzido em HIRSHLEIFER, J. The Dark Side of the Force, Cambridge University Press, 2001&#93;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003200800030000900019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HOROWITZ, A.W. (1993) <b>Time path of land reform: a theoretical model of reform dynamics</b>. American Economic Review, v.83(4), p.1003-1010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003200800030000900020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MUELLER, B. (2005) <b>A Evolu&ccedil;&atilde;o Hist&oacute;rica dos Direitos de Propriedade sobre Terras no Brasil e EUA.</b> (mimeo).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003200800030000900021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MUELLER, B., ALSTON, L., LIBECAP, G. AND SCHNEIDER, R. (1994) "Land Property Rights and Privatization in Brazil". <i>The Quarterly review of Economics and Finance</i>, v.34, p.261-280.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003200800030000900022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MUELLER, D.C. (2003) <b>Public Choice III. Cambridge University Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003200800030000900023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NAKANE, N.I &amp; ALENCAR, L.S. &amp; KANCZUK, F. (2005) <b>Demanda por Produtos Banc&aacute;rios e Poder de Mercado na Ind&uacute;stria Banc&aacute;ria Brasileira</b>, (mimeo).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003200800030000900024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NORTON, E.C, WANG, H. &amp; AI, C. (2004) <b>Computing interaction effects and standard errors in logit and probit models</b>. Stata Journal, v.4, n.2, p.154-167.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003200800030000900025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">REZENDE, G.C. de. (2006) <b>Pobreza e desigualdade no Brasil: o papel adverso das pol&iacute;ticas trabalhista, fundi&aacute;ria e de cr&eacute;dito agr&iacute;cola.</b> (mimeo).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003200800030000900026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">RODRIGUEZ, R.V. (2006) <b>O governo Lula e os movimentos sociais</b>. Banco de Id&eacute;ias, ano X, n.36, p.9-11.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003200800030000900027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SAUER, S. A (2002) <b>Terra por uma C&eacute;dula: Estudo sobre a Reforma Agr&aacute;ria de Mercado</b>. (mimeo). Dispon&iacute;vel em: <a href="http://www.landaction.org/gallery/A%20TERRA%20POR%20UMA_%20DE%20MERCADOPort-Sauer.pdf" target="_blank">http://www.landaction.org/gallery/A%20TERRA%20POR%20UMA_%20DE%20MERCADOPort-Sauer.pdf</a> </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003200800030000900028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SILVA, E.H. de, COELHO, F.M.G. &amp; ALVES FILHO, E. (2006) <b>Inova&ccedil;&atilde;o e Sustentabilidade Econ&ocirc;mica em Projetos de Assentamento da Re-forma Agr&aacute;ria</b>. Revista Econ&ocirc;mica do Nordeste, v.37, n.2, p.216-233.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-2003200800030000900029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SKAPERDAS, S. (2003) <b>Restraining the Genuine Homo Economicus: Why the Economy Cannot Be Divorced from Its Governance</b>. Economics and Politics, v.15, n.2, p. 135-162.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003200800030000900030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SOUZA, M. de &amp; DEL GROSSI, M.E. (2002) <b>A evolu&ccedil;&atilde;o das ocupa&ccedil;&otilde;es das fam&iacute;lias na regi&atilde;o n&atilde;o-metropolitana rural do Estado do Paran&aacute;: 1992-99</b>. Revista de Economia e Sociologia Rural, v.40, n.4, p.807-822.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-2003200800030000900031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">UMBECK, J. (1981) <b>Might makes rights: a theory of the formation and initial distribution of property rights</b>. Economic Inquiry, v.19, p. 38-59.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003200800030000900032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="b1"></a><a href="#cima">1</a> Os autores agradecem os coment&aacute;rios de F&aacute;bio Augusto Reis Gomes, Roberta Vieira Raggi e a assist&ecirc;ncia de pesquisa de Cristiane Mendon&ccedil;a Carneiro. Agradecem tamb&eacute;m aos participantes da XI Confer&ecirc;ncia Anual da ALACDE pelos coment&aacute;rios a uma vers&atilde;o anterior deste artigo.    <br> <a name="b2"></a><a href="#cima">2</a> Endere&ccedil;o para Correspond&ecirc;ncia: Ibmec Minas, Rua Para&iacute;ba, 330 - 4 andar Edif&iacute;cio Seculus Business Center, CEP: 30130-140, Belo Horizonte (MG). E-mail: <a href="mailto:arifaj@ibmecmg.br">arifaj@ibmecmg.br</a>    <br> <a name="b3"></a><a href="#cima">3</a> Ibmec Minas    <br>  <a name="b4"></a><a href="#cima">4</a> UNI-BH    <br> <a name="b5"></a><a href="#c5">5</a> Em termos econ&ocirc;micos, tratam-se de an&aacute;lises carregadas de conte&uacute;do normativo. Ver: <a href="http://www.cptnac.com.br/?system=news&amp;eid=25" target="_blank">http://www.cptnac.com.br/?system=news&eid=25</a>.     <br>   <a name="b6"></a><a href="#c6">6</a> Rodriguez (2006).    <br>    <a name="b7"></a><a href="#c7">7</a> Tamb&eacute;m conhecida como Economia Pol&iacute;tica, Nova Economia Pol&iacute;tica ou Economia Pol&iacute;tica Positiva. A literatura econ&ocirc;mica cada vez mais reconhece os termos como sin&ocirc;nimos. Uma conceitua&ccedil;&atilde;o detalhada do termo encontra-se em Drazen (2000). Vale ressaltar que n&atilde;o &eacute; objetivo deste trabalho fazer uma ampla resenha sobre a evolu&ccedil;&atilde;o da economia pol&iacute;tica, desde Adam Smith at&eacute; os dias atuais, ou de seus reflexos na quest&atilde;o agr&aacute;ria brasileira. Para um resumo desta &uacute;ltima, no &acirc;mbito da "antiga/tradicional" Economia Pol&iacute;tica brasileira, ver Bielschowsky (1988).    ]]></body>
+<body><![CDATA[<br>   <a name="b8"></a><a href="#c8">8</a> Alston, Libecap &amp; Mueller (1997) n&atilde;o abordam, especificamente, o problema da reforma agr&aacute;ria relacionado ao MST.    <br>    <a name="b9"></a><a href="#c9">9</a> No <a href="#anex1">Anexo 1</a>, &eacute; apresentado, de forma resumida, o modelo de Alston, Libecap &amp; Mueller (1999).     <br>   <a name="b10"></a><a href="#c10">10</a> Efeitos adversos da a&ccedil;&atilde;o governamental sob os mercados s&atilde;o bastante conhecidos e documentados na literatura. Entretanto, o efeito adverso de a&ccedil;&otilde;es governamentais em situa&ccedil;&otilde;es nas quais o direito de propriedade est&aacute; em disputa de forma violenta pode-se apresentar como um resultado ligeiramente distinto e interessante. Kirk (1983) mostrou que o aumento do tamanho do governo, ao inv&eacute;s de coibir, pode estimular a&ccedil;&otilde;es terroristas.    <br>    <a name="b11"></a><a href="#c11">11</a> Os efeitos da obten&ccedil;&atilde;o dos direitos de propriedade sobre o desempenho socioecon&ocirc;mico dos antigos invasores dependem da amostra em quest&atilde;o. Galiani &amp; Schargrodsky (2005) &eacute; um exemplo deste tipo de an&aacute;lise para a Argentina, estendendo o estudo de Di Tella, Galiani &amp; Schargrodksy (2004). Para Minas Gerais, Silva, Coelho &amp; Alves Filho (2006) analisaram o caso de uma cooperativa agroindustrial da cidade de Jo&atilde;o Pinheiro ("projeto Furta D'Anta") e conclu&iacute;ram que a mesma teria sido bem-sucedida na sua sustentabilidade por apresentar uma administra&ccedil;&atilde;o de caracter&iacute;sticas empreendedoras.    <br>    <a name="b12"></a><a href="#c12">12</a> Em resumo, a parcela urbana do eleitorado apresenta alto custo de oportunidade de se informar sobre a situa&ccedil;&atilde;o de conflitos no campo, o que, em conjunto com uma a&ccedil;&atilde;o racional do movimento sobre a m&iacute;dia, resulta em ganhos para o movimento, mesmo que este n&atilde;o seja legalmente representado por nenhum partido pol&iacute;tico no Congresso Nacional. Nesse sentido, seu artigo apresenta certo parentesco com o j&aacute; citado Kirk (1983), que modelou a disputa entre um governo e um grupo de interesse que poderia optar entre o uso da viol&ecirc;ncia ("terrorismo") ou a a&ccedil;&atilde;o pol&iacute;tica (<i>lobby</i>, partidos pol&iacute;ticos).    <br>   <a name="b13"></a><a href="#quad01">13</a> "O mais importante, contudo, &eacute; que cada passo sempre leva em conta o apelo jornal&iacute;stico, pois os estrategistas do MST sabem muito bem que um acampamento &agrave; beira de uma rodovia tem muito mais visibilidade do que no interior das terras, do mesmo modo que montar um acampamento provis&oacute;rio em frente ao pal&aacute;cio do governo, ou diante de &oacute;rg&atilde;os do governo ou ag&ecirc;ncias banc&aacute;rias, garante presen&ccedil;a no notici&aacute;rio da televis&atilde;o e nos jornais" (Comparato, 2001, 111).    <br>   <a name="b14"></a><a href="#c14">14</a> Ver nota de rodap&eacute; <a href="#b7">7</a>.    <br>   <a name="b15"></a><a href="#c15">15</a> Os problemas da viol&ecirc;ncia no campo e da reforma agr&aacute;ria, obviamente, apresentam outras dimens&otilde;es importantes de an&aacute;lise que s&atilde;o, temporalmente, posteriores ao foco deste artigo. Como exemplos, cita-se a import&acirc;ncia do "capital social" &#91;Barreto, Khan &amp; Lima (2005)&#93; e da "urbaniza&ccedil;&atilde;o" do meio rural &#91;(Souza &amp; Del Grossi (2002)&#93;.    <br>    <a name="b16"></a><a href="#c16">16</a> Em termos hist&oacute;ricos, a disputa pelos direitos de propriedade da terra &eacute; antiga no Brasil e provavelmente sofre de <i>path dependence</i>, ou seja, &eacute; fortemente influenciada por institui&ccedil;&otilde;es do passado colonial. Mueller (2005) e Rezende (2006) ilustram bem a import&acirc;ncia de antigas institui&ccedil;&otilde;es na formata&ccedil;&atilde;o dos incentivos atuais que estimulam o conflito no campo.    <br>    <a name="b17"></a><a href="#c17">17</a> Uma an&aacute;lise positiva (no sentido econ&ocirc;mico) da situa&ccedil;&atilde;o da viol&ecirc;ncia no campo no Brasil apresenta uma limita&ccedil;&atilde;o importante: a qualidade das bases de dados.    ]]></body>
+<body><![CDATA[<br>   <a name="b18"></a><a href="#c18">18</a> Ver Incra (<a href="http://www.incra.gov.br" target="_blank">http://www.incra.gov.br</a>).    <br>    <a name="b19"></a><a href="#c19">19</a> Ver CPT (<a href="http://www.cptnac.com.br/?system=news&amp;action=read&amp;id=1266&amp;eid=6" target="_blank">http://www.cptnac.com.br/?system=news&action=read&id=1266&eid=6</a>).    <br>    <a name="b20"></a><a href="#c20">20</a> O conceito de conflitos refere-se ao que a CPT chama de "conflitos por terra": "S&atilde;o a&ccedil;&otilde;es de resist&ecirc;ncia e enfrentamento pela posse, uso e propriedade da terra e pelo aces-so a seringais baba&ccedil;uais ou castanhais, quando envolvem posseiros, remanescentes de quilombos, parceleiros, assentados, pequenos arrendat&aacute;rios, pequenos propriet&aacute;rios, sem-terra, ocupantes, seringueiros, quebradeiras de coco baba&ccedil;u, castanheiros, &iacute;ndios, entre outros". (<a href="http://www.cptnac.com.br/?system=news&amp;action=read&amp;id=1262&amp;eid=6" target="_blank">http://www.cptnac.com.br/?system=news&action=read&id=1262&eid=6</a>).    <br>    <a name="b21"></a><a href="#c21">21</a> Conforme a CPT, define-se ocupa&ccedil;&otilde;es como: "A&ccedil;&otilde;es coletivas de fam&iacute;lias sem-terra que, por meio da entrada em im&oacute;veis rurais, reivindicam terras que n&atilde;o cumprem a fun&ccedil;&atilde;o social". (<a href="http://www.cptnac.com.br/?system=news&amp;action=read&amp;id=1266&amp;eid=6" target="_blank">http://www.cptnac.com.br/?system=news&action=read&id=1266&eid=6</a>)    <br>    <a name="b22"></a><a href="#c22">22</a> Considera-se assentamento &aacute;reas em que houve desapropria&ccedil;&atilde;o da terra e cria&ccedil;&atilde;o do PA - Projeto de Assentamento pelo Incra. Essas &aacute;reas foram inseridas oficialmente em programas de reforma agr&aacute;ria do governo.    <br>    <a name="b23"></a><a href="#c23">23</a> Uma vari&aacute;vel n&atilde;o inclu&iacute;da na regress&atilde;o, mas que pode ser interessante para futuros trabalhos &eacute; o total de recursos federais recebidos pelo MST. Segundo noticiou a imprensa &#91;Gripp (2006)&#93;, o aumento de verbas foi incapaz de diminuir as invas&otilde;es no campo. Pode-se pensar que se est&aacute; estimando apenas o efeito-substitui&ccedil;&atilde;o da viol&ecirc;ncia no campo, deixando de lado o efeito-renda.    <br>   <a name="b24"></a><a href="#c24">24</a> Ver Sauer (2002).    <br>   <a name="b25"></a><a href="#c25">25</a> Ver TSE (<a href="http://www.tse.gov.br" target="_blank">http://www.tse.gov.br</a>).    <br>   <a name="b26"></a><a href="#c26">26</a> No caso de assentamentos, ser&aacute; analisado o problema tamb&eacute;m supondo a exist&ecirc;ncia de defasagens temporais.     <br>   <a name="b27"></a><a href="#c27">27</a> As formas funcionais descritas acima s&atilde;o as seguintes:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n3/a09nota27.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que F(vX) representa a fun&ccedil;&atilde;o de densidade normal cumulativa.    <br> <a name="b28"></a><a href="#c28">28</a> Neste caso, o efeito marginal &eacute; dado pela seguinte express&atilde;o: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09nota28.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <i>x<sub>i</sub></i></font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> representa o vetor de coeficientes multiplicado por um vetor que contenha valores para as vari&aacute;veis dependentes. O efeito marginal (no programa Stata trata-se do comando <i>dprobit</i>) pode ser interpretado como a mudan&ccedil;a na probabilidade para uma mudan&ccedil;a infinitesimal em cada vari&aacute;vel independente para as vari&aacute;veis cont&iacute;nuas e a mudan&ccedil;a discreta na probabilidade para vari&aacute;veis <i>dummies</i>.    <br> <a name="b29"></a><a href="#c29">29</a> Para o caso de artigos nacionais, ver Nakane, Alencar &amp; Kanczuk (2005), Botelho &amp; Urdan (2005), Corseuil, Santos &amp; Foguel (2001).    <br> <a name="b30"></a><a href="#c30">30</a> Correla&ccedil;&otilde;es bivariadas das vari&aacute;veis utilizadas encontram-se no <a href="#anex2">Anexo 2</a>.    <br> <a name="b31"></a><a href="#c31">31</a> Podem existir duas interpreta&ccedil;&otilde;es poss&iacute;veis para o "efeito PT". Primeiro &eacute; poss&iacute;vel que prefeituras controladas pelo partido facilitem a invas&atilde;o e a desapropria&ccedil;&atilde;o em seus munic&iacute;pios, visando o efeito multiplicador local dos cr&eacute;ditos agr&iacute;colas. Por outro lado, &eacute; poss&iacute;vel que o efeito seja oposto na proximidade das elei&ccedil;&otilde;es. Seria mais interessante estimar o modelo a partir de um painel de dados para se verificar o efeito da proximidade das elei&ccedil;&otilde;es. Entretanto, isso esbarra nas limita&ccedil;&otilde;es da base de dados dispon&iacute;veis.     <br> <a name="b32"></a><a href="#c32">32</a> Especificamente, </font><img src="/img/revistas/resr/v46n3/a09nota32.jpg" align="absmiddle"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="anex1"></a></p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Anexo 1 - Modelo de Alston, Libecap &amp; Mueller (1999)</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alston, Libecap &amp; Mueller (1999) apresentam um modelo microecon&ocirc;mico, no qual donos de terras (fazendeiros) e invasores otimizam o uso da viol&ecirc;ncia, dados certos par&acirc;metros institucionais. De forma resumida, o modelo consiste na solu&ccedil;&atilde;o do seguinte par de equa&ccedil;&otilde;es:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09anx01.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">sendo que: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09anx01a.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">P = n&iacute;vel de <i>tenure security</i> do pedido do fazendeiro &agrave; Justi&ccedil;a    <br>  G = desejo pol&iacute;tico do governo de efetivar a reforma agr&aacute;ria    <br>  s = investimento em viol&ecirc;ncia do membro do MST    ]]></body>
+<body><![CDATA[<br>  v = investimento em viol&ecirc;ncia do membro dos fazendeiros    <br>  </font>&#952;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = probabilidade que o INCRA exproprie a fazenda     <br> </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = probabilidade de sucesso da expuls&atilde;o dos invasores    <br>  K = propens&atilde;o das cortes locais a favorecer os invasores em detrimento do propriet&aacute;rio     <br> <img src="/img/revistas/resr/v46n3/a09txtanx01.jpg" align="absmiddle"> = valor da terra para os invasores, em caso de n&atilde;o-expuls&atilde;o legal dos mesmos acompanhada de n&atilde;o-expropria&ccedil;&atilde;o    <br>  </font>&#948;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">L = valor da terra para o fazendeiro, em caso de n&atilde;o-expuls&atilde;o legal dos mesmos acompanhada de n&atilde;o-expropria&ccedil;&atilde;o    <br>  </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">L = valor da terra para o fazendeiro, em caso de expropria&ccedil;&atilde;o     <br> L = valor da terra para o fazendeiro em caso de expuls&atilde;o legal (= valor da terra para os invasores em caso de expropria&ccedil;&atilde;o legal)    <br>  C<sup>F</sup>(s) = custo dos fazendeiros    <br>  C<sup>F</sup>(v) = custo dos membros do MST </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os autores resolvem o modelo simultaneamente, encontrando as duas condi&ccedil;&otilde;es de primeira ordem abaixo:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09anxtxta01a.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A solu&ccedil;&atilde;o do sistema acima gera os valores de equil&iacute;brio para a quantidade empregada de viol&ecirc;ncia por ambos os grupos. Para verificar os multiplicadores do modelo, os autores assumem algumas hip&oacute;teses sobre os par&acirc;metros </font><img src="/img/revistas/resr/v46n3/a09txtanx01b.jpg" align="absmiddle"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">, </font>&#948;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> e </font>&#947;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="c32"></a><a href="#b32"><sup>32</sup></a> e fazem uma an&aacute;lise de est&aacute;tica comparativa. Entre os diversos resultados, o principal &eacute; que a atua&ccedil;&atilde;o governamental, por mais bem-intencionada que seja, pode ter conseq&uuml;&ecirc;ncias indesej&aacute;veis, que podem ser atribu&iacute;das &agrave; (m&aacute;) formata&ccedil;&atilde;o dos incentivos que a reforma agr&aacute;ria representa para os atores no meio rural. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Anexo 2</b></font></p>     <p><a name="anex2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09anx02.jpg"></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Anexo 3</b></font></p>     ]]></body>
+<body><![CDATA[<p><a name="anex3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09anx03.jpg" border="0" usemap="#Map"> <map name="Map"><area shape="rect" coords="301,44,370,60" href="#g1"> <area shape="rect" coords="383,45,393,59" href="#g2"> <area shape="rect" coords="310,168,378,183" href="#g3"> <area shape="rect" coords="390,169,404,183" href="#g4"> <area shape="rect" coords="342,300,409,318" href="#g5"> <area shape="rect" coords="421,300,432,321" href="#g6"> <area shape="rect" coords="340,435,410,450" href="#g7"> <area shape="rect" coords="421,434,435,452" href="#g8"> </map></p>     <p>&nbsp;</p>     <p><a name="g1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09graf01.jpg"></p>     <p>&nbsp;</p>     <p><a name="g2"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n3/a09graf02.jpg"></p>     <p>&nbsp;</p>     <p><a name="g3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09graf03.jpg"></p>     <p>&nbsp;</p>     <p><a name="g4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09graf04.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><a name="g5"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09graf05.jpg"></p>     <p>&nbsp;</p>     <p><a name="g6"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09graf06.jpg"></p>     <p>&nbsp;</p>     <p><a name="g7"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n3/a09graf07.jpg"></p>     <p>&nbsp;</p>     <p><a name="g8"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n3/a09graf08.jpg"></p>     <p>&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AI]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NORTON]]></surname>
+<given-names><![CDATA[E.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Interaction terms in logit and probit models]]></article-title>
+<source><![CDATA[Economics Letters]]></source>
+<year></year>
+<volume>80</volume>
+<page-range>123-129</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALSTON]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIBECAP]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A Model of Rural Conflict: Violence and Land Reform Policy in Brazil]]></article-title>
+<source><![CDATA[Environment and Development Economics]]></source>
+<year></year>
+<volume>4</volume>
+<page-range>135-160</page-range><publisher-loc><![CDATA[Cambridge^eUK UK]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALSTON]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIBECAP]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Violence and the Development of Property Rights to Land in the Brazilian Amazon]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Nye]]></surname>
+<given-names><![CDATA[J.V.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Drobak]]></surname>
+<given-names><![CDATA[J.N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Frontiers of the New Institutional Economics]]></source>
+<year></year>
+<page-range>145-164</page-range><publisher-loc><![CDATA[San Diego ]]></publisher-loc>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALSTON]]></surname>
+<given-names><![CDATA[L.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIBECAP]]></surname>
+<given-names><![CDATA[G.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[How Interest Groups with Limited Resources can Influence Political Outcomes: Information Control and the Landless Peasant Movement in Brazil]]></source>
+<year>2005</year>
+<month>20</month>
+<day>05</day>
+<publisher-loc><![CDATA[Institute of Behavioral Science ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALSTON]]></surname>
+<given-names><![CDATA[L.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIBECAP]]></surname>
+<given-names><![CDATA[G.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHNEIDER]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Property Rights and the Preconditions for Markets: The Case of the Amazon Frontier]]></article-title>
+<source><![CDATA[Journal of Institutional and Theoretical Economics]]></source>
+<year></year>
+<volume>151</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>89-107</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[R.C.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KHAN]]></surname>
+<given-names><![CDATA[A.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[P.V.P.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Sustentabilidade dos assentamentos no município de Caucaia-CE]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year></year>
+<volume>43</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>225-247</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BIELSCHOWSKY]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pensamento Econômico Brasileiro: o ciclo ideológico do desenvolvimentismo]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[PNPE/IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOTELHO]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[URDAN]]></surname>
+<given-names><![CDATA[A. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Lealdade à marca e sensibilidade ao preço: um estudo da escolha da marca pelo consumidor]]></article-title>
+<source><![CDATA[Revista de Administração Contemporânea]]></source>
+<year></year>
+<volume>9</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>163-180</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COMPARATO]]></surname>
+<given-names><![CDATA[B.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A ação política do MST]]></article-title>
+<source><![CDATA[São Paulo em Perspectiva]]></source>
+<year></year>
+<volume>15</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>105-118</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CONNING]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROBINSON]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Property Rights and the Political Organization of the Agriculture]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CORSEUIL]]></surname>
+<given-names><![CDATA[C.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[D.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FOGUEL]]></surname>
+<given-names><![CDATA[M.N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Decisões Críticas em Idades Críticas: a Escolha dos Jovens entre Estudo e Trabalho no Brasil e em outros Países da América Latina]]></source>
+<year>2001</year>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DI TELLA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GALIANI]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHARGRODSKY]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Property Rights and Beliefs: Evidence from the Allocation of Land Titles to Squatters]]></source>
+<year>2004</year>
+<publisher-name><![CDATA[Ronald Coase Institute]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<collab>FETAEMG</collab>
+<source><![CDATA[Histórico: a construção do movimento sindical]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GALIANI]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHARGRODSKY]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Property Rights for the Poor: Effects of Land Titling]]></source>
+<year>2005</year>
+<publisher-name><![CDATA[Ronald Coase Institute]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARFINKEL]]></surname>
+<given-names><![CDATA[M.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SKAPERDAS]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The political economy of conflict and appropriation]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRIPP]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Mais verbas, mais invasões]]></article-title>
+<source><![CDATA[O Globo]]></source>
+<year>18.0</year>
+<month>6.</month>
+<day>06</day>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GROSSMAN]]></surname>
+<given-names><![CDATA[H.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KIM]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Predation and production]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[GARFINKEL]]></surname>
+<given-names><![CDATA[M.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SKAPERDAS]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The political economy of conflict and appropriation]]></source>
+<year></year>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GROSSMAN]]></surname>
+<given-names><![CDATA[H.I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Production, Appropriation, and Land Reform]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year></year>
+<volume>84</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>705-712</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HIRHSLEIFER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The paradox of power]]></article-title>
+<source><![CDATA[Economics and Politics]]></source>
+<year></year>
+<volume>3</volume>
+<page-range>177-200</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOROWITZ]]></surname>
+<given-names><![CDATA[A.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Time path of land reform: a theoretical model of reform dynamics]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year></year>
+<volume>83</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1003-1010</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Evolução Histórica dos Direitos de Propriedade sobre Terras no Brasil e EUA]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALSTON]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIBECAP]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHNEIDER]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Land Property Rights and Privatization in Brazil]]></article-title>
+<source><![CDATA[The Quarterly review of Economics and Finance]]></source>
+<year></year>
+<volume>34</volume>
+<page-range>261-280</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[D.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Public Choice III]]></source>
+<year>2003</year>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NAKANE]]></surname>
+<given-names><![CDATA[N.I]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALENCAR]]></surname>
+<given-names><![CDATA[L.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KANCZUK]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Demanda por Produtos Bancários e Poder de Mercado na Indústria Bancária Brasileira]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NORTON]]></surname>
+<given-names><![CDATA[E.C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WANG]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AI]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Computing interaction effects and standard errors in logit and probit models]]></article-title>
+<source><![CDATA[Stata Journal]]></source>
+<year></year>
+<volume>4</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>154-167</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REZENDE]]></surname>
+<given-names><![CDATA[G.C. de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pobreza e desigualdade no Brasil: o papel adverso das políticas trabalhista, fundiária e de crédito agrícola]]></source>
+<year>2006</year>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RODRIGUEZ]]></surname>
+<given-names><![CDATA[R.V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O governo Lula e os movimentos sociais]]></article-title>
+<source><![CDATA[Banco de Idéias]]></source>
+<year></year>
+<volume>X</volume>
+<numero>36</numero>
+<issue>36</issue>
+<page-range>9-11</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAUER]]></surname>
+<given-names><![CDATA[S. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Terra por uma Cédula: Estudo sobre a Reforma Agrária de Mercado]]></source>
+<year>2002</year>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[E.H. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[F.M.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALVES FILHO]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Inovação e Sustentabilidade Econômica em Projetos de Assentamento da Re-forma Agrária]]></article-title>
+<source><![CDATA[Revista Econômica do Nordeste]]></source>
+<year></year>
+<volume>37</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>216-233</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SKAPERDAS]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Restraining the Genuine Homo Economicus: Why the Economy Cannot Be Divorced from Its Governance]]></article-title>
+<source><![CDATA[Economics and Politics]]></source>
+<year></year>
+<volume>15</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>135-162</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[M. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DEL GROSSI]]></surname>
+<given-names><![CDATA[M.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A evolução das ocupações das famílias na região não-metropolitana rural do Estado do Paraná: 1992-99]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year></year>
+<volume>40</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>807-822</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[UMBECK]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Might makes rights: a theory of the formation and initial distribution of property rights]]></article-title>
+<source><![CDATA[Economic Inquiry]]></source>
+<year></year>
+<volume>19</volume>
+<page-range>38-59</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

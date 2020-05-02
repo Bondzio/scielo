@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032002000400003</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032002000400003</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Sazonalidade do mercado de flores e plantas ornamentais no Estado de São Paulo: o caso da CEAGESP-SP]]></article-title>
+<article-title xml:lang="en"><![CDATA[Seasonality of the flowers and ornamental plants market in São Paulo state: the case of CEAGESP-SP]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[Roberta Wanderley da Costa]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Caixeta Filho]]></surname>
+<given-names><![CDATA[José Vicente]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,USP ESALQ Departamento de Economia, Administração e Sociologia]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,USP ESALQ Departamento de Economia, Administração e Sociologia]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2002</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2002</year>
+</pub-date>
+<volume>40</volume>
+<numero>4</numero>
+<fpage>789</fpage>
+<lpage>806</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032002000400003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032002000400003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032002000400003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O presente artigo teve como objetivo principal avaliar o comportamento sazonal dos volumes e preços praticados na floricultura, através do uso de periodogramas e metodologia de Box e Jenkins (1976). Para tal, viu-se a necessidade de seleção dos produtos e entreposto a serem trabalhados. Os produtos escolhidos foram: rosa, crisântemo e violeta. Quanto ao entreposto, dados referentes à década de 90 foram levantados na CEAGESP-SP (Companhia de Entrepostos e Armazéns Gerais de São Paulo). Os resultados deste trabalho apontaram períodos de pico para a movimentação e para os preços praticados dos produtos escolhidos naquele entreposto. Informações a respeito do período sazonal são de extrema importância para o sistema de comercialização de cada produto agrícola. Tal fato não é diferente com relação às flores e plantas ornamentais. Tanto produtores como consumidores podem se beneficiar a partir do conhecimento do comportamento mais sistemático que seus produtos de interesse revelam. Conhecendo os picos sazonais, o produtor pode organizar sua produção de forma a intercalar e aumentar seus picos de comercialização.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This study evaluates the seasonal behavior of floriculture volumes and prices series covering most of the 1990s. The evaluation was accomplished using a periodogram and Box and Jenkins (1976) methodology. Three floral products were chosen for evaluation: rose, chrysanthemum, and violet. Data for the 1990’s were collected from CEAGESP-SP - Companhia de Entrepostos e Armazém Gerais de São Paulo, a floral products trade center. Study results show that traded volumes and prices peaked in particular seasons. Information regarding this seasonal period is of extreme importance to the flower and ornamental plant trading systems and allows producers to manage production to increase output at trading peaks.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[flores e plantas ornamentais]]></kwd>
+<kwd lng="pt"><![CDATA[sazonalidade]]></kwd>
+<kwd lng="pt"><![CDATA[periodograma e Box e Jenkins (1976)]]></kwd>
+<kwd lng="en"><![CDATA[Flowers and ornamental plants]]></kwd>
+<kwd lng="en"><![CDATA[seasonality]]></kwd>
+<kwd lng="en"><![CDATA[periodogram]]></kwd>
+<kwd lng="en"><![CDATA[Box and Jenkins]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P><font face="Verdana" size="4"><b><a name="topo"></a>Sazonalidade do mercado    de flores e plantas ornamentais no Estado de S&atilde;o Paulo: o caso da CEAGESP-SP<sup><a href="#1">1</a></sup></b></font></P>     <P>&nbsp;</P>     <P>&nbsp;</P>     <P><font face="Verdana" size="2"><b>Roberta Wanderley da Costa Marques<sup>I</sup>;    Jos&eacute; Vicente Caixeta Filho<sup>II</sup></b></font></P>     <P><font face="Verdana" size="2"><sup>I</sup>Engenheira-Agr&ocirc;noma e Mestra    em Economia Aplicada - Departamento de Economia, Administra&ccedil;&atilde;o    e Sociologia da ESALQ-USP (e-mail: <a href="mailto:robertawcm@hotmail.com">robertawcm@hotmail.com</a>)    <br>   <sup>II</sup>Engenheiro Civil, Doutor e Professor Associado do Departamento    de Economia, Administra&ccedil;&atilde;o e Sociologia da ESALQ-USP (e-mail:    <a href="mailto:jvcaixet@esalq.usp.br">jvcaixet@esalq.usp.br</a>)</font></P>     <P>&nbsp;</P>     <P>&nbsp;</P> <hr size="1" noshade>     <P><font face="Verdana" size="2"><B>RESUMO</b></font></P>     <P><font face="Verdana" size="2">O presente artigo teve como objetivo principal    avaliar o comportamento sazonal dos volumes e pre&ccedil;os praticados na floricultura,    atrav&eacute;s do uso de periodogramas e metodologia de Box e Jenkins (1976).    Para tal, viu-se a necessidade de sele&ccedil;&atilde;o dos produtos e entreposto    a serem trabalhados. Os produtos escolhidos foram: rosa, cris&acirc;ntemo e    violeta. Quanto ao entreposto, dados referentes &agrave; d&eacute;cada de 90    foram levantados na CEAGESP-SP (Companhia de Entrepostos e Armaz&eacute;ns Gerais    de S&atilde;o Paulo). Os resultados deste trabalho apontaram per&iacute;odos    de pico para a movimenta&ccedil;&atilde;o e para os pre&ccedil;os praticados    dos produtos escolhidos naquele entreposto. Informa&ccedil;&otilde;es a respeito    do per&iacute;odo sazonal s&atilde;o de extrema import&acirc;ncia para o sistema    de comercializa&ccedil;&atilde;o de cada produto agr&iacute;cola. Tal fato n&atilde;o    &eacute; diferente com rela&ccedil;&atilde;o &agrave;s flores e plantas ornamentais.    Tanto produtores como consumidores podem se beneficiar a partir do conhecimento    do comportamento mais sistem&aacute;tico que seus produtos de interesse revelam.    Conhecendo os picos sazonais, o produtor pode organizar sua produ&ccedil;&atilde;o    de forma a intercalar e aumentar seus picos de comercializa&ccedil;&atilde;o.    </font></P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="2"><B>Palavras-chave:</b> flores e plantas ornamentais,    sazonalidade, periodograma e Box e Jenkins (1976).</font></P> <hr noshade size="1">     <P>&nbsp;</P>     <P>&nbsp;</P>     <P><font face="Verdana" size="3"><b>1. Introdu&ccedil;&atilde;o</b></font></P>     <P><font face="Verdana" size="2">A floricultura, em seu amplo sentido, abrange    o cultivo de flores e plantas ornamentais com variados fins, que incluem desde    as culturas de flores para o corte at&eacute; a produ&ccedil;&atilde;o de mudas    arb&oacute;reas.</font></P>     <P><font face="Verdana" size="2">Segundo o IBRAFLOR – Instituto Brasileiro de    Floricultura (2001), a &aacute;rea total da produ&ccedil;&atilde;o de flores    e plantas ornamentais no Brasil chegou a 4.850 ha em 1999. Segundo o referido    Instituto, essa produ&ccedil;&atilde;o ocorre, com express&atilde;o econ&ocirc;mica,    principalmente nos Estados de S&atilde;o Paulo, Minas Gerais e do Rio de Janeiro,    que responderam por cerca de 75% da produ&ccedil;&atilde;o nacional em 1999.</font></P>     <P><font face="Verdana" size="2">A localiza&ccedil;&atilde;o da produ&ccedil;&atilde;o    e dos centros de comercializa&ccedil;&atilde;o &eacute; fator importante nesta    atividade agr&iacute;cola. Conforme Kras (1999), 90% da produ&ccedil;&atilde;o    e do consumo de flores e plantas ornamentais se d&aacute; em um raio de 500    km entre eles, dado que os custos de transporte e distribui&ccedil;&atilde;o    de produtos altamente perec&iacute;veis como esses limitam as dist&acirc;ncias    para comercializa&ccedil;&atilde;o. </font></P>     <P><font face="Verdana" size="2">De modo geral, a comercializa&ccedil;&atilde;o    e distribui&ccedil;&atilde;o de flores e plantas ornamentais ocorrem atrav&eacute;s    de centrais de comercializa&ccedil;&atilde;o. Segundo Castro (1998), existem    centrais onde somente entram produtos dos pr&oacute;prios produtores, como &eacute;    o caso do Veiling Holambra e do Mercaflor-SC (Mercado do Profissional da Floricultura    e do Paisagismo); existem aquelas onde entram produtos de produtores e atacadistas,    como a CEAGESP-SP e a CEASA-Campinas (Central de Abastecimento S/A); e, ainda,    aquelas onde somente se comercializam produtos de atacadistas, como o CADEG-Rio    de Janeiro (Companhia de Abastecimento do Estado da Guanabara) e a CEASA-Porto    Alegre.</font></P>     <P><font face="Verdana" size="2">Em se tratando do Estado de S&atilde;o Paulo,    os principais centros se resumem em Veiling Holambra, CEAGESP-SP e CEASA-Campinas.</font></P>     <P><font face="Verdana" size="2">Arruda et al. (1996), ao comentarem sobre o mercado    de flores da CEAGESP-SP, localizado na cidade de S&atilde;o Paulo, destacaram    que tal entreposto concentra a produ&ccedil;&atilde;o de v&aacute;rias regi&otilde;es,    facilitando a atividade dos compradores. Por&eacute;m, a falta de padr&atilde;o    de classifica&ccedil;&atilde;o e o longo per&iacute;odo de comercializa&ccedil;&atilde;o    prejudicam a apar&ecirc;ncia dos produtos, atributo essencial no com&eacute;rcio    de flores. </font></P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="2">Em pesquisa realizada pelo IBRAFLOR em 1995,    publicada por Arruda <I>et al.</I> (1996), constatou-se que 53% da comercializa&ccedil;&atilde;o    de flores no Brasil &eacute; realizada pela CEASA-Campinas e CEAGESP-SP.</font></P>     <P><font face="Verdana" size="2">Quanto ao consumo, v&aacute;rios autores t&ecirc;m    ressaltado que o Brasil possui uma demanda sazonal por flores e plantas ornamentais.    Segundo Almeida e Aki (1995), a produ&ccedil;&atilde;o concentra-se em &eacute;pocas    de maior demanda, como Dia das M&atilde;es, Finados e Natal. Claro (1998) complementou    que, atualmente, outras datas fortes foram inseridas no calend&aacute;rio: Dia    Internacional da Mulher, Dia dos Namorados, Dia das Av&oacute;s, Dia dos Pais    etc.</font></P>     <P><font face="Verdana" size="2">Segundo Groot (1999), o consumo de flores    de corte no mundo, em 1985, foi de aproximadamente US$ 12,5 bilh&otilde;es.    Em 1990, o consumo cresceu para US$ 25 bilh&otilde;es e, em 1995, j&aacute;    chegava a US$ 31 bilh&otilde;es. </font></P>     <P><font face="Verdana" size="2">Outro fato interessante &eacute; que existe aumento    no consumo de flores e plantas ornamentais no Brasil, visto que Barletta (1995)    observou uma m&eacute;dia de despesas de US$ 4.00 <I>per capita</I> com flores    em 1994, enquanto esse valor m&eacute;dio chegou a US$7.00 <I>per capita</I>    em 1998, de acordo com Castro (1998). </font></P>     <P><font face="Verdana" size="2">Autores como Groot (1999) e Kras (1999) acreditam    que a demanda por flores no mundo, nos pr&oacute;ximos anos, tende a aumentar    e que a produ&ccedil;&atilde;o crescer&aacute; mais rapidamente que o consumo,    o que perpetuaria uma competi&ccedil;&atilde;o por melhores pre&ccedil;os. H&aacute;    outros autores, como Salunkhe et al. (1990), que acreditam tamb&eacute;m que    a demanda dos consumidores por flores e plantas ornamentais sempre ir&aacute;    exceder a produ&ccedil;&atilde;o e que o mercado por esses produtos ter&aacute;    uma expans&atilde;o cada vez mais r&aacute;pida &agrave; medida que forem incorporados    m&eacute;todos mais eficientes de <I>marketing</I>.</font></P>     <P><font face="Verdana" size="2">As inefici&ecirc;ncias do setor de distribui&ccedil;&atilde;o    n&atilde;o contribuem para a melhoria das rela&ccedil;&otilde;es entre os consumidores    brasileiros e as flores e plantas ornamentais, ou seja, com tantas dificuldades,    o consumo se concentra em certas datas do ano, retardando ainda mais as tentativas    de n&atilde;o somente aumentar o consumo, mas tamb&eacute;m distribu&iacute;-lo    melhor ao longo do ano.</font></P>     <P><font face="Verdana" size="2">De acordo com trabalho realizado por Gatti (1988),    a oferta com comportamento mais regular de produtos no transcorrer do ano &eacute;    objetivo importante n&atilde;o apenas para os consumidores, mas tamb&eacute;m    para os produtores; no caso dos consumidores, a oferta regular, eliminando os    per&iacute;odos de escassez dos produtos, resultaria em pre&ccedil;os mais acess&iacute;veis,    com menor amplitude de varia&ccedil;&atilde;o; no caso dos produtores, a oferta    regular em vez da busca de pre&ccedil;os elevados na entressafra resultaria    em pre&ccedil;os e renda mais est&aacute;veis.</font></P>     <P><font face="Verdana" size="2">Santiago <I>et al.</I> (1996) ressaltaram que    o mercado de produtos agr&iacute;colas caracteriza-se por apresentar maior grau    de sensibilidade no que se refere a oscila&ccedil;&otilde;es de pre&ccedil;os    comparativamente ao mercado de bens industriais. Isso se deve &agrave;s caracter&iacute;sticas    intr&iacute;nsecas que regem as condi&ccedil;&otilde;es de produ&ccedil;&atilde;o    do mercado agr&iacute;cola, as quais n&atilde;o somente proporcionam elevado    grau de instabilidade, como tamb&eacute;m grande amplitude de varia&ccedil;&atilde;o    nos pre&ccedil;os de seus produtos.</font></P>     <P><font face="Verdana" size="2">A sazonalidade da produ&ccedil;&atilde;o de flores    dificulta a comercializa&ccedil;&atilde;o, salientou Matsunaga (1995). Uma solu&ccedil;&atilde;o    de car&aacute;ter t&eacute;cnico seria a implanta&ccedil;&atilde;o de estufas    climatizadas para viabilizar uma produ&ccedil;&atilde;o cont&iacute;nua, de    forma a uniformizar a oferta de produto, que, como resultado, refletiria em    uma demanda permanente de mercado. </font></P>     <P><font face="Verdana" size="2">Pino <I>et al.</I> (1994) ressaltaram que as    causas da sazonalidade podem estar reunidas em dois grandes grupos: as provocadas,    direta ou indiretamente, pela exist&ecirc;ncia das esta&ccedil;&otilde;es do    ano; e as relacionadas ao calend&aacute;rio. Estas &uacute;ltimas se devem a    fatores culturais, podendo afetar vari&aacute;veis como a demanda por certos    produtos em determinadas &eacute;pocas do ano, o que pode ocorrer, por exemplo,    com as flores.</font></P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="2">Segundo esses mesmos autores, a sazonalidade    relacionada ao calend&aacute;rio pode ser causada em vari&aacute;veis tipo fluxo,    quando ocorre varia&ccedil;&atilde;o do n&uacute;mero de dias do m&ecirc;s.    De acordo com Granger et al. (1978), decis&otilde;es institucionais ou individuais    sobre o uso do tempo, como &eacute; o caso de f&eacute;rias escolares, final    de ano fiscal etc., e tamb&eacute;m as expectativas podem gerar um padr&atilde;o    sazonal, por exemplo a produ&ccedil;&atilde;o de brinquedos, na esperan&ccedil;a    de maiores vendas durante o per&iacute;odo natalino.</font></P>     <P><font face="Verdana" size="2">Devido &agrave; import&acirc;ncia do planejamento    para comercializa&ccedil;&atilde;o e consumo de produtos agr&iacute;colas, o    conhecimento das varia&ccedil;&otilde;es estacionais dos pre&ccedil;os, por    exemplo, fornece subs&iacute;dios aos produtores para aloca&ccedil;&atilde;o    temporal mais eficiente. Al&eacute;m disso, pode servir para orientar o consumidor    sobre as melhores &eacute;pocas de compra, melhorando a efici&ecirc;ncia da    utiliza&ccedil;&atilde;o de sua renda. Assim, ressaltam-se a import&acirc;ncia    e a necessidade de estudos emp&iacute;ricos da sazonalidade do mercado de produtos    agr&iacute;colas no Brasil, incluindo, nesse caso, flores e plantas ornamentais.    A sazonalidade e os fatores que a influenciam, se bem conhecidos e avaliados,    permitir&atilde;o uma prospec&ccedil;&atilde;o mais efetiva em torno de previs&otilde;es    de mercado.</font></P>     <P><font face="Verdana" size="2">O presente artigo teve como objetivo principal    a avalia&ccedil;&atilde;o do comportamento sazonal dos volumes e pre&ccedil;os    praticados na floricultura. Para tal, dados referentes &agrave; d&eacute;cada    de 90 para rosas, cris&acirc;ntemos e violetas dever&atilde;o ser levantados    na CEAGESP-SP. Al&eacute;m desse objetivo principal, os seguintes objetivos    mais espec&iacute;ficos foram perseguidos: identifica&ccedil;&atilde;o dos per&iacute;odos    sazonais existentes e das caracter&iacute;sticas do comportamento sazonal de    volumes e pre&ccedil;os.</font></P>     <P>&nbsp;</P>     <P><font face="Verdana" size="3"><b>2. Material e m&eacute;todo</b></font></P>     <P><font face="Verdana" size="2"><b>2.1. Especifica&ccedil;&atilde;o dos dados</b></font></P>     <P><font face="Verdana" size="2">Na CEAGESP-SP, parte dos dados foi obtida por    meio de pesquisadores locais e parte foi coletada a partir do Boletim Mensal    CEAGESP-SP (1992-2001), publicado pelo pr&oacute;prio entreposto, tabulando-se    em planilhas eletr&ocirc;nicas. Esses dados s&atilde;o referentes aos volumes    e pre&ccedil;os mensais praticados nesse entreposto, especificados por produto,    num per&iacute;odo que se estende a um m&aacute;ximo de nove anos (meados de    1992 a meados de 2001). Devido &agrave; assimetria das informa&ccedil;&otilde;es    e, muitas vezes, &agrave; irregularidade de coleta de dados por parte do pr&oacute;prio    entreposto de comercializa&ccedil;&atilde;o ou, ainda, &agrave; inser&ccedil;&atilde;o    de novos produtos no mercado, os produtos apresentaram diferen&ccedil;as quanto    ao per&iacute;odo que abrangia suas informa&ccedil;&otilde;es espec&iacute;ficas.    No caso, para rosas o per&iacute;odo de an&aacute;lise foi de abril de 1992    a outubro de 1999; cris&acirc;ntemos, de maio de 1993 a dezembro de 1999; e    violetas, de outubro de 1993 a outubro de 1999.</font></P>     <P><font face="Verdana" size="2"><b>2.2. Abordagens do tratamento da sazonalidade</b></font></P>     <P><font face="Verdana" size="2">Uma forma de analisar s&eacute;ries temporais,    de acordo com Box e Jenkins (1976), &eacute; baseada na an&aacute;lise espectral.    Esta an&aacute;lise decomp&otilde;e a s&eacute;rie de dados em componentes senoidais    com coeficientes aleat&oacute;rios n&atilde;o-correlacionados. Juntamente com    essa decomposi&ccedil;&atilde;o – em sen&oacute;ides – existe a correspondente    decomposi&ccedil;&atilde;o da fun&ccedil;&atilde;o de autocovari&acirc;ncia.    Assim, a decomposi&ccedil;&atilde;o espectral de um processo estacion&aacute;rio    &eacute; an&aacute;logo &agrave; representa&ccedil;&atilde;o de Fourier de fun&ccedil;&otilde;es    determin&iacute;sticas. A an&aacute;lise de Fourier decomp&otilde;e a s&eacute;rie    em um somat&oacute;rio de ondas de senos e co-senos de diferentes amplitudes    e comprimentos de onda. </font></P>     <P><font face="Verdana" size="2">O periodograma &eacute; uma ferramenta de extrema    import&acirc;ncia neste artigo. Uma de suas utilidades &eacute; detectar o per&iacute;odo    sazonal de uma s&eacute;rie temporal. Box e Jenkins (1976) afirmaram que o periodograma    &eacute; uma ferramenta apropriada para analisar s&eacute;ries temporais compostas    que envolvem ondas de senos e co-senos com freq&uuml;&ecirc;ncias fixas mascaradas    no res&iacute;duo, conforme definido na equa&ccedil;&atilde;o (1).</font></P>     ]]></body>
+<body><![CDATA[<P><img src="/img/revistas/resr/v40n4/4a3e01.gif"></P>      <P><font face="Verdana" size="2">em que</font></P>     <P><font face="Verdana" size="2"><I>I= </i>contribui&ccedil;&atilde;o da freq&uuml;&ecirc;ncia    <font face="Symbol">&#108;</font> <I><SUB>k</sub></I> &agrave; soma de quadrados    associada aos coeficientes seno e co-seno;    <br>   </font><font face="Verdana" size="2"><font face="Symbol">&#108;</font> <SUB><i>k</i></SUB>    = freq&uuml;&ecirc;ncia de Fourier;    <br>   </font><font face="Verdana" size="2"><I>d<SUB>c</SUB></i> = transformada co-seno    de Fourier; e    <br>   </font><font face="Verdana" size="2"><I>d<SUB>s</SUB></i> = transformada seno    de Fourier.</font></P>     <P><font face="Verdana" size="2">Quando <I>I</I>(<font face="Symbol">&#108;</font> <I><SUB>k</sub></I>) s&atilde;o    plotados contra <font face="Symbol">&#108;</font> <I><SUB>k</sub></I>, formam-se periodogramas, ou seja,    estimadores do espectro. </font></P>     <P><font face="Verdana" size="2">Para verificar se o per&iacute;odo encontrado    &eacute; realmente significante, utiliza-se como ferramenta o teste de periodicidade    de Fisher (1929), citado por Wei (1989). Este teste baseia-se na compara&ccedil;&atilde;o    entre os valores de pico e variabilidade total da s&eacute;rie, a fim de se    detectar sua signific&acirc;ncia.</font></P>     <P><font face="Verdana" size="2">Fisher (1929), citado por Wei (1989), derivou    um teste exato baseado na estat&iacute;stica <I>g</I>. De acordo com a hip&oacute;tese    nula H<SUB>o</SUB> de que n&atilde;o existe periodicidade, calcula-se o valor    de <I>g</I> – apresentado na equa&ccedil;&atilde;o (2) – e    rejeita-se H<SUB>o</SUB> se o valor de <I>g</I> calculado for maior que o <I>g</I>    tabelado (ver, por exemplo, Wei, 1989, p.262). </font></P>     <P align="center"><a name="e2"></a></P>     ]]></body>
+<body><![CDATA[<P align="center">&nbsp;</P>     <P><img src="/img/revistas/resr/v40n4/4a3e02.gif"></P>     <P align="center">&nbsp;</P>     <P><font face="Verdana" size="2">sendo</font></P>     <P><font face="Verdana" size="2"><I>N </i>= n&uacute;mero de observa&ccedil;&otilde;es;    e    <br>   </font><font face="Verdana" size="2"><I>I(<font face="Symbol">&#108;</font>    <SUB>j</SUB>) </i>= periodograma.</font></P>     <P><font face="Verdana" size="2">Assim, um valor significativo de <I>I(<font face="Symbol">&#108;</font>    <SUB>j</SUB>) </I>leva a se rejeitar H<SUB>o</SUB> e comprovar-se que a componente    peri&oacute;dica &eacute; significativa; caso contr&aacute;rio, esta componente    n&atilde;o existe. Rejeitar H<SUB>o</SUB> significa que a s&eacute;rie exibe    uma periodicidade conhecida <img src="/img/revistas/resr/v40n4/4a3c01.gif" align="middle">,    em que <font face="Symbol">l</font>* &eacute; a freq&uuml;&ecirc;ncia correspondente    ao <I>I(<font face="Symbol">&#108;</font> <SUB>j</SUB>)</I> m&aacute;ximo.</font></P>     <P><font face="Verdana" size="2">Morettin e Toloi (1987) ressaltaram que, para    o caso de uma s&eacute;rie n&atilde;o-estacion&aacute;ria, deve-se, primeiramente,    eliminar a n&atilde;o-estacionariedade de s&eacute;ries homog&ecirc;neas para,    ent&atilde;o, prosseguir-se com a an&aacute;lise. </font></P>     <P><font face="Verdana" size="2"><b>2.3. Metodologia Box e Jenkins</b></font></P>     <P><font face="Verdana" size="2">A metodologia empregada neste estudo foi o tratamento    dado &agrave;s s&eacute;ries temporais em m&eacute;todo elaborado por Box <I>et    al.</I> (1994). Segundo diversos autores, como Harvey (1993), Morettin e Toloi    (1987), Montello (1970) e Pino et al. (1994), entre muitos outros, uma s&eacute;rie    temporal pode ser definida como um conjunto de observa&ccedil;&otilde;es ordenadas    no tempo. </font></P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="2">Os modelos a serem especificados neste trabalho    foram desenvolvidos originalmente por Box e Jenkins (1976) e podem ser aplicados    a s&eacute;ries que apresentam estacionariedade ou n&atilde;o-estacionariedade.    Os modelos chamados de auto-regressivos (AR), m&eacute;dias m&oacute;veis (MA)    ou auto-regressivos de m&eacute;dias m&oacute;veis (ARMA) podem ser aplicados    a s&eacute;ries estacion&aacute;rias, enquanto modelos denominados auto-regressivos    integrados de m&eacute;dias m&oacute;veis (ARIMA) ou auto-regressivos integrados    de m&eacute;dias m&oacute;veis e sazonais, tamb&eacute;m denominados SARIMA,    podem ser aplicados a s&eacute;ries n&atilde;o-estacion&aacute;rias. Os modelos    ARMA t&ecirc;m ordem <I>p</I> para os par&acirc;metros auto-regressivos e <I>q</I>    para os par&acirc;metros de m&eacute;dias m&oacute;veis, enquanto os modelos    ARIMA t&ecirc;m ordem <I>p</I>, <I>d</I> e <I>q</I>, sendo <I>d</I> a ordem    da integra&ccedil;&atilde;o do modelo. &Eacute; poss&iacute;vel que a s&eacute;rie    em an&aacute;lise apresente v&aacute;rios componentes sazonais e, para expressar    essa m&uacute;ltipla sazonalidade, o modelo deve ser elaborado de modo a incluir    v&aacute;rios est&aacute;gios de diferen&ccedil;as e v&aacute;rios operadores    de m&eacute;dias m&oacute;veis e auto-regressivos sazonais.</font></P>     <P><font face="Verdana" size="2">Para cada um desses modelos, a ordem pode variar.    Atendendo ao princ&iacute;pio da parcim&ocirc;nia de Box e Jenkins (1976), deve-se    optar pelo modelo que represente o menor n&uacute;mero de par&acirc;metros poss&iacute;vel.</font></P>     <P><font face="Verdana" size="2">De acordo com Box e Jenkins (1976), Morettin    e Toloi (1987) e outros autores, podem-se representar os modelos SARIMA por</font></P>     <P><img src="/img/revistas/resr/v40n4/4a3e04.gif"></P>     <P align="left"><font face="Verdana" size="2">com</font></P>     <P align="left"><img src="/img/revistas/resr/v40n4/4a3e05.gif"></P>     <P align="left"> <img src="/img/revistas/resr/v40n4/4a3e06.gif"></P>     <P align="left"><img src="/img/revistas/resr/v40n4/4a3e07.gif"></P>     <P align="left"><img src="/img/revistas/resr/v40n4/4a3e08.gif"></P>     <P align="left"><img src="/img/revistas/resr/v40n4/4a3e09.gif"></P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="2">em que </font></P>     <P><font face="Verdana" size="2"><img src="/img/revistas/resr/v40n4/4a3c05.gif">    = vari&aacute;vel diferenciada <I>Z<SUB>t</sub></I> menos a sua pr&oacute;pria    m&eacute;dia (<font face="Symbol">&#109;</font>);    <br>   </font><font face="Verdana" size="2"><font face="Symbol">&#102;</font><I> (B)</i>    = operador auto-regressivo de ordem <I>p</I>;    <br>   </font><font face="Verdana" size="2"><font face="Symbol">&#113;</font> <I>(B)</i>    = operador de m&eacute;dia m&oacute;vel de ordem <I>q</I>;    <br>   </font><font face="Verdana" size="2"><font face="Symbol">&#70;</font> (B) =    operador sazonal auto-regressivo;    <br>   </font><font face="Verdana" size="2"><font face="Symbol">&#81;</font> (B) =    operador sazonal de m&eacute;dia m&oacute;vel;    <br>   </font><font face="Verdana" size="2"><I>Q </i>e <I>P</I> = ordens dos par&acirc;metros    de m&eacute;dias m&oacute;veis e par&acirc;metros auto-regressivos, respectivamente;    e    <br>   </font><font face="Verdana" size="2"><I>s</i> = per&iacute;odo sazonal.</font></P>     <P><font face="Verdana" size="2">Cunha e Margarido (1999) acrescentaram que <img src="/img/revistas/resr/v40n4/4a3c02.gif" align="middle">,    em que <font face="Symbol">&#68;</font> <I><SUP>d</sup></I> &eacute; o operador    de diferen&ccedil;a, isto &eacute;, <img src="/img/revistas/resr/v40n4/4a3c03.gif" align="middle">,    sendo <I>z<SUB>t</sub></I> a vari&aacute;vel em n&iacute;vel e <I>B </I>o operador    de atraso, tal que <img src="/img/revistas/resr/v40n4/4a3c04.gif" align="middle">.</font></P>     <P><font face="Verdana" size="2">Segundo Box e Jenkins (1976), o processo multiplicativo    resultante pode ser nomeado, ent&atilde;o, como de ordem (<I>p,d,q</I>) <font face="Symbol">&#180;</font>    (<I>P,D,Q</I>)<SUB>s</SUB>.</font></P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="2">Ap&oacute;s a especifica&ccedil;&atilde;o dos    modelos a serem utilizados na an&aacute;lise, a etapa seguinte consiste na identifica&ccedil;&atilde;o    do processo gerador da s&eacute;rie, ou seja, identificar se o processo &eacute;    auto-regressivo e, ou, de m&eacute;dias m&oacute;veis. Isso significa que, nessa    etapa, h&aacute; que se determinarem os valores <I>p</I>, <I>d</I> e <I>q</I>    do modelo ARIMA (<I>p,d,q</I>). Se a s&eacute;rie j&aacute; sofreu alguma filtragem,    o modelo identificado tem a denomina&ccedil;&atilde;o de ser auto-regressivo    integrado e, ou, integrado de m&eacute;dias m&oacute;veis (ARIMA) ou um ARIMA    sazonal, tamb&eacute;m chamado de SARIMA. </font></P>     <P><font face="Verdana" size="2">A pr&oacute;xima etapa da metodologia consiste    na estima&ccedil;&atilde;o dos par&acirc;metros do modelo rec&eacute;m-identificado.    A realiza&ccedil;&atilde;o desta etapa, segundo Gujarati (2000), hoje &eacute;    rotineiramente efetuada por diversos pacotes de estat&iacute;stica desenvolvidos    para computadores.</font></P>     <P><font face="Verdana" size="2">Finalmente, realiza-se a verifica&ccedil;&atilde;o    do modelo ajustado atrav&eacute;s de uma an&aacute;lise de res&iacute;duos,    a fim de checar se este &eacute; adequado para os fins desejados. Para constatar    se o modelo estimado &eacute; adequadamente ajustado aos dados, existem v&aacute;rios    &quot;testes&quot;, sugeridos por Box e Jenkins (1976), assim como por Morettin    e Toloi (1987). Alguns deles s&atilde;o: teste de autocorrela&ccedil;&atilde;o    residual e o teste de Box-Pierce.</font></P>     <P><font face="Verdana" size="2">A an&aacute;lise em quest&atilde;o ser&aacute;    realizada com o aux&iacute;lio do <I>software</I> SAS (1999), de acordo com    a metodologia espec&iacute;fica tamb&eacute;m encontrada em SAS (1993) e SAS    (1996). Sintetizando, para tratamento dos dados de volumes e pre&ccedil;os de    cada um dos tr&ecirc;s produtos selecionados na CEAGESP-SP, a seguinte seq&uuml;&ecirc;ncia<a name="4volta"></a><a href="#4"><sup>2</sup></a>    de passos foi observada:</font></P>     <P><font face="Verdana" size="2">a) C&aacute;lculo de regress&atilde;o simples    entre a m&eacute;dia e o desvio-padr&atilde;o da s&eacute;rie, para que se identificasse    o tipo de transforma&ccedil;&atilde;o (normalmente logar&iacute;tmica) que seria    adequado para a homogeneiza&ccedil;&atilde;o da vari&acirc;ncia dos res&iacute;duos.</font></p>     <P><font face="Verdana" size="2">b) Com a s&eacute;rie transformada, verificou-se    a fun&ccedil;&atilde;o de autocorrela&ccedil;&atilde;o (FAC) e, em se percebendo    a exist&ecirc;ncia de tend&ecirc;ncia estoc&aacute;stica e de um eventual comportamento    sazonal, o teste de raiz unit&aacute;ria foi realizado para checar a estacionariedade    da s&eacute;rie.</font></p>     <p><font face="Verdana" size="2">c) Se a s&eacute;rie possu&iacute;a uma raiz    unit&aacute;ria, uma diferen&ccedil;a de ordem &quot;1&quot; era feita para    eliminar a tend&ecirc;ncia estoc&aacute;stica existente.</font></p>     <P><font face="Verdana" size="2">d) Ap&oacute;s eliminar a eventual tend&ecirc;ncia    estoc&aacute;stica, o per&iacute;odo de sazonalidade era identificado a partir    do periodograma (normalmente com uma diferen&ccedil;a) e validado com o teste    de periodicidade de Fisher, abordado na se&ccedil;&atilde;o 2.2.</font></p>     <p><font face="Verdana" size="2">e) As estimativas dos par&acirc;metros de acordo    com o ajustamento de equa&ccedil;&otilde;es abordadas na se&ccedil;&atilde;o    2.3, a vari&acirc;ncia, o desvio-padr&atilde;o e o resultado da autocorrela&ccedil;&atilde;o    dos res&iacute;duos foram verificados e avaliados, a partir dos crit&eacute;rios    de Akaike e Schwarz, do teste de Box e Pierce e dos resultados da fun&ccedil;&atilde;o    de autocorrela&ccedil;&atilde;o (FAC) e da fun&ccedil;&atilde;o de autocorrela&ccedil;&atilde;o    parcial (FACP) da s&eacute;rie, com as diferen&ccedil;as de ordens devidas.    </font></p>     <P>&nbsp;</P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="3"><b>3. Resultados e discuss&atilde;o</b></font></P>     <P><font face="Verdana" size="2">Nas <a href="#f1">Figuras 1</a> e <a href="#f2">2</a>,    apresentam-se, respectivamente, os volumes e os pre&ccedil;os praticados na    CEAGESP-SP para rosas, cris&acirc;ntemos e violetas. Nota-se nessas figuras    que, em termos de volume movimentado, as rosas ocupam o primeiro lugar. Com    rela&ccedil;&atilde;o a pre&ccedil;os, a caixa de violetas atinge maior pre&ccedil;o    durante o per&iacute;odo observado.</font></P>     <P align="center"><a name="f1"></a></P>     <P align="center">&nbsp;</P>     <P align="center"><a href="/img/revistas/resr/v40n4/4a3f01.gif"><img src="/img/revistas/resr/v40n4/4a3f01t.gif" border="0"></a></P>     <P align="center"><font face="Verdana" size="2"><b>Figura 1</b> - Clique para    ampliar</font></P>     <P align="center">&nbsp;</P>     <P align="center"><a name="f2"></a></P>     <P align="center">&nbsp;</P>     <P align="center"><a href="/img/revistas/resr/v40n4/4a3f02.gif"><img src="/img/revistas/resr/v40n4/4a3f02t.gif" border="0"></a></P>     ]]></body>
+<body><![CDATA[<P align="center"><font face="Verdana" size="2"><b>Figura 2</b> - Clique para    ampliar</font></P>     <P align="center">&nbsp;</P>     <P><font face="Verdana" size="2">O cris&acirc;ntemo comum foi a principal fonte    de receita da CEAGESP-SP entre 1998 e 1999, e as rosas cortadas representaram    a segunda maior receita gerada por flores comercializadas nesse entreposto no    mesmo per&iacute;odo. </font></P>     <P><font face="Verdana" size="2">O volume de cris&acirc;ntemos, no per&iacute;odo    de outubro de 1993 a outubro de 1999, demonstra um comportamento crescente,    havendo grande queda entre 1995 e 1996. Verificou-se ainda que, em 1994, houve    pouca oferta no mercado, com quedas nos meses de novembro. </font></P>     <P><font face="Verdana" size="2">Quanto ao comportamento dos pre&ccedil;os de    cris&acirc;ntemos, notou-se um aumento entre 1993 e 1994, tendendo a ficar mais    est&aacute;veis entre 1998 e 1999. Nos anos de 1995 e 1997, verificou-se grande    queda durante o per&iacute;odo, com ligeiro aumento de pre&ccedil;os em fevereiro.    </font></P>     <P><font face="Verdana" size="2">A comercializa&ccedil;&atilde;o de rosas na CEAGESP-SP,    embora apresentasse grandes volumes mensais, diminuiu de abril de 1992 a outubro    de 1999. Em se tratando do comportamento dos pre&ccedil;os praticados mensalmente    no mesmo per&iacute;odo, observou-se aumento em valores reais.</font></P>     <P><font face="Verdana" size="2">A diminui&ccedil;&atilde;o do movimento de rosas    deveu-se, em parte, &agrave; competi&ccedil;&atilde;o com outras flores cortadas    que surgiram no mercado ou at&eacute; mesmo prefer&ecirc;ncias por flores envasadas,    as quais t&ecirc;m como caracter&iacute;sticas, em sua maioria, maior durabilidade    e praticidade de seu uso como arranjos. Pode-se citar, particularmente na CEAGESP-SP,    que, dentre suas flores e plantas ornamentais mais demandadas, houve aumento    no volume comercializado de violetas, l&iacute;rios, ant&uacute;rios e g&eacute;rberas    no mesmo per&iacute;odo. Quanto ao comportamento desses dados, percebeu-se que    os pre&ccedil;os tiveram picos em junho ou julho de cada m&ecirc;s, indicando    um prov&aacute;vel comportamento sazonal.</font></P>     <P><font face="Verdana" size="2">As violetas s&atilde;o flores altamente representativas    dentre as existentes no mercado de flores da CEAGESP-SP e s&atilde;o a&iacute;    comercializadas em pequenos vasos, que s&atilde;o vendidos em caixas de 6 kg    (com aproximadamente 15 vasos). Sua comercializa&ccedil;&atilde;o, de 1994 a    2000, foi de cerca de 400 mil caixas anualmente.</font></P>     <P><font face="Verdana" size="2">O volume comercializado de violetas no per&iacute;odo    de outubro de 1993 a outubro de 1999 demonstra um comportamento crescente, com    grande queda entre 1995 e 1996, particularmente no m&ecirc;s de novembro. Quanto    ao comportamento dos pre&ccedil;os reais praticados no mesmo per&iacute;odo,    atentou-se para uma forte queda em 1996. </font></P>     <P><font face="Verdana" size="2">Quanto ao volume movimentado, os meses de maio,    outubro e dezembro foram igualmente importantes para rosas, cris&acirc;ntemos    e violetas, com a ressalva de que para estas &uacute;ltimas o m&ecirc;s de mar&ccedil;o    revelou-se, tamb&eacute;m, uma data de pico de movimenta&ccedil;&atilde;o. </font></P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="2">Na CEAGESP-SP, o volume de rosas e cris&acirc;ntemos    possui per&iacute;odo de pico de seis em seis meses, enquanto as violetas apresentam    maior regularidade de procura durante o ano, com per&iacute;odo de tr&ecirc;s    em tr&ecirc;s meses. Quanto aos pre&ccedil;os, estes possuem per&iacute;odo    de seis para cris&acirc;ntemos e violetas e de 12 meses para as rosas, conforme    se observa no <a href="/img/revistas/resr/v40n4/4a3q01.gif">Quadro 1</a>.</font></P>     <P><font face="Verdana" size="2">Esse quadro tamb&eacute;m sumariza as equa&ccedil;&otilde;es    obtidas de acordo com a metodologia de Box e Jenkins. Por exemplo, quanto ao    pre&ccedil;o de rosas na CEAGESP-SP, o maior pico encontrado foi de 12 em 12    meses. A equa&ccedil;&atilde;o do modelo estimado indica que: </font></P>     <P><font face="Verdana" size="2">- Os pre&ccedil;os praticados de rosas, nesse    entreposto, em determinado m&ecirc;s <I>t</I> &eacute; influenciado em 27,09%    pelo pre&ccedil;o no per&iacute;odo <I>t</I>-1, ou seja, pelo pre&ccedil;o do    m&ecirc;s imediatamente anterior.</font></p>     <p><font face="Verdana" size="2">- O par&acirc;metro auto-regressivo sazonal indica    que os pre&ccedil;os no per&iacute;odo <I>t</I> s&atilde;o influenciados pelos    pr&oacute;prios pre&ccedil;os, tendo como refer&ecirc;ncia <I>t</I>-12, ou seja,    s&atilde;o influenciados pelo mesmo m&ecirc;s em outro ano.</font></p>     <p><font face="Verdana" size="2">- O par&acirc;metro de m&eacute;dias m&oacute;veis    de ordem 12 evidencia que, a cada 12 meses, os pre&ccedil;os tendem, na m&eacute;dia,    a se ajustar em torno de 83,97%, tendo como base o pre&ccedil;o no instante    <I>t</I>-12, ou seja, &eacute; uma medida de ajuste do modelo.</font></p>     <p><font face="Verdana" size="2">Em todas as s&eacute;ries, os volumes e os pre&ccedil;os    em um per&iacute;odo de tempo dependem, no m&iacute;nimo, dos resultados do    m&ecirc;s imediatamente anterior. Al&eacute;m disso, esses valores dependem,    tamb&eacute;m, de sua pr&oacute;pria varia&ccedil;&atilde;o sazonal; obedecem    a um ciclo que sofre influ&ecirc;ncia direta em sua forma&ccedil;&atilde;o,    conforme apresentado na se&ccedil;&atilde;o anterior.</font></P>     <P>&nbsp;</P>     <P><font face="Verdana" size="3"><b>4. Conclus&otilde;es</b></font></P>     <P><font face="Verdana" size="2">Conhecendo os picos sazonais, o produtor pode    organizar sua produ&ccedil;&atilde;o de forma a intercalar os maiores picos    e, nesse sentido, conseguir sincronizar os picos de comercializa&ccedil;&atilde;o,    de maneira que estes ocorram v&aacute;rias vezes durante um ano. Aumentando    os picos de comercializa&ccedil;&atilde;o durante um ano, a receita anual, conseq&uuml;entemente,    crescer&aacute; e, ainda, poder&aacute; ser mais bem distribu&iacute;da ao longo    do ano. Lucros mais altos e mais regulares significam seguran&ccedil;a para    o produtor, al&eacute;m de contribu&iacute;rem para melhorias no sistema de    produ&ccedil;&atilde;o, gerando benef&iacute;cios como: maior regularidade de    m&atilde;o-de-obra empregada, maior gerenciamento de riscos, melhor controle    de custos e implementa&ccedil;&atilde;o de novas tecnologias. </font></P>     <P><font face="Verdana" size="2">Rosas, cris&acirc;ntemos e violetas s&atilde;o    pass&iacute;veis de produ&ccedil;&atilde;o induzida em estufas, e, portanto,    sua oferta pode vir a se tornar mais regular se a demanda do consumidor brasileiro    tamb&eacute;m aumentar sua regularidade. Al&eacute;m disso, o conhecimento do    per&iacute;odo, unido &agrave; disponibilidade de tecnologia, viabilizando produ&ccedil;&otilde;es    mais constantes, pode ampliar os neg&oacute;cios do produtor, aumentando, inclusive,    suas exporta&ccedil;&otilde;es. Por exemplo, a partir do conhecimento dos picos    de demanda em diferentes pa&iacute;ses, podem-se intercalar ofertas tanto voltadas    para o abastecimento interno quant para as exporta&ccedil;&otilde;es.</font></P>     ]]></body>
+<body><![CDATA[<P><font face="Verdana" size="2">Dessa forma, o produtor monocultor poder&aacute;    se beneficiar, avaliando a possibilidade de diversifica&ccedil;&atilde;o de    sua produ&ccedil;&atilde;o. Para o produtor que j&aacute; vem diversificando,    ele usufruir&aacute; de informa&ccedil;&otilde;es valiosas para tomar decis&otilde;es    estrat&eacute;gicas importantes para melhorar o seu neg&oacute;cio. </font></P>     <P><font face="Verdana" size="2">Nesse sentido, os resultados apresentados e analisados    neste artigo permitem a visualiza&ccedil;&atilde;o de um efeito sazonal claro,    tanto nas s&eacute;ries de pre&ccedil;os quanto nas s&eacute;ries de volumes    comercializados das flores e plantas ornamentais selecionadas na CEAGESP-SP.</font></P>     <P><font face="Verdana" size="2">O volume comercializado de rosas na CEAGESP-SP    tem periodicidade sazonal igual a 6, o que significa que um ciclo se repete    duas vezes durante um ano, ou seja, os picos que ocorrem com maior freq&uuml;&ecirc;ncia    s&atilde;o os de seis em seis meses. Foi encontrado um per&iacute;odo 12 para    os pre&ccedil;os praticados, por&eacute;m esse pico n&atilde;o foi muito significativo,    podendo indicar que essa s&eacute;rie possivelmente n&atilde;o possui comportamento    peri&oacute;dico. No caso das rosas, os picos de volume observados na CEAGESP-SP    se revelaram mais intensos nos meses de outubro, dezembro e maio. Por certo,    isso se deveu, respectivamente, ao Dia de Finados, Dia das M&atilde;es e &agrave;s    festas de final de ano, como Natal e Ano-Novo. J&aacute; quanto aos pre&ccedil;os,    o m&ecirc;s de julho representou picos mais altos, em raz&atilde;o de uma oferta    menor, principalmente.</font></P>     <P><font face="Verdana" size="2">Quanto ao volume e aos pre&ccedil;os praticados    de cris&acirc;ntemos em ma&ccedil;os, o per&iacute;odo encontrado foi 6. O volume    de cris&acirc;ntemos intensifica-se nos meses de maio, outubro e dezembro. O    Dia das M&atilde;es explica o aumento da comercializa&ccedil;&atilde;o no m&ecirc;s    de maio, assim como o m&ecirc;s de outubro, que pode ser explicado provavelmente    pelo Dia de Finados no in&iacute;cio de novembro. As festas de final de ano    demandam grande quantidade de flores, o que se repete com os cris&acirc;ntemos.    Com rela&ccedil;&atilde;o aos pre&ccedil;os de cris&acirc;ntemos na CEAGESP-SP,    observaram-se aumentos nos meses de dezembro e fevereiro, em raz&atilde;o da    alta demanda e baixa oferta, respectivamente.</font></P>     <P><font face="Verdana" size="2">As violetas s&atilde;o mais comercializadas na    CEAGESP-SP de tr&ecirc;s em tr&ecirc;s meses, isto &eacute;, encontrou-se per&iacute;odo    3 para a s&eacute;rie de volumes. Os pre&ccedil;os praticados de violetas mostraram-se    significativos no per&iacute;odo 6. Essas flores s&atilde;o muito consumidas    para uso pr&oacute;prio, al&eacute;m de servirem como presente em datas festivas    do dia-a-dia do consumidor. Sua distribui&ccedil;&atilde;o &eacute; mais regular    ao longo do ano, por&eacute;m h&aacute; aumentos nos meses de mar&ccedil;o,    maio, outubro e dezembro. O m&ecirc;s de mar&ccedil;o aparece como uma nova    data importante em raz&atilde;o do Dia Internacional da Mulher e tamb&eacute;m    por ser o m&ecirc;s de retorno das atividades escolares.</font></P>     <P><font face="Verdana" size="2">Algumas dificuldades foram enfrentadas no decorrer    desta pesquisa, principalmente na coleta de dados. Notou-se que o sistema de    coleta de dados no entreposto funcionava de forma irregular. </font></P>     <P><font face="Verdana" size="2">Como recomenda&ccedil;&otilde;es para trabalhos    futuros, sugere-se que novas tentativas sejam realizadas, visando &agrave; obten&ccedil;&atilde;o    de outras s&eacute;ries de dados que envolvam outras flores e plantas ornamentais,    eventualmente em per&iacute;odos mais abrangentes, ou, ainda, que se incluam    modelos de interven&ccedil;&atilde;o que ressalvem acontecimentos de natureza    estrutural nas s&eacute;ries, como choques econ&ocirc;micos, pragas, mudan&ccedil;as    de h&aacute;bito etc.</font></P>     <P>&nbsp;</P>     <P><font face="Verdana" size="3"><b>Refer&ecirc;ncias bibliogr&aacute;ficas</b></font></P>     <!-- ref --><P><font face="Verdana" size="2">ALMEIDA, F. R. de F.; AKI, A. Y. Grande crescimento    no mercado de flores. <B>Agroanalysis</B>, v.15, n.9, p.8-11, 1995.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200200040000300001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">ARRUDA, S. T.; OLIVETTE, M. P. A.; CASTRO, C.    E. F. Diagn&oacute;stico da floricultura do Estado de S&atilde;o Paulo. <B>Revista    Brasileira de Horticultura Ornamental</B>, v.2, n.2, p.1-18, 1996.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S0103-2003200200040000300002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">BARLETTA, A. Stimulating demand for flowers in    Brazil. <B>Flora Culture International</B>, p.38-39, Sep. 1995.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200200040000300003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">BOLETIM MENSAL GEAGESP, S&atilde;o Paulo: CEAGESP,    1992-2001.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0103-2003200200040000300004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">BOX, G. E. P.; JENKINS, G. M. <B>Time series    analysis</B>: forecasting and control. San Francisco: Holden-day, 1976. 375    p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003200200040000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">BOX, G. E. P.; JENKINS, G. M.; REINSEL, G. <B>Time    series analysis</B>: forecasting and control. New Jersey: Prentice Hall/Englewoods    Cliffs, 1994. 598 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S0103-2003200200040000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">CASTRO, C. E. F. Cadeia produtiva de flores e    plantas ornamentais. <B>Revista Brasileira de Horticultura Ornamental, </B>v.4,    n.½, p.1-46, 1998.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200200040000300007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">CLARO, D. P. <B>An&aacute;lise do complexo agroindustrial    das flores no Brasil</B>. Lavras, MG: UFLA, 1998. 103 f. Disserta&ccedil;&atilde;o    (Mestrado) – Universidade Federal de Lavras, Lavras.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S0103-2003200200040000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">CUNHA, M. S. da; MARGARIDO, M. A. Avalia&ccedil;&atilde;o    dos impactos dos planos de estabiliza&ccedil;&atilde;o p&oacute;s-1986 sobre    o &iacute;ndice geral de pre&ccedil;os (IGP): uma aplica&ccedil;&atilde;o da    metodologia Box &amp; Jenkins. <B>Agricultura em S&atilde;o Paulo</B>, v.46,    n.2, p.1-18, 1999. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200200040000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">GATTI, E. U. A evolu&ccedil;&atilde;o recente    do setor de flores e plantas ornamentais no Brasil. <B>Agricultura em S&atilde;o    Paulo</B>, v.35, p.123-147, 1988. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0103-2003200200040000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">GRANGER, C. W. J. Seasonality: causation, interpretation    and implications. In: ZELLNER, A. (Ed.). <B>Seasonal analysis of economic time    series</B>. Washington: Department of Commerce, Bureau of the Census, 1978.    p.33-46. (Economic Research report, 1).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003200200040000300011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">GROOT, N. S. P. de. Floriculture worldwide trade    and consumption patterns. <B>Acta. Horticulturae</B>, n.495, p.101-121, Sep.    1999. (Apresentado ao World Conference on Horticultural Research, Rome, 1998).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S0103-2003200200040000300012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">GUJARATI, D. <B>Econometria b&aacute;sica</B>.    3. ed. S&atilde;o Paulo: Makron Books, 2000. 846 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003200200040000300013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">HARVEY, A. C. <B>Time series models</B>. Cambridge:    The MIT Press, 1993. 308 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0103-2003200200040000300014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">IBRAFLOR. Brasil: mostra tua flora<B>. Informativo</B>,    v. 7, n.23, p.4, mar. 2001.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003200200040000300015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">KRAS, J. Marketing of cut flowers in the future.    <B>Acta Horticulturae</B>, n.482, p.401-405, Mar. 1999. (Apresentado ao International    Symposium of Cut Flowers in the Tropics, Bogota, 1998).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0103-2003200200040000300016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">MARQUES, R. W. C. <B>Avalia&ccedil;&atilde;o    da sazonalidade do mercado de flores e plantas ornamentais no Estado de S&atilde;o    Paulo</B>. Piracicaba, SP: ESALQ/USP, 2002. 114 f. Disserta&ccedil;&atilde;o    (Mestrado) – Escola Superior de Agricultura &quot;Luiz de Queiroz&quot;, Universidade    de S&atilde;o Paulo, Piracicaba. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003200200040000300017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">MATSUNAGA, M. Potencial da floricultura brasileira.    <B>Agroanalysis</B>, v.15, n.9, p.56, Set. 1995.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S0103-2003200200040000300018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">MONTELLO, J. <B>Estat&iacute;stica para economistas</B>.    Rio de Janeiro: APEC, 1970. 333 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003200200040000300019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">MORETTIN, P. A.; TOLOI, C. M. de C. <B>Previs&atilde;o    de s&eacute;ries temporais</B>. S&atilde;o Paulo: Atual, 1987. 438 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0103-2003200200040000300020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">PINO, F. A.; FRANCISCO, V. L. F. dos S.; C&Eacute;ZAR,    S.A.G. et al. Sazonalidade em s&eacute;ries temporais econ&ocirc;micas: um levantamento    sobre o estado da arte. <B>Agricultura em S&atilde;o Paulo</B>, v.41, n.3, p.103-133,    1994. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003200200040000300021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">SALUNKHE, D. K.; BHAT, N. R.; DESAI, B. B.<B>    Postharvest biotechnology of flowers and ornamental plants</B>. Germany: Springer-Verlag,    1990. 183 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003200200040000300022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">SANTIAGO, M. M. D.; CAMARGO, M. de L. B.; MARGARIDO,    M. A. Detec&ccedil;&atilde;o e an&aacute;lise de outliers em s&eacute;ries temporais    de &iacute;ndices de pre&ccedil;os agr&iacute;colas no Estado de S&atilde;o    Paulo. <B>Agricultura em S&atilde;o Paulo</B>, v.43, n.2, p.89-115, 1996.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003200200040000300023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">SAS INSTITUTE: <B>Release 8</B>. Cary, 1999.    (software). </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0103-2003200200040000300024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">SAS INSTITUTE. <B>SAS/ETS user’s guide</B>, version    6. 2. ed. Cary, NC: &#91;s. n.&#93;, 1993. 1022 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003200200040000300025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">SAS INSTITUTE. <B>SAS/ETS Software</B>: changes    and enhancements for release 6.12. 2. ed. Cary, NC: &#91;s. n.&#93;, 1996. 112    p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003200200040000300026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font face="Verdana" size="2">WEI, W. W. S. <B>Time series analysis</B>. Redwood    City: Addison-Weslwy, 1989. 478 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003200200040000300027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P>&nbsp;</P>     <P>&nbsp;</P>     <P><font face="Verdana" size="2"><a name="1"></a><a href="#topo">1</a> Artigo    baseado na Disserta&ccedil;&atilde;o de Mestrado da primeira autora, desenvolvida    sob a orienta&ccedil;&atilde;o do segundo autor.    <br>   </font><font face="Verdana" size="2"><a name="4"></a><a href="#4volta">2</a>    Maiores detalhes a respeito das tabelas, testes e periodogramas analisados nesta    seq&uuml;&ecirc;ncia podem ser encontrados em Marques (2002).</font></P>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[F. R. de F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AKI]]></surname>
+<given-names><![CDATA[A. Y.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Grande crescimento no mercado de flores]]></article-title>
+<source><![CDATA[Agroanalysis]]></source>
+<year>1995</year>
+<volume>15</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>8-11</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARRUDA]]></surname>
+<given-names><![CDATA[S. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OLIVETTE]]></surname>
+<given-names><![CDATA[M. P. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[C. E. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Diagnóstico da floricultura do Estado de São Paulo]]></article-title>
+<source><![CDATA[Revista Brasileira de Horticultura Ornamental]]></source>
+<year>1996</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-18</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARLETTA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Stimulating demand for flowers in Brazil]]></article-title>
+<source><![CDATA[Flora Culture International]]></source>
+<year>Sep.</year>
+<month> 1</month>
+<day>99</day>
+<page-range>38-39</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<source><![CDATA[BOLETIM MENSAL GEAGESP]]></source>
+<year>1992</year>
+<month>-2</month>
+<day>00</day>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[CEAGESP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOX]]></surname>
+<given-names><![CDATA[G. E. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JENKINS]]></surname>
+<given-names><![CDATA[G. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series analysis: forecasting and control]]></source>
+<year>1976</year>
+<publisher-loc><![CDATA[San Francisco ]]></publisher-loc>
+<publisher-name><![CDATA[Holden-day]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOX]]></surname>
+<given-names><![CDATA[G. E. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JENKINS]]></surname>
+<given-names><![CDATA[G. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[REINSEL]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series analysis: forecasting and control]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[New Jersey ]]></publisher-loc>
+<publisher-name><![CDATA[Prentice Hall/Englewoods Cliffs]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[C. E. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Cadeia produtiva de flores e plantas ornamentais]]></article-title>
+<source><![CDATA[Revista Brasileira de Horticultura Ornamental]]></source>
+<year>1998</year>
+<volume>4</volume>
+<numero>½</numero>
+<issue>½</issue>
+<page-range>1-46</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLARO]]></surname>
+<given-names><![CDATA[D. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise do complexo agroindustrial das flores no Brasil]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Lavras^eMG MG]]></publisher-loc>
+<publisher-name><![CDATA[UFLA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CUNHA]]></surname>
+<given-names><![CDATA[M. S. da]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARGARIDO]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Avaliação dos impactos dos planos de estabilização pós-1986 sobre o índice geral de preços (IGP): uma aplicação da metodologia Box & Jenkins]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>1999</year>
+<volume>46</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-18</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GATTI]]></surname>
+<given-names><![CDATA[E. U.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A evolução recente do setor de flores e plantas ornamentais no Brasil]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>1988</year>
+<volume>35</volume>
+<page-range>123-147</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Seasonality: causation, interpretation and implications]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[ZELLNER]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Seasonal analysis of economic time series]]></source>
+<year>1978</year>
+<page-range>33-46</page-range><publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[Department of Commerce, Bureau of the Census]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GROOT]]></surname>
+<given-names><![CDATA[N. S. P. de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Floriculture worldwide trade and consumption patterns]]></article-title>
+<source><![CDATA[Acta. Horticulturae]]></source>
+<year>Sep.</year>
+<month> 1</month>
+<day>99</day>
+<numero>495</numero>
+<issue>495</issue>
+<page-range>101-121</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUJARATI]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria básica]]></source>
+<year>2000</year>
+<edition>3</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Makron Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HARVEY]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series models]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[The MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<collab>IBRAFLOR</collab>
+<article-title xml:lang="pt"><![CDATA[Brasil: mostra tua flora]]></article-title>
+<source><![CDATA[Informativo]]></source>
+<year>mar.</year>
+<month> 2</month>
+<day>00</day>
+<volume>7</volume>
+<numero>23</numero>
+<issue>23</issue>
+<page-range>4</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KRAS]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Marketing of cut flowers in the future]]></article-title>
+<source><![CDATA[Acta Horticulturae]]></source>
+<year>Mar.</year>
+<month> 1</month>
+<day>99</day>
+<numero>482</numero>
+<issue>482</issue>
+<page-range>401-405</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARQUES]]></surname>
+<given-names><![CDATA[R. W. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação da sazonalidade do mercado de flores e plantas ornamentais no Estado de São Paulo]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Piracicaba^eSP SP]]></publisher-loc>
+<publisher-name><![CDATA[ESALQ/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MATSUNAGA]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Potencial da floricultura brasileira]]></article-title>
+<source><![CDATA[Agroanalysis]]></source>
+<year>Set.</year>
+<month> 1</month>
+<day>99</day>
+<volume>15</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>56</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MONTELLO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estatística para economistas]]></source>
+<year>1970</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[APEC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORETTIN]]></surname>
+<given-names><![CDATA[P. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOLOI]]></surname>
+<given-names><![CDATA[C. M. de C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Previsão de séries temporais]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Atual]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PINO]]></surname>
+<given-names><![CDATA[F. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRANCISCO]]></surname>
+<given-names><![CDATA[V. L. F. dos S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CÉZAR]]></surname>
+<given-names><![CDATA[S.A.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Sazonalidade em séries temporais econômicas: um levantamento sobre o estado da arte]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>1994</year>
+<volume>41</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>103-133</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SALUNKHE]]></surname>
+<given-names><![CDATA[D. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BHAT]]></surname>
+<given-names><![CDATA[N. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DESAI]]></surname>
+<given-names><![CDATA[B. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Postharvest biotechnology of flowers and ornamental plants]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Germany ]]></publisher-loc>
+<publisher-name><![CDATA[Springer-Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTIAGO]]></surname>
+<given-names><![CDATA[M. M. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMARGO]]></surname>
+<given-names><![CDATA[M. de L. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARGARIDO]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Detecção e análise de outliers em séries temporais de índices de preços agrícolas no Estado de São Paulo]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>1996</year>
+<volume>43</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>89-115</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<collab>SAS INSTITUTE</collab>
+<source><![CDATA[Release 8]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Cary ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<collab>SAS INSTITUTE</collab>
+<source><![CDATA[SAS/ETS user’s guide: version 6]]></source>
+<year>1993</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Cary^eNC NC]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<collab>SAS INSTITUTE</collab>
+<source><![CDATA[SAS/ETS Software: changes and enhancements for release 6.12]]></source>
+<year>1996</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Cary^eNC NC]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WEI]]></surname>
+<given-names><![CDATA[W. W. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series analysis]]></source>
+<year>1989</year>
+<publisher-loc><![CDATA[Redwood City ]]></publisher-loc>
+<publisher-name><![CDATA[Addison-Weslwy]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

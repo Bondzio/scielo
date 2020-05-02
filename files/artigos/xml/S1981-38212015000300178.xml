@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1981-3821</journal-id>
+<journal-title><![CDATA[Brazilian Political Science Review]]></journal-title>
+<abbrev-journal-title><![CDATA[Bras. Political Sci. Rev.]]></abbrev-journal-title>
+<issn>1981-3821</issn>
+<publisher>
+<publisher-name><![CDATA[Associação Brasileira de Ciência Política]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1981-38212015000300178</article-id>
+<article-id pub-id-type="doi">10.1590/1981-38212015000300026</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Causal Inference, Shaolin Style: "Mastering &#8217;Metrics"]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Freire]]></surname>
+<given-names><![CDATA[Danilo]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,King's College London  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>United Kingdom</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2015</year>
+</pub-date>
+<volume>9</volume>
+<numero>3</numero>
+<fpage>178</fpage>
+<lpage>185</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1981-38212015000300178&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1981-38212015000300178&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1981-38212015000300178&amp;lng=en&amp;nrm=iso"></self-uri></article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ACEMOGLU]]></surname>
+<given-names><![CDATA[Daron]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANGRIST]]></surname>
+<given-names><![CDATA[Joshua]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[How large are human-capital externalities? Evidence from compulsory-schooling laws]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Bernanke]]></surname>
+<given-names><![CDATA[Ben]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rogoff]]></surname>
+<given-names><![CDATA[Kenneth]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[NBER Macroeconomics Annual 2000]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Does compulsory school attendance affect schooling and earnings?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANGRIST]]></surname>
+<given-names><![CDATA[Joshua]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KRUEGER]]></surname>
+<given-names><![CDATA[Alan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>1991</year>
+<volume>106</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>979-1014</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANGRIST]]></surname>
+<given-names><![CDATA[Joshua]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PISCHKE]]></surname>
+<given-names><![CDATA[Jörn-Steffen]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mostly harmless econometrics: An empiricist's companion]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANGRIST]]></surname>
+<given-names><![CDATA[Joshua]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PISCHKE]]></surname>
+<given-names><![CDATA[Jörn-Steffen]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mastering 'metrics: The path from cause to effect]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Estimates of the economic return to schooling from a new sample of twins]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ASHENFELTER]]></surname>
+<given-names><![CDATA[Orley]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KRUEGER]]></surname>
+<given-names><![CDATA[Alan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The American Economic Review]]></source>
+<year>1994</year>
+<volume>85</volume>
+<numero>05</numero>
+<issue>05</issue>
+<page-range>1157-73</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Income, schooling, and ability: Evidence from a new sample of identical twins]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ASHENFELTER]]></surname>
+<given-names><![CDATA[Orley]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROUSE]]></surname>
+<given-names><![CDATA[Cecilia]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Quarterly Journal of Economics]]></source>
+<year>1998</year>
+<volume>113</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>253-84</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[The signaling value of a high school diploma]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLARK]]></surname>
+<given-names><![CDATA[Damon]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARTORELL]]></surname>
+<given-names><![CDATA[Paco]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>2014</year>
+<volume>122</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>282-318</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Estimating the returns to schooling: Some econometric problems]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRILICHES]]></surname>
+<given-names><![CDATA[Zvi]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica: Journal of the Econometric Society]]></source>
+<year>1977</year>
+<volume>45</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>01-22</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Matching as nonparametric preprocessing for reducing model dependence in parametric causal inference]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HO]]></surname>
+<given-names><![CDATA[Daniel]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IMAI]]></surname>
+<given-names><![CDATA[Kosuke]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KING]]></surname>
+<given-names><![CDATA[Gary]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STUART]]></surname>
+<given-names><![CDATA[Elizabeth]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political analysis]]></source>
+<year>2007</year>
+<volume>15</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>199-236</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Statistics and causal inference]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOLLAND]]></surname>
+<given-names><![CDATA[Paul]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>1986</year>
+<volume>81</volume>
+<numero>396</numero>
+<issue>396</issue>
+<page-range>945-60</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IMBENS]]></surname>
+<given-names><![CDATA[Guido]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBIN]]></surname>
+<given-names><![CDATA[Donald]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Causal inference in statistics, and in the social and biomedical sciences]]></source>
+<year>2015</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Recent developments in the econometrics of program evaluation]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IMBENS]]></surname>
+<given-names><![CDATA[Guido]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WOOLDRIDGE]]></surname>
+<given-names><![CDATA[Jeffrey]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Economic Literature]]></source>
+<year>2009</year>
+<volume>47</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>05-86</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MINCER]]></surname>
+<given-names><![CDATA[Jacob]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Schooling, Experience, and Earnings]]></source>
+<year>1974</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[National Bureau of Economic Research]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORGAN]]></surname>
+<given-names><![CDATA[Stephen]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WINSHIP]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Counterfactuals and causal inference: Methods and principles for social research]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Constructing a control group using multivariate matched sampling methods that incorporate the propensity score]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSENBAUM]]></surname>
+<given-names><![CDATA[Paul]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBIN]]></surname>
+<given-names><![CDATA[Donald]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The American Statistician]]></source>
+<year>1985</year>
+<volume>39</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>33-8</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Estimating causal effects of treatments in randomized and nonrandomized studies]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUBIN]]></surname>
+<given-names><![CDATA[Donald]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of educational Psychology]]></source>
+<year>1974</year>
+<volume>66</volume>
+<numero>05</numero>
+<issue>05</issue>
+<page-range>688-701</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Bayesian inference for causal effects: The role of randomization]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUBIN]]></surname>
+<given-names><![CDATA[Donald]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Annals of Statistics]]></source>
+<year>1978</year>
+<volume>06</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>34-58</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STOCK]]></surname>
+<given-names><![CDATA[James]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WATSON]]></surname>
+<given-names><![CDATA[Mark]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to econometrics]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[Addison Wesley]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Matching methods for causal inference: A review and a look forward]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STUART]]></surname>
+<given-names><![CDATA[Elizabeth]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Statistical science]]></source>
+<year>2010</year>
+<volume>25</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>01-29</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WOOLDRIDGE]]></surname>
+<given-names><![CDATA[Jeffrey]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introductory econometrics: A modern approach]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[Cengage Learning]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

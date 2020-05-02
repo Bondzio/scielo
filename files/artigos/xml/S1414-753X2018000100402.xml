@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1414-753X</journal-id>
+<journal-title><![CDATA[Ambiente & Sociedade]]></journal-title>
+<abbrev-journal-title><![CDATA[Ambient. soc.]]></abbrev-journal-title>
+<issn>1414-753X</issn>
+<publisher>
+<publisher-name><![CDATA[ANPPAS - Revista Ambiente e Sociedade]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1414-753X2018000100402</article-id>
+<article-id pub-id-type="doi">10.1590/1809-4422asoc0078r2vu18l1ao</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[ANALYSIS OF VULNERABILITY FOR ENVIRONMENTAL PLANNING OF A WATER SUPPLY BASIN]]></article-title>
+<article-title xml:lang="pt"><![CDATA[ANÁLISE DE VULNERABILIDADE VISANDO O PLANEJAMENTO AMBIENTAL EM BACIA DE CAPTAÇÃO PARA ABASTECIMENTO PÚBLICO]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[CECONI]]></surname>
+<given-names><![CDATA[DENISE ESTER]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[PICCILLI]]></surname>
+<given-names><![CDATA[DANIEL GUSTAVO ALLASIA]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[BERNARDI]]></surname>
+<given-names><![CDATA[FELIPE]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[FENSTERSEIFER]]></surname>
+<given-names><![CDATA[PAULA]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Federal University of Santa Maria Post-doctoral in Environmental Engineering ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Federal University of Rio Grande do Sul Department of Sanitary and Environmental Engineering ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af3">
+<institution><![CDATA[,Federal University of Santa Maria  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af4">
+<institution><![CDATA[,Federal University of Santa Maria  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2018</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2018</year>
+</pub-date>
+<volume>21</volume>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1414-753X2018000100402&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1414-753X2018000100402&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1414-753X2018000100402&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract Watersheds used for water supply get special attention from managers, as the quantity and quality of supplied water depends on them. Water is an indispensable element of life and a fundamental resource for many human activities. The situation of these watersheds is aggravated by conflicts of land use that end up intensifying the process of erosion and sedimentation of the water reservoirs. In addition, diagnostics that use environmental indicators are important tools for environmental planning. The present study made use of these indicators to evaluate the natural soil susceptibility to erosion in the catchment area of the DNOS water reservoir, in Santa Maria, south of Brazil. Using multi-thematic maps and geoprocessing tools (GIS), we obtained a vulnerability mapping, represented by indexes. This map is an important and skillful tool for territorial planning, for aiding environmental management and conservation of water resources.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[Resumen Las cuencas hidrográficas utilizadas para el suministro de agua merecen una atención especial de los administradores de los recursos hídricos, ya que la cantidad y calidad del agua suministrada dependen de ellas. La situación de estas cuencas se agrava en función de los conflictos de uso de la tierra que acaban intensificando el proceso de erosión y sedimentación de los reservorios. Además, los diagnósticos que utilizan indicadores ambientales son una importante herramienta para la planificación ambiental. En este sentido, el presente estudio hizo uso de éstos para evaluar la susceptibilidad natural del suelo a la erosión en el área de cobertura de la cuenca de captación del reservorio DNOS, Santa Maria, RS (Brasil). Para ello, usando mapas multitemáticos y geoprocesamiento, se obtuvo el mapeo de vulnerabilidad, representado por índices. El mapa es una importante y hábil herramienta para el ordenamiento territorial, la gestión ambiental y la conservación de los recursos hídricos.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo Bacias hidrográficas de captação para abastecimento público merecem especial atenção por parte dos gestores dos recursos hídricos, pois delas dependem a quantidade e a qualidade da água, elemento indispensável à sustentabilidade da vida e recurso fundamental para diversas atividades humanas. A situação destas bacias se agrava em função dos conflitos de uso da terra que acabam intensificando o processo de erosão e assoreamento dos reservatórios. Além disso, os diagnósticos que utilizam indicadores ambientais são importante ferramenta para o planejamento ambiental. Neste sentido, o presente estudo fez uso destes para avaliar a suscetibilidade natural do solo à erosão na área de abrangência da bacia de captação do reservatório DNOS, Santa Maria - RS. Para tal, usando mapas multitemáticos e geoprocessamento, obteve-se o mapeamento de vulnerabilidade, representado por índices. O mapa é uma importante e hábil ferramenta para o ordenamento territorial, o auxílio à gestão ambiental e a conservação dos recursos hídricos.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Erosion]]></kwd>
+<kwd lng="en"><![CDATA[Water resources]]></kwd>
+<kwd lng="en"><![CDATA[Sedimentation]]></kwd>
+<kwd lng="en"><![CDATA[Water reservoir]]></kwd>
+<kwd lng="es"><![CDATA[Erosión]]></kwd>
+<kwd lng="es"><![CDATA[Recursos hídricos]]></kwd>
+<kwd lng="es"><![CDATA[Sedimentación]]></kwd>
+<kwd lng="es"><![CDATA[Reservorio]]></kwd>
+<kwd lng="pt"><![CDATA[Erosão]]></kwd>
+<kwd lng="pt"><![CDATA[Recursos hídricos]]></kwd>
+<kwd lng="pt"><![CDATA[Sedimentação]]></kwd>
+<kwd lng="pt"><![CDATA[Reservatório]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<collab>ANA</collab>
+<source><![CDATA[Agência Nacional das Águas. Hidroweb: Sistemas de informações hidrológicas]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARNESEN]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MAIA]]></surname>
+<given-names><![CDATA[J. S. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise da vulnerabilidade natural à erosão na Bacia Hidrográfica do Rio Tijucas através de técnicas de geoprocessamento: um subsídio à governança territorial]]></source>
+<year>2011</year>
+<conf-name><![CDATA[ Simpósio Brasileiro de Sensoriamento Remoto]]></conf-name>
+<conf-loc> </conf-loc>
+<page-range>1113-20</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARNESEN]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GENOFRE]]></surname>
+<given-names><![CDATA[F. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CURTARELLI]]></surname>
+<given-names><![CDATA[M. P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise da vulnerabilidade à erosão através de SIG: um subsídio ao zoneamento ecológico-econômico de Santo Amaro da Imperatriz/SC]]></source>
+<year>2009</year>
+<conf-name><![CDATA[ XVIII Simpósio Brasileiro de Recursos Hídricos]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARRUDA]]></surname>
+<given-names><![CDATA[W. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DIAS]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Análise da Vulnerabilidade Natural à Perda de Solo do Município de Fátima-TO]]></article-title>
+<source><![CDATA[Simpósio Brasileiro de Sensoriamento Remoto]]></source>
+<year>2007</year>
+<volume>13</volume>
+<page-range>5083-9</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BANDEIRA]]></surname>
+<given-names><![CDATA[A. P. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NUNES]]></surname>
+<given-names><![CDATA[P. H. de S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[M. G. de S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Gerenciamento de riscos ambientais em municípios da região metropolitana do Cariri (Ceará)]]></article-title>
+<source><![CDATA[Ambiente &amp;Sociedade]]></source>
+<year>2016</year>
+<volume>XIX</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>65-84</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARBOSA]]></surname>
+<given-names><![CDATA[J. P. M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Utilização de método de interpolação para análise e espacialização de dados climáticos: o SIG como ferramenta]]></article-title>
+<source><![CDATA[Caminhos da Geografia (UFU)]]></source>
+<year>2006</year>
+<volume>9</volume>
+<numero>17</numero>
+<issue>17</issue>
+<page-range>85-96</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BELLINASO]]></surname>
+<given-names><![CDATA[T. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PAIVA]]></surname>
+<given-names><![CDATA[J. DE]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Avaliação da produção de sedimentos em eventos chuvosos em uma pequena bacia hidrográfica semi-urbana de encosta]]></article-title>
+<source><![CDATA[Revista Brasileira de Recursos Hídricos]]></source>
+<year>2007</year>
+<volume>12</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>169-81</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERTONI]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOMBARDI NETO]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conservação do solo]]></source>
+<year>2012</year>
+<edition>5</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Ícone]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BEVILACQUA]]></surname>
+<given-names><![CDATA[A. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A bacia hidrográfica como unidade territorial de planejamento e desenvolvimento sustentável]]></source>
+<year>2012</year>
+<conf-name><![CDATA[ VI Encontro Nacional da ANPPAS]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Belém ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<collab>BRASIL</collab>
+<source><![CDATA[Lei nº 12.651, de 25 de maio de 2012. Dispõem sobre a Proteção da Vegetação Nativa]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASAGRANDE]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação do Parâmetro de Propagação de Sedimentos do Modelo de Williams (1975) na Bacia do Rio Vacacaí-Mirim com o Auxílio de Técnicas de Geoprocessamento]]></source>
+<year>2004</year>
+<publisher-name><![CDATA[Universidade Federal de Santa Maria]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CECONI]]></surname>
+<given-names><![CDATA[D. E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diagnóstico e recuperação da mata ciliar da Sanga Lagoão do Ouro na Microbacia Hidrográfica do Vacacaí-Mirim, Santa Maria - RS]]></source>
+<year>2010</year>
+<publisher-name><![CDATA[Universidade Federal de Santa Maria]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CECONI]]></surname>
+<given-names><![CDATA[D. E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Avaliação histórica do uso e cobertura da bacia de captação DNOS, Santa Maria - RS, suas consequências e perspectivas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[KRAMER]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Iniciação científica e de extensão: o seu conhecimento amadurece aqui]]></source>
+<year>2015</year>
+<page-range>19-27</page-range><publisher-loc><![CDATA[Guaíra ]]></publisher-loc>
+<publisher-name><![CDATA[UNIPAR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHAVES]]></surname>
+<given-names><![CDATA[H. M. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[L. B]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Ocupação do solo, fragmentação da paisagem e qualidade da água em uma pequena bacia hidrográfica]]></article-title>
+<source><![CDATA[Revista Brasileira de Engenharia Agrícola e Ambiental]]></source>
+<year>2009</year>
+<volume>13</volume>
+<page-range>922-30</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CREPANI]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sensoriamento remoto e geoprocessamento aplicados ao zoneamento ecológico-econômico e ao ordenamento territorial]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[São José dos Campos ]]></publisher-loc>
+<publisher-name><![CDATA[INPE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CURVELLO]]></surname>
+<given-names><![CDATA[R. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BATISTA]]></surname>
+<given-names><![CDATA[G. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TARGA. M. dos]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Estudo dos impactos da ocupação humana na microbacia do rio Batedor na Serra da Mantiqueira no município de Cruzeiro, SP, Brasil]]></article-title>
+<source><![CDATA[Ambi-Agua]]></source>
+<year>2008</year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>91-107</page-range><publisher-loc><![CDATA[Taubaté ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DEMARCHI]]></surname>
+<given-names><![CDATA[J. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PISANI]]></surname>
+<given-names><![CDATA[R. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZIMBACK]]></surname>
+<given-names><![CDATA[C. R. L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Análise da vulnerabilidade à erosão da sub-bacia do Ribeirão das Perobas por meio de sensoriamento remoto e geoprocessamento]]></article-title>
+<source><![CDATA[Geografia e Pesquisa]]></source>
+<year>2013</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>6-37</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DILL]]></surname>
+<given-names><![CDATA[P. R. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Assoreamento do reservatório do Vacacaí-Mirim e sua relação com a deterioração da bacia hidrográfica contribuinte]]></source>
+<year>2002</year>
+<publisher-name><![CDATA[Universidade Federal de Santa Maria]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="">
+<collab>EMBRAPA</collab>
+<source><![CDATA[Sistema brasileiro de classificação de Solos, Ministério da Agricultura, Pecuária e Abastecimento]]></source>
+<year>2013</year>
+<edition>3ª</edition>
+<publisher-loc><![CDATA[Brasília-DF ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FACCINI]]></surname>
+<given-names><![CDATA[U. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GIARDIN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MACHADO]]></surname>
+<given-names><![CDATA[J. L. F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Heterogeneidades litofaciológicas e hidroestratigrafia do Sistema Aquífero Guarani na região central do estado do Rio Grande do Sul, Brasil]]></article-title>
+<source><![CDATA[Geometria, arquitetura e heterogeneidades de corpos sedimentares-estudos de casos. Edição PPGeo-UNISINOS - Editora Unisinos]]></source>
+<year>2003</year>
+<page-range>147-73</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FAN]]></surname>
+<given-names><![CDATA[F. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Sobre o início da rede de drenagem definida a partir dos modelos digitais de elevação]]></article-title>
+<source><![CDATA[Revista Brasileira de Recursos Hídricos]]></source>
+<year>2013</year>
+<volume>18</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>241-57</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Análise do meio físico da sub-bacia do Rio Vacacaí-Mirim-RS/Brasil]]></article-title>
+<source><![CDATA[Revista Geográfica Acadêmica]]></source>
+<year>2009</year>
+<volume>3</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>28-34</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FLORENZANO]]></surname>
+<given-names><![CDATA[T. G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cartografia. Geomorfologia: conceitos e tecnologias atuais]]></source>
+<year>2008</year>
+<page-range>105-28</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Oficina de Textos]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[P. R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MALHEIROS]]></surname>
+<given-names><![CDATA[T. F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Proposta de análise de indicadores ambientais para apoio na discussão da sustentabilidade]]></article-title>
+<source><![CDATA[Revista Brasileira de Gestão e Desenvolvimento Regional]]></source>
+<year>2012</year>
+<volume>8</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>151-69</page-range><publisher-loc><![CDATA[Taubaté ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[T. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Caracterização e Espacialização dos Depósitos Tecnogênicos no Bairro Camobi Subsídio ao Planejamento Urbano do Município de Santa Maria - RS]]></article-title>
+<source><![CDATA[Revista Geonorte]]></source>
+<year>2012</year>
+<volume>2</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>276-88</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUERRA]]></surname>
+<given-names><![CDATA[A. J. T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Degradação dos solos - conceitos e temas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[GUERRA]]></surname>
+<given-names><![CDATA[A. J. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JORGE]]></surname>
+<given-names><![CDATA[M. do C. O]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Degradação dos solos no Brasil]]></source>
+<year>2014</year>
+<page-range>15-51</page-range><publisher-loc><![CDATA[Rui de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Bertrand Brasil]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="">
+<collab>Instituto Nacional de Pesquisas Espaciais</collab>
+<source><![CDATA[Projeto Topodata]]></source>
+<year>2011</year>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KONRAD]]></surname>
+<given-names><![CDATA[C. G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Zoneamento Ambiental da Microbacia Hidrográfica do Reservatório do DNOS de Santa Maria-RS]]></source>
+<year>2005</year>
+<publisher-name><![CDATA[Universidade Federal de Santa Maria]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACIEL FILHO]]></surname>
+<given-names><![CDATA[C. L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Carta Geotécnica de Santa Maria]]></source>
+<year>1990</year>
+<publisher-name><![CDATA[Imprensa Universitária-UFSM]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENEZES]]></surname>
+<given-names><![CDATA[J. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Índice de Vulnerabilidade à Erosão para uma Bacia na Mesorregião do São Francisco Pernambucano, a Partir das Relações entre Morfogênese e Pedogênese]]></article-title>
+<source><![CDATA[Revista Brasileira De Geomorfologia]]></source>
+<year>2007</year>
+<volume>8</volume>
+<page-range>45-56</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIGUEL]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Caracterização Pedológica, Uso da Terra e Modelagem da Perda de Solo em Áreas de Encosta do Rebordo do Planalto do RS]]></source>
+<year>2010</year>
+<publisher-name><![CDATA[Universidade Federal de Santa Maria]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIGUEL]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Solo e dinâmica de ocupação das terras em áreas do rebordo do planalto do Rio Grande do Sul]]></article-title>
+<source><![CDATA[R. Bras. Agroci]]></source>
+<year>2011</year>
+<volume>17</volume>
+<page-range>447-55</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIGUEL]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Identificação de fontes de produção de sedimentos em uma bacia hidrográfica de encosta]]></article-title>
+<source><![CDATA[Revista Brasileira de Ciência do Solo]]></source>
+<year>2014</year>
+<volume>38</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>585-98</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOTA]]></surname>
+<given-names><![CDATA[L. H. S. O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VALLADARES]]></surname>
+<given-names><![CDATA[G. S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Vulnerabilidade à degradação dos solos da Bacia do Acarajú, Ceará]]></article-title>
+<source><![CDATA[Revista Ciência Agronômica]]></source>
+<year>2011</year>
+<volume>42</volume>
+<page-range>39-50</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PAIVA]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PAIVA]]></surname>
+<given-names><![CDATA[E. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PAIVA]]></surname>
+<given-names><![CDATA[J. B. D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estimativa das Vazões Naturais nas Sub-Bacias do Vacacaí-Mirim através de Modelo Simplificado]]></source>
+<year>2006</year>
+<conf-name><![CDATA[ I Simpósio de Recursos Hídricos do Sul-Sudeste]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RIBEIRO]]></surname>
+<given-names><![CDATA[F. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Vulnerabilidade à erosão do solo da região do Alto Rio Pardo, Pardinho, SP]]></article-title>
+<source><![CDATA[Revista brasileira de engenharia agrícola e ambiental]]></source>
+<year>2007</year>
+<volume>11</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>628-36</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RIBEIRO]]></surname>
+<given-names><![CDATA[H]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Saúde Pública e Meio Ambiente: evolução do conhecimento e da prática, alguns aspectos éticos]]></article-title>
+<source><![CDATA[Saúde e Sociedade]]></source>
+<year>2004</year>
+<volume>13</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>70-80</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RODRIGUES]]></surname>
+<given-names><![CDATA[B. R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RODRIGUES]]></surname>
+<given-names><![CDATA[C. M. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FOLETO]]></surname>
+<given-names><![CDATA[E. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Levantamento de Uso e Conflitos da Terra na Área de Proteção Ambiental (APA) no Rio Vacacaí-Mirim/RS]]></source>
+<year>2007</year>
+<conf-name><![CDATA[ XXVII Encontro Nacional de Engenharia de Produção]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Foz do Iguaçu, Brasil ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[R. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Planejamento Ambiental: teoria e prática]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Oficina de Textos]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAMUEL-ROSA]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Uso da terra no Rebordo do Planalto do Rio Grande do Sul]]></article-title>
+<source><![CDATA[Ci. Natura]]></source>
+<year>2011</year>
+<volume>33</volume>
+<page-range>161-73</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHUSSEL]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NASCIMENTO NETO]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Gestão por bacias hidrográficas: do debate teórico à gestão municipal]]></article-title>
+<source><![CDATA[Ambiente &amp; Sociedade]]></source>
+<year>2015</year>
+<volume>XVIII</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>137-52</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<collab>SOIL SURVEY STAFF</collab>
+<source><![CDATA[Keys to Soil Taxonomy]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Lincoln, NE ]]></publisher-loc>
+<publisher-name><![CDATA[USDA, National Resources Conservation Service, National Soil Survey Center]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[M. M. de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Carga de poluição difusa em bacias hidrográficas com diferentes impactos antrópicos]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[Santa Maria ]]></publisher-loc>
+<publisher-name><![CDATA[UFSM]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TRICART]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Ecodinâmica. Série recursos naturais e meio ambiente]]></article-title>
+<source><![CDATA[SUPREN/IBGE]]></source>
+<year>1977</year>
+<volume>1</volume>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

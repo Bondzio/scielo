@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032016000200221</article-id>
+<article-id pub-id-type="doi">10.1590/1234.56781806-947900540202</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Uma Aplicação de Regressão Quantílica para Dados em Painel do PIB e do Pronaf]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Marioni]]></surname>
+<given-names><![CDATA[Larissa da Silva]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vale]]></surname>
+<given-names><![CDATA[Vinicius de Almeida]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Perobelli]]></surname>
+<given-names><![CDATA[Fernando Salgueiro]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Freguglia]]></surname>
+<given-names><![CDATA[Ricardo da Silva]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af3">
+<institution><![CDATA[,University of Southampton  ]]></institution>
+<addr-line><![CDATA[Southampton Hampshire]]></addr-line>
+<country>United Kingdom</country>
+</aff>
+<aff id="Af4">
+<institution><![CDATA[,Universidade Federal de Juiz de Fora  ]]></institution>
+<addr-line><![CDATA[Juiz de Fora Minas Gerais]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af5">
+<institution><![CDATA[,Universidade Federal de Juiz de Fora  ]]></institution>
+<addr-line><![CDATA[Juiz de Fora Minas Gerais]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af6">
+<institution><![CDATA[,Universidade Federal de Juiz de Fora  ]]></institution>
+<addr-line><![CDATA[Juiz de Fora Minas Gerais]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2016</year>
+</pub-date>
+<volume>54</volume>
+<numero>2</numero>
+<fpage>221</fpage>
+<lpage>242</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032016000200221&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032016000200221&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032016000200221&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo: O presente trabalho tem por objetivo avaliar o impacto do Pronaf no PIB da economia brasileira e nos PIBs setoriais (PIB de serviços, agropecuário e industrial) a partir da aplicação de regressão quantílica com efeitos fixos para dados em painel. Além disso, diante da questão relativa à distribuição dos recursos, avaliam-se os diferentes resultados dentro do contexto regional, isto é, os diferentes impactos nas cinco macrorregiões do País (Norte, Nordeste, Centro­-Oeste, Sudeste e Sul). O uso do modelo de regressão quantílica com efeitos fixos para dados em painel se justifica pelo fato de que as variáveis usadas na análise apresentam forte desigualdade entre os municípios brasileiros. Ao observar a resposta de cada quantil, e não apenas em relação à média, bem como levar em consideração o controle dos efeitos fixos, os efeitos do Pronaf sobre o PIB podem ser melhor captados. Os principais resultados obtidos indicam que há um efeito positivo do programa sobre o PIB total e PIBs setoriais. Apesar de o programa ser de caráter nacional, há diferentes efeitos entre as regiões, que sugerem que (i) mudanças e aprimoramentos no Pronaf possam ser conduzidos de maneira pertinente à cada região e que (ii) os recursos possam ser descentralizados.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract: This study aims to assess the impact of Pronaf on the Brazilian GDP and on sectoral GDP (services, agricultural and industrial) from the application of quantile regression with fixed effects for panel data. Given the criticism regarding the distribution of resources, we also evaluate the different results within the regional context, i.e. the different impacts in the five geographical regions of Brazil (North, Northeast, Midwest, Southeast and South). We use the quantile regression model with fixed effects to panel database, since the variables used in the analysis provide strong inequality between municipalities. By observing the response of each quantile, not just from the average, as well as taking into account the control of fixed effects, the effects of Pronaf on GDP can be better captured. Although the program is national, the different results between regions suggest that (i) changes and improvements in Pronaf should be conducted properly to each region and (ii) it is clear the necessity to decentralize resources.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Agricultura familiar]]></kwd>
+<kwd lng="pt"><![CDATA[Pronaf]]></kwd>
+<kwd lng="pt"><![CDATA[Impacto nacional e regional]]></kwd>
+<kwd lng="pt"><![CDATA[Regressão quantílica]]></kwd>
+<kwd lng="pt"><![CDATA[Efeitos fixos]]></kwd>
+<kwd lng="en"><![CDATA[Familiar agriculture]]></kwd>
+<kwd lng="en"><![CDATA[Pronaf]]></kwd>
+<kwd lng="en"><![CDATA[National and regional impact]]></kwd>
+<kwd lng="en"><![CDATA[Quantile regression]]></kwd>
+<kwd lng="en"><![CDATA[Fixed effects]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALEIXO]]></surname>
+<given-names><![CDATA[C. E. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[L. A. S. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DOS REIS]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUNIZ]]></surname>
+<given-names><![CDATA[K. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[P. V. P. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Impactos do PRONAF nos indicadores de qualidade de vida de seus beneficiados no Assentamento Santana-CE]]></source>
+<year>2007</year>
+<conf-name><![CDATA[ VII Congresso da Sociedade Brasileira de Sistemas de Produção (CSBSP)]]></conf-name>
+<conf-loc>Fortaleza </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AQUINO]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHNEIDER]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[(Des)caminhos da política de crédito do PRONAF na luta contra a pobreza e desigualdade social no Brasil rural]]></source>
+<year>2010</year>
+<conf-name><![CDATA[ Conferência Nacional de Políticas contra a Pobreza e a Desigualdade]]></conf-name>
+<conf-loc>Natal </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARAÚJO]]></surname>
+<given-names><![CDATA[P. F. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Política de crédito rural: reflexões sobre a experiência brasileira]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[CEPAL/IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Efeitos do Pronaf sobre a pobreza rural no Brasil (2001-2009)]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BATISTA]]></surname>
+<given-names><![CDATA[H. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NEDER]]></surname>
+<given-names><![CDATA[H. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2014</year>
+<volume>52</volume>
+<page-range>147-66</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BELIK]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O financiamento da agropecuária brasileira no período recente]]></source>
+<year>2015</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BITTENCOURT]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Abrindo a caixa preta: o financiamento da agricultura familiar no Brasil]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Economia, Universidade Estadual de Campinas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<collab>BRASIL</collab>
+<source><![CDATA[Decreto nº 1.946, de 28 de junho de 1996. Cria o Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF), e dá outras providências]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Congresso Nacional]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A simple approach to quantile regression for panel data]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CANAY]]></surname>
+<given-names><![CDATA[I. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Econometrics Journal]]></source>
+<year>2011</year>
+<volume>14</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>368-86</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[C. N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A agropecuária na região norte: oportunidades e limitações ao desenvolvimento]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[C. N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A agropecuária na região Centro-Oeste: limitações ao desenvolvimento e desafios futuros]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[C. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RESENDE]]></surname>
+<given-names><![CDATA[G. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIRES]]></surname>
+<given-names><![CDATA[M. J. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação dos impactos regionais do Programa Nacional da Agricultura Familiar (PRONAF)]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[PRONAF: uma análise da evolução das fontes de recursos utilizadas no programa]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CONTI]]></surname>
+<given-names><![CDATA[B. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROITMAN]]></surname>
+<given-names><![CDATA[F. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista do BNDES]]></source>
+<year>2011</year>
+<numero>35</numero>
+<issue>35</issue>
+<page-range>131-68</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Análise das liberações recentes de recursos do PRONAF: uma mudança na lógica de distribuição]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CORRÊA]]></surname>
+<given-names><![CDATA[V. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[F. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Econômica do Nordeste]]></source>
+<year>2007</year>
+<volume>38</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>48-66</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[O impacto do PRONAF sobre a sustentabilidade da agricultura familiar, geração de emprego e renda no Estado do Ceará]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DAMASCENO]]></surname>
+<given-names><![CDATA[N. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KHAN]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[P. V. P. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2011</year>
+<volume>49</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>129-56</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<collab>DEPARTAMENTO INTERSIDICAL DE ESTATISTICA E ESTUDOS SÓCIOECONÔMICOS (DIEESE)</collab>
+<collab>NÚCLEO DE ESTUDOS AGRÁRIOS E DESENVOLVOLVIMENTO RURAL (NEAD)</collab>
+<collab>MDA</collab>
+<source><![CDATA[Estatísticas do meio rural 2010-2011]]></source>
+<year>2011</year>
+<edition>4ª ed</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[DIEESE; NEAD; MDA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Empirical probability plots and statistical inference for nonlinear models in the two-sample case]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DOKSUM]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The annals of statistics]]></source>
+<year>1974</year>
+<page-range>267-77</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Quantile regression for dynamic panel data with fixed effects]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GALVÃO JR.]]></surname>
+<given-names><![CDATA[A. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>2011</year>
+<volume>164</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>142-57</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[PRONAF dez anos depois: resultados e perspectivas para o desenvolvimento rural]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUANZIROLI]]></surname>
+<given-names><![CDATA[C. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2007</year>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>301-28</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Dez anos de evolução da agricultura familiar no Brasil: (1996 e 2006)]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUANZIROLI]]></surname>
+<given-names><![CDATA[C. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BUAINAIN]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DI SABBATO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2012</year>
+<volume>50</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>351-70</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUILHOTO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A importância da agricultura familiar no Brasil e em seus estados]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[NEAD]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Revisitando o Pronaf: velhos questionamentos, novas interpretações]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRISA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WESZ JUNIOR]]></surname>
+<given-names><![CDATA[V. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BUCHWEITZ]]></surname>
+<given-names><![CDATA[V. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2014</year>
+<volume>52</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>323-46</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<collab>IBGE - Instituto Brasileiro de Geografia e Estatística</collab>
+<source><![CDATA[Censo agropecuário 2006]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IBGE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<collab>IPEA - Instituto de Pesquisa Econômica Aplicada</collab>
+<source><![CDATA[Caracterização do público potencial do PRONAF "B" na região Nordeste e no estado de Minas Gerais: uma análise baseada nos dados do Censo Agropecuário 2006]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Quantile regression for longitudinal data]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KOENKER]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Multivariate Analysis]]></source>
+<year>2004</year>
+<volume>91</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>74-89</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Regression quantiles]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KOENKER]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BASSETT JR]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica]]></source>
+<year>1978</year>
+<volume>46</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>33-50</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A experiência recente do PRONAF em Pernambuco: uma análise por meio de propensity score]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAGALHÃES]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia Aplicada]]></source>
+<year>2006</year>
+<volume>10</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>57-74</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MATTEI]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Uma análise dos impactos do PRONAF sobre as economias locais nas regiões Nordeste, Sudeste e Norte do Brasil]]></source>
+<year>2007</year>
+<conf-name><![CDATA[ XLV Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural]]></conf-name>
+<conf-loc>Londrina </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Efeitos do PRONAF sobre a produção agrícola familiar dos municípios tocantinenses]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[E. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NASCIMENTO]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2014</year>
+<volume>52</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>139-56</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIRES]]></surname>
+<given-names><![CDATA[M. J. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Contradições em processo: um estudo da estrutura e evolução do Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF): 2000 a 2010]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POWELL]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Did the economic stimulus payments of 2008 reduce labor supply]]></source>
+<year>2014</year>
+<publisher-name><![CDATA[RAND Corporation: Labor & Population]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SÁ]]></surname>
+<given-names><![CDATA[H. D. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Engenharia financeira do PRONAF: reflexões sobre os arranjos adotados]]></source>
+<year>2009</year>
+<publisher-name><![CDATA[Faculdade de Agronomia e Medicina Veterinária, Universidade de Brasília]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os efeitos do PRONAF na renda per capita dos municípios mineiros: uma análise a partir de regressões quantílicas]]></source>
+<year>2014</year>
+<conf-name><![CDATA[ XVI Seminário sobre a Economia Mineira]]></conf-name>
+<conf-loc>Diamantina </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[F. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Distribuição de crédito para agricultura familiar: um estudo do PRONAF a partir de um indicador de desenvolvimento rural]]></source>
+<year>2006</year>
+<publisher-name><![CDATA[Instituto de Economia, Universidade Federal de Uberlândia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Políticas públicas, agricultura familiar e desenvolvimento territorial]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[S. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cadernos Gestão Pública e Cidadania]]></source>
+<year>2011</year>
+<volume>16</volume>
+<numero>58</numero>
+<issue>58</issue>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Impactos Econômicos do PRONAF em Territórios Rurais: um estudo para o médio Jequitinhonha - MG]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[S. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALVES FILHO]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Econômica do Nordeste]]></source>
+<year>2009</year>
+<page-range>481-98</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOUSA]]></surname>
+<given-names><![CDATA[J. M. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VALENTE JUNIOR]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise das liberações dos recursos do PRONAF: descentralização das aplicações do crédito rural]]></source>
+<year>2006</year>
+<conf-name><![CDATA[ Anais do 44º Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural (SOBER)]]></conf-name>
+<conf-loc>Fortaleza </conf-loc>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

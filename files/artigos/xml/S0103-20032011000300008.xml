@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032011000300008</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032011000300008</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Desmatamento e crescimento econômico no Brasil: uma análise da curva de Kuznets ambiental para a Amazônia legal]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[Rejane Corrêa de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Almeida]]></surname>
+<given-names><![CDATA[Eduardo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Freguglia]]></surname>
+<given-names><![CDATA[Ricardo da Silva]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Barreto]]></surname>
+<given-names><![CDATA[Ricardo Candéa Sá]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Juiz de Fora  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,UFJF Faculdade de Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,UFJF Faculdade de Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Universidade Federal de Viçosa  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2011</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2011</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>709</fpage>
+<lpage>739</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032011000300008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032011000300008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032011000300008&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Nos últimos anos, tem sido crescente a preocupação de que o crescimento econômico possa causar o desmatamento na região amazônica. Este trabalho tem por objetivo estudar a relação entre crescimento da renda e desmatamento sob a hipótese da Curva de Kuznets Ambiental (Environmental Kuznets Curve - EKC), considerando-se os municípios da Amazônia Legal, no período de 2001 a 2006. Um modelo econométrico de dados em painel com dependência espacial foi estimado. Variáveis explicativas adicionais relatadas na literatura como importantes condicionantes do desmatamento (atividades agropecuárias, densidade populacional, entre outras) foram incluídas. A especificação que melhor se ajusta aos dados é a que inclui um termo de erro espacial e transbordamentos espaciais das variáveis explicativas. O formato encontrado para a relação entre desmatamento e crescimento não é o "U" invertido tradicional, mas um "N" invertido.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Over the last years,concerns about the possibility that the economic growth may cause deforestation in the Amazon region have been increasing.This work is aimed at studying the relation between income and deforestation by the hypothesis of Environmental Kuznets Curve (EKC) approach at municipal level in the period from2001-2006. A panel data model with spatial dependence was estimated. Some other variables mentioned in the literature as important causes of deforestation (cattle and agricultural activities, population density and others) were included. The best model specified is the one that includes a spatial error term and spatial spillovers. The relation founded is not the traditional inverted "U" shaped, but an inverted "N" shaped relation.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Amazônia]]></kwd>
+<kwd lng="pt"><![CDATA[Desmatamento]]></kwd>
+<kwd lng="pt"><![CDATA[Curva de Kuznets Ambiental]]></kwd>
+<kwd lng="pt"><![CDATA[Econometria espacial]]></kwd>
+<kwd lng="en"><![CDATA[Amazon]]></kwd>
+<kwd lng="en"><![CDATA[Deforestation]]></kwd>
+<kwd lng="en"><![CDATA[Environmental Kuznets Curve]]></kwd>
+<kwd lng="en"><![CDATA[Spatial econometrics]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>Desmatamento e crescimento econ&ocirc;mico no Brasil: uma an&aacute;lise da curva de Kuznets ambiental para a Amaz&ocirc;nia legal </B></font></P>     <P>&nbsp;</P>     <P>&nbsp;</P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Rejane Corr&ecirc;a de Oliveira<Sup>I</Sup>; Eduardo Almeida<Sup>II</Sup>; Ricardo da Silva Freguglia<Sup>III</Sup>; Ricardo Cand&eacute;a S&aacute; Barreto<Sup>IV</Sup></b></font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>I</Sup>Mestre em Economia Aplicada pela Universidade Federal de Juiz de Fora. E-mail: <a href="mailto:rejane.co@hotmail.com">rejane.co@hotmail.com</a>    <br>    <Sup>II</Sup>Professor Adjunto da Faculdade de Economia da UFJF, pesquisador do CNPq e pesquisador PPM da Fapemig. E-mail: <a href="mailto:eduardo.almeida@ufjf.edu.br">eduardo.almeida@ufjf.edu.br</a>    <br>    <Sup>III</Sup>Professor da Faculdade de Economia da UFJF. E-mail: <a href="mailto:ricardo.freguglia@ufjf.edu.br">ricardo.freguglia@ufjf.edu.br</a>    <br>   <sup>IV</sup>Gestor de Ensino e Pesquisa da Funda&ccedil;&atilde;o Jo&atilde;o Pinheiro e doutor em Economia Aplicada pela Universidade Federal de Vi&ccedil;osa. E-mail: <a href="mailto:ricardocandea@yahoo.com.br" target="_blank">ricardocandea@yahoo.com.br</a>    <br> </font></P >     <P>&nbsp;</P >     ]]></body>
+<body><![CDATA[<P>&nbsp;</P > <hr size="1" noshade>     <P ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>RESUMO</B></font></P>     <P ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nos &uacute;ltimos anos, tem sido crescente a preocupa&ccedil;&atilde;o de que o crescimento econ&ocirc;mico possa causar o desmatamento na regi&atilde;o amaz&ocirc;nica. Este trabalho tem por objetivo estudar a rela&ccedil;&atilde;o entre crescimento da renda e desmatamento sob a hip&oacute;tese da Curva de Kuznets Ambiental (Environmental Kuznets Curve &#150; EKC), considerando-se os munic&iacute;pios da Amaz&ocirc;nia Legal, no per&iacute;odo de 2001 a 2006. Um modelo econom&eacute;trico de dados em painel com depend&ecirc;ncia espacial foi estimado. Vari&aacute;veis explicativas adicionais relatadas na literatura como importantes condicionantes do desmatamento (atividades agropecu&aacute;rias, densidade populacional, entre outras) foram inclu&iacute;das. A especifica&ccedil;&atilde;o que melhor se ajusta aos dados &eacute; a que inclui um termo de erro espacial e transbordamentos espaciais das vari&aacute;veis explicativas. O formato encontrado para a rela&ccedil;&atilde;o entre desmatamento e crescimento n&atilde;o &eacute; o "U" invertido tradicional, mas um "N" invertido.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>Palavras-chave: </B>Amaz&ocirc;nia, Desmatamento, Curva de Kuznets Ambiental, Econometria espacial.</font></P> <hr size="1" noshade>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>ABSTRACT</B></font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Over the last years,concerns about the possibility that the economic growth may cause deforestation in the Amazon region have been increasing.This work is aimed at studying the relation between income and deforestation by the hypothesis of Environmental Kuznets Curve (EKC) approach at municipal level in the period from2001-2006. A panel data model with spatial dependence was estimated. Some other variables mentioned in the literature as important causes of deforestation (cattle and agricultural activities, population density and others) were included. The best model specified is the one that includes a spatial error term and spatial spillovers. The relation founded is not the traditional inverted "U" shaped, but an inverted "N" shaped relation. </font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>Key words: </B>Amazon, Deforestation, Environmental Kuznets Curve, Spatial econometrics. </font></P > <hr size="1" noshade>     <P >&nbsp;</P>     <P >&nbsp;</P>     <P ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>1. Introdu&ccedil;&atilde;o </B></font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O desmatamento das florestas tropicais se destaca como um elemento importante na quest&atilde;o das mudan&ccedil;as clim&aacute;ticas. No Brasil, o desmatamento provocado por focos de calor torna o pa&iacute;s um grande emissor mundial de di&oacute;xido de carbono (CO<sub>2</sub>), um dos gases causadores do efeito estufa. H&aacute; a preocupa&ccedil;&atilde;o de que, com o avan&ccedil;o do desenvolvimento, a press&atilde;o sobre as florestas tropicais aumente. O debate sobre crescimento econ&ocirc;mico e degrada&ccedil;&atilde;o ambiental encontra na hip&oacute;tese da Curva de Kuznets Ambiental (Environmental Kuznets Curve &#150; EKC) uma expectativa de resposta.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A hip&oacute;tese da EKC descreve uma rela&ccedil;&atilde;o de degrada&ccedil;&atilde;o ambiental crescente em regi&otilde;es em desenvolvimento, com renda <I>per capita</I> baixa, por&eacute;m, ao alcan&ccedil;ar patamares tecnol&oacute;gicos superiores, aliados a mudan&ccedil;as na estrutura produtiva e pol&iacute;ticas de prote&ccedil;&atilde;o ambiental, haveria menor press&atilde;o ambiental e os indicadores de degrada&ccedil;&atilde;o ambiental poderiam apresentar queda para n&iacute;veis de renda mais elevados, caracterizando uma curva com formato de "U" invertido (STERN, 2004). Contudo, esta rela&ccedil;&atilde;o n&atilde;o &eacute; clara teoricamente (CHIMELI, 2007) e, do ponto de vista emp&iacute;rico, os resultados s&atilde;o contradit&oacute;rios, dependendo do tipo de indicador de qualidade ambiental e vari&aacute;veis empregadas. Alguns trabalhos confirmam a EKC, enquanto outros criticam a alta sensibilidade dos resultados &agrave;s formas funcionais e especifica&ccedil;&otilde;es dos modelos (DE BRUYN et al., 1998; STERN, 2004).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No Brasil, a grande preocupa&ccedil;&atilde;o atual da transforma&ccedil;&atilde;o da Amaz&ocirc;nia<a name="tx01"></a><a href="#nt01"><Sup>1</Sup></a> reside sobre o processo de desmatamento, com isso, boa parte dos estudos sobre desmatamento de florestas tropicais centra-se nesta regi&atilde;o, pela amea&ccedil;a que representa sobre o acervo de biodiversidade e sobre a presta&ccedil;&atilde;o de servi&ccedil;os ambientais para a manuten&ccedil;&atilde;o das condi&ccedil;&otilde;es clim&aacute;ticas globais. At&eacute; 2007, cerca de 732 mil km&sup2; foram desmatados, o que corresponde a quase 15% da &aacute;rea total da regi&atilde;o. At&eacute; 1980, o desmatamento na regi&atilde;o alcan&ccedil;ava cerca de 300 mil km&sup2;, o equivalente a 6% da &aacute;rea total (BRASIL, 2008).</font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com base no diagn&oacute;stico que consta no relat&oacute;rio "Plano Amaz&ocirc;nia Sustent&aacute;vel" (BRASIL, 2008), a regi&atilde;o caracteriza-se atualmente por uma economia cujos setores mais importantes s&atilde;o: agropecu&aacute;rio, florestal, mineral, industrial e atividades urbanas, entre as quais a administra&ccedil;&atilde;o p&uacute;blica tem importante peso. O relat&oacute;rio caracteriza a regi&atilde;o da Amaz&ocirc;nia brasileira como uma regi&atilde;o heterog&ecirc;nea em v&aacute;rios aspectos. A rela&ccedil;&atilde;o do desmatamento com o crescimento econ&ocirc;mico, portanto, torna-se uma quest&atilde;o de interessante complexidade.</font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A proposta deste trabalho &eacute; investigar a exist&ecirc;ncia da rela&ccedil;&atilde;o causal entre degrada&ccedil;&atilde;o ambiental e crescimento econ&ocirc;mico, preconizada pela hip&oacute;tese da Curva de Kuznets Ambiental (Environmental Kuznets Curve &#150; EKC), na regi&atilde;o da Amaz&ocirc;nia Legal, considerando seu indicador de degrada&ccedil;&atilde;o ambiental mais relevante, o desmatamento. Portanto, busca-se saber se existe uma rela&ccedil;&atilde;o na forma de "U" invertido entre um &iacute;ndice de degrada&ccedil;&atilde;o ambiental (&aacute;rea desmatada anual) e o crescimento econ&ocirc;mico (medido pelo PIB <I>per capita</I>) para todos os munic&iacute;pios da regi&atilde;o mapeados pelo sistema Prodes (Inpe), durante o per&iacute;odo de 2001 a 2006, utilizando um modelo para dados em painel com depend&ecirc;ncia espacial. Al&eacute;m da vari&aacute;vel relativa &agrave; renda, foram adicionadas vari&aacute;veis explicativas adicionais consideradas relevantes pela literatura, tais como: rebanho bovino, culturas agr&iacute;colas como soja e cana-de-a&ccedil;&uacute;car, extra&ccedil;&atilde;o vegetal e silvicultura, densidade populacional, cr&eacute;dito rural e &aacute;rea de floresta preexistente.</font></P >     <P ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este artigo est&aacute; organizado da seguinte forma: a se&ccedil;&atilde;o 2 apresenta uma revis&atilde;o de trabalhos anteriores acerca da EKC e o desmatamento de florestas tropicais, em especial a Amaz&ocirc;nia brasileira, e outros condicionantes recentes do desmatamento desta regi&atilde;o, com &ecirc;nfase nos aspectos espaciais. A se&ccedil;&atilde;o 3 apresenta as vari&aacute;veis e m&eacute;todos utilizados nas estima&ccedil;&otilde;es dos modelos econom&eacute;tricos. A se&ccedil;&atilde;o 4 apresenta os resultados e os discute. A &uacute;ltima se&ccedil;&atilde;o conclui, destacando os principais resultados e a contribui&ccedil;&atilde;o de se considerar os efeitos espaciais para a compreens&atilde;o do processo de desmatamento e sua rela&ccedil;&atilde;o com o crescimento econ&ocirc;mico da regi&atilde;o amaz&ocirc;nica.</font></P>     <P >&nbsp;</P>     <P><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>2. Revis&atilde;o da literatura </B></font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A hip&oacute;tese da Curva de Kuznets Ambiental tem sido amplamente testada para diversos indicadores de degrada&ccedil;&atilde;o ambiental, em diferentes contextos temporais e espaciais. Al&eacute;m de ser aplicado a emiss&otilde;es de poluentes, o indicador de degrada&ccedil;&atilde;o ambiental considerado pela EKC pode tamb&eacute;m contemplar o desmatamento. A abrang&ecirc;ncia geogr&aacute;fica para a qual a EKC &eacute; investigada tamb&eacute;m &eacute; bastante diversa: an&aacute;lises multipa&iacute;ses, nacionais, regionais e microrregionais podem ser encontradas nos trabalhos emp&iacute;ricos. Boas revis&otilde;es podem ser encontradas em Stern (2004) e Carvalho (2008).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para a degrada&ccedil;&atilde;o ambiental relacionada ao desmatamento de florestas, v&aacute;rias interpreta&ccedil;&otilde;es para a EKC s&atilde;o apresentadas na literatura. Battharai e Hammig (2001) explicam que, em geral, os pa&iacute;ses de baixa renda desmatam sem reposi&ccedil;&atilde;o, e &agrave; medida que a renda aumenta, o investimento em reflorestamento para reposi&ccedil;&atilde;o da madeira extra&iacute;da ou para a produ&ccedil;&atilde;o de produtos florestais compensa a &aacute;rea desmatada. Al&eacute;m disso, a estrutura da economia e os padr&otilde;es de demanda de energia mudam &agrave; medida que a renda cresce (por exemplo, a lenha consumida como combust&iacute;vel &eacute; substitu&iacute;da por carv&atilde;o mineral e derivados de petr&oacute;leo), reduzindo a press&atilde;o sobre as florestas. Lopez (1994, apud CULAS, 2007), desenvolveu um modelo te&oacute;rico em que os efeitos de estoque dos recursos florestais (biomassa) na produ&ccedil;&atilde;o agr&iacute;cola s&atilde;o internalizados, e ent&atilde;o, o crescimento econ&ocirc;mico resultaria em menor desmatamento.</font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Essa internaliza&ccedil;&atilde;o poderia ser induzida por pol&iacute;ticas governamentais ou arranjos contratuais entre produtores. Culas (2007) cita outras for&ccedil;as indutoras para uma trajet&oacute;ria t&iacute;pica da EKC, como a atratividade de empregos n&atilde;o rurais para manter as pessoas fora da floresta, um maior valor atribu&iacute;do &agrave;s florestas intocadas, e a capacidade dos governos de refor&ccedil;ar a prote&ccedil;&atilde;o das florestas por meio de fatores institucionais. Esses fatores influenciariam a altura e a convexidade da EKC, acelerando o caminho para o desenvolvimento sustent&aacute;vel.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dado o crescente interesse em modelos sobre o desmatamento, Kaimowitz e Angelsen (1998) realizaram uma abrangente revis&atilde;o dos trabalhos publicados sobre o tema at&eacute; 1998. Segundo Barbier e Burgess (2002), os trabalhos que buscam identificar as causas do desmatamento em florestas tropicais podem ser categorizados da seguinte forma: aqueles que, em n&iacute;vel macroecon&ocirc;mico, testam a hip&oacute;tese da Curva de Kuznets Ambiental; aqueles que buscam compreender, por meio da rela&ccedil;&atilde;o com vari&aacute;veis socioecon&ocirc;micas, a mudan&ccedil;a no uso da terra (<I>Land Use Cover Change &#150; LUCC</I>); outros buscam a compreens&atilde;o do fen&ocirc;meno do desmatamento por meio da an&aacute;lise do comportamento dos agentes microecon&ocirc;micos; outros estudos consideram fatores institucionais, como estabilidade pol&iacute;tica, conflitos de terra, direitos de propriedade etc.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entre os trabalhos emp&iacute;ricos que abordaram a EKC e o processo de desmatamento, variados m&eacute;todos econom&eacute;tricos s&atilde;o utilizados: s&eacute;ries temporais, regress&otilde;es com dados em corte cruzado, painel de dados, e, em menor escala, modelos econom&eacute;trico-espaciais. Os resultados n&atilde;o s&atilde;o un&acirc;nimes: a hip&oacute;tese da EKC &eacute; verificada por alguns autores e rejeitada por outros, dependendo da escala geogr&aacute;fica, da regi&atilde;o estudada e da abrang&ecirc;ncia temporal.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">At&eacute; a d&eacute;cada de 1980, o hist&oacute;rico do desmatamento da regi&atilde;o da Amaz&ocirc;nia Legal esteve ligado &agrave;s a&ccedil;&otilde;es governamentais para a ocupa&ccedil;&atilde;o e desenvolvimento do territ&oacute;rio, por interm&eacute;dio de abertura de estradas e incentivo &agrave; migra&ccedil;&atilde;o (FERREIRA e SALATI, 2005; BECKER, 2005). Segundo o Plano Amaz&ocirc;nia Sustent&aacute;vel, at&eacute; aquela d&eacute;cada, o desmatamento na regi&atilde;o da Amaz&ocirc;nia Legal alcan&ccedil;ava cerca de 300 mil km&sup2;, o equivalente a 6% da &aacute;rea total. De 1980 a 2007, foram desmatados mais 432 mil km&sup2;, correspondendo no total a quase 15% da regi&atilde;o amaz&ocirc;nica (BRASIL, 2008). Os condicionantes recentes do desmatamento, entretanto, apontam para as atividades agropecu&aacute;rias que se expandem seguindo a l&oacute;gica econ&ocirc;mica privada (MARGULIS, 2003).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os fatores determinantes do desmatamento da Amaz&ocirc;nia brasileira s&atilde;o objeto de vasta literatura. As causas investigadas recaem sobre os temas: ambiental (qualidade de solos, pluviosidade, temperatura), socioecon&ocirc;mico (popula&ccedil;&atilde;o urbana e rural, educa&ccedil;&atilde;o, renda, produ&ccedil;&atilde;o agr&iacute;cola, pre&ccedil;os de produtos agr&iacute;colas, caracter&iacute;sticas das propriedades rurais etc.) e acessibilidade (rodovias pavimentadas e n&atilde;o pavimentadas, dist&acirc;ncia de mercados locais e nacionais etc.).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com rela&ccedil;&atilde;o a vari&aacute;veis ambientais, a precipita&ccedil;&atilde;o pluviom&eacute;trica &eacute; considerada a mais relevante (MARGULIS, 2003; IGLIORI, 2006; CALDAS et al., 2003; CHOMITZ e THOMAS, 2003). Com rela&ccedil;&atilde;o &agrave;s facilidades de acesso, todos os estudos que investigaram alguma forma dessa vari&aacute;vel consideraram-na relevante (PFAFF, 1999; REIS e GUZM&Aacute;N, 1994; AGUIAR et al., 2007), com exce&ccedil;&atilde;o de Margulis (2003), que n&atilde;o chegou a um resultado conclusivo quanto a esse aspecto.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entre os fatores socioecon&ocirc;micos, a popula&ccedil;&atilde;o &eacute; considerada relevante e segue um padr&atilde;o n&atilde;o linear, primeiro crescente e depois decrescente (IGLIORI, 2006; PFAFF, 1999). A vari&aacute;vel renda &eacute; considerada significativa em todos os estudos, por&eacute;m com fraca intensidade. A hip&oacute;tese da EKC para o desmatamento da Amaz&ocirc;nia foi verificada nos trabalhos de Gomes e Braga (2008) e Ara&uacute;jo et al. (2008), em n&iacute;vel estadual, sendo que neste &uacute;ltimo o objetivo principal era a verifica&ccedil;&atilde;o da import&acirc;ncia de aspectos institucionais. A EKC tamb&eacute;m foi verificada, com dados municipais, por Caldas et al. (2003), Santos et al. (2008) e Prates (2008).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em maior ou menor grau, todos os estudos consideram algum tipo de rela&ccedil;&atilde;o das atividades agropecu&aacute;rias com o desmatamento. Al&eacute;m do trabalho de Margulis (2003), Miragaya (2008) refor&ccedil;a que a demanda por carne bovina &eacute; de longe o fator preponderante no desmatamento da regi&atilde;o, mais do que a expans&atilde;o da produ&ccedil;&atilde;o de gr&atilde;os, em especial a soja, que tem sido tamb&eacute;m apontada como fator que pressiona a fronteira agr&iacute;cola em dire&ccedil;&atilde;o &agrave;s &aacute;reas de florestas (BROWN et al., 2005; VERA-DIAZ et al., 2008). Silva (2006) afirma que a maior parte do desmatamento amaz&ocirc;nico at&eacute; 1997 ocorreu nas terras com maior potencial agropecu&aacute;rio, o que est&aacute; de acordo com o trabalho de Chomitz e Thomas (2003), que verifica que a convers&atilde;o de terras para uso agropecu&aacute;rio diminui substancialmente com o aumento dos n&iacute;veis de pluviosidade, tornando as &aacute;reas mais &uacute;midas menos interessantes do ponto de vista econ&ocirc;mico e, portanto, menos sujeitas ao avan&ccedil;o do desmatamento. Segundo Aguiar et al. (2007), a &aacute;rea convertida a pastagens corresponde a cerca de 70% da &aacute;rea total desmatada, e as &aacute;reas convertidas a culturas tempor&aacute;rias e permanentes correspondem a 13% e 3% da &aacute;rea total desmatada, respectivamente.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em geral, os trabalhos emp&iacute;ricos utilizaram modelos econom&eacute;tricos tradicionais. &Acirc;ngelo e Pereira de S&aacute; (2007) e Ewers, Laurance e Souza Jr (2008) utilizaram regress&otilde;es para s&eacute;ries de tempo. Gomes e Braga (2008), Santos et al. (2008) e Prates (2008) utilizaram modelos econom&eacute;tricos de dados em painel. Os outros autores utilizaram regress&otilde;es com dados em corte cruzado (em n&iacute;vel estadual, municipal, de setor censit&aacute;rio, ou gride &#150; segmenta&ccedil;&atilde;o da &aacute;rea de estudo em quadrados de dimens&atilde;o determinada, como, por exemplo, 25 km x 25 km).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O processo de desmatamento possui um forte componente espacial, pois trata-se de um espa&ccedil;o ocupado pela cobertura florestal, que &eacute; convertido em outro uso, relacionando-se com os tipos de uso da terra verificados na vizinhan&ccedil;a das &aacute;reas desmatadas. Com base nisso, alguns estudos utilizaram modelos que consideraram os efeitos espaciais do desmatamento. Entre eles, destacam-se os trabalhos de Reis e Guzm&aacute;n (1994), Caldas et al. (2003), Igliori (2006) e Aguiar et al. (2007). Estes &uacute;ltimos encontraram depend&ecirc;ncia espacial significativa para o desmatamento, utilizando dados em corte cruzado. A justificativa para a inclus&atilde;o de vari&aacute;veis relacionadas aos efeitos espaciais &eacute; dada por Alves (apud MARGULIS, 2003): o desmatamento &eacute; um processo de intera&ccedil;&atilde;o espacial, em que as &aacute;reas desmatadas s&atilde;o vizinhas de &aacute;reas anteriormente desmatadas.</font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Resumidamente, entre os estudos que investigam uma EKC para o desmatamento da regi&atilde;o amaz&ocirc;nica, podem ser citados os trabalhos de Caldas et al. (2003), que considera o munic&iacute;pio de Uruar&aacute; (PA); Gomes e Braga (2008) e Ara&uacute;jo et al. (2009), que utilizam um painel de dados em n&iacute;vel estadual; Prates (2008) e Santos et al. (2008), que utilizam um painel de dados em n&iacute;vel municipal. Outros trabalhos n&atilde;o estimaram a rela&ccedil;&atilde;o da EKC, por&eacute;m, trataram de forma importante os efeitos espaciais do desmatamento na regi&atilde;o: Reis e Guzm&aacute;n (1993), Pfaff (1999), Chomitz e Thomas (2003), Igliori (2006) e Aguiar et al. (2007). Reis e Guzm&aacute;n (1993) e Igliori (2006) consideraram a depend&ecirc;ncia espacial na an&aacute;lise econom&eacute;trica; este &uacute;ltimo autor utilizou dados em diferen&ccedil;as para 257 &aacute;reas compar&aacute;veis, levando em considera&ccedil;&atilde;o os efeitos n&atilde;o observados. Quanto aos demais estudos, nenhum utilizou painel de dados incorporando o tratamento para depend&ecirc;ncia espacial. Pfaff (1999) e Chomitz e Thomas (2003) inclu&iacute;ram em seus modelos vari&aacute;veis relativas &agrave; proximidade espacial de outras vari&aacute;veis importantes, mas n&atilde;o utilizaram um modelo econom&eacute;trico-espacial propriamente dito. Nenhum dos estudos utilizou painel de dados com tratamento para depend&ecirc;ncia espacial e heterogeneidade espacial dos par&acirc;metros. O <a href="#qd01">Quadro 1</a> resume os trabalhos sobre a regi&atilde;o que consideram a EKC e/ou efeitos espaciais citados acima.</font></P>     <P><a name="qd01"></a></P>     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08qd01.jpg"></P>     <P>&nbsp;</P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para a aplica&ccedil;&atilde;o da EKC para o desmatamento, a especifica&ccedil;&atilde;o tradicional do modelo inclui a vari&aacute;vel renda <I>per capita</I> e seu termo quadr&aacute;tico (BARBIER e BURGESS, 2002). Alguns trabalhos incluem ainda a forma c&uacute;bica e logaritmizada (GOMES e BRAGA, 2008; SANTOS et al., 2008). A especifica&ccedil;&atilde;o geral &eacute;:</font></P >     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08tx01.jpg"></P>     <P>&nbsp;</P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">onde DESMATAMENTO &eacute; a vari&aacute;vel de interesse, <I>Y</I> &eacute; a renda <I>per capita</I>, e <B>z </B>&eacute; um vetor <I>1</I> x <I>k</I> que inclui outras vari&aacute;veis explicativas para o processo de desmatamento (popula&ccedil;&atilde;o, acesso, vari&aacute;veis institucionais etc.), <I>u</I> &eacute; o termo de erro aleat&oacute;rio, e <I>&alpha;</I><sub>i</sub> e <I>&beta;</I> (vetor <I>k</I> x 1) s&atilde;o par&acirc;metros.</font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os coeficientes <I>&alpha;</I>i da equa&ccedil;&atilde;o (1) determinam o formato da curva que relaciona degrada&ccedil;&atilde;o e renda (DE BRUYN et al., 1998). A <a href="#fig01">Figura 1</a> ilustra os diferentes formatos para esta rela&ccedil;&atilde;o, adaptada para o caso do desmatamento como indicador de degrada&ccedil;&atilde;o ambiental. Pode existir uma rela&ccedil;&atilde;o linear monot&ocirc;nica crescente (quando <I>&alpha;</I><sub>2</sub>&gt; 0 e <I>&alpha;</I><sub>3</sub> =<I>&alpha;</I><sub>4</sub> = 0) indicando que a eleva&ccedil;&atilde;o da renda est&aacute; associada a maiores n&iacute;veis de desmatamento (<a href="#fig01">Figura 1a</a>); ou, ao contr&aacute;rio, pode existir uma rela&ccedil;&atilde;o linear monot&ocirc;nica decrescente (<I>&alpha;</I><sub>2</sub>&lt; 0 e <I>&alpha;</I><sub>3</sub>= <I>&alpha;</I><sub>4</sub> = 0), indicando que a eleva&ccedil;&atilde;o da renda est&aacute; associada &agrave; diminui&ccedil;&atilde;o dos n&iacute;veis de desmatamento (<a href="#fig01">Figura 1b</a>). O formato de "U" invertido da EKC &eacute; observado quando existe uma rela&ccedil;&atilde;o quadr&aacute;tica (ou seja, se <I>&alpha;</I>2 <u>&gt;</u> 0, <I>&alpha;</I>3&lt; 0 e <I>&alpha;</I><sub>4</sub> = 0), indicando que a eleva&ccedil;&atilde;o da renda est&aacute; associada a um maior desmatamento nos n&iacute;veis iniciais, invertendo-se o processo a partir de um determinado ponto (<a href="#fig01b">Figura 1c</a>). Ou, ainda, a rela&ccedil;&atilde;o entre desmatamento e crescimento pode-se apresentar como a forma de "N", ou seja, uma rela&ccedil;&atilde;o representada por um polin&ocirc;mio c&uacute;bico (se <I>&alpha;</I><sub>2 </sub><u>&gt;</u> 0, <I>&alpha;</I><sub>3</sub>&lt; 0, e <I>&alpha;</I><sub>4</sub>&gt; 0), indicando que, ap&oacute;s um est&aacute;gio decrescente intermedi&aacute;rio, a eleva&ccedil;&atilde;o da renda provocaria n&iacute;veis de desmatamento crescentes (<a href="#fig01c">Figura 1e</a>). Outras formas para essa rela&ccedil;&atilde;o, como a de "U" (<a href="#fig01b">Figura 1d</a>) ou a de "N" invertido (<a href="#fig01c">Figura 1f</a>), tamb&eacute;m s&atilde;o encontradas em literatura (CIRIACI e PALMA, 2009).</font></P>     <P><a name="fig01"></a></P>     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08fig01.jpg">    <br>   <a name="fig01b"></a><img src="/img/revistas/resr/v49n3/a08fig01b.jpg">    <br>   <a name="fig01c"></a><img src="/img/revistas/resr/v49n3/a08fig01c.jpg"></P>     <P>&nbsp;</P>     <P><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>3. Metodologia </B></font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este trabalho busca identificar uma rela&ccedil;&atilde;o entre crescimento econ&ocirc;mico e desmatamento da Amaz&ocirc;nia Legal, como sugerida pela Curva de Kuznets Ambiental, considerando efeitos espaciais de depend&ecirc;ncia espacial. Al&eacute;m disso, foram acrescentadas vari&aacute;veis explicativas adicionais, conforme relatadas em literatura como determinantes do desmatamento,tais como: rebanho bovino, culturas agr&iacute;colas como soja e cana-de-a&ccedil;&uacute;car, extra&ccedil;&atilde;o vegetal e silvicultura, densidade populacional, cr&eacute;dito rural e &aacute;rea de floresta preexistente. Os dados da &aacute;rea desmatada anual s&atilde;o os dispon&iacute;veis para os 782 munic&iacute;pios da regi&atilde;o monitorados pelo Sistema Prodes (Programa de Avalia&ccedil;&atilde;o do Desflorestamento na Amaz&ocirc;nia Legal, Instituto Nacional de Pesquisas Espaciais &#150; Inpe), entre 2001 e 2006, formando um painel de dados mais extenso que o de estudos anteriores (GOMES e BRAGA, 2008; SANTOS et al., 2008; PRATES, 2008). A incorpora&ccedil;&atilde;o de vari&aacute;veis relacionadas a efeitos de depend&ecirc;ncia espacial no painel de dados n&atilde;o tem correspondente em estudos anteriores.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A utiliza&ccedil;&atilde;o de modelos de dados em painel permite a supera&ccedil;&atilde;o das limita&ccedil;&otilde;es comuns &agrave;s estima&ccedil;&otilde;es em corte cruzado (<I>cross-section</I>) e em s&eacute;ries de tempo. Os par&acirc;metros em corte cruzado podem se alterar ao longo do tempo sem que esse efeito seja captado pelas vari&aacute;veis explicativas, assim como n&atilde;o &eacute; poss&iacute;vel controlar para efeitos n&atilde;o observados invariantes no tempo. Os par&acirc;metros em s&eacute;ries temporais trabalham com dados agregados para as vari&aacute;veis explicativas e n&atilde;o captam as diferen&ccedil;as entre os indiv&iacute;duos. Com dados em painel, t&ecirc;mse observa&ccedil;&otilde;es repetidas para os mesmo indiv&iacute;duos ao longo do tempo, e os problemas caracter&iacute;sticos das estima&ccedil;&otilde;es de corte cruzado e de s&eacute;ries de tempo podem ser superados, ao mesmo tempo em que o n&uacute;mero de graus de liberdade aumenta consideravelmente (PINDYCK e RUBINFELD, 2004).</font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Elhorst (2003), os modelos de dados em painel comumente usados na literatura emp&iacute;rica podem ser expandidos para a incorpora&ccedil;&atilde;o de efeitos espaciais: depend&ecirc;ncia espacial e heterogeneidade espacial. Para duas categorias de modelos de painel de dados espaciais detalhadas pelo autor, efeitos fixos e efeitos aleat&oacute;rios, o coeficiente de cada vari&aacute;vel regressora &eacute; &uacute;nico e global e capta o comportamento representativo, ou "m&eacute;dio", entre as vari&aacute;veis. A depend&ecirc;ncia espacial pode ser incorporada &agrave; especifica&ccedil;&atilde;o do modelo por meio de processo autorregressivo no termo de erro (modelo de erro espacial), ou por interm&eacute;dio da vari&aacute;vel dependente defasada espacialmente (modelo de defasagem espacial), em que o valor da vari&aacute;vel dependente &eacute; influenciado pelo valor dessa vari&aacute;vel nos munic&iacute;pios vizinhos. A heterogeneidade espacial nos modelos de dados em painel com coeficientes globais &eacute; incorporada pela varia&ccedil;&atilde;o do intercepto, representando os efeitos individuais n&atilde;o observados.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Primeiramente, ser&aacute; estimado o modelo econom&eacute;trico para a EKC do desmatamento da Amaz&ocirc;nia Legal, sem considerar os efeitos espaciais, com a seguinte especifica&ccedil;&atilde;o (modelo b&aacute;sico) representada na forma empilhada:</font></P>     <P>&nbsp;</P >     <P align="center"><img src="/img/revistas/resr/v49n3/a08tx02.jpg"></P >     <P>&nbsp;</P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O subscrito <I>t</I> para o painel de dados corresponde ao ano observado <I>t</I>=2001,2002,...,2006, para cada um dos <I>i</I> munic&iacute;pios da regi&atilde;o da Amaz&ocirc;nia Legal mapeados pelo sistema Prodes/Inpe, sendo <I>i</I> = 1, 2, 3,..., 782; <B>z </B>corresponde ao vetor com <I>k</I> vari&aacute;veis regressoras adicionais ao termo tradicional da EKC, a saber, BOV, SOJA, CANA, EXT_MAD, EXT_NMAD, SILV_MAD, DPOP, CR e FLO. Os dados comp&otilde;em um painel balanceado com4.692 observa&ccedil;&otilde;es. O <a href="#qd02">Quadro 2</a> descreve as vari&aacute;veis inclu&iacute;das no modelo. Adicionalmente, <I>&mu;</I> s&atilde;o os efeitos individuais (relacionadas a caracter&iacute;sticas do munic&iacute;pio, praticamente invariantes no tempo, tais como topografia, &aacute;reas protegidas, dist&acirc;ncia a mercados e outras), D<sub>t</sub> s&atilde;o vari&aacute;veis <I>dummies</I> anuais para captarem os efeitos temporais, sendo que t &eacute; um vetor de coeficientes associado a essas <I>dummies</I>; u<sub>t</sub> &eacute; o termo de erro aleat&oacute;rio, e <I>&alpha;</I><sub>1</sub>,...,4 e <I>&beta;</I><sub>1</sub>,...,9 s&atilde;o par&acirc;metros a serem estimados.</font></P>     <P><a name="qd02"></a></P>     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08qd02.jpg"></P>     <P>&nbsp;</P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O PIB <I>per capita </I>ao quadrado &eacute; inclu&iacute;do para testar a hip&oacute;tese da EKC de que o desmatamento cresce a taxas decrescentes para n&iacute;veis mais baixos de renda, e a partir de determinado ponto, a eleva&ccedil;&atilde;o do n&iacute;vel de renda reduz o desmatamento. O termo c&uacute;bico do PIB <I>per capita </I>&eacute; inclu&iacute;do para testar se essa rela&ccedil;&atilde;o segue uma forma de "N", ou seja, ap&oacute;s a redu&ccedil;&atilde;o, o desmatamento volta a aumentar com o n&iacute;vel de renda.</font></P>     <P ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo sem corre&ccedil;&atilde;o para efeitos espaciais especificado acima (modelo b&aacute;sico) &eacute; estimado pelo m&eacute;todo de efeitos fixos e efeitos aleat&oacute;rios e por M&iacute;nimos Quadrados Ordin&aacute;rios (MQO) com dados agrupados (<I>pooled</I>). Os crit&eacute;rios de avalia&ccedil;&atilde;o s&atilde;o os testes de Breusch-Pagan, <I>F</I> e Hausman (BAUM, 2006). Para a identifica&ccedil;&atilde;o do modelo, o termo de erro n&atilde;o deve estar correlacionado com as vari&aacute;veis explicativas (WOOLDRIDGE, 2002).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados para o modelo sem efeitos espaciais (modelo b&aacute;sico) s&atilde;o usados em compara&ccedil;&atilde;o com os modelos econom&eacute;tricos que incluem depend&ecirc;ncia espacial, descritos a seguir. Segundo Almeida (2008), a depend&ecirc;ncia espacial pode estar presente no termo de erro, na vari&aacute;vel dependente e/ou na vari&aacute;vel explicativa. Sua inclus&atilde;o no modelo depende da defini&ccedil;&atilde;o do arranjo espacial das observa&ccedil;&otilde;es, expressa pela matriz de pesos espaciais <I>W</I>. Os pesos s&atilde;o n&atilde;o nulos quando as observa&ccedil;&otilde;es s&atilde;o cont&iacute;guas, ou quando est&atilde;o dentro de uma certa dist&acirc;ncia uma da outra. A matriz de pesos espaciais cont&eacute;m a informa&ccedil;&atilde;o de quanto a intera&ccedil;&atilde;o &eacute; mais forte no caso de regi&otilde;es pr&oacute;ximas (geograficamente ou economicamente), e mais fraca no caso de regi&otilde;es mais distantes.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">H&aacute; v&aacute;rias formas alternativas de se definir a matriz de pesos espaciais: com base na contiguidade (formato "torre", com lados em comum, ou "rainha", com lados e arestas em comum), na dist&acirc;ncia geogr&aacute;fica, no inverso da dist&acirc;ncia, matriz bin&aacute;ria com <I>k</I> vizinhos mais pr&oacute;ximos (baseado em uma dist&acirc;ncia cr&iacute;tica definida para cada regi&atilde;o para que tenha exatamente um n&uacute;mero determinado de vizinhos &#150; <I>k</I>). A matriz de pesos espaciais <I>W </I>&eacute; escolhida com base na avalia&ccedil;&atilde;o da autocorrela&ccedil;&atilde;o espacial dos res&iacute;duos do modelo b&aacute;sico, seguindo o procedimento de Baumont (2004), que sugere que a escolha da matriz espacial seja sobre aquela capaz de captar maiores efeitos espaciais nos res&iacute;duos (indicado pelo maior valor de <I>I</I> de Moran).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os modelos de dados em painel com depend&ecirc;ncia espacial s&atilde;o testados nas especifica&ccedil;&otilde;es relacionadas no <a href="#qd03">Quadro 3</a>, onde tamb&eacute;m s&atilde;o relacionados os m&eacute;todos de estima&ccedil;&atilde;o. Se a depend&ecirc;ncia espacial estiver presente no termo de erro, tem-se o modelo de erro espacial; caso a depend&ecirc;ncia espacial esteja presente na vari&aacute;vel dependente, tem-se o modelo de defasagem espacial. Neste &uacute;ltimo caso, a vari&aacute;vel dependente defasada espacialmente &eacute; end&oacute;gena, uma vez que &eacute; altamente correlacionada com o termo de erro. Assim, no caso de efeitos fixos, as equa&ccedil;&otilde;es onde o termo <I>W1yt </I>aparece devem ser estimadas utilizando-se o estimador <I>within</I> com vari&aacute;veis instrumentais, pelo m&eacute;todo de M&iacute;nimos Quadrados em Dois Est&aacute;gios (MQ2E). As vari&aacute;veis instrumentais indicadas s&atilde;o as vari&aacute;veis explicativas e suas defasagens espaciais que, a princ&iacute;pio, possuem alta correla&ccedil;&atilde;o com a vari&aacute;vel dependente e n&atilde;o possuem correla&ccedil;&atilde;o com o termo de erro (KELEJIAN e PRUCHA, 1998). A estima&ccedil;&atilde;o das equa&ccedil;&otilde;es com o termo de erro defasado espacialmente deve ser feita por m&aacute;xima verossimilhan&ccedil;a, no caso de erros com distribui&ccedil;&atilde;o normal, ou pelo m&eacute;todo generalizado dos momentos &#150; MGM, que prescinde da normalidade dos erros (LEE, 2007; BELL e BOCKSTAEL, 2000). A depend&ecirc;ncia espacial pode tamb&eacute;m estar presente na vari&aacute;vel explicativa, no caso do modelo de transbordamentos espaciais ou regressivo cruzado espacial, onde o estimador <I>within</I> &eacute; o mais apropriado, no caso da presen&ccedil;a de efeitos fixos.</font></P>     <P><a name="qd03"></a></P>     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08qd03.jpg"></P>     <P>&nbsp;</P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados dos modelos de dados em painel com depend&ecirc;ncia espacial s&atilde;o avaliados com base na remo&ccedil;&atilde;o da autocorrela&ccedil;&atilde;o espacial dos res&iacute;duos dos cortes cruzados de cada ano de observa&ccedil;&atilde;o e, entre os modelos que atenderem este crit&eacute;rio, &eacute; escolhido o que se ajusta melhor aos dados observados, com base no Crit&eacute;rio de Informa&ccedil;&atilde;o de Akaike (menor AIC). Antes, por&eacute;m, &eacute; feita uma an&aacute;lise explorat&oacute;ria de dados espaciais, com o mapeamento dos padr&otilde;es de associa&ccedil;&atilde;o espacial.</font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para uma identifica&ccedil;&atilde;o adequada do modelo, deve-se atentar para as fontes de m&aacute;-especifica&ccedil;&atilde;o relacionadas na literatura (WOOLDRIDGE, 2002; ALMEIDA, 2008), a saber: </font></P >     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">a. Vi&eacute;s de sele&ccedil;&atilde;o;     <br>   b. Erro de medida nas vari&aacute;veis;     <br>   c. Omiss&atilde;o de vari&aacute;veis observ&aacute;veis relevantes;     <br>   d. Omiss&atilde;o de vari&aacute;veis n&atilde;o observ&aacute;veis relevantes;     <br>   e. Depend&ecirc;ncia espacial;     <br>     f. Forma funcional errada. </font></p> </blockquote>     <P ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este trabalho utiliza dados de todos os munic&iacute;pios da regi&atilde;o da Amaz&ocirc;nia Legal, ou seja, dados referentes a toda a popula&ccedil;&atilde;o, o que resolve a primeira fonte de m&aacute;-especifica&ccedil;&atilde;o relacionada, vi&eacute;s de sele&ccedil;&atilde;o. A segunda fonte de m&aacute;-especifica&ccedil;&atilde;o, erro de medida nas vari&aacute;veis, &eacute; minimizada pela escolha da abrang&ecirc;ncia temporal: a partir de 2000, tem-se a revis&atilde;o metodol&oacute;gica para os dados de &aacute;rea desmatada provenientes do sistema Prodes (Inpe) e, a partir de 2001, a malha municipal da regi&atilde;o n&atilde;o sofre grandes altera&ccedil;&otilde;es. Os dados de &aacute;rea desmatada, entretanto, n&atilde;o computam &aacute;reas com regenera&ccedil;&atilde;o florestal, que podem ser novamente desmatadas ou n&atilde;o, o que seria importante para representar a din&acirc;mica de abandono e retomada das terras para atividades produtivas (lavoura e pastagens). Essas &aacute;reas de matas secund&aacute;rias chegam a 20% da floresta desmatada, em estimativa preliminar do Inpe, e ser&atilde;o monitoradas anualmente a partir de 2009 (INPE, 2009), n&atilde;o estando estes dados dispon&iacute;veis para o per&iacute;odo deste estudo.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A terceira fonte de m&aacute;-especifica&ccedil;&atilde;o relacionada, a omiss&atilde;o de vari&aacute;veis observ&aacute;veis relevantes, &eacute; tratada com a inclus&atilde;o das vari&aacute;veis explicativas adicionais ao termo da EKC (<a href="#qd02">Quadro 2</a>), buscando-se identificar a rela&ccedil;&atilde;o entre o desmatamento da regi&atilde;o e as atividades agropecu&aacute;rias.</font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A omiss&atilde;o de vari&aacute;veis n&atilde;o observ&aacute;veis relevantes, outra fonte de m&aacute;-especifica&ccedil;&atilde;o, &eacute; minimizada com a utiliza&ccedil;&atilde;o de dados em painel, que trata a omiss&atilde;o de vari&aacute;veis relevantes que n&atilde;o variam no tempo de an&aacute;lise.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Consideram-se, entre estas &uacute;ltimas, as caracter&iacute;sticas do munic&iacute;pio praticamente invariantes no tempo do estudo, tais como topografia, &aacute;reas protegidas, dist&acirc;ncia a mercados, proximidade de rodovias etc., que s&atilde;o vari&aacute;veis relacionadas ao desmatamento em estudos anteriores que usaram dados em <I>cross-section</I> (vide se&ccedil;&atilde;o 2). Para tratar a quinta fonte de m&aacute;-especifica&ccedil;&atilde;o relacionada, ser&atilde;o utilizados procedimentos econom&eacute;tricos que levam em considera&ccedil;&atilde;o os efeitos de depend&ecirc;ncia espacial gerados pelo processo de desmatamento (modelos de dados em painel com depend&ecirc;ncia espacial). A &uacute;ltima fonte de m&aacute;-especifica&ccedil;&atilde;o citada, forma funcional errada, foi objeto de investiga&ccedil;&atilde;o em trabalho anterior.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os softwares utilizados para a an&aacute;lise explorat&oacute;ria de dados espaciais foram: Spacestat (e Arcview) e GeoDa. Os softwares utilizados para estima&ccedil;&atilde;o dos modelos foram: Stata 9 e Eviews 6.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#tab01">Tabela 1</a> apresenta uma estat&iacute;stica descritiva dos dados. O <a href="/img/revistas/resr/v49n3/a08app.jpg">ap&ecirc;ndice A</a> apresenta a tabela de correla&ccedil;&atilde;o entre as vari&aacute;veis.</font></P>     <P><a name="tab01"></a></P>     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08tab01.jpg"></P>     <P>&nbsp;</P>     <P><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Resultados e discuss&atilde;o</b></font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><I>4.1. An&aacute;lise explorat&oacute;ria de dados espaciais </I></b></font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A An&aacute;lise Explorat&oacute;ria de Dados Espaciais (Aede) mostrou a presen&ccedil;a de autocorrela&ccedil;&atilde;o espacial global para o desmatamento na regi&atilde;o, em um padr&atilde;o de concentra&ccedil;&atilde;o: o menor valor para o <I>I</I> de Moran foi de 0,4132 em 2006, e o maior valor foi de 0,5187, em 2004. O Mapa 1 indica a exist&ecirc;ncia de <I>clusters</I> do tipo Alto-Alto em parte do Arco do Povoamento Adensado e parte da Amaz&ocirc;nia Central, isto &eacute;, agrupamentos de munic&iacute;pios com altos valores de desmatamento pr&oacute;ximos a munic&iacute;pios que apresentam tamb&eacute;m altos valores de &aacute;rea desmatada no per&iacute;odo. A Aede realizada para o contexto bivariado (&aacute;rea desmatada anual e PIB <I>per capita</I> municipal) mostra resultados mais diversos do que os encontrados no contexto univariado (veja Mapa 2). O grande <I>cluster</I> do desmatamento na regi&atilde;o central do Arco do Povoamento Adensado e Amaz&ocirc;nia Central apresenta dois padr&otilde;es distintos de rela&ccedil;&atilde;o com o PIB <I>per capita</I>: </font></P > <OL   type="1" >   <LI ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A por&ccedil;&atilde;o que abrange o estado de Mato Grosso e sudeste do Par&aacute; apresenta um padr&atilde;o de associa&ccedil;&atilde;o local Alto-Alto, ou seja, os munic&iacute;pios com alto PIB <I>per capita</I> s&atilde;o vizinhos de munic&iacute;pios com alto desmatamento;     </P >   </font></LI >   <LI ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O restante do estado do Par&aacute; e Amazonas apresenta padr&otilde;es de associa&ccedil;&atilde;o local Baixo-Alto, ou seja, munic&iacute;pios com menores valores para o PIB <I>per capita</I> s&atilde;o rodeados por munic&iacute;pios com alto desmatamento.     </P >   </font></LI > </OL >     <P ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outros pequenos <I>clusters</I> com outros padr&otilde;es de associa&ccedil;&atilde;o s&atilde;o tamb&eacute;m observados. De modo global, a autocorrela&ccedil;&atilde;o espacial bivariada ocorre no padr&atilde;o de concentra&ccedil;&atilde;o, por&eacute;m com menor intensidade (menores valores para o<I>I</I> de Moran &#150; entre 0,0548 e 0,1379) do que no contexto univariado.</font></P>     <P >&nbsp;</P>     <P align="center" ><img src="/img/revistas/resr/v49n3/a08fig02.jpg"></P>     <P >&nbsp;</P>     <P >&nbsp;</P>     <P align="center" ><img src="/img/revistas/resr/v49n3/a08fig03.jpg"></P>     <P >&nbsp;</P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B><I>4.2. Resultados dos modelos de base </I></B></font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esta subse&ccedil;&atilde;o e a pr&oacute;xima (subse&ccedil;&atilde;o 4.3) apresentam as equa&ccedil;&otilde;es estimadas para o conjunto de dados relativo aos 782 munic&iacute;pios da Amaz&ocirc;nia Legal, monitorados pelo sistema Prodes (Inpe) para detec&ccedil;&atilde;o do incremento anual da &aacute;rea desmatada na regi&atilde;o, no per&iacute;odo de 2001 a 2006. Os modelos estimados s&atilde;o os relacionados na se&ccedil;&atilde;o anterior, a saber: (0) modelo sem corre&ccedil;&atilde;o para depend&ecirc;ncia espacial, (1) modelo de defasagem espacial, (2) modelo de erro espacial, (3) modelo regressivo cruzado espacial, (4) modelo de Durbin espacial, e (5) modelo de erro espacial e transbordamentos espaciais.</font></P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo (0) sem corre&ccedil;&atilde;o para depend&ecirc;ncia espacial, considerado o modelo-base, foi estimado por: </font></P >     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1. MQO com os dados combinados (<I>pooledOLS</I>);</font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2. Considerando efeitos aleat&oacute;rios em dados em painel por meio de M&iacute;nimos Quadrados Generalizados Exequ&iacute;veis (MQGE);</font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3. Considerando efeitos fixos por meio do estimador <I>within</I>. A <a href="#tab02">Tabela 2</a> apresenta os resultados obtidos para estas estima&ccedil;&otilde;es, bem como os resultados para os testes de Breusch-Pagan, <I>F</I> e Hausman.</font></p> </blockquote>     <P>&nbsp;</P>     <P><a name="tab02"></a></P>     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08tab02.jpg"></P>     <P>&nbsp;</P>     ]]></body>
+<body><![CDATA[<P ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com estes resultados, o modelo que considera efeitos n&atilde;o observados mostra-se mais adequado do que o estimado por MQO: o teste de Breusch-Pagan para efeitos n&atilde;o observados apresenta-se significativo, assim, rejeita-se a hip&oacute;tese nula de que a vari&acirc;ncia dos efeitos n&atilde;o observados &eacute; zero. Nesse caso, ao n&atilde;o considerar os efeitos n&atilde;o observados, as estimativas por MQO s&atilde;o inconsistentes e enviesadas. Tamb&eacute;m, o modelo estimado por efeitos fixos &eacute; prefer&iacute;vel ao modelo de dados agrupados estimado por MQO: o resultado do teste <I>F</I> indica que deve ser rejeitada a hip&oacute;tese nula de que s&atilde;o corretas as restri&ccedil;&otilde;es de interceptos iguais para ambos os modelos. Al&eacute;m disso, quando comparado com o modelo estimado por MQO, o modelo estimado por efeitos fixos apresenta menor valor para o crit&eacute;rio de informa&ccedil;&atilde;o de Akaike (10.928 contra 5.199, respectivamente), indicando melhor ajuste deste &uacute;ltimo modelo.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo de efeitos aleat&oacute;rios foi comparado ao modelo estimado por efeitos fixos por meio do teste de Hausman (<a href="#tab02">Tabela 2</a>). A hip&oacute;tese nula do teste de que n&atilde;o h&aacute; diferen&ccedil;a sistem&aacute;tica nos coeficientes estimados pelos dois m&eacute;todos (e, portanto, as estimativas por efeitos aleat&oacute;rios seriam consistentes), &eacute; rejeitada com 1% de signific&acirc;ncia. Assim, o modelo estimado por efeitos fixos &eacute; favorecido em detrimento do modelo que considera efeitos aleat&oacute;rios. Este resultado est&aacute; de acordo com o esperado, pois muitos dos determinantes do desmatamento s&atilde;o caracter&iacute;sticas peculiares ao munic&iacute;pio e praticamente invariantes no per&iacute;odo de estudo, tais como potencial agropecu&aacute;rio do solo (SILVA, 2006), pluviosidade (CHOMITZ e THOMAS, 2003), &aacute;reas protegidas (TRANCOSO et al., 2005; FERREIRA et al., 2005, VITEL et al., 2009), dist&acirc;ncia de mercados (PFAFF, 1999). Al&eacute;m disso, neste artigo, trabalha-se com a popula&ccedil;&atilde;o de munic&iacute;pios da Amaz&ocirc;nia Legal e n&atilde;o com uma amostra aleat&oacute;ria.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os seguintes resultados s&atilde;o obtidos com o modelo estimado por efeitos fixos: as vari&aacute;veis relativas ao rebanho bovino (BOV), soja (SOJA), cr&eacute;dito rural (CR) e extra&ccedil;&atilde;o de produtos madeireiros (EXT_MAD) s&atilde;o significativas e apresentam os coeficientes com o sinal esperado (positivo). A vari&aacute;vel relativa &agrave; &aacute;rea de floresta anterior (FLO) &eacute; tamb&eacute;m significativa e positivamente correlacionada ao incremento anual do desmatamento, indicando que o desmatamento anual &eacute; maior onde h&aacute; maior &aacute;rea de floresta preexistente. Este resultado tamb&eacute;m indica que o desmatamento anual &eacute; menor onde h&aacute; pouca &aacute;rea de floresta (a desmatar), o que representa um efeito inercial do processo de desmatamento.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A rela&ccedil;&atilde;o entre desmatamento anual e PIB <I>per capita</I> municipal (Y, Y2, Y3) n&atilde;o &eacute; significativa, n&atilde;o se verificando, portanto, a hip&oacute;tese da EKC no &acirc;mbito da Amaz&ocirc;nia Legal para o per&iacute;odo em estudo. Todas as vari&aacute;veis <I>dummies</I> temporais se apresentaram significativas e com sinal negativo em rela&ccedil;&atilde;o ao ano de 2001. A heterogeneidade espacial n&atilde;o observ&aacute;vel da regi&atilde;o est&aacute; contemplada por meio dos interceptos destas estima&ccedil;&otilde;es de dados em painel.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Uma vari&aacute;vel <I>dummy </I>(OUTLIER) foi inclu&iacute;da para captar os efeitos dos <I>outliers </I>superiores, que, na An&aacute;lise Explorat&oacute;ria de Dados Espaciais, demonstraram ser pontos de alavancagem, isto &eacute;, refor&ccedil;am o padr&atilde;o de desmatamento observado. Em todos os modelos, esta vari&aacute;vel mostrou-se significativa.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; identifica&ccedil;&atilde;o do modelo, cumpre-se a primeira hip&oacute;tese que assume que o termo de erro n&atilde;o est&aacute; correlacionado com as vari&aacute;veis explicativas. A <a href="#tab03">Tabela 3</a> apresenta os valores de correla&ccedil;&atilde;o entre os res&iacute;duos do modelo estimado por efeitos fixos e as vari&aacute;veis explicativas: para todas as vari&aacute;veis o valor da correla&ccedil;&atilde;o &eacute; zero, indicando que n&atilde;o h&aacute; problemas de endogeneidade com as vari&aacute;veis explicativas consideradas at&eacute; o momento.</font></P>     <P><a name="tab03"></a></P>     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08tab03.jpg"></P>     <P>&nbsp;</P>     ]]></body>
+<body><![CDATA[<P><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B><I>4.3. Resultados dos modelos com corre&ccedil;&atilde;o para depend&ecirc;ncia espacial </I></B></font></P >     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A import&acirc;ncia da estima&ccedil;&atilde;o dos modelos com corre&ccedil;&atilde;o para a depend&ecirc;ncia espacial foi detectada por meio da an&aacute;lise dos res&iacute;duos do modelo-base estimado por efeitos fixos, apresentado na subse&ccedil;&atilde;o anterior. O teste de <I>I</I> de Moran indicou a presen&ccedil;a de autocorrela&ccedil;&atilde;o espacial nos res&iacute;duos de todos os anos analisados. Assim, mostra-se relevante a estima&ccedil;&atilde;o de modelos com corre&ccedil;&atilde;o para a depend&ecirc;ncia espacial encontrada nos res&iacute;duos. Em fun&ccedil;&atilde;o da n&atilde;o normalidade dos res&iacute;duos indicada pelo teste de Jarque-Bera para o modelo-base estimado para cada ano separadamente, o modelo de erro espacial foi estimado pelo M&eacute;todo Generalizado dos Momentos (MGM), e n&atilde;o por m&aacute;xima verossimilhan&ccedil;a (BELL e BOCKSTAEL, 2000; LEE, 2007). Al&eacute;m disso, o teste de Koenker-Bassett para avalia&ccedil;&atilde;o de heterocedasticidade indica a presen&ccedil;a desta para todos os anos; assim, todos os modelos s&atilde;o estimados com corre&ccedil;&atilde;o da matriz de White.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para os modelos espaciais, inicialmente, s&atilde;o geradas as vari&aacute;veis defasadas espacialmente por meio da opera&ccedil;&atilde;o da matriz de pesos espaciais sobre as vari&aacute;veis dependente, explicativas e res&iacute;duos da regress&atilde;o por efeitos fixos. A escolha da matriz de pesos espaciais seguiu o procedimento de Baumont (2004) para comparar os valores de <I>I</I> de Moran obtidos com o uso das matrizes de pondera&ccedil;&atilde;o espacial baseadas na dist&acirc;ncia, dist&acirc;ncia inversa, dist&acirc;ncia inversa ao quadrado, matrizes de contiguidade (torre e rainha), al&eacute;m das matrizes de <I>k</I>-vizinhos. Os resultados indicaram que a autocorrela&ccedil;&atilde;o espacial dos res&iacute;duos da regress&atilde;o &eacute; melhor captada com as matrizes torre e <I>k</I>-vizinhos igual a 2 (para as quais foram obtidos os maiores valores de <I>I</I> de Moran), para os per&iacute;odos analisados (2001 a 2006). Assim, as vari&aacute;veis dependente e explicativas foram defasadas espacialmente com a matriz de pesos espaciais torre (indicada como W1 na especifica&ccedil;&atilde;o dos modelos), enquanto os res&iacute;duos da regress&atilde;o foram defasados espacialmente com a matriz de pesos espaciais de <I>k</I>-vizinhos igual a 2 (indicada como W2 nas equa&ccedil;&otilde;es especificadas).</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados num&eacute;ricos s&atilde;o apresentados na <a href="#tab04">Tabela 4</a>. Entre todos os modelos estimados para a regi&atilde;o da Amaz&ocirc;nia Legal, considerada integralmente, o modelo que melhor se ajusta aos dados &eacute; o modelo de erro espacial com transbordamentos espaciais (modelo 5). O modelo (5) apresenta como vari&aacute;veis significativas as indicadas pelo modelo-base estimado por efeitos fixos, com exce&ccedil;&atilde;o da SOJA e extra&ccedil;&atilde;o de produtos madeireiros (EXT_MAD), ou seja, as vari&aacute;veis relativas ao rebanho bovino, cr&eacute;dito rural e &aacute;rea de floresta anterior (BOV, CR e FLO), j&aacute; discutidas acima. Al&eacute;m delas, s&atilde;o significativas as vari&aacute;veis relativas ao PIB municipal <I>per capita</I> (Y2, Y3), indicando a presen&ccedil;a de uma rela&ccedil;&atilde;o na forma de "N" invertido.</font></P>     <P><a name="tab04"></a></P>     <P>&nbsp;</P>     <P align="center"><img src="/img/revistas/resr/v49n3/a08tab04.jpg"></P>     <P>&nbsp;</P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As vari&aacute;veis relativas &agrave; renda defasadas espacialmente (WY, WY2 e WY3) significativas indicam que o desmatamento em um munic&iacute;pio &eacute; influenciado pela vizinhan&ccedil;a de uma rela&ccedil;&atilde;o na forma de "N". As vari&aacute;veis WSOJA, WBOV e WCR s&atilde;o significativas e apresentam coeficientes positivos, indicando que o cultivo de soja, a pecu&aacute;ria e o cr&eacute;dito rural em munic&iacute;pios vizinhos contribuem para o desmatamento em determinado munic&iacute;pio. Ao contr&aacute;rio, as vari&aacute;veis WCANA e WEXTNM se apresentam negativamente relacionadas ao desmatamento, indicando que a presen&ccedil;a de atividades de cultivo de cana-de-a&ccedil;&uacute;car e extra&ccedil;&atilde;o de produtos n&atilde;o madeireiros nos munic&iacute;pios vizinhos contribui para um menor desmatamento. O par&acirc;metro &lambda; do termo de erro espacial &eacute; significativo e positivo. O valor do AIC &eacute; o segundo menor entre todos os modelos para os quais este crit&eacute;rio de informa&ccedil;&atilde;o foi calculado (4701). A an&aacute;lise dos res&iacute;duos pelo <I>I</I> de Moran indica a remo&ccedil;&atilde;o da depend&ecirc;ncia espacial para todos os anos estudados para pelo menos uma matriz de pondera&ccedil;&atilde;o espacial, com exce&ccedil;&atilde;o de 2006.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cabe ressaltar que para nenhum dos modelos a hip&oacute;tese da EKC tradicional foi verificada: ao contr&aacute;rio, os resultados obtidos para o melhor modelo evidenciam uma rela&ccedil;&atilde;o entre desmatamento e crescimentoem formato de "N" invertido, em que a &aacute;rea desmatada decresce para baixos n&iacute;veis de PIB <I>per capita</I>, torna-se crescente &agrave; medida que os n&iacute;veis de renda se elevam, em seguida tornando-se decrescente para os n&iacute;veis de renda mais elevados.<a name="tx02"></a><Sup><a href="#nt02">2</a></Sup> Uma interpreta&ccedil;&atilde;o para este formato da rela&ccedil;&atilde;o poderia ser a seguinte: </font></P> <OL   type="1" >   <LI ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A ocupa&ccedil;&atilde;o inicial causa o desmate da &aacute;rea, sem gerar renda neste primeiro momento;     </P >   </font></LI >   <LI ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A atividade ali instalada de maneira incipiente gera renda ainda pequena;     </P >   </font></LI >   <LI ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Agrave; medida que 	a renda se eleva, expande-se tamb&eacute;m a atividade, causando mais desmatamento;     </P >   </font></LI >   <LI ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com n&iacute;veis de renda mais elevados, disp&otilde;e-se de mais acesso 	a informa&ccedil;&atilde;o e educa&ccedil;&atilde;o, o que pode levar &agrave; uma maior produtividade da atividade desenvolvida no local e tamb&eacute;m ao conhecimento das quest&otilde;es ambientais, diminuindo a press&atilde;o sobre a floresta. Entretanto, como os pontos de inflex&atilde;o relativos aos pontos de m&iacute;nimo e m&aacute;ximo locais<a name="tx03"></a><a href="#nt03"><Sup>3</Sup></a> situam-se, aproximadamente, entre zero e R$ 78.000 (um valor de PIB <I>per capita</I> municipal bem acima da m&eacute;dia da regi&atilde;o), h&aacute; a indica&ccedil;&atilde;o de que a grande parte dos munic&iacute;pios encontra-se na fase intermedi&aacute;ria dessa rela&ccedil;&atilde;o (parte ascendente da curva) e ainda apresentar&aacute; aumento do desmatamento com o crescimento econ&ocirc;mico.</font></LI > </OL >     ]]></body>
+<body><![CDATA[<P>&nbsp;</P>     <P><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>5. Conclus&atilde;o </B></font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este trabalho investigou a hip&oacute;tese da Curva de Kuznets Ambiental (EKC) para a regi&atilde;o da Amaz&ocirc;nia Legal, isto &eacute;, se existe uma rela&ccedil;&atilde;o entre um indicador de degrada&ccedil;&atilde;o ambiental e crescimento econ&ocirc;mico da regi&atilde;o, na forma de "U" invertido. O indicador de degrada&ccedil;&atilde;o ambiental mais relevante, neste caso, &eacute; o desmatamento, expresso pelo incremento anual da &aacute;rea desmatada (em km<Sup>2</Sup>), monitorado pelo Sistema Prodes (Inpe), para os munic&iacute;pios da regi&atilde;o. O crescimento econ&ocirc;mico foi expresso pelo PIB <I>per capita</I> municipal. O estudo abrange o per&iacute;odo de 2001 a 2006.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O desmatamento &eacute; um processo de forte natureza espacial, uma vez que acontece principalmente nas vizinhan&ccedil;as de &aacute;reas desmatadas anteriormente. Para contemplar este aspecto, a considera&ccedil;&atilde;o de efeitos espaciais nos estudos sobre desmatamento tem-se mostrado importante. Este trabalho contribuiu com uma an&aacute;lise econom&eacute;trico-espacial, utilizando um painel de dados mais extenso que os de estudos anteriores. Al&eacute;m da EKC, outras vari&aacute;veis explicativas, relatadas em literatura como condicionantes do processo de desmatamento, foram inclu&iacute;das no modelo econom&eacute;trico: rebanho bovino, &aacute;reas cultivadas de soja e cana-de-a&ccedil;&uacute;car, extra&ccedil;&atilde;o de produtos madeireiros e n&atilde;o madeireiros, silvicultura de produtos madeireiros, densidade populacional, cr&eacute;dito rural e exist&ecirc;ncia de floresta anterior.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A an&aacute;lise econom&eacute;trica parte de um modelo global para o desmatamento na Amaz&ocirc;nia, e a estima&ccedil;&atilde;o por efeitos fixos mostra-se a mais apropriada. Este fato est&aacute; de acordo com o esperado, pois muitos dos determinantes do desmatamento s&atilde;o caracter&iacute;sticas peculiares ao munic&iacute;pio e praticamente invariantes no per&iacute;odo de estudo, tais como potencial agropecu&aacute;rio do solo, pluviosidade, &aacute;reas protegidas e dist&acirc;ncia de mercados.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O modelo-base, entretanto, n&atilde;o indica a presen&ccedil;a de uma rela&ccedil;&atilde;o do tipo da EKC em nenhuma de suas formas. V&aacute;rios modelos espaciais foram estimados alternativamente, e o que melhor se ajusta aos dados (com base na maior remo&ccedil;&atilde;o da autocorrela&ccedil;&atilde;o espacial dos res&iacute;duos e menor valor de AIC) &eacute; o modelo de erro espacial com transbordamentos espaciais. Neste &uacute;ltimo, as vari&aacute;veis relativas ao rebanho bovino, cr&eacute;dito rural e &aacute;rea de floresta preexistente afetam positivamente o desmatamento. A rela&ccedil;&atilde;o entre desmatamento e crescimento econ&ocirc;mico &eacute; verificada na forma de "N" invertido, ou seja, o desmatamento &eacute; decrescente para baixos n&iacute;veis de PIB <I>per capita</I>, para depois crescer &agrave; medida que o PIB <I>per capita</I> se eleva, e torna-se decrescente novamente para n&iacute;veis mais elevados de PIB <I>per capita</I>. A presen&ccedil;a da rela&ccedil;&atilde;o da rela&ccedil;&atilde;o na forma de "N" nos munic&iacute;pios vizinhos mostra-se significativa. Ainda quanto aos transbordamentos espaciais, o cultivo de soja e a pecu&aacute;ria em munic&iacute;pios vizinhos contribuem para o desmatamento em determinado munic&iacute;pio; e, ao contr&aacute;rio, a presen&ccedil;a de atividades de cultivo de cana-de-a&ccedil;&uacute;car e extra&ccedil;&atilde;o de produtos n&atilde;o madeireiros nos munic&iacute;pios vizinhos contribui para um menor desmatamento.</font></P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O fato de a rela&ccedil;&atilde;o entre desmatamento e crescimento econ&ocirc;mico da regi&atilde;o amaz&ocirc;nica poder ser expressa por meio de uma rela&ccedil;&atilde;o na forma de "N" invertido indica que h&aacute; uma perspectiva de redu&ccedil;&atilde;o do desmatamento em n&iacute;veis mais altos de renda, ap&oacute;s uma fase de crescimento econ&ocirc;mico com degrada&ccedil;&atilde;o ambiental. Entretanto, a maior parte dos munic&iacute;pios encontra-se na fase ascendente dessa rela&ccedil;&atilde;o. Aumento de produtividade nas &aacute;reas desmatadas, fortalecimento institucional para a prote&ccedil;&atilde;o da floresta e maior consci&ecirc;ncia ambiental por meio de educa&ccedil;&atilde;o e acesso &agrave; informa&ccedil;&atilde;o s&atilde;o fatores que podem levar ao efeito esperado de redu&ccedil;&atilde;o do desmatamento. Pol&iacute;ticas p&uacute;blicas voltadas para estas quest&otilde;es t&ecirc;m a capacidade de reduzir a altura e a convexidade da rela&ccedil;&atilde;o, acelerando o processo de redu&ccedil;&atilde;o do desmatamento.</font></P>     <P>&nbsp;</P>     <P><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>6. Refer&ecirc;ncias Bibliogr&aacute;ficas </B></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AGUIAR, A.P.; C&Acirc;MARA, G.; ESCADA, M.I.S. Spatial statistical analysis of land-use determinants in the Brazilian Amazonia: Exploring intra-regional heterogeneity. <I>Ecological Modelling</I><B>,</B> 209, 2007. p.169-188.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003201100030000800001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALMEIDA, E. S. <I>Econometria Espacial Aplicada</I>. Curso de Mestrado em Economia Aplicada, Universidade Federal de Juiz de Fora, 2008. Mimeografado.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003201100030000800002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Acirc;NGELO, H.; PEREIRA DE S&Aacute;, S.P. Deforestation in BrazilianAmazon, <I>Ci&ecirc;ncia Florestal</I>, Santa Maria, v. 17, n&ordm; 3, jul-set, 2007. p. 217-227.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003201100030000800003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ARA&Uacute;JO, C. et al. Property rights and deforestation in the Brazilian Amazon. <I>Ecological Economics</I> (2009), doi: 10.1016/j.ecolecon. 2008.12.015</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003201100030000800004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARBIER, E.B.; BURGESS, J.C.The Economics of Tropical Deforestation.<I> Journal of Economic Surveys</I>, v.5, n&ordm;3, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003201100030000800005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BATTHARAI, M.; HAMMIG, M. Institutions and Environmental Kuznets Curve for Deforestation: a Crosscountry analysis for Latin America, Africa and Asia. <I>World Development</I>, v.29, n&ordm;6, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003201100030000800006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BAUM, C.F. <I>An Introduction to Modern Econometrics Using Stata</I>. Stata Press, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003201100030000800007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BAUMONT, C. <I>Spatial effects in housing price models: do housing prices capitalize urban development policies in the agglomeration of Dijon (1999)?</I> Mimeo., Universit&eacute; de Bourgogne, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003201100030000800008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BELL, K.P.; BOCKSTAEL, N.E. Applying The Generalized-Moments Estimation Approach To Spatial Problems Involving Microlevel Data.<I> The Review of Economics and Statistics</I>, v. 82, n&ordm;1, 2000. p. 72&#150;82.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003201100030000800009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BECKER, B.K. Geopol&iacute;tica da Amaz&ocirc;nia. <I>Estudos Avan&ccedil;ados</I>, 19 (53), 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003201100030000800010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BRASIL. Lei Complementar n&ordm; 124, de 3 de janeiro de 2007. Texto digitalizado. Dispon&iacute;vel em <a href="http://www2.camara.gov.br/internet/legislacao/legin.html/visualizarNorma.html?ideNorma=548988" target="_blank">http://www2.camara.gov.br/internet/legislacao/legin.html/ visualizarNorma.html?ideNorma=548988</a> . Acesso em fev. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003201100030000800011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">_______. Presid&ecirc;ncia da Rep&uacute;blica. <I>Plano Amaz&ocirc;nia Sustent&aacute;vel: diretrizes para o desenvolvimento sustent&aacute;vel da Amaz&ocirc;nia Brasileira</I>. Bras&iacute;lia, 2008. 112 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003201100030000800012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BROWN, J.C. et al. Soybean Production and Conversion of Tropical Forest in the Brazilian Amazon: The Case of Vilhena, Rondonia. <I>Ambio</I> Vol. 34, n&ordm;6, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003201100030000800013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CALDAS, M.M. et al. Ciclo de Vida da Fam&iacute;lia e Desmatamento na Amaz&ocirc;nia: Combinando Informa&ccedil;&otilde;es de Sensoriamento Remoto com Dados Prim&aacute;rios. <I>Revista Brasileira de Economia</I>, 57(4): 683-711, Rio de Janeiro, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003201100030000800014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CARVALHO, T. S. <I>A Hip&oacute;tese da Curva de Kuznets Ambiental Global e o Protocolo de Quioto</I>. 2008. 130 f. Disserta&ccedil;&atilde;o (Mestrado em Economia Aplicada). Faculdade de Economia e Administra&ccedil;&atilde;o, Universidade Federal de Juiz de Fora, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003201100030000800015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHIMELI, A.B. Growth and the environment: Are we looking at the right data? <I>Economics Letters</I>, n&ordm;96, 2007. p. 89&#150;96.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003201100030000800016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHOMITZ, K.M.; THOMAS, T.S., Determinans of Land Use in Amaz&ocirc;nia: A fine-scale Spatial Analysis. <I>American Journal of Agricultural Economics</I>. 85(4), 2003. p. 1016&#150;1028.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003201100030000800017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CIRIACI, D., PALMA, D. Geography, enviromental efficiency and economic growth: how to uncover localized externalities through spatial econometric modeling. <I>SEA, III World Conference</I>.Barcelona, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003201100030000800018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CULAS, R.J. Deforestation and the environmental Kuznets curve: An institutional perspective. <I>Ecological Economics</I>, v.61, 2007. p. 429-437.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0103-2003201100030000800019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DE BRUYN, S. M.; VAN DEN BERGH, J. C. J. M.; OPSCHOOR, J. B. Economic Growth and Emissions: reconsidering the empirical basis of environmental Kuznets curves. <I>Ecological Economics</I>, vol. 25, 1998. p. 161-175.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0103-2003201100030000800020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ELHORST, J.P. Specification and estimation of spatial panel data models. <I>International Regional Science Review</I>, vol. 26, n&ordm;3, 2003. p. 224-268.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0103-2003201100030000800021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">EWERS, R.M.; LAURANCE, W.F.; SOUZA JR, C.M. Temporal fluctuations in Amazonian deforestation rates. <I>Environmental Conservation</I>, v.35, n&ordm;4, 2008. p. 303&#150;310.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0103-2003201100030000800022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FERREIRA, A.M.M.; SALATI, E. For&ccedil;as de transforma&ccedil;&atilde;o do ecossistema amaz&ocirc;nico. <I>Estudos Avan&ccedil;ados</I>, 19 (54), 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S0103-2003201100030000800023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FERREIRA, L.V.; VENTICINQUE, E.; ALMEIDA, S.O desmatamento na Amaz&ocirc;nia e a import&acirc;ncia das &aacute;reas protegidas. <I>Estudos avan&ccedil;ados</I>, v.19, n&ordm;53, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000197&pid=S0103-2003201100030000800024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GOMES, S.C.; BRAGA, M.J. <I>Desenvolvimento Econ&ocirc;mico e Desmatamento na Amaz&ocirc;nia Legal: uma an&aacute;lise econom&eacute;trica</I>. Trabalho apresentado no XLVI Congresso da Sociedade Brasileira de Economia, Administra&ccedil;&atilde;o e Sociologia Rural (SOBER), 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S0103-2003201100030000800025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">IGLIORI, D.C. <I>Deforestation, Growth and Agglomeration Effects: Evidence from Agriculture in the Brazilian Amazon</I>. XXXIV Encontro Nacional de Economia. ANPEC, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000201&pid=S0103-2003201100030000800026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">INPE &#150; INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS. <I>Relat&oacute;rio Monitoramento da Cobertura florestal da Amaz&ocirc;nia por Sat&eacute;lites. Sistemas PRODES, DETER, DEGRAD E QUEIMADAS 2007-2008</I>. INPE, Minist&eacute;rio da Ci&ecirc;ncia e Tecnologia, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000203&pid=S0103-2003201100030000800027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">_______. <I>CRA/INPE mapeia vegeta&ccedil;&atilde;o secund&aacute;ria do Par&aacute;, Mato Grosso e Amap&aacute;</I>. Dispon&iacute;vel em <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=1934" target="_blank">http://www.inpe.br/noticias/noticia.php?Cod_Noticia=1934</a>. Acesso em set. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000205&pid=S0103-2003201100030000800028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KAIMOWITZ, D.; ANGELSEN, A. <I>Economic Models of Tropical Deforestation: </I>a Review. CIFOR, Jacarta, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000207&pid=S0103-2003201100030000800029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KELEJIAN, H.; PRUCHA, I. A generalized spatial two stage least squares procedure for estimating a spatial autoregressive model with autoregressive disturbances. <I>Journal of Real Estate Finance and Economics</I>, n&ordm; 17, p. 99&#150;121, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000209&pid=S0103-2003201100030000800030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LEE, L.-f.GMM and 2SLS estimation of mixed regressive, spatial autoregressive models. <I>Journal of Econometrics</I><B>,</B> 137, 2007. p.489&#150;514.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000211&pid=S0103-2003201100030000800031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MARGULIS, S. <I>Causas do desmatamento da Amaz&ocirc;nia brasileira</I>. Banco Mundial, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000213&pid=S0103-2003201100030000800032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MINIST&Eacute;RIO DO MEIO AMBIENTE. <I>Projeto Macrozoneamento Econ&ocirc;micoecol&oacute;gico da Amaz&ocirc;nia Legal: </I>Marco Te&oacute;rico-Conceitual. Dispon&iacute;vel em <a href="http://www.mma.gov.br" target="_blank">http://www.mma.gov.br</a>. Acesso em julho/2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000215&pid=S0103-2003201100030000800033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MIRAGAYA, J. Demanda mundial de carne bovina tem provocado o desmatamento na Amaz&ocirc;nia. <I>T&amp;C Amaz&ocirc;nia</I>, anoVI, n&ordm; 14, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000217&pid=S0103-2003201100030000800034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">OLIVEIRA, R.C. <I>Desmatamento na Amaz&ocirc;nia Legal: </I>uma an&aacute;lise econom&eacute;tricaespacial para a Curva de Kuznets Ambiental. Trabalho apresentado &agrave;s disciplinas Econometria Espacial e M&eacute;todos Quantitativos III, Mestrado em Economia Aplicada, Universidade Federal de Juiz de Fora, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000219&pid=S0103-2003201100030000800035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PFAFF, A.S.P. What Drives Deforestation in the Brazilian Amazon? Journal of Environmental Economics and Management, v.37, 1999. p.26-43.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000221&pid=S0103-2003201100030000800036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PINDYCK, R.S.; RUBINFELD, D.L. <I>Econometria:</I> Modelos&amp;Previs&otilde;es. Editora Campus, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000223&pid=S0103-2003201100030000800037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PRATES, R.C. <I>O desmatamento desigual na Amaz&ocirc;nia brasileira: sua evolu&ccedil;&atilde;o, suas causas e conseq&uuml;&ecirc;ncias para o bem-estar</I>. 2008. 160f. Tese (Doutorado em Economia Aplicada). Escola Superior de Agricultura Luiz de Queiroz, Universidade de S&atilde;o Paulo, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000225&pid=S0103-2003201100030000800038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">REIS, E. J.; GUZMAN, R. M.. Um modelo econom&eacute;trico do desflorestamento da Amaz&ocirc;nia. <I>Pesquisa e Planejamento Econ&ocirc;mico</I>, v. 23, n&ordm; 1, 1993. p.33-64.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000227&pid=S0103-2003201100030000800039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SANTOS, R.B.N et al. <I>Estimativa da Curva de Kuznets Ambiental para a Amaz&ocirc;nia Legal</I>. Trabalho apresentado no XLVI Congresso da Sociedade Brasileira de Economia, Administra&ccedil;&atilde;o e Sociologia Rural (SOBER), 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000229&pid=S0103-2003201100030000800040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SILVA, A.N. <I>An&aacute;lise das rela&ccedil;&otilde;es entre o desflorestamento e o potencial agropecu&aacute;rio das terras na Amaz&ocirc;nia.</I> 2006. 179 f. Disserta&ccedil;&atilde;o (Mestrado em Sensoriamento Remoto), Instituto Nacional de Pesquisas Espaciais, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000231&pid=S0103-2003201100030000800041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SUPERINTEND&Ecirc;NCIA DE DESENVOLVIMENTO DA AMAZ&Ocirc;NIA (SUDAM). Dispon&iacute;vel em <a href="http://www.ada.gov.br/index.php?option=com_content&task= view&id=40&Itemid=49" target="_blank">http://www.ada.gov.br/index.php?option=com_content&amp;task= view&amp;id=40&amp;Itemid=49</a>. Acesso em 25 mar. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000233&pid=S0103-2003201100030000800042&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">STERN, D.I. The Rise and Fall of the Environmental Kuznets Curve. <I>World Development</I>, Vol. 32, n&ordm;8, 2004.p. 1419&#150;1439.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000235&pid=S0103-2003201100030000800043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">TRANCOSO, R. et al. Sistemas de Informa&ccedil;&atilde;o Geogr&aacute;fica como ferramenta para o diagn&oacute;stico e gest&atilde;o de macrobacias no arco do desmatamento da Amaz&ocirc;nia. In: <I>Anais XII Simp&oacute;sio Brasileiro de Sensoriamento Remoto</I>. Goi&acirc;nia, Brasil. INPE, 2005. p. 2405-2412.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000237&pid=S0103-2003201100030000800044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VERA-DIAZ, M.C. et al. An interdisciplinary model of soybean yield in the Amazon Basin: The climatic, edaphic, and economic determinants. <I>Ecological Economics</I>, v.65, 2008. p. 420-431.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000239&pid=S0103-2003201100030000800045&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VITEL, C.S.M.N.; FEARNSIDE, P.M.; GRA&Ccedil;A, P.M.L.A. An&aacute;lise da inibi&ccedil;&atilde;o do desmatamento pelas &aacute;reas protegidas na parte sudoeste do Arco do Desmatamento. In: <I>Anais XIV Simp&oacute;sio Brasileiro de Sensoriamento Remoto</I>. Natal, Brasil. INPE, 2009. p. 6377-6384.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000241&pid=S0103-2003201100030000800046&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     ]]></body>
+<body><![CDATA[<!-- ref --><P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">WOOLDRIDGE, J.M. <I>Econometric analysis of cross section and panel data</I>. Boston, Massachusetts: MIT, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000243&pid=S0103-2003201100030000800047&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></P>     <P>&nbsp;</P>     <P>&nbsp;</P>     <P><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os autores agradecem os valiosos coment&aacute;rios feitos pelos pareceristas an&ocirc;nimos. Eduardo Almeida agradece o suporte financeiro do CNPq e da Fapemig para a elabora&ccedil;&atilde;o deste artigo    <br>   <a name="nt01"></a><a href="#tx01">1</a> A regi&atilde;o da Amaz&ocirc;nia Legal abrange os estados do Acre, Amap&aacute;, Amazonas, Mato Grosso, Rond&ocirc;nia, Roraima, Tocantins, Par&aacute; e parte do Maranh&atilde;o (por&ccedil;&atilde;o a oeste do Meridiano 44&ordm;), estendendo-se por 5,2 milh&otilde;es de km&sup2;, o equivalente a 61% do territ&oacute;rio nacional (SUDAM, 2009).     <br>   <a name="nt02"></a><a href="#tx02">2</a> A rela&ccedil;&atilde;o na forma de"N" invertido foi tamb&eacute;m encontrada por Ciriaci e Palma (2009), em um estudo sobre concentra&ccedil;&atilde;o de CO<sub>2</sub> em regi&otilde;es da It&aacute;lia.    <br>   <a name="nt03"></a><a href="#tx03">3</a> Os valores de PIB <I>percapita</I> de zero e R$ 77.262 para os pontos de m&iacute;nimo e m&aacute;ximo locais, respectivamente, foram encontrados considerando-se que o coeficiente &alpha;<sub>2</sub> da fun&ccedil;&atilde;o c&uacute;bica (equa&ccedil;&atilde;o 2) &eacute; igual a zero, visto que, no modelo econom&eacute;trico (5, <a href="#tab04">Tabela 4</a>), tal coeficiente apresenta-se n&atilde;o significativo. Caso o valor deste coeficiente &alpha;<sub>2</sub> seja considerado n&atilde;o zero, os pontos de m&iacute;nimo e m&aacute;ximo locais tornam-se, respectivamente, R$ 19.469 e R$ 57.793, fato que situa os munic&iacute;pios na fase anterior e na fase intermedi&aacute;ria da curva, principalmente, indicando, da mesma maneira, uma perspectiva de aumento do desmatamento com o crescimento econ&ocirc;mico.</font></P>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AGUIAR]]></surname>
+<given-names><![CDATA[A.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CÂMARA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ESCADA]]></surname>
+<given-names><![CDATA[M.I.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial statistical analysis of land-use determinants in the Brazilian Amazonia: Exploring intra-regional heterogeneity]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2007</year>
+<volume>209</volume>
+<page-range>169-188</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[E. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria Espacial Aplicada]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ÂNGELO]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEREIRA DE SÁ]]></surname>
+<given-names><![CDATA[S.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Deforestation in BrazilianAmazon]]></article-title>
+<source><![CDATA[Ciência Florestal]]></source>
+<year>jul-</year>
+<month>se</month>
+<day>t,</day>
+<volume>17</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>217-227</page-range><publisher-name><![CDATA[Santa Maria]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARAÚJO]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Property rights and deforestation in the Brazilian Amazon]]></article-title>
+<source><![CDATA[Ecological Economics]]></source>
+<year>2009</year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARBIER]]></surname>
+<given-names><![CDATA[E.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURGESS]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Economics of Tropical Deforestation]]></article-title>
+<source><![CDATA[Journal of Economic Surveys]]></source>
+<year>2002</year>
+<volume>5</volume>
+<numero>3</numero>
+<issue>3</issue>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BATTHARAI]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HAMMIG]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Institutions and Environmental Kuznets Curve for Deforestation: a Crosscountry analysis for Latin America, Africa and Asia]]></article-title>
+<source><![CDATA[World Development]]></source>
+<year>2001</year>
+<volume>29</volume>
+<numero>6</numero>
+<issue>6</issue>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAUM]]></surname>
+<given-names><![CDATA[C.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An Introduction to Modern Econometrics Using Stata]]></source>
+<year>2006</year>
+<publisher-name><![CDATA[Stata Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAUMONT]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial effects in housing price models: do housing prices capitalize urban development policies in the agglomeration of Dijon (1999)]]></source>
+<year>2004</year>
+<publisher-name><![CDATA[Université de Bourgogne]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BELL]]></surname>
+<given-names><![CDATA[K.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BOCKSTAEL]]></surname>
+<given-names><![CDATA[N.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Applying The Generalized-Moments Estimation Approach To Spatial Problems Involving Microlevel Data]]></article-title>
+<source><![CDATA[The Review of Economics and Statistics]]></source>
+<year>2000</year>
+<volume>82</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>72-82</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BECKER]]></surname>
+<given-names><![CDATA[B.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Geopolítica da Amazônia]]></article-title>
+<source><![CDATA[Estudos Avançados]]></source>
+<year>2005</year>
+<volume>19</volume>
+<numero>53</numero>
+<issue>53</issue>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<collab>BRASIL</collab>
+<source><![CDATA[Lei Complementar nº 124, de 3 de janeiro de 2007]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>Presidência da República</collab>
+<source><![CDATA[Plano Amazônia Sustentável: diretrizes para o desenvolvimento sustentável da Amazônia Brasileira]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BROWN]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Soybean Production and Conversion of Tropical Forest in the Brazilian Amazon: The Case of Vilhena, Rondonia]]></article-title>
+<source><![CDATA[Ambio]]></source>
+<year>2005</year>
+<volume>34</volume>
+<numero>6</numero>
+<issue>6</issue>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CALDAS]]></surname>
+<given-names><![CDATA[M.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Ciclo de Vida da Família e Desmatamento na Amazônia: Combinando Informações de Sensoriamento Remoto com Dados Primários]]></article-title>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>2003</year>
+<volume>57</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>683-711</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[T. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Hipótese da Curva de Kuznets Ambiental Global e o Protocolo de Quioto]]></source>
+<year>2008</year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHIMELI]]></surname>
+<given-names><![CDATA[A.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Growth and the environment: Are we looking at the right data]]></article-title>
+<source><![CDATA[Economics Letters]]></source>
+<year>2007</year>
+<numero>96</numero>
+<issue>96</issue>
+<page-range>89-96</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHOMITZ]]></surname>
+<given-names><![CDATA[K.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THOMAS]]></surname>
+<given-names><![CDATA[T.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Determinans of Land Use in Amazônia: A fine-scale Spatial Analysis]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>2003</year>
+<volume>85</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1016-1028</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CIRIACI]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PALMA]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Geography, enviromental efficiency and economic growth: how to uncover localized externalities through spatial econometric modeling]]></source>
+<year></year>
+<conf-name><![CDATA[ III World Conference]]></conf-name>
+<conf-date>2009</conf-date>
+<conf-loc>Barcelona </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CULAS]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Deforestation and the environmental Kuznets curve: An institutional perspective]]></article-title>
+<source><![CDATA[Ecological Economics]]></source>
+<year>2007</year>
+<volume>61</volume>
+<page-range>429-437</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DE BRUYN]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VAN DEN BERGH]]></surname>
+<given-names><![CDATA[J. C. J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OPSCHOOR]]></surname>
+<given-names><![CDATA[J. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Economic Growth and Emissions: reconsidering the empirical basis of environmental Kuznets curves]]></article-title>
+<source><![CDATA[Ecological Economics]]></source>
+<year>1998</year>
+<volume>25</volume>
+<page-range>161-175</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ELHORST]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Specification and estimation of spatial panel data models]]></article-title>
+<source><![CDATA[International Regional Science Review]]></source>
+<year>2003</year>
+<volume>26</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>224-268</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EWERS]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAURANCE]]></surname>
+<given-names><![CDATA[W.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA JR]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Temporal fluctuations in Amazonian deforestation rates]]></article-title>
+<source><![CDATA[Environmental Conservation]]></source>
+<year>2008</year>
+<volume>35</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>303-310</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[A.M.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SALATI]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Forças de transformação do ecossistema amazônico]]></article-title>
+<source><![CDATA[Estudos Avançados]]></source>
+<year>2005</year>
+<volume>19</volume>
+<numero>54</numero>
+<issue>54</issue>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[L.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VENTICINQUE]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O desmatamento na Amazônia e a importância das áreas protegidas]]></article-title>
+<source><![CDATA[Estudos avançados]]></source>
+<year>2005</year>
+<volume>19</volume>
+<numero>53</numero>
+<issue>53</issue>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRAGA]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desenvolvimento Econômico e Desmatamento na Amazônia Legal: uma análise econométrica]]></source>
+<year></year>
+<conf-name><![CDATA[XLVI Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural (SOBER)]]></conf-name>
+<conf-date>2008</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IGLIORI]]></surname>
+<given-names><![CDATA[D.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Deforestation, Growth and Agglomeration Effects: Evidence from Agriculture in the Brazilian Amazon]]></source>
+<year></year>
+<conf-name><![CDATA[XXXIV Encontro Nacional de Economia]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<collab>INPE - INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS</collab>
+<source><![CDATA[Relatório Monitoramento da Cobertura florestal da Amazônia por Satélites: Sistemas PRODES, DETER, DEGRAD E QUEIMADAS 2007-2008]]></source>
+<year>2008</year>
+<publisher-name><![CDATA[INPE, Ministério da Ciência e Tecnologia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[CRA/INPE mapeia vegetação secundária do Pará, Mato Grosso e Amapá]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KAIMOWITZ]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANGELSEN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic Models of Tropical Deforestation: a Review]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Jacarta ]]></publisher-loc>
+<publisher-name><![CDATA[CIFOR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KELEJIAN]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PRUCHA]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A generalized spatial two stage least squares procedure for estimating a spatial autoregressive model with autoregressive disturbances]]></article-title>
+<source><![CDATA[Journal of Real Estate Finance and Economics]]></source>
+<year>1998</year>
+<numero>17</numero>
+<issue>17</issue>
+<page-range>99-121</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[L.-f.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[GMM and 2SLS estimation of mixed regressive, spatial autoregressive models]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>2007</year>
+<volume>137</volume>
+<page-range>489-514</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARGULIS]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Causas do desmatamento da Amazônia brasileira]]></source>
+<year>2003</year>
+<publisher-name><![CDATA[Banco Mundial]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="">
+<collab>MINISTÉRIO DO MEIO AMBIENTE</collab>
+<source><![CDATA[Projeto Macrozoneamento Econômicoecológico da Amazônia Legal: Marco Teórico-Conceitual]]></source>
+<year>julh</year>
+<month>o/</month>
+<day>20</day>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRAGAYA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Demanda mundial de carne bovina tem provocado o desmatamento na Amazônia]]></article-title>
+<source><![CDATA[T & C Amazônia]]></source>
+<year>2008</year>
+<numero>14</numero>
+<issue>14</issue>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[R.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desmatamento na Amazônia Legal: uma análise econométricaespacial para a Curva de Kuznets Ambiental]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PFAFF]]></surname>
+<given-names><![CDATA[A.S.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[What Drives Deforestation in the Brazilian Amazon]]></article-title>
+<source><![CDATA[Journal of Environmental Economics and Management]]></source>
+<year>1999</year>
+<volume>37</volume>
+<page-range>26-43</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PINDYCK]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBINFELD]]></surname>
+<given-names><![CDATA[D.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria: Modelos&Previsões]]></source>
+<year>2004</year>
+<publisher-name><![CDATA[Editora Campus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRATES]]></surname>
+<given-names><![CDATA[R.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O desmatamento desigual na Amazônia brasileira: sua evolução, suas causas e conseqüências para o bem-estar]]></source>
+<year>2008</year>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REIS]]></surname>
+<given-names><![CDATA[E. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUZMAN]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Um modelo econométrico do desflorestamento da Amazônia]]></article-title>
+<source><![CDATA[Pesquisa e Planejamento Econômico]]></source>
+<year>1993</year>
+<volume>23</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>33-64</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[R.B.N]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estimativa da Curva de Kuznets Ambiental para a Amazônia Legal]]></source>
+<year></year>
+<conf-name><![CDATA[XLVI Congresso da Sociedade Brasileira de Economia, Administração e Sociologia Rural (SOBER)]]></conf-name>
+<conf-date>2008</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[A.N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise das relações entre o desflorestamento e o potencial agropecuário das terras na Amazônia]]></source>
+<year>2006</year>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="">
+<collab>SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA AMAZÔNIA (SUDAM)</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STERN]]></surname>
+<given-names><![CDATA[D.I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[The Rise and Fall of the Environmental Kuznets Curve]]></article-title>
+<source><![CDATA[World Development]]></source>
+<year>2004</year>
+<volume>32</volume>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>1419-1439</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TRANCOSO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Sistemas de Informação Geográfica como ferramenta para o diagnóstico e gestão de macrobacias no arco do desmatamento da Amazônia]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[XII Simpósio Brasileiro de Sensoriamento Remoto]]></conf-name>
+<conf-date>2005</conf-date>
+<conf-loc>Goiânia </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VERA-DIAZ]]></surname>
+<given-names><![CDATA[M.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An interdisciplinary model of soybean yield in the Amazon Basin: The climatic, edaphic, and economic determinants]]></article-title>
+<source><![CDATA[Ecological Economics]]></source>
+<year>2008</year>
+<volume>65</volume>
+<page-range>420-431</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VITEL]]></surname>
+<given-names><![CDATA[C.S.M.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FEARNSIDE]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRAÇA]]></surname>
+<given-names><![CDATA[P.M.L.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise da inibição do desmatamento pelas áreas protegidas na parte sudoeste do Arco do Desmatamento]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[XIV Simpósio Brasileiro de Sensoriamento Remoto]]></conf-name>
+<conf-date>2009</conf-date>
+<conf-loc>Natal </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WOOLDRIDGE]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric analysis of cross section and panel data]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Boston, Massachusetts ]]></publisher-loc>
+<publisher-name><![CDATA[MIT]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

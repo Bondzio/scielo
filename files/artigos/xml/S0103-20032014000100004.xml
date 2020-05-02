@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032014000100004</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032014000100004</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Convergência de mercados intrarregionais: o caso do mercado atacadista brasileiro do tomate]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Tabosa]]></surname>
+<given-names><![CDATA[Francisco José Silva]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[Roberto Tatiwa]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Castelar]]></surname>
+<given-names><![CDATA[Luiz Ivan]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,UFC  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,UFC Maer ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,UFC Caen ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,UFC Caen ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2014</year>
+</pub-date>
+<volume>52</volume>
+<numero>1</numero>
+<fpage>61</fpage>
+<lpage>80</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032014000100004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032014000100004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032014000100004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O objetivo deste artigo é analisar a existência de integração nos mercados atacadistas brasileiros de tomate, utilizando um painel dinâmico que permite efeitos limiares (threshold) para testar a hipótese de convergência desse mercado para a Lei do Preço Único. Os resultados favorecem a hipótese de integração entre os principais mercados brasileiros de tomate e, nesse processo, há evidências empíricas de custos de transação.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The objective of this paper is to examine the existence of integration in the Brazilian wholesaler tomato markets using a dynamic panel model that allows threshold effects to test the hypothesis of market convergence to the one price law. The results support the hypothesis of integration among the main tomato Brazilian markets. Furthermore, there are empirical evidences of transaction costs.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Tomate]]></kwd>
+<kwd lng="pt"><![CDATA[convergência]]></kwd>
+<kwd lng="pt"><![CDATA[integração de mercados]]></kwd>
+<kwd lng="pt"><![CDATA[Brasil]]></kwd>
+<kwd lng="en"><![CDATA[Tomatoes]]></kwd>
+<kwd lng="en"><![CDATA[convergence]]></kwd>
+<kwd lng="en"><![CDATA[market integration]]></kwd>
+<kwd lng="en"><![CDATA[Brazil]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><a name="top"></a><b>Converg&ecirc;ncia    de mercados intrarregionais: o caso do mercado atacadista brasileiro do tomate</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Francisco Jos&eacute;    Silva Tabosa<sup>I</sup>; Roberto Tatiwa Ferreira<sup>II</sup>; Luiz Ivan Castelar<sup>III</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Economista.    Professor Dr. do Curso de Economia da UFC Campus Sobral. Professor colaborador    do Maer/UFC. Bolsista produtividade do Interior da Funcap. E-mail: <a href="mailto:franze@caen.ufc.br">franze@caen.ufc.br</a>    <br>   <sup>II</sup>Economista. Professor Dr. do Caen/UFC. E-mail: <a href="mailto:rtf2@uol.com.br">rtf2@uol.com.br</a>    <br>   <sup>III</sup>Economista. PhD. Professor do Caen/UFC. E-mail: <a href="mailto:lume1250@yahoo.com.br">lume1250@yahoo.com.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr noshade size="1"/>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O objetivo deste    artigo &eacute; analisar a exist&ecirc;ncia de integra&ccedil;&atilde;o nos    mercados atacadistas brasileiros de tomate, utilizando um painel din&acirc;mico    que permite efeitos limiares (<i>threshold</i>) para testar a hip&oacute;tese    de converg&ecirc;ncia desse mercado para a Lei do Pre&ccedil;o &Uacute;nico.    Os resultados favorecem a hip&oacute;tese de integra&ccedil;&atilde;o entre    os principais mercados brasileiros de tomate e, nesse processo, h&aacute; evid&ecirc;ncias    emp&iacute;ricas de custos de transa&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chaves:    </b>Tomate, converg&ecirc;ncia, integra&ccedil;&atilde;o de mercados, Brasil.</font></p> <hr noshade size="1"/>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The objective of    this paper is to examine the existence of integration in the Brazilian wholesaler    tomato markets using a dynamic panel model that allows threshold effects to    test the hypothesis of market convergence to the one price law. The results    support the hypothesis of integration among the main tomato Brazilian markets.    Furthermore, there are empirical evidences of transaction costs.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key-words:</b>    Tomatoes, convergence, market integration, Brazil.    <br>   </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Classifica&ccedil;&atilde;o    JEL:</b> Q11, Q13, C23.</font></p> <hr noshade size="1"/>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A integra&ccedil;&atilde;o    de mercados intranacionais &eacute; um importante fator na transmiss&atilde;o    dos efeitos das pol&iacute;ticas macroecon&ocirc;micas e dos ganhos advindos    das inova&ccedil;&otilde;es tecnol&oacute;gicas, oriundos das unidades microecon&ocirc;micas    que d&atilde;o base ao crescimento econ&ocirc;mico (BARRETT, 2005). Uma das    principais caracter&iacute;sticas dos mercados integrados &eacute; a exist&ecirc;ncia    de uma rela&ccedil;&atilde;o de interdepend&ecirc;ncia entre os pre&ccedil;os.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Entretanto, n&atilde;o    h&aacute; um consenso entre os economistas a respeito de como essa interdepend&ecirc;ncia    &eacute; gerada. Por um lado, essa caracter&iacute;stica decorre de uma interdepend&ecirc;ncia    oligopolista (FAMINOW e BENSON, 1990). Por outro lado, h&aacute; modelos que    utilizam os conceitos de arbitragem espacial e a Lei do Pre&ccedil;o &Uacute;nico    (LPU) para mostrar que a integra&ccedil;&atilde;o dos mercados e a interdepend&ecirc;ncia    de pre&ccedil;os resultam de um equil&iacute;brio competitivo e eficiente no    sentido de Pareto (ENKE, 1951; SAMUELSON, 1952; TAKAYAMA e JUDGE, 1971; RAVALLION,    1986).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A falta de infraestrutura    adequada, seja no setor de comunica&ccedil;&otilde;es, seja no de transportes,    a exist&ecirc;ncia de barreiras comerciais e as dificuldades de obter cr&eacute;dito    s&atilde;o fatores, usualmente citados pela literatura, que limitam a integra&ccedil;&atilde;o    dos mercados e que podem ser atenuados atrav&eacute;s de pol&iacute;ticas p&uacute;blicas.    Portanto, torna-se importante saber quais s&atilde;o os mercados que apresentam    essa caracter&iacute;stica e quais s&atilde;o os mercados que n&atilde;o s&atilde;o    integrados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esta informa&ccedil;&atilde;o    &eacute; importante para diversos setores da economia, quer sejam eles constitu&iacute;dos    de produtores, ind&uacute;strias, ou at&eacute; mesmo o governo. Para os produtores    e ind&uacute;strias, estas informa&ccedil;&otilde;es podem subsidiar melhores    decis&otilde;es sobre a venda e o armazenamento da produ&ccedil;&atilde;o. J&aacute;    para o governo, este conhecimento pode direcionar pol&iacute;ticas que facilitem    o escoamento da produ&ccedil;&atilde;o e racionalizem as pol&iacute;ticas de    subs&iacute;dios e de pre&ccedil;os m&iacute;nimos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste sentido,    o trabalho de Parsley e Wei (1996) verificou a integra&ccedil;&atilde;o no mercado    de 51 bens finais e servi&ccedil;os de 48 cidades dos EUA por meio da an&aacute;lise    de converg&ecirc;ncia de pre&ccedil;os. Para isto, os referidos autores utilizaram    um painel din&acirc;mico com o qual foi testada a hip&oacute;tese de raiz unit&aacute;ria    e de converg&ecirc;ncia.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Goldberg e Verboven    (2005) utilizaram dados em painel de pre&ccedil;os de autom&oacute;veis no mercado    europeu e encontraram evid&ecirc;ncias emp&iacute;ricas favor&aacute;veis &agrave;    converg&ecirc;ncia desse mercado para a Lei do Pre&ccedil;o &Uacute;nico. Por    meio de uma metodologia semelhante aos demais trabalhos emp&iacute;ricos citados    anteriormente, Susanto <i>et al</i>. (2007) encontraram integra&ccedil;&atilde;o    nos mercados de vegetais e frutas dos pa&iacute;ses que comp&otilde;em o Nafta.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No Brasil, estes    estudos concentram-se nos mercados agr&iacute;colas em virtude da import&acirc;ncia    destes na economia nacional, tanto no que se refere &agrave; gera&ccedil;&atilde;o    de emprego e renda, como no que se refere &agrave; produ&ccedil;&atilde;o de    alimentos. Mayorga (1989) empregou o teste de causalidade de Granger (1969)    para analisar o mercado atacadista de tomate nas cidades do Nordeste. Os resultados    mostraram que Fortaleza aparece como mercado central, em virtude do maior volume    comercializado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Posteriormente,    Mayorga <i>et al</i>. (2009) obtiveram resultado semelhante ao analisarem a    integra&ccedil;&atilde;o do mercado nordestino do tomate, utilizando um modelo    de vetores autorregressivos (VAR), an&aacute;lise de impulso resposta e decomposi&ccedil;&atilde;o    de vari&acirc;ncia, concluindo que esse mercado &eacute; bastante integrado,    com Fortaleza exercendo uma forte influ&ecirc;ncia sobre os demais mercados    atacadistas do Nordeste. No entanto, n&atilde;o existem estudos analisando a    integra&ccedil;&atilde;o dos mercados atacadistas do tomate em &acirc;mbito    nacional.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Utilizando a metodologia    de cointegra&ccedil;&atilde;o com efeitos <i>threshold</i>, Mattos (2008) encontrou    evid&ecirc;ncias de integra&ccedil;&atilde;o no mercado brasileiro de frangos    congelados. De acordo com os resultados apresentados por esse autor, S&atilde;o    Paulo (SP) &eacute; o mercado refer&ecirc;ncia, mantendo uma forte integra&ccedil;&atilde;o    com as principais capitais do Sul, Sudeste e Centro-Oeste e fraca integra&ccedil;&atilde;o    com o mercado nordestino.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O objetivo deste    estudo, portanto, &eacute; analisar a exist&ecirc;ncia de integra&ccedil;&atilde;o    nos mercados atacadistas brasileiros de tomate<a name="top1"></a><a href="#back1"><sup>1</sup></a>,    utilizando um painel din&acirc;mico que permite efeitos limiares (<i>threshold</i>)    e informa&ccedil;&otilde;es sobre 13 dos principais mercados atacadistas<a name="top2"></a><a href="#back2"><sup>2</sup></a>    de todas as regi&otilde;es brasileiras, para testar a hip&oacute;tese de converg&ecirc;ncia    desse mercado para a Lei do Pre&ccedil;o &Uacute;nico. Na abordagem econom&eacute;trica    proposta para analisar integra&ccedil;&atilde;o, o modelo a ser utilizado &eacute;    derivado diretamente de uma vers&atilde;o estoc&aacute;stica da Lei do Pre&ccedil;o    &Uacute;nico. Tal abordagem permite testar se existe integra&ccedil;&atilde;o    no mercado e se nesse processo h&aacute; ind&iacute;cios de custos de transa&ccedil;&otilde;es    relevantes.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m desta    introdu&ccedil;&atilde;o, este trabalho apresenta mais quatro se&ccedil;&otilde;es.    A primeira apresenta uma revis&atilde;o de literatura sobre a integra&ccedil;&atilde;o    de mercados agr&iacute;colas. A segunda cont&eacute;m a metodologia utilizada    e, na terceira, os principais resultados s&atilde;o apresentados. Finalmente,    uma se&ccedil;&atilde;o contendo as conclus&otilde;es encerra o trabalho.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. Integra&ccedil;&atilde;o    de mercados agr&iacute;colas</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Conforme Bukenya    e Labys (2002), o trabalho de Hoteling (1929) &eacute; pioneiro no estudo da    competi&ccedil;&atilde;o imperfeita e das teorias espaciais sobre discrimina&ccedil;&atilde;o    de pre&ccedil;os, as quais foram formalizadas por Enke (1951) e Samuelson (1952).    A dispers&atilde;o espacial de pre&ccedil;os est&aacute; relacionada com a teoria    do com&eacute;rcio internacional, em que Samuelson, utilizando o princ&iacute;pio    de Heckscher-Ohlin, elaborou o teorema de equaliza&ccedil;&atilde;o de pre&ccedil;os    dos fatores. Neste sentido, um crescente n&iacute;vel de integra&ccedil;&atilde;o    de mercados &eacute; uma condi&ccedil;&atilde;o essencial para a livre mobilidade    dos fatores de produ&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os diferentes locais    de mercado estar&atilde;o mais estreitamente integrados quanto menores sejam    os distanciamentos de seus pre&ccedil;os (STIGLER e SHERWIN, 1985). J&aacute;    os diferentes locais ou regi&otilde;es estar&atilde;o mais estreitamente integrados    quando existirem condi&ccedil;&otilde;es competitivas entre os mercados, como    facilidades de transporte, simetria de informa&ccedil;&otilde;es, aus&ecirc;ncia    de barreiras &agrave; entrada; enfim, todos os fatores que facilitam o fluxo    das mercadorias de um determinado mercado para outro. O pressuposto de competi&ccedil;&atilde;o    entre mercados como principal fator para a exist&ecirc;ncia de integra&ccedil;&atilde;o    entre os mesmos tamb&eacute;m est&aacute; presente no trabalho de Ravallion    (1986).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Fackler e Goodwin    (2000) definem integra&ccedil;&atilde;o espacial de mercados como o grau com    que choques de oferta e demanda s&atilde;o transmitidos de um mercado para outro.    Nesse sentido, a arbitragem espacial &eacute; o elemento respons&aacute;vel    pela condu&ccedil;&atilde;o dos mercados &agrave; integra&ccedil;&atilde;o e    &eacute; expressa como</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s1.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que <i>P</i><sub>i</sub>    &eacute; o pre&ccedil;o no mercado <i>i</i>, <i>P</i><sub>j</sub> &eacute; o    pre&ccedil;o no mercado <i>j</i>, e <i>C</i><sub>ij</sub> &eacute; o custo no    qual o arbitrador deve incorrer para transportar o produto do mercado <i>j</i>    para o mercado <i>i</i>. A rela&ccedil;&atilde;o apresentada na equa&ccedil;&atilde;o    (1) &eacute; usualmente estabelecida como a Lei do Pre&ccedil;o &Uacute;nico    (LPU).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Apesar de n&atilde;o    existir um consenso te&oacute;rico sobre qual a estrutura de mercado ou quais    os mecanismos que geram as condi&ccedil;&otilde;es necess&aacute;rias para a    exist&ecirc;ncia de mercados integrados, a equa&ccedil;&atilde;o (1) reflete    o comportamento esperado dos pre&ccedil;os sob esta realidade, independentemente    do referencial te&oacute;rico utilizado para analisar esta quest&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Diferentes mercados    estar&atilde;o integrados quando existir apenas pequenos movimentos de seus    pre&ccedil;os (STIGLER e SHERWIN, 1985). Al&eacute;m disso, quanto melhores    forem as condi&ccedil;&otilde;es competitivas dos mercados, maiores ser&atilde;o    as facilidades de transporte, as informa&ccedil;&otilde;es ser&atilde;o mais    eficientes e haver&aacute; melhoria no fluxo das mercadorias de um determinado    mercado para outro. Quando se analisa a integra&ccedil;&atilde;o espacial de    mercados, os custos de transa&ccedil;&atilde;o tendem a crescer com a dist&acirc;ncia    f&iacute;sica, com o tempo para transferir bens e informa&ccedil;&otilde;es    e com outros fatores que impedem os fluxos entre as localidades (MATTOS, 2008).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para Mattos (2008),    maiores custos de transa&ccedil;&atilde;o aumentam as possibilidades de os mercados    serem segmentados. Logo, quanto menores os custos de transa&ccedil;&atilde;o,    maior o grau de integra&ccedil;&atilde;o dos mercados.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A integra&ccedil;&atilde;o    de mercados intranacionais &eacute; um importante fator na transmiss&atilde;o    dos efeitos das pol&iacute;ticas macroecon&ocirc;micas e dos ganhos advindos    das inova&ccedil;&otilde;es tecnol&oacute;gicas pelas unidades microecon&ocirc;micas    que incentivam o crescimento econ&ocirc;mico (BARRETT, 2005). Ou seja, a an&aacute;lise    das oscila&ccedil;&otilde;es de pre&ccedil;os permitir&aacute; identificar a    forma&ccedil;&atilde;o de pre&ccedil;os, a relev&acirc;ncia e o comportamento    entre os mercados, os quais podem ser &uacute;teis na forma&ccedil;&atilde;o    e implementa&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas que levem    a melhorias na comercializa&ccedil;&atilde;o e encorajamento da competi&ccedil;&atilde;o    entre os diferentes mercados, avalia&ccedil;&atilde;o de canais alternativos    de comercializa&ccedil;&atilde;o e melhoria nas facilidades de comunica&ccedil;&atilde;o    e transporte. Por esta raz&atilde;o, v&aacute;rios estudos utilizam testes de    estacionariedade (fraca) para verificar se os mercados s&atilde;o integrados    ou n&atilde;o. A an&aacute;lise de estacionariedade implica verificar se as    s&eacute;ries t&ecirc;m a mesma m&eacute;dia e vari&acirc;ncia ao longo do tempo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Trabalhos como    os de Mayorga (1989) e Tabosa <i>et al</i>. (2004) utilizaram o teste de causalidade    de Granger (1969) para testar a exist&ecirc;ncia de rela&ccedil;&otilde;es de    interdepend&ecirc;ncia entre os pre&ccedil;os dos mercados atacadistas do tomate    e, desta forma, testar a exist&ecirc;ncia de integra&ccedil;&atilde;o nesse    mercado. Ambos conclu&iacute;ram que os mercados atacadistas de tomate no Nordeste,    especialmente os de Fortaleza e de Ibiapaba, no Cear&aacute;, s&atilde;o integrados.    J&aacute; Coelho (2002) utilizou testes de raiz unit&aacute;ria para verificar    a exist&ecirc;ncia de integra&ccedil;&atilde;o entre o mercado interno e externo    do algod&atilde;o no Brasil.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Modelos multivariados    tamb&eacute;m s&atilde;o utilizados para analisar este tema. Mayorga <i>et al</i>.    (2007) e Mayorga <i>et al</i>. (<i>op. cit.</i>) utilizaram um modelo de vetores    autorregressivos (VAR), a decomposi&ccedil;&atilde;o de vari&acirc;ncia dos    erros e a fun&ccedil;&atilde;o de impulso resposta para verificar a exist&ecirc;ncia    de integra&ccedil;&atilde;o nos mercados brasileiros de mel&atilde;o, nos mercados    nordestinos de tomate e no mercado brasileiro de caf&eacute; ar&aacute;bica,    respectivamente. Gonz&aacute;les-Rivera e Helfand (2001), Alves (2002) e Abitante    (2008), por meio de vetores de corre&ccedil;&atilde;o de erros (VEC), analisaram    a integra&ccedil;&atilde;o dos mercados brasileiros de arroz, do setor sucroalcooleiro    e da soja.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os trabalhos de    Goodwin e Holt (1999), Balke e Fomby (1997), Goodwin e Pigott (1999), Lo e Zivot    (2001), Sachs e Pinatti (2007), Balcombe, Bailey e Brooks (2007) e Mattos (2008)    utilizaram um teste de cointegra&ccedil;&atilde;o com efeitos <i>threshold</i>    para diversos mercados agropecu&aacute;rios no mundo, considerando a possibilidade    dos processos de transmiss&atilde;o de pre&ccedil;os serem n&atilde;o lineares.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Outra abordagem    utilizada para verificar a integra&ccedil;&atilde;o de mercados &eacute; a dos    testes de converg&ecirc;ncia entre pre&ccedil;os. Caso os pre&ccedil;os dos    diferentes mercados estejam convergindo para um mesmo n&iacute;vel de longo    prazo, h&aacute; evid&ecirc;ncias de que o mercado &eacute; integrado no longo    prazo. Al&eacute;m disso, a exist&ecirc;ncia de converg&ecirc;ncia condicional    implica em diferen&ccedil;as de pre&ccedil;os, resultante dos custos de transa&ccedil;&atilde;o,    mensurado como o percentual de diferen&ccedil;a de pre&ccedil;os (GOLDBERG e    VERBOVEN, 2005).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste sentido,    Susanto <i>et al</i>. (2007), por meio do modelo de converg&ecirc;ncia de Levin-Lin    (1992), testaram a integra&ccedil;&atilde;o do mercado de frutas e verduras,    inclusive o tomate, entre os pa&iacute;ses do Nafta (EUA, Canad&aacute; e M&eacute;xico).    Os resultados reportados por esses autores s&atilde;o favor&aacute;veis a um    processo de converg&ecirc;ncia absoluta, indicando uma integra&ccedil;&atilde;o    dos mercados desses produtos analisados. Chin e Habibullah (2008) tamb&eacute;m    utilizaram testes de converg&ecirc;ncia e constataram uma crescente integra&ccedil;&atilde;o    entre os mercados de diversos produtos comercializados nas regi&otilde;es da    Mal&aacute;sia Peninsular, Sabah e Sarawak.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. Metodologia</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>3.1. Base de    dados</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os dados utilizados    neste trabalho foram obtidos na Central de Abastecimento do Estado do Cear&aacute;    (Ceasa) e consistem em s&eacute;ries de pre&ccedil;os semanais de tomate no    per&iacute;odo da primeira semana de janeiro de 2004 &agrave; &uacute;ltima    semana de fevereiro de 2009, totalizando 266 observa&ccedil;&otilde;es, dos    mercados atacadistas de Teresina (PI), Ibiapaba (CE), Fortaleza (CE), Natal    (RN), Recife (PE), Salvador (BA), Juazeiro (BA), Bras&iacute;lia (DF), Belo    Horizonte (MG), Rio de Janeiro (RJ), S&atilde;o Paulo (SP), Campinas (SP) e    Curitiba (PR). Os dados s&atilde;o expressos em reais por quilo (R$/kg).</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Foi aplicada a    transforma&ccedil;&atilde;o logar&iacute;tmica nestas s&eacute;ries, as quais    s&atilde;o denominadas:</font></p>     <blockquote>        <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNTER - logaritmo natural do pre&ccedil;o de Teresina (PI);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNFORT - logaritmo natural do pre&ccedil;o de Fortaleza (CE);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNIBI - logaritmo natural do pre&ccedil;o da Ibiapaba (CE);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNNAT - logaritmo natural do pre&ccedil;o de Natal (RN);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNREC - logaritmo natural do pre&ccedil;o de Recife (PE);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNSAL - logaritmo natural do pre&ccedil;o de Salvador (BA);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNJUA - logaritmo natural do pre&ccedil;o de Juazeiro (BA);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNBRAS - logaritmo natural do pre&ccedil;o de Bras&iacute;lia (DF);</font></p>       ]]></body>
+<body><![CDATA[<p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNBH - logaritmo natural do pre&ccedil;o de Belo Horizonte (MG);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNRJ - logaritmo natural do pre&ccedil;o de Rio de Janeiro (RJ);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNSAMPA - logaritmo natural do pre&ccedil;o de S&atilde;o Paulo (SP);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNCAMP - logaritmo natural do pre&ccedil;o de Campinas (SP);</font></p>       <p><font  size="2">&#8226;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      LNCTB - logaritmo natural do pre&ccedil;o de Curitiba (PR).</font></p> </blockquote>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A seguir, o comportamento    temporal das s&eacute;ries.</font></p>     <p>&nbsp;</p>     <p align="center"><a href=" /img/revistas/resr/v52n1/04f01.jpg"><img src=" /img/revistas/resr/v52n1/04f01thumb.jpg" border="0"></a>    <br>   <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href=" /img/revistas/resr/v52n1/04f01.jpg">Figura    1 - Clique para ampliar</a></font></p>     <p align="center">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>3.2. O modelo    e os testes econom&eacute;tricos</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A princ&iacute;pio,    deve-se considerar que as vari&aacute;veis de pre&ccedil;o presentes na Lei    de Pre&ccedil;o &Uacute;nico (LPU), estabelecida na equa&ccedil;&atilde;o (1),    s&atilde;o vari&aacute;veis estoc&aacute;sticas que t&ecirc;m um determinado    comportamento ao longo do tempo. Portanto, uma vers&atilde;o estoc&aacute;stica    da LPU para um mercado inter-regional com <i>N</i> regi&otilde;es pode ser expressa    como,</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s2.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que <i>P</i><sub>i,t</sub>    &eacute; o logaritmo do pre&ccedil;o real do bem ou servi&ccedil;o no mercado    <i>i</i> no per&iacute;odo <i>t</i> e <i>C</i><sub>ij</sub> representa o custo    m&eacute;dio de transa&ccedil;&atilde;o entre os mercados <i>i</i> e <i>j</i>.    Entretanto, Goldberg e Verboven (2005), Susanto <i>et al</i>. (2007) e Chin    e Habibullah (2008) sugerem verificar o comportamento do pre&ccedil;o da <i>i-&eacute;sima</i>    economia em rela&ccedil;&atilde;o a uma m&eacute;dia dos demais pre&ccedil;os,    servindo esta &uacute;ltima como pre&ccedil;o base de compara&ccedil;&atilde;o.    Em outras palavras a equa&ccedil;&atilde;o (2), torna-se</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s3.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na equa&ccedil;&atilde;o    acima, <img src=" /img/revistas/resr/v52n1/04s4.jpg" align="absmiddle"> e os    desvios de <img src=" /img/revistas/resr/v52n1/04s5.jpg" align="absmiddle">    em rela&ccedil;&atilde;o &agrave; sua m&eacute;dia entre grupos, <img src=" /img/revistas/resr/v52n1/04s6.jpg" align="absmiddle">,    ser&atilde;o, em m&eacute;dia, igual a uma determinada constante <i>C</i> quando    <i>t</i> se aproxima do infinito. Ou seja, verifica-se a LPU se <img src=" /img/revistas/resr/v52n1/04s7.jpg" align="absmiddle">    &eacute; estacion&aacute;rio e haver&aacute; custos de transa&ccedil;&atilde;o    neste mercado se <i>C</i><sub>ij</sub> for diferente de zero. Em termos econom&eacute;tricos,    a LPU estabelecida na equa&ccedil;&atilde;o (3) pode ser expressa como</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s8.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que <img src=" /img/revistas/resr/v52n1/04s9.jpg" align="absmiddle">;    <img src=" /img/revistas/resr/v52n1/04s10.jpg" align="absmiddle"> e <img src=" /img/revistas/resr/v52n1/04s11.jpg" align="absmiddle">.    A equa&ccedil;&atilde;o (4) pode ser reescrita como</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s12.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nesta equa&ccedil;&atilde;o,    <img src=" /img/revistas/resr/v52n1/04s13.jpg" align="absmiddle"> e <i>p</i>    &eacute; o n&uacute;mero de defasagens. A hip&oacute;tese nula de n&atilde;o    integra&ccedil;&atilde;o ocorre quando <img src=" /img/revistas/resr/v52n1/04s14.jpg" align="absmiddle">,    e a hip&oacute;tese alternativa de integra&ccedil;&atilde;o ocorre quando <img src=" /img/revistas/resr/v52n1/04s15.jpg" align="absmiddle">,    em que n &eacute; o n&uacute;mero de mercados analisados. O mercado ser&aacute;    integrado com custos de transa&ccedil;&atilde;o insignificantes se <img src=" /img/revistas/resr/v52n1/04s16.jpg" align="absmiddle">    e apresentar&aacute; um custo de transa&ccedil;&atilde;o significante em caso    contr&aacute;rio.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A integra&ccedil;&atilde;o    de mercados com custos de transa&ccedil;&atilde;o significantes pode ocorrer    devido &agrave;s diferen&ccedil;as de pre&ccedil;o resultantes de fatores como    custo de transa&ccedil;&atilde;o, mensurado como percentual da diferen&ccedil;a    de pre&ccedil;os (GOLDBERG e VERBOVEN, 2005).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Beyaert e Camacho    (2008) estenderam o modelo representado na equa&ccedil;&atilde;o (5) incluindo    efeitos limiares para capturar poss&iacute;veis efeitos n&atilde;o lineares    entre as vari&aacute;veis. Desta forma, o modelo &eacute; definido como:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s17.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No qual I{x} &eacute;    uma fun&ccedil;&atilde;o indicadora que assume valor 1 quando a informa&ccedil;&atilde;o    x &eacute; verdadeira e 0, caso contr&aacute;rio. Assim, quando Z<sub><i>t</i>-1</sub>    &lt; </font><font  size="2">&#955;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">,    a equa&ccedil;&atilde;o &eacute; representada por <img src=" /img/revistas/resr/v52n1/04s18.jpg" align="absmiddle">    e no caso contr&aacute;rio, isto &eacute;, quando Z<sub><i>t</i>-1</sub> </font><font  size="2">&#8805;    &#955;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">, tem-se    que <img src=" /img/revistas/resr/v52n1/04s19.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ou seja, para qualquer    per&iacute;odo de observa&ccedil;&atilde;o <i>t</i>, a din&acirc;mica dos diferenciais    de pre&ccedil;os em termos de <img src=" /img/revistas/resr/v52n1/04s20.jpg" align="absmiddle">    pode acompanhar qualquer um dos dois regimes poss&iacute;veis. O regime I acontece    quando Z<sub>t-1</sub> &lt; </font><font  size="2">&#955;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    e o regime II, quando Z<sub>t-1</sub> </font><font  size="2">&#8805; &#955;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">;    em que </font><font  size="2">&#955;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    &eacute; o par&acirc;metro <i>threshold</i> que indica o valor limiar entre    os regimes I e II para a vari&aacute;vel indicadora Z<sub>t-1.</sub></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O modelo linear    representado em (5) &eacute; um caso particular do modelo com efeito limiar    expresso na equa&ccedil;&atilde;o (6). Por&eacute;m, para que o modelo com efeito    limiar n&atilde;o se aproxime muito do modelo linear - pois ambos s&atilde;o    explica&ccedil;&otilde;es alternativas para um mesmo fen&ocirc;meno - imp&otilde;e-se    a restri&ccedil;&atilde;o <img src=" /img/revistas/resr/v52n1/04s21.jpg" align="absmiddle">    durante o processo de estima&ccedil;&atilde;o. Ou seja, nenhum dos regimes pode    ter fra&ccedil;&atilde;o da amostra menor do que </font><font  size="2">&#960;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>1</sub>,    cujo valor fica em torno de 0,10 ou 0,15. Neste trabalho, o valor de </font><font  size="2">&#960;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>1</sub>    foi fixado em 0,10.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A vari&aacute;vel    de transi&ccedil;&atilde;o <i>Zt</i> utilizada neste trabalho &eacute; dada    por <img src=" /img/revistas/resr/v52n1/04s22.jpg" align="absmiddle">, para    algum <i>m</i> e 0 &lt; <i>d</i> <u>&lt;</u> <i>p.</i> Ao fazer isso, <i>Zt</i>    torna-se estacion&aacute;ria.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Seja <img src=" /img/revistas/resr/v52n1/04s23.jpg" align="absmiddle">,    ent&atilde;o, o processo de estima&ccedil;&atilde;o da equa&ccedil;&atilde;o    (6) consiste em realizar uma busca para os valores de </font><font  size="2">&#952;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    que minimizem a vari&acirc;ncia amostral <img src=" /img/revistas/resr/v52n1/04s24.jpg" align="absmiddle">.    Ou seja,</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s25.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na qual <img src=" /img/revistas/resr/v52n1/04s26.jpg" align="absmiddle">    e <img src=" /img/revistas/resr/v52n1/04s27.jpg" align="absmiddle"> &eacute;    uma estimativa da matriz de vari&acirc;ncia e covari&acirc;ncia dos erros da    regress&atilde;o apresentada em (6). Este m&eacute;todo de estima&ccedil;&atilde;o    &eacute; conhecido como <i>grid</i>-FGLS. No teste de linearidade, a hip&oacute;tese    nula a ser testada &eacute; a de que o modelo linear &eacute; o correto contra    a hip&oacute;tese alternativa que favorece a especifica&ccedil;&atilde;o do    modelo com efeito limiar. Mas, como os par&acirc;metros </font><font  size="2">&#955;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">,    <i>m</i> e <i>d</i> n&atilde;o s&atilde;o identificados sob a hip&oacute;tese    nula, os testes convencionalmente aplicados para casos como este n&atilde;o    t&ecirc;m distribui&ccedil;&atilde;o padr&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para testar qual    o modelo mais apropriado a ser utilizado, Beyaert e Camacho (2008) adotam o    procedimento de realizar simula&ccedil;&otilde;es de <i>bootstrap</i> para a    obten&ccedil;&atilde;o do <i>p</i>-valor para as estat&iacute;sticas de teste.    A hip&oacute;tese nula do teste &eacute;:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s28.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A hip&oacute;tese    alternativa &eacute; de que nem todos os coeficientes sejam iguais. O modelo    linear &eacute; estimado por FGLS (m&iacute;nimos quadrados generalizados fact&iacute;vel)    e o modelo com efeito <i>threshold</i>, atrav&eacute;s de <i>grid</i>-FGLS.    Assim, calcula-se a fun&ccedil;&atilde;o de verossimilhan&ccedil;a para o ponto    de estima&ccedil;&atilde;o de cada modelo, L<sub>1</sub> e L<sub>2</sub>, respectivamente,    e se obt&eacute;m:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s29.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A hip&oacute;tese    nula de linearidade ser&aacute; rejeitada se &pound;<sub>1,2</sub> for maior    do que o valor cr&iacute;tico. Como neste momento da estima&ccedil;&atilde;o    ainda n&atilde;o se sabe se as s&eacute;ries t&ecirc;m ra&iacute;zes unit&aacute;rias    ou n&atilde;o, dois valores de <i>bootstrap</i> devem ser obtidos para o valor    cr&iacute;tico de &pound;<sub>1,2</sub>. O primeiro valor, para o caso de as    s&eacute;ries n&atilde;o terem ra&iacute;zes unit&aacute;rias e o segundo valor,    para o caso de as s&eacute;ries possu&iacute;rem ra&iacute;zes unit&aacute;rias.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Se a hip&oacute;tese    nula de linearidade for rejeitada, a estima&ccedil;&atilde;o dever&aacute; ser    realizada com base no modelo n&atilde;o linear. Supondo que isto aconte&ccedil;a,    a pr&oacute;xima etapa consiste em testar</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s30.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A hip&oacute;tese    nula em (9) significa a aus&ecirc;ncia de converg&ecirc;ncia em ambos os regimes.    A hip&oacute;tese alternativa (10) significa converg&ecirc;ncia global, em ambos    os regimes. As hip&oacute;teses alternativas (11) e (12) denotam converg&ecirc;ncia    parcial, apenas no regime <i>I</i> e apenas no regime <i>II</i>, respectivamente.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para realizar os    testes entre as tr&ecirc;s hip&oacute;teses alternativas, Beyaert e Camacho    (2008) adotaram o procedimento proposto por Caner e Hansen (2001) de realizar    um teste baseado no crit&eacute;rio de Wald contra a hip&oacute;tese de converg&ecirc;ncia    global.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pode-se, ainda,    discriminar entre os tipos de converg&ecirc;ncia absoluta ou condicional. Converg&ecirc;ncia    absoluta significa que as unidades observacionais <i>n</i> tendem para um mesmo    equil&iacute;brio estacion&aacute;rio. J&aacute; a converg&ecirc;ncia condicional    significa que elas tendem para equil&iacute;brios estacion&aacute;rios diferentes.    Para o modelo TAR (10), supondo <img src=" /img/revistas/resr/v52n1/04s31.jpg" align="absmiddle">    e <i>i = I,II</i>. As hip&oacute;teses para estes testes s&atilde;o:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s32.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A hip&oacute;tese    nula em (13) implica que a converg&ecirc;ncia &eacute; absoluta em ambos os    regimes. A hip&oacute;tese alternativa em (14) indica que a converg&ecirc;ncia    &eacute; condicional em ambos os regimes. As hip&oacute;teses alternativas (15)    e (16) significam converg&ecirc;ncia absoluta no regime <i>I</i> e condicional    no regime <i>II</i>, para a primeira, e converg&ecirc;ncia condicional no regime    <i>I</i> e absoluta no regime II, para a segunda.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No caso de converg&ecirc;ncia    condicional, por exemplo, apenas no regime <i>I</i>, pode-se testar</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s33.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A hip&oacute;tese    nula em (17) representa converg&ecirc;ncia absoluta, enquanto a hip&oacute;tese    alternativa em (18) significa converg&ecirc;ncia condicional, ambas em rela&ccedil;&atilde;o    ao regime em an&aacute;lise. Similarmente, poderia ser feito o teste para a    suposi&ccedil;&atilde;o de converg&ecirc;ncia parcial apenas no regime <i>II</i>.    Por conta da endogeneidade da vari&aacute;vel de transi&ccedil;&atilde;o, s&atilde;o    obtidos p-valores por <i>bootstrap</i> atrav&eacute;s do modelo linear com a    imposi&ccedil;&atilde;o da restri&ccedil;&atilde;o <img src=" /img/revistas/resr/v52n1/04s34.jpg" align="absmiddle">.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com o intuito de    realizar uma abordagem alternativa, buscou-se estimar um modelo de vetores autorregressivos    (VAR). Um VAR pode ser entendido como uma forma reduzida de um modelo de equa&ccedil;&otilde;es    simult&acirc;neas. Mais especificamente, um VAR(p) pode ser expresso como</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s35.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que <i>y</i><sub>t</sub>    &eacute; um vetor de vari&aacute;veis de dimens&atilde;o (Nx1) e </font><font  size="2">&#949;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>t</sub>    &eacute; uma transforma&ccedil;&atilde;o linear de u<sub>t ,</sub>o vetor de    erros da forma estrutural do sistema. Utilizando o operador de defasagens pode-se    reescrever o VAR como</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s36.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os coeficientes    de </font><font  size="2">&#934;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    s&atilde;o denominados de multiplicadores do sistema e cada inova&ccedil;&atilde;o,    <i>v</i><sub>mt</sub>, est&aacute; associada com uma vari&aacute;vel espec&iacute;fica    de <i>y</i><sub>t</sub>, <i>y</i><sub>mt</sub>. Se <img src=" /img/revistas/resr/v52n1/04s37.jpg" align="absmiddle">    &eacute; o vetor de equil&iacute;brio e h&aacute; uma modifica&ccedil;&atilde;o    de um dos v's por um &uacute;nico per&iacute;odo; ent&atilde;o, <i>y</i><sub>mt</sub>    ir&aacute; se afastar e retornar novamente ao equil&iacute;brio. A trajet&oacute;ria    por onde as vari&aacute;veis retornam ao equil&iacute;brio &eacute; chamado    de fun&ccedil;&atilde;o impulso-resposta do VAR. Mais especificamente, se um    choque temporal no sistema &eacute; denominado <i>dv</i><sub>mt</sub>; ent&atilde;o,    no per&iacute;odo t, tem-se que:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src=" /img/revistas/resr/v52n1/04s38.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A fun&ccedil;&atilde;o    <img src=" /img/revistas/resr/v52n1/04s39.jpg" align="absmiddle"><sub>mm</sub>(<i>i</i>)    representa as caracter&iacute;sticas de impulso-resposta da vari&aacute;vel    <i>y</i><sub>m</sub> &agrave;s inova&ccedil;&otilde;es em <i>v</i><sub>m</sub>.    Uma forma usual de caracterizar o sistema &eacute; apresentar graficamente as    fun&ccedil;&otilde;es impulso-resposta. Tal procedimento ilustra o efeito que    um choque unit&aacute;rio em <i>v</i><sub>m</sub> causa na vari&aacute;vel m.    Nesse estudo, utiliza-se a fun&ccedil;&atilde;o de impulso-resposta generalizada    que evita poss&iacute;veis problemas de ordena&ccedil;&atilde;o das vari&aacute;veis    no VAR (PESARAM e SHIN, 1998).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Caso as vari&aacute;veis    que constituem o modelo sejam estacion&aacute;rias, pode-se estimar o VAR utilizando    as s&eacute;ries em n&iacute;vel. J&aacute; no caso de elas serem processos    de raiz unit&aacute;ria e cointegradas, estima-se o VAR em diferen&ccedil;as    incluindo um termo de corre&ccedil;&atilde;o de erro (VEC). Desta forma, este    estudo utilizar&aacute; o teste de raiz unit&aacute;ria de Dickey-Fuller Aumentado    (ADF) e o teste de estacionariedade de Kwiatkowski, Phillips, Schmidt e Shin    (KPSS) para verificar se as s&eacute;ries s&atilde;o estacion&aacute;rias. Posteriormente,    estima-se o modelo de vetores autorregressivos (VAR) apropriado &agrave; ordem    de integra&ccedil;&atilde;o das vari&aacute;veis. Finalmente, utilizando crit&eacute;rios    de informa&ccedil;&atilde;o (Akaike, Schwarz e Hannan-Quinn, por exemplo), identifica-se    o n&uacute;mero de defasagens adequado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Depois de estimado    o VAR, testes de causalidade de Granger ser&atilde;o realizados. Como nesse    estudo o vetor de vari&aacute;veis &eacute; maior do que 2, pode-se testar causalidade    no sentido de Granger entre pares de vari&aacute;veis, ou em bloco de vari&aacute;veis.    Nesse &uacute;ltimo caso, a hip&oacute;tese nula &eacute; a de que uma das vari&aacute;veis    do sistema n&atilde;o &eacute; causada por todas as outras. Por fim, as fun&ccedil;&otilde;es    de impulso-resposta generalizadas ser&atilde;o calculadas e empregadas em uma    an&aacute;lise complementar da interdepend&ecirc;ncia dos mercados.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. An&aacute;lise    de resultados</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>4.1. O mercado    de tomates no Brasil e a base de dados</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href=" /img/revistas/resr/v52n1/04t01.jpg">Tabela    1</a> apresenta a quantidade produzida de tomates no Brasil e nas suas regi&otilde;es    geogr&aacute;ficas no per&iacute;odo de 2000 a 2007. Observa-se que a regi&atilde;o    Sudeste lidera a produ&ccedil;&atilde;o de tomates, seguida das regi&otilde;es    Centro-Oeste e Nordeste.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De acordo com os    dados apresentados na <a href=" /img/revistas/resr/v52n1/04t02.jpg">Tabela 2</a>,    verifica-se que o Estado de Goi&aacute;s &eacute; o maior produtor, com uma    produ&ccedil;&atilde;o de 801.960 toneladas de tomates em 2007. Em seguida,    v&ecirc;m os estados de S&atilde;o Paulo, Minas Gerais, Rio de Janeiro e Bahia,    que &eacute; o maior produtor de tomates da Regi&atilde;o Nordeste, onde cerca    de 80% da sua produ&ccedil;&atilde;o &eacute; concentrada no per&iacute;metro    irrigado Juazeiro-BA/Petrolina-PE (CEASA, 2009).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>4.2. Estima&ccedil;&atilde;o    do Modelo Econom&eacute;trico</i></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Inicialmente, aplicou-se    o procedimento de Beyaert e Camacho (2008)<a name="top3"></a><a href="#back3"><sup>3</sup></a>    para testar a hip&oacute;tese de uma equa&ccedil;&atilde;o de converg&ecirc;ncia    linear contra uma n&atilde;o linear com efeito limiar, a qual n&atilde;o foi    rejeitada ao n&iacute;vel de signific&acirc;ncia de 5%. Em seguida, atrav&eacute;s    do modelo linear baseado em Evans e Karras (1996), com a matriz de vari&acirc;ncia    e covari&acirc;ncia utilizada por Beyaert e Camacho (2008), rejeitou-se a hip&oacute;tese    nula de n&atilde;o integra&ccedil;&atilde;o entre as s&eacute;ries de pre&ccedil;o    analisadas, conforme a <a href=" /img/revistas/resr/v52n1/04t03.jpg">Tabela    3</a>. Esse resultado indica um processo de converg&ecirc;ncia entre as s&eacute;ries    de pre&ccedil;o de tomate nos 13 mercados analisados. Em outras palavras, h&aacute;    evid&ecirc;ncias emp&iacute;ricas favor&aacute;veis a um processo de integra&ccedil;&atilde;o    nos mercados atacadistas desse produto.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Depois, foi aplicado    o teste de converg&ecirc;ncia para a LPU sem custo de transa&ccedil;&atilde;o    <i>versus</i> converg&ecirc;ncia com custo de transa&ccedil;&atilde;o. Os resultados    mostram que todos os <i>c</i><sub>n</sub> s&atilde;o estatisticamente significantes,    conforme os resultados apresentados na <a href=" /img/revistas/resr/v52n1/04t04.jpg">Tabela    4</a>. Esse resultado favorece a exist&ecirc;ncia de um processo de integra&ccedil;&atilde;o    entre os mercados atacadistas do tomate com custos de transa&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como abordagem    alternativa, realizou-se uma an&aacute;lise de vetores autorregressivos (VAR).    Primeiramente, verificou-se a estacionariedade de cada uma das s&eacute;ries    de pre&ccedil;o atrav&eacute;s do teste de raiz unit&aacute;ria de Dickey-Fuller    Aumentado (ADF) e do teste de estacionariedade de Kwiatkowski, Phillips, Schmidt    e Shin (KPSS). Os resultados indicaram que as s&eacute;ries s&atilde;o estacion&aacute;rias    em n&iacute;vel<a name="top4"></a><a href="#back4"><sup>4</sup></a>, corroborando    os resultados obtidos no teste de converg&ecirc;ncia.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em seguida, foi    estimado um modelo de vetores autorregressivos, no qual foram utilizados os    crit&eacute;rios de informa&ccedil;&atilde;o de Akaike, Schwarz e Hannan-Quinn    para a identifica&ccedil;&atilde;o das defasagens. Todos estes crit&eacute;rios    apontaram que o melhor n&uacute;mero de defasagens &eacute; igual a 1 (ver <a href=" /img/revistas/resr/v52n1/04a03.jpg">Tabela    3A</a>). Depois de estimado o VAR (1), testes de causalidade de Granger entre    pares de vari&aacute;veis e em bloco, utilizado para testar a hip&oacute;tese    nula de que uma das vari&aacute;veis do sistema n&atilde;o &eacute; causada    pelas demais, foram realizados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nos resultados    dos testes de causalidade de Granger em bloco, a &uacute;nica vari&aacute;vel    que n&atilde;o &eacute; causada por todas as outras, ao n&iacute;vel de signific&acirc;ncia    de 1%, foi a vari&aacute;vel LNSAMPA, representando a Ceagesp (Central de Abastecimento    Agr&iacute;cola do Estado de S&atilde;o Paulo), a maior central de abastecimento    brasileira e que det&eacute;m o maior volume de comercializa&ccedil;&atilde;o    de tomates do Brasil. Isso indica que o mercado de tomate de S&atilde;o Paulo    &eacute; o &uacute;nico independente dos demais. Ou seja, o pre&ccedil;o do    tomate desse mercado n&atilde;o &eacute; causado por nenhum outro mercado, enquanto    que, nos demais, h&aacute; uma rela&ccedil;&atilde;o de interdepend&ecirc;ncia    entre seus pre&ccedil;os e os dos outros mercados. Esses resultados corroboram    a evid&ecirc;ncia de integra&ccedil;&atilde;o no mercado atacadista brasileiro    de tomate.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O teste de causalidade    par a par, isto &eacute;, entre apenas duas vari&aacute;veis, causalidade de    apenas uma semana &agrave; frente em um sistema com mais de duas vari&aacute;veis,    evidencia que a vari&aacute;vel LNBH &eacute; causada por LNSAMPA e LNCAMP;    ou seja, o mercado atacadista de Belo Horizonte (MG) &eacute; causado pelos    dois maiores mercados atacadistas de tomate da regi&atilde;o Sudeste: S&atilde;o    Paulo e Campinas, em S&atilde;o Paulo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ainda neste sentido,    a vari&aacute;vel LNIBI &eacute; causada por LNFORT, LNREC, LNSAMPA, LNBH e    LNBRA. Neste caso, deve-se ressaltar que quase toda a produ&ccedil;&atilde;o    da Ibiapaba (CE) &eacute; comercializada atrav&eacute;s de Fortaleza (CE) e    Recife (PE). J&aacute; LNJUA &eacute; causada por LNIBI, LNFORT e LNREC. Ou    seja, os dois principais mercados produtores de tomates do Nordeste s&atilde;o    causados pelos dois principais mercados atacadistas desta regi&atilde;o; ou    seja, Fortaleza (CE) e Recife (PE)<a name="top5"></a><a href="#back5"><sup>5</sup></a>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vale ressaltar    a integra&ccedil;&atilde;o entre os mercados atacadistas do Nordeste, com destaque    para os mercados de Recife (PE) e, principalmente, Fortaleza (CE), os quais    exercem forte influ&ecirc;ncia sobre todos os demais mercados da regi&atilde;o.    Deve-se salientar que estes dois mercados s&atilde;o os maiores mercados atacadistas    de tomate da regi&atilde;o Nordeste em termos de volume de comercializa&ccedil;&atilde;o.    Outro ponto importante a ser observado &eacute; que os mercados produtores de    Ibiapaba (CE) e Juazeiro (BA) pouco, ou quase nada, influenciam os mercados    atacadistas do Nordeste, ao contr&aacute;rio do que acontece com os mercados    produtores das regi&otilde;es Sul e Sudeste, como Campinas (SP), Curitiba (PR),    Rio de Janeiro e Belo Horizonte (MG), que influenciam os mercados atacadistas    das suas respectivas regi&otilde;es.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Uma poss&iacute;vel    explica&ccedil;&atilde;o para isto reside no fato de que os mercados de Ibiapaba    (CE) e Juazeiro (BA) s&atilde;o formados por pequenos e m&eacute;dios produtores,    geralmente sem v&iacute;nculo com cooperativas de produtores, com baixo grau    de escolaridade e sem acesso a manejos tecnol&oacute;gicos e ao cr&eacute;dito.    Fato este que dificulta a negocia&ccedil;&atilde;o de melhores pre&ccedil;os    junto aos atacadistas. Ao contr&aacute;rio dos produtores das regi&otilde;es    Sul e Sudeste, que na sua maioria s&atilde;o produtores cooperados, com alto    n&iacute;vel de escolaridade, quando comparados aos produtores nordestinos,    o que lhes permite melhores contratos de compra e venda de tomate.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para analisar qual    a influ&ecirc;ncia do mercado de S&atilde;o Paulo sobre os demais, foi utilizada    a fun&ccedil;&atilde;o de impulso-resposta generalizada<a name="top6"></a><a href="#back6"><sup>6</sup></a>    (PESARAM e SHIN, 1998), na qual foram dados choques na s&eacute;rie LNSAMPA    e analisadas as respostas nas demais s&eacute;ries (ver <a href=" /img/revistas/resr/v52n1/04f02.jpg">Figura    2</a>). Os resultados mostram que choques em LNSAMPA implicam em aumentos nos    pre&ccedil;os em quase todos os outros mercados, com exce&ccedil;&atilde;o de    LNREC e LNJUA, que t&ecirc;m pequena queda durante tr&ecirc;s semanas e, logo    ap&oacute;s, o pre&ccedil;o nesses mercados aumenta at&eacute; a vig&eacute;sima    segunda e vig&eacute;sima quarta semanas.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os maiores choques    ocorreram em LNBH, LNBRAS, LNCRTB, LNIBI e LNRJ, permanecendo durante 24 semanas.    J&aacute; em LNFOR e LNNAT, o choque n&atilde;o foi t&atilde;o significante    quanto nas outras s&eacute;ries, mas permanece durante 22 semanas. Isso implica    que o mercado de S&atilde;o Paulo tem forte influ&ecirc;ncia sobre todos os    mercados brasileiros, principalmente nos mercados das regi&otilde;es Sul, Sudeste    e Centro-Oeste.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Conclus&otilde;es    e sugest&otilde;es</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O objetivo deste    trabalho foi propor uma abordagem econom&eacute;trica para analisar a integra&ccedil;&atilde;o    de mercados intrarregionais, a qual permite testar se h&aacute; integra&ccedil;&atilde;o    e se esse processo ocorre com custos de transa&ccedil;&otilde;es relevantes.    Os resultados obtidos favorecem a hip&oacute;tese de integra&ccedil;&atilde;o    entre os principais mercados brasileiros de tomate e, neste processo, h&aacute;    evid&ecirc;ncias claras de custos de transa&ccedil;&atilde;o. Portanto, os pre&ccedil;os    de equil&iacute;brio destes mercados s&atilde;o diferentes, mas a dist&acirc;ncia    entre estes pre&ccedil;os &eacute; limitada a estes custos de transa&ccedil;&atilde;o.    Al&eacute;m disso, os resultados indicam que o mercado atacadista de S&atilde;o    Paulo se comporta de forma independente, mas influencia todos os outros mercados    atacadistas do Brasil, principalmente o mercado das regi&otilde;es Sul, Sudeste    e Centro-Oeste, como seria de se esperar. Este resultado indica que o processo    de integra&ccedil;&atilde;o desse mercado pode ser resultado da exist&ecirc;ncia    de um pre&ccedil;o-base, no sentido apresentado por Faminow e Benson (1990),    determinado no mercado de S&atilde;o Paulo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">J&aacute; no Nordeste,    os mercados locais s&atilde;o interdependentes, com forte influ&ecirc;ncia de    Recife (PE) e, principalmente, de Fortaleza (CE), sobre os demais mercados da    regi&atilde;o. No Nordeste, verifica-se tamb&eacute;m que os mercados produtores,    Ibiapaba (CE) e Juazeiro (BA), n&atilde;o exercem uma influ&ecirc;ncia significativa    sobre os outros mercados atacadistas. De forma contr&aacute;ria, os mercados    produtores nas regi&otilde;es Sul e Sudeste, como Campinas (SP), Curitiba (PR),    Rio de Janeiro e Belo Horizonte (MG), influenciam os mercados atacadistas das    suas respectivas regi&otilde;es.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O grau de integra&ccedil;&atilde;o    &eacute; fun&ccedil;&atilde;o dos custos de transa&ccedil;&atilde;o, que por    sua vez, t&ecirc;m como principais fatores o capital f&iacute;sico, principalmente    estradas, capital humano, oferta e demanda, com&eacute;rcio, presen&ccedil;a    de cooperativas, al&eacute;m de pol&iacute;ticas que facilitem o acesso ao cr&eacute;dito    e aprimorem a capacita&ccedil;&atilde;o t&eacute;cnica (GONZ&Aacute;LEZ-RIVERA    e HELFAND, 2001). Neste sentido, uma poss&iacute;vel explica&ccedil;&atilde;o    para o fato de que os mercados de Ibiapaba (CE) e Juazeiro (BA) n&atilde;o influenciarem    os mercados atacadistas de suas regi&otilde;es &eacute; a de que estes mercados    s&atilde;o formados por pequenos e m&eacute;dios produtores, geralmente n&atilde;o    associados &agrave;s cooperativas, com baixo grau de escolaridade e pouco acesso    a manejos tecnol&oacute;gicos e ao cr&eacute;dito - ao contr&aacute;rio dos    produtores das regi&otilde;es Sul e Sudeste, que s&atilde;o, em maioria, cooperados    e com maior n&iacute;vel de escolaridade, o que lhes permite melhores contratos    de compra e venda quando comparados aos produtores nordestinos. Enfim, estudos    que indiquem as pol&iacute;ticas adequadas para reduzir os custos de transa&ccedil;&atilde;o    no mercado brasileiro de tomate s&atilde;o necess&aacute;rios para aumentar    a disponibilidade desse produto a um menor pre&ccedil;o e com menor variabilidade    ao longo do ano para os consumidores finais.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>6. Refer&ecirc;ncias    bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ABITANTE, K. G.    Co-integra&ccedil;&atilde;o entre os mercados spot e futuro: evid&ecirc;ncias    dos mercados de boi gordo e soja. <i>Revista de Economia e Sociologia Rural</i>.    v. 46, n. 01, p. 075-096, jan/mar 2008</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0103-2003201400010000400001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALVES, L. R. A.    <i>Transmiss&atilde;o de pre&ccedil;os entre produtos do setor sucroalcooleiro    do Estado de S&atilde;o Paulo</i>. 102p. Disserta&ccedil;&atilde;o (Mestrado    em Economia) - Departamento de Economia da Faculdade de Economia, Administra&ccedil;&atilde;o    e Contabilidade da Universidade de S&atilde;o Paulo, S&atilde;o Paulo, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003201400010000400002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BAI, J. e PERRON,    P. Estimating and testing linear models with multiple structural changes. <i>Econometrica</i>,    v. 66, n. 1, p. 47-78, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003201400010000400003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BALCOMBE, K., BAILEY,    A. e BROOKS, J. Threshold Effects in Price Transmission: the case of Brazilian    wheat, maize, and soya prices. <i>American Journal of Agronomical Economics</i>,    v. 89, n. 2, p. 308-323, maio 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003201400010000400004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BALKE, N. S. e    FOMBY, T.B. Threshold cointegration. <i>International Economic Review</i>, v.    38, n. 3, p. 627-645, ago. 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003201400010000400005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BARRET, C. B. <b><i>Spatial    market integration</i></b>. Cornell University, 2005, p.1-7.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003201400010000400006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BEYAERT, A. e CAMACHO,    M. TAR painel unit root tests and real convergence. <i>Review of Development    Economics</i>, v. 12, n. 3, p. 668-681, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003201400010000400007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BUKENYA, J. O.    e LABYS, W. C. <i>Price convergence on world commodity markets: fact or fiction</i>.    Research Paper 2002-1. West Virginia University. p. 40, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003201400010000400008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CANER, M. e HANSEN,    B. Threshold Autoregression with a Unit Root. <i>Econometrica</i>, v. 69, p.    1555 - 1596, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003201400010000400009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CEASA - Central    de Abastecimento S/A - <i>Sistema de Informa&ccedil;&otilde;es de Mercados Agr&iacute;colas</i>,    2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003201400010000400010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CHIN, L. e HABIBULLAH,    M. S. Price convergence and market integration: evidence from Malaysia. <i>Journal    of Economics and Management</i>, v. 2, n. 2, p. 343-352, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003201400010000400011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">COELHO, A. B. <i>A    cultura do Algod&atilde;o e a quest&atilde;o da Integra&ccedil;&atilde;o entre    pre&ccedil;os internos e externos.</i> 136p. Disserta&ccedil;&atilde;o (Mestrado    em Economia) - Departamento de Economia da Faculdade de Economia, Administra&ccedil;&atilde;o    e Contabilidade da Universidade de S&atilde;o Paulo, S&atilde;o Paulo, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003201400010000400012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ENKE, S. Equlibrium    among spatially separated markets: solution by electrical analogue. <i>Econometrica</i>,    v. 19, p. 40-47, 1951.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003201400010000400013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">EVANS, P. e KARRAS,    G. Convergence revisited. <i>Journal of Monetary Economic</i>, v. 37, p. 249-65,    1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003201400010000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FACKLER, P. e GOODWIN,    B. K. <i>Spatial price analysis: a methological review</i>. North Carolina,    Department of Agricultural and Resourse Economics. North Carolina State University,    2000 (Mimeogr.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003201400010000400015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->)</font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FAMINOW, M. D.    e BENSON, B. L. Integration of spatial markets. <i>American Journal of Agricultural    Economics</i>, v. 72, n. 1, p. 49-62, fev. 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003201400010000400016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FERNANDES, M. e    TORO, J. O Mecanismo Monet&aacute;rio de transmiss&atilde;o na Economia Brasileira    P&oacute;s-plano Real. <i>Revista Brasileira de Economia</i>, v. 59, n. 1, p.    5-32, Jan./Mar. 2005. Dispon&iacute;vel em: &lt;epge.fgv.br/portal/arquivo/1293.pdf&gt;.    Acesso em: 15 jun. 2006.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOLDBERG, P. K.    e VERBOVEN, F. Market integration and convergence to the Law of One Price: evidence    from the European car market. <i>Journal of International Economics</i>, v.    65, p. 49-73, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003201400010000400018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOLETTI, F., RAISUDDIN,    A. e FARID, N. Structural determinants of market integration. The case of rice    markets in Bangladesh. <i>The Developing Economies</i>, v. 33, n. 2, p. 185-202,    jun. 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003201400010000400019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GONZ&Aacute;LEZ-RIVERA,    G. e HELFAND, S. M. <i>Economic development and the determinants of spatial    integration in agricultural markets</i>. Riverside: Department of Economics,    University of California, 2001. (Working Paper,28).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003201400010000400020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOODWIN, B. K.    e HOLT, M. T. Price transmission and asymmetric adjustment in the U.S. beef    sector. <i>American Journal of Agricultural Economics</i>, v. 81, n. 3, p. 630-637,    ago. 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003201400010000400021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOODWIN, B. K.    e PIGOTT, N. E. Spatial market integration in the presence of threshold effects.    <i>American Journal of Agriculture Economics</i>, v. 83, n. 2, p. 302-307, maio    2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003201400010000400022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GRANGER, C. W.    J. Investigating causal relationship by econometric models and cross-spectral    methods. <i>Econometrica</i>, v. 37, n. 3, p. 424-439, jul. 1969.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003201400010000400023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HOTELING, H. Stability    in competition. <i>Economic Journal</i>, v. 36, p. 41-57, 1929.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003201400010000400024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">IBGE - Instituto    Brasileiro de Geografia e Estat&iacute;stica. SIDRA. <i>Produ&ccedil;&atilde;o    de Tomates</i>. Dispon&iacute;vel em: &lt;<a href="http://www.ibge.gov.br" target="_blank">www.ibge.gov.br</a>&gt;.    Acesso em: 5 jan. 2009.</font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LEVIN, A. e LIN,    C. Unit root tests in painel data: asymptotic and finite-simple properties,    unpublished manuscript, University of California, San Diego. <i>Discussion Paper    92-23</i>, maio 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0103-2003201400010000400026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LO, M. C. e ZIVOT,    E. Threshold cointegration and nonlinear adjustment to the Law of One Price.    <i>Macroeconomic Dynamics</i>, v. 5, n. 4, p. 533-576, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003201400010000400027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MATTOS, L. B. de.    <i>Efeitos de custos de transa&ccedil;&atilde;o sobre a integra&ccedil;&atilde;o    espacial de mercados regionais da carne de frango no Brasil</i>. (Tese de Doutorado    em Economia). Universidade Federal de Vi&ccedil;osa/MG - Vi&ccedil;osa/MG, 2008,    162p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003201400010000400028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MAYORGA, R. D.    <i>Price relationships and market integration: a northeast of Brazil case study</i>.    1989, 131p. Tese (Doutorado em Ci&ecirc;ncia dos Recursos de Terras &Aacute;ridas)    - Commitee on Arid Lands Resource Science, Univerty of Arizona, USA. 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0103-2003201400010000400029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MAYORGA, R. de    O., KHAN, A. S., MAYORGA, R. D., LIMA, P. V. P. S. e MARGARIDO, M. A. An&aacute;lise    de transmiss&atilde;o de pre&ccedil;os do mercado atacadista de mel&atilde;o    do Brasil. <i>Revista de Economia e Sociologia Rural</i>, v. 45, p. 275-704,    2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003201400010000400030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MAYORGA, R. D.,    TABOSA, F. J. S., MAYORGA, R. de O. e LIMA, P. V. P. S. Relacionamento de pre&ccedil;os    no mercado nordestino do tomate. <i>Revista de Economia e Agroneg&oacute;cio</i>,    v. 7, n. 1, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0103-2003201400010000400031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RAVALLION, M. Testing    market integration. <i>American Journal Agricultural Economics</i>, v. 68, n.    1, p. 102-109, fev. 1986.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0103-2003201400010000400032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ROEHNER, M. B.    <i>Theory of Markets: Trade and Space-Time Patterns of Price Fluctuations</i>.    Heidelberg: Springer-Verlag, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S0103-2003201400010000400033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SACHS, R. C. C.    e PINATTI, E. An&aacute;lise do comportamento dos Pre&ccedil;os do boi gordo    e do boi magro na pecu&aacute;ria de corte paulista, no per&iacute;odo de 1995    a 2006. <i>Revista de Economia e Agroneg&oacute;cio</i>, v. 5, n. 3, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0103-2003201400010000400034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SAMUELSON, P. Spatial    price equilibriun and linear programming. <i>American Economic Review</i>, v.    42, p. 283-303, 1952.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0103-2003201400010000400035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">STIGLER, J. G.    e SHERWIN, R. The extent of the market. <i>Journal of Law and Eonomics</i>,    v. 28, n. 3, p. 555-585, out. 1985.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S0103-2003201400010000400036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SUSANTO, D., ROSSON,    C. P., ADCOCK, F. J. e CLARK, G. Market integration of agribusiness in the North    American free trade agreement: the case of fruits and vegetables. <i>17 Annual    World Forum and Symposium International Food and Agribusiness Management Association</i>.    Parma, Italy: June 23-26, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000210&pid=S0103-2003201400010000400037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TABOSA, F. J. S.,    SILVA, D. M. F., MADALOZZO, C. L. e CAMPOS, R. T. Causalidade e Elasticidade    de Transmiss&atilde;o do tomate no Estado do Cear&aacute; - 1995-2002. In: XLII    Congresso Brasileiro de Economia e Sociologia Rural. <i>Anais do XLII Congresso    da Sociedade Brasileira de Economia e Sociologia Rural-SOBER</i>. Bras&iacute;lia:    SOBER. v. 1. 2004a, 9p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000212&pid=S0103-2003201400010000400038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TAKAYAMA, T. e    JUDGE, G. <i>Spatial and Temporal Price Allocation Models</i>. Amsterdam: North-Holland,    1971.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000214&pid=S0103-2003201400010000400039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back1"></a><a href="#top1">1</a>    O Brasil &eacute; o 9&ordm; maior produtor de tomates do mundo, com produ&ccedil;&atilde;o    de 3,4 milh&otilde;es de toneladas em 2007 (IBGE, 2009). A cadeia produtiva    do tomate estende-se por diversos estados do Brasil, principalmente nas regi&otilde;es    Sudeste, Centro-Oeste e Nordeste, com m&uacute;ltiplos centros produtores e    de processamento. Mercados atacadistas que comercializam este produto est&atilde;o    em praticamente todos os grandes centros urbano-industriais do pa&iacute;s.    <br>   <a name="back2"></a><a href="#top2">2</a> N&atilde;o foi poss&iacute;vel incluir    todos os estados, principalmente da regi&atilde;o Norte, por falta de dados    confi&aacute;veis.    <br>   <a name="back3"></a><a href="#top3">3</a> Utilizou-se uma vers&atilde;o adaptada    da rotina em Gauss disponibilizada por esses autores na realiza&ccedil;&atilde;o    destes testes.    <br>   <a name="back4"></a><a href="#top4">4</a> Os testes de raiz unit&aacute;ria    e o processo de estima&ccedil;&atilde;o do modelo VAR foram realizados no <i>EViews    5.1.</i> Para mais detalhes, ver as <a href=" /img/revistas/resr/v52n1/04a01.jpg">Tabelas    1A</a> e <a href=" /img/revistas/resr/v52n1/04a02.jpg">2A</a>, com os resultados    dos testes de estacionariedade.    <br>   <a name="back5"></a><a href="#top5">5</a> De acordo com a Ceasa (2009), os mercados    produtores de tomates no Nordeste s&atilde;o Ibiapaba (CE) e Juazeiro (BA).    J&aacute; os mercados com maiores volumes de comercializa&ccedil;&atilde;o do    tomate s&atilde;o Fortaleza (CE) e Recife (PE).    ]]></body>
+<body><![CDATA[<br>   <a name="back6"></a><a href="#top6">6</a> Utilizou-se a fun&ccedil;&atilde;o    de impulso resposta generalizada para evitar que a ordena&ccedil;&atilde;o das    vari&aacute;veis no VAR alterasse os resultados, fato este que pode ocorrer    ao se utilizar a fun&ccedil;&atilde;o impulso-resposta tradicional baseada na    decomposi&ccedil;&atilde;o de Cholesky.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Anexos</b></font></p>     <p>&nbsp;</p>     <p align="center"><a href=" /img/revistas/resr/v52n1/04a01.jpg"><img src=" /img/revistas/resr/v52n1/04a01thumb.jpg" border="0"></a>    <br>   <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href=" /img/revistas/resr/v52n1/04a01.jpg">Tabela    1A - Clique para ampliar</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><a href=" /img/revistas/resr/v52n1/04a02.jpg"><img src=" /img/revistas/resr/v52n1/04a02thumb.jpg" border="0"></a>    <br>   <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href=" /img/revistas/resr/v52n1/04a02.jpg">Tabela    2A - Clique para ampliar</a></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><a href=" /img/revistas/resr/v52n1/04a03.jpg"><img src=" /img/revistas/resr/v52n1/04a03thumb.jpg" border="0"></a>    <br>   <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href=" /img/revistas/resr/v52n1/04a03.jpg">Tabela    3A - Clique para ampliar</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><a href=" /img/revistas/resr/v52n1/04a04.jpg"><img src=" /img/revistas/resr/v52n1/04a04thumb.jpg" border="0"></a>    <br>   <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href=" /img/revistas/resr/v52n1/04a04.jpg">Tabela    4A - Clique para ampliar</a></font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ABITANTE]]></surname>
+<given-names><![CDATA[K. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Co-integração entre os mercados spot e futuro: evidências dos mercados de boi gordo e soja]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jan/</year>
+<month>ma</month>
+<day>r </day>
+<volume>46</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>075-096</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[L. R. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Transmissão de preços entre produtos do setor sucroalcooleiro do Estado de São Paulo]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAI]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PERRON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Estimating and testing linear models with multiple structural changes]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1998</year>
+<volume>66</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>47-78</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BALCOMBE]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BAILEY]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BROOKS]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threshold Effects in Price Transmission: the case of Brazilian wheat, maize, and soya prices]]></article-title>
+<source><![CDATA[American Journal of Agronomical Economics]]></source>
+<year>maio</year>
+<month> 2</month>
+<day>00</day>
+<volume>89</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>308-323</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BALKE]]></surname>
+<given-names><![CDATA[N. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FOMBY]]></surname>
+<given-names><![CDATA[T.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threshold cointegration]]></article-title>
+<source><![CDATA[International Economic Review]]></source>
+<year>ago.</year>
+<month> 1</month>
+<day>99</day>
+<volume>38</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>627-645</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRET]]></surname>
+<given-names><![CDATA[C. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial market integration]]></source>
+<year>2005</year>
+<page-range>1-7</page-range><publisher-name><![CDATA[Cornell University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BEYAERT]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMACHO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[TAR painel unit root tests and real convergence]]></article-title>
+<source><![CDATA[Review of Development Economics]]></source>
+<year>2008</year>
+<volume>12</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>668-681</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUKENYA]]></surname>
+<given-names><![CDATA[J. O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LABYS]]></surname>
+<given-names><![CDATA[W. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Price convergence on world commodity markets: fact or fiction]]></source>
+<year>2002</year>
+<page-range>40</page-range><publisher-name><![CDATA[West Virginia University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CANER]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HANSEN]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threshold Autoregression with a Unit Root]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>2001</year>
+<volume>69</volume>
+<page-range>1555 - 1596</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<collab>Central de Abastecimento S/A</collab>
+<source><![CDATA[Sistema de Informações de Mercados Agrícolas]]></source>
+<year>2009</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHIN]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HABIBULLAH]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Price convergence and market integration: evidence from Malaysia]]></article-title>
+<source><![CDATA[Journal of Economics and Management]]></source>
+<year>2008</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>343-352</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A cultura do Algodão e a questão da Integração entre preços internos e externos]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENKE]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Equlibrium among spatially separated markets: solution by electrical analogue]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1951</year>
+<volume>19</volume>
+<page-range>40-47</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EVANS]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KARRAS]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Convergence revisited]]></article-title>
+<source><![CDATA[Journal of Monetary Economic]]></source>
+<year>1996</year>
+<volume>37</volume>
+<page-range>249-65</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FACKLER]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B. K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial price analysis: a methological review]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[^eNorth Carolina North Carolina]]></publisher-loc>
+<publisher-name><![CDATA[Department of Agricultural and Resourse EconomicsNorth Carolina State University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FAMINOW]]></surname>
+<given-names><![CDATA[M. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BENSON]]></surname>
+<given-names><![CDATA[B. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Integration of spatial markets]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>fev.</year>
+<month> 1</month>
+<day>99</day>
+<volume>72</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>49-62</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TORO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O Mecanismo Monetário de transmissão na Economia Brasileira Pós-plano Real]]></article-title>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>Jan.</year>
+<month>/M</month>
+<day>ar</day>
+<volume>59</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>5-32</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLDBERG]]></surname>
+<given-names><![CDATA[P. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VERBOVEN]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Market integration and convergence to the Law of One Price: evidence from the European car market]]></article-title>
+<source><![CDATA[Journal of International Economics]]></source>
+<year>2005</year>
+<volume>65</volume>
+<page-range>49-73</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLETTI]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAISUDDIN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FARID]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Structural determinants of market integration. The case of rice markets in Bangladesh]]></article-title>
+<source><![CDATA[The Developing Economies]]></source>
+<year>jun.</year>
+<month> 1</month>
+<day>99</day>
+<volume>33</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>185-202</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONZÁLEZ-RIVERA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HELFAND]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic development and the determinants of spatial integration in agricultural markets]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Riverside ]]></publisher-loc>
+<publisher-name><![CDATA[Department of Economics, University of California]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOLT]]></surname>
+<given-names><![CDATA[M. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Price transmission and asymmetric adjustment in the U.S. beef sector]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>ago.</year>
+<month> 1</month>
+<day>99</day>
+<volume>81</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>630-637</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIGOTT]]></surname>
+<given-names><![CDATA[N. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial market integration in the presence of threshold effects]]></article-title>
+<source><![CDATA[American Journal of Agriculture Economics]]></source>
+<year>maio</year>
+<month> 2</month>
+<day>00</day>
+<volume>83</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>302-307</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Investigating causal relationship by econometric models and cross-spectral methods]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>jul.</year>
+<month> 1</month>
+<day>96</day>
+<volume>37</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>424-439</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOTELING]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Stability in competition]]></article-title>
+<source><![CDATA[Economic Journal]]></source>
+<year>1929</year>
+<volume>36</volume>
+<page-range>41-57</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<collab>Instituto Brasileiro de Geografia e Estatística</collab>
+<source><![CDATA[SIDRA. Produção de Tomates]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEVIN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIN]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Unit root tests in painel data: asymptotic and finite-simple properties, unpublished manuscript, University of California, San Diego]]></article-title>
+<source><![CDATA[Discussion Paper 92-23]]></source>
+<year>maio</year>
+<month> 1</month>
+<day>99</day>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LO]]></surname>
+<given-names><![CDATA[M. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZIVOT]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threshold cointegration and nonlinear adjustment to the Law of One Price]]></article-title>
+<source><![CDATA[Macroeconomic Dynamics]]></source>
+<year>2001</year>
+<volume>5</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>533-576</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MATTOS]]></surname>
+<given-names><![CDATA[L. B. de.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Efeitos de custos de transação sobre a integração espacial de mercados regionais da carne de frango no Brasil]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Viçosa^eMG MG]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAYORGA]]></surname>
+<given-names><![CDATA[R. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Price relationships and market integration: a northeast of Brazil case study]]></source>
+<year>1989</year>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAYORGA]]></surname>
+<given-names><![CDATA[R. de O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KHAN]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MAYORGA]]></surname>
+<given-names><![CDATA[R. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[P. V. P. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARGARIDO]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise de transmissão de preços do mercado atacadista de melão do Brasil]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2007</year>
+<volume>45</volume>
+<page-range>275-704</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAYORGA]]></surname>
+<given-names><![CDATA[R. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TABOSA]]></surname>
+<given-names><![CDATA[F. J. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MAYORGA]]></surname>
+<given-names><![CDATA[R. de O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[P. V. P. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Relacionamento de preços no mercado nordestino do tomate]]></article-title>
+<source><![CDATA[Revista de Economia e Agronegócio]]></source>
+<year>2009</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAVALLION]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Testing market integration]]></article-title>
+<source><![CDATA[American Journal Agricultural Economics]]></source>
+<year>fev.</year>
+<month> 1</month>
+<day>98</day>
+<volume>68</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>102-109</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROEHNER]]></surname>
+<given-names><![CDATA[M. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Theory of Markets: Trade and Space-Time Patterns of Price Fluctuations]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Heidelberg ]]></publisher-loc>
+<publisher-name><![CDATA[Springer-Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SACHS]]></surname>
+<given-names><![CDATA[R. C. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PINATTI]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise do comportamento dos Preços do boi gordo e do boi magro na pecuária de corte paulista, no período de 1995 a 2006]]></article-title>
+<source><![CDATA[Revista de Economia e Agronegócio]]></source>
+<year>2007</year>
+<volume>5</volume>
+<numero>3</numero>
+<issue>3</issue>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAMUELSON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial price equilibriun and linear programming]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>1952</year>
+<volume>42</volume>
+<page-range>283-303</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STIGLER]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHERWIN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The extent of the market]]></article-title>
+<source><![CDATA[Journal of Law and Eonomics]]></source>
+<year>out.</year>
+<month> 1</month>
+<day>98</day>
+<volume>28</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>555-585</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SUSANTO]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSSON]]></surname>
+<given-names><![CDATA[C. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ADCOCK]]></surname>
+<given-names><![CDATA[F. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CLARK]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Market integration of agribusiness in the North American free trade agreement: the case of fruits and vegetables]]></source>
+<year>June</year>
+<month> 2</month>
+<day>3-</day>
+<conf-name><![CDATA[17 Annual World Forum and Symposium International Food and Agribusiness Management Association]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Parma ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TABOSA]]></surname>
+<given-names><![CDATA[F. J. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[D. M. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MADALOZZO]]></surname>
+<given-names><![CDATA[C. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[R. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Causalidade e Elasticidade de Transmissão do tomate no Estado do Ceará - 1995-2002]]></article-title>
+<source><![CDATA[Anais do XLII Congresso da Sociedade Brasileira de Economia e Sociologia Rural-SOBER]]></source>
+<year>2004</year>
+<volume>1</volume>
+<conf-name><![CDATA[XLII Congresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAKAYAMA]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUDGE]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial and Temporal Price Allocation Models]]></source>
+<year>1971</year>
+<publisher-loc><![CDATA[Amsterdam ]]></publisher-loc>
+<publisher-name><![CDATA[North-Holland]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

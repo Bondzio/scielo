@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032013000200003</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032013000200003</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Uso da estrutura a termo das volatilidades implícitas das opções de soja do CME group para previsões em Mato Grosso]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Souza]]></surname>
+<given-names><![CDATA[Waldemar Antonio da Rocha de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Martines-Filho]]></surname>
+<given-names><![CDATA[João Gomes]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[Pedro Valentim]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal do Amazonas  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2013</year>
+</pub-date>
+<volume>51</volume>
+<numero>2</numero>
+<fpage>255</fpage>
+<lpage>274</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032013000200003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032013000200003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032013000200003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[A estrutura a termo das opções com vencimento futuro negociadas no CME Group é calculada com o objetivo de efetuar previsões da volatilidade e do nível de preços realizados, no curto e longo prazo, para os preços à vista da soja negociada em Rondonópolis (MT). Extraindo-se a volatilidade implícita pela fórmula de Black (1976) para precificação de opções de commodities, decompõe-se a variância da volatilidade implícita em intervalos conhecidos e não conhecidos, empregando-a em previsões de curto e longo prazo da volatilidade realizada. Adicionalmente, usa-se a volatilidade implícita como parâmetro numa equação de intervalos de confiança empíricos para a estimação do nível de preços, no curto e longo prazo, com base no limite superior do intervalo. Os testes de eficiência preditiva indicam que as previsões da volatilidade realizada usando a volatilidade implícita têm maior grau de eficiência no curto prazo, enquanto a estimativa simples (naïve) é mais eficiente no longo prazo. As previsões dos níveis de preço usando o limite superior do intervalo de confiança empírico são mais eficientes no longo prazo, sendo a estimativa simples (naïve) a mais eficiente no curto prazo.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The term structure of options with future expiration dates traded at the CME Group is calculated to forecast short and long-term realized volatility and price level of soybean spot prices in Rondonópolis (Mato Grosso State). Extracting the implied volatility with the Black (1976) model for commodities option pricing, the implied volatility variance is decomposed in known and unknown intervals, used to forecast short and long-term realized volatility. In addition, the implied volatility is used as a parameter in an empirical confidence interval equation to forecast the short and long-term price level, using the interval upper limit. Predictive efficiency tests indicate that the forecasts of realized volatility based on the implied volatility have greater degree of efficiency in the short term, while the naïve estimate is more efficient in the long-term. The empirical confidence interval price level upper limit forecasts are more efficient in the long-term and the naïve estimates show more efficiency in the short-term.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Mato Grosso]]></kwd>
+<kwd lng="pt"><![CDATA[soja]]></kwd>
+<kwd lng="pt"><![CDATA[volatilidade implícita]]></kwd>
+<kwd lng="pt"><![CDATA[previsões de volatilidade e preços]]></kwd>
+<kwd lng="pt"><![CDATA[mercado de opções]]></kwd>
+<kwd lng="en"><![CDATA[Mato Grosso]]></kwd>
+<kwd lng="en"><![CDATA[soybean]]></kwd>
+<kwd lng="en"><![CDATA[implied volatility]]></kwd>
+<kwd lng="en"><![CDATA[volatility and price forecasts]]></kwd>
+<kwd lng="en"><![CDATA[options markets]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Uso da estrutura a termo das volatilidades impl&iacute;citas das op&ccedil;&otilde;es de soja do CME group para previs&otilde;es em Mato Grosso </b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Waldemar Antonio da Rocha de Souza<sup>I</sup>; Jo&atilde;o Gomes Martines-Filho<sup>II</sup>; Pedro Valentim Marques<sup>III</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Professor Adjunto da Universidade Federal do Amazonas. E-mail: <a href="mailto:warsouza@ufam.edu.br">warsouza@ufam.edu.br</a>    <br> <sup>II</sup>Professor Doutor da Universidade de S&atilde;o Paulo, Escola Superior de Agricultura Luiz de Queiroz. E-mail: <a href="mailto:martines@usp.br">martines@usp.br</a>    <br> <sup>III</sup>Professor Titular da Universidade de S&atilde;o Paulo, Escola Superior de Agricultura Luiz de Queiroz. E-mail: <a href="mailto:pvmarque@usp.br">pvmarque@usp.br</a> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A estrutura a termo das op&ccedil;&otilde;es com vencimento futuro negociadas no CME Group &eacute; calculada com o objetivo de efetuar previs&otilde;es da volatilidade e do n&iacute;vel de pre&ccedil;os realizados, no curto e longo prazo, para os pre&ccedil;os &agrave; vista da soja negociada em Rondon&oacute;polis (MT). Extraindo-se a volatilidade impl&iacute;cita pela f&oacute;rmula de Black (1976) para precifica&ccedil;&atilde;o de op&ccedil;&otilde;es de commodities, decomp&otilde;e-se a vari&acirc;ncia da volatilidade impl&iacute;cita em intervalos conhecidos e n&atilde;o conhecidos, empregando-a em previs&otilde;es de curto e longo prazo da volatilidade realizada. Adicionalmente, usa-se a volatilidade impl&iacute;cita como par&acirc;metro numa equa&ccedil;&atilde;o de intervalos de confian&ccedil;a emp&iacute;ricos para a estima&ccedil;&atilde;o do n&iacute;vel de pre&ccedil;os, no curto e longo prazo, com base no limite superior do intervalo. Os testes de efici&ecirc;ncia preditiva indicam que as previs&otilde;es da volatilidade realizada usando a volatilidade impl&iacute;cita t&ecirc;m maior grau de efici&ecirc;ncia no curto prazo, enquanto a estimativa simples (<i>na&iuml;ve</i>) &eacute; mais eficiente no longo prazo. As previs&otilde;es dos n&iacute;veis de pre&ccedil;o usando o limite superior do intervalo de confian&ccedil;a emp&iacute;rico s&atilde;o mais eficientes no longo prazo, sendo a estimativa simples (<i>na&iuml;ve</i>) a mais eficiente no curto prazo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chaves: </b>Mato Grosso, soja, volatilidade impl&iacute;cita, previs&otilde;es de volatilidade e pre&ccedil;os, mercado de op&ccedil;&otilde;es. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The term structure of options with future expiration dates traded at the CME Group is calculated to forecast short and long-term realized volatility and price level of soybean spot prices in Rondon&oacute;polis (Mato Grosso State). Extracting the implied volatility with the Black (1976) model for commodities option pricing, the implied volatility variance is decomposed in known and unknown intervals, used to forecast short and long-term realized volatility. In addition, the implied volatility is used as a parameter in an empirical confidence interval equation to forecast the short and long-term price level, using the interval upper limit. Predictive efficiency tests indicate that the forecasts of realized volatility based on the implied volatility have greater degree of efficiency in the short term, while the na&iuml;ve estimate is more efficient in the long-term. The empirical confidence interval price level upper limit forecasts are more efficient in the long-term and the na&iuml;ve estimates show more efficiency in the short-term.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key-words: </b>Mato Grosso, soybean, implied volatility, volatility and price forecasts, options markets.    <br> <b>Classifica&ccedil;&atilde;o JEL: </b>Q14, G17. </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O maior benef&iacute;cio econ&ocirc;mico dos mercados futuros &eacute; identificar os padr&otilde;es de pre&ccedil;os para a tomada de decis&otilde;es de produ&ccedil;&atilde;o, armazenamento e comercializa&ccedil;&atilde;o por parte dos agentes, inclusive os que n&atilde;o participam diretamente dos mercados (BLACK; 1976). Com efeito, a constela&ccedil;&atilde;o de pre&ccedil;os sinalizada pelos mercados futuros permite obter informa&ccedil;&otilde;es sobre a trajet&oacute;ria dos pre&ccedil;os em diferentes datas, facilitando o processo de descoberta de pre&ccedil;os e a tomada de decis&otilde;es econ&ocirc;micas mais eficientes. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com rela&ccedil;&atilde;o ao mercado de op&ccedil;&otilde;es de contratos futuros de commodities agropecu&aacute;rias, Gardner (1977) avaliou os benef&iacute;cios potenciais em tr&ecirc;s &aacute;reas: i. administra&ccedil;&atilde;o de risco pelos produtores; ii. operacionaliza&ccedil;&atilde;o e funcionamento do mercado &agrave; vista; e, iii. administra&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas. Um mercado de op&ccedil;&otilde;es estruturado pode gerar informa&ccedil;&otilde;es sobre a distribui&ccedil;&atilde;o dos p re&ccedil;os esperados pelos agentes, que n&atilde;o poderiam ser obtidas a partir dos pre&ccedil;os futuros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Portanto, a pesquisa de alternativas para a obten&ccedil;&atilde;o da volatilidade impl&iacute;cita e previs&atilde;o da volatilidade realizada futura, a partir do mercado de op&ccedil;&otilde;es de commodities agropecu&aacute;rias, pode gerar externalidades positivas para os agentes de mercado, em especial hedgers e especuladores, melhorando a efici&ecirc;ncia econ&ocirc;mica do processo de tomada de decis&otilde;es alocativas nas cadeias do agroneg&oacute;cio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dessa forma, o conhecimento da volatilidade dos pre&ccedil;os nos diversos ciclos da safra de soja em Mato Grosso, maior produtor do gr&atilde;o no Brasil, possibilitar&aacute; aos produtores, hedgers e demais agentes de mercado fazer previs&otilde;es sobre a din&acirc;mica futura dos pre&ccedil;os e volatilidades, usando-as para as decis&otilde;es de plantio, comercializa&ccedil;&atilde;o, armazenagem, cronogramas de investimento, calibragem de hedge de pre&ccedil;os, de taxa de c&acirc;mbio, de produtividade, bem como para sinaliza&ccedil;&otilde;es de stress dos pre&ccedil;os de mercado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O principal objetivo &eacute; a avalia&ccedil;&atilde;o da efici&ecirc;ncia das previs&otilde;es de curto e de longo prazo dos n&iacute;veis realizados de volatilidades e dos pre&ccedil;os &agrave; vista da soja em Mato Grosso, com base na estrutura a termo das volatilidades impl&iacute;citas futuras das op&ccedil;&otilde;es de soja negociadas no CME Group, bolsa que opera o maior volume mundial de contratos futuros e de op&ccedil;&otilde;es agropecu&aacute;rias. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os objetivos espec&iacute;ficos examinados s&atilde;o: i. qual &eacute; a vincula&ccedil;&atilde;o te&oacute;rica entre a volatilidade impl&iacute;cita (VI) das op&ccedil;&otilde;es, a volatilidade realizada e o n&iacute;vel de pre&ccedil;os para o mercado &agrave; vista de commodities agr&iacute;colas; ii. como obter empiricamente a estrutura a termo das volatilidades impl&iacute;citas futuras das op&ccedil;&otilde;es de soja do CME Group, utilizando-a para a previs&atilde;o de volatilidade e do n&iacute;vel dos pre&ccedil;os &agrave; vista de commodities agr&iacute;colas, e iii. quais os graus de efici&ecirc;ncia das previs&otilde;es de volatilidade e do n&iacute;vel dos pre&ccedil;os da soja no mercado &agrave; vista em Rondon&oacute;polis (MT), em diferentes periodicidades, obtidas a partir do conte&uacute;do informacional da estrutura a termo das VI. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na pr&oacute;xima se&ccedil;&atilde;o, examina-se o referencial te&oacute;rico. A seguir, registram-se a metodologia e os dados usados. Na se&ccedil;&atilde;o seguinte, os resultados e discuss&atilde;o s&atilde;o apontados. Na &uacute;ltima se&ccedil;&atilde;o, registram-se o resumo e as conclus&otilde;es da pesquisa. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Revis&atilde;o de literatura</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diversos m&eacute;todos para a previs&atilde;o de volatilidade realizada a partir do mercado de op&ccedil;&otilde;es s&atilde;o usados e n&atilde;o h&aacute; consenso sobre a abordagem mais eficiente. Para a previs&atilde;o do n&iacute;vel de pre&ccedil;os de commodities agropecu&aacute;rias, v&aacute;rios estudos avaliam a efici&ecirc;ncia preditiva de intervalos de confian&ccedil;a emp&iacute;ricos de pre&ccedil;os; por&eacute;m, resultados distintos s&atilde;o obtidos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>2.1. Volatilidade impl&iacute;cita de op&ccedil;&otilde;es de commodities agropecu&aacute;rias </i></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A literatura acad&ecirc;mica sobre a estrutura a termo de volatilidade impl&iacute;cita de op&ccedil;&otilde;es de commodities agropecu&aacute;rias &eacute; escassa. A maioria das pesquisas sobre o assunto utiliza parametriza&ccedil;&otilde;es de s&eacute;ries temporais, eficientes apenas em horizontes curtos, havendo controv&eacute;rsia quanto &agrave; efici&ecirc;ncia dos m&eacute;todos para avaliar a volatilidade impl&iacute;cita e efetuar previs&otilde;es da realizada. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A volatilidade futura &eacute; normalmente estimada usando-se m&eacute;todos avaliativos <i>ex-ante</i> ou <i>ex-post</i>. Como exemplo de metodologia <i>ex-post</i>, h&aacute; estimativas de volatilidades de s&eacute;ries temporais usando algumas m&eacute;tricas, como o desvio padr&atilde;o dos retornos dos ativos financeiros e modelos do tipo ARCH e de volatilidade estoc&aacute;stica, que possuem elevado grau de acerto de previs&otilde;es para a volatilidade realizada de curto prazo. Para as previs&otilde;es de longo prazo usa-se geralmente a m&eacute;dia n&atilde;o condicional. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os m&eacute;todos <i>ex-ante</i> baseiam-se nos modelos de precifica&ccedil;&atilde;o desenvolvidos a partir Black-Scholes (1973), que derivaram um modelo te&oacute;rico para pre&ccedil;os de op&ccedil;&otilde;es europeias de compra e venda. Posteriormente, Black (1976) obteve f&oacute;rmula para precifica&ccedil;&atilde;o de op&ccedil;&otilde;es de commodities, metodologia usada para o c&aacute;lculo da volatilidade impl&iacute;cita de commodities agropecu&aacute;rias. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sobre a efici&ecirc;ncia dos m&eacute;todos de previs&atilde;o de volatilidade de op&ccedil;&otilde;es, Poon e Granger (2003) avaliaram 93 artigos cient&iacute;ficos, concluindo que a volatilidade impl&iacute;cita, obtida a partir do modelo Black-Scholes e suas deriva&ccedil;&otilde;es, fornecia as melhores previs&otilde;es, seguida pela volatilidade hist&oacute;rica e pelos modelos GARCH. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Examinando o tema, diversos autores registraram conclus&otilde;es distintas quanto aos modelos mais eficientes. Como exemplo, Andersen e Bollerslev (1998), utilizando dados de alta frequ&ecirc;ncia de taxas de c&acirc;mbio, calcularam as volatilidades di&aacute;rias e intradi&aacute;rias com modelo do tipo GARCH, encontrando boas previs&otilde;es <i>ex-post</i>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Day e Lewis (1993) avaliaram o conte&uacute;do informacional de estimativas <i>ex-ante</i> de previs&otilde;es da volatilidade impl&iacute;cita de op&ccedil;&otilde;es do &iacute;ndice S&amp;P100 com modelagem GARCH, concluindo que as estimativas refletiam os incrementos informacionais das volatilidades impl&iacute;citas, por&eacute;m n&atilde;o havia robustez nas previs&otilde;es. Usando dados de op&ccedil;&otilde;es do S&amp;P-100, Christensen e Prabhala (1998) calcularam a volatilidade impl&iacute;cita, examinando sua rela&ccedil;&atilde;o com a volatilidade realizada subsequente. Conclu&iacute;ram que a volatilidade impl&iacute;cita era um previsor com menor vi&eacute;s e maior efici&ecirc;ncia da volatilidade futura comparativamente &agrave; volatilidade hist&oacute;rica. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fleming (1998) avaliou as previs&otilde;es da volatilidade impl&iacute;cita de op&ccedil;&otilde;es do S&amp;P-100, concluindo que se podia us&aacute;-la como <i>proxy</i> da condicional, identificando-a adicionalmente com o sentimento de mercado. Gwilym e Buckle (1997), empregando dados de op&ccedil;&otilde;es do &iacute;ndice FTSE 100, compararam a volatilidade impl&iacute;cita futura entre duas datas de vencimento com a realizada, registrando previs&otilde;es com baixo desempenho, que superestimavam a volatilidade efetiva. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alguns trabalhos examinaram os mercados de op&ccedil;&otilde;es de contratos futuros agropecu&aacute;rios. Fackler e King (1990) avaliaram as probabilidades dos retornos dos pr&ecirc;mios das op&ccedil;&otilde;es de pro-dutos agropecu&aacute;rios da CBOT (Chicago Board of Trade), estimando o desempenho das distribui&ccedil;&otilde;es de probabilidade dos pre&ccedil;os de milho, soja, boi gordo e su&iacute;nos. Conclu&iacute;ram que os pr&ecirc;mios das op&ccedil;&otilde;es podiam ser usados para obter informa&ccedil;&otilde;es sobre a distribui&ccedil;&atilde;o probabil&iacute;stica dos pre&ccedil;os dos ativos subjacentes, com baixo custo e atualizadas regularmente, ocorrendo, contudo, diferen&ccedil;as quanto ao tipo de produto. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Egelkraut e Garcia (2006) avaliaram a volatilidade impl&iacute;cita futura como previs&atilde;o da realizada futura, comparativamente &agrave;s volatilidades obtidas por modelos ARCH/GARCH, da volatilidade hist&oacute;rica imediata, da m&eacute;dia m&oacute;vel de tr&ecirc;s anos e da volatilidade composta em determinados mercados agropecu&aacute;rios. As volatilidades impl&iacute;citas futuras do milho e da soja geraram previs&otilde;es eficientes e n&atilde;o viesadas da realizada subsequente dos pre&ccedil;os futuros. Entretanto, a capacidade preditiva da volatilidade impl&iacute;cita futura influenciava-se pelas caracter&iacute;sticas espaciais e temporais de cada commodity. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Egelkraut, Garcia e Sherrick (2007), usando o conte&uacute;do informacional da estrutura a termo das volatilidades impl&iacute;citas futuras das op&ccedil;&otilde;es de milho do CME Group, avaliaram a efici&ecirc;ncia preditiva para a realizada dos pre&ccedil;os futuros, concluindo que as volatilidades impl&iacute;citas eram boas previsoras. No curto prazo, as previs&otilde;es eram n&atilde;o viesadas e, para prazos mais longos, previam a dire&ccedil;&atilde;o e magnitude da volatilidade futura. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, a controv&eacute;rsia sobre a melhor modelagem de volatilidade persiste, gerando diversas pesquisas recentes sobre a tem&aacute;tica. Como exemplo, Gulisashvili e Stein (2006) avaliaram o comportamento assint&oacute;tico de densidades de distribui&ccedil;&atilde;o de processos de pre&ccedil;os de a&ccedil;&otilde;es no modelo Hull-White com base em volatilidade estoc&aacute;stica. Gulisashvili e Stein (2009) analisaram a volatilidade impl&iacute;cita no modelo Hull-White. Em Rompolis e Tzavalis (2010), concluiu-se que os vieses nas previs&otilde;es podiam ser eliminados quando a regress&atilde;o para avaliar a volatilidade impl&iacute;cita se ajustasse aos efeitos dos pr&ecirc;mios de risco. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fama (1984) formulou metodologia para identificar as informa&ccedil;&otilde;es das taxas a termos sobre pr&ecirc;mios e taxas spot futuras, usando como previsoras taxas futuras das Treasury Bills (T-Bills), por meio de modelos lineares aplicados sobre os pr&ecirc;mios futuros e diferen&ccedil;as entre as taxas a termo, spot e spreads presentes e futuros. A metodologia &eacute; o fundamento das an&aacute;lises das estruturas a termos das op&ccedil;&otilde;es com vencimentos futuros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>2.2. Intervalos de confian&ccedil;a emp&iacute;ricos para pre&ccedil;os de commodities agropecu&aacute;rias </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na literatura, enfatiza-se sistematicamente a necessidade de constru&ccedil;&atilde;o de intervalos de confian&ccedil;a emp&iacute;ricos para os pre&ccedil;os de commodities agropecu&aacute;rias, conforme Bessler e Kling (1989) e Isengildina, Irwin e Good (2006). Al&eacute;m disso, o Departamento de Agricultura dos EUA (USDA) elabora relat&oacute;rios peri&oacute;dicos contendo previs&otilde;es apresentadas sob a forma de intervalos de pre&ccedil;os agropecu&aacute;rios, os <i>World Agricultural Supply and Demand Estimates</i> - WASDE (USDA, 2011) . </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, v&aacute;rias pesquisas examinaram a metodologia dos relat&oacute;rios WASDE, indicando a pouca efici&ecirc;ncia preditiva dos intervalos de pre&ccedil;os. Sanders e Manfredo (2003) avaliaram as previs&otilde;es de pre&ccedil;os dos relat&oacute;rios para boi gordo, su&iacute;nos e frangos, concluindo que os pre&ccedil;os efetivos situavam-se fora dos intervalos preditivos. Isengildina, Irwin e Good (2004) tamb&eacute;m analisaram os relat&oacute;rios WASDE, encontrando que os graus de acerto das previs&otilde;es intervalares dependiam do tipo de commodity e do per&iacute;odo de safra. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dessa forma, alguns trabalhos objetivaram sugerir melhorias na constru&ccedil;&atilde;o dos intervalos de confian&ccedil;a emp&iacute;ricos de pre&ccedil;os de commodities agropecu&aacute;rias. Allen (1994) comparou diversas metodologias de previs&atilde;o de pre&ccedil;os agropecu&aacute;rios, concluindo que combina&ccedil;&otilde;es de m&eacute;todos geravam melhores resultados. Isengildina, Irwin e Good (2006) e Isengildina-Massa, Irwin e Good (2009) aplicaram procedimentos alternativos para aprimorar o c&aacute;lculo dos intervalos de confian&ccedil;a emp&iacute;ricos para as previs&otilde;es dos pre&ccedil;os do milho, soja e trigo dos relat&oacute;rios WASDE, resultando em incrementos nas previs&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A contribui&ccedil;&atilde;o diferenciada deste artigo &eacute; a modelagem da vincula&ccedil;&atilde;o te&oacute;rica entre a volatilidade impl&iacute;cita das op&ccedil;&otilde;es de soja do CME Group e a volatilidade e os pre&ccedil;os do mercado &agrave; vista de Mato Grosso. A metodologia pode ser usada para as demais commodities agr&iacute;colas estoc&aacute;veis sazonais, como milho e caf&eacute;. Destaca-se o ineditismo da pesquisa sobre o tema no Brasil. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Metodologia</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Adaptando a abordagem de Egelkraut, Garcia e Sherrick (2007), que estudaram o uso da estrutura a termo das op&ccedil;&otilde;es de milho com vencimento futuro do CME Group para previs&otilde;es da volatilidade realizada de curto e longo prazo, obtendo alto grau de efici&ecirc;ncia preditiva, neste artigo, previs&otilde;es da volatilidade e dos pre&ccedil;os realizados de curto e longo prazos foram feitas para Rondon&oacute;polis (MT), considerada <i>proxy</i> do mercado &agrave; vista de soja de Mato Grosso, avaliando as estimativas. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir das volatilidades impl&iacute;citas futuras de op&ccedil;&otilde;es de soja com diferentes vencimentos do CME Group, obt&eacute;m-se a estrutura a termo das volatilidades impl&iacute;citas, extraindo o conte&uacute;do informacional para prever a volatilidade e os pre&ccedil;os &agrave; vista realizados de curto e longo prazo em Mato Grosso. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.1. Rela&ccedil;&atilde;o entre os pre&ccedil;os &agrave; vista e futuros </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os pre&ccedil;os &agrave; vista de uma commodity relacionam-se com os pre&ccedil;os futuros por meio da base, conforme a Equa&ccedil;&atilde;o 1 (LEUTHOLD, JUNKUS e CORDIER, 1989): </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ01.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: <i>B</i> = base, <i>S</i> = pre&ccedil;o &agrave; vista da commodity numa localidade espec&iacute;fica, <i>F</i> = pre&ccedil;o de um determinado contrato futuro, geralmente o de vencimento mais pr&oacute;ximo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Reescrevendo a Equa&ccedil;&atilde;o 1: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ02.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tem-se, ent&atilde;o, que: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ03.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A Equa&ccedil;&atilde;o 3 registra a rela&ccedil;&atilde;o direta entre os n&iacute;veis dos pre&ccedil;os &agrave; vista e futuros e a base, onde os sobrescritos apontam as vari&aacute;veis estimadas. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.1.1. Previs&otilde;es da Base </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para a previs&atilde;o da base, adapta-se a abordagem de Taylor, Dhuyvetter e Kastens (2004), que analisou a efici&ecirc;ncia de v&aacute;rios m&eacute;todos de previs&atilde;o da base de commodities agropecu&aacute;rias, concluindo que o mais eficiente para a soja usava m&eacute;dias calculadas com dados de per&iacute;odos anteriores. Assim, obt&eacute;m-se a previs&atilde;o da base di&aacute;ria da soja em Rondon&oacute;polis (MT) pela equa&ccedil;&atilde;o: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ04.1.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: <img src="/img/revistas/resr/v51n2/a03car01.jpg" >= previs&atilde;o da base no intervalo <i>j</i>, do ano <i>t</i>, a partir dos <i>i</i> anos anteriores, <i>Base <sub>j,m</sub></i> = valor da base realizada no intervalo <i>j</i> do ano <i>m</i>, <i>j</i> = per&iacute;odo de tempo de previs&atilde;o, ou seja, o intervalo anual previsto, <i>t</i> = ano de previs&atilde;o, <i>i </i>= n&uacute;mero de anos inclu&iacute;dos na m&eacute;dia hist&oacute;rica (1, 2, ...). O valor da base realizada num intervalo anterior, <i>Basej,m</i>, &eacute; dado por: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ04.2.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: <i>Base<sub>j,m</sub></i> = valor da base realizada no intervalo <i>j</i>, do ano <i>m</i>, <i>j</i> = per&iacute;odo de tempo de previs&atilde;o, ou seja, o intervalo anual previsto, <i>n</i> = ano de previs&atilde;o, <i>k</i> = n&uacute;mero de dias &uacute;teis inclu&iacute;dos na m&eacute;dia intervalar. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.2. Previs&otilde;es dos pre&ccedil;os futuros </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A segunda vari&aacute;vel explicativa da Equa&ccedil;&atilde;o 3 &eacute; a estimativa dos pre&ccedil;os futuros, F<sup>t </sup>. Adaptando a abordagem de Isengildina-Massa, Irwin e Good (2009), intervalos de confian&ccedil;a emp&iacute;ricos foram esquematizados para a previs&atilde;o dos pre&ccedil;os futuros, a partir da cota&ccedil;&atilde;o em data anterior ao in&iacute;cio do intervalo. O intervalo de confian&ccedil;a do pre&ccedil;o futuro &eacute; dado por: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ05.1.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: <i>P</i> &#91;. &#93; = probabilidade da m&eacute;dia intervalar dos pre&ccedil;os futuros, igual a 0,95, <i><sub>rt-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = ln(<i>F <sub>t-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <i>/F <sub>t-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>-1</sub>) = limite inferior do logaritmo natural da raz&atilde;o entre os pre&ccedil;os futuros di&aacute;rios, </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = tamanho do intervalo, em n&uacute;mero de preg&otilde;es, <i>r<sub>t</sub> </i>= ln(<i>F <sub>t</sub> /F <sub>t-</sub></i><sub>1</sub>) = limite superior do logaritmo natural da raz&atilde;o entre os pre&ccedil;os futuros di&aacute;rios, <img src="/img/revistas/resr/v51n2/a03car02.jpg"> = m&eacute;dia de <i>r<sub>t</sub></i> e <i>r<sub>t-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">, </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = desvio padr&atilde;o da raz&atilde;o entre os pre&ccedil;os futuros no intervalo <i>t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>, t, n</i> = n&uacute;mero de preg&otilde;es do intervalo. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados de pesquisas sobre a constru&ccedil;&atilde;o de intervalos de confian&ccedil;a emp&iacute;ricos de pre&ccedil;os de commodities agropecu&aacute;rias indicaram que os pre&ccedil;os efetivos tendiam a situar-se acima da previs&atilde;o dos intervalos, n&atilde;o refletindo as reais assimetrias na distribui&ccedil;&atilde;o dos pre&ccedil;os subjacentes (ISEGILDINA-MASSA, IRWIN e GOOD, 2009, p. 5). Dessa forma, o limite superior do intervalo de previs&atilde;o sinalizaria o valor m&iacute;nimo esperado de previs&atilde;o dos pre&ccedil;os. Ent&atilde;o, a partir da Equa&ccedil;&atilde;o 5.1, constr&oacute;i-se a estimativa para o limite superior do intervalo de confian&ccedil;a da raz&atilde;o entre os pre&ccedil;os futuros, <img src="/img/revistas/resr/v51n2/a03car03.jpg">: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ05.2-3.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Obt&eacute;m-se a estima&ccedil;&atilde;o de <img src="/img/revistas/resr/v51n2/a03car03.jpg">, dada pela Equa&ccedil;&atilde;o 5.3, a partir dos pre&ccedil;os futuros cotados na data <i>l</i>, <i>l&lt;t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/resr/v51n2/a03car04.jpg"><i><sub>t</sub></i> = <i>F<sub>t,l</sub></i>= cota&ccedil;&atilde;o do contrato futuro com vencimento <i>t</i> na data <i>l</i>;</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/resr/v51n2/a03car05.jpg" align="absmiddle">= <i>F<sub>t-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>,l</sub> </i>= cota&ccedil;&atilde;o do contrato futuro com vencimento <i>t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> na data <i>l</i>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tem-se, pela Equa&ccedil;&atilde;o 5.3: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ05.4-1.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Substituindo a Equa&ccedil;&atilde;o 5.4.1 na Equa&ccedil;&atilde;o 5.2: </font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"></font><img src="/img/revistas/resr/v51n2/a03equ05.5.1.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Substituindo <img src="/img/revistas/resr/v51n2/a03car02.jpg">, m&eacute;dia de <i>r<sub>t</sub></i> e <i>r<sub>t-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">, pela raz&atilde;o ln (<i>F<sub>t,l</sub>/F<sub>t-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>,l</sub></i>), com ambos os valores conhecidos <i>ex-ante</i> na data <i>l</i>, na Equa&ccedil;&atilde;o 5.5.1, encontra-se o limite superior do intervalo de confian&ccedil;a emp&iacute;rico dos pre&ccedil;os futuros: </font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"></font><img src="/img/revistas/resr/v51n2/a03equ05.5.2.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Rearranjando a Equa&ccedil;&atilde;o 5.5.2: </font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"></font><img src="/img/revistas/resr/v51n2/a03equ05.5.3.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aplicando o operador exponencial a ambos os lados da Equa&ccedil;&atilde;o 5.5.3, tem-se que: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ05.5.4.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que <img src="/img/revistas/resr/v51n2/a03car06.jpg" align="absmiddle"> = limite superior do intervalo de confian&ccedil;a do pre&ccedil;o futuro no per&iacute;odo <i>l</i>, do contrato com vencimento <i>t</i>, <i>F<sub>t-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>,l</sub></i>= pre&ccedil;o do contrato futuro <i>l</i>, na data <i>t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">, observ&aacute;vel <i>ex-ante</i>, <i>F<sub>t,l</sub> </i>= pre&ccedil;o do contrato futuro <i>l</i>, na data <i>t</i>, observ&aacute;vel <i>ex-ante</i>, <i>t&gt;t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">, <i>s</i> = desvio padr&atilde;o do logaritmo da raz&atilde;o dos pre&ccedil;os futuros di&aacute;rios, obtido pela volatilidade impl&iacute;cita das op&ccedil;&otilde;es com vencimento entre as datas <i>t</i> e <i>t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">, <i>n</i> = n&uacute;mero de preg&otilde;es no intervalo entre as datas <i>t</i> e <i>t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O desvio padr&atilde;o do logaritmo da raz&atilde;o entre os pre&ccedil;os futuros di&aacute;rios &eacute; estimado, na data <i>l</i>, pela volatilidade impl&iacute;cita obtida dos pre&ccedil;os dos contratos de op&ccedil;&otilde;es com vencimento em <i>t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> e <i>t</i>. A Equa&ccedil;&atilde;o 5.5.4 explicita a f&oacute;rmula do limite superior do intervalo de confian&ccedil;a dos pre&ccedil;os futuros usando a volatilidade impl&iacute;cita das op&ccedil;&otilde;es com vencimento nas datas <i>t</i> e <i>t-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">. Obt&eacute;m-se a estrutura a termo dos pre&ccedil;os &agrave; vista, de curto e longo prazo, no mercado de Rondon&oacute;polis (MT), com base nas volatilidades impl&iacute;citas das op&ccedil;&otilde;es de soja negociadas no CME Group, usando a Equa&ccedil;&atilde;o 3, com inputs da previs&atilde;o da base, Equa&ccedil;&atilde;o 4.1, e da previs&atilde;o dos pre&ccedil;os futuros, Equa&ccedil;&atilde;o 5.5.4. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.2.1. Modelo de Black (1976) para a precifica&ccedil;&atilde;o de op&ccedil;&otilde;es sobre contratos futuros de commodities </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O valor de uma op&ccedil;&atilde;o num instante qualquer &eacute; o valor presente esperado de seus retornos futuros at&eacute; o vencimento, descontado pela taxa livre de risco (EGELKRAUT e GARCIA; 2006). Para op&ccedil;&otilde;es europeias, que s&atilde;o exercidas apenas no vencimento, o valor atual dos pr&ecirc;mios de op&ccedil;&otilde;es de compra e de venda, <i>Vc</i>(<i>x</i>) e <i>Vp</i>(<i>x</i>), ser&atilde;o dados por: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ06.1-2.jpg"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: <i>b</i>(<i>T</i>) = fator de desconto, <i>x</i> = pre&ccedil;o de exerc&iacute;cio da op&ccedil;&atilde;o, <i>T</i> = tempo at&eacute; o vencimento, <i>F</i>T = pre&ccedil;o do ativo subjacente no vencimento, <i>G</i>(<i>F</i><sub>T</sub>) = medida de valora&ccedil;&atilde;o neutra ao risco, i.e., a fun&ccedil;&atilde;o de distribui&ccedil;&atilde;o acumulada dos pre&ccedil;os futuros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A f&oacute;rmula de Black (1976) para o apre&ccedil;amento de op&ccedil;&otilde;es sobre contratos futuros, resultante da solu&ccedil;&atilde;o das Equa&ccedil;&otilde;es 6.1 e 6.2 ao se considerar a fun&ccedil;&atilde;o de distribui&ccedil;&atilde;o acumulada dos pre&ccedil;os futuros como lognormal, possui a seguinte especifica&ccedil;&atilde;o (HULL 2009): </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ07.1-2.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: <i>Vc</i>(<i>x</i>), <i>Vp</i>(<i>x</i>) = valor de uma op&ccedil;&atilde;o de compra e de venda, respectivamente, sobre uma unidade de contrato futuro de commodity, <i>x</i> = pre&ccedil;o de exerc&iacute;cio da op&ccedil;&atilde;o, <i>r</i> = taxa de juros de um t&iacute;tulo sem risco, <i>T</i> = data de vencimento da op&ccedil;&atilde;o, <i>Y</i><sub>0</sub> = pre&ccedil;o do contrato futuro no instante de refer&ecirc;ncia inicial <i>t = </i>0, <i>d</i>1 = <img src="/img/revistas/resr/v51n2/a03car07.jpg" align="absmiddle"> d<sub>2</sub> = <img src="/img/revistas/resr/v51n2/a03car08.jpg" align="absmiddle"> = <img src="/img/revistas/resr/v51n2/a03car09.jpg" align="absmiddle"> fun&ccedil;&atilde;o de distribui&ccedil;&atilde;o de probabilidade cumulativa de uma distribui&ccedil;&atilde;o normal padr&atilde;o, ou seja, &eacute; a probabilidade que uma vari&aacute;vel aleat&oacute;ria com distribui&ccedil;&atilde;o normal padr&atilde;o, com m&eacute;dia zero e vari&acirc;ncia unit&aacute;ria, seja menor que <i>y</i>, </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = volatilidade dos pre&ccedil;os futuros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.2.2. Extra&ccedil;&atilde;o da volatilidade impl&iacute;cita das op&ccedil;&otilde;es </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dados os pr&ecirc;mios das op&ccedil;&otilde;es de compra e venda e o pre&ccedil;o do contrato futuro observados no mercado no per&iacute;odo <i>t</i>, <i>t &lt; T</i>, o pre&ccedil;o de exerc&iacute;cio, a taxa de juros de um ativo sem risco e o tempo a decorrer at&eacute; o vencimento, <i>T-t</i>, extrai-se a volatilidade resolvendo implicitamente as Equa&ccedil;&otilde;es 7.1 e 7.2 para uma data espec&iacute;fica de vencimento de op&ccedil;&otilde;es. Obt&eacute;m-se um vetor de par&acirc;metros </font>&#966;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> para a distribui&ccedil;&atilde;o contendo as volatilidades dos pre&ccedil;os futuros, cuja solu&ccedil;&atilde;o &eacute; obtida por qualquer m&eacute;todo de otimiza&ccedil;&atilde;o n&atilde;o linear de m&iacute;nimos quadrados, como Gauss-Newton ou Levenberg-Marquadt, dentre outros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em adi&ccedil;&atilde;o, conforme procedimento de Egelkraut, Garcia e Sherrick (2007), ao inv&eacute;s de usar apenas as informa&ccedil;&otilde;es das op&ccedil;&otilde;es <i>at-the-money<a name="1a"></a></i><a href="#1b"><sup><i>1</i></sup></a>, s&atilde;o extra&iacute;das simultaneamente as informa&ccedil;&otilde;es contidas em v&aacute;rias op&ccedil;&otilde;es de compra e de venda, para um conjunto de pre&ccedil;os de exerc&iacute;cio, calculando-se as volatilidades impl&iacute;citas com a f&oacute;rmula de Black (1976), Equa&ccedil;&otilde;es 7.1 e 7.2. A seguir, para um determinado contrato futuro, com data e pre&ccedil;o de exerc&iacute;cios id&ecirc;nticos, a volatilidade impl&iacute;cita &eacute; obtida pela m&eacute;dia aritm&eacute;tica do conjunto de volatilidades impl&iacute;citas das op&ccedil;&otilde;es de compra e de venda, usando o procedimento de Simon (2002). A taxa de juros do ativo sem-risco &eacute; dada pela capitaliza&ccedil;&atilde;o da taxa de tr&ecirc;s meses da T-Bill do Federal Reserve dos EUA no per&iacute;odo analisado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, observa-se que Pedersen (1998) concluiu que a solu&ccedil;&atilde;o para obter duas vari&aacute;veis impl&iacute;citas gera menos informa&ccedil;&otilde;es do que o m&eacute;todo tradicional de resolver para apenas uma &uacute;nica vari&aacute;vel impl&iacute;cita, podendo introduzir uma fonte de erros mais s&eacute;rios, resultando na dilui&ccedil;&atilde;o das informa&ccedil;&otilde;es extra&iacute;das dos pr&ecirc;mios das op&ccedil;&otilde;es. Nesta pesquisa, emprega-se a abordagem tradicional, extraindo apenas a volatilidade impl&iacute;cita dos pr&ecirc;mios das op&ccedil;&otilde;es de compra e venda dos contratos futuros da soja no CME Group, para cada pre&ccedil;o e data de exerc&iacute;cio, usando a f&oacute;rmula de Black (1976), Equa&ccedil;&otilde;es 7.1 e 7.2. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.3. Equa&ccedil;&atilde;o final para a estima&ccedil;&atilde;o intervalar do n&iacute;vel dos pre&ccedil;os &agrave; vista </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Substituindo as Equa&ccedil;&otilde;es 4.1 e 5.5.4 na Equa&ccedil;&atilde;o 3, obt&eacute;m-se a equa&ccedil;&atilde;o de previs&atilde;o do limite superior do intervalo de confian&ccedil;a emp&iacute;rico dos pre&ccedil;os &agrave; vista previstos para a soja de Rondon&oacute;polis (MT), <img src="/img/revistas/resr/v51n2/a03car10.jpg" align="absmiddle">: </font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v51n2/a03equ08.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir da Equa&ccedil;&atilde;o 8 deriva-se a estrutura a termo dos pre&ccedil;os &agrave; vista futuros para o mercado de soja em Rondon&oacute;polis (MT). A refer&ecirc;ncia de tempo dos intervalos de curto e longo prazo ser&aacute; dada pelos vencimentos dos contratos de op&ccedil;&otilde;es de soja do CME Group. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.4. Intervalos temporais para as previs&otilde;es da volatilidade </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A previs&atilde;o da estrutura a termo das volatilidades impl&iacute;citas futuras das op&ccedil;&otilde;es de soja negociadas no CME Group &eacute; constru&iacute;da a partir de estimativas das volatilidades impl&iacute;citas para intervalos futuros de tempo com diferentes datas de vencimento, conforme a <a href="/img/revistas/resr/v51n2/a03fig01.jpg">Figura 1</a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Uma vez que o procedimento gera diferentes vetores param&eacute;tricos para cada conjunto de vencimentos, as volatilidades impl&iacute;citas podem ser recuperadas para diferentes intervalos at&eacute; o vencimento. Exemplificadamente, pela <a href="/img/revistas/resr/v51n2/a03fig01.jpg">Figura 1</a>, num dia espec&iacute;fico, <i>t = 0</i>, as op&ccedil;&otilde;es vincendas em <i>t = T<sub>e</sub></i> e <i>t = T<sub>e-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">, </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> &gt; 0 refletem as volatilidades para dois intervalos diferentes, </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>iv,0-T</sub></i> e </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>iv,0-Te-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, as volatilidades esperadas n&atilde;o s&atilde;o as &uacute;nicas informa&ccedil;&otilde;es obtidas sobre a volatilidade futura. Os pr&ecirc;mios das op&ccedil;&otilde;es tamb&eacute;m cont&ecirc;m informa&ccedil;&otilde;es sobre a volatilidade impl&iacute;cita futura, </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>ifv,</sub></i> <sub>T<i>e-</i>T<i>e-</i></sub></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">, prevalecente no intervalo <i>T<sub>e-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> a <i>T<sub>e</sub></i>. Aplicando-se o princ&iacute;pio para diversos vencimentos diferentes, agentes de mercado podem inferir o padr&atilde;o de volatilidade impl&iacute;cita futura, ou seja, a estrutura a termo da volatilidade. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Emprega-se a estrutura a termo para decompor a vari&acirc;ncia de um intervalo em subintervalos. Fama (1984) utilizou as informa&ccedil;&otilde;es contidas nos valores presentes de curvas de rentabilidade para inferir as taxas de juros futuros de t&iacute;tulos com vencimentos diferenciados. Supondo t&iacute;tulos com o mesmo grau de risco de inadimpl&ecirc;ncia (<i>default</i>), a hip&oacute;tese de aus&ecirc;ncia de arbitragem implica que, a partir de um conjunto de taxas de juros no momento inicial com dura&ccedil;&atilde;o de <i>i</i> per&iacute;odos no futuro, <i>r<sub>0,i</sub></i>, i=1,2, ..., <i>m</i>, ..., <i>n</i>, as taxas de juros futuras impl&iacute;citas, as quais definem a estrutura a termo entre os per&iacute;odos <i>m</i> e <i>n</i>, podem ser obtidas por meio de: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ09.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dessa forma, sob a hip&oacute;tese de vari&acirc;ncia aditiva no tempo e denotando por <i>T<sub>e</sub></i> - <i>T<sub>e-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> o n&uacute;mero de preg&otilde;es no intervalo, as volatilidades impl&iacute;citas foram usadas para calcular a volatilidade impl&iacute;cita futura entre as datas de vencimento sucessivas pela f&oacute;rmula: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ10.jpg"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>ifv,Te-Te-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = volatilidade impl&iacute;cita futura entre os per&iacute;odos <i>T<sub>e-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> e <i>T<sub>e,</sub></i> </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>iv,0-Te-</sub></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  = volatilidade impl&iacute;cita futura no per&iacute;odo <i>T<sub>e,</sub></i> </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub><i>iv</i>,0-<i>Te-</i></sub></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = volatilidade impl&iacute;cita futura no per&iacute;odo <i>T<sub>e-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">, <i>T<sub>e</sub> </i>= n&uacute;mero de preg&otilde;es entre as datas <i>0</i> e <i>e</i>, <i>T<sub>e-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> = n&uacute;mero de preg&otilde;es entre as datas <i>0</i> e <i>e-a</i>, com <i>T<sub>e</sub> </i>&gt; <i>T<sub>e-</sub></i></font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">, <i>e &gt; e-</i></font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <i>&gt; 0</i>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A volatilidade impl&iacute;cita futura representa a expectativa do mercado sobre a volatilidade m&eacute;dia realizada para o intervalo de tempo futuro, <i>T<sub>e-</sub></i><sub>a</sub> e <i>T<sub>e</sub></i>, sendo o <i>input</i> usado na Equa&ccedil;&atilde;o 8 do intervalo de confian&ccedil;a emp&iacute;rico dos pre&ccedil;os. A volatilidade impl&iacute;cita das op&ccedil;&otilde;es dos contratos futuros agropecu&aacute;rios expressa todas as informa&ccedil;&otilde;es dispon&iacute;veis no mercado embutidas nos pr&ecirc;mios das op&ccedil;&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.4.1. Constru&ccedil;&atilde;o dos intervalos de tempo para a volatilidade e o n&iacute;vel dos pre&ccedil;os realizados do mercado &agrave; vista de soja de Rondon&oacute;polis (MT) </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os intervalos de tempo de previs&atilde;o em curto e longo prazo, usados para a obten&ccedil;&atilde;o da previs&atilde;o dos pre&ccedil;os do mercado &agrave; vista de soja em Rondon&oacute;polis (MT), s&atilde;o divididos aplicando-se a Equa&ccedil;&atilde;o 8. O ciclo anual da safra de soja em Mato Grosso pode ser dividido em intervalos de crescimento da planta, colheita, armazenagem e comercializa&ccedil;&atilde;o, sendo superpostos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir de pesquisas junto ao Imea (Instituto Mato-Grossense de Economia Aplicada) (IMEA; 2009), os seguintes intervalos podem ser definidos, conforme o <a href="/img/revistas/resr/v51n2/a03qua01.jpg">Quadro 1</a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para os intervalos de curto prazo, as volatilidades impl&iacute;citas futuras s&atilde;o extra&iacute;das das op&ccedil;&otilde;es negociadas no dia equivalente aos dois meses anteriores ao in&iacute;cio de cada intervalo, ou seja, dois meses antes do vencimento das op&ccedil;&otilde;es com </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">o menor per&iacute;odo de vencimento. Uma vez que os intervalos duram dois ou tr&ecirc;s meses, as observa&ccedil;&otilde;es n&atilde;o s&atilde;o superpostas. Os contratos futuros e de op&ccedil;&otilde;es de soja no CME Group vencem nos meses de janeiro, mar&ccedil;o, maio, julho, agosto, setembro e novembro. Dessa forma, ser&atilde;o feitas sete previs&otilde;es anuais de curto prazo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Usando a Equa&ccedil;&atilde;o 10 para um preg&atilde;o espec&iacute;fico, calculam-se as volatilidades para intervalos para fazer previs&otilde;es de longo prazo sobre o padr&atilde;o das volatilidades futuras. Os limites dos intervalos s&atilde;o definidos pelo primeiro preg&atilde;o em cada intervalo ap&oacute;s a data de vencimento da s&eacute;rie anterior de op&ccedil;&otilde;es. Empregam-se as volatilidades impl&iacute;citas futuras geradas nos primeiros dias de preg&atilde;o de janeiro e de julho para prever as volatilidades realizadas futuras nos 12 meses subsequentes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Justifica-se a escolha do m&ecirc;s de janeiro pelo in&iacute;cio de negocia&ccedil;&atilde;o dos maiores volumes da safra de soja de Mato Grosso, pois as incertezas sobre volume e produtividade da safra est&atilde;o equacionadas. Portanto, agentes de mercado intensificam as an&aacute;lises de suas estrat&eacute;gias de comercializa&ccedil;&atilde;o, negociando percentuais maiores da safra, conforme a <a href="/img/revistas/resr/v51n2/a03fig02.jpg">Figura 2</a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.5. Avalia&ccedil;&atilde;o das previs&otilde;es </i></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com base nos per&iacute;odos de curto e longo prazo, definidos a partir do ciclo anual da safra em Mato Grosso para a identifica&ccedil;&atilde;o do padr&atilde;o da volatilidade e do n&iacute;vel dos pre&ccedil;os no mercado &agrave; vista, estimam-se a efici&ecirc;ncia e a robustez das previs&otilde;es, adaptando-se a metodologia de Egelkraut, Garcia e Sherrick (2007). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Avalia-se o desempenho das previs&otilde;es de curto prazo do n&iacute;vel dos pre&ccedil;os pela regress&atilde;o: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ11.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em que: <i>S<sub>REAL</sub></i> = pre&ccedil;o &agrave; vista realizado, di&aacute;rio, <i>S<sub>PREVISTO</sub></i> = pre&ccedil;o &agrave; vista previsto, di&aacute;rio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Um coeficiente </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>1</sub></i> estatisticamente significativo indica que o pre&ccedil;o previsto cont&eacute;m informa&ccedil;&otilde;es sobre o pre&ccedil;o &agrave; vista realizado. Uma previs&atilde;o eficiente ou n&atilde;o viesada geralmente caracteriza-se por </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>0 = 0</i> e </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>1= 1</i>, testados usando-se um teste <i>F </i>comum. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As diferen&ccedil;as na precis&atilde;o das previs&otilde;es tamb&eacute;m s&atilde;o avaliadas usando-se os erros percentuais m&eacute;dios absolutos (EPM) e quadrados (EQM), conforme f&oacute;rmulas abaixo: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03equ12-13.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.6. Dados utilizados </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Foram usados quatro conjuntos de dados na pesquisa: </font></p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">    <blockquote>       ]]></body>
+<body><![CDATA[<p>1. S&eacute;rie dos pre&ccedil;os di&aacute;ria &agrave; vista no mercado de soja de Rondon&oacute;polis (MT), fonte: Centro de Estudos Avan&ccedil;ados em Economia Aplicada, Escola Superior de Agricultura "Luiz de Queiroz", Universidade de S&atilde;o Paulo - Cepea/ Esalq/USP (2010);</p>       <p>2. S&eacute;rie de pre&ccedil;os futuros di&aacute;rios dos contratos de soja do CME Group, fonte: barchart.com (2010);</p>       <p>3. Pr&ecirc;mios das op&ccedil;&otilde;es negociadas diariamente sobre os contratos futuros de soja do CME Group, fonte: barchart.com (2010);</p>       <p>4. S&eacute;rie de cota&ccedil;&otilde;es de venda do d&oacute;lar americano, refer&ecirc;ncia PTAX-800, fonte: Banco Central do Brasil (BACEN, 2010);</p>       <p>5. Taxa de juros de tr&ecirc;s meses das <i>T-Bills</i>, do Tesouro dos EUA, fonte: Federal Reserve Bank (2010).</p> </blockquote></font>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ocorrendo feriados locais no Brasil e EUA, as s&eacute;ries de dados foram ajustadas repetindo-se o valor relativo ao dia anterior. Usaram-se os valores nominais, em reais, sem deflacionamento, conforme o procedimento de Egelkraut, Garcia e Sherrick (2007). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>3.7. Per&iacute;odos de previs&atilde;o </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As s&eacute;ries dos dados dos pre&ccedil;os &agrave; vista e futuros iniciam-se em 01/03/2004, encerrando-se em 24/06/2009, devido &agrave; disponibilidade de dados dos pre&ccedil;os &agrave; vista em Rondon&oacute;polis (MT). Entretanto, os dados referentes aos contratos de op&ccedil;&otilde;es no CME Group est&atilde;o disponibilizados somente a partir de janeiro de 2006. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Portanto, devido &agrave; acessibilidade dos dados, as previs&otilde;es s&atilde;o realizadas nos intervalos temporais de 01/01/2006 a 24/06/2009, totalizando 23 observa&ccedil;&otilde;es. </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Resultados e Discuss&atilde;o</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na <a href="/img/revistas/resr/v51n2/a03tab01.jpg">Tabela 1</a>, s&atilde;o examinadas as caracter&iacute;sticas das s&eacute;ries dos pre&ccedil;os &agrave; vista e futuros em n&iacute;vel, a exist&ecirc;ncia de raiz unit&aacute;ria, usando o modelo com constante e tend&ecirc;ncia, e de cointegra&ccedil;&atilde;o, conforme Engle e Granger (1987). Na <a href="/img/revistas/resr/v51n2/a03fig03.jpg">Figura 3</a>, explicitam-se as s&eacute;ries dos pre&ccedil;os &agrave; vista da soja em Rondon&oacute;polis (MT) e os pre&ccedil;os dos contratos futuros do gr&atilde;o do CME Group, enquanto a <a href="#fig4">Figura 4</a> mostra o <i>scatterplot </i>entre as vari&aacute;veis. </font></p>     <p><a name="fig4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03fig04.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pode-se concluir que as s&eacute;ries dos pre&ccedil;os &agrave; metrizar as previs&otilde;es sobre o n&iacute;vel e a volatilidade vista e futuros s&atilde;o do tipo <i>I</i>(<i>1</i>), integradas de pri-dos pre&ccedil;os &agrave; vista em Mato Grosso. Tamb&eacute;m se calmeira ordem, existindo cointegra&ccedil;&atilde;o. Tal fato per-culou o coeficiente de correla&ccedil;&atilde;o entre os pre&ccedil;os mite infer&ecirc;ncias cruzadas; em particular, o uso do &agrave; vista de Rondon&oacute;polis (MT) e futuros do CME conte&uacute;do informacional dos pr&ecirc;mios das op&ccedil;&otilde;es Group, registrando-se o valor de 0,969. Assim, de contratos futuros do CME Group para para-existe forte grau de correla&ccedil;&atilde;o entre os pre&ccedil;os. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#fig5">Figura 5</a> indica a s&eacute;rie da base di&aacute;ria, no n&iacute;vel. Na <a href="#tab2">Tabela 2</a>, explicitam-se as estat&iacute;sticas descritivas da base.</font></p>     <p><a name="fig5"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v51n2/a03fig05.jpg"></p>     <p>&nbsp;</p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v51n2/a03tab02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os valores da base m&eacute;dia utilizados nas estimativas dos intervalos de confian&ccedil;a emp&iacute;ricos  dos pre&ccedil;os &agrave; vista est&atilde;o na <a href="/img/revistas/resr/v51n2/a03tab03.jpg">Tabela 3</a>: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A volatilidade dos pre&ccedil;os futuros &eacute; obtida pela extra&ccedil;&atilde;o da volatilidade impl&iacute;cita do pr&ecirc;mio das op&ccedil;&otilde;es de soja do CME Group, por meio da f&oacute;rmula de Black (1976), Equa&ccedil;&otilde;es 7.1 e 7.2. Calcula-se a volatilidade impl&iacute;cita em vencimentos sucessivos pela Equa&ccedil;&atilde;o 10, comparando a previs&atilde;o com a estimativa simples (<i>na&iuml;ve</i>) da volatilidade realizada, de curto e longo prazo. Adicionalmente, usa-se a volatilidade impl&iacute;cita como par&acirc;metro na Equa&ccedil;&atilde;o 8, para obter o limite superior do intervalo de confian&ccedil;a emp&iacute;rico dos pre&ccedil;os. A seguir, examinam-se o grau de efici&ecirc;ncia das previs&otilde;es empregando MQO, EPM e EQM, dados pelas Equa&ccedil;&otilde;es 11, 12 e 13, respectivamente. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para as volatilidades impl&iacute;citas de curto prazo, os resultados do MQO, EPM e EQM est&atilde;o na <a href="/img/revistas/resr/v51n2/a03tab04.jpg">Tabela 4</a>, onde a volatilidade realizada de curto prazo &eacute; a vari&aacute;vel dependente e a volatilidade impl&iacute;cita, a explicativa: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A compara&ccedil;&atilde;o com a estimativa simples (<i>na&iuml;ve</i>) da volatilidade realizada &eacute; feita considerando-se a volatilidade do pr&oacute;ximo per&iacute;odo igual &agrave; do per&iacute;odo atual, ou seja, E &#91;</font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">t &#93; = </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>t-1</sub>. Os resultados do MQO, EPM e EQM est&atilde;o na <a href="/img/revistas/resr/v51n2/a03tab05.jpg">Tabela 5</a>, onde a volatilidade realizada de curto prazo &eacute; a vari&aacute;vel dependente e a estimativa simples (<i>na&iuml;ve</i>), a explicativa: </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pode-se concluir que a volatilidade impl&iacute;cita &eacute; melhor previsora do que a estimativa simples (<i>na&iuml;ve</i>), uma vez que o valor de R<sup>2</sup> do MQO &eacute; mais elevado, apesar dos erros percentuais e quadr&aacute;ticos da previs&atilde;o da volatilidade impl&iacute;cita serem superiores aos da estimativa simples (<i>na&iuml;ve</i>). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados do MQO, EPM e EQM para as previs&otilde;es de longo prazo da volatilidade realizada est&atilde;o na <a href="/img/revistas/resr/v51n2/a03tab06.jpg">Tabela 6</a>, onde a volatilidade realizada de longo prazo &eacute; a vari&aacute;vel dependente e a volatilidade impl&iacute;cita, a explicativa: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Comparam-se os resultados com a estimativa simples (<i>na&iuml;ve</i>) da volatilidade realizada, considerando-se a volatilidade do pr&oacute;ximo per&iacute;odo de longo prazo igual &agrave; do per&iacute;odo atual, ou seja, E &#91;</font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>t+</sub></font><sub>&#916;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> &#93; = </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>t</sub>. Os resultados do MQO, EPM e EQM est&atilde;o na <a href="/img/revistas/resr/v51n2/a03tab07.jpg">Tabela 7</a>, em que a volatilidade realizada de longo prazo &eacute; a vari&aacute;vel dependente e a estimativa simples, a explicativa: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em seguida, obt&eacute;m-se o pre&ccedil;o &agrave; vista m&aacute;ximo esperado, igual ao limite superior do intervalo de confian&ccedil;a emp&iacute;rico dos pre&ccedil;os, dado pela Equa&ccedil;&atilde;o 8, empregado na estima&ccedil;&atilde;o dos pre&ccedil;os &agrave; vista de curto e longo prazos em Rondon&oacute;polis (MT). Usa-se a volatilidade impl&iacute;cita extra&iacute;da do pr&ecirc;mio das op&ccedil;&otilde;es de soja do CME Group, por meio da f&oacute;rmula de Black (1976), Equa&ccedil;&otilde;es 7.1 e 7.2, como um dos par&acirc;metros da Equa&ccedil;&atilde;o 8. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados do MQO, EPM e EQM da estimativa dos pre&ccedil;os &agrave; vista de curto prazo est&atilde;o na <a href="/img/revistas/resr/v51n2/a03tab08.jpg">Tabela 8</a>, em que o pre&ccedil;o &agrave; vista realizado de curto prazo &eacute; a vari&aacute;vel dependente e o pre&ccedil;o &agrave; vista m&aacute;ximo esperado a explicativa: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Comparam-se os resultados com a estimativa simples (<i>na&iuml;ve</i>) do pre&ccedil;o &agrave; vista realizado, considerando-se o pre&ccedil;o do pr&oacute;ximo per&iacute;odo de curto prazo igual ao do per&iacute;odo atual, ou seja, E &#91;S<sub>t</sub>&#93; = S<sub>t-1</sub>. Os resultados do MQO, EPM e EQM est&atilde;o na <a href="/img/revistas/resr/v51n2/a03tab09.jpg">Tabela 9</a>, em que o pre&ccedil;o &agrave; vista realizado de curto prazo &eacute; a vari&aacute;vel dependente e a estimativa simples (<i>na&iuml;ve</i>) do pre&ccedil;o &agrave; vista, a explicativa: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pode-se concluir que a estimativa simples (<i>na&iuml;ve</i>) &eacute; melhor previsora do que o limite superior do intervalo de confian&ccedil;a emp&iacute;rico, pois o R<sup>2 </sup>da regress&atilde;o &eacute; mais elevado. Al&eacute;m disso, observa-se que os erros percentuais e quadr&aacute;ticos da previs&atilde;o do limite superior do intervalo de confian&ccedil;a emp&iacute;rico s&atilde;o superiores aos da estimativa simples (<i>na&iuml;ve</i>). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados do MQO, EPM e EQM da estimativa dos pre&ccedil;os &agrave; vista de longo prazo est&atilde;o na <a href="/img/revistas/resr/v51n2/a03tab10.jpg">Tabela 10</a>, onde o pre&ccedil;o &agrave; vista realizado de longo prazo &eacute; a vari&aacute;vel dependente e o pre&ccedil;o &agrave; vista m&aacute;ximo esperado, a explicativa: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Compara-se com a estimativa simples (<i>na&iuml;ve</i>) do pre&ccedil;o &agrave; vista realizado de longo prazo, considerando-se o pre&ccedil;o do pr&oacute;ximo per&iacute;odo de longo prazo igual ao do per&iacute;odo atual, ou seja, E&#91;S<sub>t+</sub></font><sub>&#916;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> &#93;=S<sub>t</sub>. Os resultados do MQO, EPM e EQM est&atilde;o na Tabela 11, em que o pre&ccedil;o &agrave; vista realizado de longo prazo &eacute; a vari&aacute;vel dependente e a estimativa simples (<i>na&iuml;ve</i>), a explicativa: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pode-se concluir que a estimativa usando o limite superior do intervalo de confian&ccedil;a emp&iacute;rico &eacute; melhor previsora que a obtida pela estimativa simples (<i>na&iuml;ve</i>), pois o valor de R<sup>2</sup> da regress&atilde;o &eacute; mais elevado. Tamb&eacute;m se observa que os erros percentuais e quadr&aacute;ticos da previs&atilde;o com o limite superior do intervalo de confian&ccedil;a emp&iacute;rico s&atilde;o inferiores aos da estimativa simples (<i>na&iuml;ve</i>). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Comparam-se, resumindo os resultados no <a href="/img/revistas/resr/v51n2/a03qua02.jpg">Quadro 5</a>, os graus de efici&ecirc;ncia das estimativas de previs&atilde;o: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pode-se observar o maior grau de efici&ecirc;ncia preditiva da volatilidade impl&iacute;cita para a volatilidade realizada de curto prazo, enquanto a volatilidade de estimativa simples (<i>na&iuml;ve</i>) &eacute; melhor previsora para a de longo prazo. O pre&ccedil;o &agrave; vista m&aacute;ximo esperado &eacute; melhor previsor do n&iacute;vel de pre&ccedil;os realizados de longo prazo, sendo as previs&otilde;es de estimativa simples (<i>na&iuml;ve</i>) superiores para o curto prazo. O crit&eacute;rio de sele&ccedil;&atilde;o &eacute; o valor de R<sup>2 </sup>das regress&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Registram-se valores pr&oacute;ximos de R<sup>2</sup> para as previs&otilde;es do n&iacute;vel dos pre&ccedil;os de curto prazo, com o valor da estimativa simples (<i>na&iuml;ve</i>) superior. Entretanto, o R<sup>2</sup> para a previs&atilde;o do n&iacute;vel dos pre&ccedil;os de longo prazo pelo pre&ccedil;o &agrave; vista m&aacute;ximo esperado &eacute; bastante superior ao da estimativa simples (<i>na&iuml;ve</i>). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em suma, os resultados apontados podem ser aplicados pelos agentes da cadeia de soja de Mato Grosso para a previs&atilde;o dos n&iacute;veis e volatilidade dos pre&ccedil;os. A metodologia tamb&eacute;m pode ser aplicada em outros mercados brasileiros de soja. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Resumo e conclus&otilde;es</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aplica-se a estrutura a termo das volatilidades impl&iacute;citas futuras das op&ccedil;&otilde;es de soja do CME Group em previs&otilde;es de curto e longo prazo da volatilidade e dos pre&ccedil;os &agrave; vista do gr&atilde;o em Rondon&oacute;polis (MT), avaliando a efici&ecirc;ncia preditiva. Emprega-se a f&oacute;rmula de Black (1976) para extra&ccedil;&atilde;o da volatilidade impl&iacute;cita das op&ccedil;&otilde;es de soja, que serve como previsora da volatilidade realizada subsequente e par&acirc;metro numa equa&ccedil;&atilde;o do limite superior do intervalo de confian&ccedil;a emp&iacute;rico dos pre&ccedil;os &agrave; vista, usado como previsor do n&iacute;vel de pre&ccedil;os realizados. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A avalia&ccedil;&atilde;o das previs&otilde;es demonstra que a volatilidade impl&iacute;cita tem maior grau de efici&ecirc;ncia para estimar a volatilidade realizada de curto prazo. A estimativa simples (<i>na&iuml;ve</i>) &eacute; mais eficiente para prever a de longo prazo. As conclus&otilde;es alinham-se com outras pesquisas sobre a efici&ecirc;ncia de previs&otilde;es de volatilidades com diferentes modelagens, destacando-se a volatilidade impl&iacute;cita como a mais eficiente num horizonte de curto prazo (EGELKRAUT e GARCIA, 2006; EGELKRAUT, GARCIA e SHERRICK, 2007). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados podem ser explicados pela estrutura complexa das volatilidades, que impacta as estimativas de previs&atilde;o, cujas diferen&ccedil;as depender&atilde;o do n&iacute;vel e estrutura da volatilidade, ou seja, do grau de persist&ecirc;ncia e revers&atilde;o &agrave; m&eacute;dia e do horizonte preditivo, dentre outros fatores (POON e GRANGER, 2003). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com rela&ccedil;&atilde;o &agrave;s previs&otilde;es do n&iacute;vel de pre&ccedil;os de curto e longo prazo da soja em Mato Grosso, o limite superior do intervalo de confian&ccedil;a emp&iacute;rico dos pre&ccedil;os &eacute; o estimador mais eficiente de longo prazo, enquanto a estimativa simples (<i>na&iuml;ve</i>) &eacute; a mais eficiente para o curto prazo. Tal fato pode demonstrar que a forma&ccedil;&atilde;o de expectativas de pre&ccedil;os de commodities agropecu&aacute;rias e a subsequente realiza&ccedil;&atilde;o s&atilde;o influenciadas pela volatilidade. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Uma explica&ccedil;&atilde;o pode ser dada pelas caracter&iacute;sticas da trajet&oacute;ria temporal dos pre&ccedil;os de commodities agropecu&aacute;rias. No curto prazo, identifica-se que ambas as previs&otilde;es do n&iacute;vel de pre&ccedil;os t&ecirc;m valores elevados de R<sup>2</sup>, sendo o valor da estimativa simples (<i>na&iuml;ve</i>) pouco superior. O fato pode ser examinado pela natureza da previs&atilde;o intervalar, que gera um valor probabil&iacute;stico, enquanto a estimativa simples reproduz o valor realizado no per&iacute;odo imediatamente anterior. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No longo prazo, a maior efic&aacute;cia das previs&otilde;es pelo limite superior do intervalo de confian&ccedil;a emp&iacute;rico dos pre&ccedil;os pode ser explicada pela dimens&atilde;o do pr&oacute;prio intervalo de confian&ccedil;a, comparativamente &agrave; previs&atilde;o de estimativa simples (<i>na&iuml;ve</i>), que &eacute; a mera repeti&ccedil;&atilde;o do pre&ccedil;o realizado num per&iacute;odo anterior de longo prazo, temporalmente afastado do pre&ccedil;o a ser estimado. As conclus&otilde;es alinham-se com as pesquisas sobre a constru&ccedil;&atilde;o de intervalos emp&iacute;ricos de pre&ccedil;os agropecu&aacute;rios (ISENGILDINA, IRWIN e GOOD, 2004; ISENGILDINA-MASSA, IRWIN e GOOD, 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados demonstram a possibilidade de obten&ccedil;&atilde;o de ganhos positivos de informa&ccedil;&otilde;es para melhorar a tomada de decis&otilde;es, a partir dos mercados de op&ccedil;&otilde;es de commodities agropecu&aacute;rias, validando-se a conclus&atilde;o de que a principal fun&ccedil;&atilde;o econ&ocirc;mica dos mercados de op&ccedil;&otilde;es &eacute; a gera&ccedil;&atilde;o de informa&ccedil;&otilde;es sobre as expectativas dos agentes. Em particular, para o mercado de soja de Mato Grosso, maior produtor do gr&atilde;o no Brasil, os ganhos de efici&ecirc;ncia alocativa oriundos das informa&ccedil;&otilde;es s&atilde;o elevados, contribuindo para uma melhor gest&atilde;o econ&ocirc;mico-financeira da produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o da safra anual. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dentre as limita&ccedil;&otilde;es do estudo, apontam-se o pequeno intervalo de tempo analisado, assim como os graus de efici&ecirc;ncia diferenciados das previs&otilde;es usando a volatilidade impl&iacute;cita, quando comparados a trabalhos similares. Tamb&eacute;m, a ordena&ccedil;&atilde;o dos m&eacute;todos pode obter resultados diferentes se aplicados a outros conjuntos de dados. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como futuros t&oacute;picos de pesquisa, sugerem-se a avalia&ccedil;&atilde;o da efici&ecirc;ncia preditiva da volatilidade impl&iacute;cita das op&ccedil;&otilde;es com as volatilidades prevalecentes no recente regime de pre&ccedil;os da soja, a an&aacute;lise do impacto das diferen&ccedil;as institucionais, pol&iacute;ticas p&uacute;blicas e risco idiossincr&aacute;tico do mercado brasileiro de soja na volatilidade das op&ccedil;&otilde;es do CME Group, bem como o exame do impacto da entrada da safra brasileira de soja sobre a volatilidade impl&iacute;cita das op&ccedil;&otilde;es negociadas em bolsas de futuros estrangeiras. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. Refer&ecirc;ncias bibliogr&aacute;ficas </b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALLEN, P. G. Economic forecasting in agriculture. <i>International Journal of Forecasting</i>, v. 10, p. 81-135, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003201300020000300001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ANDERSEN, T. G. e BOLLERSLEV, T. Answering the skeptics: yes, standard volatility models do provide accurate forecasts. <i>International Economic Review</i>, v. 39, n. 4, p. 885-905, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003201300020000300002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Banco Central do Brasil - BACEN. Taxa de c&acirc;mbio de venda PTAX-800. Dispon&iacute;vel em: &lt;<a href="http://www.bcb.gov.br" target="_blank">www.bcb.gov.br</a>&gt;. Acesso em: 1 set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0103-2003201300020000300003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Barchart.com. CME GROUP, S&eacute;rie de pre&ccedil;os de ajuste do contrato futuro de soja. Dispon&iacute;vel em: &lt;<a href="http://www.barchart.com" target="_blank">www.barchart.com</a>&gt;. Acesso em: 1 set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003201300020000300004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BESSLER, D. A. e KLING, J. L. The Forecast and Policy Analysis. <i>American Journal of Agricultural Economics</i>, v. 71, n. 2, p. 503-506, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0103-2003201300020000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BLACK, F. Studies of Stock Price Volatility Changes. In <i>Proceedings of the 1976 Meetings of the American Statistical Association</i>. Washington DC: Business and Economic Statistic Section, p. 177-181, 1976.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0103-2003201300020000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BLACK, F. e SCHOLES, M. The pricing of options and corporate liabilities. <i>Journal of Political Economy, </i>v. 81, p. 637-659, 1973.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S0103-2003201300020000300007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHRISTENSEN, B. J. e PRABHALA, N. R. The relation between implied and realized volatility. <i>Journal of Financial Economics, </i>v. 50, p. 125-150, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0103-2003201300020000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DAY, T. E. e LEWIS, C. M. Forecasting futures market volatility. <i>Journal of Derivatives, </i>v. 1, p. 33-50, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0103-2003201300020000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DHUYVETTER, K. C. e KASTENS, T. L. Forecasting Crop Basis: Practical Alternatives. Anais da <i>NCR134 Conference on Applied Commodity Price Analysis, Forecasting and Market Risk Management</i>. Chicago (EUA), 1998. Dispon&iacute;vel em: &lt;<a href="http://www.farmdoc.uiuc.edu/nccc134" target="_blank">http://www.farmdoc.uiuc.edu/nccc134</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S0103-2003201300020000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DORAN, J. S. e RONN, E. I. Computing the market price of volatility risk in the energy commodity markets. <i>Journal of Banking and Finance</i>, v. 32, n. 12, p. 2541-2552, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000210&pid=S0103-2003201300020000300011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">EGELKRAUT, T. M. e GARCIA, P. Intermediate Volatility Forecasts Using Implied Forward Volatility: The Performance of Selected Agricultural Commodity Options. <i>Journal of Agricultural and Resource Economics</i>. v. 31, n. 3, p. 508-528, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000212&pid=S0103-2003201300020000300012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">EGELKRAUT, T. E., GARCIA, P. e SHERRICK, B. J. The Term Structures of Implied Forward Volatility: Recovery and Informational Content in the Corn Options Market. <i>American Journal of Agricultural Economics</i>, v. 89, n. 1, p. 1-11, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000214&pid=S0103-2003201300020000300013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ENGLE, R. F. e GRANGER, C. W. J. Co-integration and error correction: representation, estimation and testing. <i>Econometrica.</i> v. 55, n. 2, p. 251-276, 1987.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000216&pid=S0103-2003201300020000300014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FACKLER, P. L. e KING, R. P. Calibration of optionbased probability assessments in agricultural <i>commodity </i>markets. <i>American Journal of Agricultural Economics. </i>v. 72, p. 73-83, 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000218&pid=S0103-2003201300020000300015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FAMA, E. F. The information in the term structure. <i>Journal of Financial Economics, </i>v. 13, p. 509-528, 1984.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000220&pid=S0103-2003201300020000300016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Federal Reserve Bank. Treasury Bills (secondary) 3-months. Dispon&iacute;vel em: &lt;<a href="http://www.federalreserve.gov/Releases/h15/data.htm" target="_blank">http://www.federalreserve.gov/Releases/h15/data.htm</a>&gt;. Acesso em: 01 set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000222&pid=S0103-2003201300020000300017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FLEMING, J. The quality of market volatility forecasts implied by S&amp;P 100 index option prices. <i>Journal of Empirical Finance</i>, v. 5, n. 4, p. 317-345, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000224&pid=S0103-2003201300020000300018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GARDNER, B. L. Commodity Options for Agriculture. <i>American Journal of Agricultural Economics</i>, v. 59, n. 5, p. 986-992, 1977.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000226&pid=S0103-2003201300020000300019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GULISASHVILI, A. e STEIN, E. M. Asymptotic behavior of the distribution of the stock price in models with stochastic volatility: the Hull-White model. C. R. Acad. Sci. Paris Ser. I 343, p. 519-523, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000228&pid=S0103-2003201300020000300020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">_______. Implied volatility in the Hull-White model. <i>Mathematical Finance</i>, v. 19, n. 2, p. 303-327, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000230&pid=S0103-2003201300020000300021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GWILYM, O. e BUCKLE, M. Forward/Forward Volatilities and the Term Structure of Implied Volatility. <i>Applied Economics Letters, </i>v. 4, p. 3253-3228, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000232&pid=S0103-2003201300020000300022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HULL, J. C. <i>Options, futures and other derivatives</i>. Pearson Prentice Hall. 7ª Ed, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000234&pid=S0103-2003201300020000300023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Instituto Mato-Grossense de Economia Aplicada - IMEA. 2009. E-mail de 15.07.09.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000236&pid=S0103-2003201300020000300024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ISENGILDINA, O., IRWIN, S. H. e GOOD, D. L. Evaluation of USDA Interval Forecasts of Corn and Soybean. <i>American Journal of Agricultural Economics</i>, v. 86, n. 4, p. 990-1004, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000238&pid=S0103-2003201300020000300025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">_______. Empirical Confidence Intervals for WASDE Forecasts of Corn, Soybean and Wheat Prices. Anais da <i>NCCC-134 Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management</i>. St. Louis (EUA), 2006. Dispon&iacute;vel em: &lt;<a href="http://www.farmdoc.uiuc.edu/nccc134" target="_blank">http://www.farmdoc.uiuc.edu/nccc134</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000240&pid=S0103-2003201300020000300026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ISENGILDINA-MASSA, O., IRWIN, S. H. e GOOD, D. L. Empirical Confidence Intervals for WASDE Forecasts of Corn, Soybean, and Wheat Prices." <i>Marketing and Outlook Research Report 2009-01, Department of Agricultural and Consumer Economics</i>. University of Illinois at Urbana-Champaign, 2009. Dispon&iacute;vel em: &lt;<a href="http://www.farmdoc.uiuc.edu/marketing/reports" target="_blank">http://www.farmdoc.uiuc.edu/marketing/reports</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000242&pid=S0103-2003201300020000300027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LEUTHOLD, R. M., JUNKUS, J. C. e CORDIER, J. E. <i>The Theory and Practice of Futures Markets</i>. Lexington Books, D. C. Heath and Company, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000244&pid=S0103-2003201300020000300028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PEDERSEN, W. R. Capturing all the information in foreign currency option prices: solving for one versus two implied variables. <i>Applied Economics</i>, v. 30, p. 1679-1683, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000246&pid=S0103-2003201300020000300029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">POON, S. H. e GRANGER, C. W. J. Forecasting Volatility in Financial Markets: A Review. <i>Journal of Economic Literature, </i>v. 41, p. 478-539, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000248&pid=S0103-2003201300020000300030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ROMPOLIS, L. S. e TZAVALIS, E. Risk Premium effects on implied volatility regressions. <i>The Journal of Financial Research</i>, v. 23, n. 2, p. 125-151, 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000250&pid=S0103-2003201300020000300031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SANDERS, D. R. e MANFREDO, M. R. USDA Livestock Price Forecasts: A Comprehensive Evaluation. <i>Journal of Agricultural and Resource Economics</i>, v. 28, n. 2, p. 16-334, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000252&pid=S0103-2003201300020000300032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SIMON, D. P. Implied volatility in the grain complex. <i>Journal of Futures Markets</i>, v. 22, n. 10, p. 959-981, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000254&pid=S0103-2003201300020000300033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">TAYLOR, M., DHUYVETTER, K.C. e KASTENS, T. L. Incorporating Current Information into HistoricalAverage-Based Forecasts to Improve Crop Price Basis Forecastes. Anais da <i>NCR-134 Conference on Applied Commodity Price Analysis, Forecasting and Market Risk Management</i>, St. Louis (EUA), 2004. Dispon&iacute;vel em: &lt;<a href="http://www.farmdoc.uiuc.edu/nccc134" target="_blank">http://www.farmdoc.uiuc.edu/nccc134</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000256&pid=S0103-2003201300020000300034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">United States Department of Agriculture - USDA. 2011. <i>World Supply and Demand Estimates </i>(WASDE). Dispon&iacute;vel em: &lt;<a href="http://www.usda.gov/oce/commodity/wasde/" target="_blank">http://www.usda.gov/oce/commodity/wasde/</a>&gt;. Acesso em: 1 out. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000258&pid=S0103-2003201300020000300035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Universidade de S&atilde;o Paulo, Escola Superior de Agricultura Luiz de Queiroz, Centro de Estudos Avan&ccedil;ados em Economia Aplicada - USP/ESALQ/ CEPEA. Pre&ccedil;os &agrave; vista da soja em Rondon&oacute;polis (MT). E-mail de 20.07.09.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000260&pid=S0103-2003201300020000300036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="1b"></a><a href="#1a">1</a> Uma op&ccedil;&atilde;o de compra ou venda &eacute; classificada como <i>at-the money</i> se o pre&ccedil;o de exerc&iacute;cio for igual ao pre&ccedil;o &agrave; vista do ativo subjacente (HULL; 2009, p. 186). </font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALLEN]]></surname>
+<given-names><![CDATA[P. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Economic forecasting in agriculture]]></article-title>
+<source><![CDATA[International Journal of Forecasting]]></source>
+<year>1994</year>
+<volume>10</volume>
+<page-range>81-135</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANDERSEN]]></surname>
+<given-names><![CDATA[T. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BOLLERSLEV]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Answering the skeptics: yes, standard volatility models do provide accurate forecasts]]></article-title>
+<source><![CDATA[International Economic Review]]></source>
+<year>1998</year>
+<volume>39</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>885-905</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<collab>Banco Central do Brasil</collab>
+<source><![CDATA[Taxa de câmbio de venda PTAX-800]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<collab>Barchart.com</collab>
+<source><![CDATA[CME GROUP, Série de preços de ajuste do contrato futuro de soja]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BESSLER]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KLING]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Forecast and Policy Analysis]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>1989</year>
+<volume>71</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>503-506</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLACK]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Studies of Stock Price Volatility Changes]]></article-title>
+<source><![CDATA[Proceedings of the 1976 Meetings of the American Statistical Association]]></source>
+<year>1976</year>
+<page-range>177-181</page-range><publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[Business and Economic Statistic Section]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLACK]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHOLES]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The pricing of options and corporate liabilities]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>1973</year>
+<volume>81</volume>
+<page-range>637-659</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHRISTENSEN]]></surname>
+<given-names><![CDATA[B. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PRABHALA]]></surname>
+<given-names><![CDATA[N. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The relation between implied and realized volatility]]></article-title>
+<source><![CDATA[Journal of Financial Economics]]></source>
+<year>1998</year>
+<volume>50</volume>
+<page-range>125-150</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DAY]]></surname>
+<given-names><![CDATA[T. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEWIS]]></surname>
+<given-names><![CDATA[C. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Forecasting futures market volatility]]></article-title>
+<source><![CDATA[Journal of Derivatives]]></source>
+<year>1993</year>
+<volume>1</volume>
+<page-range>33-50</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DHUYVETTER]]></surname>
+<given-names><![CDATA[K. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KASTENS]]></surname>
+<given-names><![CDATA[T. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Forecasting Crop Basis: Practical Alternatives]]></article-title>
+<source><![CDATA[Anais da NCR134]]></source>
+<year></year>
+<conf-name><![CDATA[ Conference on Applied Commodity Price Analysis, Forecasting and Market Risk Management]]></conf-name>
+<conf-date>1998</conf-date>
+<conf-loc>Chicago </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DORAN]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RONN]]></surname>
+<given-names><![CDATA[E. I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Computing the market price of volatility risk in the energy commodity markets]]></article-title>
+<source><![CDATA[Journal of Banking and Finance]]></source>
+<year>2008</year>
+<volume>32</volume>
+<numero>12</numero>
+<issue>12</issue>
+<page-range>2541-2552</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EGELKRAUT]]></surname>
+<given-names><![CDATA[T. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GARCIA]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Intermediate Volatility Forecasts Using Implied Forward Volatility: The Performance of Selected Agricultural Commodity Options]]></article-title>
+<source><![CDATA[Journal of Agricultural and Resource Economics]]></source>
+<year>2006</year>
+<volume>31</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>508-528</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EGELKRAUT]]></surname>
+<given-names><![CDATA[T. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GARCIA]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHERRICK]]></surname>
+<given-names><![CDATA[B. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Term Structures of Implied Forward Volatility: Recovery and Informational Content in the Corn Options Market]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>2007</year>
+<volume>89</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-11</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Co-integration and error correction: representation, estimation and testing]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1987</year>
+<volume>55</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>251-276</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FACKLER]]></surname>
+<given-names><![CDATA[P. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KING]]></surname>
+<given-names><![CDATA[R. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Calibration of optionbased probability assessments in agricultural commodity markets]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>1990</year>
+<volume>72</volume>
+<page-range>73-83</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FAMA]]></surname>
+<given-names><![CDATA[E. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The information in the term structure]]></article-title>
+<source><![CDATA[Journal of Financial Economics]]></source>
+<year>1984</year>
+<volume>13</volume>
+<page-range>509-528</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<collab>Federal Reserve Bank</collab>
+<source><![CDATA[Treasury Bills (secondary) 3-months]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FLEMING]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The quality of market volatility forecasts implied by S&P 100 index option prices]]></article-title>
+<source><![CDATA[Journal of Empirical Finance]]></source>
+<year>1998</year>
+<volume>5</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>317-345</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARDNER]]></surname>
+<given-names><![CDATA[B. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Commodity Options for Agriculture]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>1977</year>
+<volume>59</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>986-992</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GULISASHVILI]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STEIN]]></surname>
+<given-names><![CDATA[E. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Asymptotic behavior of the distribution of the stock price in models with stochastic volatility: the Hull-White model]]></article-title>
+<source><![CDATA[C. R. Acad. Sci. Paris Ser.]]></source>
+<year>2006</year>
+<page-range>519-523</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GULISASHVILI]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Implied volatility in the Hull-White model]]></article-title>
+<source><![CDATA[Mathematical Finance]]></source>
+<year>2009</year>
+<volume>19</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>303-327</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GWILYM]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BUCKLE]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Forward/Forward Volatilities and the Term Structure of Implied Volatility]]></article-title>
+<source><![CDATA[Applied Economics Letters]]></source>
+<year>1997</year>
+<volume>4</volume>
+<page-range>3253-3228</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HULL]]></surname>
+<given-names><![CDATA[J. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Options, futures and other derivatives]]></source>
+<year>2009</year>
+<edition>7</edition>
+<publisher-name><![CDATA[Pearson Prentice Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<collab>Instituto Mato-Grossense de Economia Aplicada</collab>
+<source><![CDATA[]]></source>
+<year>2009</year>
+<month>15</month>
+<day>.0</day>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ISENGILDINA]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IRWIN]]></surname>
+<given-names><![CDATA[S. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOOD]]></surname>
+<given-names><![CDATA[D. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evaluation of USDA Interval Forecasts of Corn and Soybean]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>2004</year>
+<volume>86</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>990-1004</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="confpro">
+<collab>^rND^sISENGILDINA^nO.</collab>
+<source><![CDATA[Empirical Confidence Intervals for WASDE Forecasts of Corn, Soybean and Wheat Prices]]></source>
+<year>2006</year>
+<conf-name><![CDATA[ Anais da NCCC-134 Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[St. Louis ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ISENGILDINA-MASSA]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IRWIN]]></surname>
+<given-names><![CDATA[S. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOOD]]></surname>
+<given-names><![CDATA[D. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Empirical Confidence Intervals for WASDE Forecasts of Corn, Soybean, and Wheat Prices: Marketing and Outlook Research Report 2009-01]]></source>
+<year>2009</year>
+<publisher-name><![CDATA[Department of Agricultural and Consumer Economics. University of Illinois at Urbana-Champaign]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEUTHOLD]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUNKUS]]></surname>
+<given-names><![CDATA[J. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CORDIER]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Theory and Practice of Futures Markets]]></source>
+<year>1989</year>
+<publisher-name><![CDATA[Lexington Books, D. C. Heath and Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEDERSEN]]></surname>
+<given-names><![CDATA[W. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Capturing all the information in foreign currency option prices: solving for one versus two implied variables]]></article-title>
+<source><![CDATA[Applied Economics]]></source>
+<year>1998</year>
+<volume>30</volume>
+<page-range>1679-1683</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POON]]></surname>
+<given-names><![CDATA[S. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Forecasting Volatility in Financial Markets: A Review]]></article-title>
+<source><![CDATA[Journal of Economic Literature]]></source>
+<year>2003</year>
+<volume>41</volume>
+<page-range>478-539</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROMPOLIS]]></surname>
+<given-names><![CDATA[L. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TZAVALIS]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Risk Premium effects on implied volatility regressions]]></article-title>
+<source><![CDATA[The Journal of Financial Research]]></source>
+<year>2010</year>
+<volume>23</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>125-151</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANDERS]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MANFREDO]]></surname>
+<given-names><![CDATA[M. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[USDA Livestock Price Forecasts: A Comprehensive Evaluation]]></article-title>
+<source><![CDATA[Journal of Agricultural and Resource Economics]]></source>
+<year>2003</year>
+<volume>28</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>16-334</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SIMON]]></surname>
+<given-names><![CDATA[D. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Implied volatility in the grain complex]]></article-title>
+<source><![CDATA[Journal of Futures Markets]]></source>
+<year>2002</year>
+<volume>22</volume>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>959-981</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DHUYVETTER]]></surname>
+<given-names><![CDATA[K.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KASTENS]]></surname>
+<given-names><![CDATA[T. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Incorporating Current Information into HistoricalAverage-Based Forecasts to Improve Crop Price Basis Forecastes]]></source>
+<year></year>
+<conf-name><![CDATA[ Anais da NCR-134 Conference on Applied Commodity Price Analysis, Forecasting and Market Risk Management]]></conf-name>
+<conf-date>2004</conf-date>
+<conf-loc>St. Louis </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="">
+<collab>United States Department of Agriculture</collab>
+<source><![CDATA[World Supply and Demand Estimates (WASDE)]]></source>
+<year>2011</year>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="">
+<collab>Universidade de São Paulo</collab>
+<collab>Escola Superior de Agricultura Luiz de Queiroz^dCentro de Estudos Avançados em Economia Aplicada</collab>
+<source><![CDATA[Preços à vista da soja em Rondonópolis (MT)]]></source>
+<year>20.0</year>
+<month>7.</month>
+<day>09</day>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

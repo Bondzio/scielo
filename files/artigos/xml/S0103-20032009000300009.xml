@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032009000300009</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032009000300009</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[A contribuição da pesquisa para convergência e crescimento da renda agropecuária no Brasil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Barreto]]></surname>
+<given-names><![CDATA[Ricardo Candéa Sá]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Almeida]]></surname>
+<given-names><![CDATA[Eduardo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Juiz de Fora programa de mestrado em economia aplicada ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal de Juiz de Fora  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2009</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2009</year>
+</pub-date>
+<volume>47</volume>
+<numero>3</numero>
+<fpage>719</fpage>
+<lpage>737</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032009000300009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032009000300009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032009000300009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O setor agropecuário no Brasil passou por diversas mudanças nas últimas décadas, tanto na composição das políticas públicas voltadas ao setor, quanto no aspecto tecnológico. Este artigo estuda a influência dos investimentos em pesquisa agropecuária para o crescimento econômico e a convergência de renda agropecuária no período de 1986 a 2004. Para isso, utiliza-se um modelo econométrico de efeitos fixos, controlando-se os efeitos espaciais, ou seja, a dependência espacial e a heterogeneidade espacial. Além de comprovar convergência condicional, o modelo revelou que o crescimento do PIB per capita agropecuário foi afetado por variáveis como capital físico agropecuário, infra-estrutura telefônica, infra-estrutura de armazenagem, crédito rural, número de trabalhadores rurais e externalidades espaciais. Além disso, ficou evidenciada a importância de P&D agropecuário para o crescimento e convergência de renda per capita no setor agropecuário.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Over the last decades, the Brazilian agricultural and livestock sector has presented several changes, both in terms of public policies and of the technological aspect. This article examines the economic growth, as well as the convergence of farmer's income Brazilian states, from 1986 to 2004. An econometric model of fixed effects is used, controlling spatial effects. In addition to proving conditional convergence, the econometric model revealed that the growth in per capita GDP for the agricultural and livestock sector was affected by variables such as agricultural physical capital, telecommunication infrastructure, storage infrastructure, rural credit, rural workers and spatial externalities. Furthermore, this paper highlights the importance of R & D investments for growth and convergence of per capita income in agricultural and livestock sector.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[convergência de renda]]></kwd>
+<kwd lng="pt"><![CDATA[agropecuária]]></kwd>
+<kwd lng="pt"><![CDATA[modelo de efeitos fixos com dependência espacial]]></kwd>
+<kwd lng="en"><![CDATA[income convergence]]></kwd>
+<kwd lng="en"><![CDATA[agricultural and livestock sector]]></kwd>
+<kwd lng="en"><![CDATA[fixed effect model with spatial dependence]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><a name="nt01a"></a><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>A  contribui&ccedil;&atilde;o da pesquisa para converg&ecirc;ncia e crescimento da  renda agropecu&aacute;ria no Brasil<a href="#nt01b"><sup>1</sup></a></b></font></p>    <p>&nbsp;</p>    <p>&nbsp;</p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Ricardo  Cand&eacute;a S&aacute; Barreto<sup>I</sup>; Eduardo Almeida<sup>II</sup></b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Professor  Doutor do programa de mestrado em economia aplicada da Universidade Federal de  Juiz de Fora. E-mail: <a href="mailto:ricardo.candea@ufjf.edu.br">ricardo.candea@ufjf.edu.br</a>    <br>  <sup>II</sup>Professor Adjunto da Universidade Federal de Juiz de Fora e pesquisador  do CNPq. E-mail: <a href="mailto:eduardo.almeida@ufjf.edu.br">eduardo.almeida@ufjf.edu.br</a>  </font></p>    <p>&nbsp;</p>    <p>&nbsp;</p><hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O  setor agropecu&aacute;rio no Brasil passou por diversas mudan&ccedil;as nas &uacute;ltimas  d&eacute;cadas, tanto na composi&ccedil;&atilde;o das pol&iacute;ticas p&uacute;blicas  voltadas ao setor, quanto no aspecto tecnol&oacute;gico. Este artigo estuda a  influ&ecirc;ncia dos investimentos em pesquisa agropecu&aacute;ria para o crescimento  econ&ocirc;mico e a converg&ecirc;ncia de renda agropecu&aacute;ria no per&iacute;odo  de 1986 a 2004. Para isso, utiliza-se um modelo econom&eacute;trico de efeitos  fixos, controlando-se os efeitos espaciais, ou seja, a depend&ecirc;ncia espacial  e a heterogeneidade espacial. Al&eacute;m de comprovar converg&ecirc;ncia condicional,  o modelo revelou que o crescimento do PIB <i>per capita</i> agropecu&aacute;rio  foi afetado por vari&aacute;veis como capital f&iacute;sico agropecu&aacute;rio,  infra-estrutura telef&ocirc;nica, infra-estrutura de armazenagem, cr&eacute;dito  rural, n&uacute;mero de trabalhadores rurais e externalidades espaciais. Al&eacute;m  disso, ficou evidenciada a import&acirc;ncia de P&amp;D agropecu&aacute;rio para  o crescimento e converg&ecirc;ncia de renda <i>per capita</i> no setor agropecu&aacute;rio.  </font></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chaves:  </b>converg&ecirc;ncia de renda, agropecu&aacute;ria, modelo de efeitos fixos  com depend&ecirc;ncia espacial. </font></p><hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Over  the last decades, the Brazilian agricultural and livestock sector has presented  several changes, both in terms of public policies and of the technological aspect.  This article examines the economic growth, as well as the convergence of farmer's  income Brazilian states, from 1986 to 2004. An econometric model of fixed effects  is used, controlling spatial effects. In addition to proving conditional convergence,  the econometric model revealed that the growth in <i>per capita</i> GDP for the  agricultural and livestock sector was affected by variables such as agricultural  physical capital, telecommunication infrastructure, storage infrastructure, rural  credit, rural workers and spatial externalities. Furthermore, this paper highlights  the importance of R &amp; D investments for growth and convergence of <i>per capita</i>  income in agricultural and livestock sector.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  <b>Keywords:</b> income convergence, agricultural and livestock sector, fixed  effect model with spatial dependence.</font></p><hr size="1" noshade>     <p>&nbsp;</p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1.  Introdu&ccedil;&atilde;o</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O setor agropecu&aacute;rio no Brasil passou por diversas mudan&ccedil;as nas  &uacute;ltimas d&eacute;cadas, tanto na composi&ccedil;&atilde;o dos gastos do  governo voltados ao setor quanto no aspecto tecnol&oacute;gico. Isso, por sua  vez, modificou o seu padr&atilde;o de produtividade, principalmente ap&oacute;s  o in&iacute;cio da d&eacute;cada de 1990.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Sob uma perspectiva hist&oacute;rica, a transforma&ccedil;&atilde;o da agricultura  brasileira acontece a partir de meados da d&eacute;cada de 60, quando se insere  no contexto da moderniza&ccedil;&atilde;o e desenvolvimento do Pa&iacute;s, introduzido  pelo Governo de Juscelino Kubitschek. Inicialmente, foram nas regi&otilde;es do  Sul e Sudeste do Brasil que a agricultura se desenvolveu de forma intensiva. Entretanto,  devido ao esgotamento de terras dispon&iacute;veis para a ocupa&ccedil;&atilde;o  da agropecu&aacute;ria e &agrave; necessidade de aumento da produtividade agr&iacute;cola,  houve o direcionamento da produ&ccedil;&atilde;o para novas &aacute;reas e a conseq&uuml;ente  expans&atilde;o agr&iacute;cola.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Tendo-se em mente a grande import&acirc;ncia dos investimentos em pesquisa, o  marco fundamental das novas pol&iacute;ticas &eacute; a cria&ccedil;&atilde;o  da Empresa Brasileira de Pesquisa Agropecu&aacute;ria (Embrapa) em 1973. Conforme  Bonelli e Pessoa (1998), as despesas em pesquisa efetuadas por essa empresa aumentaram  rapidamente nos anos 70, tanto em termos reais quanto em rela&ccedil;&atilde;o  ao PIB agr&iacute;cola, mas permaneceram praticamente constantes at&eacute; o  in&iacute;cio dos anos 90<a name="nt02b"></a><a href="#nt02a"><sup>2</sup></a>.  As pesquisas da Embrapa produziram importantes inova&ccedil;&otilde;es nas &aacute;reas  de tecnologias bioqu&iacute;micas, t&eacute;cnicas de manejo do solo e adapta&ccedil;&otilde;es  no cultivo para as condi&ccedil;&otilde;es agroecol&oacute;gicas prevalecentes  no Brasil - a bem-sucedida adapta&ccedil;&atilde;o das variedades de soja ao solo  do Cerrado ratifica essa vis&atilde;o.<a name="nt03a"></a><a href="#nt03b"><sup>3</sup></a>  </font></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Eacute;  poss&iacute;vel que os investimentos em pesquisa tenham contribu&iacute;do para  a converg&ecirc;ncia de renda agr&iacute;cola no Brasil, visto que as inova&ccedil;&otilde;es  originadas na Embrapa tiveram, no entanto, tecnologias poupadoras de terra que  aumentaram o n&iacute;vel de renda rural, ao mesmo tempo contribu&iacute;ram para  incorpora&ccedil;&atilde;o de novas &aacute;reas no Centro-Oeste, sul dos estados  do Par&aacute;, Piau&iacute; e Maranh&atilde;o, al&eacute;m do oeste da Bahia  e estados como Rond&ocirc;nia e Acre. Como essas &aacute;reas tamb&eacute;m se  adequavam &agrave; mecaniza&ccedil;&atilde;o, conclui-se que essas inova&ccedil;&otilde;es  revestiam-se, ainda, de inova&ccedil;&otilde;es tecnol&oacute;gicas poupadoras  de m&atilde;o-de-obra.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Objetiva-se, neste artigo, avaliar se os investimentos em pesquisa agropecu&aacute;ria  contribu&iacute;ram para a diminui&ccedil;&atilde;o das desigualdades do PIB <i>por  trabalhador</i> agropecu&aacute;rio e/ou contribu&iacute;ram para o crescimento  do PIB <i>por trabalhador</i> agropecu&aacute;rio nos estados brasileiros ao longo  do per&iacute;odo de 1985 a 2004, al&eacute;m de se comprovar se ocorreu converg&ecirc;ncia  de renda agropecu&aacute;ria no per&iacute;odo.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Para isso, a metodologia a ser utilizada neste trabalho consta de um modelo econom&eacute;trico  de efeitos fixos com controle para a depend&ecirc;ncia espacial<a name="nt04b"></a><a href="#nt04a"><sup>4</sup></a>.  Esse modelo procura controlar tanto a depend&ecirc;ncia espacial quanto a heterogeneidade  espacial, representada por diferentes interceptos.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Os resultados indicaram que, no per&iacute;odo de 1986 a 2004, houve uma tend&ecirc;ncia  &agrave; equaliza&ccedil;&atilde;o das rendas <i>por trabalhador</i> agropecu&aacute;rio  entre os estados brasileiros. Dentro dessa perspectiva mais ampla de converg&ecirc;ncia  condicional, os resultados mostraram, tamb&eacute;m, que a pesquisa agropecu&aacute;ria  contribuiu tanto para o crescimento da renda do setor quanto para a sua converg&ecirc;ncia  entre os estados brasileiros.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Al&eacute;m desta se&ccedil;&atilde;o introdut&oacute;ria, este trabalho est&aacute;  estruturado como se segue. Na pr&oacute;xima se&ccedil;&atilde;o, uma revis&atilde;o  da literatura. Em seq&uuml;&ecirc;ncia, apresenta-se o modelo emp&iacute;rico-econom&eacute;trico.  Na quarta parte, destacam-se as fontes de dados e as defini&ccedil;&otilde;es  das vari&aacute;veis importantes na obten&ccedil;&atilde;o do controle condicional  do efeito de converg&ecirc;ncia. As evid&ecirc;ncias emp&iacute;ricas s&atilde;o  apresentadas e discutidas na quinta se&ccedil;&atilde;o. Exp&otilde;em-se, na  &uacute;ltima se&ccedil;&atilde;o, as conclus&otilde;es de relevo e tecem-se as  considera&ccedil;&otilde;es finais.</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2.  Revis&atilde;o de literatura</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  &Agrave; luz das teorias do crescimento end&oacute;geno, o progresso tecnol&oacute;gico  ocorre quando as empresas ou os inventores maximizadores de lucro buscam desenvolver  novos e melhores produtos. &Eacute; a possibilidade de auferir lucro que leva  as empresas a desenvolverem um novo produto, processo ou id&eacute;ia. Assim,  as melhorias tecnol&oacute;gicas e o pr&oacute;prio processo de crescimento econ&ocirc;mico  s&atilde;o compreendidos como resultado end&oacute;geno da economia.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Robert Solow (1956), no chamado Modelo Neocl&aacute;ssico de Crescimento Econ&ocirc;mico,  aponta que o progresso tecnol&oacute;gico emana fora do contexto da economia (ex&oacute;geno),  enquanto as contribui&ccedil;&otilde;es de Paul Romer (1986) e Robert Lucas (1988)  incorporam os retornos crescentes de escala, e o progresso tecnol&oacute;gico  pode ser pensado como uma outra forma de acumula&ccedil;&atilde;o de capital a  partir de empresas que desenvolvam Pesquisa e Desenvolvimento (P&amp;D).</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Para Howitt e Mayer-Foulkes (2005), o n&iacute;vel geral de P&amp;D da economia  determina o fluxo de inova&ccedil;&otilde;es da economia, que, por seu turno,  governa a taxa de progresso tecnol&oacute;gico, e, portanto, determina a taxa  de crescimento econ&ocirc;mico de longo prazo. Dado que as vari&aacute;veis institucionais  e pol&iacute;ticas s&atilde;o mantidas constantes, um aumento no estoque de capital  por unidade de trabalho ir&aacute; elevar o incentivo a desenvolver P&amp;D por  meio do efeito escala. Isto &eacute;, mais capital <i>por trabalhador</i> ir&aacute;  resultar em mais produ&ccedil;&atilde;o <i>por trabalhador</i>, e da&iacute;,  mais renda <i>per capita</i>, para um dado n&iacute;vel de tecnologia. E quando  as pessoas t&ecirc;m rendas maiores, estas podem gastar mais em produtos recentemente  inventados, o que eleva o incentivo a desenvolver P&amp;D e resulta em uma taxa  mais r&aacute;pida de crescimento. Os autores ainda apontam que a introdu&ccedil;&atilde;o  dos modernos P&amp;D foi a for&ccedil;a fundamental por tr&aacute;s da emerg&ecirc;ncia  das grandes disparidades de renda.</font></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  No que tange a renda agropecu&aacute;ria, existe na literatura um conjunto de  trabalhos que, usando da abordagem da converg&ecirc;ncia, procura estudar vari&aacute;veis  vinculadas &agrave; agricultura, tais como a renda <i>por trabalhador</i>, produ&ccedil;&atilde;o  ou a produtividade. Nesse sentido, ressalta-se o trabalho de Lusigi e Thirtle  (1998) para 32 pa&iacute;ses africanos entre 1970 e 1991, que comprovou a exist&ecirc;ncia  de converg&ecirc;ncia condicional da renda <i>por trabalhador</i> como da produtividade  total dos fatores na agricultura, tendo como vari&aacute;veis de controle adotadas:  investimento, educa&ccedil;&atilde;o, participa&ccedil;&atilde;o na agricultura  e emprego.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  J&aacute; Gutierrez (2000) encontrou converg&ecirc;ncia absoluta da produtividade  do trabalho agr&iacute;cola nas unidades federativas dos Estados Unidos da Am&eacute;rica  para o per&iacute;odo de 1970 a 1992. A mesma an&aacute;lise para os pa&iacute;ses  da Uni&atilde;o Europ&eacute;ia n&atilde;o mostrou evid&ecirc;ncias de converg&ecirc;ncia  absoluta da produtividade do trabalho agr&iacute;cola. Resultado semelhante foi  encontrado por Suhariyanto e Thirtle (2001). Analisando a produtividade agr&iacute;cola  na &Aacute;sia entre 1965 a 1996, os autores n&atilde;o encontraram evid&ecirc;ncias  de converg&ecirc;ncia para a produtividade total dos fatores na agricultura.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  No Brasil, Oliveira Junior et al. (2007) encontraram evid&ecirc;ncias de converg&ecirc;ncia  condicional microrregional do valor da produ&ccedil;&atilde;o agr&iacute;cola  <i>por trabalhador</i> no per&iacute;odo de 1970 a 1996, encontrando, tamb&eacute;m,  evid&ecirc;ncias de que o capital f&iacute;sico &eacute; mais importante que o  capital humano na explica&ccedil;&atilde;o do processo de crescimento.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Almeida et al. (2008) investigaram se h&aacute; converg&ecirc;ncia espacial da  produtividade agr&iacute;cola no per&iacute;odo mais recente entre 1991 e 2003  para as microrregi&otilde;es do Brasil. O estudo apresenta evid&ecirc;ncias em  favor da exist&ecirc;ncia de converg&ecirc;ncia absoluta da produtividade agr&iacute;cola,  por&eacute;m, num ritmo muito lento no per&iacute;odo de 1991 a 2003 e 1991 a  1994. Para os subper&iacute;odos 1995-1999 e 2000-2003, contudo, n&atilde;o se  observa a converg&ecirc;ncia de renda.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O setor agropecu&aacute;rio &eacute; sujeito &agrave; influ&ecirc;ncia de efeitos  de vizinhan&ccedil;a, efeitos de cont&aacute;gio (de pragas) e de inova&ccedil;&atilde;o  tecnol&oacute;gica. Nesse sentido, Anselin (1988) ressalta a import&acirc;ncia  da depend&ecirc;ncia espacial e afirma que tal efeito pode ser entendido como  a falta de independ&ecirc;ncia entre observa&ccedil;&otilde;es em uma <i>cross  section</i> ou dados de painel. Em particular, como este artigo tem como o foco  os investimentos de pesquisa da Embrapa, espera-se teoricamente verificar efeitos  de <i>spillover</i> e de difus&atilde;o tecnol&oacute;gica proveniente de inova&ccedil;&otilde;es  introduzidas pela Embrapa que ocorrem por meio das regi&otilde;es. Em vista disso,  por constituir num elemento importante, explicando o crescimento entre pa&iacute;ses,  a dimens&atilde;o geogr&aacute;fica deve ser estudada com muita aten&ccedil;&atilde;o.</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>  3. Modelo<a name="nt05b"></a><a href="#nt05a"><sup>5</sup></a></b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Utiliza-se como refer&ecirc;ncia um modelo econom&eacute;trico espacial de efeitos  fixos com depend&ecirc;ncia espacial, como especificado abaixo na forma de dados  empilhados:<a name="nt06b"></a><a href="#nt06a"><sup>6</sup></a> </font></p>    <p align="left"><img src="/img/revistas/resr/v47n3/a09for01.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em  que <i>G<sub>t</sub></i> &eacute; um vetor do logaritmo da rela&ccedil;&atilde;o  do PIB <i>por trabalhador</i> do per&iacute;odo corrente e o do PIB <i>por trabalhador</i>  agropecu&aacute;rio do per&iacute;odo anterior para os anos entre 1986 e 2004,  ao passo que <i>W<sub>1</sub>G<sub>t</sub></i> &eacute; a vari&aacute;vel dependente  defasada espacialmente. O par&acirc;metro <i>p</i> &eacute; o coeficiente de defasagem  espacial, que capta os efeitos de transbordamento do PIB <i>por trabalhador</i>  sobre os vizinhos.</font></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O vetor &#181;<i><sub>i</sub></i> =(&#181;<sub>1</sub> , . . . , &#181;<i><sub>k</sub></i>  ) representa os efeitos fixos. O modelo de efeitos fixos assume que as diferen&ccedil;as  das unidades s&atilde;o captadas nos diferentes interceptos, mas t&ecirc;m as  mesmas inclina&ccedil;&otilde;es. Nesse sentido, os efeitos fixos s&atilde;o os  efeitos espec&iacute;ficos n&atilde;o-observ&aacute;veis e constantes ao longo  do tempo, atribu&iacute;veis a caracter&iacute;sticas espec&iacute;ficas de cada  regi&atilde;o.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Ln <i>Y<sub>t-1</sub></i> &eacute; o n&iacute;vel da renda <i>per capita</i> no  per&iacute;odo inicial e o coeficiente </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">  fornece a informa&ccedil;&atilde;o sobre a converg&ecirc;ncia.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  A matriz <i>X<sub>t-1</sub></i> representa as vari&aacute;veis de controle iniciais  (de 1985 a 2003),<a name="nt07b"></a><a href="#nt07a"><sup>7</sup></a> sendo </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">  o seu vetor de coeficientes a serem estimados. W<sub>1</sub> e W<sub>2</sub> s&atilde;o  os operadores de defasagem espacial, </font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">  s&atilde;o os termos de erro <i>i.i.d.</i> com E(</font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">)=  0 e E(</font>&#949;&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">'  )= </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <sup>2</sup><i>I<sub>NT</sub></i>.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Semelhantemente, constr&oacute;i-se uma defasagem espacial das vari&aacute;veis  explicativas iniciais W<sub>1</sub>X<i><sub>t-1</sub></i> . Assim, o vetor de  coeficientes </font>&#964;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">  representa as externalidades que cada vari&aacute;vel de controle condicional  de uma regi&atilde;o exerce sobre outras, influenciando o crescimento econ&ocirc;mico  dos estados.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  J&aacute; o coeficiente <i>&#248;</i> quantifica a contribui&ccedil;&atilde;o  da pesquisa agropecu&aacute;ria (<i>P&amp;D<sub>t-1</sub></i>) realizada no per&iacute;odo  anterior, para o crescimento da renda agropecu&aacute;ria <i>por trabalhador</i>  e <i>y</i> quantifica a contribui&ccedil;&atilde;o da <i>P&amp;D<sub>t</sub></i><sub>-1</sub>  para a sua converg&ecirc;ncia.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O  estimador de efeitos fixos permite controlar esses componentes e eliminar, em  larga medida, o vi&eacute;s das vari&aacute;veis omitidas. Portanto, a estima&ccedil;&atilde;o  do modelo espacial por efeitos fixos tem a vantagem de controlar este tipo de  heterogeneidade, considerando, ainda, a depend&ecirc;ncia espacial dos dados.  A heterogeneidade espacial<a name="nt08b"></a><a href="#nt08a"><sup>8</sup></a>  diz respeito &agrave; falta de estabilidade de comportamento atrav&eacute;s do  espa&ccedil;o, como, por exemplo, munic&iacute;pios ricos e pobres aglutinados  em diferentes regi&otilde;es de um pa&iacute;s.</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>  4. Dados</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O painel de dados cont&eacute;m a totalidade dos 26 estados brasileiros e o Distrito  Federal, no per&iacute;odo de 1985 a 2004. Uma s&eacute;rie de vari&aacute;veis  <i>proxies</i> &eacute; definida no <a href="#qdr01">Quadro 1</a><a name="nt09b"></a><a href="#nt09a"><sup>9</sup></a>.  Em seguida, &eacute; feita uma descri&ccedil;&atilde;o das vari&aacute;veis usadas  para estimar os resultados.</font></p>    <p><a name="qdr01"></a></p>    ]]></body>
+<body><![CDATA[<p>&nbsp;</p>    <p align="center"><img src="/img/revistas/resr/v47n3/a09qdr01.gif" border="0" usemap="#Map">  <map name="Map"><area shape="rect" coords="494,2,506,11" href="#nt10a"> </map></p>    <p>&nbsp;</p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  A vari&aacute;vel dependente <i>G<sub>t</sub></i> &eacute; medida como o logaritmo  natural do fator de crescimento:</font></p>    <p align="left"><img src="/img/revistas/resr/v47n3/a09for02.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  em que <i>Y</i> &eacute; o PIB por trabalhador.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Quanto &agrave; escolha das vari&aacute;veis explicativas <i>X<sub>t</sub></i><sub>-1</sub>  do modelo emp&iacute;rico, procura-se controlar diversas caracter&iacute;sticas  regionais que atuam sobre o desenvolvimento. Conv&eacute;m recordar que vari&aacute;veis  explicativas representam a matriz <i>X<sub>t</sub></i><sub>-1</sub> para cada  estado, ou seja, as caracter&iacute;sticas iniciais (referentes ao ano inicial  do per&iacute;odo) de cada uma. A matriz <i>X<sub>t</sub></i><sub>-1</sub> &eacute;  composta pelas seguintes vari&aacute;veis:</font></p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">      <blockquote>     <p> 1. O n&uacute;mero de trabalhadores formais (<i>Trab<sub>t</sub></i><sub>-1</sub>)  nos setores agricultura, borracha, fumo, couro, madeira e mobili&aacute;rio foi  obtido no Cadastro Geral de Empregado e Desempregado (Caged), do Minist&eacute;rio  do Trabalho e Emprego (MTE).</p>    <p>2. Densidade Rodovi&aacute;ria (<i>DR<sub>t</sub></i><sub>-1</sub>)  denota a extens&atilde;o das rodovias federais pavimentadas relativas &agrave;  &aacute;rea de cada estado.</p>    ]]></body>
+<body><![CDATA[<p>3. Infra-estrutura de telecomunica&ccedil;&atilde;o  por trabalhador (<i>IT<sub>t</sub></i><sub>-1</sub>) tem como <i>proxy</i> os  terminais telef&ocirc;nicos fixos totais do Brasil (residenciais e p&uacute;blicos),  em servi&ccedil;o, relativos ao n&uacute;mero de trabalhadores de cada estado.  </p>    <p>4. A capacidade est&aacute;tica dos armaz&eacute;ns (<i>CONAB<sub>t</sub></i><sub>-1</sub>)  por estado da uni&atilde;o, em mil toneladas, foi obtida na Companhia Nacional  de Abastecimento (Conab).</p>    <p> 5. A &aacute;rea total irrigada (<i>Irri<sub>t</sub></i><sub>-1</sub>)  foi obtida nos censos agropecu&aacute;rios do Brasil (IBGE), em publica&ccedil;&otilde;es  especializadas e interpolada pela taxa de crescimento do per&iacute;odo. A &aacute;rea  total plantada foi obtida nos censos agropecu&aacute;rios do Brasil, em 1985 e  1995 (IBGE, 2005), e interpoladas e extrapoladas com a taxa geom&eacute;trica  de crescimento do per&iacute;odo. A pesquisa utilizou a rela&ccedil;&atilde;o  entre a &aacute;rea total irrigada e a plantada<a name="nt11b"></a><a href="#nt11a"><sup>11</sup></a>.  </p>    <p>6. Cr&eacute;dito rural por trabalhador (<i>Cred<sub>t</sub></i><sub>-1</sub>)  &eacute; o valor referente &agrave; agrega&ccedil;&atilde;o do saldo cont&aacute;bil  das opera&ccedil;&otilde;es de cr&eacute;dito rural (inclui custeio, investimento  e comercializa&ccedil;&atilde;o do ciclo produtivo), realizadas pelas ag&ecirc;ncias  das institui&ccedil;&otilde;es financeiras dos munic&iacute;pios at&eacute; 31  de dezembro de cada ano.</p>    <p>7. O n&uacute;mero de pesquisadores por trabalhador  (<i>P&amp;D<sub>t</sub></i><sub>-1</sub>) foi obtido na Embrapa<a name="nt12b"></a><a href="#nt12a"><sup>12</sup></a>.  </p>    <p>8. Vari&aacute;vel de intera&ccedil;&atilde;o entre o logaritmo natural  do PIB <i>por trabalhador</i> inicial e o n&uacute;mero de pesquisadores da Embrapa  por trabalhador (<i>P&amp;D<sub>t</sub></i><sub>-1</sub>*ln(<i>Y<sup>t</sup></i><sub>-1</sub>)).</p>    <p>  9. Estoque de capital estadual por trabalhador (<i>Kagro<sub>t</sub></i><sub>-1</sub>)  foi deflacionado pelo IPC (ano-base 2000) em fun&ccedil;&atilde;o da participa&ccedil;&atilde;o  estadual na utiliza&ccedil;&atilde;o total da terra segundo as unidades da federa&ccedil;&atilde;o.  Essa <i>proxy</i> foi obtida do estoque de capital do setor agropecu&aacute;rio  brasileiro (<i>Kagro<sub>t</sub></i><sub>-1<i>BR</i></sub>), ponderado pela participa&ccedil;&atilde;o  estadual na &aacute;rea total plantada.</p></blockquote></font>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Nesse caso, tem-se:</font></p>    <p align="left"><img src="/img/revistas/resr/v47n3/a09for03.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Eacute;  importante destacar que as vari&aacute;veis descritas anteriormente tamb&eacute;m  ser&atilde;o consideradas defasadas espacialmente, de forma que se avaliem como  os seus aspectos de transbordamento ou externalidades espaciais s&atilde;o significativos.  No tocante aos coeficientes das vari&aacute;veis representadas por <i>P&amp;D<sub>t</sub></i><sub>-1</sub>,  cabe informar que os mesmos permitem avaliar se pesquisa contribuiu para o crescimento  do PIB agropecu&aacute;rio <i>por trabalhador</i> dos estados. Por sua vez, tamb&eacute;m  &eacute; avaliado o efeito de intera&ccedil;&atilde;o, <i>P&amp;D<sub>t</sub></i><sub>-1</sub>*ln(<i>Y<sub>t</sub></i><sub>-1</sub>),  para verificar se a pesquisa agropecu&aacute;ria contribuiu na diminui&ccedil;&atilde;o  das desigualdades regionais do PIB agropecu&aacute;rio <i>por trabalhador</i>.<a name="nt13a"></a><a href="#nt13b"><sup>13</sup></a></font></p>    ]]></body>
+<body><![CDATA[<p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5.  Resultados e discuss&atilde;o</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Esta se&ccedil;&atilde;o &eacute; reservada &agrave; an&aacute;lise econom&eacute;trica  dos coeficientes estimados, da qualidade de ajuste das regress&otilde;es e do  diagn&oacute;stico. Vale destacar que o modelo teve 509 observa&ccedil;&otilde;es<a name="nt014b"></a><a href="#nt014a"><sup>14</sup></a>,  durante o per&iacute;odo de 19 anos e com os 26 estados mais o Distrito Federal.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O  modelo de efeitos fixos sem depend&ecirc;ncia espacial foi estimado por m&iacute;nimos  quadrados com vari&aacute;veis <i>dummies</i> (MQVD). De acordo com a Tabela 1,  os diagn&oacute;sticos indicam que os erros n&atilde;o s&atilde;o normais. Pelo  teste de White e pelo teste de Breusch-Pagan-Godfrey (BPG), h&aacute; evid&ecirc;ncias  de erros heteroced&aacute;sticos. As observa&ccedil;&otilde;es discrepantes podem  invalidar a suposi&ccedil;&atilde;o cl&aacute;ssica de normalidade dos res&iacute;duos,  bem como a heterocedasticidade pode implicar uma matriz de vari&acirc;ncia-covari&acirc;ncia  sem a diagonal principal constante. Nesses casos, as estima&ccedil;&otilde;es  por MQO podem ser muito inconsistentes e ineficientes.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Em rela&ccedil;&atilde;o &agrave; heterocedasticidade, todas as pr&oacute;ximas  regress&otilde;es foram estimadas, utilizando-se os desvios padr&otilde;es robustos  baseados na matriz de vari&acirc;ncia-cov&acirc;riancia de White com o intuito  de elimin&aacute;-la. Pelo teste de <i>Hausman</i>, conclui-se que o procedimento  mais adequado &eacute; o modelo de efeitos fixos. O teste Durbin-Wu-Hausman indica  que a vari&aacute;vel <i>P&amp;D<sub>t</sub></i><sub>-1</sub> &eacute; ex&oacute;gena  em rela&ccedil;&atilde;o ao modelo.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  A <a href="#tab02">Tabela 2</a> apresenta os res&iacute;duos do modelo estimado  para cada ano do per&iacute;odo de 1986 a 2004. Observa-se que a depend&ecirc;ncia  espacial est&aacute; presente em quase todos os anos. Essa evid&ecirc;ncia &eacute;  confirmada pelos valores do &iacute;ndice <i>I</i> de Moran computado nos res&iacute;duos  durante cada ano, pois se observa que a hip&oacute;tese nula de nenhuma depend&ecirc;ncia  espacial nos res&iacute;duos &eacute; rejeitada. Assim, fica clara a necessidade  de se incorporar a corre&ccedil;&atilde;o espacial no modelo.</font></p>    <p><a name="tab02"></a></p>    <p>&nbsp;</p>    <p align="center"><img src="/img/revistas/resr/v47n3/a09tab02.gif" border="0" usemap="#Map2">  <map name="Map2"><area shape="rect" coords="483,17,492,26" href="#nt15a"> </map></p>    <p>&nbsp;</p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Existem sinais da import&acirc;ncia da dimens&atilde;o espacial na din&acirc;mica  do crescimento econ&ocirc;mico, pois, uma vez identificada a depend&ecirc;ncia  espacial no crescimento do PIB <i>por trabalhador</i> agropecu&aacute;rio dos  estados brasileiros, qualquer modelo econom&eacute;trico estimado que utilize  o crescimento do PIB por trabalhador agropecu&aacute;rio como vari&aacute;vel  dependente deve considerar esta depend&ecirc;ncia.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Os resultados das estimativas encontram-se tamb&eacute;m na <a href="#tab03">Tabela  3</a>.<a name="nt16b"></a><a href="#nt16a"><sup>16</sup></a> Em termos de qualidade  de ajuste, o melhor modelo, avaliado com base nos crit&eacute;rios de Informa&ccedil;&atilde;o  de Akaike (AIC) e Schwarz (SC), &eacute; o modelo de efeitos fixos com defasagem  espacial.</font></p>    <p><a name="tab03"></a></p>    <p>&nbsp;</p>    <p align="center"><img src="/img/revistas/resr/v47n3/a09tab03.gif" border="0" usemap="#Map3">  <map name="Map3"><area shape="rect" coords="501,15,511,24" href="#nt17a"> </map></p>    <p>&nbsp;</p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Ressalta-se que o modelo de defasagem espacial &eacute; o mais adequado, dado  que o coeficiente caracteriza-se o efeito da vizinhan&ccedil;a sobre a din&acirc;mica  de crescimento foi negativo e significativo. Em rela&ccedil;&atilde;o ao fato  da defasagem espacial (<i>W<sub>1</sub>G<sub>t</sub></i>) apresentar signific&acirc;ncia  estat&iacute;stica, pode-se afirmar que a evolu&ccedil;&atilde;o do crescimento  econ&ocirc;mico da renda agropecu&aacute;ria <i>por trabalhador</i> dos estados  de determinada regi&atilde;o pode ser influenciada pela evolu&ccedil;&atilde;o  do crescimento de rendo dos estados vizinhos. Por outro lado, o fato de a defasagem  espacial possuir sinal negativo indica que a intera&ccedil;&atilde;o espacial  da taxa de crescimentos da renda agropecu&aacute;ria <i>por trabalhador</i> entre  os estados brasileiros tem um padr&atilde;o de dispers&atilde;o espacial, predominando,  em m&eacute;dia, estados com taxas de crescimento elevadas vizinhos de estados  com taxas baixas (padr&atilde;o alto-baixo) e vice versa (padr&atilde;o baixo-alto).  </font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na Tabela  3, percebe-se que o coeficiente da vari&aacute;vel ln(<i>Y<sub>t</sub></i><sub>-1</sub>)  &eacute; significativamente diferente de zero e de sinal negativo, confirmando,  com isso, a hip&oacute;tese de converg&ecirc;ncia agropecu&aacute;ria de renda  por trabalhador entre os estados brasileiros, ou seja, a desigualdade entre os  estados est&aacute; diminuindo no tempo.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Segundo Chatterji (1992), para garantir que a vari&aacute;vel em estudo sofra  a converg&ecirc;ncia do per&iacute;odo inicial at&eacute; o final, &eacute; necess&aacute;rio  que -2 &lt; </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">  &lt; 0. Em outros termos, a tabela mostra que existe converg&ecirc;ncia do tipo  condicional para o crescimento do PIB <i>por trabalhador</i> agropecu&aacute;rio  para os estados brasileiros. Esses resultados s&atilde;o mais confi&aacute;veis  porque se utilizam outras vari&aacute;veis para condicionar o modelo.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Entre os coeficientes reportados na Tabela 3, merece destaque o coeficiente da  vari&aacute;vel interativa que visa controlar interativamente a influ&ecirc;ncia  do n&iacute;vel de renda inicial e da medida de pesquisa e desenvolvimento, que  se mostrou significativo e negativo. Isso pode ser interpretado como sendo evid&ecirc;ncias  de que os investimentos de pesquisa contribuem efetivamente para a converg&ecirc;ncia  estadual da renda agropecu&aacute;ria por trabalhador.</font></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  J&aacute; os efeitos de <i>P&amp;D<sub>t</sub></i><sub>-1</sub> sobre o crescimento  foram positivos. O coeficiente para a proxy para pesquisa e desenvolvimento agropecu&aacute;rio  <i>por trabalhador</i> (<i>P&amp;D<sub>t</sub></i><sub>-1</sub>) foi estatisticamente  significativo e de sinal positivo, com uma alta magnitude. Esse resultado oferece  evid&ecirc;ncias em favor da hip&oacute;tese de McCunn e Huffman (2000) de que  a pesquisa agropecu&aacute;ria regional gera externalidades espaciais, elevando  a produtividade.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Outro resultado importante foi de que a estimativa do coeficiente para cr&eacute;dito  rural (<i>Cred<sub>t</sub></i><sub>-1</sub>) para o crescimento do PIB por trabalhador  agropecu&aacute;rio foi confirmada no modelo. Gasques et al. (2004)<a name="nt18b"></a><a href="#nt18a"><sup>18</sup></a>  apontam que no per&iacute;odo de 1975 a 2002 o aumento da produ&ccedil;&atilde;o  do agroneg&oacute;cio se d&aacute; quase que exclusivamente apoiado no crescimento  da produtividade e que os gastos com pesquisa s&atilde;o mais importantes que  o cr&eacute;dito rural na explica&ccedil;&atilde;o da produtividade total dos  fatores da agropecu&aacute;ria. De modo geral, esses resultados, apontados em  Gasques et al. (2004), s&atilde;o corroborados aqui, pois, de forma semelhante,  a pesquisa agropecu&aacute;ria e o cr&eacute;dito rural s&atilde;o as vari&aacute;veis  relevantes para explicar o crescimento da renda agropecu&aacute;ria neste artigo.</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>  6. Considera&ccedil;&otilde;es finais</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Este trabalho constatou que pesquisa em agropecu&aacute;ria &eacute; relevante  para o crescimento da renda agropecu&aacute;ria bem como para a converg&ecirc;ncia  da renda agropecu&aacute;ria entre os estados brasileiros. Os resultados econom&eacute;tricos  tamb&eacute;m sugeriram que a pesquisa agropecu&aacute;ria &eacute; determinante  na atividade produtiva e redistributiva, quando se considera todos os estados  do Brasil. Nesse sentido, descontinuidades nos recursos para o sistema de pesquisas  agropecu&aacute;rias ter&atilde;o impactos sobre a gera&ccedil;&atilde;o e a difus&atilde;o  de inova&ccedil;&otilde;es para o setor e, por conseq&uuml;&ecirc;ncia, influ&ecirc;ncias  na expans&atilde;o e converg&ecirc;ncia da renda agropecu&aacute;ria. </font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ao  discutir o car&aacute;ter espacial da distribui&ccedil;&atilde;o do crescimento  do PIB por trabalhador agropecu&aacute;rio por meio dos estados do Brasil, este  trabalho visa a contribuir para o redimensionamento da quest&atilde;o regional  rural no Brasil.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Os resultados obtidos mostraram a exist&ecirc;ncia de converg&ecirc;ncia condicional  no per&iacute;odo estudado. No modelo econom&eacute;trico de converg&ecirc;ncia  condicional, o crescimento do PIB por trabalhador agropecu&aacute;rio foi afetado  por vari&aacute;veis como cr&eacute;dito rural e externalidades espaciais. Merece  destaque a confirma&ccedil;&atilde;o da hip&oacute;tese de que os investimentos  em pesquisa agropecu&aacute;ria influenciaram positivamente o crescimento e contribu&iacute;ram  para converg&ecirc;ncia de renda agropecu&aacute;ria brasileira.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Em termos de pol&iacute;ticas p&uacute;blicas, estas deveriam ter como alvo o  incentivo de isen&ccedil;&otilde;es tribut&aacute;rias para investimentos em pesquisa  agropecu&aacute;ria e financiamento de capital de risco para empresas intensivas  em tecnologia agropecu&aacute;ria mais avan&ccedil;ada.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Uma importante implica&ccedil;&atilde;o para o planejamento de pesquisas regionais,  extra&iacute;do do presente artigo, &eacute; o fato de que investimentos p&uacute;blicos  em pesquisas agropecu&aacute;rias devem ser feitos de forma regional, corroborando  a hip&oacute;tese de McCunn e Huffman (2000). Isto porque o efeito de transbordamento  &eacute; maior quando os investimentos s&atilde;o feitos de forma regional. Em  outros termos, a instala&ccedil;&atilde;o de um centro de pesquisas em um determinado  local causa um efeito de transbordamento tecnol&oacute;gico entre as regi&otilde;es  pr&oacute;ximas ao instituto, proporcionando maiores ganhos de escala no que diz  respeito ao aumento da produtividade e &agrave; melhora de outros fatores de produ&ccedil;&atilde;o  agr&iacute;colas.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Trabalhos posteriores poder&atilde;o estender a an&aacute;lise de converg&ecirc;ncia  no setor agropecu&aacute;rio para um outro conjunto de vari&aacute;veis. A inclus&atilde;o  de uma vari&aacute;vel que medisse o grau de capacita&ccedil;&atilde;o do pessoal  ocupado no campo como e/ou inser&ccedil;&atilde;o de pesquisadores de &oacute;rg&atilde;os  estaduais bem como dos centros universit&aacute;rios. </font></p>    ]]></body>
+<body><![CDATA[<p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>7.  Refer&ecirc;ncias Bibliogr&aacute;ficas</b></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  AG&Ecirc;NCIA NACIONAL DE ENERGIA EL&Eacute;TRICA – ANEEL. Dispon&iacute;vel em:  &lt;<a href="http://www.aneel.gov.br/fiscalizacao" target="_blank">http://www.aneel.gov.br/fiscalizacao</a>&gt;.  Acesso em: 10 jun. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000105&pid=S0103-2003200900030000900001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  AG&Ecirc;NCIA NACIONAL DE TELECOMUNICA&Ccedil;&Otilde;ES – ANATEL. Dispon&iacute;vel  em: &lt;<a href="http://www.anatel.gov.br" target="_blank">http://www.anatel.gov.br</a>&gt;.  Acesso em: 10 jun. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000107&pid=S0103-2003200900030000900002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ALMEIDA, E. S.; PEROBELLI, F. S.; FERREIRA, P. G. C.. <b>Existe converg&ecirc;ncia  espacial da produtividade agr&iacute;cola no Brasil?</b> XI Encontro Regional  de Economia/Nordeste: Estrat&eacute;gias de Desenvolvimento Regional, BNB/ANPEC.  Fortaleza-CE. 19, 20 e 21 de julho de 2006. p.21</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000109&pid=S0103-2003200900030000900003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ANSELIN, L. <b>Spatial Econometrics:</b> Methods and Models. Studies in Operational  Regional Science, Kluwer Academic Publishers, Dordrecht, 284p. 1988</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S0103-2003200900030000900004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ARBIA, G.. <b>Spatial econometrics: statistical foundations and applications to  regional convergence.</b> Berlin: Springer, 2006, 208 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S0103-2003200900030000900005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ARELLANO, M. e BOND, S.. Some testes of specification for panel data: Monte Carlo  evidence and an application to employment equations". <b>Review of Economics Studies</b>,  v. 58, 277-297, 1991.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0103-2003200900030000900006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BANCO CENTRAL DO BRASIL - BANCEN. Dispon&iacute;vel em: &lt;<a href="http://www.bcb.gov.br/?CREDRURAL" target="_blank">www.bcb.gov.br/?CREDRURAL</a>&gt;.  Acesso em: 15 nov. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0103-2003200900030000900007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BARRETO, R. C. S.. <b>Desenvolvimento regional e converg&ecirc;ncia de renda nos  munic&iacute;pios do Cear&aacute;.</b> (tese de doutorado da UFV), Vi&ccedil;osa/MG,  f. 191, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0103-2003200900030000900008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BARRO, R.J.; SALA-I-MARTIN, X.. <b>Economic Growth.</b> McGraw-Hill, 539p., 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S0103-2003200900030000900009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BARRO, R.J.; SALA-I-MARTIN, X. Convergence across states and regions. <b>Brookings  Papers on Economic Activity</b>, New-Haven, Connecticut, USA, v. 1, p. 107-182,  1991.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S0103-2003200900030000900010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BAUMONT, C. <b>Spatial effects in housing price models: do house prices capitalize  urban development policies in the agglomeration of Dijon (1999)?</b> Mimeo., Universit&eacute;  de Bourgogne, 2004. Dispon&iacute;vel em <a href="http://ungaro.u-bourgogne.fr/baumont/e2004-04.pdf#search=%22%22k%20nearest%20neighbors%22%20likelihood%20%22spatial%20econometrics%22%22" target="_blank">http://ungaro.u-bourgogne.fr/baumont/e2004-04.pdf#search=%22%22k%20nearest%20neighbors%22%20likelihood%20%22spatial%20econometrics%22%22</a>.  (acesso em 11/09/2006).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S0103-2003200900030000900011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BEINTEMA, N.M.; AVILA, A.F.D.; PARDEY, P.G.. <i>P&amp;D</i> <b>Agropecu&aacute;rio:  Pol&iacute;tica, Investimentos e Desenvolvimento Institucional.</b> Washington,  D.C.: IFPRI, EMBRAPA, and Fontagro, agosto 2001. p116</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S0103-2003200900030000900012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BONELLI, R. ; PESSOA, E. P.. <b>O papel do estado na pesquisa agr&iacute;cola  no Brasil.</b> Rio de Janeiro: IPEA, 1998. 40p. (Texto para Discuss&atilde;o ,  576).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003200900030000900013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHATTERJI  M. Convergence clubs and endogenous growth. <b>Oxford Review of Economic Policy</b>,  8, p. 57-69, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003200900030000900014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  COMPANHIA NACIONAL DE ABASTECIMENTO – CONAB. Dispon&iacute;vel em: &lt;<a href="http://www.conab.gov.br/armazenagem" target="_blank">http://www.conab.gov.br/armazenagem</a>&gt;.  Acesso em: 15 nov. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003200900030000900015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  DEPARTAMENTO NACIONAL DE INFRA-ESTRUTURA TERRESTRE – DNIT. Dispon&iacute;vel em:  &lt;<a href="http://www.dnit.gov.br/pnv" target="_blank">http://www.dnit.gov.br/pnv</a>&gt;.  Acesso em: 20 jul. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200900030000900016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ELHORST, P.J.. Specification and Estimation of Spatial Panel Data Models, <b>International  Regional Sciences Review</b>, 26, 3:244-268. 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200900030000900017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  EMPRESA BRASILEIRA DE PESQUISA AGROPECU&Aacute;RIA – EMBRAPA. Dispon&iacute;vel  em: &lt;<a href="http://www.embrapa.gov.br" target="_blank">http://www.embrapa.gov.br</a>&gt;.  Acesso em: 15 nov. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003200900030000900018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  EVENSON, R. E., WAGGONER, P. E., RUTTAN, V.W.. Economic benefits from research:  an exemple from agriculture. <b>Science</b>, v. 205, Sept., 1979.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200900030000900019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  GASQUES, J.G.; VILLA VERDE, C.M.. <b>Gastos p&uacute;blicos na agricultura: evolu&ccedil;&atilde;o  e mudan&ccedil;as.</b> Rio de Janeiro: IPEA, 2003. 31 p. (Texto para discuss&atilde;o,  948).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200900030000900020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  GASQUES, J.G.; REZENDE, G.C.; VERDE, C.M.V.; SALERMO, M.S.; CONCEI&Ccedil;&Atilde;O,  J.C.P.R.; CARVALHO, J.C.S. Desempenho e crescimento do agroneg&oacute;cio no Brasil:  textos para discuss&atilde;o 1009. IPEADATA, Bras&iacute;lia, 2004. 40p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003200900030000900021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  GUTIERREZ L. . Convergence in US and EU Agriculture. <b>European Review of Agricultural  Economics</b>, 27, 2,p. 187-206, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003200900030000900022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  HOWITT, P.; MAYER-FOULKES, D.. R&amp;D, Implementation, and Stagnation: A Schumpeterian  Theory of Convergence Clubs, <b>Journal of Money, Credit and Banking</b>, 37 (February  2005): 147-77.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003200900030000900023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTAT&Iacute;STICA – IBGE. Dispon&iacute;vel  em: &lt;<a href="http://www.ibge.gov.br/pam" target="_blank">http://www.ibge.gov.br/pam</a>&gt;.  Acesso em: 15 dez. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003200900030000900024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  INSTITUTO DE PESQUISA ECON&Ocirc;MICA APLICADA – IPEA. S&eacute;ries hist&oacute;ricas  – 2007. Dispon&iacute;vel em: &lt;<a href="http://www.ipeadata.gov.br" target="_blank">http://www.ipeadata.gov.br</a>&gt;.  Acesso em: 10 dez. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003200900030000900025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  JOHNSTON, J.; DINARDO, J.. <b>Econometric methods.</b> New York, 4º Ed., McGraw-Hill,  1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003200900030000900026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  LUCAS, R. On the mechanics of economic development. <b>Journal of Monetary Economics</b>,  v. 22, n. 1, p. 3-42, jul. 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003200900030000900027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  LUSIGI, A., PIESSE, J. AND THIRTLE, C.G.. Convergence of Por trabalhador Incomes  and Agricultural Productivity in Africa. <b>Journal of International Development</b>,  10 (1), 1998, 105-115.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003200900030000900028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MCCUNN,  A.; HUFFMAN, W, E. <b>Convergence in U.S Productivity Growth for Agriculture:  Implications of Interstate Research Spillovers for Funding Agricultural Research.</b>  American Agricultural Economics Association, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003200900030000900029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  MENDES, S. M.. <b>Rela&ccedil;&atilde;o entre os Investimentos em Infra-Estrutura  e a Produtividade Total dos Fatores na Agricultura Brasileira, 1985-2004</b>.(tese  de mestrado da UFV), Vi&ccedil;osa/MG, f. 111, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003200900030000900030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  <b>Minist&eacute;rio do Trabalho e Emprego (MTE)</b>. Dispon&iacute;vel em: &lt;<a href="http://www.mte.gov.br/caged" target="_blank">http://www.mte.gov.br/caged</a>&gt;.  Acesso em: 25 nov. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003200900030000900031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  NOGUEIRA J&Uacute;NIOR, S.; TSUNECHIRO, A. <b>Produ&ccedil;&atilde;o agr&iacute;cola  e infra-estrutura de armazenagem no Brasil.</b> Informa&ccedil;&otilde;es Econ&ocirc;micas,  v. 35, n. 2, p. 7-18, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003200900030000900032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  OLIVEIRA J&Uacute;NIOR, J. N. ; CASTELAR, I. ; FERREIRA, R. T. . <b>Converg&ecirc;ncia  Microregional no Setor Agr&iacute;cola Usando um Modelo Threshold.</b> In: XXXV  Encontro Nacional de Economia, 2007, Recife. Anais do XXXV Encontro Nacional de  Economia, 2007.p.19</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003200900030000900033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ROMER, P. M.. Increasing returns and long-run growth. <b>Journal of Political  Economy</b>, Chicago, v. 94, n. 5, p. 1002-1037, Oct. 1986.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003200900030000900034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  SOLOW, R. M.. A contribution to the theory of economic growth. Quarterly <b>Journal  of Economics</b>, v. 70, n. 1, p. 65-94, Feb. 1956. Dispon&iacute;vel em: &lt;<a href="http://www.wren-network.net/resources/2005-11.solow.contribution.pdf" target="_blank">www.wren-network.net/resources/2005-11.solow.contribution.pdf</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003200900030000900035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  SUHARIYANTO, K., THIRTLE, C.. Asian agricultural productivity and convergence.  <b>Journal of Agricultural Economics</b> , vol. 52(3), 96- 110. 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003200900030000900036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ZHANG, X.; FAN, S. How productive is infrastructure? A new approach and evidence  from rural India. <b>American Journal of Agricultural Economics</b>, v. 86, n.  2, p. 492-501, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003200900030000900037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <p>&nbsp;</p>    <p>&nbsp;</p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="nt01b"></a><a href="#nt01a">1</a>  Eduardo Almeida agradece o apoio do Conselho Nacional de Desenvolvimento Cient&iacute;fico  e Tecnol&oacute;gico (CNPq), Funda&ccedil;&atilde;o de Amparo &agrave; Pesquisa  do Estado de Minas Gerais (Fapemig) e &agrave; Universidade Federal de Juiz de  Fora para a realiza&ccedil;&atilde;o deste artigo.    <br> <a name="nt02a"></a><a href="#nt02b">2</a>  Segundo Beintema et al. (2001), grande parte da pesquisa &eacute; desenvolvida  por organiza&ccedil;&otilde;es p&uacute;blicas, sendo que 79% deste total por  organiza&ccedil;&otilde;es federais e estaduais e 15% por ag&ecirc;ncias de ensino  superior. A Embrapa ainda &eacute; a organiza&ccedil;&atilde;o mais importante  de pesquisa do Pa&iacute;s, sendo respons&aacute;vel por mais de 57% dos investimentos  feitos em pesquisa agropecu&aacute;ria.    <br> <a name="nt03b"></a><a href="#nt03a">3</a>  A moderniza&ccedil;&atilde;o foi, sem d&uacute;vida, grandemente estimulada pela  atua&ccedil;&atilde;o governamental em diversos n&iacute;veis. A pol&iacute;tica  agr&iacute;cola beneficiou-se especialmente de: <i>a) </i>mudan&ccedil;as na estrutura  de incentivos impl&iacute;cita nos instrumentos de pol&iacute;tica macroecon&ocirc;mica,  destacando-se as pol&iacute;ticas de cr&eacute;dito e de pre&ccedil;os m&iacute;nimos  e as desvaloriza&ccedil;&otilde;es cambiais; <i>b) </i>maci&ccedil;os investimentos  na infra-estrutura de pesquisa; <i>c) </i>expans&atilde;o e integra&ccedil;&atilde;o  do sistema vi&aacute;rio nacional. Para mais detalhes, ver Bonelli e Pessoa (1998).    <br>  <a name="nt04a"></a><a href="#nt04b">4</a> Cabe destacar ainda, segundo Elhorst  (2003) e Arbia (2006), que a combina&ccedil;&atilde;o de dados de painel com modelos  espaciais encontra-se na fronteira de pesquisa sobre o tema.    <br> <a name="nt05a"></a><a href="#nt05b">5</a>  O modelo te&oacute;rico &eacute; baseado na an&aacute;lise de converg&ecirc;ncia  da renda. Para uma descri&ccedil;&atilde;o da teoria subjacente, consulte Barro  e Sala-i-Martin (1995).    <br> <a name="nt06a"></a><a href="#nt06b">6</a> Para uma  refer&ecirc;ncia da nota&ccedil;&atilde;o para dados em painel empilhados, Elhorst  (2003).    ]]></body>
+<body><![CDATA[<br> <a name="nt07a"></a><a href="#nt07b">7</a> A utiliza&ccedil;&atilde;o  de vari&aacute;veis defasadas em um ano tem o objetivo de minimizar problemas  de endogeneidade. Para mais detalhes, ver Arellano e Bond (1991).    <br> <a name="nt08a"></a><a href="#nt08b">8</a>  Anselin (1988) trata a heterogeneidade espacial como uma forma de instabilidade  dos par&acirc;metros, isto &eacute;, a forma funcional e/ou os par&acirc;metros  do modelo podem mudar de acordo com as localiza&ccedil;&otilde;es geogr&aacute;ficas  ou vari&aacute;veis no conjunto. Outra fonte de heterogeneidade espacial reside  na vari&acirc;ncia n&atilde;o-constante.    <br> <a name="nt09a"></a><a href="#nt09b">9</a>  Nos <a href="#an01">anexos 1</a> e <a href="#an02">2</a> podem ser verificadas  as estruturas da distribui&ccedil;&atilde;o das principais informa&ccedil;&otilde;es  estat&iacute;sticas utilizadas para o ano de 2004, como a varia&ccedil;&atilde;o  percentual dessas informa&ccedil;&otilde;es no per&iacute;odo de 1985 a 2003.    <br>  <a name="nt10a"></a><a href="#qdr01">10</a> Obs.: Todos os valores ser&atilde;o  deflacionados utilizando-se o deflator impl&iacute;cito do PIB para o ano de 2000.    <br>  <a name="nt11a"></a><a href="#nt11b">11</a> Extra&iacute;dos de Mendes (2005).    <br>  <a name="nt12a"></a><a href="#nt12b">12</a> Ver anexo.     <br> <a name="nt13b"></a><a href="#nt13a">13</a>  A inser&ccedil;&atilde;o das vari&aacute;veis interativas &eacute; baseada em  Barro e Sala-i-Martin (1995, p. 432), que utilizaram a intera&ccedil;&atilde;o  entre o PIB e o capital humano em um estudo emp&iacute;rico para verificar uma  poss&iacute;vel difus&atilde;o tecnol&oacute;gica.     <br> <a name="nt014a"></a><a href="#nt014b">14</a>  Deve-se levar em considera&ccedil;&atilde;o a aus&ecirc;ncia de informa&ccedil;&otilde;es  para o estado de Tocantins antes de 1988.     <br> <a name="nt15a"></a><a href="#tab02">15</a>  A matriz de pesos espaciais foi a de cinco vizinhos mais pr&oacute;ximos (K=5).  Foram testadas as matrizes de pesos espaciais de <i>k</i>-vizinhos mais pr&oacute;ximos  de <i>k</i>=4 a <i>k</i>=10, e as matrizes Rook e Queen (com 1º, 2º e 3º ordens  de vizinhan&ccedil;a). Contudo, foi utilizada a matriz que apresentou maior valor  da estat&iacute;stica <i>I</i> de Moran em todo o per&iacute;odo da an&aacute;lise,  seguindo o procedimento proposto por Baumont (2004).    <br> <a name="nt16a"></a><a href="#nt16b">16</a>  Foram estimados modelos de defasagem espacial, erro espacial, bem como outros  modelos espaciais. O modelo escolhido, contudo, foi definido pelos crit&eacute;rios  de decis&atilde;o de Akaike e Schwarz, indicando o modelo de defasagem espacial  como o mais adequado.    ]]></body>
+<body><![CDATA[<br> <a name="nt17a"></a><a href="#tab03">17</a> As vari&aacute;veis  de controle defasadas espacialmente n&atilde;o-significativas foram exclu&iacute;das  do modelo.    <br> <a name="nt18a"></a><a href="#nt18b">18</a> No per&iacute;odo de  1975 a 2002, os autores analisaram os fatores condicionantes da PTF da agropecu&aacute;ria.  Utilizando como vari&aacute;veis explicativas: gastos da Embrapa (<i>proxy </i>de  pesquisa em agropecu&aacute;ria); desembolsos do cr&eacute;dito rural para produtores  e cooperativas, incluindo cr&eacute;ditos do Pronaf; e rela&ccedil;&atilde;o entre  os pre&ccedil;os recebidos pelos agricultores e os pagos pelos insumos adquiridos  (rela&ccedil;&atilde;o de trocas).</font></p>    <p>&nbsp;</p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Ap&ecirc;ndice</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Organiza&ccedil;&atilde;o da Embrapa</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  A Embrapa est&aacute; organizada em 13 unidades centrais, localizadas em sua sede,  em Bras&iacute;lia, e 41 unidades descentralizadas, distribu&iacute;das em todo  o territ&oacute;rio brasileiro. A empresa possui atualmente 8.230 empregados,  dos quais 2.207 pesquisadores, sendo 27% com mestrado e 72% com doutorado.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  A Embrapa n&atilde;o tem centros de pesquisa em cinco dos 26 estados brasileiros,  quais sejam:<b> Alagoas, Maranh&atilde;o, Mato Grosso, Rio Grande do Norte e Tocantins.  </b>A distribui&ccedil;&atilde;o das unidades da Embrapa se d&aacute; por principais  produtos em cada estado: mandioca, frutas tropicais, cacau; recursos naturais,  seringueira (<b>Bahia</b>); algod&atilde;o (<b>Para&iacute;ba</b>); hortali&ccedil;as,  p&oacute;s-colheita, recursos gen&eacute;ticos, biotecnologia, cerrados, bovinos,  frutas, gr&atilde;os (<b>Distrito Federal</b>); agrobiologia, solos, ecologia,  meio-ambiente, tecnologia de alimentos (<b>Rio de Janeiro</b>); arroz de sequeiro,  feij&atilde;o (<b>Goi&aacute;s</b>); agroind&uacute;stria tropical, caju, frutas,  plantas ornamentais, flores, ovinos e caprinos, pastagens (<b>Cear&aacute;</b>);  instrumenta&ccedil;&atilde;o, biotecnologia, agroind&uacute;stria, monitoramento  e avalia&ccedil;&atilde;o ambiental , inform&aacute;tica agropecu&aacute;ria,  gado de corte, gado de leite, pastagens , agroecologia , recursos naturais (<b>S&atilde;o  Paulo</b>); floresta, soja , girassol (<b>Paran&aacute;</b>); carne, gado de corte,  pastagem, recursos naturais, gr&atilde;os, pecu&aacute;ria, pesca, meio-ambiente  (M<b>ato Grosso do Sul</b>); gado de leite, milho, sorgo, biotecnologia, caf&eacute;  (<b>Minas Gerais</b>); su&iacute;nos, aves (<b>Santa Catarina</b>); trigo, cevada,  centeio, aveia, soja , biotecnologia, uva, vinho, frutas temperadas, solos, arroz  irrigado, gado de leite, recursos naturais, gado de corte, pastagens (<b>Rio Grande  do Sul</b>); agrofloresta (<b>Amazonas</b>); agrofloresta (<b>Acre</b>); agrofloresta  (<b>Amap&aacute;</b>); agrofloresta, pastagens (<b>Rond&ocirc;nia</b>); agrofloresta  (<b>Roraima</b>); irriga&ccedil;&atilde;o, frutas, gr&atilde;os (<b>Piau&iacute;</b>);  produ&ccedil;&atilde;o animal, solos, coco, cacau, frutas , hortali&ccedil;as  (<b>Sergipe</b>); recursos naturais, irriga&ccedil;&atilde;o, produ&ccedil;&atilde;o  animal, frutas (<b>Pernambuco</b>); agrofloresta, recursos naturais, meio-ambiente,  agroind&uacute;stria (<b>Par&aacute;</b>); caf&eacute;, frutas, gado de leite,  recursos naturais (<b>Esp&iacute;rito santo</b>).</font></p>    <p>&nbsp;</p>    <p>&nbsp;</p>    ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Anexo  1</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Distribui&ccedil;&atilde;o das informa&ccedil;&otilde;es estat&iacute;sticas utilizadas  para o ano de 2004, por Unidades da Federa&ccedil;&atilde;o (UF)</font></p>    <p><a name="an01"></a></p>    <p>&nbsp;</p>    <p align="center"><img src="/img/revistas/resr/v47n3/a09an01.gif"></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Anexo  2</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Varia&ccedil;&atilde;o percentual (%) das informa&ccedil;&otilde;es estat&iacute;sticas  utilizadas no per&iacute;odo de 1985-2003, por Unidades da Federa&ccedil;&atilde;o  (UF)</font></p>    <p><a name="an02"></a></p>    <p>&nbsp;</p>    ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n3/a09an02.gif"></p>    <p>&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<collab>AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[E. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEROBELLI]]></surname>
+<given-names><![CDATA[F. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[P. G. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Existe convergência espacial da produtividade agrícola no Brasil?]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ XI Encontro Regional de Economia/Nordeste: Estratégias de Desenvolvimento Regional, BNB/ANPEC]]></conf-name>
+<conf-date>19, 20 e 21 de julho de 2006</conf-date>
+<conf-loc>Fortaleza CE</conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANSELIN]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial Econometrics: Methods and Models. Studies in Operational Regional Science]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+<publisher-name><![CDATA[Kluwer Academic Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARBIA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial econometrics: statistical foundations and applications to regional convergence]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARELLANO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BOND]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Some testes of specification for panel data: Monte Carlo evidence and an application to employment equations]]></article-title>
+<source><![CDATA[Review of Economics Studies]]></source>
+<year>1991</year>
+<volume>58</volume>
+<page-range>277-297</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[R. C. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desenvolvimento regional e convergência de renda nos municípios do Ceará]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRO]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SALA-I-MARTIN]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic Growth]]></source>
+<year>1995</year>
+<publisher-name><![CDATA[McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRO]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SALA-I-MARTIN]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Convergence across states and regions]]></source>
+<year>1991</year>
+<volume>1</volume>
+<page-range>107-182</page-range><publisher-loc><![CDATA[New-Haven^eConnecticut Connecticut]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAUMONT]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial effects in housing price models: do house prices capitalize urban development policies in the agglomeration of Dijon (1999)?]]></source>
+<year>2004</year>
+<publisher-name><![CDATA[Université de Bourgogne]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BEINTEMA]]></surname>
+<given-names><![CDATA[N.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AVILA]]></surname>
+<given-names><![CDATA[A.F.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARDEY]]></surname>
+<given-names><![CDATA[P.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[P&D Agropecuário: Política, Investimentos e Desenvolvimento Institucional]]></source>
+<year>agos</year>
+<month>to</month>
+<day> 2</day>
+<publisher-loc><![CDATA[Washington^eD.C. D.C.]]></publisher-loc>
+<publisher-name><![CDATA[IFPRIEMBRAPAFontagro]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BONELLI]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PESSOA]]></surname>
+<given-names><![CDATA[E. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O papel do estado na pesquisa agrícola no Brasil]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHATTERJI]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Convergence clubs and endogenous growth]]></article-title>
+<source><![CDATA[Oxford Review of Economic Policy]]></source>
+<year>1992</year>
+<volume>8</volume>
+<page-range>57-69</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<collab>COMPANHIA NACIONAL DE ABASTECIMENTO</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<collab>DEPARTAMENTO NACIONAL DE INFRA-ESTRUTURA TERRESTRE</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ELHORST]]></surname>
+<given-names><![CDATA[P.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Specification and Estimation of Spatial Panel Data Models]]></article-title>
+<source><![CDATA[International Regional Sciences Review]]></source>
+<year>2003</year>
+<volume>26</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>244-268</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="">
+<collab>EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EVENSON]]></surname>
+<given-names><![CDATA[R. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WAGGONER]]></surname>
+<given-names><![CDATA[P. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUTTAN]]></surname>
+<given-names><![CDATA[V.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Economic benefits from research: an exemple from agriculture]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>Sept</year>
+<month>.,</month>
+<day> 1</day>
+<volume>205</volume>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VILLA VERDE]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Gastos públicos na agricultura: evolução e mudanças]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[REZENDE]]></surname>
+<given-names><![CDATA[G.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VERDE]]></surname>
+<given-names><![CDATA[C.M.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SALERMO]]></surname>
+<given-names><![CDATA[M.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CONCEIÇÃO]]></surname>
+<given-names><![CDATA[J.C.P.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[J.C.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desempenho e crescimento do agronegócio no Brasil: textos para discussão 1009]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[^eBrasília Brasília]]></publisher-loc>
+<publisher-name><![CDATA[IPEADATA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUTIERREZ]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Convergence in US and EU Agriculture]]></article-title>
+<source><![CDATA[European Review of Agricultural Economics]]></source>
+<year>2000</year>
+<volume>27</volume>
+<page-range>187-206</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOWITT]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MAYER-FOULKES]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[R&D, Implementation, and Stagnation: A Schumpeterian Theory of Convergence Clubs]]></article-title>
+<source><![CDATA[Journal of Money, Credit and Banking]]></source>
+<year>Febr</year>
+<month>ua</month>
+<day>ry</day>
+<volume>37</volume>
+<page-range>147-77</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<collab>INSTITUTO DE PESQUISA ECONÔMICA APLICADA</collab>
+<source><![CDATA[Séries históricas - 2007]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHNSTON]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DINARDO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric methods]]></source>
+<year>1997</year>
+<edition>4º</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUCAS]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the mechanics of economic development]]></article-title>
+<source><![CDATA[Journal of Monetary Economics]]></source>
+<year>jul.</year>
+<month> 1</month>
+<day>98</day>
+<volume>22</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>3-42</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUSIGI]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIESSE]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THIRTLE]]></surname>
+<given-names><![CDATA[C.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Convergence of Por trabalhador Incomes and Agricultural Productivity in Africa]]></article-title>
+<source><![CDATA[Journal of International Development]]></source>
+<year>1998</year>
+<volume>10</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>105-115</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCCUNN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HUFFMAN]]></surname>
+<given-names><![CDATA[W, E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Convergence in U.S Productivity Growth for Agriculture: Implications of Interstate Research Spillovers for Funding Agricultural Research]]></source>
+<year>2000</year>
+<publisher-name><![CDATA[American Agricultural Economics Association]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENDES]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Relação entre os Investimentos em Infra-Estrutura e a Produtividade Total dos Fatores na Agricultura Brasileira, 1985-2004]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="">
+<collab>Ministério do Trabalho e Emprego</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOGUEIRA JÚNIOR]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TSUNECHIRO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Produção agrícola e infra-estrutura de armazenagem no Brasil]]></article-title>
+<source><![CDATA[Informações Econômicas]]></source>
+<year>2005</year>
+<volume>35</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>7-18</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA JÚNIOR]]></surname>
+<given-names><![CDATA[J. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTELAR]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[R. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Convergência Microregional no Setor Agrícola Usando um Modelo Threshold]]></article-title>
+<source><![CDATA[Anais do XXXV Encontro Nacional de Economia]]></source>
+<year>2007</year>
+<conf-name><![CDATA[ XXXV Encontro Nacional de Economia]]></conf-name>
+<conf-date>2007</conf-date>
+<conf-loc>Recife </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROMER]]></surname>
+<given-names><![CDATA[P. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Increasing returns and long-run growth]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>Oct.</year>
+<month> 1</month>
+<day>98</day>
+<volume>94</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>1002-1037</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOLOW]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A contribution to the theory of economic growth]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>Feb.</year>
+<month> 1</month>
+<day>95</day>
+<volume>70</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>65-94</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SUHARIYANTO]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THIRTLE]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Asian agricultural productivity and convergence]]></article-title>
+<source><![CDATA[Journal of Agricultural Economics]]></source>
+<year>2001</year>
+<volume>52</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>96- 110</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZHANG]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FAN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[How productive is infrastructure? A new approach and evidence from rural India]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>2004</year>
+<volume>86</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>492-501</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

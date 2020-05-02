@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2070</journal-id>
+<journal-title><![CDATA[Tempo Social]]></journal-title>
+<abbrev-journal-title><![CDATA[Tempo soc.]]></abbrev-journal-title>
+<issn>0103-2070</issn>
+<publisher>
+<publisher-name><![CDATA[Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20702018000200219</article-id>
+<article-id pub-id-type="doi">10.11606/0103-2070.ts.2018.125482</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Ensino Superior no Brasil das últimas décadas: redução nas desigualdades de acesso?]]></article-title>
+<article-title xml:lang="en"><![CDATA[Higher Education in Brazil in the last years: reduction in inequalities of access?]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Salata]]></surname>
+<given-names><![CDATA[André]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS  ]]></institution>
+<addr-line><![CDATA[Porto Alegre Rio Grande de Sul]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>08</month>
+<year>2018</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>08</month>
+<year>2018</year>
+</pub-date>
+<volume>30</volume>
+<numero>2</numero>
+<fpage>219</fpage>
+<lpage>253</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20702018000200219&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20702018000200219&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20702018000200219&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo Nas últimas décadas podemos identificar uma significativa expansão do Ensino Superior no Brasil, acompanhada de importantes alterações na composição socioeconômica dos estudantes. O objetivo principal deste trabalho é verificar se esses movimentos levaram também a uma redução das desigualdades nas chances de acesso a esse nível educacional. Com base nos dados da Pesquisa Nacional por Amostra de Domicílios (IBGE), para os anos de 1995, 2005 e 2015, buscaremos não somente descrever as tendências observadas nas duas últimas décadas, como também testar empiricamente, por meio de modelos multivariados, a hipótese de redução das desigualdades de acesso. Mais especificamente, estaremos interessados em avaliar a possível redução dos efeitos de classe de origem sobre as chances de acesso ao Ensino Superior, assim como sobre a qualidade desse acesso, se através da rede pública ou privada, ao longo das últimas duas décadas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract In the last decades, we can identify a significant expansion of higher education in Brazil, accompanied by important changes in the socioeconomic composition of the students. The main objective of this study is to verify if these movements also led to a reduction of inequalities in the chances of access to this educational level. Based on data from the National Household Sample Survey (IBGE), for the years 1995, 2005 and 2015, we will try not only to describe the trends observed in the last two decades, but also to test empirically, through multivariate models, the hypothesis of the reduction of inequalities of access. More specifically, we will be interested in evaluating the possible reduction of the effects of class of origin on the chances of access to higher education and, also, on the kind of institution, if public or private, over the last two decades.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Ensino superior]]></kwd>
+<kwd lng="pt"><![CDATA[Acesso]]></kwd>
+<kwd lng="pt"><![CDATA[Desigualdades]]></kwd>
+<kwd lng="pt"><![CDATA[Expansão]]></kwd>
+<kwd lng="pt"><![CDATA[Brasil]]></kwd>
+<kwd lng="en"><![CDATA[Higher education]]></kwd>
+<kwd lng="en"><![CDATA[Access]]></kwd>
+<kwd lng="en"><![CDATA[Inequalities]]></kwd>
+<kwd lng="en"><![CDATA[Expansion]]></kwd>
+<kwd lng="en"><![CDATA[Brazil]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLAU]]></surname>
+<given-names><![CDATA[Peter M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DUNCAN]]></surname>
+<given-names><![CDATA[Otis Dudley]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The American occupational structure]]></source>
+<year>1967</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Wiley]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOUDON]]></surname>
+<given-names><![CDATA[Raymond]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A desigualdade das oportunidades: a mobilidade social nas sociedades industriais]]></source>
+<year>1981</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Universidade de Brasília]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOURDIEU]]></surname>
+<given-names><![CDATA[Pierre]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Futuro de classe e causalidade do provável]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BOURDIEU]]></surname>
+<given-names><![CDATA[Pierre]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Escritos de educação]]></source>
+<year>1998</year>
+<page-range>81-126</page-range><publisher-loc><![CDATA[Petrópolis ]]></publisher-loc>
+<publisher-name><![CDATA[Vozes]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOURDIEU]]></surname>
+<given-names><![CDATA[Pierre]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PASSERON]]></surname>
+<given-names><![CDATA[Jean-Claude]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A reprodução: elementos para uma teoria do sistema de ensino]]></source>
+<year>1975</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Francisco Alves]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOWLES]]></surname>
+<given-names><![CDATA[Samuel]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GINTIS]]></surname>
+<given-names><![CDATA[Herbert]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Schooling in capitalist America]]></source>
+<year>1976</year>
+<publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BREEN]]></surname>
+<given-names><![CDATA[Richard]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOLDTHORPE]]></surname>
+<given-names><![CDATA[John H]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Explaining educational differentials towards a formal rational action theory]]></article-title>
+<source><![CDATA[Rationality and Society]]></source>
+<year>1997</year>
+<volume>9</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>275-305</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CATANI]]></surname>
+<given-names><![CDATA[Afrânio Mendes]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Prouni: democratização do acesso às instituições de Ensino Superior?]]></article-title>
+<source><![CDATA[Educar]]></source>
+<year>2006</year>
+<numero>28</numero>
+<issue>28</issue>
+<page-range>125-40</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DURHAM]]></surname>
+<given-names><![CDATA[Eunice Ribeiro]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Ensino Superior no Brasil: público e privado]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Nupes-usp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HASENBALG]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A transição da escola para o trabalho]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HASENBALG]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VALLE SILVA]]></surname>
+<given-names><![CDATA[Nelson do]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Origens e destinos: desigualdades sociais ao longo da vida]]></source>
+<year>2003</year>
+<volume>vol. 1</volume>
+<page-range>147-72</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Topbooks]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HONORATO]]></surname>
+<given-names><![CDATA[Gabriela]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HERINGER]]></surname>
+<given-names><![CDATA[Rosana]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Acesso e sucesso no Ensino Superior: uma sociologia dos estudantes]]></source>
+<year>2015</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Faperj]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KERR]]></surname>
+<given-names><![CDATA[Clark]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Industrialism and industrial man]]></source>
+<year>1973</year>
+<publisher-loc><![CDATA[Harmonds Worth ]]></publisher-loc>
+<publisher-name><![CDATA[Penguin]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUCAS]]></surname>
+<given-names><![CDATA[Samuel R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Effectively maintained inequality: education transitions, track mobility, and social background effects]]></article-title>
+<source><![CDATA[American Journal of Sociology]]></source>
+<year>2001</year>
+<volume>106</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>1642-90</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARE]]></surname>
+<given-names><![CDATA[Robert]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Social background and school continuation decisions]]></article-title>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>1980</year>
+<volume>75</volume>
+<numero>370</numero>
+<issue>370</issue>
+<page-range>295-305</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTELETO]]></surname>
+<given-names><![CDATA[Letícia]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Educational stratification after a decade of reforms on higher education access in Brazil]]></article-title>
+<source><![CDATA[Research in Social Stratification and Mobility]]></source>
+<year>2016</year>
+<volume>46</volume>
+<page-range>99-111</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENEZES-FILHO]]></surname>
+<given-names><![CDATA[Naércio]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Educação e queda recente da desigualdade no Brasil]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[Ricardo Paes de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desigualdade de renda no Brasil: uma análise da queda recente]]></source>
+<year>2007</year>
+<page-range>185-304</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MONT&#8217;ALVÃO]]></surname>
+<given-names><![CDATA[Arnaldo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Estratificação educacional no Brasil do século xxi]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>2011</year>
+<volume>54</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>389-430</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MONT&#8217;ALVÃO]]></surname>
+<given-names><![CDATA[Arnaldo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Tendências das desigualdades de acesso ao Ensino Superior no Brasil, 1982-2010]]></article-title>
+<source><![CDATA[Educação &amp; Sociedade]]></source>
+<year>2015</year>
+<volume>35</volume>
+<numero>127</numero>
+<issue>127</issue>
+<page-range>417-41</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEVES]]></surname>
+<given-names><![CDATA[Clarissa Eckert Baeta]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Acesso, expansão e equidade na educação superior: novos desafios para a política educacional brasileira]]></article-title>
+<source><![CDATA[Sociologias]]></source>
+<year>2007</year>
+<volume>9</volume>
+<numero>17</numero>
+<issue>17</issue>
+<page-range>124-57</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PICANÇO]]></surname>
+<given-names><![CDATA[Felícia]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Juventude por cor e renda no acesso ao Ensino Superior: somando desvantagens, multiplicando desigualdades?]]></article-title>
+<source><![CDATA[Revista Brasileira de Ciências Sociais]]></source>
+<year>2015</year>
+<volume>30</volume>
+<numero>88</numero>
+<issue>88</issue>
+<page-range>145-81</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POWERS]]></surname>
+<given-names><![CDATA[Daniel]]></given-names>
+</name>
+<name>
+<surname><![CDATA[XIE]]></surname>
+<given-names><![CDATA[Yu]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Statistical methods for categorical data analyses]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Bingley ]]></publisher-loc>
+<publisher-name><![CDATA[Emerald]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAFTERY]]></surname>
+<given-names><![CDATA[Adrian E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOUT]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Maximally maintained inequality: expansion, reform, and opportunity in Irish education, 1921-1975]]></article-title>
+<source><![CDATA[Sociology of Education]]></source>
+<year>1993</year>
+<volume>66</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>41-62</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RIBEIRO]]></surname>
+<given-names><![CDATA[Carlos Antônio Costa]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Desigualdade de oportunidades e resultados educacionais no Brasil]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>2011</year>
+<volume>54</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>41-87</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SALATA]]></surname>
+<given-names><![CDATA[André]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Inequalities and the Brazilian new democracy: income distribution between classes in recent decades]]></article-title>
+<source><![CDATA[Sociologia &amp; Antropologia]]></source>
+<year>2016</year>
+<volume>6</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>181-208</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SALATA]]></surname>
+<given-names><![CDATA[André]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Distribuição de renda no Brasil entre 2002 e 2013: redução das desigualdades entre classes?]]></article-title>
+<source><![CDATA[Latin American Research Review]]></source>
+<year>2018</year>
+<volume>53</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>76-95</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[Clarissa Tagliari]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A chegada ao Ensino Superior: o caso dos bolsistas do Prouni da PUC-RIO]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Filosofia e Ciências Sociais, Universidade Federal do Rio de Janeiro]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCALON]]></surname>
+<given-names><![CDATA[Celi]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mobilidade social no Brasil: padrões e tendências]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Revan]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAVIT]]></surname>
+<given-names><![CDATA[Yossi]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ARUM]]></surname>
+<given-names><![CDATA[Richard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Stratification in higher education: a comparative study]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[California ]]></publisher-loc>
+<publisher-name><![CDATA[Stanford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAVIT]]></surname>
+<given-names><![CDATA[Yossi]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLOSSFELD]]></surname>
+<given-names><![CDATA[Hans-Peter]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Persistent inequality: changing educational attainment in thirteen countries]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Boulder, CO ]]></publisher-loc>
+<publisher-name><![CDATA[Westview Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TREIMAN]]></surname>
+<given-names><![CDATA[Donald J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Industrialization and social stratification]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[LAUMANN]]></surname>
+<given-names><![CDATA[Edward O]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Social stratification: research and theory for the 1970s]]></source>
+<year>1970</year>
+<publisher-loc><![CDATA[Indianapolis ]]></publisher-loc>
+<publisher-name><![CDATA[Bobbs Merrill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VALLE]]></surname>
+<given-names><![CDATA[SILVA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[do]]></surname>
+<given-names><![CDATA[Nelson]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Uma classificação ocupacional para o estudo da mobilidade e da situação de trabalho no Brasil]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Iuperj]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VALLE]]></surname>
+<given-names><![CDATA[SILVA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[do]]></surname>
+<given-names><![CDATA[Nelson]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Expansão escolar e estratificação educacional no Brasil]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HASENBALG]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VALLE SILVA]]></surname>
+<given-names><![CDATA[Nelson do]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Origens e destinos: desigualdades sociais ao longo da vida]]></source>
+<year>2003</year>
+<volume>vol.1</volume>
+<page-range>105-47</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Topbooks]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WILLIS]]></surname>
+<given-names><![CDATA[Paul E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Learning to labor: how working-class kids get working class jobs]]></source>
+<year>1977</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Columbia University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1517-4522</journal-id>
+<journal-title><![CDATA[Sociologias]]></journal-title>
+<abbrev-journal-title><![CDATA[Sociologias]]></abbrev-journal-title>
+<issn>1517-4522</issn>
+<publisher>
+<publisher-name><![CDATA[Programa de Pós-Graduação em Sociologia - UFRGS]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1517-45222003000100010</article-id>
+<article-id pub-id-type="doi">10.1590/S1517-45222003000100010</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Analisis cualitativo asistido por computadora]]></article-title>
+<article-title xml:lang="en"><![CDATA[Computer-assisted qualitative analysis]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Cisneros Puebla]]></surname>
+<given-names><![CDATA[César A.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,UAMI International Institute for Qualitative Methodology ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>México</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>01</month>
+<year>2003</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>01</month>
+<year>2003</year>
+</pub-date>
+<numero>9</numero>
+<fpage>288</fpage>
+<lpage>313</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1517-45222003000100010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1517-45222003000100010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1517-45222003000100010&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Los objetivos de este ensayo son: por un lado, presentar una aproximación a la experiencia hispanoamericana en el Análisis Cualitativo Asistido por Computadora (ACAC) al agrupar mediante un ejercicio de sistematización los trabajos realizados por diversos colegas provenientes de disciplinas afines. Aunque hubiese querido ser exhaustivo y minucioso, como cualquier intento de sistematización de experiencias, en este ejercicio son notables las ausencias y las omisiones. Introducir algunas reflexiones teóricas en torno al papel del ACAC en el desarrollo de la investigación cualitativa a partir de esa sistematización y con particular énfasis en la producción del dato es, por otro lado, objetivo central de esta primera aproximación.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The aims of this article are: on the one hand, to present an approximation to the Hispano-American experience on Computer-Assisted Qualitative Data Analysis (CAQDAS), grouping as a systematization exercise the works carried out by several colleagues from related disciplines. Although attempting to be exhaustive and thorough - as in any attempt at systematizing experiences - this exercise presents clear lacks and omissions. On the other hand, to introduce some theoretical reflections about the role played by CAQDAS in the development of qualitative investigation after that systematization, with a specific focus on data generation.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[tendencias hispanoamericanas]]></kwd>
+<kwd lng="es"><![CDATA[ACAC]]></kwd>
+<kwd lng="es"><![CDATA[producción de datos cualitativos]]></kwd>
+<kwd lng="es"><![CDATA[Atlas/ti]]></kwd>
+<kwd lng="es"><![CDATA[Nudist]]></kwd>
+<kwd lng="en"><![CDATA[Hipano-American trends]]></kwd>
+<kwd lng="en"><![CDATA[CAQDAS]]></kwd>
+<kwd lng="en"><![CDATA[generation of qualitative data]]></kwd>
+<kwd lng="en"><![CDATA[Atlas.ti]]></kwd>
+<kwd lng="en"><![CDATA[Nudist]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ARTIGO</b></font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><a name="topo"></a><b>Analisis    cualitativo asistido por computadora<a href="#nota1"><SUP>1</SUP></a></b> </font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Computer-assisted    qualitative analysis</b> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>C&eacute;sar    A. Cisneros Puebla</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Visiting Professor.    International Institute for Qualitative Methodology, UAMI, M&eacute;xico</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMEN</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Los objetivos de    este ensayo son: por un lado, presentar una aproximaci&oacute;n a la experiencia    hispanoamericana en el An&aacute;lisis Cualitativo Asistido por Computadora    (ACAC) al agrupar mediante un ejercicio de sistematizaci&oacute;n los trabajos    realizados por diversos colegas provenientes de disciplinas afines. Aunque hubiese    querido ser exhaustivo y minucioso, como cualquier intento de sistematizaci&oacute;n    de experiencias, en este ejercicio son notables las ausencias y las omisiones.    Introducir algunas reflexiones te&oacute;ricas en torno al papel del ACAC en    el desarrollo de la investigaci&oacute;n cualitativa a partir de esa sistematizaci&oacute;n    y con particular &eacute;nfasis en la producci&oacute;n del dato es, por otro    lado, objetivo central de esta primera aproximaci&oacute;n. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palabras-claves:</b>    tendencias hispanoamericanas, ACAC, producci&oacute;n de datos cualitativos,    Atlas/ti, Nudist. </font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The aims of this    article are: on the one hand, to present an approximation to the Hispano-American    experience on Computer-Assisted Qualitative Data Analysis (CAQDAS), grouping    as a systematization exercise the works carried out by several colleagues from    related disciplines. Although attempting to be exhaustive and thorough - as    in any attempt at systematizing experiences - this exercise presents clear lacks    and omissions. On the other hand, to introduce some theoretical reflections    about the role played by CAQDAS in the development of qualitative investigation    after that systematization, with a specific focus on data generation. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key words:</b>    Hipano-American trends, CAQDAS, generation of qualitative data, Atlas.ti, Nudist.    </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Desde la d&eacute;cada    de los 80's se han ampliado las expectativas de los investigadores en torno    al uso de las herramientas del An&aacute;lisis Cualitativo Asistido por Computadora    (CAQDAS, por sus siglas en ingl&eacute;s: Computing Assisted Qualitive Data    Analysis Software). La difusi&oacute;n de programas espec&iacute;ficos y de    resultados de investigaci&oacute;n apoyados con ellos han sido, entre otros,    elementos primordiales del ascenso de lo que algunos llaman &quot;aplicaci&oacute;n    de nuevas tecnolog&iacute;as&quot; o &quot;aplicaci&oacute;n de la inform&aacute;tica    en el an&aacute;lisis de datos&quot;. En esa direcci&oacute;n es que hoy por    hoy se distingue en el terreno de la investigaci&oacute;n cualitativa, como    si fuese una ruta necesaria hacia alg&uacute;n lugar, el que: por un extremo,    se encuentren investigadores que prefieren las t&eacute;cnicas artesanales de    trabajo (pre-computadora: l&aacute;pices de colores, tijeras, fichas, etc.),    a la mitad del camino, aquellos que privilegian el uso de programas de c&oacute;mputo    no dise&ntilde;ados para ese fin (procesadores de palabras, hojas de c&aacute;lculo,    base de datos, etc.) y, en el otro extremo, aquellos otros investigadores que    utilizan los programas de c&oacute;mputo espec&iacute;ficamente desarrollados    para el an&aacute;lisis cualitativo. </font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Tal cual se tratase    de una identidad profundamente arraigada, los &quot;habitantes&quot; en cada    uno de estos puntos o extremos poseen sus rasgos sobresalientes: hay quienes    ven en el romanticismo del trabajo artesanal la verdadera vocaci&oacute;n del    an&aacute;lisis interpretativo y por tanto rechazan, de primera intenci&oacute;n,    el uso de t&eacute;cnicas alternativas; otros, satisfechos con los resultados    de los programas no especializados ven con profunda desconfianza la necesidad    de aprender otro sistema y, por &uacute;ltimo, quienes construyen sus bases    de datos con programas especializados declaran que nunca m&aacute;s volver&aacute;n    ni al punto de inicio, el trabajo artesanal previo al uso generalizado de computadoras,    ni al punto intermedio en el que se depende de programas no especializados dise&ntilde;ados    para uso general. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Independientemente    de la tradici&oacute;n interpretativa en la que se ubiquen los investigadores    (teor&iacute;a fundamentada, fenomenolog&iacute;a, construccionismo o etnometodolog&iacute;a,    por ejemplo), y del dise&ntilde;o de investigaci&oacute;n en el que inscriban    su actividad (an&aacute;lisis del discurso, estudios biogr&aacute;ficos, etnogr&aacute;ficos,    de caso o cualquier otro) existe ya un <I>corpus </I>de materiales que permiten    pensar al An&aacute;lisis Cualitativo Asistido por Computadora (ACAC) como un    campo singular y privilegiado del conocimiento. Es singular pues se distingue    de otros esfuerzos anal&iacute;ticos vinculados a la reflexi&oacute;n cualitativa    por su nivel de especializaci&oacute;n, a la vez que representa el esfuerzo    conjunto de un grupo de investigadores que se constituyen en la vanguardia misma    al generar problemas espec&iacute;ficos. Sin duda, toda la discusi&oacute;n    en torno a la codificaci&oacute;n, las redes conceptuales, las estructuras jer&aacute;rquicas,    y el hyperv&iacute;nculo entre modelo conceptual, memos, c&oacute;digos y segmentos    de texto, no se hubiese generado sin la participaci&oacute;n de los cient&iacute;ficos    involucrados con el ACAC. Y es tambi&eacute;n un campo privilegiado pues la    reflexi&oacute;n que se ha ido acumulando incluye, paulatina y crecientemente,    a las numerosas formas de hacer investigaci&oacute;n en la tradici&oacute;n    interpretativa. En efecto, las t&eacute;cnicas computarizadas que alguna vez    se identificaban como an&aacute;lisis cualitativo de texto, ya est&aacute;n    apoyando estudios de car&aacute;cter biogr&aacute;fico; a su vez, las reflexiones    fenomenol&oacute;gicas sobre el car&aacute;cter construido del dato se remiten    al papel central que la codificaci&oacute;n selectiva realiza al ser perfeccionada    mediante el uso de la inform&aacute;tica. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">La llamada por    algunos &quot;revoluci&oacute;n metodol&oacute;gica&quot; en la investigaci&oacute;n    cualitativa, expresada por la introducci&oacute;n y fortalecimiento de formas    de pensar, representar y vincular datos desde la computadora, posee ya, entre    otras obras, algunas que son verdaderamente cl&aacute;sicas, como los trabajos    de Tesch (1990), Fielding &amp; Lee (1992), Miles &amp; Huberman (1994), Kelle    (1995), Weitzman &amp; Miles (1995). Aunque por la propia velocidad con la cual    se van incorporando los &uacute;ltimos adelantos en materia de programaci&oacute;n,    las descripciones detalladas que de algunas versiones se hacen, al paso de un    a&ntilde;o o dos, deben ser actualizadas. No obstante, la claridad del esfuerzo    anal&iacute;tico y la preocupaci&oacute;n por sistematizar los logros y los    obst&aacute;culos, hacen de estas obras una referencia obligada para cualquier    investigador cualitativo. Aunque tambi&eacute;n es interesante anotar que los    problemas te&oacute;rico conceptuales relacionados con el dise&ntilde;o de los    programas mismos, nunca ha estado alejado de las necesidades de la investigaci&oacute;n:    pi&eacute;nsese, por ejemplo, en la necesidad de representaci&oacute;n visual    de relaciones conceptuales, que signific&oacute; un reto para las estrategias    de modelamiento te&oacute;rico o, en la necesidad de la importaci&oacute;n-exportaci&oacute;n    a programas de c&aacute;lculo num&eacute;rico estad&iacute;stico que ha significado    una actualizaci&oacute;n de los problemas vinculados a las estrategias de triangulaci&oacute;n    y a la elaboraci&oacute;n y perfeccionamiento del dise&ntilde;o de metodolog&iacute;as    mezcladas. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As&iacute;, por    ejemplo, (Tesch, 1990) distingu&iacute;a entre programas dise&ntilde;ados para    el an&aacute;lisis descriptivointerpretativo y programas dise&ntilde;ados para    la construcci&oacute;n de teor&iacute;a. En este trabajo, se inclu&iacute;a    en el primer grupo a programas como TAP, QUALPRO, HyperQual, Ethnograph y TEXTBASE    ALPHA; y en lo relativo a construcci&oacute;n de teor&iacute;a estaban, en versi&oacute;n    MS-DOS, programas como AQUAD, NUDIST e HyperResearch, &eacute;ste &uacute;ltimo    en versi&oacute;n para sistema Mac. Por su parte (Richards &amp; Richards, 1993;    1994), tomando distancia con respecto a la clasificaci&oacute;n original de    Tesch, reconocer&aacute;n al Ethnograph como un programa de codificaci&oacute;n    y recuperaci&oacute;n, al HyperResearch como un sistema de construcci&oacute;n    de teor&iacute;a basado en reglas, al AQUAD y al QUALOG como sistemas basados    en la l&oacute;gica, al NUDIST como un programa con una aproximaci&oacute;n    basado en sistema de &iacute;ndice y al ATLAS-ti como un sistema de redes conceptuales.    </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mas all&aacute;    de los sistemas de clasificaci&oacute;n y reconocimiento que incluye cada uno    de los programas de c&oacute;mputo del ACAC, vale recordar que la decisi&oacute;n    en torno a cual de ellos usar y para qu&eacute; depender&aacute; no solamente    de los objetivos de la investigaci&oacute;n, sino tambi&eacute;n de la tradici&oacute;n    en la que se inscribe el dise&ntilde;o y el tipo de an&aacute;lisis que se desea    realizar. A ese respecto, Tesch (1992) afirma que para elegir el programa debemos    considerar las variaciones en los procesos de an&aacute;lisis de datos, sobre    todo al reconocer que por &quot;an&aacute;lisis cualitativo&quot; entendemos    an&aacute;lisis de datos no num&eacute;ricos; distinci&oacute;n imprescindible    ya que se debe reconocer que la <I>comprensi&oacute;n </I>del significado de    los textos, la cual es una tarea central en la investigaci&oacute;n, no es una    actividad que pueda ser &quot;calculable&quot; o &quot;computarizada&quot; pues    no puede ser reducida a procesos algor&iacute;tmicos ni debe ser tratada como    una tarea puramente mec&aacute;nica. </font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1 Una breve    mirada a la historia del ACAC </b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Tesch (1991) reconoce    al programa &quot;The General Inquirer&quot; desarrollado en 1966 en el MIT,    como el primero de ellos dise&ntilde;ado espec&iacute;ficamente para ayudar    a los investigadores en el an&aacute;lisis de texto aunque, en rigor, no lo    considera como programa para el an&aacute;lisis cualitativo. Y corresponde al    Ethnograph (Seidel, 1998) el papel pionero en la g&eacute;nesis de programas    de c&oacute;mputo que recuperan, en la medida de lo posible, el ejercicio de    los modelos anal&iacute;ticos con los cuales se hac&iacute;a el trabajo de codificaci&oacute;n    de texto para la investigaci&oacute;n cualitativa. Con su aparici&oacute;n en    1985, el Ethnograph inicia la trayectoria de programas de c&oacute;mputo espec&iacute;ficamente    dise&ntilde;ados para ese fin. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Desde 1987 el programa    con una aproximaci&oacute;n basado en sistema de &iacute;ndice (NUDIST, por    el acr&oacute;stico de No-Numerical Unstructured Data. Indexing, Searching and    Theorizing) desarrollado por Richards &amp; Richards, y a partir de 1991 en    que ya se presentaba el prototipo de ATLAS-ti (Muhr, 1991), la reflexi&oacute;n    sociointeraccionista vinculada a la Teor&iacute;a Fundamentada (Grounded Theory)    recibi&oacute; un fuerte impulso y un aire renovador. En esta perspectiva resulta    v&aacute;lido afirmar que el inter&eacute;s creciente que la Teor&iacute;a Fundamentada    ha despertado entre j&oacute;venes investigadores de habla hispana est&aacute;    asociado a esta &quot;revoluci&oacute;n metodol&oacute;gica&quot;. Recu&eacute;rdese,    por ejemplo, que lamentablemente ninguno de los textos claves de esta reflexi&oacute;n    han sido traducidos al castellano (Glaser &amp; Strauss, 1967; Glaser, 1978;    Strauss, 1987), lo cual, de manera directa, coloca a la teor&iacute;a sociol&oacute;gica    de nuestros pa&iacute;ses en una situaci&oacute;n de desventaja, ya que esta    vertiente radical del interaccionismo simb&oacute;lico de la escuela de Chicago    (Strauss) en su confluencia con lo mejor de la concepci&oacute;n rigurosa de    la escuela de Columbia (Glaser), fue pr&aacute;cticamente ignorada durante m&aacute;s    de 20 a&ntilde;os. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Aunque ninguno    de sus disc&iacute;pulos directos ni cualquiera de los autores de la Teor&iacute;a    Fundamentada haya utilizado o utilice en la actualidad programas inform&aacute;ticos,    vale recordar que Muhr (1997) comparti&oacute; ideas con Strauss e, incluso,    le dedica el primer manual del ATLAS-ti cuando &eacute;ste ya no es s&oacute;lo    un prototipo. Y el propio Anselm Strauss valora el esfuerzo conceptual realizado    por Thomas Muhr. </font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Hay acuerdo entre    los investigadores en torno a la importancia posterior que el NUDIST ha tenido    en el desarrollo del soporte inform&aacute;tico entendido como apoyo a la investigaci&oacute;n    cualitatitiva. Pero no solamente por el tipo de an&aacute;lisis que nos permite    realizar sobre los memos, los documentos, el sistema &iacute;ndice y sus v&iacute;nculos    con todos ellos, la estructura jer&aacute;rquica de nodos en forma de &aacute;rbol,    etc. Justo es decir que desde 1999, a&ntilde;o en el que la versi&oacute;n 4    del NUDIST fue seguida por la aparici&oacute;n del NVivo, programa que representa    un paso previo a la aparici&oacute;n del NUDIST5 en el a&ntilde;o 2000, el investigador    cualitativo ingresa a una nueva etapa. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NVivo sintetiza    algunos de los rasgos distintivos m&aacute;s sobresalientes de programas previos,    por ejemplo, del ATLAS-ti se recupera el recurso de la codificaci&oacute;n <I>in    vivo </I>y del Ethnograph, la presentaci&oacute;n visual del sistema de c&oacute;digos.    Aunque lo m&aacute;s atractivo de NVivo es que permite reunir, en un solo proyecto,    archivos de texto - en formato RTF (formato enriquecido de texto, de Word) -    y archivos digitales de sonido, fotograf&iacute;a y video. Para decirlo mediante    una vi&ntilde;eta: el investigador cualitativo ahora va al trabajo de campo    acompa&ntilde;ado de su lap-top, sus c&aacute;maras digitales de fotograf&iacute;a    y video y suficiente apoyo para que sus entrevistas grabadas con t&eacute;cnicas    anal&oacute;gicas sean tratadas digitalmente. De hecho, durante 2001 estamos    ante el desarrollo del soporte t&eacute;cnico que permitir&aacute; la incorporaci&oacute;n    del formato MP3, como mejor sistema de compresi&oacute;n de audio, al trabajo    anal&iacute;tico de &#171;fragmentaci&oacute;n&#187; del dato cualitativo; este    &uacute;ltimo recurso se est&aacute; presentando a partir de las discusiones    asociadas con el ATLAS-ti y el programa Transcriber. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por otra parte,    y tambi&eacute;n desde Alemania como en el caso de ATLAS-ti, WinMax es desarrollado    en 1989 por Kuckartz (1995) quien, mediante las consideraciones te&oacute;rico-metodol&oacute;gicas    de Weber y Schutz acerca de la tipificaci&oacute;n, se dirige al problema de    la <I>clasificaci&oacute;n </I>de los casos y a la reflexi&oacute;n acerca de    &#191;c&oacute;mo se construyen tipolog&iacute;as sin referirlas a categor&iacute;as    predefinidas (v.gr. caracter&iacute;sticas sociodemogr&aacute;ficas)?, a fin    de proponer la codificaci&oacute;n orientada al caso como procedimiento central    para el an&aacute;lisis del sentido com&uacute;n desde la perspectiva de una    &quot;tipificaci&oacute;n metodol&oacute;gicamente controlada&quot;. Sistema    de codificaci&oacute;n que es facilitado por este programa. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HyperResearch (Hesse-Biber,    Dupuis &amp; Kinder, 1991) se presenta como un programa para sistemas Mac que    adem&aacute;s de permitir codificar y recuperar texto, audio y video, prueba    proposiciones al ejecutar operaciones booleanas (sistema experto), prueba hip&oacute;tesis    mediante el uso de inteligencia artificial y tiene opciones para an&aacute;lisis    estad&iacute;stico. Una de las discusiones m&aacute;s pol&eacute;micas en torno    al ACAC es aquella que ha estado presente desde la aparici&oacute;n de programas    como WinMax, HyperResearch, NUDIST, etc., y que vincula el manejo inform&aacute;tico    de los datos con la validez del dise&ntilde;o de la investigaci&oacute;n en    su conjunto. As&iacute;, en la presentaci&oacute;n del HyperResearch se insist&iacute;a    en que su uso representaba un s&oacute;lido apoyo a la confiabilidad y validez    del an&aacute;lisis cualitativo de datos. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Con una reflexi&oacute;n    que hoy sigue siendo vigente, en torno a que es el investigador y no el programa    quien interpreta el texto y que la computadora no contribuye a la &quot;objetividad&quot;    entendida en el sentido tradicional dado que tanto el participante como el int&eacute;rprete    poseen sus mundos subjetivos, Huber &amp; Garc&iacute;a (1991) presentaban a    inicios de la d&eacute;cada pasada la versi&oacute;n 3 de AQUAD. Al hacerlo    recordaban sus dificultades y se lamentaban de no contar con computadoras efectivas    que funcionasen como estaciones de trabajo que les permitiesen realizar sus    an&aacute;lisis con QUALOG, un programa dise&ntilde;ado para manejar datos cualitativos    que permit&iacute;a no solo sistematizar el proceso de reducci&oacute;n de los    mismos sino que permit&iacute;a tambi&eacute;n probar hip&oacute;tesis. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Descripciones detalladas    de cada uno de los programas, a pesar de la celeridad con la cual se van incorporando    las innovaciones (de MS-DOS a Windows 3, a Windows 95 y a Millenium, en el caso    de las computadoras presonales, por ejemplo), se encuentran no solamente en    los cl&aacute;sicos ya mencionados (Tesch, 1990; Fielding &amp; Lee, 1992; Kelle,    1995 y Weitzman &amp; Miles, 1995) sino adem&aacute;s en Hudelson (1994) en    el que se pasa revista a programas como Anthropac, UCINET y TALLY, entre otros;    Barry (1998) realiza una estrategia comparativa entre ATLAS-ti y NUDIST; Alexa    &amp; Zuell (1999) compararon 15 programas en aspectos relativos al formato    del texto, modo de codificaci&oacute;n, esquemas y diccionarios, exportaci&oacute;n    de tablas y datos y, Str&uuml;bing (1995, 1996) hace un trabajo similar enfatizando    algunos elementos relevantes del ATLAS-ti. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Entre los investigadores    de habla hispana destacan, sin duda, Rodr&iacute;guez, Gil &amp; Garc&iacute;a    (1999) quienes formulan, incluso, limitaciones asociadas al uso del ordenador    en la investigaci&oacute;n cualitativa; est&aacute;n tambi&eacute;n Navarro    &amp; D&iacute;az (1999) quienes, a pesar de lo valioso de su esfuerzo, pierden    claridad cuando su descripci&oacute;n de los programas dise&ntilde;ados para    la investigaci&oacute;n cualitativa del texto es inclu&iacute;da en un cap&iacute;tulo    titulado &quot;An&aacute;lisis de Contenido&quot; en el que resulta evidente    que los autores carecen de elementos te&oacute;rico-conceptuales para distinguir    entre la codificaci&oacute;n abierta y selectiva necesarias a la Teor&iacute;a.    </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Fundamentada y    el c&aacute;lculo de unidades de registro en un procedimiento convencional.    Para decirlo visualmente con una imagen: lamentablemente, Navarro &amp; D&aacute;z    cometen un error al creer que es posible tener, durante una reuni&oacute;n formal,    a Krippendorff dialogando con Strauss, Glaser y Corbin sobre la interpretaci&oacute;n    del significado. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">En el campo de    la investigaci&oacute;n cualitativa hispanoamericana, ning&uacute;n esfuerzo    editorial ha superado hasta el momento la calidad y profundidad del libro preparado    por Valles (1997) cuyos cap&iacute;tulos 3 y 9 son impecables y, que en lo tocante    a los sistemas inform&aacute;ticos, presenta una visi&oacute;n sint&eacute;tica,    precisa y mesurada de los temas de discusi&oacute;n que a esas fechas se estaban    presentando. La visi&oacute;n sumaria que de cada programa realiza son, fuera    de toda duda, sumamente &uacute;tiles para cualquier investigador, sea experto    o principiante en el An&aacute;lisis Cualitativo Asistido por Computadora (ACAC).    </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2 Una mirada    sobre la temprana experiencia del ACAC en hispanoam&eacute;rica </b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sea que pensemos    en la aplicaci&oacute;n de la inform&aacute;tica en los estudios de corte interpretativo,    sea que reconozcamos la &quot;revoluci&oacute;n metodol&oacute;gica&quot; en    la investigaci&oacute;n cualitativa o que, finalmente llamemos a todo este campo    an&aacute;lisis cualitativo asistido por computadora, al evaluar sus pr&aacute;cticas    y/o ejercicios en pa&iacute;ses de habla hispana en los que, necesariamente    se debe reconocer que no se han desarrollado los programas y sistemas, nos encontramos    frente a una historia reciente. Y seguirle las huellas a &eacute;sta, no es    tarea f&aacute;cil. De hecho, podemos afirmar que los investigadores cualitativos    de habla hispana est&aacute;n pendientes de los avances en la inform&aacute;tica    y se especializan en su uso. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A este respecto    han sido de gran utilidad, por el debate que generan y/o la informaci&oacute;n    que presentan y/o lo actualizado de su revisi&oacute;n, los manuales, cap&iacute;tulos    de antolog&iacute;as y libros de docencia editados en Espa&ntilde;a a los que    ya nos hemos referido (Valles, 1997; Rodr&iacute;guez, Gil &amp; Garc&iacute;a,    1999; y Navarro &amp; D&iacute;az, 1999). Aunque tambi&eacute;n debemos hoy    considerar las tareas de docencia, formaci&oacute;n, divulgaci&oacute;n y preparaci&oacute;n    de casos guiados que diferentes investigadores han preparado en sus respectivos    grupos e Instituciones. Para el caso de M&eacute;xico destacan el Programa de    Investigaci&oacute;n Cualitativa en Salud de la Universidad de Guadalajara y    su trayectoria de capacitaci&oacute;n en el uso del Ethnograph y el Area de    Estudios Rurales y Urbanos de la Unidad Iztapalapa de la Universidad Aut&oacute;noma    Metropolitana y sus cursos sobre la utilizaci&oacute;n del NUDIST. Quiz&aacute;    de mayor envergadura por la extensi&oacute;n de su influencia por medio de la    interconectividad en la WWW, tenemos la imprescindible y encomiable labor que    ha desarrollado en Espa&ntilde;a (Mu&ntilde;oz, 2000) desde la Universidad Aut&oacute;noma    de Barcelona, no solamente en lo relativo a la ense&ntilde;anza del ATLAS-ti    sino que, adem&aacute;s, en su aplicaci&oacute;n a proyectos de investigaci&oacute;n    y en la preparaci&oacute;n de un Manual que ha sido de gran utilidad para la    comunidad hispanoparlante. Aunque tambi&eacute;n debemos mencionar la valiosa    aportaci&oacute;n que ha representado desde Argentina, para el an&aacute;lisis    cualitativo asistido por computadora, Rodr&iacute;guez, P. G. (1997) quien ha    desarrollado una labor amplia de difusi&oacute;n de las herramientas, incluida    su Gu&iacute;a de Referencia R&aacute;pida, particularmente con relaci&oacute;n    a uno de los programas desarrollados desde Australia por Qualitative Solutions    &amp; Research: NUD*IST4. Sin duda, lo ideal ser&iacute;a que hubiera ya un    libro de docencia dedicado a la ense&ntilde;anza de los programas principales;    en M&eacute;xico se realizan esfuerzos en esta direcci&oacute;n. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por otra parte,    el mismo Rodr&iacute;guez, P. G. (1998) llev&oacute; cabo una peque&ntilde;a    y sencilla investigaci&oacute;n en la que cuantifico la participaci&oacute;n    de los investigadores latinoamericanos en los grupos de discusi&oacute;n vinculados    al an&aacute;lisis cualitativo asistido por computadora. A pesar de las dificultades    para contar con las listas completas de suscriptores, de este an&aacute;lisis    se destaca que la presencia de suscriptores latinoamericanos no alcanza ni siquiera    un 3% de participaci&oacute;n en las listas abordadas (QUALRS-L, Aom-Resch,    Qual-Software, QSR-Forum y ATLAS-ti) y, lamentablemente, solo incluye a investigadores    provenientes de Argentina, Brasil, Chile, Ecuador, M&eacute;xico, Uruguay y    Venezuela. Estos pa&iacute;ses, durante el per&iacute;odo de dos semanas de    1998 cuando se realiz&oacute; el &quot;relevamiento&quot; de las listas, contaban    con uno o dos suscriptores en algunas de estas listas. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A continuaci&oacute;n    mencionaremos, a guisa de ejemplo, algunos de los trabajos que, ya sea por la    v&iacute;a de reportes id&oacute;neamente comunicados en la forma de cap&iacute;tulos    de libros o art&iacute;culos en revista cient&iacute;fica, han hecho menci&oacute;n    de alguna asistencia con programas especializados. Tambi&eacute;n incluimos    trabajos de investigaci&oacute;n que se encuentran disponibles en hojas Web    personales o institucionales. Lamentablemente, como se observar&aacute; de inmediato,    no se mencionan trabajos provenientes de Brasil, Chile, Ecuador ni Venezuela    pues, a pesar de lo anotado por Rodr&iacute;guez, P. G. (1998), no encontramos    reporte alguno que hiciera referencia al apoyo inform&aacute;tico. Igualmente    sucedi&oacute; con el caso de Colombia, pa&iacute;s en el que se est&aacute;    desarrollando hoy d&iacute;a una s&oacute;lida corriente de investigaci&oacute;n.    </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">El hecho de que    solamente est&eacute;n estos cuatro pa&iacute;ses no significa que en ninguno    de los otros pa&iacute;ses hermanos de Latinoam&eacute;rica no haya investigaci&oacute;n    cualitativa. Lo cual, sin duda, no corresponde a la realidad; &uacute;nicamente    expresa que a&uacute;n no hay reportes disponibles que est&eacute;n vinculados    al ACAC. El orden no tiene importancia, presentamos enseguida algunos datos    relativos a Espa&ntilde;a, M&eacute;xico, Argentina y Uruguay. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><B>Espa&ntilde;a.    </B>Mas all&aacute; de la labor desarrollada desde la Universidad Aut&oacute;noma    de Barcelona en torno a la utilizaci&oacute;n del ATLAS-ti, podemos constatar    que en fechas recientes se ha acumulado en este pa&iacute;s alguna experiencia    con otros programas. Entre otras, la investigaci&oacute;n realizada por Villar,    Cabero, Morales, Barroso, Cabero &amp; Domene (1998) en torno a la utilizaci&oacute;n    de las nuevas tecnolog&iacute;as por parte de profesores de ciclo medio en Sevilla,    reporta que mediante el uso de HyperResearch se llev&oacute; a cabo an&aacute;lisis    textual de coocurrencia de c&oacute;digos seleccionados con t&eacute;cnicas    Delphi. Carreras (1997) reflexiona sobre la aplicaci&oacute;n del AQUAD en el    campo espec&iacute;fico de los estudios de caso para el horizonte de la educaci&oacute;n    especial. Al estudiar la integraci&oacute;n de ni&ntilde;os y ni&ntilde;as con    necesidades especiales educativas en el aula de Educaci&oacute;n F&iacute;sica,    Rivera, Trigueros &amp; Camacho (2000) han reportado la utilizaci&oacute;n de    &iacute;ndices generados con NUDIST. Por su parte, Cabero &amp; M&aacute;rquez    (1997) afirman que en la actualidad son pocos los estudios que no utilicen alg&uacute;n    programa inform&aacute;tico para tratar con entrevistas, diarios y otro tipo    de documentos para mostrar que, los investigadores del Instituto de Ciencias    de la Educaci&oacute;n de la Universidad de Sevilla, ante la &quot;reducci&oacute;n&quot;    y el an&aacute;lisis de los datos prefieren utilizar el HyperResearch. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Desde estos cuatro    trabajos podemos mencionar que, sin estar vinculados directamente al campo de    la salud son representativos del tipo de reporte de investigaci&oacute;n realizada    mediante ACAC. En efecto, en ellos solamente se hace menci&oacute;n del uso    de los programas (AQUAD, NUDIST o HyperResearch) pero no se discute su pertinencia    en el proceso de construcci&oacute;n del dato. Como se ha afirmado antes, quiz&aacute;    esta pr&aacute;ctica est&aacute; asociada a la subyacente suposici&oacute;n    de que el solo uso de la inform&aacute;tica constituye un apoyo s&oacute;lido    a la confiabilidad y validez del an&aacute;lisis cualitativo. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Menci&oacute;n    aparte requiere la investigaci&oacute;n en torno a las causas de la disminuci&oacute;n    de la donaci&oacute;n de sangre en Catalu&ntilde;a que constituye la unidad    hermen&eacute;utica mediante la cual Mu&ntilde;oz (2000) ilustra el funcionamiento    del ATLAS-ti para el an&aacute;lisis cualitativo de datos textuales. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><B>M&eacute;xico.    </B>Al igual que en el caso anterior, en estos reportes de investigadores mexicanos    solamente se hace menci&oacute;n del uso de los programas (Ethnograph, Atlas-ti,    Textbase Alpha y Anthropac) y exclusivamente en uno de ellos (Castro, 1996)    se problematiza la construcci&oacute;n del dato al pensar en las llamadas &quot;transformaciones    de la informaci&oacute;n&quot; en los m&eacute;todos cualitativos (de la observaci&oacute;n-entrevista    a la grabaci&oacute;n, de ah&iacute; a la intrapolaci&oacute;n, enseguida a    la codificaci&oacute;n para llegar, al fin, a la interpretaci&oacute;n). Tambi&eacute;n    es importante anotar aqu&iacute; que por su utilizaci&oacute;n en el an&aacute;lisis    de &quot;free lists&quot; (listado libres de palabras) el programa Anthropac,    desarrollado por Borgatti (1992), se ha utilizado como una herramienta de an&aacute;lisis    lexicogr&aacute;fico. </font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">En un estudio sobre    los determinantes microsociales de la elecci&oacute;n de los servicios de salud    realizado en algunas zonas urbanas de M&eacute;xico, Bronfman, Castro, Z&uacute;&ntilde;iga,    Miranda &amp; Oviedo (1997) aplicaron 192 entrevistas abiertas a personas enfermas,    instrumentaron 8 grupos focales con personas en esa misma condici&oacute;n y    61 entrevistas a m&eacute;dicos y prestadores de servicios. Todas las entrevistas,    con duraci&oacute;n promedio de 60 minutos, fueron procesadas con Ethnograph.    Al estudiar los mecanismos de enfrentamiento de la familia ante las adicciones,    Natera &amp; Mora (2000) reportan la utilizaci&oacute;n del Textbase Alpha para    el manejo de las categor&iacute;as emergentes. A fin de ilustrar la complejidad    de los enfoques cualitativos, Castro (1996) ha presentado el tratamiento que    da a entrevistas realizadas en &aacute;mbitos rurales mediante la utilizaci&oacute;n    del Ethnograph. Asimismo, se desarrollan proyectos de investigaci&oacute;n en    torno a factores socioculturales y econ&oacute;micos de la producci&oacute;n    de servicios alternativos de salud (Nigenda, Mora, Aldama &amp; Orozco, 2000)    y acerca de las percepciones de los m&eacute;dicos sobre sus propias pr&aacute;cticas    y los ejercicios institucionales de arbitraje m&eacute;dico (Mora &amp; Nigenda,    2000) en los que se instrumentar&aacute;n redes conceptuales mediante ATLAS-ti.    Por su parte, Caballero &amp; Uribe (1998) han reportado an&aacute;lisis de    universos culturales en torno al SIDA, mediante el uso del Anthropac. Por &uacute;ltimo,    vale destacar que a&uacute;n no hay reportes que se hayan apoyado en la utilizaci&oacute;n    de NUDIST y NVivo. Lo cual es natural dado que, a partir de la reciente incorporaci&oacute;n    de estos programas a la vida acad&eacute;mica institucional, en la mayor&iacute;a    de los casos se trata de investigaciones que estan todav&iacute;a en proceso.    </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><B>Argentina. </B>Al    contrario de lo que sucede en M&eacute;xico, en lo concerniente al programa    con aproximaci&oacute;n basado en sistema de &iacute;ndice, en Argentina ya    se ha reportado su utilizaci&oacute;n. As&iacute;, Ceirano &amp; Rodr&iacute;guez    (1997) han presentado lo que ellos mismos consideran como una de las primeras    investigaciones que utiliza NUDIST para prop&oacute;sitos de an&aacute;lisis    de discurso; el concepto de pobreza es objeto de su investigaci&oacute;n en    tanto objeto semi&oacute;tico socialmente construido. Independientemente de    la propiedad del uso del NUDIST para an&aacute;lisis del discurso cuando sus    creadores lo vinculan, insistente y recientemente, a la tradici&oacute;n de    teor&iacute;a fundamentada (Richards, 1999), la labor de este grupo de investigadores    de la Escuela Superior de trabajo Social de la Universidad Nacional de La Plata    es altamente encomiable. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><B>Uruguay. </B>En    este pa&iacute;s del Sur de Am&eacute;rica, &uacute;nicamente encontramos que    el UISDP (1995) incorpora en sus discusiones t&oacute;picos relativos al papel    de la inform&aacute;tica en el an&aacute;lisis de datos cualitativos. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para concluir vale    la pena hacer patente el inter&eacute;s que ha despertado en cient&iacute;ficos    provenientes de pa&iacute;ses como Per&uacute;, Chile, Venezuela y en todo Centroam&eacute;rica    la utilizaci&oacute;n de programas como NVivo y Atlas-ti en el contexto de realizaci&oacute;n    de proyectos de investigaci&oacute;n multic&eacute;ntricos dirigidos hacia algunos    problemas de salud p&uacute;blica y/o dimensiones de evaluaci&oacute;n educativa.    Aunque de ellos tampoco se pueda dar informaci&oacute;n pues est&aacute;n en    las fases finales de elaboraci&oacute;n de reportes. As&iacute;, no est&aacute;    de mas enfatizar la necesidad de sumar esfuerzos en torno a la constituci&oacute;n    de redes de investigadores que se encuentran utilizando alg&uacute;n tipo de    apoyo computacional a fin de establecer mejores estrategias de comunicaci&oacute;n    e intercambio de experiencias. </font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3 De la construcci&oacute;n    del dato a la <I>fetichizaci&oacute;n</I> </b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Coma ya se ha comentado,    hay libros en castellano que introducen, a diferentes niveles de profundidad,    a las problem&aacute;ticas y tendencias del an&aacute;lisis cualitativo asistido    por computadora. En ellos a veces se ve a una de las tradiciones cualitativas    asociadas a la utilizaci&oacute;n de la inform&aacute;tica, por ejemplo, la    Teor&iacute;a Fundamentada (Grounded Theory) en una vinculaci&oacute;n equ&iacute;voca    con las tradicionales t&eacute;cnicas de an&aacute;lisis de contenido (Navarro    &amp; D&iacute;az, 1999) lo cual, desde lo que aqu&iacute; interesa, m&aacute;s    que ayudar al esclarecimiento de estrategias rigurosas de investigaci&oacute;n    obstaculiza la distinci&oacute;n te&oacute;rica. O en ocasiones el inter&eacute;s    es solamente ilustrar acerca de la existencia de ese campo particular del an&aacute;lisis    cualitativo (Rodr&iacute;guez, Gil &amp; Garc&iacute;a, 1999) con una plena    orientaci&oacute;n did&aacute;ctica haciendo solamente un inventario de las    caracter&iacute;sticas de los programas. Pero tambi&eacute;n hay, aunque lamentablemente    son las m&aacute;s escasas, obras cuya vigencia es admirable; un trabajo de    sistematizaci&oacute;n como el realizado por Valles (1997) merece esa calificaci&oacute;n,    lo cual hace realmente imprescindible su consulta. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por otra parte,    al pensar en el an&aacute;lisis cualitativo asistido por computadora no se evita    recordar que, tiempo atr&aacute;s, tuvimos que acostumbrarnos al &quot;an&aacute;lisis    cuantitativo asistido por computadora&quot;. Y aprendimos programas (pensemos    solamente en el SPSS, para no abundar). Y despu&eacute;s de ese aprendizaje,    nunca m&aacute;s hemos vuelto a realizar c&aacute;lculos de varianza, ni de    chi cuadrada, ni de regresi&oacute;n simple o m&uacute;ltiple, &quot;a mano&quot;.    </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Aunque en el caso    del an&aacute;lisis cualitativo no debemos &quot;confiar&quot; en que la computadora    &quot;masticar&aacute;&quot; los datos por nosotros, tal cual parece ser nuestra    relaci&oacute;n con la &quot;interfase&quot; inform&aacute;tica con la cual    interactuamos en el &quot;an&aacute;lisis cuantitativo asistido por computadora&quot;.    Se ha insistido mucho que el investigador que llega al ACAC con el mismo &quot;modelo    cognitivo&quot; con el que se acerca a SPSS, por ejemplo, est&aacute; cometiendo    un grave error. Subrayar esta diferencia es sumamente relevante ya que, por    un lado, el conocimiento experto acerca de los procesos involucrados en el <I>manejo    y tratamiento </I>de los datos en computadora, tanto en el an&aacute;lisis cuantitativo    (SPSS) como en el cualitativo (NVivo), por ejemplo, es similar para ambos casos    dado que radica en quien interpreta los resultados, aunque por otro lado, el    conocimiento experto acerca de los procesos involucrados en la <I>construcci&oacute;n    </I>del dato sea nada similar en ambos casos, el dato n&uacute;merico (SPSS),    ya est&aacute; dado mientras que, el dato no num&eacute;rico (NVivo), se est&aacute;    haciendo. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Los procesos generales    del an&aacute;lisis cualitativo de datos son la generaci&oacute;n de conceptos    y la construcci&oacute;n de tipolog&iacute;as y taxonom&iacute;as (Bryman &amp;    Burgess, 1994), sea que realicemos inducci&oacute;n anal&iacute;tica, teor&iacute;a    fundamentada o estrategias de modelos. Y son estos procesos los que al constituir,    indudablemente al trabajo &quot;duro&quot; del an&aacute;lisis cualitativo,    seguir&aacute;n estando bajo nuestra responsabilidad y nuestras &quot;manos&quot;    independientemente de cual haya sido el programa que hayamos elegido. Dicho    de otra forma: no hay algoritmo alguno para cerrar el c&iacute;rculo hermen&eacute;utico    ni hay c&aacute;lculo posible que agote el an&aacute;lisis de un significado.    </font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para Morse (1994)    son cuatro los procesos cognitivos inherentes al an&aacute;lisis de datos y    estos aparecen <I>&iacute;ntegros </I>en todos los m&eacute;todos cualitativos:    la comprensi&oacute;n, la s&iacute;ntesis, la teorizaci&oacute;n y la recontextualizaci&oacute;n.    Si lo recordamos, en este ensayo Morse ejemplifica estos procesos para la fenomenolog&iacute;a,    la etnograf&iacute;a, la etnociencia y la teor&iacute;a fundamentada. De nuevo    es necesario afirmar ahora que, todo aquel investigador que haya superado el    &quot;terror epistemol&oacute;gico&quot; a las computadoras y encuentre en ellas,    como dec&iacute;an metaf&oacute;ricamente Fielding &amp; Lee (1992, p. 6), no    al oficinista sino al asistente de investigaci&oacute;n, pero crea que este    asistente llevar&aacute; a cabo, en sustituci&oacute;n de &eacute;l mismo, los    procesos cognitivos inherentes al an&aacute;lisis cualitativo se&ntilde;alados    por Morse, estar&aacute; francamente equivocado. Y todav&iacute;a m&aacute;s    si, por ejemplo, su an&aacute;lisis quisiera ser del refinado y detallado nivel    necesario que recientemente Strauss &amp; Corbin (1998, p. 57) han formulado    como <I>microan&aacute;lisis</I>:combinaci&oacute;n de codificaci&oacute;n abierta    y axial. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Aunque desde sus    inicios (Pfaffenberger, 1988) la discusi&oacute;n en torno al ACAC haya estado    matizada por la inteligencia artificial y los sistemas expertos, debe llamarse    permanentemente la atenci&oacute;n en torno a que este tipo de herramientas    no &quot;aseguran&quot; por s&iacute; mismas, ni el rigor, ni la validez, ni    la confiabilidad de la investigaci&oacute;n. La construcci&oacute;n del dato    cualitativo est&aacute; compuesto no solamente por los procesos cognitivos ya    se&ntilde;alados sino, indudablemente, por la relaci&oacute;n <I>viva y existencial    </I>con los participantes. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Es importante hacer    notar que tanto en las discuciones sobre construcci&oacute;n de teor&iacute;a    como en las relativas al proceso de triangulaci&oacute;n, emerge como problema    la construcci&oacute;n del dato cualitativo. Desde el uso de computadoras este    problema es entendido como: el an&aacute;lisis de los diversos v&iacute;nculos    conceptuales entre memos y texto, entre memos y c&oacute;digos, entre c&oacute;digos,    entre segmentos de texto y entre segmentos de texto y su contexto. Discusiones    que han conducido a la emergencia del llamado &quot;proceso de codificaci&oacute;n    de segundo orden&quot; el cual, para el programa NUDIST condujo (Richards &amp;    Richards, 1995) a la necesidad de las categor&iacute;as jer&aacute;rquicas.    Por su parte, Kuckartz (1995, p. 160) formul&oacute; el cuadro siguiente a fin    de dar cuenta de lo que para &eacute;l, desde una perspectiva fenomenol&oacute;gica    la cual recupera los conceptos de Schutz y Weber, conduce a una <i>tipificaci&oacute;n</i>    metodol&oacute;gicamente controlada:</font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/soc/n9/a10q01.gif"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Evidentemente,    del paso 0 (que no est&aacute; en el cuadro y que es la experiencia viva de    la interacci&oacute;n simb&oacute;lica entre los participantes) al paso 1, hay    un abismo: la transcripci&oacute;n nunca es fiel, no puede ser fiel. Por m&aacute;s    anotaciones al margen que se hagan, por extremadamente ricas que sean todas    las notas anal&iacute;ticas o memos, por mayor claridad y fidelidad que tenga    la grabaci&oacute;n de audio y/o video, la transcripci&oacute;n o &quot;puesta    en texto&quot; de los actos que constituyen la interacci&oacute;n viva, ya es    otra realidad. Indagar sobre posibles puentes para saltar este abismo, excede    los l&iacute;mites del presente trabajo. Aunque todo lo relativo a esta cuesti&oacute;n    puede ser reconocido como el problema del v&iacute;nculo entre experiencia viva    y transcripci&oacute;n. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vistos con detenimiento,    cada uno de los pasos formulado en secuencia, conduce finalmente a cierto tipo    de an&aacute;lisis del cual, podemos asegurar, se ha realizado una cantidad    inmensa en nuestros pa&iacute;ses. Se realice &eacute;ste mediante las estrategias    artesanales de &quot;cortar y pegar&quot;, se realice con o sin la ayuda de    las computadoras, o con programas no especializados o con los espec&iacute;ficamente    desarrollados para ese fin, el resultado no debe ser la pura asignaci&oacute;n    de c&oacute;digos y su an&aacute;lisis comparativo. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Si en la codificaci&oacute;n    de primer orden tenemos v&iacute;nculos entre c&oacute;digos y segmentos de    texto, podemos afirmar que nuestra labor no concluye ah&iacute;. De esta manera,    los c&oacute;digos de segundo orden se desarrollan desde los c&oacute;digos    de primer orden y no tienen conexi&oacute;n directa con los segmentos de texto.    Kuckartz (1995, p. 164) propone el siguiente cuadro a fin de llamar la atenci&oacute;n    sobre la gran diferencia entre programas para el An&aacute;lisis Cualitativo    Asistido por Computadora (ACAC) que est&aacute;n solamente dise&ntilde;ados    para codificar y recuperar texto y aquellos que se dise&ntilde;an para la construcci&oacute;n    de teor&iacute;a, como su programa WinMax. Es de notar que el lenguaje usado    por Kuckartz posee cierto corte cuantitativo en t&eacute;rminos de que est&aacute;    formulado para discutir en torno a la triangulaci&oacute;n metodol&oacute;gica:</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/soc/n9/a10q02.gif"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sea desde la triangulaci&oacute;n    o desde la cuantificaci&oacute;n, resulta innegable que discutir en torno a    la producci&oacute;n del dato cualitativo y su relaci&oacute;n con el ACAC,    es una gran necesidad de las tradiciones interpretativas. Pues, por un lado,    reaparecen los comentarios a los cuales ya se hab&iacute;an enfrentado Richards    &amp; Richards (1992) en torno al estatuto de los datos &quot;blandos&quot;    cuando desarrollaban la versi&oacute;n 3 del NUDIST: si lo &quot;duro&quot;    es lo cuantitativo y lo &quot;blando&quot; lo cualitativo, el ACAC entonces    &#191;solamente conduce a presentar resultados &quot;duros&quot; de datos &quot;blandos&quot;?    o, si lo no num&eacute;rico es complejo e impreciso &#191;para qu&eacute; se    requiere de computadoras? Incluso hoy se ha de reconocer que en las viejas pr&aacute;cticas    de la codificaci&oacute;n de primer orden se concentra uno de los problemas    que se han presentado en el An&aacute;lisis Cualitativo Asistido por Computadora:    dada la facilidad t&eacute;cnica para codificar...&#161;codifiquemos todo! El    resultado: <I>fetichizaci&oacute;n </I>del dato por el uso irresponsable de    la asistencia computacional. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por otro lado,    lo se&ntilde;alado por Kuckartz en este segundo cuadro es de vital importancia    pues su preocupaci&oacute;n se ubica en lo que ya hab&iacute;an se&ntilde;alado    Bryman &amp; Burgess (1994, p. 6-7) como las tareas centrales del an&aacute;lisis    cualitativo: la generaci&oacute;n de conceptos y la construcci&oacute;n de tipolog&iacute;as    y taxonom&iacute;as e, incluso, contextualiza en un sentido amplio los componentes    cognitivos ya se&ntilde;alados anteriormente en el texto (Morse, 1994). </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De esta manera,    no est&aacute; de m&aacute;s formular aqu&iacute; que el sistema de &iacute;ndices    con el que fue preparado NUDIST, permit&iacute;a desde su versi&oacute;n 4,    realizar ya an&aacute;lisis de casos. Aunque es verdaderamente atractivo recordar    aqu&iacute; que Richards (1997) ya puntualizaba, entre otros riegos (la computadora    como enemigo o como analista, la descontextualizaci&oacute;n del dato, etc.)    el relativo al <I>fetichismo </I>en la codificaci&oacute;n, que ya hemos se&ntilde;alado.    Efectivamente, generar grandes bases de datos a partir de complejas relaciones    jer&aacute;rquicas (como en el NUDIST, hoy en su versi&oacute;n 5 liberada en    diciembre del 2000, posterior al NVivo), o de redes complejas con supernodos    o familias (como en el ATLAS-ti, del cual se espera la nueva versi&oacute;n    durante el 2001) puede tornarse un objetivo del analisis y conducir el investigador    en sus planteamientos analiticos, alej&aacute;ndolo cada vez m&aacute;s del    &uacute;ltimo v&iacute;nculo del cual ya hablamos, el v&iacute;nculo entre experiencia    viva y transcripci&oacute;n. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Precisamente sobre    este &uacute;ltimo punto y para expresar elementos a favor del ACAC, se puede    decir que una de las caracter&iacute;sticas m&aacute;s sobresalientes de los    programas particularmente hoy importantes como son ATLAS-ti, NUDIST y NVivo    es la funci&oacute;n que permite generar c&oacute;digos in-vivo que, sin lugar    a dudas, para los investigadores vinculados a la aproximaci&oacute;n de Teor&iacute;a    Fundamentada es una de las herramientas, junto con los memos, m&aacute;s apreciada.    Menci&oacute;n relevante merece tambi&eacute;n el reciente trabajo de Muhr (2000)    quien est&aacute; invitando a superar una de las debilidades m&aacute;s importantes    de los programas, vistos en conjunto, que es la incapacidad de comunicaci&oacute;n    entre sistemas (una unidad hermen&eacute;utica del ATLAS no puede ser traducida    o exportada como proyecto a NVivo, por ejemplo) a partir de la utilizaci&oacute;n    de la herramienta eXtensible Markup Language (XML). Lo cual, dicho con cierta    iron&iacute;a, nos coloca frente a la exigencia de no ser nunca solamente &quot;aficionados&quot;    a alguno de los programas que hoy por hoy asisten en el an&aacute;lisis cualitativo    de datos. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Exigencia que tambi&eacute;n    se ha expresado plenamente a todos aquellos investigadores que al realizar grandes    proyectos deben enfrentar el reto de reconocer las formas de &quot;fusi&oacute;n&quot;    entre componentes del proyecto, sean nodos o &iacute;ndices, en el caso de NUDIST    y NVivo, o familias y superc&oacute;digos en el caso de ATLAS-ti. Para ser m&aacute;s    precisos, tampoco se puede ser &quot;aficionado&quot; a la computadora cuando    debo tomar decisiones sobre como fusionar componentes de un solo proyecto que    han sido elaborados por diferentes miembros del equipo de investigadores trabajando    en red o en un proyecto multilocal en diferentes computadoras. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para concluir es    necesario afirmar que el argumento desarrollado en este articulo es que la emergencia    y consolidacion del ACAC puede conducir a los investigadores a <I>reificar </I>el    uso de la computadora en dem&eacute;rito de las tareas humanas de la interpretaci&oacute;n.    Al hacer la revisi&oacute;n sobre la reciente experiencia hispanoamericana en    An&aacute;lisis Cualitativo Asistido por Computadora se hizo evidente que su    aplicaci&oacute;n no ha sido acompa&ntilde;ada de una reflexi&oacute;n cr&iacute;tica    sobre la producci&oacute;n del dato. Pareciera como si lo que afirmaron Coffey    &amp; Atkinson (1996, p. 187), nunca hubiese hecho sentido: &quot;... <I>ninguno    de los programas de computadora ejecutar&aacute; an&aacute;lisis autom&aacute;tico    de los datos. Ellos dependen de lo que los investigadores definan como los t&oacute;picos    anal&iacute;ticos a ser explorados, las ideas que son importantes y los modos    de representaci&oacute;n que son mas apropiados</I>&quot;. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">El inter&eacute;s    en hispanoam&eacute;rica por el An&aacute;lisis Cualitativo Asistido por Computadora    es, afortunadamente, creciente y entusiasta. Aunque no muy numerosos, sus practicantes    est&aacute;n acumulando experiencia no solamente en el uso de los programas    sino, adem&aacute;s, en la capacitaci&oacute;n a otros y en la discusi&oacute;n    con aquellos que se resisten a abandonar el trabajo manual y con quienes prefieren    el uso de programas no especializados. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Con mucho optimismo,    tambi&eacute;n se incorporan aquellos que, paulatina y gozosamente, van descubriendo    que el An&aacute;lisis Cualitativo Asistido por Computadora ya no se reduce    &uacute;nicamente al estudio de datos textuales y hoy involucra datos no textuales,    hypertexto, representaciones conceptuales, redes, pensamiento cualitativo y    modelamiento te&oacute;rico. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Referencias</b>    </font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALEXA, Melina &amp;    ZUELL, Cornelia. Commonalties, differences and limitations of text analysis    Software: the results of review. <B>ZUMA-Arbeitsbericht 99/06</B>. 1999. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000085&pid=S1517-4522200300010001000001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BARRY, Christine    A. Choosing qualitative data analysis software: Atlas-ti and Nudist compared.    <B>Sociological Research Online</B>, 3(3). Disponible en: &lt;<a href="http://www.socresonline.org.uk/socresonline/3/3/4.html">http://www.socresonline.org.uk/socresonline/3/3/4.html</a>&gt;    (1998, Octubre 13). 1998, Septiembre. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000086&pid=S1517-4522200300010001000002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BORGATTI, S. P.    <B>ANTHROPAC 4.0. Methods guide</B>. Columbia: Analytic Technologies, 1992.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000087&pid=S1517-4522200300010001000003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BRONFMAN, M.; CASTRO,    R.; Z&Uacute;&Ntilde;IGA, E.; MIRANDA, C. &amp; OVIEDO, J. Hacemos lo que podemos:    los prestadores de servicios frente al problema de la utilizaci&oacute;n. <B>Salud    P&uacute;blica</B>, 39, 1997, p. 546-553. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000088&pid=S1517-4522200300010001000004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BRYMAN, A.; BURGESS,    R. G. <B>Analysing qualitative data</B>.New York: Routledge, 1994. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000089&pid=S1517-4522200300010001000005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CABALLERO, J.;    URIBE, P. Exploraci&oacute;n de significados culturales sobre el SIDA en adolescentes    de Guadalajara. En: Mercado, F., Robles, L. (comps.) <B>Investigaci&oacute;n    cualitativa en salud</B>. M&eacute;xico: UdG, 1998, p. 203-222. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000090&pid=S1517-4522200300010001000006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CABERO, J.; M&Aacute;RQUEZ,    D. <B>La introducci&oacute;n del video como instrumento de conocimiento en la    ense&ntilde;anza universitaria</B>. Dusponible en: &lt;http://www.cucei.udg.mx/tvcucei/que_es/artgice2/index.html&gt;,    1997. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000091&pid=S1517-4522200300010001000007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CARRERAS, F. T.    <B>Metodolog&iacute;a de investigaci&oacute;n en Educaci&oacute;n Especial:    el an&aacute;lisis cualitativo de datos</B>. Disponible en: &lt;<a href="http://www.niee.ufrgs.br/Icieep/ponencias/dos-31.htm">http://www.niee.ufrgs.br/Icieep/ponencias/dos-31.htm</a>&gt;,    1997. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000092&pid=S1517-4522200300010001000008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CASTRO, R. En busca    del significado: supuestos, alcances y limitaciones del an&aacute;lisis cualitativo.    En: Szaz &amp; Lerner (comp.) <B>Para comprender la subjetividad</B>.M&eacute;xico:    El Colegio de M&eacute;xico, 1996, p. 57-85. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000093&pid=S1517-4522200300010001000009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CEIRANO, V.; RODR&Iacute;GUEZ,    G. <B>An&aacute;lisis de discurso asistido por computadora: nuestra experiencia    con el NUD*IST</B>. Disponible en: &lt;http://www.analisiscualitativo.com.ar/analista.htm&gt;,    1997. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000094&pid=S1517-4522200300010001000010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">COFFEY, A.; ATKINSON,    P. <B>Making sense of qualitative data</B>. Thousand Oaks, CA: Sage, 1996. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000095&pid=S1517-4522200300010001000011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DENZIN, Norman    K. &amp; LINCOLN, Yvonna S. <B>Handbook of qualitative research</B>.Thousand    Oaks, CA: Sage, 1994. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000096&pid=S1517-4522200300010001000012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FIELDING, Nigel    G. &amp; LEE, Raymond M. <B>Using computers in qualitative research</B>. London:    Sage, 1992. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000097&pid=S1517-4522200300010001000013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GLASER, Barney    G. &amp; STRAUSS, Anselm L. <B>The discovery of Grounded Theory</B>.London:    Weidenfeld and Nicolson, 1967. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000098&pid=S1517-4522200300010001000014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GLASER, Barney    G. <B>Theoretical Sensitivity</B>.Mill Valley: Sociology Press, 1978. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000099&pid=S1517-4522200300010001000015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HESSE-BIBER, S.;    DUPUIS, P. &amp; KINDER, T.S. HyperRESEARCH: a computer program for the analysis    of qualitative data with an emphasis on hypothesis testing and multimedia analysis.    <B>Qualitative Sociology</B>,14 (4), 1991, p. 289-306. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000100&pid=S1517-4522200300010001000016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HUBER, G.; GARC&Iacute;A,    C. M. Computer assistance for testing hypothesses about qualitative data: The    Software Package AQUAD 3.0. <B>Qualitative Sociology</B>,14 (4), 1991, p. 325-347.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000101&pid=S1517-4522200300010001000017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HUDELSON, P. Appendix    IV: Resource list of computer programmes for managing and analysing qualitative    data. En: Hudelson, P. <B>Qualitative Research for Health Programmes</B>.Geneva:    WHO/MNH/PSF, 1994, p. 99-102. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000102&pid=S1517-4522200300010001000018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">KELLE, Udo. <B>Computer-aided    qualitative data analysis. Theory, methods and practice</B>.Thousand Oaks, CA:    Sage, 1995. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000103&pid=S1517-4522200300010001000019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">KUCKARTZ, U. Case-oreinted    Quantification. En: U. Kelle (ed.). <B>Computer-aided qualitative data analysis</B>.    Thousand Oaks. CA: Sage, 1995, p. 158-166. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000104&pid=S1517-4522200300010001000020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MILES, M. &amp;    HUBERMAN, M. <B>Qualitative data analysis. an expanded sourcebook</B>.Thousand    Oaks, CA: Sage, 1994. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000105&pid=S1517-4522200300010001000021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MORA, G.; NIGENDA,    G. <B>La pr&aacute;ctica m&eacute;dica y las nociones sobre la Comisi&oacute;n    Nacional de Arbitraje M&eacute;dico en Cuernavaca, Morelos</B>. Disponible en:    &lt;<a href="http://www.insp.mx/ciss/ciss4.html">http://www.insp.mx/ciss/ciss4.html</a>&gt;,    2000. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000106&pid=S1517-4522200300010001000022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MORSE, J. Emerging    from the data: the cognitive processes of analysis in qualitative inquiry: En:    Morse, J. <B>Critical Issues in Qualitative Research Methods</B>. Thousand Oaks,    CA: Sage, 1994, p. 23-43. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000107&pid=S1517-4522200300010001000023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MU&Ntilde;OZ, J.    J. An&aacute;lisis cualitativo de datos textuales con ATLAS/ti. Disponible en:    &lt;http://seneca.uab.es/jmunoz/Cuali/Manual.htm&gt;, 2000. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000108&pid=S1517-4522200300010001000024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MUHR, T. ATLAS/ti:    a prototype for the support of text interpretation. <B>Qualitative Sociology</B>,    14 (4), 1991, p. 349-371. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000109&pid=S1517-4522200300010001000025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MUHR, T. <B>ATLAS/ti.    The knowledge worbench. Short user's manual</B>. Berl&iacute;n: Scientific Software    Development, 1997. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S1517-4522200300010001000026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MUHR, T. Power    to the data: coping the proprietaritiness of qualitative data. <B>Forum Qualitative    Sozialforshung</B>.Disponible en: &lt;<a href="http://qualitative-research.net/fqs/fqs-eng.htm">http://qualitative-research.net/fqs/fqs-eng.htm</a>&gt;,    2000, Diciembre. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S1517-4522200300010001000027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NATERA, G.; MORA,    J. La teor&iacute;a fundamentada en el estudio de la familia y las adicciones.    En: Mercado &amp; Torres (comp.) <B>An&aacute;lisis cualitativo en salud. Teor&iacute;a,    m&eacute;todo y pr&aacute;ctica</B>.M&eacute;xico: UdG/Plaza y Vald&eacute;s,    2000, p. 73-95. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S1517-4522200300010001000028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NAVARRO, P.; D&Iacute;AZ,    C. An&aacute;lisis de Contenido. En: Delgado, J. M.; Guti&eacute;rrez, J. (coord.)    <B>M&eacute;todos y t&eacute;cnicas cualitativas de investigaci&oacute;n en    Ciencias Sociales</B>. Madrid: S&iacute;ntesis, 1999, p. 177-224. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S1517-4522200300010001000029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NIGENDA, G.; MORA,    G.; ALDAMA, S.; OROZCO, E. <B>Modelos alternativos de atenci&oacute;n a la salud    en M&eacute;xico: un estudio de su disponibilidad y utilizaci&oacute;n en dos    &aacute;reas urbanas del pa&iacute;s</B>. Disponible en: &lt;<a href="http://www.insp.mx/ciss/ciss4.html">http://www.insp.mx/ciss/ciss4.html</a>&gt;,    2000. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S1517-4522200300010001000030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PFAFFENBERGER,    B. <B>Microcomputer applications in qualitative research</B>.Newbury Park, CA:    Sage, 1988. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S1517-4522200300010001000031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RICHARDS, L.; RICHARDS,    T. 'Hard' results from 'soft' data? Computing and qualitative analysis. <B>Paper    to British Sociological Association</B>,Manchester, 1992. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S1517-4522200300010001000032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RICHARDS, L.; RICHARDS,    T. Qualitative computing: promises, problems and implications for research process.    <B>Paper to British Sociological Association</B>,Essex, 1993. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S1517-4522200300010001000033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RICHARDS, L.; RICHARDS,    T. Using computers in qualitative research. En: Denzin &amp; Lincoln (eds.)    <B>Handbook of Qualitative Research</B>. Thousand Oaks, CA: Sage, 1994, p. 445-462.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S1517-4522200300010001000034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RICHARDS, L.; RICHARDS,    T. Using hierarquical categories in qualitative data analysis. En: U. Kelle    (ed.) <B>Computer-Aided Qualitative Data Analysis</B>. Thousand Oaks. CA: Sage,    1995, p. 80-95. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S1517-4522200300010001000035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Richards, Lyn.    (1997) User's mistake as developer's challenge: designing the new NUD*IST. <B>Qualitative    Health Research</B> 7 (3), p. 425-433. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S1517-4522200300010001000036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RICHARDS, Lyn.    Qualitative computing and Qualitative Sociology: the first decade. <B>Paper    to British Sociological Association</B>,Edimburg. 1999. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S1517-4522200300010001000037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RIVERA, E.; TRIGUEROS,    C.; CAMACHO, M. <B>Yo integro, tu incluyes, nosotros... Un reto dif&iacute;cil</B>.    Disponible en: &lt;<a href="http://www.efdeportes.com/efd28/integr.htm">http://www.efdeportes.com/efd28/integr.htm</a>&gt;,    2000. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S1517-4522200300010001000038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RODR&Iacute;GUEZ,    G.; GIL, J.; GARC&Iacute;A, E. <B>Metodolog&iacute;a de la investigaci&oacute;n    cualitativa</B>.Granada: Aljibe, 1999. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S1517-4522200300010001000039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RODR&Iacute;GUEZ,    P. G. <B>QSR NUD*IST Gu&iacute;a de Referencia R&aacute;pida</B>. Disponible    en: http://www.analisiscualitativo.com.ar. 1997. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S1517-4522200300010001000040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RODR&Iacute;GUEZ,    P. G. Grupos de discusi&oacute;n sobre metodolog&iacute;a de investigaci&oacute;n    cualitativa asistida por computadora en Ciencias Sociales. <B>1er. Congreso    Virtual de Antropolog&iacute;a y Arqueolog&iacute;a</B>. Disponible en: &lt;<a href="http://www.naya.org.ar/congreso/ponencia1-14.htm">http://www.naya.org.ar/congreso/ponencia1-14.htm</a>&gt;    (1999, Agosto 19). 1998. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S1517-4522200300010001000041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SEIDEL, John V.    Qualitative data analysis. <B>The Ethnograph v5. Appendix E</B>.Disponible en:    &lt;<a href="http://www.qualisresearch.com">http://www.qualisresearch.com</a>&gt;    (1999, Junio 13). 1998. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S1517-4522200300010001000042&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">STRAUSS, Anselm    L. <B>Qualitative Analysis for Social Scientists</B>. New York: Cambridge University    Press, 1987. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000127&pid=S1517-4522200300010001000043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">STRAUSS, Anselm    L. &amp; CORBIN, Juliet. <B>Basics of qualitative research. Techniques and procedures    for developing grounded theory</B>.Newbury Park, CA: Sage, 1998. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S1517-4522200300010001000044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">STR&Uuml;BING,    J&ouml;rg. Computer-assited analysis in qualitative social research - A comparison.    <B>Paper presented at the Conference Text Analysis and Computers at ZUMA,</B>Mannheim,    1995 September. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000129&pid=S1517-4522200300010001000045&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">STR&Uuml;BING,    J&ouml;rg. Computer tools for Grounded Theory: Introducing ATLAS/ti for Windows    95. <B>Proceedings of the 20th Conference of the Gesellschaft f&uuml;r Klassifikation    e.V.</B>1996. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S1517-4522200300010001000046&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TESCH, R. <B>Qualitative    research: analysis types and software tools</B>.Basingstoke: Falmer, 1990. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000131&pid=S1517-4522200300010001000047&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TESCH, R. Introduction.    <B>Qualitative Sociology</B>, 14 (3), 1991, p. 225-243. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S1517-4522200300010001000048&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TESCH, R. Software    for qualitative researchers: analysis needs and program capabilities. En: Fielding    &amp; Lee (eds.) <B>Using Computers in Qualitative Research</B>. London: Sage,    1992, p. 16-37. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S1517-4522200300010001000049&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">UISDP Bolet&iacute;n    No. 4. Disponible en: &lt;<a href="http://www.rau.edu.uy/fcs/banco/boletines/bol4.htm#inicio">http://www.rau.edu.uy/    fcs/banco/boletines/bol4.htm#inicio</a>&gt;, 1995. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S1517-4522200300010001000050&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VALLES, M. <B>T&eacute;cnicas    cualitativas de investigaci&oacute;n social</B>. Madrid: S&iacute;ntesis, 1997.    </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S1517-4522200300010001000051&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VILLAR, L.; CABERO,    J.; MORALES, J.; BARROSO, J.; CABERO, A.; DOMENE, S. <B>La utilizaci&oacute;n    de las NN.TT. de la informaci&oacute;n y comunicaci&oacute;n en el desarrollo    profesional docente: estudio cualitativo</B>. Disponible en: &lt;http://www.ice.uma.es/edutec97/edu97_c3/2-3-24.htm&gt;,    1998. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S1517-4522200300010001000052&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">WEITZMAN, Eben    &amp; MILES, Matthew. <B>Computer programs for qualitative data analysis</B>.    Thousand Oaks, CA: Sage, 1995. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S1517-4522200300010001000053&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="nota1"></a><a href="#topo">1</a>    Una versi&oacute;n de este trabajo es publicada en <I>Investigaci&oacute;n Cualitativa    en Salud. Una Antolog&iacute;a sobre la Producci&oacute;n Iberoamericana</I>.    Mercado, F. J., Gastaldo, D., Calder&oacute;n, C. (Eds) (En prensa). </font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALEXA]]></surname>
+<given-names><![CDATA[Melina]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZUELL]]></surname>
+<given-names><![CDATA[Cornelia]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Commonalties, differences and limitations of text analysis Software: the results of review]]></article-title>
+<source><![CDATA[ZUMA-Arbeitsbericht]]></source>
+<year>1999</year>
+<volume>99</volume>
+<numero>06</numero>
+<issue>06</issue>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARRY]]></surname>
+<given-names><![CDATA[Christine A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Choosing qualitative data analysis software: Atlas-ti and Nudist compared]]></article-title>
+<source><![CDATA[Sociological Research Online]]></source>
+<year></year>
+<volume>3</volume>
+<numero>3</numero>
+<issue>3</issue>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BORGATTI]]></surname>
+<given-names><![CDATA[S. P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[ANTHROPAC 4.0. Methods guide]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Columbia ]]></publisher-loc>
+<publisher-name><![CDATA[Analytic Technologies]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRONFMAN]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZÚÑIGA]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OVIEDO]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Hacemos lo que podemos: los prestadores de servicios frente al problema de la utilización]]></article-title>
+<source><![CDATA[Salud Pública]]></source>
+<year>1997</year>
+<volume>39</volume>
+<page-range>546-553</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRYMAN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURGESS]]></surname>
+<given-names><![CDATA[R. G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Analysing qualitative data]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CABALLERO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[URIBE]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Exploración de significados culturales sobre el SIDA en adolescentes de Guadalajara]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Mercado]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Robles]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Investigación cualitativa en salud]]></source>
+<year>1998</year>
+<page-range>203-222</page-range><publisher-loc><![CDATA[México ]]></publisher-loc>
+<publisher-name><![CDATA[UdG]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CABERO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MÁRQUEZ]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La introducción del video como instrumento de conocimiento en la enseñanza universitaria]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARRERAS]]></surname>
+<given-names><![CDATA[F. T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Metodología de investigación en Educación Especial: el análisis cualitativo de datos]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[En busca del significado: supuestos, alcances y limitaciones del análisis cualitativo]]></article-title>
+<collab>Szaz & Lerner</collab>
+<source><![CDATA[Para comprender la subjetividad]]></source>
+<year>1996</year>
+<page-range>57-85</page-range><publisher-loc><![CDATA[México ]]></publisher-loc>
+<publisher-name><![CDATA[El Colegio de México]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CEIRANO]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RODRÍGUEZ]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análisis de discurso asistido por computadora: nuestra experiencia con el NUD*IST]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COFFEY]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ATKINSON]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Making sense of qualitative data]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DENZIN]]></surname>
+<given-names><![CDATA[Norman K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LINCOLN]]></surname>
+<given-names><![CDATA[Yvonna S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Handbook of qualitative research]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIELDING]]></surname>
+<given-names><![CDATA[Nigel G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[Raymond M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Using computers in qualitative research]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GLASER]]></surname>
+<given-names><![CDATA[Barney G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STRAUSS]]></surname>
+<given-names><![CDATA[Anselm L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The discovery of Grounded Theory]]></source>
+<year>1967</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Weidenfeld and Nicolson]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GLASER]]></surname>
+<given-names><![CDATA[Barney G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Theoretical Sensitivity]]></source>
+<year>1978</year>
+<publisher-loc><![CDATA[Mill Valley ]]></publisher-loc>
+<publisher-name><![CDATA[Sociology Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HESSE-BIBER]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DUPUIS]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KINDER]]></surname>
+<given-names><![CDATA[T.S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[HyperRESEARCH: a computer program for the analysis of qualitative data with an emphasis on hypothesis testing and multimedia analysis]]></article-title>
+<source><![CDATA[Qualitative Sociology]]></source>
+<year>1991</year>
+<volume>14</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>289-306</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HUBER]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GARCÍA]]></surname>
+<given-names><![CDATA[C. M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Computer assistance for testing hypothesses about qualitative data: The Software Package AQUAD 3.0]]></article-title>
+<source><![CDATA[Qualitative Sociology]]></source>
+<year>1991</year>
+<volume>14</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>325-347</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HUDELSON]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Appendix IV: Resource list of computer programmes for managing and analysing qualitative data]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Hudelson]]></surname>
+</name>
+</person-group>
+<source><![CDATA[Qualitative Research for Health Programmes]]></source>
+<year>1994</year>
+<page-range>99-102</page-range><publisher-loc><![CDATA[Geneva ]]></publisher-loc>
+<publisher-name><![CDATA[WHOMNHPSF]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KELLE]]></surname>
+<given-names><![CDATA[Udo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Computer-aided qualitative data analysis: Theory, methods and practice]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KUCKARTZ]]></surname>
+<given-names><![CDATA[U]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Case-oreinted Quantification]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Kelle]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Computer-aided qualitative data analysis]]></source>
+<year>1995</year>
+<page-range>158-166</page-range><publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MILES]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HUBERMAN]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qualitative data analysis. an expanded sourcebook]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NIGENDA]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La práctica médica y las nociones sobre la Comisión Nacional de Arbitraje Médico en Cuernavaca, Morelos]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORSE]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Emerging from the data: the cognitive processes of analysis in qualitative inquiry]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Morse]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Critical Issues in Qualitative Research Methods]]></source>
+<year>1994</year>
+<page-range>23-43</page-range><publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUÑOZ]]></surname>
+<given-names><![CDATA[J. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análisis cualitativo de datos textuales con ATLAS/ti]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUHR]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[ATLAS/ti: a prototype for the support of text interpretation]]></article-title>
+<source><![CDATA[Qualitative Sociology]]></source>
+<year>1991</year>
+<volume>14</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>349-371</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUHR]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[ATLAS/ti. The knowledge worbench: Short user's manual]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Berlín ]]></publisher-loc>
+<publisher-name><![CDATA[Scientific Software Development]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUHR]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Power to the data: coping the proprietaritiness of qualitative data]]></source>
+<year></year>
+<conf-name><![CDATA[ Forum Qualitative Sozialforshung]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NATERA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORA]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[La teoría fundamentada en el estudio de la familia y las adicciones]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Mercado]]></surname>
+</name>
+<name>
+<surname><![CDATA[Torres]]></surname>
+</name>
+</person-group>
+<source><![CDATA[Análisis cualitativo en salud: Teoría, método y práctica]]></source>
+<year>2000</year>
+<page-range>73-95</page-range><publisher-loc><![CDATA[México ]]></publisher-loc>
+<publisher-name><![CDATA[UdGPlaza y Valdés]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NAVARRO]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DÍAZ]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Análisis de Contenido]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Delgado]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gutiérrez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Métodos y técnicas cualitativas de investigación en Ciencias Sociales]]></source>
+<year>1999</year>
+<page-range>177-224</page-range><publisher-loc><![CDATA[Madrid ]]></publisher-loc>
+<publisher-name><![CDATA[Síntesis]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NIGENDA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALDAMA]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OROZCO]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modelos alternativos de atención a la salud en México: un estudio de su disponibilidad y utilización en dos áreas urbanas del país]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PFAFFENBERGER]]></surname>
+<given-names><![CDATA[B]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Microcomputer applications in qualitative research]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Newbury Park^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA['Hard' results from 'soft' data? Computing and qualitative analysis]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Manchester ]]></publisher-loc>
+<publisher-name><![CDATA[Paper to British Sociological Association]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qualitative computing: promises, problems and implications for research process]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Essex ]]></publisher-loc>
+<publisher-name><![CDATA[Paper to British Sociological Association]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using computers in qualitative research]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Denzin]]></surname>
+</name>
+<name>
+<surname><![CDATA[Lincoln]]></surname>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1994</year>
+<page-range>445-462</page-range><publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using hierarquical categories in qualitative data analysis]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Kelle]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Computer-Aided Qualitative Data Analysis]]></source>
+<year>1995</year>
+<page-range>80-95</page-range><publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Richards]]></surname>
+<given-names><![CDATA[Lyn]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[User's mistake as developer's challenge: designing the new NUD*IST]]></article-title>
+<source><![CDATA[Qualitative Health Research]]></source>
+<year>1997</year>
+<volume>7</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>425-433</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RICHARDS]]></surname>
+<given-names><![CDATA[Lyn]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qualitative computing and Qualitative Sociology: the first decade]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Edimburg ]]></publisher-loc>
+<publisher-name><![CDATA[Paper to British Sociological Association]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RIVERA]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TRIGUEROS]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMACHO]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Yo integro, tu incluyes, nosotros... Un reto difícil]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RODRÍGUEZ]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GIL]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GARCÍA]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Metodología de la investigación cualitativa]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Granada ]]></publisher-loc>
+<publisher-name><![CDATA[Aljibe]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RODRÍGUEZ]]></surname>
+<given-names><![CDATA[P. G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[QSR NUD*IST Guía de Referencia Rápida]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RODRÍGUEZ]]></surname>
+<given-names><![CDATA[P. G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Grupos de discusión sobre metodología de investigación cualitativa asistida por computadora en Ciencias Sociales]]></source>
+<year>1998</year>
+<conf-name><![CDATA[1er Congreso Virtual de Antropología y Arqueología]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SEIDEL]]></surname>
+<given-names><![CDATA[John V]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qualitative data analysis]]></source>
+<year>1998</year>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STRAUSS]]></surname>
+<given-names><![CDATA[Anselm L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qualitative Analysis for Social Scientists]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STRAUSS]]></surname>
+<given-names><![CDATA[Anselm L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CORBIN]]></surname>
+<given-names><![CDATA[Juliet]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Basics of qualitative research: Techniques and procedures for developing grounded theory]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Newbury Park^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STRÜBING]]></surname>
+<given-names><![CDATA[Jörg]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Computer-assited analysis in qualitative social research: A comparison]]></source>
+<year></year>
+<conf-name><![CDATA[ Conference Text Analysis and Computers at ZUMA]]></conf-name>
+<conf-date>1995 September</conf-date>
+<conf-loc>Mannheim </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STRÜBING]]></surname>
+<given-names><![CDATA[Jörg]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Computer tools for Grounded Theory: Introducing ATLAS/ti for Windows 95]]></source>
+<year></year>
+<conf-name><![CDATA[20th Conference of the Gesellschaft für Klassifikation e.V]]></conf-name>
+<conf-date>1996</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TESCH]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qualitative research: analysis types and software tools]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Basingstoke ]]></publisher-loc>
+<publisher-name><![CDATA[Falmer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TESCH]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qualitative Sociology]]></source>
+<year>1991</year>
+<volume>14</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>225-243</page-range></nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TESCH]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Software for qualitative researchers: analysis needs and program capabilities]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Fielding]]></surname>
+</name>
+<name>
+<surname><![CDATA[Lee]]></surname>
+</name>
+</person-group>
+<source><![CDATA[Using Computers in Qualitative Research]]></source>
+<year>1992</year>
+<page-range>16-37</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<source><![CDATA[UISDP Boletín]]></source>
+<year></year>
+<numero>4</numero>
+<issue>4</issue>
+</nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VALLES]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Técnicas cualitativas de investigación social]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Madrid ]]></publisher-loc>
+<publisher-name><![CDATA[Síntesis]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VILLAR]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CABERO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORALES]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARROSO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CABERO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DOMENE]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La utilización de las NN.TT. de la información y comunicación en el desarrollo profesional docente: estudio cualitativo]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WEITZMAN]]></surname>
+<given-names><![CDATA[Eben]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MILES]]></surname>
+<given-names><![CDATA[Matthew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Computer programs for qualitative data analysis]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Thousand Oaks^eCA CA]]></publisher-loc>
+<publisher-name><![CDATA[Sage]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

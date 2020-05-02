@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0104-6276</journal-id>
+<journal-title><![CDATA[Opinião Pública]]></journal-title>
+<abbrev-journal-title><![CDATA[Opin. Publica]]></abbrev-journal-title>
+<issn>0104-6276</issn>
+<publisher>
+<publisher-name><![CDATA[ Centro de Estudos de Opinião Pública da Universidade Estadual de Campinas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0104-62762014000200178</article-id>
+<article-id pub-id-type="doi">10.1590/1807-01912014202178</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Parlamentares, representação política e redes sociais digitais:]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[Francisco Paulo Jamil Almeida]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Aquino]]></surname>
+<given-names><![CDATA[Jakson Alves de]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Miola]]></surname>
+<given-names><![CDATA[Edna]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Instituto de Cultura e Arte Universidade Federal do Ceará  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade Federal do Ceará Departamento de Ciências Sociais ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="Af3">
+<institution><![CDATA[,Universidade Federal de Sergipe Departamento de Comunicação Social ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>08</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>08</month>
+<year>2014</year>
+</pub-date>
+<volume>20</volume>
+<numero>2</numero>
+<fpage>178</fpage>
+<lpage>203</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-62762014000200178&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0104-62762014000200178&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0104-62762014000200178&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O objetivo do artigo é refletir sobre as formas de uso do Twitter por parte dos parlamentares com mandato vigente na Câmara dos Deputados durante a Legislatura 2011-2015. Pretende-se investigar que fatores levam os representantes a investirem no Twitter como parte de sua estratégia de comunicação política. São examinados os perfis públicos dos 463 deputados com registro no microblog. Tais contas foram monitoradas semanalmente (entre fevereiro e julho de 2012), a partir do software de estatística "R". Os resultados apontam correlações entre o uso da ferramenta e atributos como idade e ocupação de cargos de liderança.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The article reflects on how members of the Brazilian House of Representatives use Twitter as part of their political communications strategy. We examine all the 463 official accounts registered on Twitter in order to understand the factors that lead legislators to invest in microblogging. Such accounts were weekly monitored (between February and July 2012) by using the statistical software "R". The results points out correlations between the use of Twitter and attributes like age and occupation of leadership positions.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[internet]]></kwd>
+<kwd lng="pt"><![CDATA[representação]]></kwd>
+<kwd lng="pt"><![CDATA[Câmara dos Deputados]]></kwd>
+<kwd lng="pt"><![CDATA[Twitter]]></kwd>
+<kwd lng="pt"><![CDATA[sites de redes sociais]]></kwd>
+<kwd lng="pt"><![CDATA[comunicação política]]></kwd>
+<kwd lng="en"><![CDATA[internet]]></kwd>
+<kwd lng="en"><![CDATA[representation]]></kwd>
+<kwd lng="en"><![CDATA[House of Representatives]]></kwd>
+<kwd lng="en"><![CDATA[Twitter]]></kwd>
+<kwd lng="en"><![CDATA[social network sites]]></kwd>
+<kwd lng="en"><![CDATA[political communication]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["The personalization of mediated political communication: A review of concepts, operationalizations and key findings"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Aelst]]></surname>
+<given-names><![CDATA[P. V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sheafer]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stanyer]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journalism]]></source>
+<year>2012</year>
+<volume>13</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>p. 203-20</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<article-title xml:lang="pt"><![CDATA[As campanhas políticas no Twitter: uma análise do padrão de comunicação política dos três principais candidatos à presidência do Brasil em 2010]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Aggio]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[IV Encontro da Associação Brasileira dos Pesquisadores em Comunicação e Política]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barber]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Strong Democracy: Participatory Politics for a New Age]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Berkeley ]]></publisher-loc>
+<publisher-name><![CDATA[University of California Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Social network sites: Definition, history, and scholarship"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Boyd]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ellison]]></surname>
+<given-names><![CDATA[N. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Computer-Mediated Communication]]></source>
+<year>2007</year>
+<volume>13</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Braga]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Becher]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Personalização da política e novas tecnologias: balanço do debate e evidências sobre o Brasil]]></source>
+<year>2012</year>
+<conf-name><![CDATA[ 36º Encontro Anual da ANPOCS]]></conf-name>
+<conf-date>2012</conf-date>
+<conf-loc>Águas de Lindoia, São Paulo </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cervi]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Massuchin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Novas mídias e eleições 2010: o uso do Twitter nas campanhas dos candidatos ao governo do Paraná]]></source>
+<year>2010</year>
+<conf-name><![CDATA[ IV Encontro da Associação Brasileira dos Pesquisadores em Comunicação e Política]]></conf-name>
+<conf-date>2011</conf-date>
+<conf-loc>Rio de Janeiro </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<article-title xml:lang="en"><![CDATA[Measuring user influence in Twitter: The million follower fallacy]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cha]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Haddadi]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Benevenuto]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gummadi]]></surname>
+<given-names><![CDATA[K. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[ICWSM ''10: Proceedings of the 4th International AAAI Conference on Weblogs and Social Media]]></source>
+<year>2010</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cintra]]></surname>
+<given-names><![CDATA[A. O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lacombe]]></surname>
+<given-names><![CDATA[M. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A Câmara dos Deputados na Nova República: a visão da Ciência Política]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Avelar]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cintra]]></surname>
+<given-names><![CDATA[A. O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sistema Político Brasileiro: uma introdução]]></source>
+<year>2007</year>
+<page-range>p. 143-82</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Konrad-Adenauer-Stiftung]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["A democratização dos Conselhos de Saúde: o paradoxo de atrair não aliados"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coelho]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Novos Estud. - CEBRAP]]></source>
+<year>2007</year>
+<numero>n&#730;78</numero>
+<issue>n&#730;78</issue>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Exploring New Media Effects on Representative Democracy"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coleman]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Spiller]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Legislative Studies]]></source>
+<year>2003</year>
+<volume>vol.9</volume>
+<numero>n°3</numero>
+<issue>n°3</issue>
+<page-range>p. 1-16</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dahlgren]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sparks]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Communication and Citizenship: Journalism in the Public Sphere]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[London & New York ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Gen.com: Youth, Civic Engagement, and the New Information Environment."]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Delli carpini]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Communication]]></source>
+<year>2000</year>
+<volume>17</volume>
+<page-range>p.341-9</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Druckman]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kifer]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parkin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Technological Development of Candidate Web Sites: How and Why Candidates Use Web Innovations]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Panagopoulos]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Politicking online: the transformation of election campaign communications]]></source>
+<year>2009</year>
+<page-range>p.21-47</page-range><publisher-loc><![CDATA[Piscataway ]]></publisher-loc>
+<publisher-name><![CDATA[University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eisenberg]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cepik]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Internet e Política: teoria e prática da democracia eletrônica]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Editora UFMG]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["From Brochureware to 'MyBo': An Overview of Online Elections and Campaigning"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gibson]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Politics]]></source>
+<year>2012</year>
+<volume>32</volume>
+<page-range>p.77-84</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<article-title xml:lang="en"><![CDATA[A Net gain? Web 2.0 campaign in the Australian 2010 Election]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gibson]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McAllister]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The 2011 Annual Meeting of the American Political Science Association]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Seattle, WA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gomes]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Transformações da política na era da comunicação de massa]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Paulus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gomes]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Audioesfera política e visibilidade pública: os atores políticos no Jornal Nacional]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Gomes]]></surname>
+<given-names><![CDATA[I. M. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Televisão e realidade]]></source>
+<year>2009</year>
+<page-range>p. 175-222</page-range><publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[EDUFBA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["'Politics 2.0': A campanha on-line de Barack Obama em 2008"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gomes]]></surname>
+<given-names><![CDATA[I. M. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fernandes]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reis]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2009</year>
+<volume>vol. 17</volume>
+<numero>n° 34</numero>
+<issue>n° 34</issue>
+<page-range>p. 29-43</page-range><publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Inácio]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estrutura e Funcionamento da Câmara dos Deputados]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Melo]]></surname>
+<given-names><![CDATA[C. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sáez]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Democracia Brasileira: balanço e perspectivas para o século 21]]></source>
+<year>2007</year>
+<page-range>p.199-235</page-range><publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Editora UFMG]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jankowski]]></surname>
+<given-names><![CDATA[N. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Van Os]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Internet-based political discourse: a case study of electronic democracy in Hoogeveen]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Shane]]></surname>
+<given-names><![CDATA[P. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democracy Online: The prospects for political Renewal through the Internet]]></source>
+<year>2003</year>
+<page-range>p.181-94</page-range><publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Bases institucionais do presidencialismo de coalizão"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Limongi]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Lua Nova]]></source>
+<year>1998</year>
+<numero>n° 44</numero>
+<issue>n° 44</issue>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["O imaginário da cibercultura"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lemos]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[São Paulo em perspectiva]]></source>
+<year>1998</year>
+<volume>vol.12</volume>
+<numero>n&#730;4</numero>
+<issue>n&#730;4</issue>
+<page-range>p.46-53</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maarek]]></surname>
+<given-names><![CDATA[P. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Campaign Communication and Political Marketing]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Wiley-Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[eParticipation: The Research Gaps]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Macintosh]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coleman]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schneeberger]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[First International Conference]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Linz, Austria ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maia]]></surname>
+<given-names><![CDATA[R. C. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gomes]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[F. P. J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Internet e Participação Política no Brasil]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Sulina]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Manin]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Principles of Representative Government]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[F. P. J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Participação política e internet: meios e oportunidades digitais de participação civil na democracia contemporânea, com um estudo do caso brasileiro"]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[Universidade Federal da Bahia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Internet e Eleições 2010 no Brasil: Rupturas e continuidades nos padrões mediáticos das campanhas políticas online"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[F. P. J. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sampaio]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Galáxia(São Paulo. online)]]></source>
+<year>2011</year>
+<volume>vol. 22</volume>
+<page-range>p. 208-21</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sampaio]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aggio]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Do Clique à Urna: Internet, redes sociais e eleições no Brasil]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[EDUFBA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Estratégias de Comunicação Política Online: Uma Análise do Perfil de José Serra no Twitter"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sampaio]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aggio]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[F. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Matos]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Contemporanea(UFBA, online)]]></source>
+<year>2011</year>
+<volume>vol. 9</volume>
+<page-range>p. 344-69</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCnair]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An Introduction to Political Communication]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[London & New York ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Os meios de comunicação e a prática política]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Miguel]]></surname>
+<given-names><![CDATA[L. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Lua Nova]]></source>
+<year>2002</year>
+<numero>n° 55-56</numero>
+<issue>n° 55-56</issue>
+<page-range>p.155-84</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["O Gênero do Discurso Parlamentar: Mulheres e Homens na Tribuna da Câmara dos Deputados"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Miguel]]></surname>
+<given-names><![CDATA[L. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Feitosa]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2009</year>
+<volume>vol. 52</volume>
+<numero>n° 1</numero>
+<issue>n° 1</issue>
+<page-range>p. 201-21</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Negrine]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stanyer]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Political Communication Reader]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<collab>OECD</collab>
+<source><![CDATA[Promise and Problems of E-Democracy: Challenges of Citizen On-line Engagement]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[OECD]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pereira]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marona]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pinheiro]]></surname>
+<given-names><![CDATA[P. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fale com o deputado? Uma análise do perfil dos parlamentares em relação à interação virtual com os cidadãos]]></source>
+<year>2011</year>
+<conf-name><![CDATA[ 35 Encontro Anual da ANPOCS]]></conf-name>
+<conf-date>2011</conf-date>
+<conf-loc>Caxambu </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="">
+<source><![CDATA[R Core Team. R: a language and environment for statistical computing]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[Vienna, Austria ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rossetto]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carreiro]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Almada]]></surname>
+<given-names><![CDATA[M. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Twitter e Comunicação Política: limites e possibilidade]]></source>
+<year>2012</year>
+<conf-name><![CDATA[ 8 Encontro da Associação Brasileira de Ciência Política]]></conf-name>
+<conf-date>2012</conf-date>
+<conf-loc>Gramado </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Construção e consolidação de instituições democráticas: papel do orçamento participativo"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Souza]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[São Paulo Perspec.]]></source>
+<year>2001</year>
+<volume>vol.15</volume>
+<numero>n° 4</numero>
+<issue>n° 4</issue>
+<page-range>p.84-97</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stromer-Galley]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Interação online e por que os candidatos a evitam]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[F.P.J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sampaio]]></surname>
+<given-names><![CDATA[R.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aggio]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Do clique à urna: Internet, redes sociais e eleições no Brasil]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[EDUFBA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Verba]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brady]]></surname>
+<given-names><![CDATA[H. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Scholzman]]></surname>
+<given-names><![CDATA[K. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Voice and Equality: Civic Volunteerism in American Politics]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Cambridge, MA ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vita]]></surname>
+<given-names><![CDATA[Á.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Democracia deliberativa ou igualdade eqüitativa de oportunidades?]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Coelho]]></surname>
+<given-names><![CDATA[V. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nobre]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Participação e deliberação: Teoria democrática e experiências institucionais no Brasil contemporâneo]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Editora 34]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wilhelm]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democracy in the Digital Age: Challenges to Political Life in Cyberspace]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

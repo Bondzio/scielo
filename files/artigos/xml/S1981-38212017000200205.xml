@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1981-3821</journal-id>
+<journal-title><![CDATA[Brazilian Political Science Review]]></journal-title>
+<abbrev-journal-title><![CDATA[Bras. Political Sci. Rev.]]></abbrev-journal-title>
+<issn>1981-3821</issn>
+<publisher>
+<publisher-name><![CDATA[Associação Brasileira de Ciência Política]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1981-38212017000200205</article-id>
+<article-id pub-id-type="doi">10.1590/1981-3821201700020004</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Accountability, Corruption and Local Government: Mapping the Control Steps]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Aranha]]></surname>
+<given-names><![CDATA[Ana Luiza Melo]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,University of British Columbia  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Canada</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2017</year>
+</pub-date>
+<volume>11</volume>
+<numero>2</numero>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1981-38212017000200205&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1981-38212017000200205&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1981-38212017000200205&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[The central purpose of this paper is to map out the Brazilian web of accountability institutions and observe how institutions establish links with each other in order to control corruption cases that reach them. Focus is on institutions that are part of the Brazilian anti-corruption agenda, which include the Federal Public Prosecutor's Office, the Federal Police, the Office of the Comptroller General, the Federal Court of Accounts, the Federal Justice and the Ministries. In the literature, the most widespread argument is that, despite recent institutional improvements, the result produced by this web in terms of coordination is still weak. This article tests this claim by looking at the program called 'Inspections from Public Lotteries'. Through a longitudinal approach, I observed the flux of control activities among the institutions, especially the establishment of investigative and judicial proceedings. Not only I explored the extent to which corruption impacts the establishment of interactions, but I also investigated how the interactions affect the speed of judicial proceedings &#8211; using logistic regressions and survival analysis. The conclusion is that the Brazilian web is able to articulate itself in order to hold public officials accountable (something new in this recent democracy), but not in a homogeneous way across all institutions (something the literature has missed). Furthermore, I demonstrate that the entire web of accountability institutions is unable to arrive at a decision in a timely manner.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Accountability]]></kwd>
+<kwd lng="en"><![CDATA[corruption]]></kwd>
+<kwd lng="en"><![CDATA[web of accountability institutions]]></kwd>
+<kwd lng="en"><![CDATA[interactions]]></kwd>
+<kwd lng="en"><![CDATA[Brazil.]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ABRAMO]]></surname>
+<given-names><![CDATA[Claudio Weber]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Percepções pantanosas: a dificuldade de medir a corrupção]]></article-title>
+<source><![CDATA[Novos Estudos CEBRAP]]></source>
+<year>2005</year>
+<numero>73</numero>
+<issue>73</issue>
+<page-range>33-7</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARANTES]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Polícia Federal e construção institucional]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[AVRITZER]]></surname>
+<given-names><![CDATA[Leonardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIGUEIRAS]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corrupção e sistema político no Brasil]]></source>
+<year>2011</year>
+<page-range>99-132</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Civilização Brasileira]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AVRITZER]]></surname>
+<given-names><![CDATA[Leonardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FILGUEIRAS]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Corrupção e controles democráticos no Brasil]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[CUNHA]]></surname>
+<given-names><![CDATA[Alexandre dos Santos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MEDEIROS]]></surname>
+<given-names><![CDATA[Bernardo Abreu de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AQUINO]]></surname>
+<given-names><![CDATA[Luseni Maria C . de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estado, instituições e democracia: república]]></source>
+<year>2010</year>
+<page-range>473-504</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOHN]]></surname>
+<given-names><![CDATA[Simone R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Corruption in Latin America: understanding the perception&#8211;exposure gap]]></article-title>
+<source><![CDATA[Journal of Politics in Latin America]]></source>
+<year>2012</year>
+<volume>04</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>67-95</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[Marília Sá]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANDREOZZI]]></surname>
+<given-names><![CDATA[Valeska Lima]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CODEÇO]]></surname>
+<given-names><![CDATA[Claudia Torres]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[Dayse Pereira]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARBOSA]]></surname>
+<given-names><![CDATA[Maria Tereza Serrano]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHIMAKURA]]></surname>
+<given-names><![CDATA[Silvia Emiko]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de sobrevida: teoria e aplicações em saúde]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Fiocruz]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHAIA]]></surname>
+<given-names><![CDATA[Vera]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[Marco Antonio]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Democracia e escândalos políticos]]></article-title>
+<source><![CDATA[São Paulo em Perspectiva]]></source>
+<year>2001</year>
+<volume>15</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>62-75</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CORRÊA]]></surname>
+<given-names><![CDATA[Izabela]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Sistema de integridade: avanços e agenda de ação para a Administração Pública Federal]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[AVRITZER]]></surname>
+<given-names><![CDATA[Leonardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIGUEIRAS]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corrupção e sistema político no Brasil]]></source>
+<year>2011</year>
+<page-range>163-90</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Civilização Brasileira]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERRAZ]]></surname>
+<given-names><![CDATA[Claudio]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FINAN]]></surname>
+<given-names><![CDATA[Frederico]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Electoral accountability and corruption: evidence from the audits of local governments]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>2011</year>
+<volume>101</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>1274-311</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERRAZ]]></surname>
+<given-names><![CDATA[Claudio]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FINAN]]></surname>
+<given-names><![CDATA[Frederico]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Exposing corrupt politicians: the effects of Brazil's publicly released audits on electoral outcomes]]></article-title>
+<source><![CDATA[The Quarterly Journal of Economics]]></source>
+<year>2008</year>
+<volume>123</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>703-45</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KENNEY]]></surname>
+<given-names><![CDATA[Charles D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Horizontal accountability: concepts and conflicts]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WELNA]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democratic accountability in Latin America]]></source>
+<year>2003</year>
+<page-range>55-75</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOUREIRO]]></surname>
+<given-names><![CDATA[Maria Rita]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[Marco Antonio Carvalho]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORAES]]></surname>
+<given-names><![CDATA[Tiago Cacique]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Democratização e reforma do Estado: o desenvolvimento institucional dos Tribunais de Contas no Brasil recente]]></article-title>
+<source><![CDATA[Revista de Administração Pública]]></source>
+<year>2009</year>
+<volume>43</volume>
+<numero>04</numero>
+<issue>04</issue>
+<page-range>739-72</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOUREIRO]]></surname>
+<given-names><![CDATA[Maria Rita]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Projeto pensando o Direito: coordenação do sistema de controle da administração pública federal]]></article-title>
+<source><![CDATA[Cadernos do Ministério da Justiça]]></source>
+<year>2011</year>
+<volume>33</volume>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Introduction: democratic accountability in Latin America]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WELNA]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democratic accountability in Latin America]]></source>
+<year>2003</year>
+<page-range>03-33</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WELNA]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democratic accountability in Latin America]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MANZETTI]]></surname>
+<given-names><![CDATA[Luigi]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORGENSTERN]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Legislative oversight: interests and institutions in the United States and Argentina]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WELNA]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democratic accountability in Latin America]]></source>
+<year>2003</year>
+<page-range>132-69</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MELO]]></surname>
+<given-names><![CDATA[Marcus André]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[Carlos Maurício]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Political and institutional checks on corruption: explaining the performance of Brazilian audit institutions]]></article-title>
+<source><![CDATA[Comparative Political Studies]]></source>
+<year>2009</year>
+<volume>42</volume>
+<numero>09</numero>
+<issue>09</issue>
+<page-range>1217-44</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORENO]]></surname>
+<given-names><![CDATA[Erika]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CRISP]]></surname>
+<given-names><![CDATA[Brian F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHUGART]]></surname>
+<given-names><![CDATA[Matthew Soberg]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The accountability deficit in Latin American]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WELNA]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democratic accountability in Latin America]]></source>
+<year>2003</year>
+<page-range>79-131</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NYE]]></surname>
+<given-names><![CDATA[Joseph]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Corruption and political development: a cost-benefit analysis]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>1967</year>
+<volume>61</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>417-27</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="">
+<collab>OEA, Organização dos Estados Americanos</collab>
+<source><![CDATA[Final report on implementation in the Federative Republic of Brazil of the convention provision]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[Washington, D.C. ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[O&#8217;DONNELL]]></surname>
+<given-names><![CDATA[Guilhermo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Accountability horizontal: la institucionalización legal de la desconfianza política]]></article-title>
+<source><![CDATA[POSTData]]></source>
+<year>2001</year>
+<numero>07</numero>
+<issue>07</issue>
+<page-range>11-34</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[O'DONNELL]]></surname>
+<given-names><![CDATA[Guilhermo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Accountability horizontal e novas poliarquias]]></article-title>
+<source><![CDATA[Lua Nova]]></source>
+<year>1998</year>
+<numero>44</numero>
+<issue>44</issue>
+<page-range>27-54</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVIERI]]></surname>
+<given-names><![CDATA[Cecília]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Combate à corrupção e controle interno]]></article-title>
+<source><![CDATA[Cadernos Adenauer]]></source>
+<year>2011</year>
+<volume>XII</volume>
+<numero>03</numero>
+<issue>03</issue>
+<page-range>99-109</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PHILP]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Delimiting democratic accountability]]></article-title>
+<source><![CDATA[Political Studies]]></source>
+<year>2009</year>
+<volume>57</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>28-53</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POWER]]></surname>
+<given-names><![CDATA[Timothy J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[Matthew M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corruption and democracy in Brazil: the struggle for accountability]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Notre Dame ]]></publisher-loc>
+<publisher-name><![CDATA[University of Notre Dame Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RIBEIRO]]></surname>
+<given-names><![CDATA[Ludmila]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A produção decisória do sistema de Justiça Criminal para o crime de homicídio: análise dos dados do Estado de São Paulo entre 1991 e 1998]]></article-title>
+<source><![CDATA[DADOS]]></source>
+<year>2010</year>
+<volume>53</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>159-94</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSE-ACKERMAN]]></surname>
+<given-names><![CDATA[Susan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corruption and government: causes, consequences and reform]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SADEK]]></surname>
+<given-names><![CDATA[Maria Tereza]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTILHO]]></surname>
+<given-names><![CDATA[Ela V]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Ministério Público Federal e a Administração da Justiça no Brasil]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Sumaré, Banespa]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SADEK]]></surname>
+<given-names><![CDATA[Maria Tereza]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAVALCANTI]]></surname>
+<given-names><![CDATA[Rosângela]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The new Brazilian public prosecution: an agent of accountability]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WELNA]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Democratic accountability in Latin America]]></source>
+<year>2003</year>
+<page-range>201-27</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTISO]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[), Auditing for accountability? Political economy of government auditing and budget oversight in emerging economies.]]></source>
+<year>2007</year>
+<publisher-name><![CDATA[Postgraduate Program in Philosophy. The Johns Hopkins University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[Romualdo Anselmo dos]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Institucionalizing anti-corruption: a Brazilian case of institutional origin and change]]></source>
+<year>2009</year>
+<conf-name><![CDATA[ World Congress of Political Science]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Santiago, Chile ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHEDLER]]></surname>
+<given-names><![CDATA[Andreas]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DIAMOND]]></surname>
+<given-names><![CDATA[Larry]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PLATTNER]]></surname>
+<given-names><![CDATA[Marc F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The self-restraining state: power and accountability in new democracies]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Boulder ]]></publisher-loc>
+<publisher-name><![CDATA[Lynne Rienner Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SIAVELIS]]></surname>
+<given-names><![CDATA[Peter M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The president and Congress in post-authoritarian Chile: institutional constraints to democratic consolidation]]></source>
+<year>2000</year>
+<publisher-name><![CDATA[University Park: Pennsylvania State University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPECK]]></surname>
+<given-names><![CDATA[Bruno]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Auditing institutions]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[POWER]]></surname>
+<given-names><![CDATA[Timothy]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[Matthew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corruption and democracy in Brazil]]></source>
+<year>2011</year>
+<page-range>127-61</page-range><publisher-name><![CDATA[University of Notre Dame Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPECK]]></surname>
+<given-names><![CDATA[Bruno Wilhelm]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Caminhos da transparência: análise dos componentes de um sistema nacional de integridade]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Unicamp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPECK]]></surname>
+<given-names><![CDATA[Bruno Wilhelm]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Federal Court of audit in Brazil]]></source>
+<year>1999</year>
+<conf-name><![CDATA[ 9th International Anti-Corruption Conference]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Durban, South Africa ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPECK]]></surname>
+<given-names><![CDATA[Bruno Wilhelm]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NAGEL]]></surname>
+<given-names><![CDATA[José]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A fiscalização dos recursos públicos pelos Tribunais de Contas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[SPECK]]></surname>
+<given-names><![CDATA[Bruno Wilhelm]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Caminhos da transparência: análise dos componentes de um sistema nacional de integridade]]></source>
+<year>2002</year>
+<page-range>102-15</page-range><publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Unicamp Campinas: Editora da Unicamp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[Matthew M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Federal Judiciary and Electoral Courts]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[POWER]]></surname>
+<given-names><![CDATA[Timothy J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[Matthew M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corruption and democracy in Brazil: the struggle for accountability]]></source>
+<year>2011</year>
+<page-range>162-83</page-range><publisher-loc><![CDATA[Notre Dame ]]></publisher-loc>
+<publisher-name><![CDATA[University of Notre Dame Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[Matthew M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURANELLI]]></surname>
+<given-names><![CDATA[Vinícius C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Ending up in Pizza: accountability as a problem of institutional arrangement in Brazil]]></article-title>
+<source><![CDATA[Latin American Politics and Society]]></source>
+<year>2007</year>
+<volume>49</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>59-87</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[USLANER]]></surname>
+<given-names><![CDATA[Eric M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corruption, inequality, and the rule of law: the bulging pocket makes the easy life]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WARREN]]></surname>
+<given-names><![CDATA[Mark E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Democracy and the state]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[DRYZEK]]></surname>
+<given-names><![CDATA[John S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HONIG]]></surname>
+<given-names><![CDATA[Bonnie]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PHILLIPS]]></surname>
+<given-names><![CDATA[Anne]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Oxford handbook of political theory.]]></source>
+<year>2006</year>
+<page-range>382-99</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WARREN]]></surname>
+<given-names><![CDATA[Mark E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[What does corruption mean in a democracy?]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2004</year>
+<volume>48</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>328-43</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

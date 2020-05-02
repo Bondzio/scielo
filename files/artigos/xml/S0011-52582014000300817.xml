@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0011-5258</journal-id>
+<journal-title><![CDATA[Dados]]></journal-title>
+<abbrev-journal-title><![CDATA[Dados]]></abbrev-journal-title>
+<issn>0011-5258</issn>
+<publisher>
+<publisher-name><![CDATA[Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ)]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0011-52582014000300817</article-id>
+<article-id pub-id-type="doi">10.1590/00115258201425</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[O Efeito das Emendas ao Orçamento no Comportamento Parlamentar e a Dimensão Temporal: Velhas Teses, Novos Testes]]></article-title>
+<article-title xml:lang="en"><![CDATA[The Effect of Budget Amendments in Parliamentary Behavior and the Temporal Dimension: Old Hypotheses, New Tests]]></article-title>
+<article-title xml:lang="es"><![CDATA[El Efecto de las Enmiendas al Presupuesto en el Comportamiento Parlamentario y su Dimensión Temporal: Viejas Tesis, Nuevos Tests]]></article-title>
+<article-title xml:lang="fr"><![CDATA[L'Effet des Amendements du Budget sur les Comportements au Parlement et la Dimension Temporelle: Vieilles Thèses, Nouveaux Tests]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vasselai]]></surname>
+<given-names><![CDATA[Fabricio]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Mignozzetti]]></surname>
+<given-names><![CDATA[Umberto G.]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade de São Paulo  ]]></institution>
+<addr-line><![CDATA[São Paulo SP]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,New York University  ]]></institution>
+<addr-line><![CDATA[New York ]]></addr-line>
+<country>Estados Unidos</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2014</year>
+</pub-date>
+<volume>57</volume>
+<numero>3</numero>
+<fpage>817</fpage>
+<lpage>853</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0011-52582014000300817&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0011-52582014000300817&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0011-52582014000300817&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este artigo analisa se, entre 1996 e 2010, a execução por parte do Executivo das emendas individuais de deputados federais ao orçamento aproximou esses parlamentares das preferências do governo nas votações nominais. Os argumentos que enxergam componente não partidário, personalista e paroquial no apoio parlamentar ao Executivo inspiram-se na influência dessas emendas. No entanto, tanto sua defesa como sua refutação deixam lacunas importantes que mantêm aberta a questão, pois ou desconsideraram o fator tempo nos testes realizados ou seu tratamento metodológico necessita correções. Buscamos superar esses problemas verificando se a distância entre pontos ideais dos parlamentares e da indicação do líder do governo, em dado ano, é influenciada pelas emendas orçamentárias executadas tanto naquele ano como nos anteriores. Propomos modelar tal defasagem temporal entre emendas e apoio parlamentar, corrigindo autocorrelação serial, controlando por medidas de pertencimento à coalizão e lidando com os inerentes problemas de instrumentalização desses modelos.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[In this article the authors examine whether, between 1996 and 2010, the Executive's execution of individual amendments proposed by federal deputies to the budget was responsible for increasing the proximity between parliamentary votes and government preferences in roll-calls. The possible influence of such amendments is where scholars still search for a non-partisan, personal and parochial component of the Legislative support of the Executive. However, both the usual defense of this idea as well as its refutation have considerable gaps to be filled, leaving the question unresolved as time as a factor was not considered in tests or because their methodological approaches require adjustments. This investigation addresses these problems by verifying whether the distance between the ideal points of congressmen and of the appointments by the government chief whip in a given year are influenced by the execution of the budget amendments made by deputies - on the same year as well as on previous ones. We propose to model the temporal between amendments and legislative support, correcting serial auto-correlation, controlling for the coalition membership and dealing with the inherent problems of instrumentalization that come with these types of models.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[El presente artículo analiza si, entre 1996 y 2010, la ejecución por parte del Ejecutivo de las enmiendas individuales de los diputados al presupuesto federal, acercó los votos de dichos parlamentarios de las preferencias de gobierno en las votaciones nominales. Los argumentos que aún vislumbran un componente no partidista, personalista y parroquial en el apoyo parlamentario al Ejecutivo se inspiran en la influencia de estas enmiendas. Sin embargo, tanto su defensa como su refutación han sido insuficientes, puesto que desconsideran el factor tiempo en los tests realizados o posen un tratamiento metodológico que necesita correcciones. En este texto buscamos superar estos problemas examinando si la distancia entre puntos ideales de los votos de los parlamentarios y de la indicación del líder del gobierno en determinado año es influenciada o no por las enmiendas presupuestarias ejecutadas por el Ejecutivo en el mismo año y anteriores. Proponemos, de este modo, modelar dichos desfasaje temporal entre enmiendas y apoyo parlamentario, corrigiendo la auto-correlación serial, controlando por medidas de pertenencia a la coalición y lidiando con los inherentes problemas de instrumentalización de estos modelos.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="fr"><p><![CDATA[Dans cet article, on examine si, entre 1996 et 2010, l'exécution par le pouvoir exécutif des amendements individuels proposés par des députés fédéraux au budget, a pu rapprocher ces députés des vues du gouvernement au cours des votes nominaux. C'est dans l'ampleur de ces amendements que résident les arguments qui considèrent de caractère non partisan, personnaliste et de clocher, l'appui que des parlementaires offrent au Pouvoir Exécutif. Mais défendre ou attaquer ces amendements laisse la question sans réponse, puisque dans leur méthodologie, soit ils n'ont pas tenu compte du facteur temps, soit leur approche requiert des rectifications. Dans cette recherche, on a traité ces questions en cherchant à rapprocher les dates des votes des parlementaires et de la désignation du dirigeant du gouvernement avec les amendements budgétaires effectués dans la même année ou dans les années précédentes. On propose ici de modeler cet écart temporel entre amendements et appui parlementaire par la correction d'une auto-corrélation séquentielle, par un contrôle au moyen de mesures d'appartenance à la coalition et enfin en affrontant les problèmes inhérents à l'instrumentalisation de ces modèles.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[emendas ao orçamento]]></kwd>
+<kwd lng="pt"><![CDATA[governabilidade]]></kwd>
+<kwd lng="pt"><![CDATA[relações Executivo-Legislativo]]></kwd>
+<kwd lng="en"><![CDATA[budget amendments]]></kwd>
+<kwd lng="en"><![CDATA[governability]]></kwd>
+<kwd lng="en"><![CDATA[Executive-Legislative relations]]></kwd>
+<kwd lng="es"><![CDATA[enmiendas al presupuesto]]></kwd>
+<kwd lng="es"><![CDATA[gobernabilidad]]></kwd>
+<kwd lng="es"><![CDATA[relaciones Ejecutivo-Legislativo]]></kwd>
+<kwd lng="fr"><![CDATA[amendements au budget]]></kwd>
+<kwd lng="fr"><![CDATA[gouvernabilité]]></kwd>
+<kwd lng="fr"><![CDATA[rapports pouvoir exécutif-pouvoir législatif]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALSTON]]></surname>
+<given-names><![CDATA[Lee J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[Bernardo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Coalition Stability and the Gains from Trade between the Executive and the Legislature in Brazil]]></source>
+<year>2001</year>
+<conf-name><![CDATA[ 5ª Conferência Annual da International Society for New Institutional Economics]]></conf-name>
+<conf-date>13-15 de setembro</conf-date>
+<conf-loc>São Francisco </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMES]]></surname>
+<given-names><![CDATA[Barry]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Deadlock of Democracy in Brazil]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Ann Arbor ]]></publisher-loc>
+<publisher-name><![CDATA[University of Michigan Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Formação de Gabinetes Presidenciais no Brasil: Coalizão versus Cooptação]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMORIM NETO]]></surname>
+<given-names><![CDATA[Octavio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Nova Economia]]></source>
+<year>1994</year>
+<volume>4</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>9-34</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<source><![CDATA[Of Presidents, Parties, and Ministers: Cabinet Formation and Legislative Decision-making under Separation of Powers]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[San Diego ]]></publisher-loc>
+<publisher-name><![CDATA[University of California]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Gabinetes Presidenciais, Ciclos Eleitorais e Disciplina Legislativa no Brasil]]></article-title>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2000</year>
+<volume>43</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>479-519</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[O Segredo Ineficiente Revisto: O que Propõem e o que Aprovam os Deputados Brasileiros]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[Fabiano]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2003</year>
+<volume>46</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>661-98</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Estimation of Dynamic Models with Error Components]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANDERSON]]></surname>
+<given-names><![CDATA[Theodore W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HSIAO]]></surname>
+<given-names><![CDATA[Cheng]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>1981</year>
+<volume>76</volume>
+<numero>375</numero>
+<issue>375</issue>
+<page-range>598-606</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARELLANO]]></surname>
+<given-names><![CDATA[Manuel]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BOND]]></surname>
+<given-names><![CDATA[Stephen]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Review of Economic Studies]]></source>
+<year>1991</year>
+<volume>58</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>277-97</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Initial Conditions and Moment Restrictions in Dynamic Panel Data Models]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLUNDELL]]></surname>
+<given-names><![CDATA[Richard]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BOND]]></surname>
+<given-names><![CDATA[Stephen]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>1998</year>
+<volume>87</volume>
+<page-range>115-43</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<collab>BRASIL</collab>
+<source><![CDATA[Constituição da República Federativa do Brasil]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Centro de Documentação e Informação da Câmara dos Deputados]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHEIBUB]]></surname>
+<given-names><![CDATA[José A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMARGOS]]></surname>
+<given-names><![CDATA[Malco]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Electoral Strategies and Electoral Success in an Open-PR System]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Yale ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[The Impact of Electoral Rules on Legislative Parties: Lessons from the Brazilian Senate and Chamber of Deputies]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DESPOSATO]]></surname>
+<given-names><![CDATA[Scott W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>2006</year>
+<volume>68</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1015-27</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Bases Institucionais do Presidencialismo de Coalizão]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[Argelina]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMONGI]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Lua Nova]]></source>
+<year>1998</year>
+<numero>44</numero>
+<issue>44</issue>
+<page-range>81-106</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<source><![CDATA[Executivo e Legislativo na Nova Ordem Constitucional]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Incentivos Eleitorais, Partidos e Política Orçamentária]]></article-title>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2002</year>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>303-44</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Processo Orçamentário e Comportamento Legislativo: Emendas Individuais, Apoio ao Executivo e Programas de Governo]]></article-title>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2005</year>
+<volume>48</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>737-76</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<source><![CDATA[Política Orçamentária no Presidencialismo de Coalizão]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREITAS]]></surname>
+<given-names><![CDATA[Andréa M de.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Migrações Partidárias na Câmara dos Deputados]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Departamento de Ciência Política, Universidade de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAMOUNIER]]></surname>
+<given-names><![CDATA[Bolívar]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["A Democracia Brasileira de 1985 à Década de 1990: A Síndrome da Paralisia Hiperativa"]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Velloso]]></surname>
+<given-names><![CDATA[J. P. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Governabilidade, Sistema Político e Violência Urbana]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[José Olympio]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Ideologia, Democracia e Comportamento Parlamentar: A Câmara dos Deputados (1991-1998)]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEONI]]></surname>
+<given-names><![CDATA[Eduardo L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2002</year>
+<volume>45</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>361-86</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIMONGI]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FREITAS]]></surname>
+<given-names><![CDATA[Andréa M de.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Migração Partidária e Comportamento Legislativo]]></source>
+<year>2005</year>
+<conf-name><![CDATA[ 29º Encontro Anual da Anpocs]]></conf-name>
+<conf-loc>Caxambu, MG </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Politicians, Parties and Electoral Systems: Brazil in Comparative Perspective]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparative Politics]]></source>
+<year>1991</year>
+<volume>24</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>21-43</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENEGUELLO]]></surname>
+<given-names><![CDATA[Rachel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Partidos e Governos no Brasil Contemporâneo: 1985-1997]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Paz e Terra]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MESQUITA]]></surname>
+<given-names><![CDATA[Lara]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Emendas ao Orçamento e Conexão Eleitoral na Câmara dos Deputados Brasileira]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Departamento de Ciência Política, Universidade de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Disciplina Partidária e Base Parlamentar na Câmara dos Deputados no Primeiro Governo Fernando Henrique Cardoso: 1995-1998]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NICOLAU]]></surname>
+<given-names><![CDATA[Jairo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2000</year>
+<volume>43</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>709-35</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Comportamento Estratégico em Presidencialismo de Coalizão: As Relações entre Executivo e Legislativo na Elaboração do Orçamento Brasileiro]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[Bernardo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2002</year>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>265-301</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Partidos Fracos na Arena Eleitoral e Partidos Fortes na Arena Legislativa: A Conexão Eleitoral no Brasil]]></article-title>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2003</year>
+<volume>46</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>735-71</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Hybrid Political Institutions and Governability: The Budgetary Process in Brazil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ORELLANA]]></surname>
+<given-names><![CDATA[Salomon]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Politics in Latin America]]></source>
+<year>2009</year>
+<volume>1</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>57-79</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[O que é que o Reeleito Tem? Dinâmicas Político-institucionais Locais e Nacionais nas Eleições de 1998 para a Câmara dos Deputados]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RENNÓ]]></surname>
+<given-names><![CDATA[Lucio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2001</year>
+<volume>44</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>133-72</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[O que é que o Reeleito Tem? O Retorno: O Esboço de uma Teoria da Reeleição no Brasil]]></article-title>
+<source><![CDATA[Revista de Economia Política]]></source>
+<year>2007</year>
+<volume>108</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>664-83</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<article-title xml:lang="pt"><![CDATA[Conversão Institucional: O Caso da Comissão Mista de Orçamento]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRAÇA]]></surname>
+<given-names><![CDATA[Sérgio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Corrupção e Reforma Orçamentária no Brasil, 1987-2008]]></source>
+<year>2013</year>
+<page-range>159-206</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Annablume]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Trend Estimators and Serial Correlation]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRAIS]]></surname>
+<given-names><![CDATA[S. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WINSTEN]]></surname>
+<given-names><![CDATA[C. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cowles Commission Discussion Paper: Statistics]]></source>
+<year>1954</year>
+<numero>383</numero>
+<issue>383</issue>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[The Executive Toolbox: Building Legislative Support in a Multiparty Presidential Regime]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAILE]]></surname>
+<given-names><![CDATA[Eric]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[POWER]]></surname>
+<given-names><![CDATA[Timothy J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Research Quarterly]]></source>
+<year>2011</year>
+<volume>64</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>323-34</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[O Conteúdo da Produção Legislativa Brasileira: Leis Nacionais ou Políticas Paroquiais?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RICCI]]></surname>
+<given-names><![CDATA[Paolo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS - Revista de Ciências Sociais]]></source>
+<year>2003</year>
+<volume>46</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>699-734</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[Fabiano]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Poder Legislativo no Presidencialismo de Coalizão]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Editora UFMG]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Nomeações Ministeriais e Importância Partidária na Democracia de 1946-64: Análises Comparativas em relação à Democracia Atual]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VASSELAI]]></surname>
+<given-names><![CDATA[Fabricio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Perspectivas]]></source>
+<year>2009</year>
+<volume>35</volume>
+<page-range>173-210</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WOOLDRIDGE]]></surname>
+<given-names><![CDATA[Jeffrey M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric Analysis of Cross Section and Panel Data]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Cambridge, MA ]]></publisher-loc>
+<publisher-name><![CDATA[The MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[Ideology or What? Legislative Behavior in Multiparty Presidential Settings]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZUCCO Jr.]]></surname>
+<given-names><![CDATA[Cesar]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>2009</year>
+<volume>71</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>1076-92</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

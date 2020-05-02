@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0104-6276</journal-id>
+<journal-title><![CDATA[Opinião Pública]]></journal-title>
+<abbrev-journal-title><![CDATA[Opin. Publica]]></abbrev-journal-title>
+<issn>0104-6276</issn>
+<publisher>
+<publisher-name><![CDATA[ Centro de Estudos de Opinião Pública da Universidade Estadual de Campinas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0104-62762017000300754</article-id>
+<article-id pub-id-type="doi">10.1590/1807-01912017233754</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Relação entre propaganda, dinheiro e avaliação de governo no desempenho de candidatos em eleições majoritárias no Brasil]]></article-title>
+<article-title xml:lang="en"><![CDATA[Relation between electoral advertising, money and government evaluation in the performance of candidates in the majority elections in Brazil]]></article-title>
+<article-title xml:lang="es"><![CDATA[Relación entre propaganda electoral, dinero y evaluación de gobierno en el desempeño de candidatos en elecciones mayoritarias en Brasil]]></article-title>
+<article-title xml:lang="fr"><![CDATA[Relation entre la propagande électorale, l'argent et l'évaluation du gouvernement dans la performance des candidats aux élections majoritaires au Brésil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Borba]]></surname>
+<given-names><![CDATA[Felipe]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Cervi]]></surname>
+<given-names><![CDATA[Emerson Urizzi]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal do Estado do Rio de Janeiro Departamento de Estudos Políticos ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade Federal do Paraná Departamento de Ciência Política ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2017</year>
+</pub-date>
+<volume>23</volume>
+<numero>3</numero>
+<fpage>754</fpage>
+<lpage>785</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-62762017000300754&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0104-62762017000300754&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0104-62762017000300754&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo O objeto do artigo é a análise do desempenho eleitoral de 1.281 candidatos que disputaram eleições para presidente, governadores e prefeitos de capitais entre 2002 e 2014 no Brasil. Para tanto, utilizamos um conjunto de variáveis em um modelo de regressão linear múltipla com o objetivo de descrever os efeitos conjuntos do tempo de Horário Gratuito de Propaganda Eleitoral, dos gastos de campanha e da avaliação de governo sobre o desempenho dos candidatos. Os resultados mostram que dependendo do tipo de candidato, há maior impacto de uma ou outra variável. Por exemplo, o tempo de HGPE mostra-se mais importante para explicar o voto em candidatos de oposição, enquanto a avaliação positiva do governo é a variável preditiva mais forte para as votações de concorrentes à reeleição. A hipótese de que diferentes tipos de candidatos apresentam distintos comportamentos é comprovada. Com isso, esperamos contribuir para as pesquisas sobre eleições no Brasil mostrando a importância de distinguir concorrentes à reeleição de governistas e dos candidatos de oposição.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract This article presents an analysis of the electoral performance of 1,281 candidates who disputed elections for president, governors and mayor of capitals between 2002 and 2014 in Brazil. To do so, we used a set of variables in a multiple linear regression model to describe the combined effects of electoral advertising, campaign spending, and government evaluation of candidate performance. The results show that the impact of the variables will depend on the type of candidate. For example, electoral advertising more effectively explains votes for opposition candidates, while positive government evaluations are the strongest predictive variable for re-election candidates. With this, we hope to contribute to the literature on elections in Brazil, showing the importance of distinguishing between incumbents seeking re-election from opposition candidates.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[Resumen El tema de este artículo es el análisis del desempeño electoral de 1281 candidatos que disputaron elecciones para presidente, gobernadores y alcalde de capitales de estados entre 2002 y 2014 en Brasil. Para eso, utilizamos un conjunto de variables en un modelo de regresión lineal múltiple, con el objetivo de describir los efectos conjuntos del tiempo de publicidad electoral, de los gastos de campaña y de la evaluación del gobierno sobre el desempeño de los candidatos. Los resultados muestran que en función del perfil de candidato hay más impacto de una u otra variable. Por ejemplo, el tiempo de publicidad electoral se muestra más importante para explicar el voto en candidatos de oposición, mientras la evaluación positiva del gobierno es la variable predecible más fuerte para las votaciones de candidatos a la reelección. Es comprobada la hipótesis de que diferentes tipos de candidatos presentan distintos comportamientos. Con eso, esperamos contribuir para las investigaciones sobre elecciones en Brasil apuntando la importancia de distinguir entre los candidatos a reelección, los gubernistas, y los candidatos de oposición.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="fr"><p><![CDATA[Résumé L&#8217;objet de cet article est l'analyse de la performance électorale des 1281 candidats qui ont participé aux élections présidentielles, des gouvernements locaux et des maires des capitales entre 2002 et 2014 au Brésil. Pour cela, nous utilisons un ensemble de variables dans un modèle de régression linéaire multiple afin de montrer les effets combinés du temps de publicité électorale, des dépenses de campagne et de l'évaluation du gouvernement sur la performance des candidats. Les résultats montrent, selon le type de candidat, qu´une des variables utilisées a un impact plus important. Par exemple, le temps de publicité électorale est plus important pour expliquer le vote des candidats de l'opposition, alors que l'évaluation positive du gouvernement est la variable prédictive la plus forte pour les votes des concurrents à la réélection. L'hypothèse selon laquelle différents types de candidats ont des comportements différents est, pourtant, prouvée. Ainsi, avec cette contribution, nous espérons élargir les études sur les élections au Brésil en montrant, dans le cas analysé, l'importance de faire une distinction entre les concurrents à la réélection de candidats pro-gouvernementaux et ceux de l'opposition.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[eleições]]></kwd>
+<kwd lng="pt"><![CDATA[propaganda eleitoral]]></kwd>
+<kwd lng="pt"><![CDATA[financiamento de campanha]]></kwd>
+<kwd lng="pt"><![CDATA[avaliação de governo]]></kwd>
+<kwd lng="pt"><![CDATA[reeleição]]></kwd>
+<kwd lng="en"><![CDATA[elections]]></kwd>
+<kwd lng="en"><![CDATA[electoral advertising]]></kwd>
+<kwd lng="en"><![CDATA[campaign financing]]></kwd>
+<kwd lng="en"><![CDATA[government evaluation]]></kwd>
+<kwd lng="en"><![CDATA[reelection]]></kwd>
+<kwd lng="es"><![CDATA[elecciones]]></kwd>
+<kwd lng="es"><![CDATA[propaganda electoral]]></kwd>
+<kwd lng="es"><![CDATA[financiamiento de campañas]]></kwd>
+<kwd lng="es"><![CDATA[evaluación del gobierno]]></kwd>
+<kwd lng="es"><![CDATA[la reelección]]></kwd>
+<kwd lng="fr"><![CDATA[élections]]></kwd>
+<kwd lng="fr"><![CDATA[propagande électorale]]></kwd>
+<kwd lng="fr"><![CDATA[le financement de la campagne]]></kwd>
+<kwd lng="fr"><![CDATA[l'évaluation du gouvernement]]></kwd>
+<kwd lng="fr"><![CDATA[réélection]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Agra]]></surname>
+<given-names><![CDATA[W. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento de campanha e prestação de contas]]></article-title>
+<source><![CDATA[Revista Estudos Eleitorais]]></source>
+<year>2010</year>
+<volume>5</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>9-24</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Almeida]]></surname>
+<given-names><![CDATA[N. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento de partidos e campanhas no mundo]]></article-title>
+<source><![CDATA[Paraná Eleitoral]]></source>
+<year>2001</year>
+<numero>39</numero>
+<issue>39</issue>
+<page-range>31-8</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Araújo]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silotto]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cunha]]></surname>
+<given-names><![CDATA[L. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Capital político e financiamento eleitoral no Brasil: uma análise empírica da estratégia das empresas na alocação de recursos de campanha]]></article-title>
+<source><![CDATA[Teoria &amp; Sociedade]]></source>
+<year>2015</year>
+<volume>23</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>126-57</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barreto]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Reeleição de prefeitos no Brasil do período de 1996 a 2008]]></article-title>
+<source><![CDATA[Debates]]></source>
+<year>2009</year>
+<volume>3</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>97-115</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Biezen]]></surname>
+<given-names><![CDATA[I. V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kopecky]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The State and the parties: public funding, public regulation and rent-seeking in contemporary democracies&#8221;]]></article-title>
+<source><![CDATA[Party Politics]]></source>
+<year>2007</year>
+<volume>13</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>235-54</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Borba]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Quanto vale o voto da TV?]]></article-title>
+<source><![CDATA[Insight Inteligência]]></source>
+<year>2014</year>
+<volume>64</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>101-14</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Borba]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vasconcellos]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A propaganda negativa nas eleições municipais do Rio de Janeiro e de São Paulo]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Lavareda]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Telles]]></surname>
+<given-names><![CDATA[H. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Como o eleitor escolhe seu prefeito: campanha e voto nas eleições municipais]]></source>
+<year>2016</year>
+<page-range>307-44</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Editora FGV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Borba]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Veiga]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martins]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Propaganda negativa na eleição presidencial de 2014. Ou como tudo que é frágil se desmancha no ar]]></article-title>
+<source><![CDATA[Revista Estudos Políticos]]></source>
+<year>2015</year>
+<volume>6</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>182-200</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bourdoukan]]></surname>
+<given-names><![CDATA[A. Y.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Financiamento político em perspectiva comparada]]></source>
+<year>2008</year>
+<conf-name><![CDATA[ Anais do 6º Encontro da ABCP]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Braga]]></surname>
+<given-names><![CDATA[M. S. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bourdoukan]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Partidos políticos no Brasil: organização partidária, competição eleitoral e financiamento público&#8221;]]></article-title>
+<source><![CDATA[Perspectivas]]></source>
+<year>2009</year>
+<volume>35</volume>
+<page-range>117-48</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Brambor]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ceneviva]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Reeleição e continuísmo nos municípios brasileiros&#8221;]]></article-title>
+<source><![CDATA[Novos Estudos]]></source>
+<year>2012</year>
+<volume>93</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>9-31</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Camargos]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Do bolso para as urnas. A influência da economia na escolha entre Fernando Henrique e Lula]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Universitário de Pesquisas do Rio de Janeiro]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cardoso]]></surname>
+<given-names><![CDATA[F. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lamounier]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os partidos e as eleições no Brasil]]></source>
+<year>1975</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Paz e Terra]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carneiro]]></surname>
+<given-names><![CDATA[L. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schmitt]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Eleições casadas, resultados nem sempre solteiros: campanhas proporcionais e imagem partidária no Horário Gratuito de Propaganda Eleitoral]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>1995</year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>45-59</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carreirão]]></surname>
+<given-names><![CDATA[Y]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A decisão de voto nas eleições presidenciais brasileiras]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Editora FGV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carrillo]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dinero y contienda político-electoral]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[México ]]></publisher-loc>
+<publisher-name><![CDATA[Fondo de Cultura Económica]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Castro]]></surname>
+<given-names><![CDATA[M. M. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Determinantes do comportamento eleitoral: a centralidade da sofisticação política]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Universitário de Pesquisas do Rio de Janeiro]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cerqueira]]></surname>
+<given-names><![CDATA[T. T. P. L. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Direito eleitoral brasileiro: o Ministério Público Eleitoral, as eleições em face das leis 9.504/97, 9.840/99, 10.732/03, 10.740/03 e 10.792/03, EC 35/01 (imunidade parlamentar e restrições)]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Del Rey]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cervi]]></surname>
+<given-names><![CDATA[E. U.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento de campanha e desempenho eleitoral no Brasil: análise das contribuições de pessoas jurídicas, físicas e partidos políticos às eleições de 2008 nas capitais de estado]]></article-title>
+<source><![CDATA[Revista Brasileira de Ciência Política]]></source>
+<year>2010</year>
+<volume>2</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>135-67</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cervi]]></surname>
+<given-names><![CDATA[E. U.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento político e eleitoral no Brasil: das abordagens acadêmicas às aplicações práticas, o papel do dinheiro na democracia representativa]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Bonifácio]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Casalecchi]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Deus]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O voto para presidente no Brasil: de 1989 a 2010, condicionantes e fatores explicativos]]></source>
+<year>2014</year>
+<page-range>53-92</page-range><publisher-loc><![CDATA[Teresina ]]></publisher-loc>
+<publisher-name><![CDATA[Edufpi]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cervi]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Speck]]></surname>
+<given-names><![CDATA[B]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Dinheiro, tempo e memória eleitoral: os mecanismos que levam ao voto nas eleições para prefeito em 2012&#8221;]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>2016</year>
+<volume>59</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>53-90</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Codato]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cervi]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Perissinotto]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Quem se elege prefeito no Brasil? Condicionantes do sucesso eleitoral em 2012]]></article-title>
+<source><![CDATA[Cadernos Adenauer]]></source>
+<year>2013</year>
+<volume>14</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>61-84</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coimbra]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Quem se importa com o horário eleitoral?]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Marketing político em tempos modernos]]></source>
+<year>2008</year>
+<page-range>87-109</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação Konrad Adenauer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Comstock]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Scharrer]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The psychology of media and politics]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[California ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Conceição]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vasconcelos]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Quem paga a conta dos políticos locais? Análise do financiamento das campanhas municipais nas capitais brasileiras em 2012]]></article-title>
+<source><![CDATA[Teoria &amp; Sociedade]]></source>
+<year>2015</year>
+<volume>23</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>79-102</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dalton]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wattenberg]]></surname>
+<given-names><![CDATA[M. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Parties without partisans: political change in advanced industrial democracies]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Deliberador]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Komata]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Reeleição nas eleições municipais de 2008]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Caggiano]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comportamento eleitoral]]></source>
+<year>2010</year>
+<page-range>63-90</page-range><publisher-loc><![CDATA[Barueri ]]></publisher-loc>
+<publisher-name><![CDATA[Manole]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Farrell]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schmitt-Beck]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Do political campaigns matter? Campaign effects in elections and referendums]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fernandes]]></surname>
+<given-names><![CDATA[L. M. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Minirreforma eleitoral: considerações sobre a Lei n. 11.300, de 10/05/2006, nas prestações de contas das campanhas eleitorais&#8221;]]></article-title>
+<source><![CDATA[Revista do TRE-TO]]></source>
+<year>2007</year>
+<volume>1</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>21-8</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[L. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[O financiamento de partidos políticos e de campanhas eleitorais no contexto da reforma política]]></article-title>
+<source><![CDATA[Estudos Eleitorais]]></source>
+<year>2011</year>
+<volume>6</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>91-110</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[O. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Comportamento eleitoral em São Paulo]]></article-title>
+<source><![CDATA[Revista Brasileira de Estudos Políticos]]></source>
+<year>1960</year>
+<volume>8</volume>
+<page-range>162-228</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Figueiredo Filho]]></surname>
+<given-names><![CDATA[D. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[&#8220;O elo corporativo? Grupos de interesse, financiamento de campanha e regulação eleitoral&#8221;]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Recife ]]></publisher-loc>
+<publisher-name><![CDATA[Universidade Federal de Pernambuco]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Intenção de voto e propaganda política: efeitos da propaganda eleitoral&#8221;]]></article-title>
+<source><![CDATA[Logos: Comunicação &amp; Universidade]]></source>
+<year>2007</year>
+<volume>14</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>9-20</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Figueiredo]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coutinho]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A eleição de 2002&#8221;]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2003</year>
+<volume>9</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>93-117</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fischer]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Eisenstadt]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Introduction: comparative party finance]]></article-title>
+<source><![CDATA[Party Politics Review]]></source>
+<year>2004</year>
+<volume>10</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>619-26</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Heiler]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[&#8220;Democracia: o jogo das incertezas x financiamento de campanhas: uma análise das prestações de contas das campanhas de vereadores de SC&#8221;]]></source>
+<year>2011</year>
+<conf-name><![CDATA[ Anais do 35º Encontro Anual da Anpocs]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Caxambu ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Holbrook]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Campaign, national condition, and U.S. presidential elections&#8221;]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>1994</year>
+<volume>38</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>973</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Holbrook]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Do campaigns matter?]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Sage Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hopkin]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The problem with party finance: theoretical perspectives on the funding of party politics&#8221;]]></article-title>
+<source><![CDATA[Party Politics]]></source>
+<year>2004</year>
+<volume>10</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>627-51</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jones]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[State public campaign finance: implications for partisan politics&#8221;]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>1981</year>
+<volume>25</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>342</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Katz]]></surname>
+<given-names><![CDATA[R. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mair]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Changing models of party organization and party democracy: the emergence of the cartel party&#8221;]]></article-title>
+<source><![CDATA[Party Politics]]></source>
+<year>1995</year>
+<volume>1</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>5-28</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kuschnir]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carneiro]]></surname>
+<given-names><![CDATA[L. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schmitt]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A campanha eleitoral na TV em eleições locais: estratégias e resultados]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Barreira]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Palmeira]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Candidatos e candidaturas: enredos de campanha eleitoral no Brasil]]></source>
+<year>1998</year>
+<page-range>58-90</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Annablume]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lemos]]></surname>
+<given-names><![CDATA[L. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marcelino]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pederiva]]></surname>
+<given-names><![CDATA[J. H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Porque dinheiro importa: a dinâmica das contribuições eleitorais para o Congresso Nacional em 2002 e 2006&#8221;]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2010</year>
+<volume>16</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>366-93</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lima]]></surname>
+<given-names><![CDATA[E. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Financiamento público exclusivo de campanhas eleitorais no Brasil&#8221;]]></article-title>
+<source><![CDATA[Jus Navigandi]]></source>
+<year>2009</year>
+<volume>14</volume>
+<numero>2.090</numero>
+<issue>2.090</issue>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lima]]></surname>
+<given-names><![CDATA[S. M. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;O controle jurídico da movimentação de recursos nas campanhas eleitorais: uma preocupação mundial&#8221;]]></article-title>
+<source><![CDATA[Revista do Tribunal Regional Eleitoral de Pernambuco]]></source>
+<year>2004</year>
+<volume>5</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>29-46</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lourenço]]></surname>
+<given-names><![CDATA[L. C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Propaganda negativa: ataque versus votos nas eleições presidenciais de 2002&#8221;]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2009</year>
+<volume>15</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>133-58</page-range></nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mancuso]]></surname>
+<given-names><![CDATA[W. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Empresas e financiamento de campanhas eleitorais de candidatos a deputado federal pelo estado de São Paulo nas eleições de 2002 e 2006]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Dalla Costa]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desenvolvimento e crise na América Latina: Estado, empresas e sociedade]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+<publisher-name><![CDATA[CRV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mancuso]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Speck]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento empresarial na eleição para deputado federal (2002-2010): determinantes e consequências&#8221;]]></article-title>
+<source><![CDATA[Teoria &amp; Sociedade]]></source>
+<year>2015</year>
+<volume>23</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>103-25</page-range></nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mann]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;El sistema de financiamiento de campañas en Estados Unidos bajo estúdio: problemas y perspectivas de cambio&#8221;]]></article-title>
+<source><![CDATA[Revista Ciencia Politica]]></source>
+<year>1999</year>
+<volume>20</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>61-84</page-range></nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Marinho]]></surname>
+<given-names><![CDATA[S. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Participações societárias e fontes de financiamento de campanha vedadas pela legislação eleitoral&#8221;.]]></article-title>
+<source><![CDATA[Revista do Tribunal Regional Eleitoral do Pará]]></source>
+<year>2010</year>
+<volume>1</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>31-4</page-range></nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McAllister]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Calculating or capricious? The new politics of late deciding voters]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Farrell]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schmitt-Beck]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Do political campaigns matter? Campaign effects in elections and referendums]]></source>
+<year>2002</year>
+<page-range>22-40</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McAllister]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hayes]]></surname>
+<given-names><![CDATA[B]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Marketing Politics to voters: late deciders in the 1992 British election&#8221;]]></article-title>
+<source><![CDATA[European Journal of Marketing]]></source>
+<year>1996</year>
+<volume>30</volume>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>127-39</page-range></nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mendes]]></surname>
+<given-names><![CDATA[A. M. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Venturi]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Eleição presidencial: o Plano Real na sucessão de Itamar Franco]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>1994</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>59-72</page-range></nlm-citation>
+</ref>
+<ref id="B54">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Miguel]]></surname>
+<given-names><![CDATA[L. F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Discursos cruzados: telenoticiários, HPEG e a construção da agenda eleitoral&#8221;]]></article-title>
+<source><![CDATA[Sociologias]]></source>
+<year>2004</year>
+<volume>6</volume>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>238-58</page-range></nlm-citation>
+</ref>
+<ref id="B55">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mota]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamentos de partidos nas campanhas eleitorais: receitas e limites de gastos. Legislação eleitoral pertinente]]></article-title>
+<source><![CDATA[Suffragium]]></source>
+<year>2002</year>
+<volume>23</volume>
+<numero>256</numero>
+<issue>256</issue>
+<page-range>35-8</page-range></nlm-citation>
+</ref>
+<ref id="B56">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mundim]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Um modelo para medir os efeitos da cobertura da imprensa no voto: teste nas eleições de 2002 e 2006&#8221;]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2010</year>
+<volume>16</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>394-425</page-range></nlm-citation>
+</ref>
+<ref id="B57">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mundim]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Imprensa e voto nas eleições presidenciais brasileiras de 2002 e 2006&#8221;]]></article-title>
+<source><![CDATA[Sociologia &amp; Política]]></source>
+<year>2012</year>
+<volume>20</volume>
+<numero>41</numero>
+<issue>41</issue>
+<page-range>123-47</page-range></nlm-citation>
+</ref>
+<ref id="B58">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peixoto]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modelos de financiamento de campanhas e accountability: uma análise comparativa e um teste de hipótese]]></source>
+<year>2005</year>
+<conf-name><![CDATA[ Anais do XXIX Encontro Anual da Anpocs]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Caxambu ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B59">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peixoto]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Eleições e financiamento de campanhas no Brasil]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Universitário de Pesquisas do Rio de Janeiro]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B60">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peixoto]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento de campanhas nas eleições legislativas brasileiras em 2010]]></article-title>
+<source><![CDATA[Em Debate]]></source>
+<year>2014</year>
+<volume>6</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>36-54</page-range></nlm-citation>
+</ref>
+<ref id="B61">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peixoto]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Mobilidade social ascendente e voto: as eleições presidenciais de 2010 no Brasil&#8221;]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2011</year>
+<volume>17</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>304-32</page-range></nlm-citation>
+</ref>
+<ref id="B62">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pereira]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[O que é que o reeleito tem? Dinâmicas político-institucionais locais e nacionais nas eleições de 1998 para a Câmara dos Deputados&#8221;]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>2001</year>
+<volume>44</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>133-72</page-range></nlm-citation>
+</ref>
+<ref id="B63">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pereira]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[O que é que o reeleito tem? O retorno: o esboço de uma teoria da reeleição no Brasil&#8221;]]></article-title>
+<source><![CDATA[Revista de Economia Política]]></source>
+<year>2007</year>
+<volume>27</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>664-83</page-range></nlm-citation>
+</ref>
+<ref id="B64">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pinto-Duschinsky]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financing politics: a global view&#8221;]]></article-title>
+<source><![CDATA[Journal of Democracy]]></source>
+<year>2002</year>
+<volume>13</volume>
+<numero>4</numero>
+<issue>4</issue>
+</nlm-citation>
+</ref>
+<ref id="B65">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Reis]]></surname>
+<given-names><![CDATA[F. W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os partidos e o regime: a lógica do processo eleitoral brasileiro]]></source>
+<year>1978</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Símbolo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B66">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cabello]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A volta do personalismo, realinhamento ideológico ou não alinhamento?]]></article-title>
+<source><![CDATA[Revista Brasileira de Ciências Sociais]]></source>
+<year>2010</year>
+<volume>24</volume>
+<numero>74</numero>
+<issue>74</issue>
+<page-range>39-61</page-range></nlm-citation>
+</ref>
+<ref id="B67">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Spanakos]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Fundamentos da economia, mercado financeiro e intenção de voto: as eleições presidenciais de 1994, 1998 e 2002]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>2006</year>
+<volume>49</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>11-40</page-range></nlm-citation>
+</ref>
+<ref id="B68">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rosen]]></surname>
+<given-names><![CDATA[R. S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[State public campaign finance: implications for partisan politics&#8221;]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>1981</year>
+<volume>25</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>342-60</page-range></nlm-citation>
+</ref>
+<ref id="B69">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rubio]]></surname>
+<given-names><![CDATA[D. F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento de partidos e campanhas: fundos públicos versus fundos privados&#8221;]]></article-title>
+<source><![CDATA[Novos Estudos Cebrap]]></source>
+<year>2005</year>
+<volume>73</volume>
+<page-range>5-15</page-range></nlm-citation>
+</ref>
+<ref id="B70">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Salgado]]></surname>
+<given-names><![CDATA[E. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Abuso do poder econômico e financiamento das campanhas eleitorais]]></article-title>
+<source><![CDATA[Jus Navigandi]]></source>
+<year>2002</year>
+<numero>53</numero>
+<issue>53</issue>
+</nlm-citation>
+</ref>
+<ref id="B71">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Salgado]]></surname>
+<given-names><![CDATA[E. D. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Princípios constitucionais eleitorais]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Fórum]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B72">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Samuels]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Money, elections, and democracy in Brazil&#8221;]]></article-title>
+<source><![CDATA[Latin American Politics and Society]]></source>
+<year>2001</year>
+<month>a</month>
+<volume>43</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>27-48</page-range></nlm-citation>
+</ref>
+<ref id="B73">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Samuels]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Does money matter? Credible commitments and campaign finance in new democracies: theory and evidence from Brazil&#8221;]]></article-title>
+<source><![CDATA[Comparative Politics]]></source>
+<year>2001</year>
+<month>b</month>
+<volume>34</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>23-42</page-range></nlm-citation>
+</ref>
+<ref id="B74">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Samuels]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Incumbents and challengers on a level playing field: assessing the impact of campaign finance in Brazil&#8221;]]></article-title>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>2001</year>
+<month>c</month>
+<volume>63</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>569-84</page-range></nlm-citation>
+</ref>
+<ref id="B75">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Santana]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento das campanhas eleitorais e prestação de contas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Santana]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Direito eleitoral resumido]]></source>
+<year>2000</year>
+<page-range>161-7</page-range><publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Inédita]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B76">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Santano]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;O procedimento para o financiamento de campanhas eleitorais e a problemática da prestação de contas dos recursos utilizados&#8221;]]></article-title>
+<source><![CDATA[Jus Navigandi]]></source>
+<year>2005</year>
+<volume>10</volume>
+<numero>836</numero>
+<issue>836</issue>
+</nlm-citation>
+</ref>
+<ref id="B77">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[R. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Grandes empresários e sucesso eleitoral nas eleições de 2002, 2006 e 2010]]></source>
+<year>2011</year>
+<conf-name><![CDATA[ Anais do 35º Encontro Anual da Anpocs]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Caxambu ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B78">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Scarrow]]></surname>
+<given-names><![CDATA[S. E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Explaining political finance reforms: competition and context&#8221;]]></article-title>
+<source><![CDATA[Party Politics Review]]></source>
+<year>2004</year>
+<volume>10</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>653-75</page-range></nlm-citation>
+</ref>
+<ref id="B79">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schmitt]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carneiro]]></surname>
+<given-names><![CDATA[L. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kuschnir]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Estratégias de campanha no horário gratuito de propaganda eleitoral em eleições proporcionais&#8221;]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>1999</year>
+<volume>42</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>277-301</page-range></nlm-citation>
+</ref>
+<ref id="B80">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Shaw]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A study of presidential campaign event effects from 1952 to 1992&#8221;]]></article-title>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>1999</year>
+<volume>61</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>387-422</page-range></nlm-citation>
+</ref>
+<ref id="B81">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[F. N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento de campanha política e corrupção eleitoral]]></article-title>
+<source><![CDATA[Consulex: Revista Jurídica]]></source>
+<year>2003</year>
+<volume>7</volume>
+<numero>144</numero>
+<issue>144</issue>
+<page-range>36-40</page-range></nlm-citation>
+</ref>
+<ref id="B82">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Silveira]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mello]]></surname>
+<given-names><![CDATA[J. M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Campaign advertising and election outcomes: quasi-natural experiment evidence from gubernatorial elections in Brazil&#8221;]]></article-title>
+<source><![CDATA[Review of Economic Studies]]></source>
+<year>2011</year>
+<volume>78</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>590-612</page-range></nlm-citation>
+</ref>
+<ref id="B83">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Simão]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[O voto operário em São Paulo]]></article-title>
+<source><![CDATA[Revista Brasileira de Estudos Políticos]]></source>
+<year>1956</year>
+<volume>1</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>201-14</page-range></nlm-citation>
+</ref>
+<ref id="B84">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Singer]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Esquerda e direita no eleitorado brasileiro: a identificação ideológica nas disputas presidenciais de 1989 e 1994]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Edusp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B85">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soares]]></surname>
+<given-names><![CDATA[G. A. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Classes sociais, strata sociais e as eleições presidenciais de 1960]]></article-title>
+<source><![CDATA[Sociologia]]></source>
+<year>1961</year>
+<numero>23</numero>
+<issue>23</issue>
+<page-range>217-38</page-range></nlm-citation>
+</ref>
+<ref id="B86">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soares]]></surname>
+<given-names><![CDATA[G. A. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A política brasileira: novos partidos e velhos conflitos]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Fleischer]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Da distensão à abertura. As eleições de 1982]]></source>
+<year>1982</year>
+<page-range>91-118</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Editora da UnB]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B87">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soares]]></surname>
+<given-names><![CDATA[G. A. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Terron]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Dois Lulas: a geografia eleitoral da reeleição (explorando conceitos, métodos e técnicas de análise geoespacial)&#8221;]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2008</year>
+<volume>14</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>269-301</page-range></nlm-citation>
+</ref>
+<ref id="B88">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sobierajski]]></surname>
+<given-names><![CDATA[D. G. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Financiamento de campanhas eleitorais]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+<publisher-name><![CDATA[Juruá]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B89">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Speck]]></surname>
+<given-names><![CDATA[B. W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Reagir a escândalos ou perseguir ideais? A regulação do financiamento político no Brasil]]></article-title>
+<source><![CDATA[Cadernos Adenauer]]></source>
+<year>2005</year>
+<volume>6</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>123-59</page-range></nlm-citation>
+</ref>
+<ref id="B90">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Speck]]></surname>
+<given-names><![CDATA[B. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mancuso]]></surname>
+<given-names><![CDATA[W. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O financiamento político nas eleições brasileiras de 2010: um panorama geral]]></source>
+<year>2011</year>
+<conf-name><![CDATA[ Anais do 35º Encontro Anual da Anpocs]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Caxambu ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B91">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Speck]]></surname>
+<given-names><![CDATA[B. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mancuso]]></surname>
+<given-names><![CDATA[W. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[O que faz a diferença? Gastos de campanha, capital político, sexo e contexto municipal nas eleições para prefeito em 2012]]></article-title>
+<source><![CDATA[Cadernos Adenauer]]></source>
+<year>2013</year>
+<volume>14</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>109-26</page-range></nlm-citation>
+</ref>
+<ref id="B92">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Speck]]></surname>
+<given-names><![CDATA[B. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mancuso]]></surname>
+<given-names><![CDATA[W. P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A study on the impact of campaign finance, political capital and gender on electoral performance&#8221;]]></article-title>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2014</year>
+<volume>8</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>34-57</page-range></nlm-citation>
+</ref>
+<ref id="B93">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Taagepera]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shugart]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Seats &amp; votes: the effects &amp; determinants of electoral systems]]></source>
+<year>1989</year>
+<publisher-loc><![CDATA[New Haven ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B94">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wattemberg]]></surname>
+<given-names><![CDATA[M. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The rise of candidate-centered politics: presidential elections of the 1980&#8217;s]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B95">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zovatto]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento dos partidos e campanhas eleitorais na América Latina: uma análise comparada]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2005</year>
+<volume>11</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>287-315</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

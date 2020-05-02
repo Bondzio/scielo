@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032009000300003</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032009000300003</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Análise da eficiência do mercado futuro brasileiro de boi gordo usando co-integração]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Moraes]]></surname>
+<given-names><![CDATA[André Steffens]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Lima]]></surname>
+<given-names><![CDATA[Ricardo Chaves]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Melo]]></surname>
+<given-names><![CDATA[André de Souza]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Embrapa Pantanal  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal de Pernambuco Depto de Economia da Universidade Federal ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidade Federal de Pernambuco  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2009</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2009</year>
+</pub-date>
+<volume>47</volume>
+<numero>3</numero>
+<fpage>601</fpage>
+<lpage>614</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032009000300003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032009000300003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032009000300003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[A hipótese de que os preços futuros são preditores não viesados dos preços à vista é uma hipótese conjunta de que os mercados são eficientes e que não existe prêmio ao risco. Entretanto, na presença de prêmio ao risco, a hipótese de não viés pode ser rejeitada mesmo quando o mercado é eficiente. Este artigo testa a eficiência do mercado futuro brasileiro do boi gordo na presença de prêmio ao risco, usando técnicas de co-integração. Os resultados mostram que o mercado futuro do boi gordo é eficiente e não viesado no longo prazo, independente da presença de prêmio ao risco.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The hypothesis that future prices are unbiased predictors of spot prices is a joint hypothesis that markets are efficient and risk premium are absent. However, the unbiasedness hypothesis may be rejected in the presence of a risk premium, even when the market is efficient. The objective of this article is to test market efficiency for the Brazilian live cattle while permitting the presence of risk premium, using cointegration techniques. Results show that the future markets for live cattle are efficient and unbiasedness in the long run, and does not depend of the presence of a risk premium.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[mercado futuro do boi gordo]]></kwd>
+<kwd lng="pt"><![CDATA[hipótese da eficiência de mercado]]></kwd>
+<kwd lng="pt"><![CDATA[co-integração]]></kwd>
+<kwd lng="en"><![CDATA[live cattle futures market]]></kwd>
+<kwd lng="en"><![CDATA[efficient market hypothesis]]></kwd>
+<kwd lng="en"><![CDATA[cointegration]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>An&aacute;lise  da efici&ecirc;ncia do mercado futuro brasileiro de boi gordo usando co-integra&ccedil;&atilde;o  </b></font></p>    <p>&nbsp;</p>    <p>&nbsp;</p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Andr&eacute;  Steffens Moraes<sup>I</sup>; Ricardo Chaves Lima<sup>II</sup>; Andr&eacute; de  Souza Melo<sup>III</sup></b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Doutor  em Economia pela Universidade Federal de Pernambuco (2008). Pesquisador da Embrapa  Pantanal. E-mail: <a href="mailto:andre@cpap.embrapa.br">andre@cpap.embrapa.br</a>    <br>  <sup>II</sup>Doutor em Economia Agr&iacute;cola pela Universidade do Tennessee  (1994). Professor Ajunto II do Depto de Economia da Universidade Federal de Pernambuco  e professor convidado do Mestrado em Gest&atilde;o Global da Universidade de Ci&ecirc;ncias  Aplicadas de Bremen (Hochschule Bremen), na Alemanha. E-mail: <a href="mailto:chaveslima@gmail.com">chaveslima@gmail.com    <br>  </a> <sup>III</sup>Mestre em Economia pela Universidade Federal de Pernambuco  (2009). Doutorando em Economia na Universidade Federal de Pernambuco. E-mail:  <a href="mailto:andredesouzam@gmail.com">andredesouzam@gmail.com</a></font></p>    <p>&nbsp;</p>    <p>&nbsp;</p><hr size="1" noshade>      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A  hip&oacute;tese de que os pre&ccedil;os futuros s&atilde;o preditores n&atilde;o  viesados dos pre&ccedil;os &agrave; vista &eacute; uma hip&oacute;tese conjunta  de que os mercados s&atilde;o eficientes e que n&atilde;o existe pr&ecirc;mio  ao risco. Entretanto, na presen&ccedil;a de pr&ecirc;mio ao risco, a hip&oacute;tese  de n&atilde;o vi&eacute;s pode ser rejeitada mesmo quando o mercado &eacute; eficiente.  Este artigo testa a efici&ecirc;ncia do mercado futuro brasileiro do boi gordo  na presen&ccedil;a de pr&ecirc;mio ao risco, usando t&eacute;cnicas de co-integra&ccedil;&atilde;o.  Os resultados mostram que o mercado futuro do boi gordo &eacute; eficiente e n&atilde;o  viesado no longo prazo, independente da presen&ccedil;a de pr&ecirc;mio ao risco.  </font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chaves:</b>  mercado futuro do boi gordo, hip&oacute;tese da efici&ecirc;ncia de mercado, co-integra&ccedil;&atilde;o.  </font></p><hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The  hypothesis that future prices are unbiased predictors of spot prices is a joint  hypothesis that markets are efficient and risk premium are absent. However, the  unbiasedness hypothesis may be rejected in the presence of a risk premium, even  when the market is efficient. The objective of this article is to test market  efficiency for the Brazilian live cattle while permitting the presence of risk  premium, using cointegration techniques. Results show that the future markets  for live cattle are efficient and unbiasedness in the long run, and does not depend  of the presence of a risk premium. </font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Keywords:</b>  live cattle futures market, efficient market hypothesis, cointegration.</font></p><hr size="1" noshade>      <p>&nbsp;</p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1.  Introdu&ccedil;&atilde;o</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Muitos agentes econ&ocirc;micos tomam decis&otilde;es baseadas em hip&oacute;teses  sobre eventos futuros, cuja incerteza pode ser reduzida por opera&ccedil;&otilde;es  em mercados futuros, que oferecem um mecanismo de prote&ccedil;&atilde;o contra  os riscos dessas opera&ccedil;&otilde;es. Mas este mecanismo s&oacute; &eacute;  efetivo se o mercado &eacute; eficiente. Nesse caso, o pre&ccedil;o futuro &eacute;  um &oacute;timo previsor do pre&ccedil;o &agrave; vista na data de termina&ccedil;&atilde;o  do contrato. A &uacute;nica diferen&ccedil;a admiss&iacute;vel entre os dois sendo  um erro aleat&oacute;rio n&atilde;o previs&iacute;vel de m&eacute;dia zero (NEWBOLD  et al., 1999b). A hip&oacute;tese da efici&ecirc;ncia de mercado (HEM) &eacute;  uma hip&oacute;tese conjunta de que os agentes econ&ocirc;micos formam suas expectativas  de maneira racional e s&atilde;o neutros ao risco. Isto &eacute;, que os mercados  s&atilde;o eficientes e n&atilde;o h&aacute; pr&ecirc;mio ao risco. Isto implica  que, em um mercado futuro eficiente, os pre&ccedil;os futuros correntes, <i>F<sub>t</sub></i>,  de um contrato para entrega de um produto no tempo <i>t</i> + 1, podem ser considerados  estimadores n&atilde;o viesados dos pre&ccedil;os &agrave; vista futuros, <i>S<sub>t+1</sub></i>,  pois incorporam toda a informa&ccedil;&atilde;o dispon&iacute;vel para predizer  este pre&ccedil;o futuro (NEWBOLD et al., 1999b; BECK, 1994; FAMA, 1970). </font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para  testar a HEM t&ecirc;m sido estimadas v&aacute;rias vers&otilde;es de:</font></p>    ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n3/a03for01.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em  que <i>S<sub>t+1</sub></i> &eacute; o pre&ccedil;o no mercado f&iacute;sico (<i>spot</i>)  no tempo <i>t</i> + 1, <i>F<sub>t</sub></i> &eacute; o pre&ccedil;o corrente do  contrato futuro, <i>c<sub>0</sub></i> e <i>c<sub>1</sub></i> s&atilde;o par&acirc;metros  e &#181;<i><sub>t</sub></i> &eacute; um termo de erro aleat&oacute;rio (decorrente  de se assumir expectativas racionais), que &eacute; independente e identicamente  distribu&iacute;do, com m&eacute;dia zero e vari&acirc;ncia constante (i.&eacute;,  &eacute; um processo de ru&iacute;do branco). A hip&oacute;tese nula &eacute;  que o intercepto n&atilde;o &eacute; significantemente diferente de zero e que  o coeficiente de inclina&ccedil;&atilde;o n&atilde;o &eacute; significantemente  diferente de um, ou seja, <i>c<sub>0</sub></i> = 0 e <i>c<sub>1</sub></i> = 1  (BECK, 1994).</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esta  equa&ccedil;&atilde;o evidencia de uma forma simples os conceitos subjacentes  &agrave; hip&oacute;tese de efici&ecirc;ncia de mercado, j&aacute; que &eacute;  poss&iacute;vel rearranj&aacute;-la para:</font></p>    <p align="center"><img src="/img/revistas/resr/v47n3/a03for02.gif"></p>    <p align="center"><img src="/img/revistas/resr/v47n3/a03for03.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Tomando a expect&acirc;ncia da Equa&ccedil;&atilde;o (3), tem-se:</font></p>    <p align="center"><img src="/img/revistas/resr/v47n3/a03for04.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os  pre&ccedil;os descritos acima s&atilde;o usualmente referidos como um passeio  aleat&oacute;rio (<i>random walk</i>), pois seus movimentos (ou mudan&ccedil;as)  futuras n&atilde;o podem ser previstos porque, dado o valor de hoje, eles podem  tanto subir como descer. Como resultado, os pre&ccedil;os podem se desviar substancialmente  de seus valores iniciais, e pode ser necess&aacute;ria a ocorr&ecirc;ncia de um  grande n&uacute;mero de observa&ccedil;&otilde;es antes que eles retornem aos  seus valores iniciais. Al&eacute;m disso, a mudan&ccedil;a m&eacute;dia esperada  nos pre&ccedil;os &eacute; zero e, como os erros s&atilde;o n&atilde;o-correlacionados,  quaisquer mudan&ccedil;as nos pre&ccedil;os tamb&eacute;m ser&atilde;o n&atilde;o-correlacionadas.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Entretanto, devido &agrave; caracter&iacute;stica t&iacute;pica de n&atilde;o-estacionariedade  das s&eacute;ries temporais de pre&ccedil;os, quando se estima uma regress&atilde;o  do tipo da Equa&ccedil;&atilde;o (1), &eacute; poss&iacute;vel que se obtenham  resultados esp&uacute;rios (GRANGER e NEWBOLD, 1974). Uma forma de prevenir este  problema &eacute; verificar se as vari&aacute;veis inclu&iacute;das no modelo  econom&eacute;trico s&atilde;o co-integradas. A exist&ecirc;ncia de co-integra&ccedil;&atilde;o  entre duas s&eacute;ries de pre&ccedil;o assegura que elas exibam um comportamento  compat&iacute;vel no longo prazo. A co-integra&ccedil;&atilde;o implica que os  res&iacute;duos das rela&ccedil;&otilde;es de longo prazo s&atilde;o estacion&aacute;rios,  uma condi&ccedil;&atilde;o necess&aacute;ria mas n&atilde;o suficiente para a  efici&ecirc;ncia. Para os mercados futuros serem considerados eficientes &eacute;  tamb&eacute;m requerido que os erros sejam ru&iacute;do branco; se forem autocorrelacionados,  a informa&ccedil;&atilde;o dos pre&ccedil;os passados pode ser usada para predizer  os pre&ccedil;os &agrave; vista futuros e isto contradiz o requerimento de que  os pre&ccedil;os futuros instant&acirc;nea e completamente refletem toda a informa&ccedil;&atilde;o  dispon&iacute;vel (NEWBOLD et al., 1999b).</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O mercado futuro do boi gordo da Bolsa de Mercadorias e Futuros (BM&amp;FBovespa)  tem mostrado um grande dinamismo nos &uacute;ltimos anos, com uma evolu&ccedil;&atilde;o  que se mant&eacute;m a frente de outros produtos agropecu&aacute;rios. Este mercado  teve destaque nos oito primeiros meses de 2006 entre os mercados agropecu&aacute;rios  da BM&amp;FBovespa: fechou agosto com 48.755 contratos, 25% a mais que o mesmo  m&ecirc;s de 2005 e 18,8% acima de julho/06. O recorde hist&oacute;rico de posi&ccedil;&otilde;es  em aberto nesse mercado foi alcan&ccedil;ado no dia 30 de agosto de 2006, com  32.281 contratos, sendo a m&eacute;dia di&aacute;ria negociada neste m&ecirc;s  de 42.413 cabe&ccedil;as/dia. No acumulado de janeiro a agosto de 2006, os contratos  de boi gordo tamb&eacute;m alcan&ccedil;aram recorde hist&oacute;rico, com 201.586  contratos negociados, movimentando cerca de US$ 1,7 bilh&atilde;o (BM&amp;FBOVESPA,  2006). Os neg&oacute;cios com boi gordo na BM&amp;FBovespa cresceram 98,5% em  2004, o maior desempenho entre os derivativos agropecu&aacute;rios negociados  no ano, atingindo o total de 225.200 contratos. Em 2005, o n&uacute;mero de contratos  negociados mensalmente teve o crescimento mais expressivo em rela&ccedil;&atilde;o  aos tr&ecirc;s anos anteriores. Apesar disso, no total de neg&oacute;cios da Bolsa  vem representando apenas cerca de 10% do total anual de abate de bovinos no Brasil.  Essa pequena participa&ccedil;&atilde;o indica o potencial de crescimento deste  mercado no futuro (MARTIN e BEZERRA, 2005).</font></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O objetivo deste artigo &eacute; testar a efici&ecirc;ncia do mercado futuro brasileiro  do boi gordo na presen&ccedil;a de um pr&ecirc;mio ao risco. A se&ccedil;&atilde;o  2 faz uma revis&atilde;o bibliogr&aacute;fica sobre a efici&ecirc;ncia de mercado  de produtos agr&iacute;colas, com destaque para a literatura que se det&eacute;m  no mercado do boi gordo. A se&ccedil;&atilde;o 3 descreve os dados e os testes  de efici&ecirc;ncia baseados na teoria da co-integra&ccedil;&atilde;o. A se&ccedil;&atilde;o  4 apresenta os resultados emp&iacute;ricos e os discute. A se&ccedil;&atilde;o  5 conclui.</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2.  Revis&atilde;o Bibliogr&aacute;fica</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Fama (1970) desenvolveu originalmente a teoria da efici&ecirc;ncia de mercado,  e sua defini&ccedil;&atilde;o ficou conhecida como a hip&oacute;tese de efici&ecirc;ncia  de mercado (HEM). Segundo Fama (1970), um mercado eficiente &eacute; aquele que  incorpora acuradamente toda a informa&ccedil;&atilde;o conhecida na determina&ccedil;&atilde;o  do pre&ccedil;o, de modo que o pre&ccedil;o sempre reflete toda informa&ccedil;&atilde;o  dispon&iacute;vel em um mercado eficiente. As &uacute;nicas mudan&ccedil;as de  pre&ccedil;o que podem ocorrer s&atilde;o aquelas que resultam de nova informa&ccedil;&atilde;o.  Em um mercado eficiente, ningu&eacute;m deve ser capaz de obter lucro econ&ocirc;mico  anormal usando a informa&ccedil;&atilde;o dispon&iacute;vel, significando que  n&atilde;o existem oportunidades de lucro a serem exploradas aos pre&ccedil;os  vigentes. Se os agentes s&atilde;o racionais, ent&atilde;o as suas expectativas  sobre os pre&ccedil;os futuros s&atilde;o iguais &agrave;s previs&otilde;es &oacute;timas  usando todas as informa&ccedil;&otilde;es dispon&iacute;veis. Embora existam consider&aacute;veis  desacordos sobre o grau no qual a HEM se mant&eacute;m, ela se tornou o paradigma  dominante usado pelos economistas para compreender e investigar o comportamento  dos mercados financeiros e de produtos.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A  efici&ecirc;ncia dos mercados futuros tem sido um dos t&oacute;picos mais pesquisados  e mais controversos na literatura emp&iacute;rica sobre efici&ecirc;ncia de mercado:  alguns autores encontram evid&ecirc;ncia de efici&ecirc;ncia, outros de inefici&ecirc;ncia,  sugerindo que a hip&oacute;tese de efici&ecirc;ncia &eacute; suportada somente  para certos mercados e somente para alguns per&iacute;odos. Ver, por exemplo,  Fama (1970), Leuthold (1974), Kellard et al. (1999). J&aacute; os artigos de Beck  (1994), Chu et al. (1999) e Ackert e Racine (1999) encontraram evid&ecirc;ncia  consistente com a efici&ecirc;ncia dos mercados futuros. Embora a evid&ecirc;ncia  da literatura pare&ccedil;a ser decididamente mista, &eacute; poss&iacute;vel  que algumas conclus&otilde;es sejam reflexo da falta de aten&ccedil;&atilde;o  dada aos aspectos institucionais que governam o funcionamento dos mercados futuros  e &agrave;s caracter&iacute;sticas estat&iacute;sticas espec&iacute;ficas das  s&eacute;ries temporais de pre&ccedil;os de produtos, as mais relevantes das quais,  segundo Newbold et al. (1999a), s&atilde;o a sazonalidade, a sobreposi&ccedil;&atilde;o  de dados e as observa&ccedil;&otilde;es desigualmente espa&ccedil;adas. Para Newbold  et al. (1999a) a grande quantidade de resultados divergentes produzidos &eacute;  altamente dependente das t&eacute;cnicas econom&eacute;tricas adotadas e do per&iacute;odo  de tempo analisado. Crowder e Phengpis (2003), al&eacute;m do per&iacute;odo da  amostra e da t&eacute;cnica utilizada, acrescentam que a forma fraca tamb&eacute;m  &eacute; dependente do produto agr&iacute;cola testado e do tipo de dados. As  rejei&ccedil;&otilde;es da efici&ecirc;ncia t&ecirc;m sido interpretadas argumentando-se  que os agentes econ&ocirc;micos n&atilde;o processam racionalmente a informa&ccedil;&atilde;o  dispon&iacute;vel e que o pre&ccedil;o futuro &eacute; um estimador viesado devido  &agrave; presen&ccedil;a de um pr&ecirc;mio ao risco constante ou variando no  tempo (NEWBOLD et al., 1999a, 1999b; GARCIA et. al, 2004). Malkiel (2003) sumariza  a quest&atilde;o argumentando que, de uma maneira geral, os resultados dos testes  de efici&ecirc;ncia de aleatoriedade e habilidade de previs&atilde;o s&atilde;o  consistentes com a vis&atilde;o dos economistas de que, no longo prazo, os mercados  futuros s&atilde;o eficientes, mas que no curto prazo podem existir inefici&ecirc;ncias  em certos per&iacute;odos.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Newbold et al. (1999a) testaram a efici&ecirc;ncia dos mercados futuros de cinco  produtos agr&iacute;colas no contexto de contratos desigualmente espa&ccedil;ados.  Tal caracter&iacute;stica, resultante da natureza sazonal da produ&ccedil;&atilde;o  e dos aspectos institucionais do mercado, requer o desenvolvimento de t&eacute;cnicas  econom&eacute;tricas apropriadas, j&aacute; que as t&eacute;cnicas padr&otilde;es  de s&eacute;ries temporais s&oacute; podem ser aplicadas quando as observa&ccedil;&otilde;es  s&atilde;o igualmente espa&ccedil;adas. Os autores argumentam que desconsiderar  esta caracter&iacute;stica pode conduzir a conclus&otilde;es incorretas e inexatas  sobre a efici&ecirc;ncia de mercado. Assim, a diversidade de resultados existente  na literatura pode refletir uma falta de aten&ccedil;&atilde;o &agrave;s propriedades  espec&iacute;ficas das s&eacute;ries de dados e &agrave;s caracter&iacute;sticas  institucionais do mercado (NEWBOLD et al., 1999b).</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Em sua defini&ccedil;&atilde;o original da HEM, Fama (1970) assumiu aus&ecirc;ncia  de custos de transa&ccedil;&atilde;o (como taxas de corretagem) e de obten&ccedil;&atilde;o  da informa&ccedil;&atilde;o, o que &eacute; irrealista. A exist&ecirc;ncia desses  custos implica uma defini&ccedil;&atilde;o alternativa da efici&ecirc;ncia de  mercado: um mercado &eacute; eficiente com rela&ccedil;&atilde;o &agrave; informa&ccedil;&atilde;o  disponibilizada no tempo <i>t</i> se os retornos econ&ocirc;micos gerados pelas  opera&ccedil;&otilde;es usando esta informa&ccedil;&atilde;o n&atilde;o excedem  os custos de transa&ccedil;&atilde;o e de aquisi&ccedil;&atilde;o da informa&ccedil;&atilde;o  (ZULAUF e IRWIN, 1997). Com rela&ccedil;&atilde;o ao modelo de efici&ecirc;ncia  de mercado de Fama (1970), implica que <i>c<sub>1</sub></i> pode ser diferente  de um porque o mercado adquire e analisa a informa&ccedil;&atilde;o lentamente,  mas os operadores possuem maior habilidade para adquirir primeiro a informa&ccedil;&atilde;o.  Assim, os pre&ccedil;os j&aacute; n&atilde;o refletem perfeitamente toda a informa&ccedil;&atilde;o  dispon&iacute;vel. Essas viola&ccedil;&otilde;es da hip&oacute;tese de Fama (1970),  chamadas anomalias, trouxeram d&uacute;vidas quanto &agrave; validade dessa hip&oacute;tese  (ZULAUF e IRWIN, 1997).</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Se a condi&ccedil;&atilde;o de efici&ecirc;ncia de pre&ccedil;os (o pre&ccedil;o  futuro &eacute; um estimador n&atilde;o viesado do pre&ccedil;o &agrave; vista)  n&atilde;o &eacute; satisfeita, uma fonte de erro &eacute; a presen&ccedil;a de  um pr&ecirc;mio ao risco. Muitos estudos nos anos 1960 se concentraram no conceito  de pr&ecirc;mio ao risco, sobressaindo a conclus&atilde;o que a exist&ecirc;ncia  de um erro nos pre&ccedil;os relacionado ao pr&ecirc;mio ao risco era muito improv&aacute;vel  (GRAY e RUTLEDGE, 1971). Em estudos posteriores, os resultados parecem ter sido  influenciados pelos procedimentos usados e pelo pr&ecirc;mio ao risco assumido.  Por exemplo, Fama e French (1987), estudando v&aacute;rios produtos agr&iacute;colas,  concluem que h&aacute; pouca evid&ecirc;ncia da exist&ecirc;ncia de um pr&ecirc;mio  ao risco constante. Entretanto, McKenzie e Holt (2002), usando co-integra&ccedil;&atilde;o  e modelo de corre&ccedil;&atilde;o de erros com processo ARCH, encontraram pr&ecirc;mios  ao risco variando no tempo para porco e boi gordo, mas n&atilde;o para os outros  produtos analisados (milho e soja).</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Para Beck (1994), assumir que os participantes do mercado s&atilde;o neutros ao  risco (impl&iacute;cito na hip&oacute;tese de aus&ecirc;ncia de pr&ecirc;mio ao  risco), n&atilde;o &eacute; defens&aacute;vel teoricamente nem plaus&iacute;vel  empiricamente. Este autor argumenta que os produtores aversos ao risco demandam  contratos futuros para proteger seus produtos e, assim, criam um pr&ecirc;mio  ao risco que ir&aacute; viesar os pre&ccedil;os futuros, de modo que <i>c<sub>0</sub></i>  <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" >0. Al&eacute;m disso,  Danthine (1978) mostrou que, quando os produtores s&atilde;o aversos ao risco,  a otimiza&ccedil;&atilde;o intertemporal resulta tanto em <i>c<sub>0</sub></i>  <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" > 0 quanto em <i>c<sub>1</sub></i>  <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" >1 mesmo em mercados eficientes.  Logo, dado que existe um pr&ecirc;mio ao risco, os testes de efici&ecirc;ncia  n&atilde;o dependem da aus&ecirc;ncia desse pr&ecirc;mio.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Zulauf e Irwin (1977) afirmam que um mercado futuro pode ser eficiente em termos  da defini&ccedil;&atilde;o de Fama (1970) e ter um vi&eacute;s de pre&ccedil;o  (ou seja, <i>E<sub>t</sub>(S<sub>t + 1</sub> - F<sub>t</sub>) <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" >0</i>,  Equa&ccedil;&atilde;o (4)). Dado que o erro &eacute; uma compensa&ccedil;&atilde;o  pelo risco, quando existe um risco que n&atilde;o pode ser diversificado, a atividade  associada com esse risco deve receber um retorno superior ao retorno livre de  risco. Esse vi&eacute;s no pre&ccedil;o pode ser denotado como <i>c<sub>0</sub></i>  <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" >0, sendo <i>c<sub>0</sub></i>  a compensa&ccedil;&atilde;o pelo risco. Haveria, assim, duas vers&otilde;es da  efici&ecirc;ncia de Fama (1970): uma no qual <i>c<sub>0</sub></i> = 0 e <i>c<sub>1</sub></i>  = 1, e outra em que <i>c<sub>0</sub></i> <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" >  0 e <i>c<sub>1</sub></i><img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" >  1, dado que um <i>c<sub>0</sub></i> n&atilde;o zero &eacute; um retorno ao risco.  Esses vieses de pre&ccedil;o podem ou n&atilde;o ser constantes no tempo. Zulauf  e Irwin (1997), concluem que, apesar da exist&ecirc;ncia de vi&eacute;s de pre&ccedil;o  ser extremamente controversa, sua exist&ecirc;ncia &eacute; uma quest&atilde;o  emp&iacute;rica, e n&atilde;o uma quest&atilde;o conceitual.</font></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Bessler e Covey (1991) aplicaram a formula&ccedil;&atilde;o de co-integra&ccedil;&atilde;o  para examinar as rela&ccedil;&otilde;es entre pre&ccedil;os di&aacute;rios futuros  e &agrave; vista no mercado de boi gordo dos EUA, com resultados mistos, isto  &eacute;, evid&ecirc;ncia limitada de rela&ccedil;&otilde;es de longo prazo entre  pre&ccedil;os futuros e &agrave; vista para contratos futuros de curta termina&ccedil;&atilde;o;  para contratos de termina&ccedil;&atilde;o mais distante, n&atilde;o foram encontradas  rela&ccedil;&otilde;es de co-integra&ccedil;&atilde;o. Leuthold (1979) tamb&eacute;m  encontrou aus&ecirc;ncia de co-integra&ccedil;&atilde;o entre os pre&ccedil;os  &agrave; vista e contratos futuros de termina&ccedil;&atilde;o distante em mercados  de boi gordo: cota&ccedil;&otilde;es de pre&ccedil;os futuros entre 4 e 8 meses  antes da matura&ccedil;&atilde;o s&atilde;o estimadores viesados dos pre&ccedil;os  &agrave; vista do boi gordo.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  McKenzie e Holt (2002) testaram a efici&ecirc;ncia dos mercados futuros dos EUA  para cinco produtos agr&iacute;colas, entre os quais boi gordo. Seus resultados  indicaram que os mercados futuros para todos os produtos, exceto um, eram eficientes  e n&atilde;o viesados no longo prazo, mas o mercado de boi gordo exibiu inefici&ecirc;ncia  e vi&eacute;s no curto prazo e mostrou um pr&ecirc;mio ao risco variando no tempo.  Kellard et al. (1999) analisaram a efici&ecirc;ncia da previs&atilde;o dos mercados  de soja, porco e boi gordo e conclu&iacute;ram que esses mercados s&atilde;o eficientes  no longo prazo, mas encontraram inefici&ecirc;ncias no curto prazo, particularmente  para o boi gordo.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Newbold et al. (1999b) investigaram os efeitos da sazonalidade nos testes de efici&ecirc;ncia  de v&aacute;rios produtos agr&iacute;colas, entre os quais boi gordo, particularmente  a extens&atilde;o na qual padr&otilde;es sazonais fortes e antecipados podem ser  respons&aacute;veis pela inefici&ecirc;ncia encontrada em mercados futuros. Os  autores encontraram evid&ecirc;ncia de que os termos sazonais s&atilde;o significantes,  sugerindo a presen&ccedil;a de inefici&ecirc;ncias de mercado, j&aacute; que a  informa&ccedil;&atilde;o sobre o padr&atilde;o sazonal n&atilde;o &eacute; incorporada  na base e pode ser usada pelos agentes para predizer os movimentos dos pre&ccedil;os  &agrave; vista futuros. Os resultados mostraram que o mercado de boi gordo &eacute;  muito ineficiente em curtos e longos horizontes de previs&atilde;o, mas o efeito  sazonal parece ser apenas marginalmente respons&aacute;vel por esta inefici&ecirc;ncia.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  No Brasil, o mercado do boi gordo foi institu&iacute;do pela Bolsa Mercantil de  S&atilde;o Paulo em 1981. Relan&ccedil;ado em 1991 pela BM&amp;FBovespa, passou  por v&aacute;rias reestrutura&ccedil;&otilde;es, principalmente em seu desenho  contratual e em seus padr&otilde;es internos de negocia&ccedil;&atilde;o. Lazzarini  et al. (1998) relatam a hist&oacute;ria do mercado futuro do boi gordo na BM&amp;FBovespa  e os problemas que surgiram na negocia&ccedil;&atilde;o de seus contratos, discutindo  os fatores de sucesso ou fracasso com base em um estudo de caso. Esses autores  testaram a influ&ecirc;ncia de determinados fatores na demanda pelo contrato futuro  de boi gordo na BM&amp;FBovespa, com &ecirc;nfase em duas altera&ccedil;&otilde;es  contratuais: liquida&ccedil;&atilde;o do contrato por entrega f&iacute;sica em  um &uacute;nico curral (em contraposi&ccedil;&atilde;o a at&eacute; ent&atilde;o  vigente entrega f&iacute;sica em v&aacute;rios currais) e liquida&ccedil;&atilde;o  financeira mediante um &iacute;ndice de pre&ccedil;os (Indicador de pre&ccedil;o  ESALQ/BM&amp;FBovespa), eliminando a entrega f&iacute;sica (desenho contratual  que permanece at&eacute; hoje). O modelo econom&eacute;trico levou em considera&ccedil;&atilde;o  indicadores de sucesso e liquidez dos contratos e de variabilidade dos retornos  no mercado f&iacute;sico. Os resultados mostraram que a liquidez defasada do mercado  influencia o n&iacute;vel de contratos em aberto, com maior demanda por contratos  futuros &agrave; medida que os custos de transa&ccedil;&atilde;o s&atilde;o reduzidos.  Os resultados tamb&eacute;m evidenciaram que um aumento na variabilidade dos pre&ccedil;os  no mercado f&iacute;sico tende a aumentar a demanda por contratos futuros. Al&eacute;m  disso, os efeitos positivos das duas altera&ccedil;&otilde;es contratuais indicaram  que o desenho dos contratos &eacute; o aspecto que mais influencia a demanda por  contratos futuros, sendo a redu&ccedil;&atilde;o dos custos de transa&ccedil;&atilde;o  <i>ex post</i> o principal fator respons&aacute;vel pelo aumento na demanda dos  contratos.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Bressan (2004) analisa a aplicabilidade de modelos de previs&atilde;o de s&eacute;ries  temporais como ferramenta de decis&atilde;o na compra e venda de contratos futuros  de boi gordo, caf&eacute; e soja na BM&amp;FBovespa, em datas pr&oacute;ximas  ao vencimento. Utilizando modelos univariados de previs&atilde;o de pre&ccedil;os  (ARIMA, redes neurais artificiais, e modelos lineares din&acirc;micos), e com  base em cota&ccedil;&otilde;es semanais dos mercados f&iacute;sico e futuro, o  autor calculou os retornos m&eacute;dios desses produtos no mercado futuro, indicando  o potencial de utiliza&ccedil;&atilde;o desses modelos como ferramenta de decis&atilde;o.  Para compara&ccedil;&atilde;o, foi utilizado o &iacute;ndice de Sharpe. A maioria  dos contratos apresentou retornos financeiros positivos, com destaque para opera&ccedil;&otilde;es  fundamentadas nas previs&otilde;es dos modelos lineares din&acirc;micos e ARIMA,  mas com diferen&ccedil;as no desempenho preditivo.</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3.  Metodologia</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O conceito de co-integra&ccedil;&atilde;o foi introduzido por Engle e Granger  (1987) e tem sido amplamente empregado na an&aacute;lise de s&eacute;ries temporais.  Este conceito corresponde &agrave; no&ccedil;&atilde;o estat&iacute;stica da exist&ecirc;ncia  de um relacionamento a longo prazo entre as vari&aacute;veis econ&ocirc;micas.  Assim, duas ou mais vari&aacute;veis s&atilde;o co-integradas quando existe uma  combina&ccedil;&atilde;o linear entre elas que seja estacion&aacute;ria, embora  as vari&aacute;veis n&atilde;o o sejam individualmente. Estatisticamente, uma  s&eacute;rie temporal &eacute; estacion&aacute;ria quando sua m&eacute;dia, vari&acirc;ncia  e covari&acirc;ncia n&atilde;o variam no tempo. Neste caso, a s&eacute;rie &eacute;  denotada por I(0), significando que ela &eacute; integrada de ordem zero. A ordem  de integra&ccedil;&atilde;o &eacute; o n&uacute;mero de vezes que uma vari&aacute;vel  precisa ser diferenciada para atingir a estacionariedade. Uma s&eacute;rie que  precisa ser diferenciada uma vez para atingir a estacionaridade &eacute; denotada  por I(1). Geralmente, qualquer combina&ccedil;&atilde;o linear de duas s&eacute;ries  n&atilde;o-estacion&aacute;rias I(1) tamb&eacute;m ser&aacute; I(1). No entanto,  se existir alguma combina&ccedil;&atilde;o linear entre essas duas s&eacute;ries  temporais que seja I(0), ent&atilde;o, existir&aacute; co-integra&ccedil;&atilde;o  entre as duas s&eacute;ries.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  As t&eacute;cnicas de co-integra&ccedil;&atilde;o desenvolvidas por Engle e Granger  (1987) podem testar a efici&ecirc;ncia de mercado na presen&ccedil;a de pr&ecirc;mio  ao risco. Nesse caso, rejeitar a hip&oacute;tese nula de n&atilde;o vi&eacute;s  significa rejeitar a efici&ecirc;ncia, dada a forma assumida do pr&ecirc;mio ao  risco. O procedimento usual envolve dois passos. Primeiro, examinar a rela&ccedil;&atilde;o  de co-integra&ccedil;&atilde;o (condi&ccedil;&atilde;o necess&aacute;ria) entre  as duas s&eacute;ries de pre&ccedil;o <i>S<sub>t</sub></i> e <i>F<sub>t</sub></i>  <sub>- 1</sub>. Se existe co-integra&ccedil;&atilde;o, testam-se restri&ccedil;&otilde;es  nos par&acirc;metros, <i>c<sub>0</sub></i> = 0 e <i>c<sub>1</sub></i> = 1, j&aacute;  que a efici&ecirc;ncia de mercado tamb&eacute;m requer uma previs&atilde;o n&atilde;o  viesada dos pre&ccedil;os futuros sobre os pre&ccedil;os &agrave; vista. O segundo  passo pode consistir de testes m&uacute;ltiplos: <i>c<sub>0</sub></i> = 0 e <i>c<sub>1</sub></i>  = 1 conjuntamente ou cada um individualmente. A regress&atilde;o de co-integra&ccedil;&atilde;o  &eacute; usualmente especificada como a Equa&ccedil;&atilde;o (1). Se as s&eacute;ries  s&atilde;o co-integradas e, ao menos, a segunda restri&ccedil;&atilde;o n&atilde;o  &eacute; rejeitada, ent&atilde;o &eacute; poss&iacute;vel testar a hip&oacute;tese  de que a diferen&ccedil;a entre o pre&ccedil;o &agrave; vista e o pre&ccedil;o  futuro no longo prazo &eacute; devida somente a uma m&eacute;dia constante. A  restri&ccedil;&atilde;o <i>c<sub>1</sub></i> = 1 &eacute; o indicador mais importante  de efici&ecirc;ncia de mercado, porque <i>c<sub>0</sub></i> pode ser diferente  de zero sob a exist&ecirc;ncia de pr&ecirc;mio ao risco mesmo quando o mercado  &eacute; eficiente. A rela&ccedil;&atilde;o de co-integra&ccedil;&atilde;o e as  restri&ccedil;&otilde;es nos par&acirc;metros podem ser testadas usando a abordagem  de Johansen (1988) e o teste de raz&atilde;o de verossimilhan&ccedil;a, respectivamente.  Quando a regress&atilde;o envolve apenas duas vari&aacute;veis, o teste de co-integra&ccedil;&atilde;o  de Granger pode ser usado ao inv&eacute;s do teste de Johansen (NEWBOLD et al.,  1999b).</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  &Eacute; poss&iacute;vel realizar um teste que permita a presen&ccedil;a de um  pr&ecirc;mio ao risco, isto &eacute;, que n&atilde;o imponha as hip&oacute;teses  <i>c<sub>0</sub> </i>= 0 e <i>c<sub>1</sub></i> = 1. Neste caso, s&atilde;o testadas  mais restri&ccedil;&otilde;es do que no teste anterior, sendo, portanto, um teste  de efici&ecirc;ncia mais forte. Mesmo neste caso &eacute; poss&iacute;vel que  os res&iacute;duos sejam serialmente correlacionados, o que viola a efici&ecirc;ncia  de mercado, pois implica que os pre&ccedil;os &agrave; vista dependem n&atilde;o  s&oacute; dos pre&ccedil;os futuros correntes, mas, tamb&eacute;m, dos pre&ccedil;os  passados (BECK, 1994). Para efetuar este teste &eacute; necess&aacute;rio transformar  as s&eacute;ries co-integradas para uma representa&ccedil;&atilde;o de corre&ccedil;&atilde;o  de erro (GRANGER, 1986):</font></p>    ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n3/a03for05.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ou</font></p>    <p align="center"><img src="/img/revistas/resr/v47n3/a03for06.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  em que </font>&#949; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>t+1</sub></i>  &eacute; uma s&eacute;rie estacion&aacute;ria possivelmente serialmente correlacionada  com m&eacute;dia zero e vari&acirc;ncia constante e na Equa&ccedil;&atilde;o (6)  &#181;<i><sub>t + 1</sub></i> foi substitu&iacute;do por <i>S<sub>t+1</sub></i>  - c0 - <i>c<sub>1</sub>F<sub>t</sub></i> (com os termos defasados omitidos, para  maior clareza). As s&eacute;ries transformadas s&atilde;o agora estacion&aacute;rias,  de modo que os coeficientes estimados t&ecirc;m distribui&ccedil;&atilde;o assint&oacute;tica  normal, permitindo testar a hip&oacute;tese de que <i>c<sub>0</sub></i> = 0 e  <i>c<sub>1</sub></i> = 1. A condi&ccedil;&atilde;o de que os erros n&atilde;o  sejam correlacionados &eacute; testada com a estat&iacute;stica Q, de Ljung=Box,  aplicada aos res&iacute;duos &#181;<i><sub>t + 1</sub></i>.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  A co-integra&ccedil;&atilde;o requer que <img src="/img/revistas/resr/v47n3/pcar.gif" align="absmiddle">&gt;  0 para que desvios no equil&iacute;brio de longo prazo (Equa&ccedil;&atilde;o  (1)), se reflitam nos pre&ccedil;os &agrave; vista. Para efici&ecirc;ncia de mercado  &eacute; necess&aacute;rio que <img src="/img/revistas/resr/v47n3/pcar.gif" align="absmiddle">  = 1, <img src="/img/revistas/resr/v47n3/pcar.gif" align="absmiddle"><i>c<sub>1</sub></i>  = b <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" > 0 e </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub><i>i</i></sub>  = <i>y<sub>i</sub></i> = 0. A efici&ecirc;ncia de mercado tamb&eacute;m implica  que </font>&#949; <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>t+1</sub></i>  &eacute; serialmente n&atilde;o-correlacionado. J&aacute; que toda nova informa&ccedil;&atilde;o  referente a mudan&ccedil;as nos pre&ccedil;os &agrave; vista futuros &eacute;  imediatamente refletida em mudan&ccedil;as nos pre&ccedil;os futuros correntes,  o coeficiente b deve ser n&atilde;o zero. E como a informa&ccedil;&atilde;o passada  j&aacute; foi incorporada nos pre&ccedil;os futuros correntes, os coeficientes  das mudan&ccedil;as nos pre&ccedil;os defasados &agrave; vista e futuro, </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>i</sub></i>  = <i>y<sub>i</sub></i>, devem ser zero. Se as restri&ccedil;&otilde;es n&atilde;o  se verificam os mercados futuros s&atilde;o ineficientes, visto que &eacute; poss&iacute;vel  predizer <i>S<sub>t + 1</sub></i> com base nos pre&ccedil;os &agrave; vista passados  e nos pre&ccedil;os futuros correntes (BECK, 1994).</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>  4. Resultados e Discuss&atilde;o</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Dados do mercado brasileiro do boi gordo foram obtidos da Bolsa de Mercadorias  e Futuros (BM&amp;FBovespa) de S&atilde;o Paulo. As s&eacute;ries di&aacute;rias  de pre&ccedil;os futuros e &agrave; vista dos contratos cobrem o per&iacute;odo  de setembro de 2000 a junho de 2004, com um total de 915 observa&ccedil;&otilde;es.  As s&eacute;ries de pre&ccedil;o est&atilde;o em n&iacute;vel, pois uma transforma&ccedil;&atilde;o  em logaritmos (usual na literatura de mercados futuros) pode invalidar os resultados  quando <i>c<sub>0</sub></i> <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" >  0 e <i>c<sub>1</sub></i> <img src="/img/revistas/resr/v47n3/sinal-de-igual.gif" >  1, como estamos assumindo.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Inicialmente,  foi examinada cada uma das s&eacute;ries de pre&ccedil;os para verificar se as  mesmas s&atilde;o processos estacion&aacute;rios. O teste de Dickey-Fuller Aumentado  (DICKEY e FULLER, 1981), ou teste ADF, foi usado para determinar o n&uacute;mero  de ra&iacute;zes unit&aacute;rias das s&eacute;ries de pre&ccedil;o. Se as duas  s&eacute;ries forem n&atilde;o-estacion&aacute;rias, pode-se testar a co-integra&ccedil;&atilde;o  e, caso sejam co-integradas, pode-se testar restri&ccedil;&otilde;es sobre os  par&acirc;metros da Equa&ccedil;&atilde;o (1). Os crit&eacute;rios considerados  na determina&ccedil;&atilde;o do n&uacute;mero de defasagens foram os crit&eacute;rios  de informa&ccedil;&atilde;o de Akaike (AIC) e de Schwarz (SBC), o teste do multiplicador  de Lagrange (teste LM) e o teste de Ljung-Box (teste LB). O n&uacute;mero &oacute;timo  de defasagens resultante em cada crit&eacute;rio foi: AIC = 7; LB = 7; LM = 5;  e SBC = 3. O teste ADF foi realizado com 7 defasagens, j&aacute; que o teste LB  &eacute; considerado mais robusto. A aplica&ccedil;&atilde;o do teste ADF, como  implementado no programa RATS, n&atilde;o permite rejeitar a hip&oacute;tese nula  de exist&ecirc;ncia de raiz unit&aacute;ria. Os resultados s&atilde;o apresentados  na <A HREF="#tab01">Tabela 1</A>. O teste ADF da primeira diferen&ccedil;a de  cada uma das vari&aacute;veis (n&atilde;o reportado aqui) rejeitou a hip&oacute;tese  nula de raiz unit&aacute;ria. Isso sugere que as s&eacute;ries de pre&ccedil;os  futuros e &agrave; vista do boi gordo podem ser consideradas processos n&atilde;o-estacion&aacute;rios  de ordem um, I(1).</font></p>    <p><FONT SIZE="2" FACE="Verdana, Arial, Helvetica, sans-serif"><A NAME="tab01"></A></FONT></p>    ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n3/a03tab01.gif"></p>    <p>&nbsp;</p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dado  que as vari&aacute;veis s&atilde;o integradas de mesma ordem, o pr&oacute;ximo  passo &eacute; realizar o teste de co-integra&ccedil;&atilde;o e verificar se  os res&iacute;duos s&atilde;o estacion&aacute;rios. As s&eacute;ries s&atilde;o  co-integradas se &#181;<i><sub>t + 1</sub></i> = <i>S<sub>t + 1</sub></i> - <i>c<sub>0</sub>  </i>-<i>c<sub>1</sub>F<sub>t</sub></i> &eacute; uma s&eacute;rie estacion&aacute;ria,  o que implica que St + 1 e Ft n&atilde;o se movem muito longe uma da outra embora  ambas sejam n&atilde;o-estacion&aacute;rias. O teste ADF usado para verificar  a estacionariedade dos res&iacute;duos &eacute; conhecido como teste de Engle-Granger  aumentado. Se os res&iacute;duos forem integrados de ordem zero, I(0), s&atilde;o  estacion&aacute;rios (n&atilde;o tem raiz unit&aacute;ria) e as s&eacute;ries  s&atilde;o co-integradas. Para testar a estacionaridade dos res&iacute;duos considerando  co-integra&ccedil;&atilde;o, devem ser usados os valores cr&iacute;ticos estabelecidos  por MacKinnon (1996), visto que os valores estabelecidos para os testes ADF n&atilde;o  s&atilde;o mais v&aacute;lidos. Os resultados obtidos indicam que as duas s&eacute;ries  t&ecirc;m uma raiz unit&aacute;ria e os res&iacute;duos s&atilde;o I(0), pois  a estat&iacute;stica tau calculada foi de -8,583, para um valor cr&iacute;tico  de -3,410. Logo, as s&eacute;ries de pre&ccedil;o futuro e &agrave; vista, apesar  de individualmente serem n&atilde;o-estacion&aacute;rias, s&atilde;o co-integradas.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os  resultados relevantes da regress&atilde;o de co-integra&ccedil;&atilde;o, realizada  com o pre&ccedil;o &agrave; vista como vari&aacute;vel dependente, foram:</font></p>    <p align="center"><img src="/img/revistas/resr/v47n3/a03for06b.gif"></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  A co-integra&ccedil;&atilde;o &eacute; somente uma condi&ccedil;&atilde;o necess&aacute;ria  para efici&ecirc;ncia de mercado. A efici&ecirc;ncia de mercado tamb&eacute;m  requer que os pre&ccedil;os futuros sejam um estimador n&atilde;o viesado dos  pre&ccedil;os correntes, i.&eacute;., <i>c<sub>0</sub></i> = 0 e <i>c<sub>1</sub></i>  = 1 na Equa&ccedil;&atilde;o (1). Restri&ccedil;&otilde;es no vetor de co-integra&ccedil;&atilde;o  foram testadas para os pre&ccedil;os co-integrados do boi gordo, usando o procedimento  "<i>restrict</i>" do RATS. A restri&ccedil;&atilde;o conjunta <i>c<sub>0</sub></i>  = 0 e <i>c<sub>1</sub></i> = 1, imposta ao vetor de co-integra&ccedil;&atilde;o  n&atilde;o foi rejeitada:</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">F(1,  912) = 66,04793 com n&iacute;vel de signific&acirc;ncia 0,00000000.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Conseq&uuml;entemente, h&aacute; evid&ecirc;ncia para suportar as hip&oacute;teses  de efici&ecirc;ncia de mercado e n&atilde;o vi&eacute;s no longo prazo (o pre&ccedil;o  futuro &eacute; um estimador n&atilde;o viesado do pre&ccedil;o &agrave; vista),  para o mercado do boi gordo da BM&amp;FBovespa.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O n&uacute;mero de defasagens na Equa&ccedil;&atilde;o (5) foi determinado iniciando  com um modelo geral com doze defasagens de </font>&#916;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>S<sub>t</sub></i>  e </font>&#916;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>F<sub>t</sub></i>,  e eliminando, em sucessivas estima&ccedil;&otilde;es, as defasagens n&atilde;o  significantes (a 5%). Isso garante que os res&iacute;duos sejam n&atilde;o autocorrelacionados.  O termo de erro defasado, <i>&#181;<sub>t</sub>,</i> foi recuperado da Equa&ccedil;&atilde;o  (1), a regress&atilde;o de co-integra&ccedil;&atilde;o. O modelo de corre&ccedil;&atilde;o  de erros estimado foi:</font></p>    <p align="center"><img src="/img/revistas/resr/v47n3/a03for06c.gif"></p>    ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Os n&uacute;meros entre par&ecirc;nteses s&atilde;o as estat&iacute;sticas t.  O coeficiente de determina&ccedil;&atilde;o ajustado (R<sup>2</sup><sub>adj</sub>)  foi de 0,327 e a estat&iacute;stica Durbin-Watson, de 2,00.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O coeficiente de &#181;<i><sub>t</sub></i> foi significantemente diferente de  zero a 10%, consistente com os resultados anteriores de que os pre&ccedil;os &agrave;  vista e futuros s&atilde;o co-integrados. Assim, as conclus&otilde;es sobre a  efici&ecirc;ncia de mercado e o n&atilde;o vi&eacute;s permanecem v&aacute;lidas.</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5.  Conclus&otilde;es</b></font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  O objetivo deste artigo foi testar a efici&ecirc;ncia do mercado futuro brasileiro  do boi gordo na presen&ccedil;a de um pr&ecirc;mio ao risco. Os resultados emp&iacute;ricos  indicaram a presen&ccedil;a de raiz unit&aacute;ria nos pre&ccedil;os futuros  e &agrave; vista do boi gordo, o que implica na n&atilde;o-estacionaridade das  s&eacute;ries de pre&ccedil;os, e assim foi usada a abordagem de co-integra&ccedil;&atilde;o  para testar a efici&ecirc;ncia de mercado. O teste ADF indicou que os res&iacute;duos  s&atilde;o estacion&aacute;rios, resultando na n&atilde;o rejei&ccedil;&atilde;o  das hip&oacute;teses de que o mercado &eacute; eficiente. Para testar a hip&oacute;tese  de que os pre&ccedil;os futuros s&atilde;o estimadores n&atilde;o viesados dos  pre&ccedil;os &agrave; vista no longo prazo, foi imposta uma restri&ccedil;&atilde;o  conjunta, <i>c<sub>0</sub></i> = 0 e <i>c<sub>1</sub></i> = 1, ao vetor de co-integra&ccedil;&atilde;o,  a qual n&atilde;o foi rejeitada, confirmando a hip&oacute;tese do n&atilde;o vi&eacute;s.  Entretanto, na presen&ccedil;a de um pr&ecirc;mio ao risco, a hip&oacute;tese  de n&atilde;o vi&eacute;s pode ser rejeitada mesmo quando o mercado &eacute; eficiente.  Para testar a efici&ecirc;ncia de mercado sem depender da hip&oacute;tese de que  n&atilde;o existe um pr&ecirc;mio ao risco foi usado um modelo de corre&ccedil;&atilde;o  de erros. A presen&ccedil;a de um pr&ecirc;mio ao risco n&atilde;o causou a rejei&ccedil;&atilde;o  da hip&oacute;tese de n&atilde;o vi&eacute;s. Conclui-se, portanto, que o mercado  futuro do boi gordo da BM&amp;FBovespa &eacute; um mercado eficiente e que no  longo prazo os pre&ccedil;os futuros s&atilde;o estimadores n&atilde;o viesados  dos pre&ccedil;os &agrave; vista.</font></p>    <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  Como a literatura tem mostrado a possibilidade de resultados divergentes em fun&ccedil;&atilde;o  de fatores como, entre outros, per&iacute;odo de tempo analisado, sazonalidade,  sobreposi&ccedil;&atilde;o de dados e desigualdade de espa&ccedil;amento entre  observa&ccedil;&otilde;es, &eacute; poss&iacute;vel que conclus&otilde;es mais  robustas sejam obtidas quando alguns de tais fatores s&atilde;o levados em conta.  Da mesma forma, diferentes t&eacute;cnicas econom&eacute;tricas (como processos  ARCH, por exemplo) podem ser usadas para refor&ccedil;ar ou n&atilde;o os resultados  que o presente artigo chegou. Dado que o mercado brasileiro do boi gordo provavelmente  j&aacute; deve ter passado de sua fase imatura, &eacute; importante a realiza&ccedil;&atilde;o  de estudos considerando os fatores acima, para aumentar a compreens&atilde;o do  funcionamento deste mercado. Al&eacute;m disso, o mercado futuro do boi gordo  brasileiro tem mostrado um grande crescimento, se mantendo a frente de outros  produtos agropecu&aacute;rios nos &uacute;ltimos anos, e tem potencial para crescer  ainda mais. Assim, as ferramentas financeiras do mercado futuro provavelmente  continuar&atilde;o a ser cada vez mais utilizadas pelos produtores, j&aacute;  que funcionam como um instrumento de prote&ccedil;&atilde;o patrimonial e de suporte  na busca de maior estabilidade na renda da atividade. A garantia de que este mercado  &eacute; eficiente - conforme os resultados deste estudo indicam - permite maior  certeza no estabelecimento do pre&ccedil;o do produto pelos pecuaristas, o que  tamb&eacute;m aumenta a efici&ecirc;ncia e a rentabilidade do seu neg&oacute;cio.</font></p>    <p>&nbsp;</p>    <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6.  Refer&ecirc;ncias Bibliogr&aacute;ficas</b></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ACKER, L. F.; RACINE, M. D. 1999. Stochastic trends and cointegration in the market  for equities.<b> Journal of Economics and Business</b>, 51(2): 133-143.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000081&pid=S0103-2003200900030000300001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BECK, S. E. 1994. Cointegration and market efficiency in commodity futures markets.  <b>Applied Economics</b>, 26, 249-257.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000083&pid=S0103-2003200900030000300002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BESSLER, D. A.; COVEY, T. 1991. Cointegration: Some results on U.S. cattle prices.  <b>Journal of Futures Markets</b>, 11:461-474.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000085&pid=S0103-2003200900030000300003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BM&amp;F. 2006. <b>Relat&oacute;rio Agropecu&aacute;rio Mensal - Agosto 2006.</b>  Bolsa de Mercadorias &amp; Futuros, S&atilde;o Paulo.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000087&pid=S0103-2003200900030000300004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  BRESSAN, A. A. 2004. Tomada de decis&atilde;o em futuros agropecu&aacute;rios  com modelos de previs&atilde;o de s&eacute;ries temporais. <b>RAE-eletr&ocirc;nica</b>,  3(1). Art. 9.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000089&pid=S0103-2003200900030000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  CHU, Q. C.; HSIEH, W. G.; TSE, Y. 1999. Price discovery on the S&amp;P 500 index  markets: An analysis of spot index, index futures, and SPDRs. <b>International  Review of Financial Analysis</b>, 8(1): 21-34.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000091&pid=S0103-2003200900030000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  CROWDER, W. J.; PHENGPIS, C. 2003. Testing futures market efficiency using adaptive  estimation. University of Texas, <b>Economics Department Working Paper</b>, 7.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000093&pid=S0103-2003200900030000300007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  DANTHINE, J. P. 1978. Information, futures prices and stabilizing speculation.  <b>Journal of Economic Theory</b>, 17: 79-98.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000095&pid=S0103-2003200900030000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  DICKEY, D. A.; FULLER, W. A. 1981. Likelihood ratio statistics for autoregressive  time series with a unit root, <b>Econometrica, 49:</b> 1057-1072.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000097&pid=S0103-2003200900030000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ENGLE, R.; GRANGER, C. 1987. Cointegration and error correction: representation,  estimation and testing. <b>Econometrica</b>, 55: 251-276.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000099&pid=S0103-2003200900030000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FAMA,  E.F. 1970. Efficient capital markets: A review of theory and empirical work."  <b>Journal of Finance.</b> 25,383-417.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000101&pid=S0103-2003200900030000300011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  FAMA, E.F.; FRENCH, K. R. 1987. Commodity futures prices: Some evidence on forecast  power, premiums and the theory of storage. <b>Journal of Business</b>, 60: 55-73.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000103&pid=S0103-2003200900030000300012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  GARCIA, P.; LEUTHOLD, R. M.; EGELKRAUT, T. M. 2004. Issues and Research Opportunities  in Agricultural Futures Markets. In: <b>Symposium on Risk Management in Less Developed  and More Developed Countries</b>, Melbourne, 18-19 November 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000105&pid=S0103-2003200900030000300013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  GRANGER, C. W. J. 1986. Developments in the study of cointegrated economic variables.  <b>Oxford Bulletin of Economics and Statistics</b>, 48: 213-228.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000107&pid=S0103-2003200900030000300014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GRANGER,  C. W. J. E NEWBOLD, P. 1974. Spurious regression in econometrics. <b>Journal of  Econometrics</b>, 2: 111-120.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000109&pid=S0103-2003200900030000300015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  GRAY, R.W.; RUTLEDGE, D. J. S. 1971. The economics of commodity futures markets:  A survey. <b>Review of Marketing and Agricultural Economics.</b> 39: 3-54.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S0103-2003200900030000300016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  JOHANSEN, S. 1988. Statistical analysis of cointegration vector. <b>Journal of  Econometric Dynamic and Control</b>, 12, 231-254.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0103-2003200900030000300017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  KELLARD, N.; NEWBOLD, P.; RAYNER, A.; ENNEW, C. 1999. The relative efficiency  of commodity futures markets. <b>Journal of Futures Market</b>, 19, 413-432.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0103-2003200900030000300018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  LAZZARINI, S. G.; ZYLBERSZTAIN, D.; TAKAKI, F. S. 1998. Inova&ccedil;&otilde;es  contratuais em mercados futuros: o caso do boi gordo na BM&amp;F. <b>RAC</b>,  2(3): 07-26.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0103-2003200900030000300019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  LEUTHOLD, R. M. 1974. The price performance of the futures market of a nonstorable  commodity: live beef cattle. <b>American Journal of Agricultural Economics</b>,  56 (2):64-78.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S0103-2003200900030000300020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  LEUTHOLD. R. M. 1979. An analysis of the futures - cash prices basis for live  beef cattle. <b>North Central Journal of Agricultural Economics</b>, 1: 47-52.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S0103-2003200900030000300021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  MCKENZIE, A. M.; HOLT, M. T. 2002. Market efficiency in agricultural futures markets.  <b>Applied Economics</b>. 34,1519-1532.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S0103-2003200900030000300022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  MACKINNON, J. G. 1996. Numerical distribution functions for unit root and cointegration  tests.<b> Journal of Applied Econometrics</b>, 11: 601-618.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S0103-2003200900030000300023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  MALKIEL, B.G. 2003. The efficient market hypothesis and its critics. <b>Journal  of Economic Perspectives</b>. 17: 59-82.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000127&pid=S0103-2003200900030000300024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  MARTIN, N. B.; BEZERRA, L. M. C. 2005. <b>Mercado futuro do boi gordo:</b> o maior  crescimento entre os derivativos agropecu&aacute;rios. Boletim do CCTC-IEA n&uacute;mero  HP-40/2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000129&pid=S0103-2003200900030000300025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  NEWBOLD, P.; RAYNER, A.; ENNEW, C.; MARROCU, E. 1999a. Testing seasonality and  efficiency in commodity futures markets. University of Nottingham, <b>School of  Economics Discussion Paper</b>, 33.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000131&pid=S0103-2003200900030000300026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  NEWBOLD, P.; RAYNER, A.; ENNEW, C.; MARROCU, E. 1999b. Futures markets efficiency:  evidence from unevenly spaced contracts. University of Nottingham, <b>School of  Economics Discussion Paper</b>, 34.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S0103-2003200900030000300027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">  ZULAUF, C. R.; IRWIN, S. H. 1997. Market efficiency and marketing to enhance income  of crop producers. <b>OFOR Economic Paper Series</b>, 97-04.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0103-2003200900030000300028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ACKER]]></surname>
+<given-names><![CDATA[L. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RACINE]]></surname>
+<given-names><![CDATA[M. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Stochastic trends and cointegration in the market for equities]]></article-title>
+<source><![CDATA[Journal of Economics and Business]]></source>
+<year></year>
+<volume>51</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>133-143</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BECK]]></surname>
+<given-names><![CDATA[S. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cointegration and market efficiency in commodity futures markets]]></article-title>
+<source><![CDATA[Applied Economics]]></source>
+<year></year>
+<volume>26</volume>
+<page-range>249-257</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BESSLER]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COVEY]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cointegration: Some results on U.S. cattle prices]]></article-title>
+<source><![CDATA[Journal of Futures Markets]]></source>
+<year></year>
+<volume>11</volume>
+<page-range>461-474</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<collab>BM&F</collab>
+<source><![CDATA[Relatório Agropecuário Mensal - Agosto 2006]]></source>
+<year></year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Bolsa de Mercadorias & Futuros]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRESSAN]]></surname>
+<given-names><![CDATA[A. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Tomada de decisão em futuros agropecuários com modelos de previsão de séries temporais]]></article-title>
+<source><![CDATA[RAE-eletrônica]]></source>
+<year></year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHU]]></surname>
+<given-names><![CDATA[Q. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HSIEH]]></surname>
+<given-names><![CDATA[W. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TSE]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Price discovery on the S&P 500 index markets: An analysis of spot index, index futures, and SPDRs]]></article-title>
+<source><![CDATA[International Review of Financial Analysis]]></source>
+<year></year>
+<volume>8</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>21-34</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CROWDER]]></surname>
+<given-names><![CDATA[W. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PHENGPIS]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Testing futures market efficiency using adaptive estimation]]></source>
+<year>2003</year>
+<publisher-name><![CDATA[University of Texas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DANTHINE]]></surname>
+<given-names><![CDATA[J. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Information, futures prices and stabilizing speculation]]></article-title>
+<source><![CDATA[Journal of Economic Theory]]></source>
+<year></year>
+<volume>17</volume>
+<page-range>79-98</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Likelihood ratio statistics for autoregressive time series with a unit root]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year></year>
+<volume>49</volume>
+<page-range>1057-1072</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cointegration and error correction: representation, estimation and testing]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year></year>
+<volume>55</volume>
+<page-range>251-276</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FAMA]]></surname>
+<given-names><![CDATA[E.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Efficient capital markets: A review of theory and empirical work]]></article-title>
+<source><![CDATA[Journal of Finance]]></source>
+<year></year>
+<volume>25</volume>
+<page-range>383-417</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FAMA]]></surname>
+<given-names><![CDATA[E.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRENCH]]></surname>
+<given-names><![CDATA[K. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Commodity futures prices: Some evidence on forecast power, premiums and the theory of storage]]></article-title>
+<source><![CDATA[Journal of Business]]></source>
+<year></year>
+<volume>60</volume>
+<page-range>55-73</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARCIA]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEUTHOLD]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[EGELKRAUT]]></surname>
+<given-names><![CDATA[T. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Issues and Research Opportunities in Agricultural Futures Markets]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ Symposium on Risk Management in Less Developed and More Developed Countries]]></conf-name>
+<conf-date>18-19 November 2004</conf-date>
+<conf-loc>Melbourne </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Developments in the study of cointegrated economic variables]]></article-title>
+<source><![CDATA[Oxford Bulletin of Economics and Statistics]]></source>
+<year></year>
+<volume>48</volume>
+<page-range>213-228</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NEWBOLD]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spurious regression in econometric]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year></year>
+<volume>2</volume>
+<page-range>111-120</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRAY]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUTLEDGE]]></surname>
+<given-names><![CDATA[D. J. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The economics of commodity futures markets: A survey]]></article-title>
+<source><![CDATA[Review of Marketing and Agricultural Economics]]></source>
+<year></year>
+<volume>39</volume>
+<page-range>3-54</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical analysis of cointegration vector]]></article-title>
+<source><![CDATA[Journal of Econometric Dynamic and Control]]></source>
+<year></year>
+<volume>12</volume>
+<page-range>231-254</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KELLARD]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NEWBOLD]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAYNER]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ENNEW]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The relative efficiency of commodity futures markets]]></article-title>
+<source><![CDATA[Journal of Futures Market]]></source>
+<year></year>
+<volume>19</volume>
+<page-range>413-432</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAZZARINI]]></surname>
+<given-names><![CDATA[S. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZYLBERSZTAIN]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TAKAKI]]></surname>
+<given-names><![CDATA[F. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Inovações contratuais em mercados futuros: o caso do boi gordo na BM&F]]></article-title>
+<source><![CDATA[RAC]]></source>
+<year></year>
+<volume>2</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>07-26</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEUTHOLD]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The price performance of the futures market of a nonstorable commodity: live beef cattle]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year></year>
+<volume>56</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>64-78</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEUTHOLD]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An analysis of the futures - cash prices basis for live beef cattle]]></article-title>
+<source><![CDATA[North Central Journal of Agricultural Economics]]></source>
+<year></year>
+<volume>1</volume>
+<page-range>47-52</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCKENZIE]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOLT]]></surname>
+<given-names><![CDATA[M. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Market efficiency in agricultural futures markets]]></article-title>
+<source><![CDATA[Applied Economics]]></source>
+<year></year>
+<volume>34</volume>
+<page-range>1519-1532</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACKINNON]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Numerical distribution functions for unit root and cointegration tests]]></article-title>
+<source><![CDATA[Journal of Applied Econometrics]]></source>
+<year></year>
+<volume>11</volume>
+<page-range>601-618</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MALKIEL]]></surname>
+<given-names><![CDATA[B.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The efficient market hypothesis and its critics]]></article-title>
+<source><![CDATA[Journal of Economic Perspectives]]></source>
+<year></year>
+<volume>17</volume>
+<page-range>59-82</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTIN]]></surname>
+<given-names><![CDATA[N. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BEZERRA]]></surname>
+<given-names><![CDATA[L. M. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Mercado futuro do boi gordo: o maior crescimento entre os derivativos agropecuários]]></article-title>
+<source><![CDATA[Boletim do CCTC-IEA]]></source>
+<year></year>
+<numero>HP-40/2005</numero>
+<issue>HP-40/2005</issue>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEWBOLD]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAYNER]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ENNEW]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARROCU]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Testing seasonality and efficiency in commodity futures markets]]></source>
+<year>1999</year>
+<publisher-name><![CDATA[University of Nottingham]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEWBOLD]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAYNER]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ENNEW]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARROCU]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Futures markets efficiency: evidence from unevenly spaced contracts]]></source>
+<year>1999</year>
+<publisher-name><![CDATA[University of Nottingham]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZULAUF]]></surname>
+<given-names><![CDATA[C. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IRWIN]]></surname>
+<given-names><![CDATA[S. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Market efficiency and marketing to enhance income of crop producers]]></source>
+<year>1997</year>
+<page-range>97-04</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

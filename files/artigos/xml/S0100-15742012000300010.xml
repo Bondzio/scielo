@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0100-1574</journal-id>
+<journal-title><![CDATA[Cadernos de Pesquisa]]></journal-title>
+<abbrev-journal-title><![CDATA[Cad. Pesqui.]]></abbrev-journal-title>
+<issn>0100-1574</issn>
+<publisher>
+<publisher-name><![CDATA[Fundação Carlos Chagas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0100-15742012000300010</article-id>
+<article-id pub-id-type="doi">10.1590/S0100-15742012000300010</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Pobreza e municipalização da educação: análise dos resultados do IDEB (2005-2009)]]></article-title>
+<article-title xml:lang="en"><![CDATA[Poverty and municipalization of education: the analysis of ideb results (2005-2009)]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Andrews]]></surname>
+<given-names><![CDATA[Christina W.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vries]]></surname>
+<given-names><![CDATA[Michiel S. De]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de São Paulo Escola de Filosofia, Letras e Ciências Humanas ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Radboud Universiteit Nijmegen Faculdade de Ciências Administrativas ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Holanda</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2012</year>
+</pub-date>
+<volume>42</volume>
+<numero>147</numero>
+<fpage>826</fpage>
+<lpage>847</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0100-15742012000300010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0100-15742012000300010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0100-15742012000300010&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O artigo apresenta resultados de pesquisa empírica que buscou verificar o impacto da pobreza sobre o Índice de Desenvolvimento da Educação Básica em escolas de ensino fundamental em mais de 5.500 municípios brasileiros, comparando o desempenho de escolas estaduais e municipais. Foram analisados os dados de 2005, 2007 e 2009 por meio de regressões lineares simples, resíduos de regressões e de correlações parciais. Os resultados mostram que a pobreza tem um forte impacto no desempenho escolar, chegando a explicar até 60% da variação. Os autores discutem os resultados obtidos vis-à-vis às atuais tendências de políticas educacionais, como as políticas fundamentadas em fatores de input e na responsabilização de professores, apontando suas limitações.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This paper presents the results of an empirical research that sought to estimate the impact of poverty on the Brazilian School Performance Index - Ideb - for elementary schools in more than 5,500 Brazilian municipalities, comparing the performance of state and municipal schools. The investigation examines Ideb data for 2005, 2007, and 2009 through simple linear regressions, residue analysis, and partial correlation analysis. The results showed that poverty has a strong impact in students' performance, explaining up to 60 percent of the variation of Ideb scores. The authors discuss the results vis-à-vis the current trend in educational policies, such as those based on input factors and teachers' accountability, pointing out their shortcomings.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Políticas Educacionais]]></kwd>
+<kwd lng="pt"><![CDATA[Municipalização Do Ensino]]></kwd>
+<kwd lng="pt"><![CDATA[Pobreza]]></kwd>
+<kwd lng="pt"><![CDATA[Brasil]]></kwd>
+<kwd lng="en"><![CDATA[Educational Policies]]></kwd>
+<kwd lng="en"><![CDATA[Municipalities]]></kwd>
+<kwd lng="en"><![CDATA[Poverty]]></kwd>
+<kwd lng="en"><![CDATA[Brazil]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2" face="Verdana"><b>OUTROS TEMAS </b></font></p>     <p>&nbsp;</p>     <p><b><font size="4" face="Verdana">Pobreza e municipaliza&ccedil;&atilde;o da educa&ccedil;&atilde;o: an&aacute;lise dos   resultados do IDEB (2005-2009)</font></b></p>     <p>&nbsp;</p>     <p><b><font size="3" face="Verdana">Poverty and municipalization of education:    the analysis of ideb results    (2005-2009)</font></b><font size="2" face="Verdana"></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>Christina W.   Andrews<sup>I</sup>;    Michiel S. De Vries<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana"><sup>I</sup>Professora Adjunta II da Escola de Filosofia,   Letras e Ci&ecirc;ncias Humanas, Universidade Federal de S&atilde;o Paulo - Unifesp - Campus   Guarulhos, <a href="mailto:christina.andrews@unifesp.br">christina.andrews@unifesp.br</a></font>    <br>   <font size="2" face="Verdana"><sup>II</sup>Professor Titular da Faculdade de Ci&ecirc;ncias     Administrativas, Radboud Universiteit Nijmegen - Holanda, <a href="mailto:m.devries@fm.ru.nl">m.devries@fm.ru.nl</a></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana">O artigo apresenta resultados de   pesquisa emp&iacute;rica que buscou verificar o impacto da pobreza sobre o &Iacute;ndice de   Desenvolvimento da Educa&ccedil;&atilde;o B&aacute;sica em escolas de ensino fundamental em mais de   5.500 munic&iacute;pios brasileiros, comparando o desempenho de escolas estaduais e   municipais. Foram analisados os dados de 2005, 2007 e 2009 por meio de regress&otilde;es   lineares simples, res&iacute;duos de regress&otilde;es e de correla&ccedil;&otilde;es parciais. Os   resultados mostram que a pobreza tem um forte impacto no desempenho escolar,   chegando a explicar at&eacute; 60% da varia&ccedil;&atilde;o. Os autores discutem os resultados   obtidos vis-&agrave;-vis &agrave;s   atuais tend&ecirc;ncias de pol&iacute;ticas educacionais, como as pol&iacute;ticas fundamentadas em   fatores de input e na   responsabiliza&ccedil;&atilde;o de professores, apontando suas limita&ccedil;&otilde;es.</font></p>     <p><font size="2" face="Verdana"><b>Palavras-chave: </b>Pol&iacute;ticas   Educacionais. Municipaliza&ccedil;&atilde;o Do Ensino. Pobreza. Brasil.</font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana">This paper presents the results of an   empirical research that sought to estimate the impact of poverty on the   Brazilian School Performance Index - Ideb - for elementary schools in more than   5,500 Brazilian municipalities, comparing the performance of state and   municipal schools. The investigation examines Ideb data for 2005, 2007, and   2009 through simple linear regressions, residue analysis, and partial   correlation analysis. The results showed that poverty has a strong impact in   students' performance, explaining up to 60 percent of the variation of Ideb   scores. The authors discuss the results vis-&agrave;-vis the current trend in educational policies, such as those   based on input factors and teachers' accountability, pointing out their   shortcomings.</font></p>     <p><font size="2" face="Verdana"><b>Keywords: </b>Educational   Policies. Municipalities. Poverty. Brazil.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Nos debates   contempor&acirc;neos sobre a educa&ccedil;&atilde;o, uma quest&atilde;o parece ter alcan&ccedil;ado   o consenso tanto entre estudiosos como entre os formuladores de pol&iacute;ticas   educacionais: o acesso ao ensino b&aacute;sico j&aacute; foi praticamente resolvido na   maioria dos pa&iacute;ses em desenvolvimento e agora o desafio para as pol&iacute;ticas educacionais   &eacute; melhorar a qualidade da educa&ccedil;&atilde;o (WINKLER, GERSHBERG, 2000; HANUSHEK, W&Ouml;&szlig;MANN,   2007). Esse novo consenso teve um profundo impacto sobre as pol&iacute;ticas   educacionais em todo o mundo - e n&atilde;o s&oacute; nos pa&iacute;ses em desenvolvimento ou "emergentes"   -, uma vez que as pol&iacute;ticas educacionais passaram a dar centralidade &agrave; avalia&ccedil;&atilde;o   do desempenho escolar, entendido como principal indicador da qualidade da educa&ccedil;&atilde;o.   Nos &uacute;ltimos 20 anos, o Reino Unido e os EUA adotaram estrat&eacute;gias que associaram   a responsabiliza&ccedil;&atilde;o de professores e gestores a mecanismos de mercado, levando   escolas p&uacute;blicas a competir com institui&ccedil;&otilde;es de ensino privadas por recursos   governamentais (RAVITCH, 2010; TOMLINSON, 2005). No Brasil, embora tenhamos   alcan&ccedil;ado a universaliza&ccedil;&atilde;o do ensino fundamental s&oacute; recentemente, a quest&atilde;o da   qualidade da educa&ccedil;&atilde;o tamb&eacute;m passou a pautar os debates sobre as pol&iacute;ticas   educacionais. </font></p>     <p><font size="2" face="Verdana">Essa mudan&ccedil;a de enfoque tamb&eacute;m se refletiu na   pesquisa educacional. Nos &uacute;ltimos 20 anos, centenas de estudos foram realizados   buscando identificar quais fatores pertinentes &agrave; escola teriam impacto sobre o   desempenho escolar, mas os resultados foram inconclusivos (HANUSHEK, 2003,   1995). O efeito dos chamados fatores de <i>input </i>- qualifica&ccedil;&atilde;o de professores, tamanho das turmas,   infraestrutura etc. - sobre o desempenho escolar n&atilde;o se mostrou consistente,   variando conforme o contexto em que os estudos foram realizados e o grau de   agrega&ccedil;&atilde;o das vari&aacute;veis consideradas. No entanto, um fator tem mostrado   consist&ecirc;ncia no que diz respeito a seu impacto sobre o desempenho escolar: as   condi&ccedil;&otilde;es socioecon&ocirc;micas das fam&iacute;lias dos alunos. Um dos mais conhecidos   estudos sobre o impacto do <i>background </i>socioecon&ocirc;mico   no desempenho escolar &eacute; o Relat&oacute;rio Coleman, que publicou, nos anos 1960, os   resultados de um amplo e detalhado estudo sobre os fatores que afetavam o   desempenho nas escolas norte-americanas (COLEMAN et al., 1966). Os   pesquisadores aplicaram controles estat&iacute;sticos para descontar o efeito das   caracter&iacute;sticas socioecon&ocirc;micas das fam&iacute;lias e conclu&iacute;ram que as caracter&iacute;sticas   da escola tinham um impacto muito pequeno sobre o desempenho dos alunos. Ou   seja, o <i>background</i> socioecon&ocirc;mico da   fam&iacute;lia mostrou ser o fator que melhor explicava o desempenho escolar enquanto   fatores como n&uacute;mero de alunos por classe, qualifica&ccedil;&atilde;o de professores,   equipamento escolar etc. n&atilde;o se mostraram significativos. Desde ent&atilde;o, diversos   estudos confirmaram os resultados do Relat&oacute;rio Coleman. Curiosamente, por&eacute;m, as   pol&iacute;ticas educacionais nos EUA - e tamb&eacute;m no Reino Unido&nbsp;- t&ecirc;m procurado   promover o desempenho escolar por meio de interven&ccedil;&otilde;es nos fatores de <i>input </i>e, principalmente, por meio da responsabiliza&ccedil;&atilde;o de   escolas e professores. A situa&ccedil;&atilde;o n&atilde;o &eacute; muito diferente em outros pa&iacute;ses. No   caso do Brasil, a partir do surgimento dos indicadores de desempenho, diversos   estados e munic&iacute;pios passaram a adotar pol&iacute;ticas de responsabiliza&ccedil;&atilde;o; no   entanto, sabe-se muito pouco sobre o efeito dessas pol&iacute;ticas no m&eacute;dio e longo   prazo (BROOKE, 2008). De todo o modo, o impacto do <i>background </i>socioecon&ocirc;mico das fam&iacute;lias n&atilde;o tem sido levado em   considera&ccedil;&atilde;o nessas pol&iacute;ticas.</font></p>     <p><font size="2" face="Verdana">Outra quest&atilde;o que tem implica&ccedil;&otilde;es para o debate   atual sobre pol&iacute;ticas educacionais no Brasil &eacute; o papel da descentraliza&ccedil;&atilde;o.   Alguns analistas t&ecirc;m apontado que a descentraliza&ccedil;&atilde;o teria um impacto positivo   na qualidade da educa&ccedil;&atilde;o. Para eles, a descentraliza&ccedil;&atilde;o pode aumentar a   participa&ccedil;&atilde;o e o controle dos pais sobre os servi&ccedil;os educacionais, favorecendo   a efici&ecirc;ncia t&eacute;cnica e social da educa&ccedil;&atilde;o, especialmente quando combinada com   mecanismos de mercado (HANUSHEK, 2003; WEST, 1997; WINKLER, GERSHBERG, 2000).   Por outro lado, os cr&iacute;ticos dessa perspectiva argumentam que a descentraliza&ccedil;&atilde;o   da educa&ccedil;&atilde;o, especialmente no mundo em desenvolvimento, tem sido apenas um   corol&aacute;rio dos programas de ajuste estrutural promovidos pelo Banco Mundial e   que muitas vezes conflitam com a declarada meta do banco de combate &agrave; pobreza   (BONAL, 2004; CARNOY, 1997; KAMAT, 2002). Cr&iacute;ticos das reformas educacionais no   Reino Unido e nos EUA, por sua vez, argumentaram que as reformas educacionais   nesses pa&iacute;ses implicaram um maior controle dos governos centrais sobre as   escolas, apesar da ret&oacute;rica sobre a promo&ccedil;&atilde;o da autonomia (TOMLINSON, 2005).   Winkler e Gershberg (2000) acreditam que a descentraliza&ccedil;&atilde;o pode aumentar a qualidade   do ensino nos pa&iacute;ses em desenvolvimento, mas admitem que &eacute; dif&iacute;cil verificar se   efetivamente h&aacute; um impacto positivo. Essa dificuldade tem tr&ecirc;s raz&otilde;es: em   primeiro lugar, os pa&iacute;ses em desenvolvimento frequentemente carecem de informa&ccedil;&otilde;es   sobre o desempenho escolar e de indicadores sobre a qualidade da escola; em   segundo lugar, os resultados das pol&iacute;ticas educacionais aparecem lentamente em   resposta &agrave;s interven&ccedil;&otilde;es, e, finalmente, &eacute; dif&iacute;cil controlar os efeitos de "choques   externos" (cat&aacute;strofes naturais, greves de professores, crises financeiras,   mudan&ccedil;as na lideran&ccedil;a etc.). Por essa raz&atilde;o, os autores decidiram avaliar o   impacto da descentraliza&ccedil;&atilde;o na educa&ccedil;&atilde;o em alguns pa&iacute;ses analisando os fatores   que caracterizariam as escolas de alto desempenho, tais como uma lideran&ccedil;a   forte, professores altamente qualificados, dedica&ccedil;&atilde;o dos funcion&aacute;rios e foco em   resultados. Essa abordagem indireta, no entanto, n&atilde;o &eacute; satisfat&oacute;ria, pois, como   notamos, n&atilde;o existe consenso estabelecido sobre quais caracter&iacute;sticas da escola   t&ecirc;m um impacto significativo sobre a qualidade da educa&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana">A quest&atilde;o da descentraliza&ccedil;&atilde;o da educa&ccedil;&atilde;o no Brasil   deve ser abordada sob outras premissas. Em primeiro lugar, desde o in&iacute;cio do s&eacute;culo   XX, o governo federal tem um papel pequeno como fornecedor da educa&ccedil;&atilde;o b&aacute;sica   no Brasil, atribui&ccedil;&atilde;o que foi assumida pelos estados. A regulamenta&ccedil;&atilde;o federal   sempre esteve presente, mas, a partir da homologa&ccedil;&atilde;o da Lei de Diretrizes e   Bases da Educa&ccedil;&atilde;o Nacional&nbsp;- LDB (BRASIL, 1996a), estados e munic&iacute;pios   ganharam maior autonomia para a elabora&ccedil;&atilde;o de curr&iacute;culos. Portanto, a   descentraliza&ccedil;&atilde;o da educa&ccedil;&atilde;o no Brasil pode ser mais bem entendida no Brasil   como <i>municipaliza&ccedil;&atilde;o</i>. O processo   de universaliza&ccedil;&atilde;o da educa&ccedil;&atilde;o, promovido a partir de 1997 pela pol&iacute;tica do   Fundo de Manuten&ccedil;&atilde;o e Desenvolvimento do Ensino Fundamental e de Valoriza&ccedil;&atilde;o do   Magist&eacute;rio - Fundef&nbsp;-, criou fortes incentivos para a municipaliza&ccedil;&atilde;o do   ensino fundamental (BRASIL, 1996a, 1996b). Como veremos em detalhe abaixo, em   que pesem os incentivos do Fundef e as determina&ccedil;&otilde;es da constitui&ccedil;&atilde;o (BRASIL,   1988) e da LDB, a municipaliza&ccedil;&atilde;o do ensino fundamental ainda n&atilde;o se completou.</font></p>     <p><font size="2" face="Verdana">Neste artigo, procuramos avaliar o processo de   municipaliza&ccedil;&atilde;o do ensino fundamental sob a &oacute;tica do impacto da pobreza sobre o   desempenho escolar. Colocamos as seguintes perguntas: (a) qual &eacute; o impacto da   pobreza sobre o desempenho das escolas municipais <i>vis-&agrave;-vis </i>&agrave;s escolas estaduais?; (b) h&aacute; munic&iacute;pios que se   destacam pela capacidade de superar as limita&ccedil;&otilde;es impostas pela pobreza e alcan&ccedil;am   um bom desempenho escolar?; (c) fatores de <i>input</i> podem explicar o desempenho escolar nos munic&iacute;pios   brasileiros? Para responder a essas quest&otilde;es, adotamos tr&ecirc;s t&eacute;cnicas estat&iacute;sticas:   an&aacute;lise de regress&atilde;o, an&aacute;lise de res&iacute;duos e an&aacute;lise de correla&ccedil;&otilde;es parciais.   Essas quest&otilde;es, por&eacute;m, n&atilde;o se esgotam em si mesmas: &eacute; preciso avaliar os   resultados &agrave; luz do debate contempor&acirc;neo sobre as pol&iacute;ticas educacionais. Assim   sendo, na pr&oacute;xima se&ccedil;&atilde;o, apresentamos os resultados das an&aacute;lises estat&iacute;sticas e   sua discuss&atilde;o; na seguinte, refletimos sobre as implica&ccedil;&otilde;es desses resultados   para as pol&iacute;ticas educacionais no Brasil, concluindo com algumas observa&ccedil;&otilde;es   finais.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>POBREZA, MUNICIPALIZA&Ccedil;&Atilde;O E DESEMPENHO ESCOLAR</b></font></p>     <p><font size="2" face="Verdana">O   Fundef, que teve in&iacute;cio em 1997, mostrou-se um eficiente mecanismo para   promover a amplia&ccedil;&atilde;o das matr&iacute;culas no ensino fundamental, como mostram os   dados antes e ap&oacute;s sua implementa&ccedil;&atilde;o. Em 1992, 86,6% das crian&ccedil;as entre 7 e 14   anos estavam matriculadas na escola; em 2007, essa propor&ccedil;&atilde;o aumentou para 97%   (HENRIQUES et al., 2009; SILVA, ALC&Acirc;NTARA, 2009). Na regi&atilde;o Nordeste, a mais   pobre do Brasil, as matr&iacute;culas nessa faixa et&aacute;ria saltaram de 75% em 1991 para   96% em 2002 (DE MELLO, HOPPE, 2005). No entanto, apesar de o Brasil ter quase   alcan&ccedil;ado a escolariza&ccedil;&atilde;o universal, estima-se que apenas 60% dos alunos   matriculados na 1<u><sup>a</sup></u> s&eacute;rie conclui os oito anos do ensino   fundamental (HENRIQUES, GIAMBIAGI, VELOSO, 2009).</font></p>     <p><font size="2" face="Verdana">Entretanto, o Fundef   n&atilde;o teve um impacto positivo sobre o rendimento escolar dos alunos, como   mostram os resultados do Sistema de Avalia&ccedil;&atilde;o da Educa&ccedil;&atilde;o B&aacute;sica - Saeb<a name="tx01"></a><a href="#nt01"><sup>1</sup></a>.   Como se pode notar no gr&aacute;fico apresentado na <a href="#fig01">figura 1</a>, o desempenho dos alunos   que conclu&iacute;ram a 4<u><sup>a</sup></u> e a 8<u><sup>a</sup></u> s&eacute;rie declinou   ap&oacute;s a implementa&ccedil;&atilde;o do Fundef, mostrando uma tend&ecirc;ncia de recupera&ccedil;&atilde;o a partir   de 2001. Cabe observar que o Fundef promoveu, nos munic&iacute;pios menores e mais   pobres, um aumento das matr&iacute;culas a uma taxa mais acelerada do que aquela   observada nos munic&iacute;pios de m&eacute;dio e grande porte (DE MELLO, HOPPE, 2005). Essa   informa&ccedil;&atilde;o, por si s&oacute;, j&aacute; indica que a queda no desempenho escolar deve-se ao   impacto da pobreza. A expans&atilde;o das matr&iacute;culas nos pequenos munic&iacute;pios trouxe   milh&otilde;es de crian&ccedil;as de fam&iacute;lias de baixa renda para a escola pela primeira vez.   Como veremos abaixo, a queda no rendimento escolar foi maior nas escolas   municipais do que nas escolas estaduais, justamente porque foram as primeiras   que receberam o maior contingente de alunos de fam&iacute;lias pobres. Isso corrobora   o argumento sobre o forte impacto do <i>background </i>socioecon&ocirc;mico sobre o rendimento escolar apontado em estudos   realizados em outros pa&iacute;ses (ERMISCH, FRANCESCONI, 2001; LEE, BARRO, 2001;   HANUSHEK, 1995; COLEMAN et al., 1966).</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><a name="fig01"></a></p>     <p align="center"><img src="/img/revistas/cp/v42n147/a10fig01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Gra&ccedil;as &agrave; disponibilidade dos dados para o &Iacute;ndice de   Desenvolvimento da Educa&ccedil;&atilde;o B&aacute;sica - Ideb - a partir de 2005, o desempenho   educacional j&aacute; pode ser acessado em praticamente todos&nbsp;os munic&iacute;pios do   Brasil. O Ideb &eacute; um &iacute;ndice composto, apurado para os&nbsp;per&iacute;odos da 1<u><sup>a</sup></u> &agrave; 4<u><sup>a</sup></u> s&eacute;rie, da 5<u><sup>a</sup></u> &agrave; 8<u><sup>a</sup></u> s&eacute;rie   e ao final do 3<u><sup>o</sup></u> ano do ensino m&eacute;dio. Ele pode variar de 0 a   10, e inclui dois indicadores: a) as notas padronizadas para as provas de Matem&aacute;tica   e Leitura (Prova Brasil); e b) a taxa m&eacute;dia de aprova&ccedil;&atilde;o (FERNANDES, 2007). Ao   articular esses dois componentes, o Ideb expressa um mecanismo de compensa&ccedil;&atilde;o   entre desempenho nos exames e taxa de aprova&ccedil;&atilde;o. Nesse sentido, uma queda de   10% na taxa m&eacute;dia de aprova&ccedil;&atilde;o deve ser compensada por um aumento de 10% no   desempenho m&eacute;dio nas provas para que o Ideb permane&ccedil;a constante.</font></p>     <p><font size="2" face="Verdana">O <a href="#qd01">quadro 1</a> apresenta   os resultados do Ideb para o ensino fundamental no Brasil para as tr&ecirc;s ondas de   coleta de dados: 2005, 2007 e 2009, assim como as proje&ccedil;&otilde;es feitas pelo   Instituto Nacional de Pesquisas Educacionais An&iacute;sio Teixeira - Inep -, &oacute;rg&atilde;o   vinculado ao Minist&eacute;rio da Educa&ccedil;&atilde;o. A meta de desempenho do Inep &eacute; alcan&ccedil;ar   uma m&eacute;dia nacional geral para o Ideb igual a 6,0 ao final da 4<u><sup>a</sup></u> s&eacute;rie, valor considerado equivalente ao desempenho m&eacute;dio dos estudantes nos pa&iacute;ses   desenvolvidos medido pelo Pisa<a name="tx02"></a><a href="#nt02"><sup>2</sup></a> (FERNANDES, 2008). Os resultados   efetivos tanto para as escolas estaduais como para as municipais, com exce&ccedil;&atilde;o   das escolas privadas, superam as metas estabelecidas para os anos de 2007 e   2009.</font></p>     <p>&nbsp;</p>     <p><a name="qd01"></a></p>     <p align="center"><img src="/img/revistas/cp/v42n147/a10qd01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">O <a href="#qd02">quadro 2</a>, por sua   vez, apresenta o n&uacute;mero de munic&iacute;pios no banco de dados do Ideb para a coleta   realizada em 2009. Como se pode notar, embora a municipaliza&ccedil;&atilde;o tenha avan&ccedil;ado   at&eacute; a 4<u><sup>a</sup></u> s&eacute;rie, n&atilde;o avan&ccedil;ou significativamente para o per&iacute;odo   da 5<u><sup>a</sup></u> &agrave; 8<u><sup>a</sup></u> s&eacute;rie. Para o ensino at&eacute; a 4<u><sup>a</sup></u> s&eacute;rie, a municipaliza&ccedil;&atilde;o foi conclu&iacute;da em quase 40% dos munic&iacute;pios; no caso do   ensino da 5<u><sup>a</sup></u> &agrave; 8<u><sup>a</sup></u> s&eacute;rie, a municipaliza&ccedil;&atilde;o   foi conclu&iacute;da em apenas 12,9% dos munic&iacute;pios. A maioria dos munic&iacute;pios continua   a oferecer o ensino fundamental por meio de escolas municipais e estaduais   tanto para a faixa da 1<u><sup>a</sup></u> &agrave; 4<u><sup>a</sup></u> s&eacute;rie como da   5<u><sup>a</sup></u> &agrave; 8<u><sup>a</sup></u> s&eacute;rie, 52,6% e 47,1%   respectivamente.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="qd02"></a></p>     <p align="center"><img src="/img/revistas/cp/v42n147/a10qd02.jpg"></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>AN&Aacute;LISE DE REGRESS&Atilde;O LINEAR SIMPLES</b></font></p>     <p><font size="2" face="Verdana">Para verificar o impacto da pobreza   sobre o desempenho escolar, realizamos an&aacute;lises de regress&atilde;o simples nas quais   os valores do Ideb corresponderam &agrave; vari&aacute;vel dependente e o n&iacute;vel de pobreza no   munic&iacute;pio, medido pela percentagem de residentes nos munic&iacute;pios vivendo com   renda inferior a meio sal&aacute;rio m&iacute;nimo, como a vari&aacute;vel independente<a name="tx03"></a><a href="#nt03"><sup>3</sup></a>.   Para chegarmos a essa &uacute;nica vari&aacute;vel independente, testamos por meio de uma an&aacute;lise   de componentes principais outras 13 vari&aacute;veis sociais que poderiam ter um   impacto sobre o desempenho escolar. Essa an&aacute;lise resultou em dois fatores: vari&aacute;veis   que expressam a riqueza/pobreza; e &iacute;ndice de desigualdade de Theil. No entanto,   n&atilde;o h&aacute; uma clara correla&ccedil;&atilde;o linear entre os valores do Ideb e os valores para o   &iacute;ndice de Theil, como se p&ocirc;de observar pelo exame do gr&aacute;fico de dispers&atilde;o. Isso   se explica pelo fato de que milhares de munic&iacute;pios brasileiros apresentam baixo   &iacute;ndice de desigualdade, por serem homogeneamente pobres. Portanto a regress&atilde;o   simples com uma &uacute;nica vari&aacute;vel - o n&iacute;vel de pobreza no munic&iacute;pio - mostrou-se a   mais adequada para os prop&oacute;sitos desta pesquisa. Podemos expressar o impacto da   pobreza sobre o desempenho escolar por meio da seguinte equa&ccedil;&atilde;o:</font></p>     <p align="center"><font size="2" face="Verdana">Ideb<sub>i</sub> (m<sub>4</sub>, m<sub>8</sub>, e<sub>4</sub>,   e<sub>8</sub>) = &#946;<sub>0</sub> &#946;<sub>1</sub>P<sub>i</sub> (m<sub>4</sub>, m<sub>8</sub>, e<sub>4</sub>, e<sub>8</sub>) + &#949;<sub>i </sub></font></p>     <p><font size="2" face="Verdana">onde:</font></p> <ul>       <li><font size="2" face="Verdana">Ideb<sub>i</sub> (m<sub>4</sub>, m<sub>8</sub>, e<sub>4</sub>, e<sub>8</sub>) &eacute; o valor previsto     para o Ideb para os dois tipos de escola (m = municipal e e = estadual) e duas     s&eacute;ries consideradas      (4<u><sup>a</sup></u> e 8<u><sup>a</sup></u>);</font></li>       <li><font size="2" face="Verdana">P<sub>i</sub> (m<sub>4</sub>,     m<sub>8</sub>, e<sub>4</sub>, e<sub>8</sub>) &eacute; a percentagem de indiv&iacute;duos     pobres em cada munic&iacute;pio, para os tipos e as s&eacute;ries consideradas;</font></li>       ]]></body>
+<body><![CDATA[<li><font size="2" face="Verdana">&#946;<sub>0</sub> &eacute; o valor da     constante, correspondendo ao intercepto da reta;</font></li>       <li><font size="2" face="Verdana">&#946;<sub>1</sub> &eacute; o     coeficiente que expressa o gradiente da regress&atilde;o linear; </font></li>       <li><font size="2" face="Verdana">&#949;<sub>i</sub> &eacute; o erro estimado.</font></li>     </ul>     <p><font size="2" face="Verdana">O <a href="#qd03">quadro 3</a> apresenta   os valores de R<a name="tx02"></a><a href="#nt02"><sup>2</sup></a>, Beta (coeficiente padronizado) e os valores do   teste <i>t</i> para a   regress&atilde;o linear simples correspondente a cada tipo de escola e s&eacute;rie de dados<a name="tx04"></a><a href="#nt04"><sup>4</sup></a>.   Podemos notar que, em todos os casos, h&aacute; uma associa&ccedil;&atilde;o linear negativa e   significante entre os valores do Ideb e o n&iacute;vel de pobreza nos munic&iacute;pios, ou seja,   quanto maior o n&uacute;mero de indiv&iacute;duos vivendo abaixo no n&iacute;vel de pobreza no munic&iacute;pio,   menor &eacute; o desempenho escolar. Os valores de R<a name="tx02"></a><a href="#nt02"><sup>2</sup></a> e Beta mostram que o   maior impacto da pobreza no desempenho escolar acontece nas escolas municipais   at&eacute; a 4<sup>a</sup> s&eacute;rie, sendo que, em 2005, mais de 60% da varia&ccedil;&atilde;o do Ideb   pode ser explicada pela varia&ccedil;&atilde;o no n&iacute;vel de pobreza no munic&iacute;pio. Embora esse   impacto tenha diminu&iacute;do a partir de 2005, ele ainda permanecia forte em 2009   (54%). Em termos gerais, o desempenho escolar das escolas municipais &eacute; mais   afetado pela pobreza do que o desempenho das estaduais. Esse resultado   corrobora o argumento apresentado acima de que a queda no desempenho escolar a   partir de 1997 ocorreu devido &agrave; incorpora&ccedil;&atilde;o de alunos das fam&iacute;lias mais pobres   no sistema educacional.</font></p>     <p>&nbsp;</p>     <p><a name="qd03"></a></p>     <p align="center"><img src="/img/revistas/cp/v42n147/a10qd03.jpg"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana"><b>AN&Aacute;LISE DE RES&Iacute;DUOS</b></font></p>     <p><font size="2" face="Verdana">Seriam os munic&iacute;pios   capazes de superar as limita&ccedil;&otilde;es impostas pela pobreza ao desempenho escolar?   Com o objetivo de responder a essa quest&atilde;o, analisamos os res&iacute;duos da regress&atilde;o   linear para as escolas municipais usando os resultados do Ideb correspondentes &agrave;   4<sup>a</sup> s&eacute;rie. Essa s&eacute;rie foi escolhida n&atilde;o s&oacute; porque mostrou que sofreu   o maior impacto devido ao n&iacute;vel de pobreza, mas tamb&eacute;m porque em muitos locais   a municipaliza&ccedil;&atilde;o do ensino fundamental s&oacute; ocorreu at&eacute; essa s&eacute;rie. A t&eacute;cnica da   an&aacute;lise de res&iacute;duos pode ser usada para identificar os casos com desempenho   acima &#91;<i>outperformers</i>&#93;   ou abaixo &#91;<i>underperformers</i>&#93;   do esperado em dado contexto (DE VRIES, 2009; DE VRIES, LAKO, 2009). A t&eacute;cnica   baseia-se nos atributos de uma popula&ccedil;&atilde;o normalmente distribu&iacute;da, em que 99%   dos res&iacute;duos padronizados (ZRE) est&atilde;o situados entre os valores de 2,5 e -2,5;   portanto, dentro dessa faixa, as varia&ccedil;&otilde;es observadas s&atilde;o consideradas aleat&oacute;rias.   Os casos com res&iacute;duos padronizados acima de 3 e abaixo de -3, por&eacute;m, s&atilde;o   considerados <i>outliners;</i> os primeiros correspondendo aos <i>outperformers</i> e os segundos, aos <i>underperformers</i>.</font></p>     <p><font size="2" face="Verdana">A <a href="#fig02">figura 2</a> apresenta   os resultados finais da an&aacute;lise de res&iacute;duos; foram considerados apenas os munic&iacute;pios   que apresentaram valores do ZRE acima de 3 e abaixo de -3 em pelo menos duas   ondas de dados. Segundo esse crit&eacute;rio, sete munic&iacute;pios podem ser considerados <i>outperformers</i>: Barra do Chap&eacute;u   (SP), Boa Vista do Tupim (BA), Cajuru&nbsp;(SP), It&aacute;polis (SP), Lajinha (MG),   Ouro Verde (SP) e Santa Rita d'Oeste (SP).&nbsp;O &uacute;nico munic&iacute;pio que mostrou   um desempenho abaixo do esperado de maneira consiste foi Toritama (PE). Cabe   observar que o n&uacute;mero de <i>outperformers </i>e <i>underperformers </i>variou   muito de ano a ano. Em   2005, 16 munic&iacute;pios apresentaram ZREs acima de 3, enquanto nove apresentavam   ZREs abaixo de -3; em 2007, 35 munic&iacute;pios tiveram um desempenho acima do valor   previsto, com ZREs acima de 3, e apenas quatro&nbsp;apresentaram ZREs abaixo de   -3; finalmente, em 2009, 31 munic&iacute;pios apresentaram&nbsp;ZREs acima de 3, e tr&ecirc;s   munic&iacute;pios ZREs abaixo de -3. Tamb&eacute;m se deve notar que seis dos sete <i>outperformers</i> est&atilde;o   localizados na regi&atilde;o Sudeste, a mais desenvolvida do Brasil.</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/cp/v42n147/a10fig02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">O <a href="#qd04">quadro 4</a> apresenta   um quadro comparativo do desempenho escolar e dos par&acirc;metros demogr&aacute;ficos e   socioecon&ocirc;micos para os sete <i>outperformers. </i>Com exce&ccedil;&atilde;o dos munic&iacute;pios de Barra do Chap&eacute;u (SP) e Boa Vista do   Tupim (BA), os demais t&ecirc;m menos de 36% de seus residentes considerados pobres;   al&eacute;m disso, todos os <i>outperformers</i> s&atilde;o munic&iacute;pios muito pequenos ou pequenos. O n&iacute;vel relativamente baixo de   pobreza encontrado entre a maioria dos <i>outperformers</i> refor&ccedil;a o argumento de que a pobreza &eacute;, de fato, um fator muito importante para   a determina&ccedil;&atilde;o do desempenho escolar<a name="tx05"></a><a href="#nt05"><sup>5</sup></a>.</font></p>     <p>&nbsp;</p>     <p><a name="qd04"></a></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/cp/v42n147/a10qd04.jpg"></p>     <p>&nbsp;</p> <font size="2" face="Verdana">C</font><font size="2" face="Verdana">omo foram poucos os   munic&iacute;pios que apresentaram desempenho consistente, isso indica que os valores   do Ideb tamb&eacute;m est&atilde;o sujeitos &agrave;s flutua&ccedil;&otilde;es tempor&aacute;rias observadas em testes de   desempenho de outros pa&iacute;ses. Kane e Staiger (2002) notam que os resultados de   testes de avalia&ccedil;&atilde;o de desempenho escolar, al&eacute;m de apresentarem flutua&ccedil;&atilde;o   devido &agrave; varia&ccedil;&atilde;o amostral, t&ecirc;m diversas outras fontes de varia&ccedil;&atilde;o. Essas varia&ccedil;&otilde;es   "podem gerar flutua&ccedil;&otilde;es tempor&aacute;rias no desempenho para uma escola inteira, como   um cachorro latindo no estacionamento da escola, o mau tempo no dia do exame ou   diferen&ccedil;as curriculares que interagem de modo diferente com os tipos de exames   usados" (p. 95). Como quase 55% dos munic&iacute;pios no Brasil n&atilde;o t&ecirc;m mais do que tr&ecirc;s   escolas municipais, flutua&ccedil;&otilde;es tempor&aacute;rias em apenas uma escola podem afetar o valor do Ideb para todo o munic&iacute;pio.</font>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>AN&Aacute;LISE DE CORRELA&Ccedil;&Otilde;ES PARCIAIS</b></font></p>     <p><font size="2" face="Verdana">At&eacute; que ponto os fatores de <i>input</i>, ou seja, aqueles pertinentes &agrave; escola, podem   explicar o desempenho escolar no Brasil? Para avaliar essa quest&atilde;o, usamos a t&eacute;cnica   das correla&ccedil;&otilde;es parciais para verificar o impacto do n&uacute;mero de professores do   ensino fundamental com diploma universit&aacute;rio no munic&iacute;pio (BRASIL, s. d.&#91;e&#93;)   sobre o Ideb, controlando estatisticamente a correla&ccedil;&atilde;o para descontar o efeito   da pobreza. Os resultados, apresentados no <a href="#qd05">quadro 5</a>, mostram que a qualifica&ccedil;&atilde;o   dos professores&nbsp;- pelo menos a qualifica&ccedil;&atilde;o que corresponde ao diploma   universit&aacute;rio&nbsp;- explica menos de 1% da varia&ccedil;&atilde;o nos valores do Ideb quando   o efeito da pobreza &eacute; descontado. Isso sugere que o impacto da pobreza seria   forte a ponto de neutralizar o efeito de fatores de <i>input</i>, comumente associados &agrave; qualidade da educa&ccedil;&atilde;o. A   discuss&atilde;o sobre o chamado efeito Heyneman-Loxley traz importantes considera&ccedil;&otilde;es   sobre essa quest&atilde;o.</font></p>     <p>&nbsp;</p>     <p><a name="qd05"></a></p>     <p align="center"><img src="/img/revistas/cp/v42n147/a10qd05.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Heyneman e Loxley   (1983), usando dados coletados em 1970, constataram que a qualidade das escolas   - mensurada pelos fatores de <i>input </i>- era mais importante para explicar o desempenho dos alunos em pa&iacute;ses   de baixa renda do que em pa&iacute;ses de renda alta. Segundo o argumento dos autores,   nos pa&iacute;ses de baixa renda o efeito das condi&ccedil;&otilde;es socioecon&ocirc;micas das fam&iacute;lias   seria parcialmente compensado pelos fatores de qualidade da escola. Dessa   forma, o chamado efeito Heyneman-Loxley seria t&iacute;pico de pa&iacute;ses menos   desenvolvidos e poderia ser explicado pela escassez relativa na oferta de educa&ccedil;&atilde;o:   se a educa&ccedil;&atilde;o &eacute; um servi&ccedil;o com baixa oferta, os alunos seriam mais motivados,   independentemente do n&iacute;vel socioecon&ocirc;mico, resultando em um desempenho acima do   esperado para o padr&atilde;o socioecon&ocirc;mico do pa&iacute;s. Baker, Goesling e Letendre   (2002), utilizando um <i>mix </i>de   pa&iacute;ses de alta e baixa renda semelhante ao utilizado no estudo de Heyneman e   Loxley, buscaram verificar se as conclus&otilde;es desses &uacute;ltimos ainda eram v&aacute;lidas na   d&eacute;cada de 1990. Os resultados mostraram que o efeito Heyneman-Loxley havia   desaparecido e o efeito do <i>background </i>socioecon&ocirc;mico das fam&iacute;lias no desempenho escolar foi semelhante ao   observado no estudo cl&aacute;ssico de Coleman et al. (1966). Os autores observaram   que, "para todos os pa&iacute;ses inclu&iacute;dos na amostra, as vari&aacute;veis pertinentes &agrave;   situa&ccedil;&atilde;o socioecon&ocirc;mica das fam&iacute;lias s&atilde;o muito mais significativas na previs&atilde;o   do desempenho escolar do que as vari&aacute;veis pertinentes aos recursos da escola"   (2002, p. 303-304). Al&eacute;m disso, os autores observaram que o efeito observado na   d&eacute;cada de 1970 provavelmente refletia a desigualdade no acesso &agrave; educa&ccedil;&atilde;o. Na   verdade, quando h&aacute; escassez de vagas nas escolas, apenas os alunos em melhores   condi&ccedil;&otilde;es socioecon&ocirc;micas conseguem ter acesso a essas vagas. Uma vez eliminada   a escassez, fica evidente o impacto do <i>background </i>socioecon&ocirc;mico. Por isso, a ideia de que as escolas p&uacute;blicas eram   muito melhores no passado deve ser tomada com cautela: a escassez de vagas   ocultava o impacto das condi&ccedil;&otilde;es socioecon&ocirc;micas, o que j&aacute; n&atilde;o &eacute; mais poss&iacute;vel   ap&oacute;s a universaliza&ccedil;&atilde;o do ensino fundamental. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>IMPLICA&Ccedil;&Otilde;ES PARA AS POL&Iacute;TICAS EDUCACIONAIS</b></font></p>     <p><font size="2" face="Verdana">Diante   desse quadro - o Brasil alcan&ccedil;ou praticamente   a universaliza&ccedil;&atilde;o no acesso ao ensino fundamental e tem como nova meta melhorar   o desempenho escolar -, quais pol&iacute;ticas seriam mais adequadas? Como foi   mencionado, as pol&iacute;ticas educacionais, em sua quase totalidade, t&ecirc;m ignorado o   impacto do fator socioecon&ocirc;mico no desempenho escolar. Enquanto os EUA e Reino   Unido s&atilde;o uns dos poucos pa&iacute;ses desenvolvidos que adotaram pol&iacute;ticas de   responsabiliza&ccedil;&atilde;o associadas a mecanismos de mercado, o Banco Mundial tem   defendido a ado&ccedil;&atilde;o universal dessas pol&iacute;ticas. Em um estudo dispon&iacute;vel no s&iacute;tio   da institui&ccedil;&atilde;o, -Hanushek e W&ouml;&#946;mann   (2007) prop&otilde;em que, para melhorar a qualidade da educa&ccedil;&atilde;o, as pol&iacute;ticas   educacionais devem combinar tr&ecirc;s estrat&eacute;gias inter-relacionadas: favorecer uma   maior concorr&ecirc;ncia entre as escolas; dar autonomia &agrave;s escolas e instalar um   sistema de responsabiliza&ccedil;&atilde;o. N&atilde;o &eacute; poss&iacute;vel apresentar aqui uma revis&atilde;o   exaustiva da atual pol&ecirc;mica sobre o uso de mecanismos de mercado em pol&iacute;ticas   educacionais; para os nossos prop&oacute;sitos, basta apontar dois aspectos do   argumento. Em primeiro lugar, se n&atilde;o h&aacute; evid&ecirc;ncia emp&iacute;rica de que as caracter&iacute;sticas   da escola podem melhorar o desempenho escolar - ali&aacute;s, essa &eacute; a conclus&atilde;o de   uma extensa revis&atilde;o de pesquisas feita pelo pr&oacute;prio Hanushek (2003) - a concorr&ecirc;ncia   entre escolas n&atilde;o faz sentido. Para competir, &eacute; preciso pressupor que algumas   escolas tenham caracter&iacute;sticas superiores a outras. No entanto, como o Relat&oacute;rio   Coleman j&aacute; havia mostrado, as diferen&ccedil;as entre escolas refletem muito mais as   diferen&ccedil;as de <i>status </i>socioecon&ocirc;mico   dos alunos do que as caracter&iacute;sticas intr&iacute;nsecas &agrave; escola (COLEMAN et al.,   1966). No caso do Brasil e de outros grandes pa&iacute;ses de renda m&eacute;dia - que t&ecirc;m   milhares de munic&iacute;pios pequenos e pobres -, a promo&ccedil;&atilde;o da concorr&ecirc;ncia entre as   escolas &eacute; simplesmente invi&aacute;vel devido aos custos de oportunidade envolvidos.   Aqui, 54,7% dos munic&iacute;pios t&ecirc;m at&eacute; tr&ecirc;s escolas municipais; &eacute; evidente que   esses munic&iacute;pios n&atilde;o t&ecirc;m recursos - humanos, financeiros, administrativos -   para que a concorr&ecirc;ncia entre escolas possa fazer um m&iacute;nimo de sentido.</font></p>     <p><font size="2" face="Verdana">Quanto &agrave;s outras   duas recomenda&ccedil;&otilde;es feitas por Hanushek e W&ouml;&#946;mann   - a autonomia e a cria&ccedil;&atilde;o de sistema de responsabiliza&ccedil;&atilde;o&nbsp;- &eacute; dif&iacute;cil   argumentar contra as mesmas, pois os termos adquiriram uma conota&ccedil;&atilde;o positiva   diante da opini&atilde;o p&uacute;blica e mesmo entre alguns especialistas, imunizando-as da   cr&iacute;tica. Cabe, por&eacute;m, notar que, na proposta apresentada por Hanushek e W&ouml;&#946;mann, autonomia significa   apenas "autonomia para competir"; n&atilde;o se trata de autonomia para adotar pr&aacute;ticas   de ensino e conte&uacute;dos curriculares adequados ao contexto social onde se   localiza a escola. Na proposta fundamentada em mecanismos de mercado, a   autonomia pressup&otilde;e a pr&oacute;pria concorr&ecirc;ncia, pois ela s&oacute; existe para que "ven&ccedil;a   a melhor escola". </font></p>     <p><font size="2" face="Verdana">As pol&iacute;ticas de responsabiliza&ccedil;&atilde;o - associadas a   mecanismos de mercado ou n&atilde;o - come&ccedil;aram a ser criticadas por especialistas, em   especial pelos que avaliaram o programa norte-americano <i>No child left     behind&nbsp;</i>- NCLB. Ravitch   (2010) argumenta que uma das consequ&ecirc;ncias do NCLB foi o estreitamento dos   conte&uacute;dos curriculares, uma vez que as avalia&ccedil;&otilde;es de desempenho escolar t&ecirc;m   focado nas compet&ecirc;ncias em leitura e matem&aacute;tica; estudos mostraram que diversas   escolas reduziram a carga hor&aacute;ria de outras disciplinas - como estudos sociais   e ci&ecirc;ncias&nbsp;- para incluir aulas de treinamento para a realiza&ccedil;&atilde;o de exames   de avalia&ccedil;&atilde;o estaduais e federais. Outra consequ&ecirc;ncia negativa corresponde &agrave;s   fraudes nos exames de avalia&ccedil;&atilde;o. No NCLB, as consequ&ecirc;ncias para o baixo   desempenho das escolas podem ser dram&aacute;ticas: incluem n&atilde;o s&oacute; a perda de recursos   federais, mas tamb&eacute;m o fechamento de escolas e a demiss&atilde;o de professores; por   isso essa pol&iacute;tica est&aacute; sendo denominada de <i>high stakes testing</i>. Por isso, a fraude tornou-se "atrativa".   Segundo Ravitch (2010), as manipula&ccedil;&otilde;es de resultados em provas de desempenho   inclu&iacute;ram desde a recusa em matricular alunos de fam&iacute;lias com baixos   indicadores socioecon&ocirc;micos e a sele&ccedil;&atilde;o pr&eacute;via dos alunos que fariam as provas   de avalia&ccedil;&atilde;o, at&eacute; a fraude pura e simples. Em julho de 2011, a revista <i>The Economist </i>publicou um artigo relatando o esc&acirc;ndalo das   fraudes nos exames de avalia&ccedil;&atilde;o em escolas de Atlanta, capital do estado da   Georgia (EUA). Segundo o artigo, foram identificados v&aacute;rios tipos de fraude. </font></p>     <blockquote>       <p><font size="2" face="Verdana">Alguns professores     deram as respostas aos alunos. Alguns preencheram as folhas de respostas.     Alguns apontaram as respostas enquanto estavam junto &agrave;s carteiras dos alunos.     Alguns deixaram que alunos com baixo desempenho sentassem junto de alunos com     alto desempenho para que copiassem as respostas deles. Um grupo de professores     organizou uma festa no fim-de-semana para mudar as respostas &#91;dos exames de     avalia&ccedil;&atilde;o&#93;. (ATLANTA'S, 2011, p. 32)</font></p> </blockquote>     <p><font size="2" face="Verdana">As fraudes t&ecirc;m   consequ&ecirc;ncias bastante amplas, uma vez que erodem a credibilidade dos   indicadores de desempenho. Como diz a Lei de Campbell: "Quanto mais qualquer   indicador social quantitativo for adotado para a tomada de decis&atilde;o em pol&iacute;ticas   p&uacute;blicas, tanto maiores ser&atilde;o as press&otilde;es de corrup&ccedil;&atilde;o e tanto mais o indicador   ser&aacute; utilizado para distorcer e corromper os processos sociais que ele deveria   monitorar" (CAMPBELL apud RAVITCH, 2010, location 2947-2955).</font></p>     <p><font size="2" face="Verdana">A experi&ecirc;ncia das   pol&iacute;ticas de responsabiliza&ccedil;&atilde;o no Brasil &eacute; ainda muito recente para que seja   poss&iacute;vel avaliar seus resultados de forma conclusiva. No entanto, a ado&ccedil;&atilde;o de   alguns elementos t&iacute;picos do <i>high     stakes testing </i>pode implicar consequ&ecirc;ncias semelhantes &agrave;s j&aacute;   observadas no NCLB. O IDESP, indicador de desempenho escolar adotado para   avaliar escolas no estado de S&atilde;o Paulo, j&aacute; est&aacute; sendo usado para distribuir   incentivos monet&aacute;rios a professores e funcion&aacute;rios por meio do programa "Bonifica&ccedil;&atilde;o   por Resultados" (S&Atilde;O PAULO, 2008). De acordo com as diretrizes do programa,   cada escola estadual recebe uma meta anual, que &eacute; calculada a partir do n&iacute;vel   de desempenho esperado de todas as escolas em 2030 (S&Atilde;O PAULO, 2011a). As   escolas que sofrem o maior impacto da pobreza - ou seja, as que t&ecirc;m os   indicadores mais baixos - s&atilde;o justamente as que ter&atilde;o que mostrar um progresso   anual mais acentuado (S&Atilde;O PAULO, 2011b). Assim como outras pol&iacute;ticas de   responsabiliza&ccedil;&atilde;o, o programa de <i>Bonifica&ccedil;&atilde;o</i> <i>por resultados</i> desconsidera o impacto da pobreza e tamb&eacute;m a varia&ccedil;&atilde;o dos resultados de provas   de avalia&ccedil;&atilde;o, que podem ocorrer por fatores que fogem do controle das escolas.   Por isso, o programa corre o risco de confundir os professores e desencorajar a   ado&ccedil;&atilde;o de pr&aacute;ticas pedag&oacute;gicas que s&oacute; poder&atilde;o dar resultados a longo prazo<a name="tx06"></a><a href="#nt06"><sup>6</sup></a>.</font></p>     <p><font size="2" face="Verdana">Apesar do componente redistributivo que   caracterizou o Fundef&nbsp;- e que foi mantido no Fundeb, fundo que o sucedeu   em 2007 (BRASIL, 2007)&nbsp;-, as pol&iacute;ticas educacionais do governo federal   tamb&eacute;m t&ecirc;m dado pouca aten&ccedil;&atilde;o ao impacto da pobreza sobre o desempenho escolar.   O governo federal se comprometeu a investir R$1 bilh&atilde;o por ano em um programa   destinado a oferecer cursos de gradua&ccedil;&atilde;o a dist&acirc;ncia para professores do ensino   fundamental (BRASIL, s.d.&#91;b&#93;). Programas educacionais tradicionais, por&eacute;m, n&atilde;o   foram expandidos. Em 2009, o <i>Programa nacional do livro did&aacute;tico</i> - PNLD -, iniciado em 1929, o mais antigo   programa voltado para a melhoria do desempenho escolar no Brasil&nbsp;- gastou   R$577,6 milh&otilde;es em livros e R$112,8 milh&otilde;es para distribu&iacute;-los &agrave;s escolas p&uacute;blicas   (BRASIL, s.d.&#91;c&#93;). Pouco se sabe sobre o impacto desse programa no desempenho   dos alunos no Brasil, mas h&aacute; evid&ecirc;ncias&nbsp;de estudos realizados em outros pa&iacute;ses   sugerindo que a disponibilidade de&nbsp;livros &eacute; um fator importante para o   desempenho escolar (HEYNENMAN, FARREL, SEPULVEDA-STUARDO, 1981). Fuchs e   Woessmann (2004) mostraram que h&aacute; uma associa&ccedil;&atilde;o positiva entre presen&ccedil;a de   livros em casa e desempenho escolar. No entanto, as regras do PNLD exigem que   os alunos - exceto os matriculados na primeira s&eacute;rie do ensino   fundamental&nbsp;- devolvam os livros usados ao final do ano letivo; depois de   tr&ecirc;s anos, a escola est&aacute; autorizada a comprar livros novos e os velhos s&atilde;o   descartados. Essas evid&ecirc;ncias, ainda que incipientes, sugerem a expans&atilde;o do   PNLD, de forma que os alunos possam ficar com seus livros did&aacute;ticos. Tal   programa poderia ser testado em pequena escala e, caso apresentasse resultados   positivos, poderia ser expandido para todas as escolas p&uacute;blicas. No entanto,   outro problema recorrente &eacute; que as pol&iacute;ticas educacionais no Brasil geralmente   seguem o padr&atilde;o do "ou tudo ou nada". Raramente a implanta&ccedil;&atilde;o de pol&iacute;ticas   educacionais &eacute; precedida de "projetos-piloto" visando a testar o impacto de pol&iacute;ticas   espec&iacute;ficas.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Cabe mencionar no contexto desta discuss&atilde;o os   programas Condicionais de Transfer&ecirc;ncia de Renda - CTR -, que passaram a se   disseminar pelo pa&iacute;s em meados dos anos 1990 (ANDREWS, 2004). O Bolsa Fam&iacute;lia,   lan&ccedil;ado em 2003 a partir da experi&ecirc;ncia do Bolsa Escola, &eacute; atualmente o maior   programa de transfer&ecirc;ncia de renda do mundo, fornecendo subs&iacute;dios monet&aacute;rios a   mais de 12,5 milh&otilde;es de fam&iacute;lias (BRASIL, s.d.&#91;d&#93;). Segundo as normas do   programa, seus benefici&aacute;rios devem manter os filhos frequentando a escola at&eacute;   os 15 anos; devem tamb&eacute;m atender a outras exig&ecirc;ncias relativas aos cuidados com   a sa&uacute;de. No entanto, o impacto do Bolsa Fam&iacute;lia na taxa de evas&atilde;o escolar ainda   &eacute; pequeno. Glewwe e Kassouf (2008) conclu&iacute;ram que o Bolsa Fam&iacute;lia representou   uma diminui&ccedil;&atilde;o de 0,5 pontos percentuais nas taxas de evas&atilde;o escolar nos   primeiros quatro anos do ensino fundamental e de 0,4 pontos percentuais nos &uacute;ltimos   quatro anos. Os autores argumentam que o efeito do programa sobre a evas&atilde;o   escolar de crian&ccedil;as das fam&iacute;lias benefici&aacute;rias seria at&eacute; tr&ecirc;s vezes maior do   que o impacto global observado, uma vez que apenas um ter&ccedil;o das crian&ccedil;as   brasileiras s&atilde;o atendidas pelo programa. Ainda assim, o Bolsa Fam&iacute;lia teria um   impacto pequeno sobre a taxa de evas&atilde;o escolar: de 1,5 pontos percentuais para   a 4<u><sup>a</sup></u> s&eacute;rie e de 1,2 para a 8<u><sup>a</sup></u> s&eacute;rie. Isto   sugere que os munic&iacute;pios n&atilde;o estariam fiscalizando o cumprimento das condicionalidades   do programa, como requer o governo federal. O Bolsa Fam&iacute;lia tem sido   considerado altamente eficaz na redu&ccedil;&atilde;o da pobreza e da desigualdade, alcan&ccedil;ado   resultados expressivos principalmente na regi&atilde;o Nordeste (HOFFMANN, 2006). No   entanto, mesmo se uma melhoria na fiscaliza&ccedil;&atilde;o do programa provocasse uma queda   significativa nas taxas de evas&atilde;o escolar, n&atilde;o se pode esperar um impacto   semelhante no desempenho&nbsp;escolar medido por provas padronizadas, uma vez   que tais programas n&atilde;o afetam as condi&ccedil;&otilde;es culturais associadas &agrave; pobreza, em especial   a baixa escolaridade dos pais de alunos. No entanto, programas CTR podem ter um   impacto positivo no longo prazo, pois se espera que o aumento na escolaridade   tenha um impacto positivo na pr&oacute;xima gera&ccedil;&atilde;o, gerando um "c&iacute;rculo virtuoso".   Para tanto, seria necess&aacute;rio que o Bolsa Fam&iacute;lia fosse capaz de conter de forma   significativa a evas&atilde;o escolar, o que n&atilde;o parece ser o caso at&eacute; o momento. Como   notamos, atualmente, 60% das crian&ccedil;as n&atilde;o concluem os oito anos do ensino   fundamental.</font></p>     <p><font size="2" face="Verdana">Como vimos o desempenho das escolas municipais tem   melhorado desde 2005 e algumas das metas estabelecidas para 2009 foram alcan&ccedil;adas   antes do esperado. Algumas hip&oacute;teses podem ser formuladas para explicar esses   resultados. De 2003 a 2009, a pobreza no Brasil diminuiu 45%, principalmente   devido &agrave; expans&atilde;o do emprego formal (DANTAS, NERI, 2010). Assim sendo, uma   primeira hip&oacute;tese &eacute; que a diminui&ccedil;&atilde;o da pobreza teve um impacto relativamente r&aacute;pido   sobre o desempenho educacional. No entanto, essa estimativa foi feita com base   em dados para as regi&otilde;es metropolitanas (NERI, 2008, 2009); n&atilde;o se sabe ainda   qual foi a diminui&ccedil;&atilde;o da pobreza nos pequenos munic&iacute;pios<a name="tx07"></a><a href="#nt07"><sup>7</sup></a>. Outra hip&oacute;tese   capaz de explicar a melhoria nos valores do Ideb &eacute; que as escolas j&aacute; se   familiarizaram com a estrutura da Prova Brasil (testes de m&uacute;ltipla escolha) e   est&atilde;o treinando os alunos antes da aplica&ccedil;&atilde;o das provas. Uma terceira hip&oacute;tese   refere-se ao mesmo fen&ocirc;meno observado nos EUA - a adultera&ccedil;&atilde;o dos resultados   das provas de avalia&ccedil;&atilde;o. Finalmente, temos a hip&oacute;tese de que a qualidade do   ensino est&aacute; de fato melhorando e que isso tem se refletido nos resultados das   avalia&ccedil;&otilde;es do desempenho escolar. Nesse caso, essas melhorias educacionais - n&atilde;o   sabemos quais&nbsp;- estariam conseguindo romper a barreira colocada pelo <i>background </i>socioecon&ocirc;mico dos alunos. &Eacute; razo&aacute;vel supor que   todas as quatro hip&oacute;teses sejam parcialmente verdadeiras, mas n&atilde;o sabemos qual   delas teve o maior impacto nos resultados observados desde 2005. Sem estudos   adicionais capazes de identificar as raz&otilde;es detr&aacute;s das melhorias observadas nos   &uacute;ltimos anos, a interpreta&ccedil;&atilde;o dos resultados do Ideb e de outros indicadores de   desempenho tornar-se-&aacute; cada vez mais dif&iacute;cil. A cria&ccedil;&atilde;o do Ideb e sua divulga&ccedil;&atilde;o   para quase todas as escolas no Brasil &eacute; fundamental para subsidiar a elabora&ccedil;&atilde;o   de pol&iacute;ticas educacionais, mas as autoridades educacionais devem ficar atentas   para as limita&ccedil;&otilde;es e perigos inerentes aos usos de indicadores na formula&ccedil;&atilde;o de   pol&iacute;ticas p&uacute;blicas, em especial no que se refere &agrave;s estrat&eacute;gias baseadas no <i>high stakes     testing</i>. Seja como for, o impacto   do fator socioecon&ocirc;mico no desempenho escolar n&atilde;o deve ser negligenciado.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>CONCLUS&Otilde;ES E CONSIDERA&Ccedil;&Otilde;ES FINAIS</b></font></p>     <p><font size="2" face="Verdana">Neste   trabalho analisamos o impacto da pobreza no desempenho escolar dos munic&iacute;pios   brasileiros, considerando o contexto da municipaliza&ccedil;&atilde;o da educa&ccedil;&atilde;o fundamental   no Brasil a partir da implementa&ccedil;&atilde;o do Fundef. A an&aacute;lise dos dados mostrou que   as escolas municipais, que responderam pela maior parte da expans&atilde;o das matr&iacute;culas   no ensino fundamental no per&iacute;odo considerado, s&atilde;o mais afetadas pela pobreza do   que as escolas estaduais. Esse resultado n&atilde;o deve ser atribu&iacute;do &agrave;s caracter&iacute;sticas   das escolas municipais, mas sim ao fato de que o Fundef criou incentivos para   que os munic&iacute;pios abrissem novas escolas, aumentando o n&uacute;mero de matr&iacute;culas e   trazendo as crian&ccedil;as das fam&iacute;lias mais pobres para dentro do sistema escolar. O   Fundef foi bem-sucedido em seu objetivo de promover a universaliza&ccedil;&atilde;o da educa&ccedil;&atilde;o,   mas seu objetivo complementar - a qualidade da educa&ccedil;&atilde;o - n&atilde;o pode ser alcan&ccedil;ado   apenas por meio da expans&atilde;o das matr&iacute;culas. Isso tem implica&ccedil;&otilde;es para&nbsp;a   municipaliza&ccedil;&atilde;o da educa&ccedil;&atilde;o: por si mesma, ela n&atilde;o poder&aacute; promover   a&nbsp;melhoria do desempenho escolar. </font></p>     <p><font size="2" face="Verdana">Diante dos   resultados do presente estudo, podemos perceber a import&acirc;ncia das conclus&otilde;es do   relat&oacute;rio Coleman (1966) para o Brasil e para outras economias emergentes. O   Brasil n&atilde;o pode mais ser considerado um pa&iacute;s "em desenvolvimento", mas ainda &eacute;   um pa&iacute;s marcado pela pobreza e pela desigualdade. O contexto socioecon&ocirc;mico   brasileiro est&aacute; hoje mais pr&oacute;ximo daquele encontrado nos EUA e em outros pa&iacute;ses   desenvolvidos porque esses pa&iacute;ses se tornaram mais pobres e mais desiguais nas &uacute;ltimas   d&eacute;cadas. Tanto nesses pa&iacute;ses como no Brasil,&nbsp;o <i>background </i>socioecon&ocirc;mico ainda &eacute; o principal fator   explicativo para o&nbsp;n&iacute;vel de desempenho escolar. Durante 30 anos, a teoria   dos recursos humanos sustentou a tese de que a pobreza s&oacute; poderia ser superada   por meio dos sistemas de educa&ccedil;&atilde;o de massa (EASTERLIN, 1981). Atualmente, seus   adeptos passaram a argumentar que a pobreza s&oacute; poder&aacute; ser superada com a   melhoria da qualidade da educa&ccedil;&atilde;o (HANUSHEK, W&Ouml;&szlig;MANN, 2007). No entanto, &eacute;   preciso reconhecer que a melhoria da qualidade da educa&ccedil;&atilde;o tamb&eacute;m passa pela   supera&ccedil;&atilde;o da pobreza.</font></p>     <p><font size="2" face="Verdana">O impacto da pobreza   no desempenho escolar representa um grande desafio para os governantes   brasileiros. Por um lado, as atuais pol&iacute;ticas educacionais est&atilde;o direcionadas   para a melhoria dos fatores de <i>input</i> ou, o que &eacute; mais preocupante, partem do princ&iacute;pio de que a responsabiliza&ccedil;&atilde;o de   professores &eacute; a chave para a promo&ccedil;&atilde;o da qualidade da educa&ccedil;&atilde;o. No entanto, se   o impacto da pobreza n&atilde;o for levado em considera&ccedil;&atilde;o, as pol&iacute;ticas educacionais   no Brasil correm o risco de aderir a pr&aacute;ticas t&iacute;picas da "pol&iacute;tica simb&oacute;lica",   ou seja, ser&atilde;o elaboradas cada vez mais segundo expectativas da opini&atilde;o p&uacute;blica   do que de acordo com fundamentos objetivos da realidade social (DE VRIES,   2010). Isso tende a limitar as alternativas de pol&iacute;ticas p&uacute;blicas. Programas de   desenvolvimento econ&ocirc;mico local possivelmente teriam um impacto maior no   desempenho escolar do que pol&iacute;ticas educacionais baseadas em fatores de <i>input </i>ou na responsabiliza&ccedil;&atilde;o   de escolas e professores. No entanto, se permanecer a cren&ccedil;a de que os governos   devem recorrer apenas a esses tipos de pol&iacute;ticas, o leque de poss&iacute;veis interven&ccedil;&otilde;es   permanecer&aacute; limitado. Em algum momento do debate criou-se a expectativa de que   as pol&iacute;ticas educacionais devem gerar resultados no curto prazo. Isso induziu   governantes a "girar" rapidamente pol&iacute;ticas educacionais, descartando as pol&iacute;ticas   supostamente ineficazes a favor de novidades. Mas a "novidade" um dia deixa de   s&ecirc;-lo e ser&aacute; preciso inventar a pr&oacute;xima.</font></p>     <p><font size="2" face="Verdana">Que fique claro: a melhoria do desempenho escolar &eacute;   um objetivo desej&aacute;vel, mas a escola de qualidade &eacute; um objetivo mais desej&aacute;vel   ainda. Talvez o que esteja ausente nesse debate &eacute; a considera&ccedil;&atilde;o da educa&ccedil;&atilde;o   como um direito social, na sua acep&ccedil;&atilde;o mais fundamental. Todo estudante   brasileiro deveria ter o direito a professores qualificados e acesso a livros   did&aacute;ticos, a estudar em um ambiente agrad&aacute;vel e a usufruir de outras caracter&iacute;sticas   associadas &agrave;s boas escolas. Essas caracter&iacute;sticas devem ser promovidas pelos   governantes como uma forma de dar oportunidades a cada crian&ccedil;a e jovem. Educar &eacute;   uma atividade complexa e n&atilde;o pode ser levada adiante apenas por meio da   manipula&ccedil;&atilde;o de uma d&uacute;zia de insumos em uma fun&ccedil;&atilde;o de produ&ccedil;&atilde;o ou por meio da   responsabiliza&ccedil;&atilde;o de escolas e professores. Em suma, os indicadores de   desempenho devem ser encarados como instrumentos auxiliares das pol&iacute;ticas educacionais   e n&atilde;o como par&acirc;metros a que as pol&iacute;ticas devem se submeter irrefletidamente.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>REFER&Ecirc;NCIAS</b></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">ANDREWS, Christina W. Anti-poverty policies in   Brazil: reviewing the past ten years. <i>International     Review of Administrative Sciences</i>, v. 70, n. 3, p. 477-488, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000103&pid=S0100-1574201200030001000001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ATLANTA'S Public schools: low   marks all round. <i>The     Economist</i>, p. 32, 16-22 July 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000105&pid=S0100-1574201200030001000002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">BAKER, David P.; GOESLING,   Brian; LETENDRE, Gerald K. Socioeconomic status, school quality, and national   economic development: a cross-national analysis of the "Heyneman-Loxley Effect"   on mathematics and science achievement. <i>Comparative Education Review</i>, v. 46, n. 3,     p. 291-312, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000107&pid=S0100-1574201200030001000003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BONAL, Xavier. Is the World   Bank education policy adequate for fighting poverty? Some evidence from Latin America. <i>International Journal     of Educational Development</i>, n. 24, p. 649-666, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000109&pid=S0100-1574201200030001000004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BRASIL. Constitui&ccedil;&atilde;o (1988).Constitui&ccedil;&atilde;o da Rep&uacute;blica   Federativa do Brasil. <i>Di&aacute;rio     Oficial</i> <i>&#91;da&#93; Rep&uacute;blica       Federativa do Brasil,</i>5 out.de 1988. Dispon&iacute;vel em:   &lt;<a href="http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" target="_blank">http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm</a>&gt;.   Acesso em: 3 ago. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S0100-1574201200030001000005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">______. Emenda constitucional n. 14, de 12   setembro de 1996. Modifica os arts. 34, 208, 211 e 212 da Constitui&ccedil;&atilde;o Federal   e d&aacute; nova reda&ccedil;&atilde;o ao art. 60 do ato das disposi&ccedil;&otilde;es constitucionais transit&oacute;rias. <i>Di&aacute;rio Oficial</i> <i>&#91;da&#93; Rep&uacute;blica Federativa do Brasil</i>,   13 set. 1996a. Dispon&iacute;vel em: &lt; <a href="http://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc14.htm" target="_blank">http://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc14.htm</a>&gt;. Acesso em: 3 ago.   2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0100-1574201200030001000006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. Lei n. 9.394, de 20 de dezembro de 1996.   Estabelece as diretrizes e bases da educa&ccedil;&atilde;o nacional<i>. Di&aacute;rio Oficial</i> <i>&#91;da&#93; Rep&uacute;blica Federativa do Brasil</i>, 20 dez.   1996b. Dispon&iacute;vel em:   &lt;<a href="http://www.planalto.gov.br/ccivil_03/leis/l9394.htm" target="_blank">http://www.planalto.gov.br/ccivil_03/leis/l9394.htm</a>&gt;. Acesso em: 3 ago.   2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0100-1574201200030001000007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. Lei n. 9.424, de 24 de dezembro de 1996.   Disp&otilde;e sobre o Fundo de Manuten&ccedil;&atilde;o e Desenvolvimento do Ensino Fundamental e de   Valoriza&ccedil;&atilde;o do Magist&eacute;rio, na forma prevista no art. 60, &sect; 7&#186;, do Ato das   Disposi&ccedil;&otilde;es Constitucionais Transit&oacute;rias, e d&aacute; outras provid&ecirc;ncias. <i>Di&aacute;rio Oficial</i> <i>&#91;da&#93; Rep&uacute;blica Federativa do Brasil</i>,   26 dez. 1996c. Dispon&iacute;vel em:   &lt;<a href="http://www.planalto.gov.br/ccivil_03/leis/l9424.htm" target="_blank">http://www.planalto.gov.br/ccivil_03/leis/l9424.htm</a>&gt;. Acesso em: 3 ago.   2011</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0100-1574201200030001000008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">______. Lei n. 11.494, de 20 de junho de 2007.   Regulamenta o Fundo de Manuten&ccedil;&atilde;o e Desenvolvimento da Educa&ccedil;&atilde;o B&aacute;sica e de   Valoriza&ccedil;&atilde;o dos Profissionais da Educa&ccedil;&atilde;o - Fundeb, de que trata o art. 60 do   Ato das Disposi&ccedil;&otilde;es Constitucionais Transit&oacute;rias; altera a Lei n. 10.195, de 14   de fevereiro de 2001; revoga dispositivos das leis n. 9.424, de 24 de dezembro   de 1996, 10.880, de 9 de junho de 2004, e 10.845, de 5 de mar&ccedil;o de 2004; e d&aacute;   outras provid&ecirc;ncias. <i>Di&aacute;rio Di&aacute;rio     Oficial</i> <i>&#91;da&#93; Rep&uacute;blica       Federativa do Brasil</i>, 21 jun. 2007. Dispon&iacute;vel em:   &lt;<a href="http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/Lei/L11494.htm" target="_blank">http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/Lei/L11494.htm</a>&gt;.   Acesso em: 3 ago. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0100-1574201200030001000009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BRASIL. Minist&eacute;rio da Educa&ccedil;&atilde;o. <i>Plano nacional de forma&ccedil;&atilde;o de   professores</i>. Bras&iacute;lia, s.d. &#91;b&#93;. Dispon&iacute;vel em:   &lt;<a href="http://portal.mec.gov.br/index.php?option=com_content&view=arcle&id=13583&Itemid=970" target="_blank">http://portal.mec.gov.br/index.php?option=com_content&amp;view=arcle&amp;id=13583&amp;Itemid=970</a>&gt;.   Acesso em: 18 set. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0100-1574201200030001000010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. <i>Programas   livro-did&aacute;tico</i>. Bras&iacute;lia: FNDE, s.d.&#91;c&#93; Dispon&iacute;vel em:   &lt;<a href="http://www.fnde.gov.br/index.php/programas-livro-didatico" target="_blank">http://www.fnde.gov.br/index.php/programas-livro-didatico</a>&gt;. Acesso em:   31 maio 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0100-1574201200030001000011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BRASIL. Minist&eacute;rio da Educa&ccedil;&atilde;o. Instituto   Nacional de Pesquisas Educacionais An&iacute;sio Teixeira. <i>Ideb</i>: &iacute;ndice da educa&ccedil;&atilde;o b&aacute;sica. Bras&iacute;lia,   s.d.&#91;a&#93;. Dispon&iacute;vel em: &lt;<a href="http://portalideb.inep.gov.br/index.php" target="_blank">http://portalideb.inep.gov.br/index.php</a>&gt;. Acesso   em: 12 set. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0100-1574201200030001000012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. <i>Saeb   2005</i>: primeiros resultados:  m&eacute;dias de desempenho do Saeb/2005 em perspectiva comparada. Bras&iacute;lia,   2007. Dispon&iacute;vel em:   &lt;<a href="http://www.inep.gov.br/download/saeb/2005/SAEB1995_2005.pdf" target="_blank">http://www.inep.gov.br/download/saeb/2005/SAEB1995_2005.pdf</a>&gt;. Acesso em:   12 abr. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0100-1574201200030001000013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">BRASIL. Minist&eacute;rio do Desenvolvimento Social. <i>Relat&oacute;rios e estat&iacute;stica</i>:   sistema de informa&ccedil;&otilde;es da Senarc. Bras&iacute;lia: MDS, s.d.&#91;d&#93;. Dispon&iacute;vel em:   &lt;<a href="http://www.mds.gov.br/bolsafamilia" target="_blank">http://www.mds.gov.br/bolsafamilia</a>&gt;. Acesso em: 1<sup>o</sup> jun. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0100-1574201200030001000014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BRASIL. Minist&eacute;rio do Planejamento. Instituto de   Pesquisas Econ&ocirc;micas Aplicadas. <i>Ipeadata</i>.   Bras&iacute;lia, s.d. &#91;e&#93;. Dispon&iacute;vel em: &lt;<a href="http://www.ipeadata.gov.br" target="_blank">http://www.ipeadata.gov.br</a>&gt;. Acesso   em: 19 set. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0100-1574201200030001000015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BROOKE, Nigel. Responsabiliza&ccedil;&atilde;o educacional no   Brasil. <i>Revista Iberoamericana     de Evaluaci&oacute;n Educativa</i>, v. 1, n. 1, p. 93-109, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0100-1574201200030001000016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CARNOY, Martin. Is   privatization through education vouchers really the answer? A comment on West. <i>The World Bank Research     Observer</i>, v. 2, n. 1, p. 105-115, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0100-1574201200030001000017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">COLEMAN, James Samuel et al. <i>Equality of educational   opportunity: </i>summary report. Washington: Department   of Health, Education and Welfare, Office of Education, 1966.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0100-1574201200030001000018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DANTAS, Fernando; NERI, Marcelo. Demos os pobres   ao mercado. &Eacute; hora de dar o mercado aos pobres: entrevista com Marcelo Neri. <i>O Estado de S. Paulo</i>, 27   set. 2010. Dispon&iacute;vel em:   &lt;<a href="http://www.estadao.com.br/estadaodehoje/20100927/not_imp615802,0.php" target="_blank">http://www.estadao.com.br/estadaodehoje/20100927/not_imp615802,0.php</a>&gt;. Acesso em: 28 set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0100-1574201200030001000019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DE MELLO,   Luiz; HOPPE, Mombert. <i>Education attainment in Brazil: </i>the experience of Fundef. Paris: OECD, 2005. (OECD Economics Department   Working Papers, n. 424). Dispon&iacute;vel em:   &lt;<a href="http://www.oecdilibrary.org/oecd/content/workingpaper/556807485718" target="_blank">http://www.oecdilibrary.org/oecd/content/workingpaper/ 556807485718</a>&gt;.   Acesso em: 12 abr. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0100-1574201200030001000020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DE VRIES, Michiel S. Between symbolic and   evidence-based policies: the Brazilian efforts to increase the quality of basic   education. In: INTERNATIONAL CONGRESS OF ADMINISTRATIVE SCIENCES, 28., July   2010, Bali. Bali: IIAS, 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0100-1574201200030001000021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. Performance measurement and the search   for best practices. In: INTERNATIONAL SPECIALISED CONFERENCE OF THE   INTERNATIONAL INSTITUTE OF ADMINISTRATIVE SCIENCES, 5., 2009, Helsinki.   Helsinki: International Institute of Administrative Sciences, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0100-1574201200030001000022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">DE VRIES, Michiel S.; LAKO, Christiaan J.   Adapted performance measures and the performance of Dutch municipalities in   reducing crime nates. <i>Journal     of Regional Studies and Development</i>,     n. 18, v. 1, p. 29-57, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0100-1574201200030001000023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">EASTERLIN, Richard A. Why isn't   the whole world developed? <i>The     Journal of Economic History</i>,     v. 41, n. 1, p. 1-19, 1981.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0100-1574201200030001000024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ERMISCH, John; FRANCESCONI,   Marco. Family matters: impacts of family background on educational attainments. <i>Economica</i>, n. 68, p. 137-156, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0100-1574201200030001000025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FERNANDES, Reynaldo. <i>&Iacute;ndice de desenvolvimento da educa&ccedil;&atilde;o b&aacute;sica   (Ideb)</i>. Bras&iacute;lia: Inep, 2007. (Textos para Discuss&atilde;o n. 26). Dispon&iacute;vel   em: &lt;<a href="http://www.publicacoes.inep.gov.br/detalhes.asp?pub=4121#" target="_blank">http://www.publicacoes.inep.gov.br/detalhes.asp?pub=4121#</a>&gt;. Acesso   em: 3 mar. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0100-1574201200030001000026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. <i>&Iacute;ndice   de desenvolvimento da educa&ccedil;&atilde;o b&aacute;sica (Ideb): </i>metas intermedi&aacute;rias   para a sua trajet&oacute;ria no Brasil, estados, munic&iacute;pios e escolas. Bras&iacute;lia: Inep, 2008. Dispon&iacute;vel em:   &lt;<a href="http://www.inep.gov.br/ download/Ideb/Artigo_ projecoes.pdf" target="_blank">http://www.inep.gov.br/ download/Ideb/Artigo_ projecoes.pdf</a>&gt;. Acesse em:   8 maio 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0100-1574201200030001000027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p><font size="2" face="Verdana">FUCHS, Thomas; WOESSMANN, Ludger. <i>What accounts for international differences in student performance?</i> A re-examination using PISA data. Munich: CES-IFO, 2004.(CES-IFO Working Parper, n. 1235). Dispon&iacute;vel em: <a href="<http://www.ifo.de/portal/pls/portal/docs/1/1189152.PDF" target="_blank">&lt;http://www.ifo.de/portal/pls/portal/docs/1/1189152.PDF</a>&gt;. Acesso em: 23 set. 2011.</font></p>     <!-- ref --><p><font size="2" face="Verdana">FUNDA&Ccedil;&Atilde;O IBGE. <i>Censo   demogr&aacute;fico</i> <i>2010</i>.   Rio de Janeiro, 2010. Dispon&iacute;vel em:   &lt;<a href="http://www.ibge.gov.br/home/estatistica/populacao/censo2010/default_sinopse.shtm" target="_blank">http://www.ibge.gov.br/home/estatistica/populacao/censo2010/default_sinopse.shtm</a>&gt;.   Acesso em: 30 set. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0100-1574201200030001000029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GLEWWE, Paul; KASSOUF, Ana   Lucia. The Impact of the bolsa escola/fam&iacute;lia conditional cash transfer program   on enrollment, grade promotion and drop-out rates in Brazil. In:   ENCONTRO NACIONAL DE ECONOMIA, 36., 9-12 dez. 2008, Salvador. Dispon&iacute;vel em:   &lt;<a href="http://www.anpec.org.br/encontro2008/artigos/200807211140170-pdf" target="_blank">http://www.anpec.org.br/encontro2008/artigos/200807211140170-pdf</a>&gt;.   Acesso em: 10 jun. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0100-1574201200030001000030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HANUSHEK, Eric A. Interpreting   recent research on schooling in developing countries. <i>World Bank Research Observer</i>, v. 10, n. 2, p. 227-246, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0100-1574201200030001000031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">______. The Failure of   input-based schooling policies. <i>The Economic Journal</i>, n. 133,   p. F64-F98, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0100-1574201200030001000032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HANUSHEK, Eric A.; W&Ouml;&#946;MANN,   Ludger. <i>The     Role of education quality in economic growth</i>.   Washington: World Bank, 2007. (World Bank Policy Research Working Paper, n.   4122). Dispon&iacute;vel em:   &lt;<a href="http://library1.nida.ac.th/worldbankf/fulltext/wps04122.pdf" target="_blank">http://library1.nida.ac.th/worldbankf/fulltext/wps04122.pdf</a>&gt;. Acesso em:   15 set. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0100-1574201200030001000033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HENRIQUES, Ricardo; GIAMBIAGI,   F&aacute;bio; VELOSO, Fernando. <i>Educa&ccedil;&atilde;o     b&aacute;sica no Brasil</i>: construindo o pa&iacute;s do futuro. S&atilde;o Paulo: Campus,   2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0100-1574201200030001000034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HEYNEMAN, Stephen; FARREL,   Joseph; SEPULVEDA-STUARDO, Manuel. Textbooks and achievement in developing   countries: what we know. <i>Journal     of Curriculum Studies</i>, v. 13, n. 3,     p. 226-246, 1981.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0100-1574201200030001000035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HEYNEMAN, Stephen; LOXLEY,   William A. The Effect of primary-school quality on academic achievement across   twenty-nine high-and low-income countries. <i>American Journal of Sociology</i>,     v. 88, n. 6, p. 1162-1194, 1983.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0100-1574201200030001000036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">HOFFMANN, Rodolfo. Transfer&ecirc;ncia   de renda e redu&ccedil;&atilde;o da desigualdade no Brasil e cinco regi&otilde;es entre 1997 e 2004. <i>Econ&ocirc;mica</i>, v. 8, n.   1, p. 55&#8209;81,   2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0100-1574201200030001000037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KAMAT, Sangeeta. Deconstructing   the rhetoric of decentralization: the state in education reform. <i>Current Issues in     Comparative Education</i>, v. 2, n. 2, p. 110-119,   2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0100-1574201200030001000038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KANE, Thomas J.; STAIGER,   Douglas O. The Promise and pitfalls of using imprecise school accontability   measures. <i>Journal     of Economic Perspectives</i>, v. 16, n. 4, p. 91-114,   2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0100-1574201200030001000039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LEE, Jong-Wha; BARRO, Robert J.   Schooling quality in a cross-section of countries. <i>Economica</i>,     v. 68, n. 272, p. 465-488, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0100-1574201200030001000040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">NERI, Marcelo. <i>A   Nova classe m&eacute;dia</i>. Rio de Janeiro: FGV/IBRE, CPS, 2008. Dispon&iacute;vel   em:     &lt;<a href="http://www3.fgv.br/ibrecps/M3/M3_ANovaClasseMedia_Port_2.pdf" target="_blank">http://www3.fgv.br/ibrecps/M3/M3_ANovaClasseMedia_Port_2.pdf</a>&gt;. Acesso   em: 1 jun. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0100-1574201200030001000041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">_____. <i>Cr&ocirc;nica   de uma crise anunciada</i>: choques externos e a nova classe m&eacute;dia. Rio   de Janeiro: FGV/IBRE, CPS, 2009. Dispon&iacute;vel em:   &lt;<a href="http://www3.fgv.br/ibrecps/C2008/C2008_CronicaTexto2.0Fim.pdf" target="_blank">http://www3.fgv.br/ibrecps/C2008/C2008_CronicaTexto2.0Fim.pdf</a>&gt;. Acesso   em: 1 jun. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0100-1574201200030001000042&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">RAVITCH, Diane. <i>The Death and life of the great   American school system</i>: how testing and choice are   undermining education. New York: Basic Books, 2010. Kindle edition.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0100-1574201200030001000043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">S&Atilde;O PAULO. (Estado). Lei complementar n. 1.078   de 17 de dezembro de 2008. Institui Bonifica&ccedil;&atilde;o por resultados - BR, no &acirc;mbito   da Secretaria da Educa&ccedil;&atilde;o, e d&aacute; provid&ecirc;ncias correlatas. <i>Di&aacute;rio Oficial do Estado de S&atilde;o Paulo, </i>S&atilde;o   Paulo, v. 118, n. 239, se&ccedil;&atilde;o I, p. 1-17,     dez. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0100-1574201200030001000044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">S&Atilde;O PAULO. (Estado). Secretaria de Educa&ccedil;&atilde;o. <i>Bonifica&ccedil;&atilde;o por resultado</i>:   escolas p&uacute;blicas do estado de S&atilde;o Paulo: premiar quem alcan&ccedil;a as metas   definidas para a melhoria da qualidade de ensino. S&atilde;o Paulo, 2011a.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0100-1574201200030001000045&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">______. <i>Programa   de qualidade da escola</i>: nota t&eacute;cnica. S&atilde;o Paulo, 2011b. Dispon&iacute;vel   em:     &lt;<a href="http://idesp.edunet.sp.gov.br/Arquivos/Nota_tecnica_2010.pdf" target="_blank">http://idesp.edunet.sp.gov.br/Arquivos/Nota_tecnica_2010.pdf</a>&gt;. Acesso   em: 30 set. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0100-1574201200030001000046&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">SILVA, Maria de Salete; ALC&Acirc;NTARA, Pedro Ivo. <i>O Direito de aprender</i>:   potencializar avan&ccedil;os e reduzir desigualdades. Bras&iacute;lia: Unicef, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0100-1574201200030001000047&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">TOMLINSON, Sally. <i>Education in a post-welfare society</i>. 2. ed. Buckingham: Open University, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S0100-1574201200030001000048&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">WEST, Edwin G. Education   vouchers in principle and practice: a survey. <i>The World Bank research observer</i>, v. 12, n. 1, p. 83-103, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000197&pid=S0100-1574201200030001000049&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">WINKLER, Donald R.; GERSHBERG, Alec Ian.   Education decentralization in Latin America: the effects on the quality of   schooling. In: BURKI, Shahid et al. (Ed.). <i>Annual     World Bank conference on development and accountability of the public sector</i>.   Whashington, DC: World Bank, 2000. p. 203-225.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S0100-1574201200030001000050&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Recebido em: OUTUBRO 2011    <br>   Aprovado para publica&ccedil;&atilde;o em: MAIO   2012</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Este artigo apresenta resultados iniciais   de pesquisa desenvolvida no &acirc;mbito do Centro de Estudos da Cultura Contempor&acirc;nea&nbsp;-   Cedec&nbsp;-, com financiamento do Instituto de Estudos e Pesquisas   Educacionais An&iacute;sio Teixeira&nbsp;- Inep&nbsp;-, &oacute;rg&atilde;o vinculado ao Minist&eacute;rio   da Educa&ccedil;&atilde;o.</font>    <br>   <font size="2" face="Verdana"><a name="nt01"></a><a href="#tx01">1</a></font> <font size="2" face="Verdana">O Saeb &eacute; calculado com base em uma amostra representativa     das escolas brasileiras.</font>    <br>   <font size="2" face="Verdana"><a name="nt02"></a><a href="#tx02">2</a></font> <font size="2" face="Verdana">O Programme for International Student Assessment - Pisa     -, criado pela Organiza&ccedil;&atilde;o para Coopera&ccedil;&atilde;o e Desenvolvimento Econ&ocirc;mico - OCDE     -, avalia o desempenho de jovens aos 15 anos em 65 pa&iacute;ses. Informa&ccedil;&otilde;es     adicionais podem ser encontradas em: &lt;<a href="http://www.pisa.oecd.org" target="_blank">http://www.pisa.oecd.org</a>&gt;.</font>    <br>   <font size="2" face="Verdana"><a name="nt03"></a><a href="#tx03">3</a></font> <font size="2" face="Verdana">Os dados pertinentes ao Ideb foram obtidos do s&iacute;tio do     Inep (BRASIL, s.d.&#91;a&#93;) e os dados sobre o n&iacute;vel de pobreza nos munic&iacute;pios foram     obtidos do s&iacute;tio do Ipea (BRASIL, s.d.&#91;e&#93;).</font>    <br>   <font size="2" face="Verdana"><a name="nt04"></a><a href="#tx04">4</a></font> <font size="2" face="Verdana">O teste <i>t</i> indica se os valores para     os coeficientes &#946; s&atilde;o     significativamente diferentes de zero.</font>    <br>   <font size="2" face="Verdana"><a name="nt05"></a><a href="#tx05">5</a></font> <font size="2" face="Verdana">Estamos agora realizando uma investiga&ccedil;&atilde;o qualitativa,     visitando todos os oito munic&iacute;pios identificados por meio da an&aacute;lise de res&iacute;duos     com o objetivo de verificar quais pr&aacute;ticas poderiam explicar o bom desempenho     observado. Os resultados, especialmente os de Barra do Chap&eacute;u (SP) e Boa Vista     do Tupim (BA), poder&atilde;o ajudar os munic&iacute;pios com alto n&iacute;vel de pobreza a     melhorem o desempenho escolar.</font>    ]]></body>
+<body><![CDATA[<br>   <font size="2" face="Verdana"><a name="nt06"></a><a href="#tx06">6</a></font> <font size="2" face="Verdana">Uma professora da 5<u><sup>a</sup></u> s&eacute;rie da rede     estadual de educa&ccedil;&atilde;o do estado de S&atilde;o Paulo informou-nos que em 2010 ela     recebeu mais de R$ 3 mil como b&ocirc;nus pelo desempenho de sua escola, mas que em     2011 o valor do b&ocirc;nus caiu para R$ 35,00. Ela ou seus colegas n&atilde;o alteraram     suas pr&aacute;ticas pedag&oacute;gicas de 2010 para 2011, mesmo porque o que estavam fazendo     foi recompensado inicialmente com o b&ocirc;nus. Diante desse quadro, o que os     professores devem fazer para receber o b&ocirc;nus em 2012? Continuar com suas atuais     pr&aacute;ticas pedag&oacute;gicas que foram premiadas em 2010? Ou mudar tudo o que faziam     antes, porque "fracassaram" em 2011? A mensagem da pol&iacute;tica de b&ocirc;nus baseada no     desempenho anual &eacute; altamente d&uacute;bia.</font>    <br>   <font size="2" face="Verdana"><a name="nt07"></a><a href="#tx07">7</a></font> <font size="2" face="Verdana">Segundo dados do censo de 2000, 88,9% dos munic&iacute;pios     brasileiros t&ecirc;m at&eacute; 50 mil habitantes (IBGE, 2011).</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANDREWS]]></surname>
+<given-names><![CDATA[Christina W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Anti-poverty policies in Brazil: reviewing the past ten years]]></article-title>
+<source><![CDATA[International Review of Administrative Sciences]]></source>
+<year>2004</year>
+<volume>70</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>477-488</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<source><![CDATA[ATLANTA'S Public schools: low marks all round]]></source>
+<year>16-2</year>
+<month>2 </month>
+<day>Ju</day>
+<page-range>32</page-range><publisher-name><![CDATA[The Economist]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAKER]]></surname>
+<given-names><![CDATA[David P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOESLING]]></surname>
+<given-names><![CDATA[Brian]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LETENDRE]]></surname>
+<given-names><![CDATA[Gerald K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Socioeconomic status, school quality, and national economic development: a cross-national analysis of the "Heyneman-Loxley Effect" on mathematics and science achievement]]></article-title>
+<source><![CDATA[Comparative Education Review]]></source>
+<year>2002</year>
+<volume>46</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>291-312</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BONAL]]></surname>
+<given-names><![CDATA[Xavier.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Is the World Bank education policy adequate for fighting poverty? Some evidence from Latin America]]></article-title>
+<source><![CDATA[International Journal of Educational Development]]></source>
+<year>2004</year>
+<volume>24</volume>
+<page-range>649-666</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<collab>BRASIL</collab>
+<source><![CDATA[Constituição (1988).Constituição da República Federativa do Brasil]]></source>
+<year>5 ou</year>
+<month>t.</month>
+<day>de</day>
+<publisher-name><![CDATA[Diário Oficial [da] República Federativa do Brasil]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Emenda constitucional n. 14, de 12 setembro de 1996. Modifica os arts. 34, 208, 211 e 212 da Constituição Federal e dá nova redação ao art. 60 do ato das disposições constitucionais transitórias]]></source>
+<year>13 s</year>
+<month>et</month>
+<day>. </day>
+<publisher-name><![CDATA[Diário Oficial [da] República Federativa do Brasil]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Lei n. 9.394, de 20 de dezembro de 1996: Estabelece as diretrizes e bases da educação nacional]]></source>
+<year>20 d</year>
+<month>ez</month>
+<day>. </day>
+<publisher-name><![CDATA[Diário Oficial [da] República Federativa do Brasil]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Lei n. 9.424, de 24 de dezembro de 1996. Dispõe sobre o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, na forma prevista no art. 60, § 7º, do Ato das Disposições Constitucionais Transitórias, e dá outras providências]]></source>
+<year>26 d</year>
+<month>ez</month>
+<day>. </day>
+<publisher-name><![CDATA[Diário Oficial [da] República Federativa do Brasil]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Lei n. 11.494, de 20 de junho de 2007. Regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - Fundeb, de que trata o art. 60 do Ato das Disposições Constitucionais Transitórias; altera a Lei n. 10.195, de 14 de fevereiro de 2001; revoga dispositivos das leis n. 9.424, de 24 de dezembro de 1996, 10.880, de 9 de junho de 2004, e 10.845, de 5 de março de 2004; e dá outras providências]]></source>
+<year>21 j</year>
+<month>un</month>
+<day>. </day>
+<publisher-name><![CDATA[Diário Diário Oficial [da] República Federativa do Brasil]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<collab>BRASIL^dMinistério da Educação</collab>
+<source><![CDATA[Plano nacional de formação de professores]]></source>
+<year></year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Programas livro-didático]]></source>
+<year></year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[FNDE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>BRASIL</collab>
+<source><![CDATA[Ministério da Educação. Instituto Nacional de Pesquisas Educacionais Anísio Teixeira. Ideb: índice da educação básica]]></source>
+<year></year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Saeb 2005: primeiros resultados: médias de desempenho do Saeb/2005 em perspectiva comparada]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<collab>BRASIL</collab>
+<source><![CDATA[Ministério do Desenvolvimento Social. Relatórios e estatística: sistema de informações da Senarc]]></source>
+<year></year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[MDS]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<collab>BRASIL^dMinistério do Planejamento. Instituto de Pesquisas Econômicas Aplicadas</collab>
+<source><![CDATA[Ipeadata]]></source>
+<year></year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BROOKE]]></surname>
+<given-names><![CDATA[Nigel.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Responsabilização educacional no Brasil]]></article-title>
+<source><![CDATA[Revista Iberoamericana de Evaluación Educativa]]></source>
+<year>2008</year>
+<volume>1</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>93-109</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARNOY]]></surname>
+<given-names><![CDATA[Martin.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Is privatization through education vouchers really the answer? A comment on West]]></article-title>
+<source><![CDATA[The World Bank Research Observer]]></source>
+<year>1997</year>
+<volume>2</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>105-115</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COLEMAN]]></surname>
+<given-names><![CDATA[James Samuel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Equality of educational opportunity: summary report]]></source>
+<year>Educ</year>
+<month>at</month>
+<day>io</day>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[Department of Health]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DANTAS]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NERI]]></surname>
+<given-names><![CDATA[Marcelo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Demos os pobres ao mercado. É hora de dar o mercado aos pobres: entrevista com Marcelo Neri]]></source>
+<year>27 s</year>
+<month>et</month>
+<day>. </day>
+<publisher-name><![CDATA[O Estado de S. Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DE MELLO]]></surname>
+<given-names><![CDATA[Luiz]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HOPPE]]></surname>
+<given-names><![CDATA[Mombert.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Education attainment in Brazil: the experience of Fundef]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[OECD]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DE VRIES]]></surname>
+<given-names><![CDATA[Michiel S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Between symbolic and evidence-based policies: the Brazilian efforts to increase the quality of basic education]]></article-title>
+<source><![CDATA[]]></source>
+<year>2010</year>
+<conf-name><![CDATA[28 INTERNATIONAL CONGRESS OF ADMINISTRATIVE SCIENCES]]></conf-name>
+<conf-date>July 2010</conf-date>
+<conf-loc>Bali </conf-loc>
+<publisher-loc><![CDATA[Bali ]]></publisher-loc>
+<publisher-name><![CDATA[IIAS]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DE VRIES]]></surname>
+<given-names><![CDATA[Michiel S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Performance measurement and the search for best practices]]></article-title>
+<source><![CDATA[]]></source>
+<year>2009</year>
+<conf-name><![CDATA[5 INTERNATIONAL SPECIALISED CONFERENCE OF THE INTERNATIONAL INSTITUTE OF ADMINISTRATIVE SCIENCES]]></conf-name>
+<conf-date>2009</conf-date>
+<conf-loc>Helsinki </conf-loc>
+<publisher-loc><![CDATA[Helsinki ]]></publisher-loc>
+<publisher-name><![CDATA[International Institute of Administrative Sciences]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DE VRIES]]></surname>
+<given-names><![CDATA[Michiel S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAKO]]></surname>
+<given-names><![CDATA[Christiaan J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Adapted performance measures and the performance of Dutch municipalities in reducing crime nates]]></article-title>
+<source><![CDATA[Journal of Regional Studies and Development, n. 18]]></source>
+<year>2009</year>
+<volume>1</volume>
+<page-range>29-57</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EASTERLIN]]></surname>
+<given-names><![CDATA[Richard A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Why isn't the whole world developed?]]></article-title>
+<source><![CDATA[The Journal of Economic History]]></source>
+<year>1981</year>
+<volume>41</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-19</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ERMISCH]]></surname>
+<given-names><![CDATA[John]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRANCESCONI]]></surname>
+<given-names><![CDATA[Marco.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Family matters: impacts of family background on educational attainments]]></article-title>
+<source><![CDATA[Economica]]></source>
+<year>2001</year>
+<volume>68</volume>
+<page-range>137-156</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[Reynaldo.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Índice de desenvolvimento da educação básica (Ideb)]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Inep]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[Reynaldo.]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Índice de desenvolvimento da educação básica (Ideb): metas intermediárias para a sua trajetória no Brasil, estados, municípios e escolas]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Inep]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FUCHS]]></surname>
+<given-names><![CDATA[Thomas]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WOESSMANN]]></surname>
+<given-names><![CDATA[Ludger]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[What accounts for international differences in student performance?: A re-examination using PISA data]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Munich ]]></publisher-loc>
+<publisher-name><![CDATA[CES-IFO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="">
+<collab>FUNDAÇÃO IBGE</collab>
+<source><![CDATA[Censo demográfico 2010]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GLEWWE]]></surname>
+<given-names><![CDATA[Paul]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KASSOUF]]></surname>
+<given-names><![CDATA[Ana Lucia]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Impact of the bolsa escola/família conditional cash transfer program on enrollment, grade promotion and drop-out rates in Brazil]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[36 ENCONTRO NACIONAL DE ECONOMIA]]></conf-name>
+<conf-date>9-12 dez. 2008</conf-date>
+<conf-loc>Salvador </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HANUSHEK]]></surname>
+<given-names><![CDATA[Eric]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A]]></article-title>
+<source><![CDATA[Interpreting recent research on schooling in developing countries. World Bank Research Observer]]></source>
+<year>1995</year>
+<volume>10</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>227-246</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HANUSHEK]]></surname>
+<given-names><![CDATA[Eric]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Failure of input-based schooling policies]]></article-title>
+<source><![CDATA[The Economic Journal]]></source>
+<year>2003</year>
+<numero>133</numero>
+<issue>133</issue>
+<page-range>F64-F98</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HANUSHEK]]></surname>
+<given-names><![CDATA[Eric A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WÖ&#946;MANN]]></surname>
+<given-names><![CDATA[Ludger.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Role of education quality in economic growth]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[World Bank]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HENRIQUES]]></surname>
+<given-names><![CDATA[Ricardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GIAMBIAGI]]></surname>
+<given-names><![CDATA[Fábio]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VELOSO]]></surname>
+<given-names><![CDATA[Fernando.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Educação básica no Brasil: construindo o país do futuro]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Campus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HEYNEMAN]]></surname>
+<given-names><![CDATA[Stephen]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FARREL]]></surname>
+<given-names><![CDATA[Joseph]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SEPULVEDA-STUARDO]]></surname>
+<given-names><![CDATA[Manuel.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Textbooks and achievement in developing countries: what we know]]></article-title>
+<source><![CDATA[Journal of Curriculum Studies]]></source>
+<year>1981</year>
+<volume>13</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>226-246</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HEYNEMAN]]></surname>
+<given-names><![CDATA[Stephen]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOXLEY]]></surname>
+<given-names><![CDATA[William]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A]]></article-title>
+<source><![CDATA[The Effect of primary-school quality on academic achievement across twenty-nine high-and low-income countries. American Journal of Sociology]]></source>
+<year>1983</year>
+<volume>88</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>1162-1194</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFFMANN]]></surname>
+<given-names><![CDATA[Rodolfo.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Transferência de renda e redução da desigualdade no Brasil e cinco regiões entre 1997 e 2004]]></article-title>
+<source><![CDATA[Econômica]]></source>
+<year>2006</year>
+<volume>8</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>55&#8209;81</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KAMAT]]></surname>
+<given-names><![CDATA[Sangeeta.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Deconstructing the rhetoric of decentralization: the state in education reform]]></article-title>
+<source><![CDATA[Current Issues in Comparative Education]]></source>
+<year>2002</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>110-119</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KANE]]></surname>
+<given-names><![CDATA[Thomas J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STAIGER]]></surname>
+<given-names><![CDATA[Douglas O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[The Promise and pitfalls of using imprecise school accontability measures]]></article-title>
+<source><![CDATA[Journal of Economic Perspectives]]></source>
+<year>2002</year>
+<volume>16</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>91-114</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[Jong-Wha]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARRO]]></surname>
+<given-names><![CDATA[Robert J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Schooling quality in a cross-section of countries]]></article-title>
+<source><![CDATA[Economica]]></source>
+<year>2001</year>
+<volume>68</volume>
+<numero>272</numero>
+<issue>272</issue>
+<page-range>465-488</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NERI]]></surname>
+<given-names><![CDATA[Marcelo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Nova classe média]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV/IBRE, CPS]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NERI]]></surname>
+<given-names><![CDATA[Marcelo]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Crônica de uma crise anunciada: choques externos e a nova classe média]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV/IBRE, CPS]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAVITCH]]></surname>
+<given-names><![CDATA[Diane.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Death and life of the great American school system: how testing and choice are undermining education]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Basic Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<collab>SÃO PAULO</collab>
+<source><![CDATA[Lei complementar n. 1.078 de 17 de dezembro de 2008. Institui Bonificação por resultados - BR, no âmbito da Secretaria da Educação, e dá providências correlatas]]></source>
+<year>dez.</year>
+<month> 2</month>
+<day>00</day>
+<volume>118</volume>
+<page-range>1-17</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Diário Oficial do Estado de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="">
+<collab>SÃO PAULO</collab>
+<source><![CDATA[Secretaria de Educação. Bonificação por resultado: escolas públicas do estado de São Paulo: premiar quem alcança as metas definidas para a melhoria da qualidade de ensino]]></source>
+<year>2011</year>
+<month>a</month>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Programa de qualidade da escola: nota técnica]]></source>
+<year>2011</year>
+<month>b</month>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[Maria de Salete]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALCÂNTARA]]></surname>
+<given-names><![CDATA[Pedro Ivo.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Direito de aprender: potencializar avanços e reduzir desigualdades]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Unicef]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TOMLINSON]]></surname>
+<given-names><![CDATA[Sally.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Education in a post-welfare society]]></source>
+<year>2005</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Buckingham ]]></publisher-loc>
+<publisher-name><![CDATA[Open University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WEST]]></surname>
+<given-names><![CDATA[Edwin G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Education vouchers in principle and practice: a survey]]></article-title>
+<source><![CDATA[The World Bank research observer]]></source>
+<year>1997</year>
+<volume>12</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>83-103</page-range></nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WINKLER]]></surname>
+<given-names><![CDATA[Donald R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GERSHBERG]]></surname>
+<given-names><![CDATA[Alec Ian]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Education decentralization in Latin America: the effects on the quality of schooling]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[BURKI]]></surname>
+<given-names><![CDATA[Shahid]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Annual World Bank conference on development and accountability of the public sector]]></source>
+<year>2000</year>
+<page-range>203-225</page-range><publisher-loc><![CDATA[Whashington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[World Bank]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

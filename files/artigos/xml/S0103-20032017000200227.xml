@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032017000200227</article-id>
+<article-id pub-id-type="doi">10.1590/1234-56781806-94790550202</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[O Impacto do Programa Saúde da Família Sobre a Saúde das Crianças da Área Rural do Brasil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[Anderson Moreira Aristides dos]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Jacinto]]></surname>
+<given-names><![CDATA[Paulo de Andrade]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal de Alagoas  ]]></institution>
+<addr-line><![CDATA[Maceió Alagoas]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade Federal do Paraná  ]]></institution>
+<addr-line><![CDATA[Curitiba Paraná]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2017</year>
+</pub-date>
+<volume>55</volume>
+<numero>2</numero>
+<fpage>227</fpage>
+<lpage>246</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032017000200227&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032017000200227&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032017000200227&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo: Este trabalho buscou analisar o impacto do Programa Saúde da Família (PSF) sobre a saúde das crianças (menores de 12 anos) da área rural do Brasil com base nos dados da PNAD (2008), utilizando os métodos Propensity Score Matching e Mínimos Quadrados Ordinários, aplicando análises de sensibilidade. Os resultados indicaram que o PSF possui um impacto estatisticamente significativo e de magnitude elevada sobre a saúde das crianças da área rural do Brasil. Contudo, ele está concentrado nas regiões Norte e Nordeste, sendo não significativo no Centro-Sul do País. No caso da região Norte, esse impacto independe da idade, enquanto na região Nordeste ele é significativo para as menores faixas de idade. A análise de sensibilidade indicou robustez dos resultados, principalmente para crianças mais novas. Portanto, há a confirmação da hipótese de que indivíduos das regiões mais pobres da área rural são beneficiados por esse tipo de política.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract: This paper aims to analyze the impact of Family Health Program (PSF) on the children&#8217;s health (under 12 years old) in Brazil&#8217;s rural area, using data from the PNAD (2008) and the PSM and OLS methods, applying sensitivity analysis. The results indicate that the PSF has a statistically significant and high magnitude impact on the children&#8217;s health in Brazil&#8217;s rural area. However, it is concentrated in the North and Northeast, and it is not significant in the Mid-South. For the Northern region, this impact is independent of age, while in the Northeast it is significant for younger age groups. The sensitivity analysis show robustness of the results especially for younger children. There is confirmation of the hypothesis that this type of policy benefits the individuals of the poorest regions in rural area.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Saúde da criança]]></kwd>
+<kwd lng="pt"><![CDATA[Brasil rural]]></kwd>
+<kwd lng="pt"><![CDATA[efeito do tratamento]]></kwd>
+<kwd lng="pt"><![CDATA[Programa Saúde da Família]]></kwd>
+<kwd lng="en"><![CDATA[Children&#8217;s health]]></kwd>
+<kwd lng="en"><![CDATA[Brazil&#8217;s rural area]]></kwd>
+<kwd lng="en"><![CDATA[treatment effect]]></kwd>
+<kwd lng="en"><![CDATA[Family Health Program]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ABADIE]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IMBENS]]></surname>
+<given-names><![CDATA[G. W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Matching on the Estimated Propensity Score]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[National Bureau of Economic Research ]]></publisher-loc>
+<publisher-name><![CDATA[NBER Working Paper]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALTONJI]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ELDER]]></surname>
+<given-names><![CDATA[T. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TABER]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>2005</year>
+<volume>113</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>151-84</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AQUINO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DE OLIVEIRA]]></surname>
+<given-names><![CDATA[N. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[M. L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Impact of the family health program on infant mortality in Brazilian municipalities]]></article-title>
+<source><![CDATA[American Journal of Public Health]]></source>
+<year>2009</year>
+<volume>99</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>87-93</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BATTISTIN]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DE NADAI]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SIANESI]]></surname>
+<given-names><![CDATA[B]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Misreported schooling, multiple measures and returns to educational qualifications]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>2014</year>
+<volume>181</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>136-50</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CALIENDO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KOPEINIG]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Some Practical Guidance for the Implementation of Propensity Score Matching]]></article-title>
+<source><![CDATA[Journal of Economic Surveys]]></source>
+<year>2008</year>
+<volume>22</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>31-72</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUANAIS]]></surname>
+<given-names><![CDATA[F. C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The combined effects of the expansion of primary health care and conditional cash transfers on infant mortality in Brazil, 1998-2010]]></article-title>
+<source><![CDATA[American Journal of Public Health]]></source>
+<year>2013</year>
+<volume>103</volume>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>2000-6</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ICHINO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MEALLI]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NANNICINI]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[From temporary help jobs to permanent employment: what can we learn from matching estimators and their sensitivity?]]></article-title>
+<source><![CDATA[Journal of Applied Econometrics]]></source>
+<year>2008</year>
+<volume>23</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>305-27</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IMAI]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RATKOVIC]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Covariate balancing propensity score]]></article-title>
+<source><![CDATA[Journal of the Royal Statistical Society]]></source>
+<year>2014</year>
+<page-range>243-63</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEUVEN]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SIANESI]]></surname>
+<given-names><![CDATA[B]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[PSMATCH2: Stata module to perform full Mahalanobis and propensity score matching, common support graphing, and covariate imbalance testing]]></source>
+<year>2003</year>
+<publisher-name><![CDATA[Boston College Department of Economics]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACINKO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Evaluation of the impact of the Family Health Program on infant mortality in Brazil, 1990-2002]]></article-title>
+<source><![CDATA[Journal of Epidemiology and Community Health]]></source>
+<year>2006</year>
+<volume>60</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>13-9</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACINKO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Going to scale with community-based primary care: an analysis of the family health program and infant mortality in Brazil, 1999-2004]]></article-title>
+<source><![CDATA[Social Science &amp; Medicine]]></source>
+<year>2007</year>
+<volume>65</volume>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>2070-80</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACINKO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HARRIS]]></surname>
+<given-names><![CDATA[M. J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Brazil&#8217;s Family Health Strategy - Delivering Community-Based Primary Care in a Universal Health System]]></article-title>
+<source><![CDATA[New England Journal of Medicine]]></source>
+<year>2015</year>
+<volume>372</volume>
+<numero>23</numero>
+<issue>23</issue>
+<page-range>2177-81</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NANNICINI]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Simulation-based sensitivity analysis for matching estimators]]></article-title>
+<source><![CDATA[Stata Journal]]></source>
+<year>2007</year>
+<volume>7</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>334-50</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NICOLELLA]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KASSOUF]]></surname>
+<given-names><![CDATA[A. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[A. L. M. DE]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[O impacto do trabalho infantil no setor agrícola sobre a saúde]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2008</year>
+<volume>46</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>673-701</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NORONHA]]></surname>
+<given-names><![CDATA[K. V. M. D. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Relação entre o Estado de Saúde e a Desigualdade de Renda no Brasil]]></source>
+<year>2005</year>
+<volume>187</volume>
+<publisher-loc><![CDATA[Minas Gerais ]]></publisher-loc>
+<publisher-name><![CDATA[CEDEPLAR/FACE, UFMG]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OSTER]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Unobservable Selection and Coefficient Stability: Theory and Evidence]]></source>
+<year>2015</year>
+<publisher-name><![CDATA[Brown University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RASELLA]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AQUINO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[M. L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Reducing childhood mortality from diarrhea and lower respiratory tract infections in Brazil]]></article-title>
+<source><![CDATA[Pediatrics]]></source>
+<year>2010</year>
+<volume>126</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>e534-40</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REIS]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Public primary health care and children&#8217;s health in Brazil: evidence from siblings]]></article-title>
+<source><![CDATA[Journal of Population Economics]]></source>
+<year>2014</year>
+<volume>27</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>421-45</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROCHA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES]]></surname>
+<given-names><![CDATA[R. R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Evaluating the impact of community-based health interventions: evidence from Brazil&#8217;s Family Health Program]]></article-title>
+<source><![CDATA[Health Economics]]></source>
+<year>2010</year>
+<volume>19</volume>
+<page-range>126-58</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSENBAUM]]></surname>
+<given-names><![CDATA[P. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Observational studies]]></source>
+<year>2002</year>
+<publisher-name><![CDATA[Springer-Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSENBAUM]]></surname>
+<given-names><![CDATA[P. R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBIN]]></surname>
+<given-names><![CDATA[D. B]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Assessing Sensitivity to an Unobserved Binary Covariate in an Observational Study with Binary Outcome]]></article-title>
+<source><![CDATA[Journal of the Royal Statistical Society. Series B (Methodological)]]></source>
+<year>1983</year>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>212-8</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSENBAUM]]></surname>
+<given-names><![CDATA[P. R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBIN]]></surname>
+<given-names><![CDATA[D. B]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The central role of the propensity score in observational studies for causal effects]]></article-title>
+<source><![CDATA[Biometrika]]></source>
+<year>1983</year>
+<volume>70</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>41-55</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[A. M. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEJADA]]></surname>
+<given-names><![CDATA[C. A. O]]></given-names>
+</name>
+<name>
+<surname><![CDATA[EWERLING]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Os determinantes socioeconômicos do estado de saúde das crianças do Brasil rural]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2012</year>
+<volume>50</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>473-92</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOARES]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Os impactos do benefício do programa Bolsa Família sobre a desigualdade e a pobreza]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MODESTO]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bolsa Família: avanços e desafios]]></source>
+<year>2010</year>
+<volume>2</volume>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

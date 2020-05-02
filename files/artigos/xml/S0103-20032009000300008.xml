@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032009000300008</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032009000300008</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Avaliação económica de tarifas de água no uso agrícola: um estudo de caso no Sul de Portugal]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Fragoso]]></surname>
+<given-names><![CDATA[Rui]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade de Évora Departamento de Gestão de Empresas ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Portugal</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade de Évora Departamento de Gestão de Empresas ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Portugal</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2009</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2009</year>
+</pub-date>
+<volume>47</volume>
+<numero>3</numero>
+<fpage>699</fpage>
+<lpage>718</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032009000300008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032009000300008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032009000300008&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este artigo avalia os efeitos de políticas de tarifas da água no uso agrícola, em termos do consumo de água, do aproveitamento das áreas beneficiadas com regadio, do rendimento do produtor agrícola, da recuperação dos custos com a água e do desenvolvimento agrícola. A metodologia utilizada baseia-se na elaboração de um modelo de programação matemática multiperíodo, adaptado às características específicas de uma empresa agrícola do Sul de Portugal. Foram analisadas a tarifa fixa por área beneficiada, a tarifa volumétrica por metro cúbico de água consumida, a tarifa binómica e a tarifa progressiva. Para as simulações, foram considerados um cenário produtivo tradicional e um cenário produtivo alternativo, em que são introduzidas culturas de valor acrescentado.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This paper evaluates the effects of water tariffs in irrigation, in terms of water consumption, land irrigated, farm income, water cost recovery and agricultural investment. The methodology is based on a multiperiod mathematical programming model, which was applied to the specific characteristics of a representative farm in southern Portugal. The main aspects analyzed were: the fix tariff per area benefited, the volumetric tariff per cubic meter of water consumed, the mix tariff and the increasing block tariff. For the simulations, it was considered a traditional productive scenario and an alternative scenario, which include value added crops.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[programação multiperíodo]]></kwd>
+<kwd lng="pt"><![CDATA[Alentejo]]></kwd>
+<kwd lng="pt"><![CDATA[tarifas de água]]></kwd>
+<kwd lng="pt"><![CDATA[regadio]]></kwd>
+<kwd lng="pt"><![CDATA[risco]]></kwd>
+<kwd lng="en"><![CDATA[multiperiod programming]]></kwd>
+<kwd lng="en"><![CDATA[Alentejo]]></kwd>
+<kwd lng="en"><![CDATA[water tariffs]]></kwd>
+<kwd lng="en"><![CDATA[irrigation]]></kwd>
+<kwd lng="en"><![CDATA[risk]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><a name="nt01b"></a><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Avalia&ccedil;&atilde;o econ&oacute;mica de tarifas de &aacute;gua no uso agr&iacute;cola:  um estudo de caso no Sul de Portugal<a href="#nt01a"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Rui Fragoso<sup>I</sup>;  Carlos Marques<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Professor Auxiliar do Departamento de Gest&atilde;o de Empresas, Universidade de &Eacute;vora, Portugal. E-mail: <a href="mailto:rfragoso@uevora.pt">rfragoso@uevora.pt</a>     <br>   <sup>II</sup>Professor Catedr&aacute;tico do Departamento de Gest&atilde;o de Empresas, Universidade de &Eacute;vora, Portugal. E-mail: <a href="mailto:cmarques@uevora.pt">cmarques@uevora.pt</a> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este artigo avalia os efeitos de pol&iacute;ticas de tarifas da &aacute;gua no uso agr&iacute;cola, em termos do consumo de &aacute;gua, do aproveitamento das &aacute;reas beneficiadas com regadio, do rendimento do produtor agr&iacute;cola, da recupera&ccedil;&atilde;o dos custos com a &aacute;gua e do desenvolvimento agr&iacute;cola. A metodologia utilizada baseia-se na elabora&ccedil;&atilde;o de um modelo de programa&ccedil;&atilde;o matem&aacute;tica multiper&iacute;odo, adaptado &agrave;s caracter&iacute;sticas espec&iacute;ficas de uma empresa agr&iacute;cola do Sul de Portugal. Foram analisadas a tarifa fixa por &aacute;rea beneficiada, a tarifa volum&eacute;trica por metro c&uacute;bico de &aacute;gua consumida, a tarifa bin&oacute;mica e a tarifa progressiva. Para as simula&ccedil;&otilde;es, foram considerados um cen&aacute;rio produtivo tradicional e um cen&aacute;rio produtivo alternativo, em que s&atilde;o introduzidas culturas de valor acrescentado.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chaves: </b>programa&ccedil;&atilde;o multiper&iacute;odo, Alentejo, tarifas de &aacute;gua, regadio, risco. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This paper evaluates the effects of water tariffs in irrigation, in terms of water consumption, land irrigated, farm income, water cost recovery and agricultural investment. The methodology is based on a multiperiod mathematical programming model, which was applied to the specific characteristics of a representative farm in southern Portugal. The main aspects analyzed were: the fix tariff per area benefited, the volumetric tariff per cubic meter of water consumed, the mix tariff and the increasing block tariff. For  the simulations, it was considered a traditional productive scenario and an alternative  scenario, which include value added crops.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Keywords:</b> multiperiod programming, Alentejo, water tariffs, irrigation, risk.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b> 1. Introdu&ccedil;&atilde;o</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Na segunda metade do s&eacute;culo XX, para garantir o fornecimento de &aacute;gua &agrave;s  popula&ccedil;&otilde;es, a realiza&ccedil;&atilde;o de projectos de irriga&ccedil;&atilde;o e a produ&ccedil;&atilde;o de energia  hidro-el&eacute;ctrica, foi frequente a constru&ccedil;&atilde;o de grandes obras hidr&aacute;ulicas. No  entanto, apesar do &ecirc;xito desse modelo de desenvolvimento, os impactos no ciclo  hidrol&oacute;gico foram devastadores, nomeadamente, em termos da qualidade da  &aacute;gua e do crescimento da procura, o que tornou, em muitas as regi&otilde;es do mundo,  a &aacute;gua num bem escasso. Face esta situa&ccedil;&atilde;o, desde o final do s&eacute;culo XX que se  assiste a uma mudan&ccedil;a de paradigma na pol&iacute;tica de gest&atilde;o da &aacute;gua. A tradicional  pol&iacute;tica de fomento hidr&aacute;ulico est&aacute; a dar lugar ao controle da efici&ecirc;ncia e da  procura da &aacute;gua, sendo crescente a introdu&ccedil;&atilde;o de crit&eacute;rios econ&oacute;micos, como os  pre&ccedil;os p&uacute;blicos ou tarifas de &aacute;gua e os mercados de &aacute;gua (GLEICK, 2000).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Neste contexto, o sector agr&iacute;cola desempenha um papel de grande  import&acirc;ncia, devido ao facto de ser o maior consumidor de &aacute;gua do planeta e  devido &agrave; efici&ecirc;ncia de a utiliza&ccedil;&atilde;o ser baixa. Segundo Gonz&aacute;lez-Romero e Rubio  (1993), um incremento de 10% na efici&ecirc;ncia da utiliza&ccedil;&atilde;o agr&iacute;cola da &aacute;gua  corresponde a uma poupan&ccedil;a equivalente ao volume de &aacute;gua consumido em  todo o mundo no uso urbano.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Em muitos pa&iacute;ses que se deparam com problemas de falta de &aacute;gua, um dos  instrumentos frequentemente utilizados s&atilde;o os pre&ccedil;os p&uacute;blicos ou tarifas de  &aacute;gua na agricultura (WILCHENS, 1991; CUMMINGS e NERCISSIANTZ, 1992;  ROSEGRANT at al., 1995). Na Uni&atilde;o Europ&eacute;ia, s&atilde;o v&aacute;rios os pa&iacute;ses que j&aacute; utilizam  estes instrumentos de gest&atilde;o da &aacute;gua na agricultura, nomeadamente a Fran&ccedil;a  (MONTGINUOL, 1997). Na Espanha, Varela-Ortega et al. (1998) discutem a  aplica&ccedil;&atilde;o de diferentes tipos de tarifas de &aacute;guas em v&aacute;rios regadios do pa&iacute;s. Em  Portugal, a aprova&ccedil;&atilde;o da Directiva Quadro da &Aacute;gua (2000/60/CE) pela Uni&atilde;o  Europ&eacute;ia, que estabelece um quadro de ac&ccedil;&atilde;o comum na Uni&atilde;o Europ&eacute;ia para a  protec&ccedil;&atilde;o das &aacute;guas, abre perspectivas para a aplica&ccedil;&atilde;o de pre&ccedil;os p&uacute;blicos ou  tarifas de &aacute;gua, que promovam simultaneamente a utiliza&ccedil;&atilde;o eficiente do recurso  e a recupera&ccedil;&atilde;o dos custos da oferta de &aacute;gua.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Em algumas regi&otilde;es do Brasil, nomeadamente, no Nordeste e na bacia do Rio  de S&atilde;o Francisco, com o clima semi-&aacute;rido, os problemas da gest&atilde;o da &aacute;gua na agricultura apresentam algumas semelhan&ccedil;as com os que se assiste em Portugal,  caracterizando-se principalmente pela escassez de &aacute;gua na esta&ccedil;&atilde;o estival e pela  necessidade de promover o uso eficiente do recurso e garantir o financiamento  da oferta de &aacute;gua por meio de um sistema de tarifas de &aacute;gua adequado. No Brasil,  a aprova&ccedil;&atilde;o da Lei Federal da &Aacute;gua em janeiro de 1997, constituiu uma mudan&ccedil;a  de paradigma na gest&atilde;o da &aacute;gua no Pa&iacute;s, na medida em foi introduzida uma  ampla reforma no sector da &aacute;gua, incluindo o estabelecimento de pre&ccedil;os da &aacute;gua  por grosso (bulk water prices).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A aplica&ccedil;&atilde;o das disposi&ccedil;&otilde;es da Lei Federal da &Aacute;gua, especialmente em  mat&eacute;ria de pre&ccedil;os da &aacute;gua, foi diferenciada nos v&aacute;rios estados brasileiros, tendo  sido no Cear&aacute; onde foi mais efectiva. O Cear&aacute; foi o pioneiro na aplica&ccedil;&atilde;o de uma  pol&iacute;tica de pre&ccedil;o da &aacute;gua por grosso, principalmente por se tratar de um estado  em que a &aacute;gua &eacute; escassa, por n&atilde;o haver produ&ccedil;&atilde;o de energia hidro-el&eacute;ctrica - e,  como tal, aus&ecirc;ncia de receitas por esta via para custear a opera&ccedil;&atilde;o e a manuten&ccedil;&atilde;o  das infra-estruturas -, por haver uma marcada escassez sazonal de &aacute;gua e por a  estrat&eacute;gia de desenvolvimento deste estado se basear num agressivo programa  de industrializa&ccedil;&atilde;o e de turismo &agrave; escala internacional (ASAD et al., 1999).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No Brasil, s&atilde;o v&aacute;rios os estudos que tratam as quest&otilde;es do pre&ccedil;o da &aacute;gua no  retalho, entre estes, destaca-se: Godin Filho (1992), Lanna (1994), Lanna (1995),  Pinheiro e Shirota (2000). No entanto, com excep&ccedil;&atilde;o do &uacute;ltimo, esses estudos  limitam-se a determinar a tarifa que permite cobrir os custos de opera&ccedil;&atilde;o e  manuten&ccedil;&atilde;o dos sistemas de suprimento de &aacute;gua destinada &agrave; irriga&ccedil;&atilde;o. O estudo  de Pinheiro e Shirota (2000), traduz um contributo adicional, na medida em que  tamb&eacute;m determina os pre&ccedil;os e as quantidades de &aacute;gua a afectar a diferentes  culturas num per&iacute;metro de rega do Cear&aacute;.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No caso de Portugal, Fragoso (2004), No&eacute;me et al. (2004) e Avillez et al. (2004)  realizaram v&aacute;rios ensaios sobre o pre&ccedil;o da &aacute;gua na agricultura do Sul do pa&iacute;s,  com o objectivo de determinar a disponibilidade a pagar pela &aacute;gua e os seus  efeitos na afecta&ccedil;&atilde;o das culturas, nos rendimentos agr&iacute;colas e na recupera&ccedil;&atilde;o dos  custos da oferta. Tanto para o Brasil quanto para Portugal, contudo, nenhum  autor faz a avalia&ccedil;&atilde;o econ&oacute;mica de diferentes tipos de tarifas no uso agr&iacute;cola.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Face &agrave; pertin&ecirc;ncia do tema, este artigo tem como objectivo avaliar os efeitos  econ&oacute;micos da adop&ccedil;&atilde;o de diferentes tipos de tarifas de &aacute;gua no uso agr&iacute;cola, em  termos do consumo de &aacute;gua, do aproveitamento da superf&iacute;cie regada, do  rendimento agr&iacute;cola, da recupera&ccedil;&atilde;o dos custos com a oferta de &aacute;gua e do  investimento agr&iacute;cola. O estudo &eacute; aplicado a uma empresa agr&iacute;cola  representativa do per&iacute;metro de rega p&uacute;blico de Odivelas, na Regi&atilde;o Alentejo, no  Sul de Portugal. A metodologia utilizada baseia-se no desenvolvimento de um  modelo de programa&ccedil;&atilde;o matem&aacute;tica multiper&iacute;odo.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Al&eacute;m desta introdu&ccedil;&atilde;o, este artigo &eacute; composto por mais quatro partes, que  compreendem algumas notas sobre os fundamentos de uma pol&iacute;tica de tarifas, a  metodologia utilizada, os resultados e as conclus&otilde;es.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b> 2. Os fundamentos de uma pol&iacute;tica de tarifas de &aacute;gua</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No &acirc;mbito da Directiva Quadro da &Aacute;gua (DQA) pretende-se incentivar pela  via do pre&ccedil;o da &aacute;gua o uso sustent&aacute;vel do recurso, imputando os custos aos  utilizadores. Nestes, merecem destaque os custos de explora&ccedil;&atilde;o e de manuten&ccedil;&atilde;o  e os custos ambientais associados &agrave;s actividades, havendo alguma flexibilidade  quanto &agrave; internaliza&ccedil;&atilde;o dos custos de investimento.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Na perspectiva da DQA, a pol&iacute;tica de gest&atilde;o da &aacute;gua deve promover a  efici&ecirc;ncia e ter em conta a equidade no acesso ao recurso. A efici&ecirc;ncia do uso da  &aacute;gua depende da minimiza&ccedil;&atilde;o dos desperd&iacute;cios e da afecta&ccedil;&atilde;o &oacute;ptima do  recurso, devendo o uso da &aacute;gua aproximar-se o mais poss&iacute;vel da fronteira  eficiente de produ&ccedil;&atilde;o e o valor da produtividade marginal igualar o seu custo  marginal nos diferentes usos (BOWEN e YOUNG, 1986; FRAGOSO, 2001;  HENRIQUES et al, 2006). A equidade traduz-se na igualdade do acesso &agrave; &aacute;gua e  na redistribui&ccedil;&atilde;o dos rendimentos gerados pela &aacute;gua a favor dos agricultores  com menos recursos (BARR, 1992; PEARCE, 1986). A pol&iacute;tica de gest&atilde;o da &aacute;gua  dever&aacute; tamb&eacute;m considerar nos seus objectivos a recupera&ccedil;&atilde;o dos custos com a  &aacute;gua. No entanto, &eacute; frequente que o equil&iacute;brio or&ccedil;amental da oferta seja  incompat&iacute;vel com os objectivos de efici&ecirc;ncia e de equidade, devido aos  rendimentos crescentes e &agrave; escala do monop&oacute;lio natural em que se processa a  oferta de &aacute;gua.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Em Portugal, nos per&iacute;metros de rega p&uacute;blicos, como &eacute; o caso de Odivelas  (objecto deste estudo), o monop&oacute;lio natural &eacute; constitu&iacute;do pelo Estado, que delega  algumas responsabilidades nas associa&ccedil;&otilde;es de benefici&aacute;rios, que se constituem  como entidades privadas. O Estado &eacute; o respons&aacute;vel pela concep&ccedil;&atilde;o, constru&ccedil;&atilde;o e  financiamento das infra-estruturas de irriga&ccedil;&atilde;o e afecta&ccedil;&atilde;o da &aacute;gua no dom&iacute;nio  p&uacute;blico h&iacute;drico, cabendo &agrave;s associa&ccedil;&otilde;es de benefici&aacute;rios a gest&atilde;o, opera&ccedil;&atilde;o e  manuten&ccedil;&atilde;o dessas infra-estruturas.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A nova Lei da &Aacute;gua (Lei nº58/2005) transp&otilde;e para a legisla&ccedil;&atilde;o portuguesa a  DQA e actualiza o regime econ&oacute;mico e financeiro em vigor no Decrecto Lei  nº269/82 de 10 de junho. Estabelece-se, assim, as bases de um quadro  institucional para a gest&atilde;o sustent&aacute;vel da &aacute;gua, em que, no caso dos per&iacute;metros  de rega do Estado, as associa&ccedil;&otilde;es de benefici&aacute;rios devem restituir ao Estado as  receitas da taxa de recursos h&iacute;dricos, entendida como o pre&ccedil;o da &aacute;gua no grosso, e  fixar e cobrar aos agricultores tarifas de &aacute;gua, que n&atilde;o s&atilde;o mais do que pre&ccedil;os da  &aacute;gua no retalho.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Deste modo, as associa&ccedil;&otilde;es de benefici&aacute;rios devem conceber um sistema de  tarifas de &aacute;gua para os agricultores que promovam o uso sustent&aacute;vel da &aacute;gua e  que, simultaneamente, cubram os custos com a oferta de &aacute;gua. Estes custos  compreendem, os custos de explora&ccedil;&atilde;o da estrutura e dos servi&ccedil;os da associa&ccedil;&atilde;o  de benefici&aacute;rios, os custos de opera&ccedil;&atilde;o, de manuten&ccedil;&atilde;o e de capital das  infra-estruturas de irriga&ccedil;&atilde;o. Relativamente, aos custos de capital referentes aos reservat&oacute;rios e aos canais prim&aacute;rios e secund&aacute;rios de rega, tem existido alguma  flexibilidade por parte do Estado na restitui&ccedil;&atilde;o das verbas correspondentes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A pol&iacute;tica tarif&aacute;ria &eacute; um instrumento de regula&ccedil;&atilde;o econ&oacute;mica da procura de  &aacute;gua que, por meio da modifica&ccedil;&atilde;o dos pre&ccedil;os ou da transfer&ecirc;ncia de  rendimentos, tenta influenciar as decis&otilde;es dos agricultores, de modo a que estes  alterem voluntariamente o seu comportamento (BARDE, 1993). As pol&iacute;ticas  tarif&aacute;rias tiveram inicialmente como principal objectivo a recupera&ccedil;&atilde;o dos custos  com a &aacute;gua. No entanto, com o aumento da escassez do recurso, tornaram-se  progressivamente num instrumento de afecta&ccedil;&atilde;o eficiente.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A teoria microecon&oacute;mica neocl&aacute;ssica constitui o fundamento te&oacute;rico da  pol&iacute;tica tarif&aacute;ria, podendo estabelecer-se tanto do lado da oferta como do lado da  procura. Na &oacute;ptica da procura, a afecta&ccedil;&atilde;o &oacute;ptima do recurso &eacute; dada pelo valor da  produtividade marginal e pela competi&ccedil;&atilde;o entre os diferentes usos. No uso  agr&iacute;cola, a procura da &aacute;gua &eacute; derivada e depende dos pre&ccedil;os dos produtos nos  mercados agr&iacute;colas, da produtividade marginal da &aacute;gua na fun&ccedil;&atilde;o de produ&ccedil;&atilde;o  agr&iacute;cola e da competi&ccedil;&atilde;o entre as culturas de regadio dispon&iacute;veis. Na &oacute;ptica da  oferta, as tarifas de &aacute;gua devem tentar cobrir os custos com os servi&ccedil;os de  abastecimento, os custos de escassez relacionados com o uso do recurso, os custos  integrais da oferta e os custos sociais, como os decorrentes da polui&ccedil;&atilde;o. A grande  quest&atilde;o da pol&iacute;tica tarif&aacute;ria reside na fixa&ccedil;&atilde;o do n&iacute;vel da tarifa e na adop&ccedil;&atilde;o de  uma tarifa ao custo marginal ou ao custo m&eacute;dio.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A tarifa ao custo marginal conduz &agrave; maximiza&ccedil;&atilde;o do bem-estar social e  fornece um sinal da escassez do recurso aos seus utilizadores, induzindo, por  conseguinte, &agrave; efici&ecirc;ncia econ&oacute;mica. A maximiza&ccedil;&atilde;o do bem-estar social s&oacute; &eacute;  poss&iacute;vel se todos os sectores tarifarem a &aacute;gua ao custo marginal. No entanto,  quando existem rendimentos crescentes a escala, h&aacute; sectores que deixam de  aplicar a tarifa ao custo marginal (MONNIER, 1983). Nos grandes regadios, em  que o pre&ccedil;o da &aacute;gua cobrado &eacute; inferior ao seu custo m&eacute;dio de obten&ccedil;&atilde;o, o  equil&iacute;brio entre a oferta e a procura ocorre na parte convexa da fun&ccedil;&atilde;o de  produ&ccedil;&atilde;o da &aacute;gua. Por essa raz&atilde;o, a adop&ccedil;&atilde;o de uma tarifa ao custo marginal  conduz ao d&eacute;ficit or&ccedil;amental da oferta. Outro aspecto que limita a aplica&ccedil;&atilde;o da  tarifa ao custo marginal &eacute; a necessidade de se dispor de informa&ccedil;&atilde;o detalhada  (OCDE, 1987).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A tarifa ao custo m&eacute;dio &eacute; o instrumento adequado para a recupera&ccedil;&atilde;o dos  custos com a &aacute;gua e, por conseguinte, para resolver o problema or&ccedil;amental da  oferta (WINPENNY, 1994). O seu principal pressuposto reside numa procura  inel&aacute;stica da &aacute;gua, sendo, por isso, reduzida a sua influ&ecirc;ncia sobre a procura. Para  al&eacute;m de n&atilde;o considerar os aspectos sazonais e de longo prazo na procura, este  tipo de tarifa &aacute;gua n&atilde;o conduz a uma maximiza&ccedil;&atilde;o do bem-estar.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b> 3. Metodologia</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A metodologia utilizada, para fazer a avalia&ccedil;&atilde;o econ&oacute;mica de tarifas de &aacute;gua  no uso agr&iacute;cola, baseia-se num modelo de programa&ccedil;&atilde;o matem&aacute;tica multiper&iacute;odo,  desenvolvido para uma empresa agr&iacute;cola representativa do Sul de Portugal, a  partir dos trabalhos de Blanco (1996), Godinho (1997) e Henriques (1995).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este modelo determina a combina&ccedil;&atilde;o &oacute;ptima de actividades de produ&ccedil;&atilde;o  vegetal de regadio (cereais, oleaginosas e pastagens e forragens, hortofrut&iacute;colas e  industriais e frutuiras) e de sequeiro (cereais, oleaginosas e pastagens e forragens) e  de actividades de produ&ccedil;&atilde;o pecu&aacute;ria (bovinos de corte), em fun&ccedil;&atilde;o da maximiza&ccedil;&atilde;o  do valor actualizado l&iacute;quido dos activos do produtor, da minimiza&ccedil;&atilde;o do risco de  produ&ccedil;&atilde;o e de mercado e da probabilidade de ocorr&ecirc;ncia de uma determinada  dota&ccedil;&atilde;o de &aacute;gua. Todas as decis&otilde;es de investimento (m&aacute;quinas e equipamentos,  planta&ccedil;&otilde;es e animais reprodutores) e de financiamento (capital pr&oacute;prio e capital  alheio) s&atilde;o tomadas em fun&ccedil;&atilde;o das decis&otilde;es de produ&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em resposta a eventuais altera&ccedil;&otilde;es, como a pol&iacute;tica de tarifas de &aacute;gua, o  modelo prev&ecirc;: i) a substitui&ccedil;&atilde;o entre culturas de regadio; ii) a substitui&ccedil;&atilde;o de  culturas de regadio por culturas de sequeiro; e iii) a substitui&ccedil;&atilde;o entre culturas de  sequeiro; e iv) o abandono da actividade agr&iacute;cola.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> As principais vari&aacute;veis de decis&atilde;o (<i>X<sub>j</sub></i>) e (<i>Y<sub>I</sub></i>) s&atilde;o as actividades de produ&ccedil;&atilde;o  vegetal (ha) e de produ&ccedil;&atilde;o pecu&aacute;ria (CN) e as actividades de investimento em  maquinaria agr&iacute;cola (h ou nº), equipamentos de rega (ha), planta&ccedil;&otilde;es (ha) e em  efectivos pecu&aacute;rios (CN). A formula&ccedil;&atilde;o simplificada deste modelo &eacute; dada pelas  seguintes express&otilde;es:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08for01.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">s.a</font></p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08for02a08.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que, <i>t=1,2,...10</i> s&atilde;o os per&iacute;odos do horizonte de planifica&ccedil;&atilde;o (anos); e <i>ta</i> &eacute; a  taxa real de actualiza&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A equa&ccedil;&atilde;o (1) traduz a maximiza&ccedil;&atilde;o do valor actualizado dos activos l&iacute;quidos  do produtor (<i>Z</i>) e a minimiza&ccedil;&atilde;o do risco (</font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O valor actualizado dos activos l&iacute;quidos &eacute; dado pela soma actualizada do  consumo do produtor (<i>CS</i>), com as poupan&ccedil;as acumuladas (<i>PP</i>) e com o valor  final dos activos (<i>AL<sub>n</sub></i>), depois de deduzido o valor actual dos empr&eacute;stimos que  faltam liquidar no final do horizonte temporal (<i>RE<sub>n</sub></i>). De acordo com Henriques  (1995), o consumo anual do produtor foi fixado em 60% do cash-flow anual (<i>CF<sub>t</sub></i>),  sendo os restantes 40% imobiliza&ccedil;&atilde;o de capital (<i>IMO<sub>t</sub></i>) destinada &agrave; poupan&ccedil;a (<i>PP<sub>t</sub></i>)  e ao financiamento do investimento (<i>CP<sub>t</sub></i>).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> O risco na fun&ccedil;&atilde;o objectivo &eacute; medido por meio do desvio padr&atilde;o dos  cash-flow anuais da empresa (</font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><sub>t</sub></i>) e do grau de avers&atilde;o ao risco do produtor (<i>phi</i>),  tendo em conta a exist&ecirc;ncia de 15 estados de natureza (<i>y</i>), 3 relativos &agrave;s condi&ccedil;&otilde;es  de mercado e 5 relativos &agrave;s condi&ccedil;&otilde;es t&eacute;cnicas e agro-clim&aacute;ticas da produ&ccedil;&atilde;o  vegetal. O desvio padr&atilde;o do cash-flow anual &eacute; calculado pela diferen&ccedil;a entre o  valor m&eacute;dio (<i>CF<sub>t</sub></i>) e o valor em cada estado de natureza (<i>CF<sub>t,y</sub></i>).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Na equa&ccedil;&atilde;o (2), &eacute; calculado o cash-flow anual da empresa, tendo em conta o  cash-flow das actividades produtivas (<i>CF<sub>t,j</sub></i>), os empr&eacute;stimos de curto prazo  (<i>ECP<sub>t</sub></i>), as transfer&ecirc;ncias de fundos do per&iacute;odo anterior (<i>SD<sub>t-1</sub></i>), o servi&ccedil;o de  d&iacute;vida, calculado em fun&ccedil;&atilde;o da taxa de juro <i>i</i> dos empr&eacute;stimos de curto prazo e da  anuidade (<i>ann</i>) dos empr&eacute;stimos de longo prazo, e o fundo de maneio do per&iacute;odo  seguinte (<i>SD<sub>t</sub></i>).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> As equa&ccedil;&otilde;es (3) e (4) estabelecem, respectivamente, as condi&ccedil;&otilde;es de liquidez da  empresa e de financiamento do investimento. Para a liquidez, imp&otilde;e-se que as despesas correntes das actividades produtivas (<i>DE<sub>j,t</sub></i>) mais os montantes do servi&ccedil;o  de d&iacute;vida sejam inferiores ao total das transfer&ecirc;ncias de fundos do per&iacute;odo anterior  e dos empr&eacute;stimos de curto prazo. O valor do investimento (<i>P<sub>I.</sub>Y<sub>I,t</sub></i>) &eacute; financiado  por capitais pr&oacute;prios resultantes da imobiliza&ccedil;&atilde;o de capital (<i>CP<sub>t</sub></i>), por empr&eacute;stimos  de longo prazo (<i>ELP<sub>t</sub></i>) e por subs&iacute;dios a fundo perdido (<i>sb<sub>I,t</sub></i>).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A equa&ccedil;&atilde;o (5) modela em cada per&iacute;odo do horizonte de planifica&ccedil;&atilde;o o uso dos  recursos e os investimentos, garantindo que as necessidades das actividades  produtivas nesses recursos (<i>a<sub>j</sub></i>) n&atilde;o excedem a disponibilidade inicial (<i>b<sub>I,t</sub></i>) mais a  capacidade instalada no per&iacute;odo (<i>Y<sub>I,t</sub></i>) e em per&iacute;odos anteriores (<i>Y<sub>I,t-d</sub></i>). Devido &agrave;  sazonalidade das opera&ccedil;&otilde;es agr&iacute;colas, o modelo considera, tamb&eacute;m, o uso e a  contrata&ccedil;&atilde;o de m&atilde;o-de-obra por per&iacute;odo do calend&aacute;rio agr&iacute;cola.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A equa&ccedil;&atilde;o (6) restringe o consumo de &aacute;gua do plano de produ&ccedil;&atilde;o (<i>q<sub>t</sub></i>) &agrave;  dota&ccedil;&atilde;o de &aacute;gua bruta <i>Q</i> fornecida pela associa&ccedil;&atilde;o de benefici&aacute;rios da obra de  rega de Odivelas, depois de deduzidas das perdas <i>h</i> na rede secund&aacute;ria. A  dota&ccedil;&atilde;o <i>Q</i> corresponde a um volume de &aacute;gua que &eacute; vari&aacute;vel entre anos, em  fun&ccedil;&atilde;o das condi&ccedil;&otilde;es meteorol&oacute;gicas e da garantia do sistema de abastecimento  para satisfazer a procura em cada per&iacute;odo. Deste modo, a disponibilidade de  &aacute;gua &eacute; formulada por meio da restri&ccedil;&atilde;o probabil&iacute;stica:</font></p>     <p align="left"><img src="/img/revistas/resr/v47n3/a08fora.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Esta restri&ccedil;&atilde;o, indica que a dota&ccedil;&atilde;o <i>Q</i> se verifica com uma probabilidade de  ocorr&ecirc;ncia </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif">. Assumindo que os coeficientes estoc&aacute;sticos seguem uma  distribui&ccedil;&atilde;o normal, <i>Q</i> pode ser expresso em fun&ccedil;&atilde;o da esperan&ccedil;a matem&aacute;tica  (<i>E(Q)</i>), do desvio padr&atilde;o da distribui&ccedil;&atilde;o (</font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>Q</sub>) e de uma constante que depende da  probabilidade de ocorr&ecirc;ncia </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> (<i>k</i></font><sub>&#945;,</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif">):</font></p>     <p align="left"><img src="/img/revistas/resr/v47n3/a08forb.gif"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este m&eacute;todo, utilizado por Sumpsi et al. (1998), consiste em considerar a  dota&ccedil;&atilde;o <i>Q</i> inferior &agrave; dota&ccedil;&atilde;o esperada <i>E(Q)</i> numa magnitude de <i>k</i> </font><sub>&#945;</sub><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> . </font>&#963;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <i><sub>Q</sub></i>. Neste  estudo, considerou-se um valor de </font>&#945;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"> de 52%, que coincide com a frequ&ecirc;ncia  relativa com que ocorre a dota&ccedil;&atilde;o observada no per&iacute;metro de rega de Odivelas. A  utiliza&ccedil;&atilde;o de uma estrutura estoc&aacute;stica que permitisse ajustar as estrat&eacute;gias do  produtor em cada estado de natureza de disponibilidade de &aacute;gua seria mais  adequada (FRAGOSO, 1996 e 2001). No entanto, a sua aplica&ccedil;&atilde;o conduziria a um  problema de programa&ccedil;&atilde;o estoc&aacute;stica din&acirc;mica, o que acresceria  substancialmente a complexidade da an&aacute;lise.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> O balan&ccedil;o forrageiro &eacute; estabelecido por meio da equa&ccedil;&atilde;o (7), que &eacute;  desdobrada nas equa&ccedil;&otilde;es de balan&ccedil;o de energia metaboliz&aacute;vel, de prote&iacute;na bruta  e de capacidade m&aacute;xima de ingest&atilde;o dos animais. Estas equa&ccedil;&otilde;es, para captar a variabilidade e a sazonalidade da produ&ccedil;&atilde;o de pastagens, s&atilde;o estabelecidas por  estado de natureza de produ&ccedil;&atilde;o (<i>y</i>) e por per&iacute;odo cr&iacute;tico do crescimento de  pastagens (<i>p</i>). Garante-se, assim, que as necessidades (<i>qa<sub>je,p</sub></i>) energ&eacute;ticas e  prot&eacute;icas dos animais s&atilde;o satisfeitas e que a sua capacidade m&aacute;xima de ingest&atilde;o  n&atilde;o &eacute; excedida. A variabilidade da produ&ccedil;&atilde;o forrageira (<i>qa<sub>jpf,y,p</sub></i>) implica a  aquisi&ccedil;&atilde;o de alimentos ao exterior em maior ou menor extens&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A equa&ccedil;&atilde;o (8) garante que a &aacute;rea das culturas n&atilde;o excede a &aacute;rea dispon&iacute;vel, ou  que a &aacute;rea das culturas de regadio &eacute; inferior &agrave; &aacute;rea irrig&aacute;vel. Para al&eacute;m destas  restri&ccedil;&otilde;es estruturais de uso da terra, o modelo inclui restri&ccedil;&otilde;es que decorrem das  rota&ccedil;&otilde;es praticadas, da imposi&ccedil;&atilde;o de quotas de produ&ccedil;&atilde;o e de dificuldades de  comercializa&ccedil;&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b> 4. Resultados</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Antes de ser utilizado como instrumento prospectivo, o modelo foi testado  para diferentes n&iacute;veis de avers&atilde;o ao risco. Este procedimento permitiu validar o  modelo e fixar o valor do coeficiente de avers&atilde;o ao risco (<i>phi</i>) mais aderente &agrave;  realidade observada.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para avaliar os efeitos econ&oacute;micos das pol&iacute;ticas de tarifas de &aacute;gua,  consideram-se 4 tipos de tarifas: a tarifa fixa (TF) por &aacute;rea beneficiada (&#8364;/ha); a tarifa  proporcional ou volum&eacute;trica (TV) por metro c&uacute;bico de &aacute;gua consumida (&#8364;/m<sup>3</sup>); a  tarifa bin&oacute;mica (TB), que resulta da combina&ccedil;&atilde;o das duas anteriores (&#8364;/ha e<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>); e  a tarifa progressiva (TP) por patamares crescentes de consumo (&#8364;/m<sup>3</sup>).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Partindo do n&iacute;vel da tarifa actual simularam-se, para cada tipo de tarifa, 10  n&iacute;veis crescentes em 30% cada um. As simula&ccedil;&otilde;es foram efectuadas para o  cen&aacute;rio da PAC de 2003, considerando o perfil produtivo tradicional (cereais,  oleaginosas, beterraba, pastagens e forragens e carne de bovino) e o perfil  produtivo alternativo, que, para al&eacute;m das op&ccedil;&otilde;es produtivas do perfil produtivo  tradicional, introduz culturas de valor acrescentado dos sub-sectores das  horto-frut&iacute;colas e industriais (tomate, mel&atilde;o, pimento, cebola e batata) e das  fruteiras (macieiras, pereiras, uva de mesa, ameixieiras e pessegueiros).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No cen&aacute;rio produtivo tradicional, para a tarifa inicial (0,017<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>), o consumo  de &aacute;gua &eacute; id&ecirc;ntico &agrave; dota&ccedil;&atilde;o dispon&iacute;vel (8170 m<sup>3</sup>/ha) nas simula&ccedil;&otilde;es TV, TB e TF.  No caso da TP, o consumo inicial de &aacute;gua &eacute; de apenas 5450 m<sup>3</sup>/ha, o que reflecte  para o mesmo custo m&eacute;dio da tarifa uma redu&ccedil;&atilde;o no consumo de 33%. Para  induzir este n&iacute;vel de consumo seria necess&aacute;rio elevar o custo m&eacute;dio da tarifa nas  tr&ecirc;s simula&ccedil;&otilde;es anteriores acima de 0,022, de 0,029 e de 0,049<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>,  respectivamente (<a href="#graf01">Gr&aacute;fico 1</a>).</font></p>     <p><a name="graf01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08graf01.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No cen&aacute;rio produtivo alternativo as curvas da procura da &aacute;gua s&atilde;o mais  inel&aacute;sticas do que as obtidas para o cen&aacute;rio produtivo tradicional. Para a tarifa  inicial, o consumo de &aacute;gua &eacute; igual &agrave; dota&ccedil;&atilde;o dispon&iacute;vel em todas as simula&ccedil;&otilde;es. Com as TV, TB e TP, obt&ecirc;m-se redu&ccedil;&otilde;es significativas no consumo de &aacute;gua (60 a  70%), quando o custo m&eacute;dio da tarifa &eacute; de 0,063<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>, i.e., quando as curvas da  procura se tornam mais el&aacute;sticas. No caso da TF, o aumento da tarifa n&atilde;o tem  qualquer impacto sobre o consumo, confirmando-se a inadequa&ccedil;&atilde;o deste tipo de  tarifa na indu&ccedil;&atilde;o do uso eficiente da &aacute;gua de rega (<a href="#graf02">Gr&aacute;fico 2</a>).</font></p>     <p><a name="graf02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08graf02.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Do pondo de vista da utiliza&ccedil;&atilde;o eficiente do recurso, a TP &eacute; a que permite  obter os melhores resultados. A TV e com a TB, apesar de conduzirem a  resultados inferiores, tamb&eacute;m induzem significativamente ao uso eficiente da  &aacute;gua. A TF &eacute; a que proporciona os resultados piores em termos da afecta&ccedil;&atilde;o  eficiente da &aacute;gua de rega.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No cen&aacute;rio produtivo tradicional, a taxa de utiliza&ccedil;&atilde;o do regadio para o n&iacute;vel  inicial da tarifa nas simula&ccedil;&otilde;es das TF, TV e TB representa 18,4% da SAU, que &eacute; o  limite m&aacute;ximo da superf&iacute;cie irrig&aacute;vel. Quando se considera a TP, a taxa de  utiliza&ccedil;&atilde;o do regadio &eacute; pouco mais de 10% da SAU. Na TV, na TB e na TP, a taxa  de utiliza&ccedil;&atilde;o do regadio baixa para 50% quando o custo m&eacute;dio da tarifa atinge os  0,037<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup> e &eacute; nula para valores acima de 0,063<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>. No caso da TF, apesar de os  efeitos do aumento da tarifa serem menores do que nas restantes simula&ccedil;&otilde;es,  para um custo m&eacute;dio da tarifa de 0,063<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup> a taxa de utiliza&ccedil;&atilde;o do regadio &eacute;  apenas 3% (<a href="#graf03">Gr&aacute;fico 3</a>).</font></p>     <p><a name="graf03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08graf03.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No cen&aacute;rio produtivo alternativo, h&aacute; tamb&eacute;m uma rela&ccedil;&atilde;o directa entre a  diminui&ccedil;&atilde;o do consumo e da superf&iacute;cie regada. Nas simula&ccedil;&otilde;es TV, TB e TP a  superf&iacute;cie regada &eacute; aproveitada na totalidade para n&iacute;veis de custo m&eacute;dio da tarifa  at&eacute; 0,049<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>. A partir desse n&iacute;vel a taxa de utiliza&ccedil;&atilde;o do regadio baixa dos 18,4%  iniciais para ligeiramente menos da metade (<a href="#graf04">Gr&aacute;fico 4</a>).</font></p>     <p><a name="graf04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08graf04.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os melhores resultados em termos do aproveitamento da superf&iacute;cie regada  obt&ecirc;m-se com a TF, que n&atilde;o tem influ&ecirc;ncia directa no consumo de &aacute;gua, sendo a  TP a que mais penaliza o aproveitamento do regadio.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A amplitude da diminui&ccedil;&atilde;o dos rendimentos dos produtores agr&iacute;colas  decorrente do aumento do custo da &aacute;gua depende da elasticidade da procura da  &aacute;gua, das estrat&eacute;gicas de redu&ccedil;&atilde;o de consumo adoptadas e, no caso das tarifas  vari&aacute;veis em fun&ccedil;&atilde;o do consumo, tamb&eacute;m da dota&ccedil;&atilde;o inicial. As perdas de  rendimento de maior amplitude ocorrem nos segmentos mais inel&aacute;sticos da  curva da procura da &aacute;gua, quando o aumento percentual do custo m&eacute;dio da &aacute;gua  &eacute; superior &agrave; diminui&ccedil;&atilde;o percentual do consumo.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No cen&aacute;rio produtivo tradicional, um aumento inicial do custo m&eacute;dio da  tarifa de 30% leva em todas as simula&ccedil;&otilde;es a uma perda de rendimento quase da  mesma amplitude. A compara&ccedil;&atilde;o das tarifas simuladas, mostra que, para um  custo m&eacute;dio inferior a 0,063<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>, a TF e a TP s&atilde;o as que menos penalizam o  rendimento, sendo a TV e a TB as mais prejudiciais. Para n&iacute;veis superiores, a TF &eacute;  a que provoca as maiores perdas de rendimento (<a href="#graf05">Gr&aacute;fico 5</a>).</font></p>     <p><a name="graf05"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08graf05.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No cen&aacute;rio produtivo alternativo, o peso dos custos com &aacute;gua nas receitas &eacute;  relativamente reduzido sendo, por isso, menor o efeito da pol&iacute;tica de tarifas no  rendimento do que no cen&aacute;rio produtivo tradicional. Um aumento da tarifa  inicial de 30% provoca apenas redu&ccedil;&otilde;es marginais no rendimento nas TV, TB e  TP e de 15% na TF (<a href="#graf06">Gr&aacute;fico 6</a>).</font></p>     <p><a name="graf06"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08graf06.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No cen&aacute;rio produtivo tradicional, a recupera&ccedil;&atilde;o dos custos com a &aacute;gua para a  tarifa inicial &eacute; de 139<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha com as TF, TV e TB e de 70<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha com a TP. Um aumento  do custo m&eacute;dio da tarifa de 0,017<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup> para 0,022<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup> permite subir esses valores  &aacute;gua para 182<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha nas tr&ecirc;s primeiras simula&ccedil;&otilde;es e para 91<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha na TP. Nos casos  da TV e da TP, para n&iacute;veis superiores de custo m&eacute;dio da tarifa, a recupera&ccedil;&atilde;o dos  custos com a &aacute;gua desce (<a href="#graf07">Gr&aacute;fico 7</a>).</font></p>     <p><a name="graf07"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08graf07.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No cen&aacute;rio produtivo alternativo, como a procura da &aacute;gua &eacute; mais inel&aacute;stica, a  recupera&ccedil;&atilde;o dos custos melhora significativamente nos casos da TV, da TB e da  TP, aumentando dos 139<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha iniciais at&eacute; cerca de 350<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha, quando o custo m&eacute;dio  da tarifa atinge 0,049<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>. A partir deste n&iacute;vel de custo m&eacute;dio, a recupera&ccedil;&atilde;o dos  custos com &aacute;gua diminui significativamente com a TV e com a TP (<a href="#graf08">Gr&aacute;fico 8</a>).</font></p>     <p><a name="graf08"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08graf08.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No&eacute;me et al. (2004) estimaram para o per&iacute;metro de rega de Odivelas um custo  m&eacute;dio de 479<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha de &aacute;rea beneficiada, dos quais 322<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha dizem respeito aos  custos anualizados do investimento p&uacute;blico e, os restantes 157<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha, aos custos de  explora&ccedil;&atilde;o e conserva&ccedil;&atilde;o. Estes montantes s&oacute; s&atilde;o recuper&aacute;veis na totalidade com  a adop&ccedil;&atilde;o da TF e para um custo m&eacute;dio da tarifa de 0,063<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>. Com as restantes  tarifas simuladas recuperaram-se, no cen&aacute;rio produtivo tradicional, os custos de  explora&ccedil;&atilde;o e de conserva&ccedil;&atilde;o, com um custo m&eacute;dio da tarifa de 0,022<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup> e, no  cen&aacute;rio produtivo alternativo, os custos de explora&ccedil;&atilde;o e conserva&ccedil;&atilde;o e cerca de  60% dos custos do investimento nas infra-estruturas, quando o custo m&eacute;dio da  tarifa &eacute; 0,049<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup> (350<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A TF &eacute; a que permite obter os melhores n&iacute;veis de recupera&ccedil;&atilde;o dos custos com  &aacute;gua, aumentando progressivamente com o incremento do n&iacute;vel da tarifa. A  seguir surge a TB, sendo a TV e a TP as que menos contribuem para o equil&iacute;brio  or&ccedil;amental na oferta.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> O efeito das tarifas de &aacute;gua simuladas em termos do investimento agr&iacute;cola foi  analisado por meio do Valor Actualizado L&iacute;quido (VAL).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No cen&aacute;rio produtivo tradicional, o VAL obtido com as TV, TB e TP &eacute; superior  a 1000<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha, sendo os valores do investimento agr&iacute;cola de 1416 a 1760<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha. No  caso da TF esses valores s&atilde;o, respectivamente, 661<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha e 4057<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha. Com a  adop&ccedil;&atilde;o do perfil produtivo alternativo, os valores desses indicadores  aumentam substancialmente - o VAL quase que triplica no caso da TF e sobe 50%  nos casos das TV, TB e TP. No que diz respeito ao investimento agr&iacute;cola, os  acr&eacute;scimos s&atilde;o, respectivamente, de 11%, 79%, 72% e 47% (<a href="#tab01">Tabela 1</a>).</font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n3/a08tab01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Apesar, da TP e da TV serem as que proporcionam os melhores n&iacute;veis de consumo do produtor, o investimento agr&iacute;cola &eacute; mais elevado com a TF e com a TB.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Conclus&otilde;es</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este artigo avalia, para uma empresa agr&iacute;cola representativa do per&iacute;metro de  rega de Odivelas no Sul de Portugal, os efeitos econ&oacute;micos de diferentes tarifas  de &aacute;gua, tendo em conta o cen&aacute;rio produtivo tradicional e em alternativa a  introdu&ccedil;&atilde;o de culturas de valor acrescentado. A metodologia utilizada baseia-se  num modelo de programa&ccedil;&atilde;o matem&aacute;tica multiper&iacute;odo, que determina a  combina&ccedil;&atilde;o &oacute;ptima das actividades de produ&ccedil;&atilde;o e de investimento agr&iacute;cola.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Do ponto de vista do uso eficiente da &aacute;gua na agricultura, os melhores  resultados obt&ecirc;m-se com a tarifa progressiva, seguindo-se as tarifas volum&eacute;trica e  a bin&oacute;mica. A tarifa fixa, por n&atilde;o estar directamente relacionada ao consumo de  &aacute;gua, &eacute; a que permite o melhor aproveitamento das &aacute;reas beneficiadas com  regadio. Para as restantes tarifas analisadas, o aproveitamento da &aacute;rea irrigada  diminui com a redu&ccedil;&atilde;o do consumo de &aacute;gua. A subida das tarifas de &aacute;gua resulta  sempre numa diminui&ccedil;&atilde;o dos rendimentos agr&iacute;colas, registando-se as perdas  mais elevadas nos segmentos mais inel&aacute;sticos das curvas da procura da &aacute;gua.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> O equil&iacute;brio or&ccedil;amental da oferta de &aacute;gua depende da capacidade de  recuperar os seus custos, o que se verifica especialmente nos segmentos r&iacute;gidos  das curvas da procura da &aacute;gua. Deste ponto de vista, a tarifa fixa &eacute; a prefer&iacute;vel,  dada que a recupera&ccedil;&atilde;o dos custos &eacute; independente da diminui&ccedil;&atilde;o do consumo  de &aacute;gua. Os restantes tipos de tarifas simuladas permitem recuperar os custos de  explora&ccedil;&atilde;o e conserva&ccedil;&atilde;o, se o custo m&eacute;dio da tarifa aumentar at&eacute; 0,022<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>; com  a introdu&ccedil;&atilde;o de culturas de valor acrescentado, esse valor aumenta para 0,049<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>, o que permite cobrir os custos de explora&ccedil;&atilde;o e de conserva&ccedil;&atilde;o e cerca de  60% dos custos do investimento nas infra-estruturas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em termos do investimento agr&iacute;cola, a tarifa progressiva e a tarifa  volum&eacute;trica s&atilde;o as que proporcionam os retornos mais elevados, enquanto que a  tarifa fixa e a tarifa bin&oacute;mica privilegiam o investimento e, por conseguinte, a  forma&ccedil;&atilde;o bruta de capital.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este estudo conclui que a tarifa bin&oacute;mica &eacute; a que melhor contribui,  simultaneamente, para o uso eficiente da &aacute;gua na agricultura e para o equil&iacute;brio  or&ccedil;amental da oferta de &aacute;gua, devendo, por isso, privilegiar-se a sua adop&ccedil;&atilde;o no  per&iacute;metro de rega de Odivelas. O valor da sua componente fixa dever&aacute; situar-se  entre 54,9 e 71,4<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/ha e o da sua componente vari&aacute;vel, entre 0,031 e 0,040<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>, o  que corresponde a um custo m&eacute;dio entre 0,037 e 0,049<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>. Estes valores s&atilde;o  relativamente inferiores aos propostos para o pre&ccedil;o da &aacute;gua no novo regadio de  Alqueva (0,063 a 0,09<img src="/img/revistas/resr/v47n3/a08letrae.gif" align="absmiddle">/m<sup>3</sup>), que se abastece sob press&atilde;o a partir do maior lago  artificial da Europa.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Apesar da especificidade da aplica&ccedil;&atilde;o deste estudo ao per&iacute;metro de rega de  Odivelas no Sul de Portugal, os principais resultados e conclus&otilde;es permanecem  v&aacute;lidos noutros contextos e corroboram as hip&oacute;teses de outros autores. Num  estudo aplicado ao projecto de irriga&ccedil;&atilde;o Curu-Paraipaba no Nordeste do Brasil,  Pinheiro e Shirota (2000) tamb&eacute;m conclu&iacute;ram que, se fosse praticado o pre&ccedil;o  eficiente da &aacute;gua de irriga&ccedil;&atilde;o, esta seria afecta principalmente as culturas de  valor, o que permitiria aumentar substancialmente o valor bruto da produ&ccedil;&atilde;o e as  receitas do governo e, por conseguinte, cobrir, com folga, todos os custos de  opera&ccedil;&atilde;o e manuten&ccedil;&atilde;o.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. Refer&ecirc;ncias Bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> AVILLEZ, F.; SILVA, F.G.; MARTINS, V. Pre&ccedil;o da &aacute;gua e rentabilidade da  agricultura de regadio em Portugal: metodologia para c&aacute;lculo do impacto da  Reforma da PAC e da aplica&ccedil;&atilde;o da Directiva Quadro da &Aacute;gua. <b>In: IV Congresso  Nacional de Economistas Agr&iacute;colas. Faro, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003200900030000800001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> ASAD, M.; AZEVEDO, L.; KEMPER, K.; SIMPSON, L. <b>Management of Water  Resources: Bulk Water Pricing in Brasil.</b> World Bank Technical Paper, nº 432, p. 51.  1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200900030000800002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> BARDE, J.P. <b>Quel instrument choisir face &agrave; un probl&egrave;me d'environnement ?.</b> Actes du Colloque INSEE M&eacute;thodes, Paris, p. 215-233. 15 et 16 de f&eacute;vrier 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200900030000800003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> BARR, N. <b>Economic theory and the welfare state: a survey and interpretation.</b> Jornal of Economic Literature, 30 (2), p. 671-764. 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003200900030000800004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BLANCO, M. Analyse des impactes socio-&eacute;conomiques et des effects sur  l'environnement des politiques agricoles: mod&eacute;lisation de l'utilisation des  ressources en eau das la r&eacute;gion espagnole de Castille-Le&oacute;n, Montpellier : <b>CIHEAM-IAMM, Collection de Th&egrave;ses et Masters IAMM, n.º 32. 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200900030000800005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> BOWEN, R.L.; YOUNG, R.A. <b>Appraising alternatives for allocation and cost  recovery for irrigation water in Egypt.</b> Agricultural Economics, 1, p. 35-52. 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200900030000800006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> CUMMINGS, G.; NERCISSIANTZ, V. <b>The use of water pricing as a means for  enhancing water use efficiency in irrigation: Case studies in Mexico and in the  United States.</b> Natural Resources, 72, p. 731-755. 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003200900030000800007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> DECRETO-LEI Nº 269/82. <b>D&aacute;rio da Rep&uacute;blica Portuguesa</b> 157/82, S&eacute;rie I, 10 de  Junho de 1982.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003200900030000800008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>DIRECTIVE 2000/60/EC of the European Parliament and of the Council of 23  October 2000 Establishing a Framework for Community Action in the Field of  Water Policy.</b> Official Journal of European Comunities 22.12.2000, L327 p. 1-72.  2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003200900030000800009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> FRAGOSO, R.M.S.<b> &Eacute;valuation des impacts socio-&eacute;conomiques du  d&eacute;veloppement de l'irrigation: le cas de l'agriculture dans la r&eacute;gion de  l'Alentejo</b>, Montpellier: CIHEAM-IAMM, Collection de Th&egrave;ses et Masters  IAMM, n.º 40. 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003200900030000800010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> FRAGOSO, R.M.S. <b>Avalia&ccedil;&atilde;o dos Impactos S&oacute;cio-Econ&oacute;micos de Plano de Rega  de Alqueva no Sector Agr&iacute;cola do Alentejo:</b> o caso do bloco de rega da  infra-estrutura 12. Disserta&ccedil;&atilde;o de Doutoramento - Universidade de &Eacute;vora, &Eacute;vora,  2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003200900030000800011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> FRAGOSO, R. <b>Perspectivas Futuras para a Explora&ccedil;&atilde;o do Aproveitamento  Hidro-Agr&iacute;cola da Vigia Face &agrave; Pol&iacute;tica de Pre&ccedil;o da &Aacute;gua.</b> In: IV Congresso  Nacional de Economistas Agr&iacute;colas. Faro, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003200900030000800012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> GLEICK, P. <b>The Changing Water Paradigm: A Look at Twenty-first Century  Water Resources Development.</b> Water International, vol. 25, nº1, p. 127-138.  2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003200900030000800013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> GODIN FILHO, J. <b>Determina&ccedil;&atilde;o da tarifa d'&aacute;gua do projecto de irriga&ccedil;&atilde;o  Curu-Paraipaba.</b> Disserta&ccedil;&atilde;o de Mestrado - Centro de Ci&ecirc;ncias Agr&aacute;rias -  Universidade Federal do Cear&aacute;, p. 86, Fortaleza, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003200900030000800014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> GODINHO, L. <b>The Impact of 1992 CAP Reform on Soil Erosion in the Alentejo  Region of Portugal.</b> Ph.D. Dissertation - Wye College, University of London,  London, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003200900030000800015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> GONZ&Aacute;LEZ-ROMERO, A.; RUBIO, S. <b>El problema de la Planificaci&oacute;n  Hidrol&oacute;gica: Una aplicaci&oacute;n al caso espa&ntilde;ol.</b> Revista de Economia Aplicada, 1,  p.33-66. 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003200900030000800016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> HENRIQUES, P.D.S. <b>Technical Efficiency and Changes in Alentejan Farming  Systems.</b> PhD. Dissertation - The University of Reading, Reading, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003200900030000800017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> HENRIQUES, P.; BRANCO, M.; FRAGOSO, R.; CARVALHO, M.L. <b>Direito ao  Acesso &agrave; &Aacute;gua: princ&iacute;pios econ&oacute;micos para seu usufruto na agricultura.</b> &Eacute;vora:  em Banco, M, Carvalho, L.S. e Rego, C. et al. (eds.), Economia do Compromisso -  Ensaios em Mem&oacute;ria de Jos&eacute; Sena, Universidade de &Eacute;vora, 29-54, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003200900030000800018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> LANNA, <b>A. Estudos para cobran&ccedil;a pelo uso da &aacute;gua bruta no Estado do Cear&aacute;:  simula&ccedil;&atilde;o tarif&aacute;ria para a bacia do rio Curu.</b> Relat&oacute;rio 2 - COGERH, Fortaleza,  1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003200900030000800019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> LANNA, A. <b>Estudos para cobran&ccedil;a pelo uso da &aacute;gua bruta no Estado do Cear&aacute;:  simula&ccedil;&atilde;o tarif&aacute;ria para a bacia do rio Curu.</b> Relat&oacute;rio 2A - COGERH, Fortaleza,  1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003200900030000800020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> LEI nº58/2005. <b>Di&aacute;rio da Rep&uacute;blica Portuguesa 249/2005</b>, S&eacute;rie IA, 29 de  Dezembro de 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003200900030000800021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> MONNIER, L.<b> La tarification de l'&eacute;lectricit&eacute; en France.</b> Economica, Paris, 1983.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-2003200900030000800022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> MONTGINUOL, M. <b>Une approche economique de la gestion de l'eau d'irrigation:</b> Des intruments, de l'information et des acteurs. Tese de Doutoramento - Facult&eacute; d&ecirc;s  Sciences Economiques - Universit&eacute; Montpellier I, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S0103-2003200900030000800023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> NO&Eacute;ME, C.; FRAGOSO, R.; COELHO, L. <b>Avalia&ccedil;&atilde;o econ&oacute;mica da utiliza&ccedil;&atilde;o da  &aacute;gua em Portugal - Determina&ccedil;&atilde;o do pre&ccedil;o da &aacute;gua para fins agr&iacute;colas:</b> Aplica&ccedil;&atilde;o nos Aproveitamentos Hidro-Agr&iacute;colas de Odivelas, da Vigia e do  Sotavento Algarvio. estudo realizado para o Minist&eacute;rio da Agricultura e do  Desenvolvimento Rural, IDRHa, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-2003200900030000800024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> NO&Eacute;ME, C.; FRAGOSO, R.<b> Evaluation of Alternative Policies of Irrigation  Water Price. Application to Large Farms in Alentejo Region.</b> Agricultural  Engineering International - the CIGR Ejournal, Manunscrip LW 04006, vol VI,  December, 2004</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003200900030000800025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> OCDE <b>Tarification d&ecirc;s services relatifs &agrave; l'eau</b>, Paris, 1987.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003200900030000800026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> PEARCE, D.W. <b>The dictionary of modern economics</b>, EL-BS, Macmillan, 3ª  Edi&ccedil;&atilde;o, Reino Unido. 1986.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003200900030000800027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> PINHEIRO, J.; SHIROTA, R. <b>Determina&ccedil;&atilde;o do Pre&ccedil;o Eficiente da &Aacute;gua para  Irriga&ccedil;&atilde;o no Projecto Curu-Paraipaba.</b> Revista Econ&ocirc;mica do Nordeste, v. 31,  nº1, p. 36-47. 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003200900030000800028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> ROSEGRANT, M.; SCHELEYER, R.; YADAV, S.<b> Water policy for efficiency  agricultural diversification: maket based approaches.</b> Food Policy, 20, p.  203-223. 1995</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003200900030000800029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> SUMPSI, J.M.; GARRIDO, A.; BLANCO, M.; VARELA ORTEGA, C.; IGLESIAS, E. <b>Econom&iacute;a et pol&iacute;tica de gesti&oacute;n del agua en la agricultura</b>, Madrid: (Eds.  Mundi-Prensa), Secretar&iacute;a General T&eacute;cnica de Desarrollo Rural y Conservaci&oacute;n  de Naturaleza, MAPA. 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0103-2003200900030000800030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> WILCHENS, D. <b>Motivating reduction in drain water with block-rate prices for  irrigation water.</b> Water Res. Bull, 27, p. 585-592. 1991.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0103-2003200900030000800031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> WINPENNY, J. <b>Managing water as an economic resource.</b> London: Routldge,  ODI (Overseas Development Institut), United Kingdom, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003200900030000800032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> VARELA-ORTEGA, C.; SUMPSI, J.; GARRIDO, A.; BLANCO, M.; IGLEGIAS, E. <b>Water pricing policies, public decision making and farmers' response:  implication for water policy.</b> Agricultural Economics, 19, p. 193-202. 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003200900030000800033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><a name="nt01a"></a><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#nt01b">1</a> Trata-se de um artigo cujo autores s&atilde;o de Portugal. Dessa forma, o artigo est&aacute; escrito em portugu&ecirc;s corrente utilizado em Portugal, em que n&atilde;o h&aacute; correspond&ecirc;ncia de termos com o portugu&ecirc;s utilizado no Brasil, mesmo para textos cient&iacute;ficos em economia.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AVILLEZ]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[F.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARTINS]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Preço da água e rentabilidade da agricultura de regadio em Portugal: metodologia para cálculo do impacto da Reforma da PAC e da aplicação da Directiva Quadro da Água]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ IV Congresso Nacional de Economistas Agrícolas]]></conf-name>
+<conf-date>2004</conf-date>
+<conf-loc>Faro </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ASAD]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AZEVEDO]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KEMPER]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SIMPSON]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Management of Water Resources: Bulk Water Pricing in Brasil]]></source>
+<year>1999</year>
+<page-range>51</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARDE]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Quel instrument choisir face à un problème d'environnement ?]]></source>
+<year>15 e</year>
+<month>t </month>
+<day>16</day>
+<page-range>. 215-233</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARR]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Economic theory and the welfare state: a survey and interpretation]]></article-title>
+<source><![CDATA[Jornal of Economic Literature]]></source>
+<year>1992</year>
+<volume>30</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>671-764</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLANCO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Analyse des impactes socio-économiques et des effects sur l'environnement des politiques agricoles: modélisation de l'utilisation des ressources en eau das la région espagnole de Castille-León]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Montpellier ]]></publisher-loc>
+<publisher-name><![CDATA[CIHEAM-IAMM]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOWEN]]></surname>
+<given-names><![CDATA[R.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[YOUNG]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Appraising alternatives for allocation and cost recovery for irrigation water in Egypt]]></article-title>
+<source><![CDATA[Agricultural Economics]]></source>
+<year>1996</year>
+<volume>1</volume>
+<page-range>35-52</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CUMMINGS]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NERCISSIANTZ]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The use of water pricing as a means for enhancing water use efficiency in irrigation: Case studies in Mexico and in the United States]]></article-title>
+<source><![CDATA[Natural Resources]]></source>
+<year>1992</year>
+<volume>72</volume>
+<page-range>731-755</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[DECRETO-LEI Nº 269/82]]></article-title>
+<source><![CDATA[Dário da República Portuguesa]]></source>
+<year>10 d</year>
+<month>e </month>
+<day>Ju</day>
+<volume>157</volume>
+<numero>82</numero>
+<issue>82</issue>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA[DIRECTIVE 2000/60/EC of the European Parliament and of the Council of 23 October 2000 Establishing a Framework for Community Action in the Field of Water Policy]]></article-title>
+<source><![CDATA[Official Journal of European Comunities]]></source>
+<year>2000</year>
+<page-range>1-72</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRAGOSO]]></surname>
+<given-names><![CDATA[R.M.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Évaluation des impacts socio-économiques du développement de l'irrigation: le cas de l'agriculture dans la région de l'Alentejo]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Montpellier ]]></publisher-loc>
+<publisher-name><![CDATA[CIHEAM-IAMM]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRAGOSO]]></surname>
+<given-names><![CDATA[R.M.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação dos Impactos Sócio-Económicos de Plano de Rega de Alqueva no Sector Agrícola do Alentejo: o caso do bloco de rega da infra-estrutura 12]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRAGOSO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Perspectivas Futuras para a Exploração do Aproveitamento Hidro-Agrícola da Vigia Face à Política de Preço da Água]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ IV Congresso Nacional de Economistas Agrícolas]]></conf-name>
+<conf-date>2004</conf-date>
+<conf-loc>Faro </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GLEICK]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Changing Water Paradigm: A Look at Twenty-first Century Water Resources Development]]></article-title>
+<source><![CDATA[Water International]]></source>
+<year>2000</year>
+<volume>25</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>127-138</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GODIN FILHO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Determinação da tarifa d'água do projecto de irrigação Curu-Paraipaba]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Fortaleza ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GODINHO]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Impact of 1992 CAP Reform on Soil Erosion in the Alentejo Region of Portugal]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONZÁLEZ-ROMERO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBIO]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[El problema de la Planificación Hidrológica: Una aplicación al caso español]]></article-title>
+<source><![CDATA[Revista de Economia Aplicada]]></source>
+<year>1993</year>
+<volume>1</volume>
+<page-range>33-66</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HENRIQUES]]></surname>
+<given-names><![CDATA[P.D.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Technical Efficiency and Changes in Alentejan Farming Systems]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HENRIQUES]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRANCO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRAGOSO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Direito ao Acesso à Água: princípios económicos para seu usufruto na agricultura]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Banco]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carvalho]]></surname>
+<given-names><![CDATA[L.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rego]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia do Compromisso - Ensaios em Memória de José Sena]]></source>
+<year>2006</year>
+<page-range>29-54</page-range><publisher-name><![CDATA[Universidade de Évora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LANNA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudos para cobrança pelo uso da água bruta no Estado do Ceará: simulação tarifária para a bacia do rio Curu]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Fortaleza ]]></publisher-loc>
+<publisher-name><![CDATA[COGERH]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LANNA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudos para cobrança pelo uso da água bruta no Estado do Ceará: simulação tarifária para a bacia do rio Curu]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Fortaleza ]]></publisher-loc>
+<publisher-name><![CDATA[COGERH]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[LEI nº58/2005]]></article-title>
+<source><![CDATA[Diário da República Portuguesa]]></source>
+<year>29 d</year>
+<month>e </month>
+<day>De</day>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MONNIER]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La tarification de l'électricité en France]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Economica]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MONTGINUOL]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Une approche economique de la gestion de l'eau d'irrigation: Des intruments, de l'information et des acteurs]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOÉME]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRAGOSO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação económica da utilização da água em Portugal - Determinação do preço da água para fins agrícolas: Aplicação nos Aproveitamentos Hidro-Agrícolas de Odivelas, da Vigia e do Sotavento Algarvio]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOÉME]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRAGOSO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evaluation of Alternative Policies of Irrigation Water Price: Application to Large Farms in Alentejo Region]]></article-title>
+<source><![CDATA[Agricultural Engineering International - the CIGR Ejournal]]></source>
+<year>Dece</year>
+<month>mb</month>
+<day>er</day>
+<volume>VI</volume>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<collab>OCDE</collab>
+<source><![CDATA[Tarification dês services relatifs à l'eau]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEARCE]]></surname>
+<given-names><![CDATA[D.W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The dictionary of modern economics]]></source>
+<year>1986</year>
+<edition>3ª</edition>
+<publisher-name><![CDATA[EL-BSMacmillan]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PINHEIRO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHIROTA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Determinação do Preço Eficiente da Água para Irrigação no Projecto Curu-Paraipaba]]></article-title>
+<source><![CDATA[Revista Econômica do Nordeste]]></source>
+<year>2000</year>
+<volume>31</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>36-47</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSEGRANT]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHELEYER]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[YADAV]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Water policy for efficiency agricultural diversification: maket based approaches]]></article-title>
+<source><![CDATA[Food Policy]]></source>
+<year>1995</year>
+<volume>20</volume>
+<page-range>203-223</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SUMPSI]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GARRIDO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLANCO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VARELA ORTEGA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IGLESIAS]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economía et política de gestión del agua en la agricultura]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Madrid ]]></publisher-loc>
+<publisher-name><![CDATA[. Mundi-Prensa]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WILCHENS]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Motivating reduction in drain water with block-rate prices for irrigation water]]></article-title>
+<source><![CDATA[Water Res. Bull]]></source>
+<year>1991</year>
+<volume>27</volume>
+<page-range>585-592</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WINPENNY]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Managing water as an economic resource]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Routldge, ODI (Overseas Development Institut)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VARELA-ORTEGA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SUMPSI]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GARRIDO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLANCO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IGLEGIAS]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Water pricing policies, public decision making and farmers' response: implication for water policy]]></article-title>
+<source><![CDATA[Agricultural Economics]]></source>
+<year>1998</year>
+<volume>19</volume>
+<page-range>193-202</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032017000300515</article-id>
+<article-id pub-id-type="doi">10.1590/1234-56781806-94790550306</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Measurement of Commodity Price Risk: an overview of Brazilian agricultural markets]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Capitani]]></surname>
+<given-names><![CDATA[Daniel Henrique Dario]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Mattos]]></surname>
+<given-names><![CDATA[Fabio]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Estadual de Campinas  ]]></institution>
+<addr-line><![CDATA[Limeira SP]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,University of Nebraska-Lincoln  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>USA</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2017</year>
+</pub-date>
+<volume>55</volume>
+<numero>3</numero>
+<fpage>515</fpage>
+<lpage>532</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032017000300515&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032017000300515&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032017000300515&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract: This study explores different procedures to estimate price risk in commodity markets. Focusing on Brazilian agricultural markets, the paper proposes to assess both dispersion and downside risk measures using five different approaches (volatility, coefficient of variation, lower partial moments, value at risk and conditional value at risk). Results suggest that some commodities have large price variability but small downside risk, while other commodities show small price variability and large downside risk. Thus, there is no single answer to the question of which commodity exhibits more price risk, but rather distinct answers depending on how risk is perceived by different individuals. These findings are relevant for agents in the agricultural industry as they affect marketing and risk management decisions and for policy makers involved in support programs to agriculture.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo: O presente estudo propõe explorar diferentes mecanismos para mensuração do risco de preços em mercados de commodities. Com foco nos mercados agrícolas brasileiros, o artigo avalia e compara medidas de dispersão e de riscos não desejáveis, a partir da aplicação metodológica de cinco diferentes mecanismos, como a volatilidade e coeficiente de variação, momentos parciais inferiores, valor em risco e valor em risco condicional. Em geral, os resultados sugerem que algumas commodities possuem grande volatilidade, porém, com pequenas probabilidades de perdas extremas, enquanto outras apresentam pequena dispersão em seus preços e retornos, mas com altas probabilidades de perdas extremas. Neste sentido, ressalta-se que não há apenas uma conclusão quando se avalia qual mercado fornece maiores riscos a seus agentes. Sendo assim, respostas distintas dependem de como o risco é percebido e tolerado por diferentes agentes. Tais constatações são relevantes nas tomadas de decisões de produção, estocagem e comercialização por parte de diferentes agentes atuando no agronegócio, assim como podem servir de subsídios às políticas que envolvam questões de suporte a determinados mercados agrícolas do País.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Commodity price]]></kwd>
+<kwd lng="en"><![CDATA[risk]]></kwd>
+<kwd lng="en"><![CDATA[volatility]]></kwd>
+<kwd lng="en"><![CDATA[downside risk.]]></kwd>
+<kwd lng="pt"><![CDATA[Preços]]></kwd>
+<kwd lng="pt"><![CDATA[risco]]></kwd>
+<kwd lng="pt"><![CDATA[volatilidade]]></kwd>
+<kwd lng="pt"><![CDATA[downside risk.]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAWA]]></surname>
+<given-names><![CDATA[V. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Safety-first, stochastic dominance, and optimal portfolio choice]]></article-title>
+<source><![CDATA[Journal of Financial and Quantitative Analysis]]></source>
+<year>1978</year>
+<volume>13</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>255-71</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAUCELLS]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEBER]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WELFENS]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Reference-point formation and updating]]></article-title>
+<source><![CDATA[Management Science]]></source>
+<year>2011</year>
+<volume>57</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>506-19</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<collab>BRAZILIAN AGRICULTURAL CONFEDERATION - CNA.</collab>
+<source><![CDATA[Sugar: cost of production]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[Brasilia, DF, Brazil ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<collab>BRAZILIAN BEEF EXPORTERS ASSOCIATION - ABIEC</collab>
+<source><![CDATA[Statistics]]></source>
+<year>2017</year>
+<publisher-loc><![CDATA[Sao Paulo, SP, Brazil ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="">
+<collab>BRAZILIAN INSTITUTE OF GEOGRAPHY AND STATISTICS - IBGE</collab>
+<source><![CDATA[Agricultural and livestock census]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[Rio de Janeiro, RJ, Brazil ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="">
+<collab>BRAZILIAN NATIONAL SUPPLY COMPANY - CONAB</collab>
+<source><![CDATA[Agricultural cost of production]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[Brasilia, DF, Brazil ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<collab>BRAZILIAN SUGARCANE INDUSTRY ASSOCIATION - UNICA</collab>
+<source><![CDATA[Sugarcane harvest reports]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[São Paulo, SP, Brazil ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[K. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Análise da volatilidade de preços de produtos agropecuários no Brasil]]></article-title>
+<source><![CDATA[Revista de Economia e Agronegócio]]></source>
+<year>2007</year>
+<volume>5</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>303-28</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<collab>CENTER FOR ADVANCED STUDIES ON APPLIED ECONOMICS - CEPEA/USP</collab>
+<source><![CDATA[Prices indexes]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[Piracicaba, SP, Brazil ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHEN]]></surname>
+<given-names><![CDATA[S. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHRESTHA]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Futures hedge ratios: a review]]></article-title>
+<source><![CDATA[The Quarterly Review of Economics and Finance]]></source>
+<year>2003</year>
+<volume>43</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>433-65</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[C. N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[70 anos de Política Agrícola no Brasil (1931-2001)]]></article-title>
+<source><![CDATA[Revista de Política Agrícola]]></source>
+<year>2001</year>
+<volume>10</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>03-58</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>COMTRADE</collab>
+<source><![CDATA[International trade statistics database: commodity trade statistics]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CONT]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Empirical properties of asset returns: stylized facts and statistical issues]]></article-title>
+<source><![CDATA[Quantitative Finance]]></source>
+<year>2001</year>
+<volume>1</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>223-36</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FISHBURN]]></surname>
+<given-names><![CDATA[P. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Mean-risk analysis with risk associated with below-target returns]]></article-title>
+<source><![CDATA[The American Economic Review]]></source>
+<year>1977</year>
+<volume>67</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>116-26</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREITAS]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SÁFADI]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Volatilidade dos retornos de commodities agropecuárias brasileiras: um teste utilizando o modelo APARCH]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2015</year>
+<volume>53</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>211-28</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARCIA]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA FILHO]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Brazilian agricultural policy: productivity, inclusion and sustainability]]></article-title>
+<source><![CDATA[Revista de Política Agrícola]]></source>
+<year>2014</year>
+<volume>23</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>91-104</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GROOTVELD]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HALLERBACH]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Variance vs downside risk: is there really that much difference?]]></article-title>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>1999</year>
+<volume>114</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>304-19</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HARRIS]]></surname>
+<given-names><![CDATA[R. D. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHEN]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Hedging and value at risk]]></article-title>
+<source><![CDATA[Journal of Futures Market]]></source>
+<year>2006</year>
+<volume>26</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>369-90</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="">
+<collab>INFORM ECONOMICS - FNP</collab>
+<source><![CDATA[Anuelpec online: cattle cost of production data]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[São Paulo, SP, Brazil ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JORION]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Value at risk - the new benchmark for managing financial risk]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[McGrall-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KAHNEMAN]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TVERSKY]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Prospect theory: An analysis of decision under risk]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1979</year>
+<volume>47</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>263</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIANG]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARK]]></surname>
+<given-names><![CDATA[H]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Risk measures for hedge funds: a cross-sectional approach]]></article-title>
+<source><![CDATA[European Financial Management]]></source>
+<year>2007</year>
+<volume>13</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>333</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIEN]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TSE]]></surname>
+<given-names><![CDATA[Y. K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Some recent developments in futures hedging]]></article-title>
+<source><![CDATA[Journal of Economic Surveys]]></source>
+<year>2002</year>
+<volume>16</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>357-96</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARKOWITZ]]></surname>
+<given-names><![CDATA[H. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Portfolio selection: efficient diversification of investments]]></source>
+<year>1959</year>
+<publisher-loc><![CDATA[New York, NY ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley &amp; Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOSCHINI]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HENNESSY]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Uncertainty, risk aversion, and risk management for agricultural producers]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[GARDNER]]></surname>
+<given-names><![CDATA[B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAUSSER]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Handbook of agricultural economics]]></source>
+<year>2001</year>
+<page-range>87-153</page-range><publisher-loc><![CDATA[North Holland ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[V. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Conditional volatility of the returns from Brazilian agricultural commodities]]></article-title>
+<source><![CDATA[Revista de Economia]]></source>
+<year>2010</year>
+<volume>36</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>73-94</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RACHEV]]></surname>
+<given-names><![CDATA[S. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENN]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FABOZZI]]></surname>
+<given-names><![CDATA[F. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Risk measures and portfolio selection]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[RACHEV]]></surname>
+<given-names><![CDATA[S. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENN]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FABOZZI]]></surname>
+<given-names><![CDATA[F. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fat-tailed and skwed asset returns distributions: implications for risk management, portfolio selection, and option pricing]]></source>
+<year>2005</year>
+<page-range>181-98</page-range><publisher-loc><![CDATA[New York, NY ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley &amp; Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROY]]></surname>
+<given-names><![CDATA[A. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Safety first and the holding of assets]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1952</year>
+<volume>20</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>431-50</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[UNSER]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Lower partial moments as measures of perceived risk: an experimental study]]></article-title>
+<source><![CDATA[Journal of Economics Psychology]]></source>
+<year>2000</year>
+<volume>21</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>253-80</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VELD]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VELD-MERKOULOVA]]></surname>
+<given-names><![CDATA[Y]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The risk perceptions of individual investors]]></article-title>
+<source><![CDATA[Journal of Economic Psychology]]></source>
+<year>2008</year>
+<volume>29</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>226-52</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032010000200007</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032010000200007</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[As consequências dos acordos de livre comércio sobre o setor de lácteos no Brasil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Alvim]]></surname>
+<given-names><![CDATA[Augusto Mussi]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Pontifícia Universidade Católica do Rio Grande do Sul Programa de Pós-Graduação em Economia Departamento de Ciências Econômicas]]></institution>
+<addr-line><![CDATA[Porto Alegre RS]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2010</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2010</year>
+</pub-date>
+<volume>48</volume>
+<numero>2</numero>
+<fpage>405</fpage>
+<lpage>428</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032010000200007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032010000200007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032010000200007&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este artigo analisa os principais efeitos dos acordos de livre comércio sobre o setor de lácteos no Brasil. Utiliza-se um modelo de equilíbrio parcial formulado como um Problema de Complementaridade Mista (MCP na sigla em inglês) para avaliar mudanças (ganhos e perdas potenciais) em termos de produção, consumo e comércio em cada cenário. Tal modelo considera multirregiões e multiprodutos, o que permite analisar os impactos de políticas de livre comércio para diferentes regiões e diversos produtos lácteos.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This paper discusses the main effects of free trade agreements on the dairy sector in Brazil. A partial equilibrium model formulated as a Mixed Complementary Problem (MCP) is used to provide some numerical examples of changes (potential gain and losses) in terms of production, trade and welfare in each scenario. This model also considers a multiregional and a multi-product dimension, which permits to analyze the impact of trade liberalization upon different regions and diverse processed dairy products.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Problema de Complementaridade Mista (MCP)]]></kwd>
+<kwd lng="pt"><![CDATA[modelos de equilíbrio parcial]]></kwd>
+<kwd lng="pt"><![CDATA[setor de lácteos]]></kwd>
+<kwd lng="pt"><![CDATA[análise multirregional e multiproduto]]></kwd>
+<kwd lng="en"><![CDATA[Mixed Complementary Problem (MCP)]]></kwd>
+<kwd lng="en"><![CDATA[partial equilibrium models]]></kwd>
+<kwd lng="en"><![CDATA[dairy sector]]></kwd>
+<kwd lng="en"><![CDATA[and multiregional and multi-product analysis]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><a name="top"></a><font face="verdana, arial, helvetica, sans-serif" size="4"><b>As    consequ&ecirc;ncias dos acordos de livre com&eacute;rcio sobre o setor de l&aacute;cteos    no Brasil</b> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Augusto Mussi    Alvim</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Doutor em Economia.    Professor do Departamento de Ci&ecirc;ncias Econ&ocirc;micas e do Programa de    P&oacute;s-Gradua&ccedil;&atilde;o em Economia (PPGE) da Pontif&iacute;cia Universidade    Cat&oacute;lica do Rio Grande do Sul (PUCRS), Porto Alegre (RS). E-mail: <a href="mailto:augusto.alvim@pucrs.br">augusto.alvim@pucrs.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Este artigo analisa    os principais efeitos dos acordos de livre com&eacute;rcio sobre o setor de    l&aacute;cteos no Brasil. Utiliza-se um modelo de equil&iacute;brio parcial    formulado como um Problema de Complementaridade Mista (MCP na sigla em ingl&ecirc;s)    para avaliar mudan&ccedil;as (ganhos e perdas potenciais) em termos de produ&ccedil;&atilde;o,    consumo e com&eacute;rcio em cada cen&aacute;rio. Tal modelo considera multirregi&otilde;es    e multiprodutos, o que permite analisar os impactos de pol&iacute;ticas de livre    com&eacute;rcio para diferentes regi&otilde;es e diversos produtos l&aacute;cteos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chave:    </b> Problema de Complementaridade Mista (MCP), modelos de equil&iacute;brio    parcial, setor de l&aacute;cteos, an&aacute;lise multirregional e multiproduto.</font></p> <hr size="1" noshade>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">This paper discusses    the main effects of free trade agreements on the dairy sector in Brazil. A partial    equilibrium model formulated as a Mixed Complementary Problem (MCP) is used    to provide some numerical examples of changes (potential gain and losses) in    terms of production, trade and welfare in each scenario. This model also considers    a multiregional and a multi-product dimension, which permits to analyze the    impact of trade liberalization upon different regions and diverse processed    dairy products.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key-words:</b>    Mixed Complementary Problem (MCP), partial equilibrium models, dairy sector,    and multiregional and multi-product analysis.    <br>   <b>Classifica&ccedil;&atilde;o JEL:</b> Q 17, C61.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Introdu&ccedil;&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O com&eacute;rcio    internacional de produtos agr&iacute;colas tem se tornado cada vez mais complexo    em fun&ccedil;&atilde;o das barreiras tarif&aacute;rias e n&atilde;o-tarif&aacute;rias    aplicadas e dos subs&iacute;dios concedidos pelos pa&iacute;ses desenvolvidos.    &Eacute; o caso do setor de l&aacute;cteos, onde h&aacute; expressivo n&uacute;mero    de tarifas <i>ad valorem</i> e quotas tarif&aacute;rias que podem variar conforme    o tipo e a especifica&ccedil;&atilde;o do produto, a regi&atilde;o de origem    e os acordos comerciais pr&eacute;-existentes.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As tarifas <i>ad    valorem</i> s&atilde;o as principais barreiras comerciais adotadas pelos pa&iacute;ses    em desenvolvimento, a exemplo dos do Mercosul. Por outro lado, os pa&iacute;ses    desenvolvidos, que mant&ecirc;m maior n&iacute;vel de prote&ccedil;&atilde;o    de mercado, utilizam quotas tarif&aacute;rias e concedem subs&iacute;dios &agrave;    produ&ccedil;&atilde;o e &agrave; exporta&ccedil;&atilde;o de produtos l&aacute;cteos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O protecionismo    no mercado internacional de l&aacute;cteos resultante dessas pr&aacute;ticas,    associado &agrave; perecibilidade do produto, faz com que apenas 7% da produ&ccedil;&atilde;o    de leite (equivalente leite) seja exportada. Por sua vez, o reduzido com&eacute;rcio    de derivados de leite est&aacute; atrelado &agrave;s fortes oscila&ccedil;&otilde;es    nos pre&ccedil;os internacionais ao longo dos anos, o que reflete principalmente    nos pa&iacute;ses com menores n&iacute;veis de prote&ccedil;&atilde;o (em desenvolvimento).</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ao mesmo, tempo,    segundo Nicholson e Bishop (2004), a ado&ccedil;&atilde;o de novas tecnologias    no setor de l&aacute;cteos tem permitido uma s&eacute;rie de avan&ccedil;os,    entre eles a separa&ccedil;&atilde;o dos diversos componentes do leite (gordura,    prote&iacute;na, lactose e outros s&oacute;lidos), tornando o com&eacute;rcio    internacional desses produtos economicamente vi&aacute;vel. A maior competitividade    resultante dessa mudan&ccedil;a tecnol&oacute;gica imp&otilde;e uma press&atilde;o    pol&iacute;tica sobre as decis&otilde;es comerciais, englobando pr&aacute;ticas    protecionistas e a defini&ccedil;&atilde;o dos pre&ccedil;os m&iacute;nimos    ao produtor nos pa&iacute;ses desenvolvidos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nesse sentido,    optou-se pelo uso de modelos de equil&iacute;brio parcial, que possibilitam    um maior detalhamento e avalia&ccedil;&atilde;o das pr&aacute;ticas comerciais    no setor de l&aacute;cteos. Entre os estudos j&aacute; desenvolvidos que utilizaram    tal modelagem citam-se os de Nagurney, Nicholson e Bishop (1996), Alvim (2003),    Alvim e Waquil (2004, 2005) e Bender Filho e Alvim (2008). No presente trabalho,    por&eacute;m, a metodologia permite incluir os componentes dos produtos l&aacute;cteos    nos diversos n&iacute;veis da cadeia, tornando poss&iacute;vel definir diferentes    tarifas, quotas tarif&aacute;rias e barreiras n&atilde;o-tarif&aacute;rias para    cada produto, al&eacute;m de estimar pre&ccedil;os-sombra para os componentes    do leite.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Eacute; nesse    contexto que s&atilde;o avaliados os poss&iacute;veis efeitos de acordos de    livre com&eacute;rcio regional e multilateral, envolvendo os pa&iacute;ses do    Mercosul, sobre o setor de l&aacute;cteos no Brasil. Para analisar esses impactos,    utiliza-se um modelo de equil&iacute;brio parcial formulado como um Problema    de Complementaridade Mista (PCM) que considera multirregi&otilde;es (dimens&atilde;o    espacial) e multiprodutos (dimens&atilde;o vertical).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">S&atilde;o simulados    tr&ecirc;s cen&aacute;rios de livre com&eacute;rcio: (a) um acordo de livre    com&eacute;rcio multilateral com a remo&ccedil;&atilde;o das barreiras tarif&aacute;rias    e dos subs&iacute;dios; (b) um acordo entre Mercosul e Uni&atilde;o Europeia    (UE) com a remo&ccedil;&atilde;o das barreiras tarif&aacute;rias; e (c) um acordo    de livre com&eacute;rcio entre os pa&iacute;ses do Mercosul, Estados Unidos    e Canad&aacute;, com a remo&ccedil;&atilde;o das barreiras tarif&aacute;rias.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O presente trabalho    est&aacute; organizado em quatro se&ccedil;&otilde;es, incluindo esta introdu&ccedil;&atilde;o.    A segunda se&ccedil;&atilde;o detalha a metodologia de estudo, apresentando    o modelo de equil&iacute;brio parcial formulado como um PCM e os cen&aacute;rios    alternativos. Na sequ&ecirc;ncia v&ecirc;m os resultados, com an&aacute;lises    do cen&aacute;rio-base e dos cen&aacute;rios alternativos que consideram a simula&ccedil;&atilde;o    de novos acordos de livre com&eacute;rcio. E, por fim, s&atilde;o apresentadas    as principais conclus&otilde;es deste trabalho.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. O Problema    de Complementaridade Mista (PCM)</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O modelo de programa&ccedil;&atilde;o    descrito nesta se&ccedil;&atilde;o &eacute; formulado como um Problema de Complementaridade    Mista (PCM), conforme proposto por Thore (1992), Waquil (1995, 2000), Rutheford    (1995), Bishop, Nicholson e Pratt (2001), Alvim (2003), Nicholson e Bishop (2004)    e Alvim e Waquil (2004, 2005).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O PCM define um    equil&iacute;brio espacial e vertical, relacionando a produ&ccedil;&atilde;o    de leite e derivados nas diversas regi&otilde;es (rela&ccedil;&atilde;o espacial)    para as diferentes ind&uacute;strias processadoras de leite (rela&ccedil;&atilde;o    vertical). Para cada produto analisado, se assume que os pre&ccedil;os, quantidades    ofertadas e demandadas e os fluxos comerciais sejam vari&aacute;veis end&oacute;genas.    Outros fatores, como tecnologia, custos de processamento, composi&ccedil;&atilde;o    dos produtos, prefer&ecirc;ncias e crescimento populacional s&atilde;o vari&aacute;veis    ex&oacute;genas ao modelo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O modelo leva em    considera&ccedil;&atilde;o as fun&ccedil;&otilde;es de oferta de leite flu&iacute;do    (n&iacute;vel de produtor) e demanda por leite em p&oacute; (integral e desnatado),    queijo, manteiga e outros derivados do leite (n&iacute;vel de consumidor) em    cada regi&atilde;o. Juntamente com os custos de transporte entre regi&otilde;es    e a presen&ccedil;a de barreiras ao com&eacute;rcio, &eacute; poss&iacute;vel    estimar as quantidades produzidas e consumidas, os fluxos comerciais e os pre&ccedil;os    em equil&iacute;brio. Com esses dados, pode-se tamb&eacute;m calcular os n&iacute;veis    de bem-estar - medidos pelo excedente do produtor (EP) e o excedente do consumidor    (EC) -, bem como as varia&ccedil;&otilde;es ocorridas a partir de diferentes    cen&aacute;rios simulados, permitindo a avalia&ccedil;&atilde;o dos ganhos ou    perdas em cada situa&ccedil;&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O PCM consiste    em um sistema de equa&ccedil;&otilde;es simult&acirc;neas (lineares ou n&atilde;o),    apresentado na forma de desigualdades, as quais s&atilde;o derivadas a partir    das fun&ccedil;&otilde;es de oferta e demanda dos produtos considerados em cada    uma das regi&otilde;es analisadas. O modelo &eacute; equivalente &agrave;s condi&ccedil;&otilde;es    de primeira ordem (Kuhn-Tucker) do problema de maximiza&ccedil;&atilde;o da    fun&ccedil;&atilde;o <i>Net Social Payoff</i><a name="top1"></a><a href="#back1"><sup>1</sup></a>    (NSP); condi&ccedil;&otilde;es estas que s&atilde;o necess&aacute;rias e suficientes    para atingir um ponto m&aacute;ximo do valor da fun&ccedil;&atilde;o NSP, o    que, por sua vez, implica na obten&ccedil;&atilde;o do equil&iacute;brio em    todos os mercados e em todas as regi&otilde;es. Entretanto, o PCM tem a vantagem    de permitir a incorpora&ccedil;&atilde;o de tarifas, quotas tarif&aacute;rias    e subs&iacute;dios com mais facilidade ao modelo. Engloba, ainda, algumas vari&aacute;veis    relevantes na avalia&ccedil;&atilde;o do setor de processamento de leite, entre    elas os diferentes custos de processamento entre as regi&otilde;es, as diferen&ccedil;as    em termos de composi&ccedil;&atilde;o do produto <i>in natura</i> e derivados    (percentual de gordura, prote&iacute;na, lactose e s&oacute;lidos) e os diversos    n&iacute;veis de prote&ccedil;&atilde;o de mercados em cada patamar de produ&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A diferen&ccedil;a    na propor&ccedil;&atilde;o de componentes do leite entre as regi&otilde;es faz    com que exista uma distin&ccedil;&atilde;o tamb&eacute;m entre o pre&ccedil;o    recebido pelo produto <i>in natura,</i> tornando expl&iacute;cito, no modelo,    que as ind&uacute;strias processadoras veem o leite <i>in natura</i> como uma    combina&ccedil;&atilde;o de componentes (gordura, prote&iacute;na, lactose e    outros s&oacute;lidos). Esses componentes s&atilde;o transformados em leite    em p&oacute; (integral e desnatado), queijo, manteiga e outros l&aacute;cteos.    O grupo "outros l&aacute;cteos" &eacute; expresso em equivalente leite, agregando    todos os derivados do leite n&atilde;o inclu&iacute;dos no estudo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O <a href="#q1">Quadro    1</a> apresenta a nota&ccedil;&atilde;o utilizada e a defini&ccedil;&atilde;o    das vari&aacute;veis para a implanta&ccedil;&atilde;o do modelo. O conjunto    das equa&ccedil;&otilde;es corresponde ao PCM e representa as condi&ccedil;&otilde;es    que permitem obter os pre&ccedil;os, as quantidades produzidas e consumidas    e os fluxos comerciais entre as regi&otilde;es, levando em conta as tarifas,    quotas tarif&aacute;rias e os subs&iacute;dios fixados nos mercados.</font></p>     <p><a name="q1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07q01.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As equa&ccedil;&otilde;es    de (1) a (5) s&atilde;o fundamentais para delimitar os resultados do modelo.    Junto com uma fun&ccedil;&atilde;o objetivo apropriada, elas equivalem &agrave;    formula&ccedil;&atilde;o primal cl&aacute;ssica de Samuelson-Takayama-Judge    do modelo de equil&iacute;brio espacial e vertical. J&aacute; as equa&ccedil;&otilde;es    de (6) a (11) correspondem &agrave; formula&ccedil;&atilde;o dual cl&aacute;ssica,    aqui apresentada como um PCM.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na primeira equa&ccedil;&atilde;o,    observa-se que </font><font size="2">&#966;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><sub>i</sub></i>    &eacute; uma vari&aacute;vel complementar &agrave; express&atilde;o que restringe    a soma das exporta&ccedil;&otilde;es de leite <i>in natura</i> da i-&eacute;sima    regi&atilde;o ao total produzido na regi&atilde;o i, representando o pre&ccedil;o-sombra    na regi&atilde;o produtora i. Da mesma forma, a segunda equa&ccedil;&atilde;o    apresenta uma vari&aacute;vel </font><font size="2">&#955;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>i,k,m</sub>,    complementar &agrave; express&atilde;o que restringe a quantidade de m componentes    do leite <i>in natura</i> recebido pela k-&eacute;sima ind&uacute;stria, na    regi&atilde;o j; representa o pre&ccedil;o-sombra de m componentes do leite    adquirido pela ind&uacute;stria.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A equa&ccedil;&atilde;o    (3) assegura que a quantidade comercializada de componentes do leite com o consumidor    final n&atilde;o exceda a quantidade processada na ind&uacute;stria. A vari&aacute;vel    </font><font size="2">&#931;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>i,k,m</sub>    &eacute; complementar a essa express&atilde;o e representa o pre&ccedil;o-sombra    de m componentes de derivados do leite processados na ind&uacute;stria. J&aacute;    a equa&ccedil;&atilde;o (4) permite que o modelo calcule a quantidade de m componentes    nos derivados de leite processados pela ind&uacute;stria, sendo poss&iacute;vel    identificar o custo de processamento por unidade do produto final, equivalente    ao pre&ccedil;o-sombra </font><font size="2">&#960;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>i,k</sub>.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na equa&ccedil;&atilde;o    (5), </font><font size="2">&#948;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>j,k</sub>    &eacute; uma vari&aacute;vel complementar &agrave; express&atilde;o que restringe    a soma das importa&ccedil;&otilde;es de derivados de leite da j-&eacute;sima    regi&atilde;o ao total consumido na regi&atilde;o j. Em outras palavras, a quantidade    demandada de derivados de leite n&atilde;o pode ser maior que o volume comercializado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Formula&ccedil;&atilde;o    do Problema de Complementaridade Mista:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src="/img/revistas/resr/v48n2/07x01a11.jpg" align="absmiddle"> </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para a equa&ccedil;&atilde;o    (6), quando a quantidade ofertada for maior ou igual a zero, o pre&ccedil;o    que os produtores de leite est&atilde;o interessados em vender o leite <i>in    natura</i> dever&aacute; ser maior ou igual ao pre&ccedil;o de mercado. J&aacute;    a equa&ccedil;&atilde;o (7) define as condi&ccedil;&otilde;es para que exista    comercializa&ccedil;&atilde;o de leite entre produtores e ind&uacute;strias.    Para que ocorra com&eacute;rcio X<sub>i,j,k</sub>, o pre&ccedil;o de mercado    do produto <i>in natura</i> (mais o custo de transporte e tarifas) dever&aacute;    ser igual ao pre&ccedil;o do leite na ind&uacute;stria k. O pre&ccedil;o na    ind&uacute;stria &eacute; calculado com base na soma do valor dos componentes    (</font><font size="2">&#955;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>j,k,m</sub>),    multiplicado pela composi&ccedil;&atilde;o do leite <i>in natura</i> recebido    pela ind&uacute;stria.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A equa&ccedil;&atilde;o    (8) representa o comportamento maximizador de lucros por parte das ind&uacute;strias.    Ou seja, quando a quantidade processada <img src="/img/revistas/resr/v48n2/07s01.jpg" align="absmiddle">    for maior que zero, os pre&ccedil;os pagos pelos componentes presentes no leite    <i>in natura</i> devem ser iguais aos pre&ccedil;os de m componentes de derivados    do leite processados na ind&uacute;stria k.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A equa&ccedil;&atilde;o    (9) determina que, quando a produ&ccedil;&atilde;o de k ind&uacute;strias <img src="/img/revistas/resr/v48n2/07s02.jpg" align="absmiddle">    for maior que zero, o custo de processamento de cada unidade de produto deve    ser igual ao pre&ccedil;o-sombra associado a essa atividade de processamento.    Caso contr&aacute;rio, quando o custo de processamento for maior que o pre&ccedil;o-sombra,    a quantidade produzida pela ind&uacute;stria ser&aacute; igual a zero.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A equa&ccedil;&atilde;o    (10) estabelece que, se <img src="/img/revistas/resr/v48n2/07s03.jpg" align="absmiddle"> for maior    ou igual a zero, o pre&ccedil;o pago pelos consumidores pelos produtos derivados    do leite dever&aacute; ser menor ou igual ao pre&ccedil;o de mercado. Por fim,    a equa&ccedil;&atilde;o (11) define as condi&ccedil;&otilde;es para que exista    a comercializa&ccedil;&atilde;o de derivados de leite entre a ind&uacute;stria    e os consumidores finais. Para que haja com&eacute;rcio (Xf<sub>i,j,k,l</sub>),    o pre&ccedil;o de mercado dos derivados do leite na regi&atilde;o i (mais custo    de transporte e tarifas) deve ser igual ao pre&ccedil;o da ind&uacute;stria    na regi&atilde;o j.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os pre&ccedil;os    e as quantidades consumidas e ofertadas utilizados para a implanta&ccedil;&atilde;o    do modelo foram obtidos por meio do banco de dados da OECD/FAO. Considerou-se    a m&eacute;dia dos tr&ecirc;s &uacute;ltimos anos (de 2004 a 2006) visando &agrave;    redu&ccedil;&atilde;o dos efeitos de altera&ccedil;&otilde;es eventuais nos    n&iacute;veis das vari&aacute;veis, causadas por choques ou mudan&ccedil;as    abruptas na economia, por eventos clim&aacute;ticos ou por outros fatores que    afetam, ocasionalmente, produ&ccedil;&atilde;o, consumo e pre&ccedil;os (<a href="#q2">Quadro    2</a>).</font></p>     <p><a name="q2"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v48n2/07q02.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para implantar    o modelo, tamb&eacute;m s&atilde;o necess&aacute;rias as elasticidades-pre&ccedil;o    de oferta e de demanda para definir as fun&ccedil;&otilde;es que participam    das equa&ccedil;&otilde;es 6 e 10. Os custos totais de transporte entre as regi&otilde;es    em estudo foram calculados com base no custo de transporte de uma tonelada de    produtos a granel e refrigerados via mar&iacute;tima (US$/milhas mar&iacute;timas),    obtido a partir de dados do Departamento de Agricultura dos Estados Unidos (USDA    na sigla em ingl&ecirc;s) e das dist&acirc;ncias (milhas mar&iacute;timas) entre    os pa&iacute;ses/regi&otilde;es em an&aacute;lise (<a href="#q2">Quadro 2</a>).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como n&atilde;o    existe uma tarifa comum em todos os pa&iacute;ses pertencentes &agrave;s regi&otilde;es    definidas na &aacute;rea de estudo, foram utilizadas as tarifas m&eacute;dias    dos pa&iacute;ses importadores dos blocos ou regi&otilde;es escolhidos. Os subs&iacute;dios    e quotas tarif&aacute;rias considerados no modelo foram aplicados exclusivamente    para os Estados Unidos, Canad&aacute; e pa&iacute;ses da UE.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A &aacute;rea de    estudo abrange o mercado mundial de leite e derivados, que inclui todos os pa&iacute;ses    produtores, exportadores, importadores e consumidores do produto. Para viabilizar    o processo de modelagem e a an&aacute;lise dos cen&aacute;rios de integra&ccedil;&atilde;o    dos mercados, os pa&iacute;ses s&atilde;o agrupados em regi&otilde;es. O crit&eacute;rio    para escolha leva em conta a relev&acirc;ncia em termos de produ&ccedil;&atilde;o,    importa&ccedil;&atilde;o e exporta&ccedil;&atilde;o, al&eacute;m de considerar    as regi&otilde;es com maior interesse comercial para o Brasil. Vale salientar    que os pa&iacute;ses do Mercosul s&atilde;o analisados separadamente, a fim    de identificar as mudan&ccedil;as em termos de produ&ccedil;&atilde;o e com&eacute;rcio    nos diversos cen&aacute;rios. Entre os pa&iacute;ses e blocos relevantes no    setor de l&aacute;cteos, definiram-se nove regi&otilde;es, conforme o <a href="#q3">Quadro    3</a>.</font></p>     <p><a name="q3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07q03.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Obtidos os resultados    do modelo aplicado para o cen&aacute;rio-base, fez-se a calibragem para ajustar    &agrave; situa&ccedil;&atilde;o atual. Na maior parte dos casos, a produ&ccedil;&atilde;o    e o consumo observados no per&iacute;odo n&atilde;o excederam em 5% os valores    estimados e apresentados como cen&aacute;rio-base. Posteriormente, tr&ecirc;s    cen&aacute;rios foram simulados, removendo barreiras ao com&eacute;rcio, a fim    de verificar os impactos nas quantidades e n&iacute;veis de bem-estar. Tais    cen&aacute;rios s&atilde;o, respectivamente: um acordo de livre com&eacute;rcio    multilateral; um acordo entre os pa&iacute;ses do Mercosul e da UE; e um acordo    entre os pa&iacute;ses do Mercosul, Estados Unidos e Canad&aacute; (<a href="#q4">Quadro    4</a>).</font></p>     ]]></body>
+<body><![CDATA[<p><a name="q4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07q04.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste estudo, utilizaram-se    os <i>solvers</i> Path, do Sistema Geral de Modelagem Alg&eacute;brica (GAMS    na sigla em ingl&ecirc;s), desenvolvido em 1994, e o Miles - conforme sugest&atilde;o    de Rutherford (1995), principalmente para modelos complexos. N&atilde;o houve    diferen&ccedil;a entre os resultados simulados em ambos os procedimentos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na pr&oacute;xima    se&ccedil;&atilde;o, s&atilde;o apresentados o cen&aacute;rio-base e as principais    mudan&ccedil;as ocorridas nos diversos cen&aacute;rios alternativos em fun&ccedil;&atilde;o    da simula&ccedil;&atilde;o de novos acordos de livre com&eacute;rcio.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. Resultados</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>3.1. Cen&aacute;rio-base    e calibragem do modelo</i></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os modelos de programa&ccedil;&atilde;o    matem&aacute;tica s&atilde;o geralmente validados atrav&eacute;s da checagem    da solu&ccedil;&atilde;o do problema, comparando-a com a situa&ccedil;&atilde;o    real. Nesta se&ccedil;&atilde;o, analisa-se a forma com que os resultados obtidos    no cen&aacute;rio-base (estimados) refletem os valores observados. Segundo Waquil    (1995), em casos de n&atilde;o se obter resultados coerentes com os valores,    o modelo deve ser reavaliado em termos de adequa&ccedil;&atilde;o dos coeficientes    e da estrutura.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o presente    estudo, quando analisadas vari&aacute;veis como produ&ccedil;&atilde;o e consumo    de leite e derivados, verifica-se que a diferen&ccedil;a m&aacute;xima entre    os valores observados e estimados &eacute; de 10%. Assim, o modelo pode ser    validado no cen&aacute;rio-base, visto que os resultados no mundo real s&atilde;o    condizentes com aqueles estimados pelo modelo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na <a href="/img/revistas/resr/v48n2/07t01.jpg">Tabela    1</a>, s&atilde;o apresentados os n&iacute;veis de produ&ccedil;&atilde;o, consumo    e participa&ccedil;&atilde;o de mercado em diversos segmentos do setor de l&aacute;cteos    no cen&aacute;rio-base. Os maiores produtores mundiais de leite <i>in natura</i>    s&atilde;o os pa&iacute;ses da UE e os Estados Unidos, que produzem juntos 227.000    toneladas ao ano, representando 36% da produ&ccedil;&atilde;o global. Como observado    na <a href="#f1">Figuras 1</a> e <a href="#f2">2</a>, al&eacute;m da importante    participa&ccedil;&atilde;o no volume produzido, esses pa&iacute;ses possuem    tamb&eacute;m grande peso no total consumido de leite e derivados. Os pa&iacute;ses    da UE s&atilde;o os maiores consumidores de queijo (43% do total mundial), seguidos    pelos EUA, com 24%. Destaca-se tamb&eacute;m o consumo de manteiga e de leite    em p&oacute; desnatado nas mesmas regi&otilde;es.</font></p>     <p><a name="f1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07f01.jpg"></p>     <p>&nbsp;</p>     <p><a name="f2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07f02.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com uma participa&ccedil;&atilde;o    menor na produ&ccedil;&atilde;o e no consumo de leite e derivados est&atilde;o    os pa&iacute;ses do Mercosul (Argentina, Brasil e Uruguai). O volume produzido    nesses pa&iacute;ses representa apenas 6% do total mundial, no per&iacute;odo    analisado. No Brasil, a maior parte do consumo final ainda est&aacute; associada    ao leite <i>in natura</i>, correspondendo a 6% do total consumido do produto    no mundo (<a href="#f1">Figura 1</a>). Diferentemente das demais regi&otilde;es    analisadas, o consumo de leite em p&oacute; integral no Brasil representa parcela    importante no total mundial, de 11%.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os pa&iacute;ses    da Oceania, Austr&aacute;lia e Nova Zel&acirc;ndia, por sua vez, s&atilde;o    os maiores exportadores l&iacute;quidos de derivados do leite - com destaque    para o leite em p&oacute; integral e desnatado -, embora tenham pequeno peso    na produ&ccedil;&atilde;o e consumo mundiais.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para cada um dos    tr&ecirc;s grupos destacados, existem diferentes estrat&eacute;gias de inser&ccedil;&atilde;o    no mercado internacional. O primeiro utiliza-se de barreiras tarif&aacute;rias    e subs&iacute;dios para manter a sua posi&ccedil;&atilde;o privilegiada. Como    resultado, tem conseguido manter um n&iacute;vel de produ&ccedil;&atilde;o capaz    de atender &agrave; demanda por derivados l&aacute;cteos nas suas respectivas    regi&otilde;es. Ao mesmo tempo, por&eacute;m, o excesso de oferta no mercado    internacional, em decorr&ecirc;ncia desses subs&iacute;dios e quotas tarif&aacute;rias,    acaba distorcendo os pre&ccedil;os em fun&ccedil;&atilde;o da comercializa&ccedil;&atilde;o    de tais excedentes.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os pa&iacute;ses    do Mercosul, por sua vez, n&atilde;o subsidiam a produ&ccedil;&atilde;o e as    exporta&ccedil;&otilde;es, mas mant&ecirc;m tarifas de 16% para minimizar os    efeitos negativos das pol&iacute;ticas adotadas pelos pa&iacute;ses desenvolvidos    sobre o setor l&aacute;cteo dom&eacute;stico. A comercializa&ccedil;&atilde;o    de leite <i>in natura</i> e leite em p&oacute; integral predominam nas trocas    entre os pa&iacute;ses do Mercosul.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">J&aacute; os pa&iacute;ses    da Oceania s&atilde;o os que t&ecirc;m um maior grau de vantagens comparativas    em rela&ccedil;&atilde;o &agrave;s demais regi&otilde;es. Com reduzidas barreiras    tarif&aacute;rias e sem conceder subs&iacute;dios ao setor, apresentam um n&iacute;vel    de competitividade que os torna capazes de competir com produtos europeus e    americanos subsidiados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><b>3.2. Cen&aacute;rios    alternativos e efeitos dos acordos de livre com&eacute;rcio sobre o setor de    l&aacute;cteos</b></i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O objetivo de delimitar    cen&aacute;rios alternativos &eacute; avaliar as poss&iacute;veis mudan&ccedil;as    no mercado de l&aacute;cteos mediante a implanta&ccedil;&atilde;o de pol&iacute;ticas    comerciais. Nesta se&ccedil;&atilde;o, s&atilde;o avaliadas as principais altera&ccedil;&otilde;es    em termos de produ&ccedil;&atilde;o, consumo e fluxos comerciais em vista das    mudan&ccedil;as nas barreiras tarif&aacute;rias e na concess&atilde;o de subs&iacute;dios    em rela&ccedil;&atilde;o ao per&iacute;odo-base. Para isso, utiliza-se de um    modelo de aloca&ccedil;&atilde;o espacial e vertical com o prop&oacute;sito    de avaliar os efeitos sobre os produtos derivados do leite em cada regi&atilde;o    considerada.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A partir do cen&aacute;rio-base,    s&atilde;o simulados tr&ecirc;s cen&aacute;rios alternativos: um acordo de livre    com&eacute;rcio multilateral com a remo&ccedil;&atilde;o das barreiras tarif&aacute;rias    e dos subs&iacute;dios; um acordo Mercosul-UE com a remo&ccedil;&atilde;o das    barreiras tarif&aacute;rias; e um acordo de livre com&eacute;rcio entre os pa&iacute;ses    do Mercosul, Estados Unidos e Canad&aacute;, com a remo&ccedil;&atilde;o das    barreiras tarif&aacute;rias.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados da    <a href="#t2">Tabela 2</a> mostram como o desempenho dos produtores e o consumo    de derivados nas regi&otilde;es analisadas modificam quando &eacute; simulado    um acordo multilateral eliminando as barreiras tarif&aacute;rias e os subs&iacute;dios.    Nesse cen&aacute;rio, &eacute; poss&iacute;vel observar os ganhos potenciais    de uma situa&ccedil;&atilde;o ideal na qual os pa&iacute;ses definem as suas    posi&ccedil;&otilde;es no mercado global, com base nas suas potencialidades    naturais e na disponibilidade a pagar dos consumidores de cada regi&atilde;o.</font></p>     <p><a name="t2"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07t02.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os produtores de    leite dos pa&iacute;ses do Mercosul s&atilde;o beneficiados no cen&aacute;rio    1 (C1), dado o importante aumento no volume produzido. Contudo, na medida em    que a produ&ccedil;&atilde;o cresce para atender a uma maior demanda internacional    por derivados de leite, os pre&ccedil;os dom&eacute;sticos tamb&eacute;m sobem,    afetando negativamente o consumo nos pa&iacute;ses do Mercosul. A Argentina    e o Uruguai s&atilde;o exportadores l&iacute;quidos, com seus produtores sendo    beneficiados com mais intensidade que os brasileiros. Isso ocorre pelo fato    de o Brasil ser um importador l&iacute;quido no cen&aacute;rio-base e, nos cen&aacute;rios    alternativos de liberaliza&ccedil;&atilde;o dos mercados, as exporta&ccedil;&otilde;es    argentinas e uruguaias - outrora direcionadas para o Brasil -, serem redirecionadas    para outros mercados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os produtores dos    EUA, Canad&aacute; e dos pa&iacute;ses da UE t&ecirc;m a sua produ&ccedil;&atilde;o    reduzida em fun&ccedil;&atilde;o da abertura dos seus mercados e da elimina&ccedil;&atilde;o    dos subs&iacute;dios concedidos a eles e a exportadores. As regi&otilde;es produtoras    mais afetadas s&atilde;o a UE e os EUA, com quedas de 2,6% e 0,3%, respectivamente.    Embora ocorram perdas para os produtores, existe, ao mesmo tempo, um aumento    no consumo de leite e derivados com a importa&ccedil;&atilde;o de produtos mais    baratos, principalmente, dos pa&iacute;ses da Oceania.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No cen&aacute;rio    1, &eacute; poss&iacute;vel observar que a produ&ccedil;&atilde;o nos pa&iacute;ses    da Oceania aumenta de forma significativa. Esse comportamento est&aacute; associado    a uma forte redu&ccedil;&atilde;o no consumo de l&aacute;cteos nesses pa&iacute;ses.    O consumo de leite em p&oacute; (integral e desnatado) e queijo diminui cerca    de 10% neste cen&aacute;rio, levando ao incremento das exporta&ccedil;&otilde;es.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ainda no cen&aacute;rio    1, pode-se analisar as varia&ccedil;&otilde;es nos ganhos ou perdas quando simuladas    mudan&ccedil;as nas elasticidade de oferta e de demanda. Conforme as <a href="#f3">Figuras    3</a> e <a href="#f4">4</a>, simulou-se um aumento de 30% na oferta e na demanda    (C1S+30 e C1D+30, respectivamente) e uma diminui&ccedil;&atilde;o de 30% na    oferta e na demanda (C1S-30 e C1D-30, nesta ordem).</font></p>     <p><a name="f3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07f03.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="f4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07f04.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No cen&aacute;rio    de livre com&eacute;rcio (C1), os pa&iacute;ses do Mercosul mant&ecirc;m ganhos    positivos na produ&ccedil;&atilde;o, exceto nas simula&ccedil;&otilde;es em    que existem um aumento da elasticidade de demanda (C1D+30) e uma redu&ccedil;&atilde;o    da elasticidade de oferta (C1S-30). No caso de aumentar a elasticidade de demanda,<a name="top2"></a><a href="#back2"><sup>2</sup></a>    Argentina, Brasil e Uruguai passariam a ter perdas na produ&ccedil;&atilde;o    de 2,1%, 1,1% e 3%, respectivamente. J&aacute; para os EUA e UE, as quedas seriam    ainda mais acentuadas que no C1, de 9,7% e 6,2%, nesta ordem. Para uma redu&ccedil;&atilde;o    na elasticidade de oferta<a name="top3"></a><a href="#back3"><sup>3</sup></a>    (C1S+30), Argentina, Brasil, Uruguai, EUA e UE passam a ter perdas de 1,1%,    0,7%, 1,6%, 7,2% e 5,2%, respectivamente (<a href="#f3">Figura 3</a>).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quando realizada    a mesma an&aacute;lise de sensibilidade para o consumo de leite no C1 (<a href="#f4">Figura    4</a>) nos pa&iacute;ses do Mercosul, observa-se que, com exce&ccedil;&atilde;o    do cen&aacute;rio de redu&ccedil;&atilde;o da elasticidade de demanda, todos    os demais simulados apresentam perdas para os consumidores. O cen&aacute;rio    que prev&ecirc; a queda na elasticidade de demanda torna poss&iacute;vel que    todas as regi&otilde;es selecionadas registrem ganhos para os consumidores.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">J&aacute; no cen&aacute;rio    2 (C2), no qual &eacute; simulado o acordo de livre com&eacute;rcio entre os    pa&iacute;ses da UE e do Mercosul, as varia&ccedil;&otilde;es na produ&ccedil;&atilde;o    e no consumo de l&aacute;cteos ocorrem com maior intensidade nos pa&iacute;ses    da UE e do Mercosul, participantes do bloco e nos pa&iacute;ses da Oceania (<a href="#t3">Tabela    3</a>).</font></p>     <p><a name="t3"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v48n2/07t03.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste cen&aacute;rio    (C2), apesar de apenas as barreiras tarif&aacute;rias terem sido eliminadas,    a produ&ccedil;&atilde;o e as exporta&ccedil;&otilde;es de derivados de leite    dos pa&iacute;ses do Mercosul aumentaram de forma mais intensa que no C1. O    consumo de leite e derivados, &agrave; semelhan&ccedil;a do cen&aacute;rio 1,    teve redu&ccedil;&atilde;o significativa nos tr&ecirc;s pa&iacute;ses do Mercosul,    chegando a 20% no Uruguai e a 13% no Brasil, no caso da demanda por leite em    p&oacute;.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por outro lado,    a queda na produ&ccedil;&atilde;o de leite na UE &eacute; pequena (0,27%), assim    como as varia&ccedil;&otilde;es positivas no consumo de leite e derivados. Uma    das explica&ccedil;&otilde;es &eacute; o fato de este cen&aacute;rio considerar    somente a elimina&ccedil;&atilde;o das barreiras tarif&aacute;rias, mantendo    os subs&iacute;dios numa regi&atilde;o que representa 25% da produ&ccedil;&atilde;o    mundial em equivalente leite.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A redu&ccedil;&atilde;o    na produ&ccedil;&atilde;o de l&aacute;cteos dos pa&iacute;ses da Oceania ocorreu    em fun&ccedil;&atilde;o do desvio de com&eacute;rcio que o C2 determina &agrave;    Austr&aacute;lia e &agrave; Nova Zel&acirc;ndia. Tradicionais exportadores de    l&aacute;cteos &agrave; UE, t&ecirc;m parte do seu acesso comprometido pelo    fato de este acordo comercial dar prefer&ecirc;ncia &agrave;s importa&ccedil;&otilde;es    de l&aacute;cteos dos pa&iacute;ses do Mercosul.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quando simuladas    varia&ccedil;&otilde;es na elasticidade de oferta e de demanda no C2 para a    produ&ccedil;&atilde;o de leite, observa-se que, para os pa&iacute;ses do Mercosul,    existem ganhos em todas as situa&ccedil;&otilde;es consideradas (<a href="#f5">Figura    5</a>). Quando incrementada a elasticidade de oferta em 30%, o cen&aacute;rio    2 mostra-se o mais favor&aacute;vel - os ganhos para a Argentina, Brasil e Uruguai    s&atilde;o de 6,4%, 3,5% e 9,5%, respectivamente. S&atilde;o tamb&eacute;m observados    aumentos de produ&ccedil;&atilde;o para os pa&iacute;ses da UE e para os EUA    no cen&aacute;rio C2S+30, embora os EUA n&atilde;o fa&ccedil;am parte do acordo.</font></p>     <p><a name="f5"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07f05.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">J&aacute; para    o consumo de leite nos pa&iacute;ses do Mercosul &eacute; poss&iacute;vel observar,    a partir das simula&ccedil;&otilde;es de varia&ccedil;&otilde;es nas elasticidades    de demanda e de oferta, que existem perdas &agrave; semelhan&ccedil;a do registrado    no cen&aacute;rio 1. As maiores quedas ocorrem quando a elasticidade de demanda    aumenta em 30% (C2D+30), chegando a 5,4% para os consumidores argentinos, a    8,7% para os brasileiros e a 5,4% para os uruguaios (<a href="#f6">Figura 6</a>).</font></p>     <p><a name="f6"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07f06.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No caso da UE e    dos EUA, o cen&aacute;rio 2 praticamente n&atilde;o tem o consumo afetado pelo    acordo. J&aacute; com o aumento da elasticidade de oferta (C2S+30) e a redu&ccedil;&atilde;o    da elasticidade de demanda (C2D-30), notam-se ganhos para os consumidores.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De forma geral,    para os pa&iacute;ses do Mercosul, a simula&ccedil;&atilde;o do acordo Mercosul-UE    sinaliza ganhos para os produtores de leite e perdas para os consumidores, independente    da elasticidade de oferta e demanda considerada.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados apresentados    na <a href="#t4">Tabela 4</a> destacam as varia&ccedil;&otilde;es na produ&ccedil;&atilde;o    e no consumo de leite e derivados a partir da simula&ccedil;&atilde;o da forma&ccedil;&atilde;o    de uma &aacute;rea de livre com&eacute;rcio entre os pa&iacute;ses do Mercosul,    EUA e Canad&aacute; (cen&aacute;rio 3 ou C3). Ao contr&aacute;rio do cen&aacute;rio    anterior, no C3, as varia&ccedil;&otilde;es na produ&ccedil;&atilde;o e no consumo    afetam todas as regi&otilde;es analisadas.</font></p>     <p><a name="t4"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v48n2/07t04.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Apenas os pa&iacute;ses    do Mercosul registram varia&ccedil;&otilde;es positivas na produ&ccedil;&atilde;o    de leite. Como nos cen&aacute;rios anteriores, Argentina e Uruguai obtiveram    os maiores incrementos, de 1,5% e 2,2%, respectivamente. Os demais pa&iacute;ses    envolvidos no acordo (EUA e Canad&aacute;) apresentaram pequenas perdas, visto    que apenas as tarifas foram eliminadas. Da mesma forma, todos os outros pa&iacute;ses    considerados no estudo tiveram a produ&ccedil;&atilde;o reduzida, em fun&ccedil;&atilde;o    do desvio de com&eacute;rcio resultante da forma&ccedil;&atilde;o da &aacute;rea    de livre com&eacute;rcio. Nesse caso, incluem-se os pa&iacute;ses da Oceania    e da UE que, no cen&aacute;rio-base, exportam produtos l&aacute;cteos para o    Canad&aacute; e EUA.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No cen&aacute;rio    de forma&ccedil;&atilde;o de &aacute;rea de livre com&eacute;rcio entre os pa&iacute;ses    do Mercosul, da UE e os EUA, existem ganhos para os produtores do Mercosul no    C3 mesmo quando a elasticidade de demanda e de oferta tem seus valores aumentados    em 30% (<a href="#f7">Figura 7</a>).</font></p>     <p><a name="f7"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/07f07.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por outro lado,    quando as elasticidades de oferta e de demanda t&ecirc;m seus valores reduzidos    em 30%, existem varia&ccedil;&otilde;es negativas na produ&ccedil;&atilde;o    de leite em todos os pa&iacute;ses, em rela&ccedil;&atilde;o ao cen&aacute;rio-base.    Para os EUA e UE, as quedas chegam a 7,3% e 2,2%, nesta ordem. Quando a elasticidade    de oferta tem seu valor aumentado (<a href="#f7">Figura 7</a>), constatam-se    varia&ccedil;&otilde;es positivas na produ&ccedil;&atilde;o somente dos pa&iacute;ses    do Mercosul.</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v48n2/07f08.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Analisando as poss&iacute;veis    varia&ccedil;&otilde;es no consumo de leite no cen&aacute;rio 3 frente &agrave;s    mudan&ccedil;as nas elasticidades, observa-se que, para os pa&iacute;ses do    Mercosul, os impactos s&atilde;o negativos quando aumentam as elasticidades    de oferta e de demanda ou diminui a elasticidade de oferta. Os resultados passam    a ter varia&ccedil;&otilde;es positivas no consumo de l&aacute;cteos apenas    quando a elasticidade de demanda reduz em 30% - os ganhos para Argentina, Brasil    e Uruguai s&atilde;o de 3,6%, 6,1% e 3,1%, respectivamente. Para os EUA e UE,    existem varia&ccedil;&otilde;es positivas relevantes no consumo somente quando    a elasticidade de oferta aumenta e a elasticidade de demanda diminui.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em s&iacute;ntese,    observa-se que o Brasil e os demais pa&iacute;ses do Mercosul apresentam ganhos    para os produtores de leite nos tr&ecirc;s cen&aacute;rios considerados. O C2    &eacute; o mais promissor, ao permitir que os produtos l&aacute;cteos dessas    regi&otilde;es tenham maior acesso ao mercado europeu, enquanto para os demais    pa&iacute;ses permanecem as mesmas barreiras e restri&ccedil;&otilde;es comerciais.    Embora proporcione maiores ganhos globais, o acordo de livre com&eacute;rcio    multilateral, no qual s&atilde;o eliminadas todas as restri&ccedil;&otilde;es    comerciais e os subs&iacute;dios, consiste na segunda melhor op&ccedil;&atilde;o    para o Brasil e os demais pa&iacute;ses do Mercosul.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. Conclus&otilde;es</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Este artigo compreende    a an&aacute;lise dos efeitos dos acordos de livre com&eacute;rcio (multilaterais    e regionais) em tr&ecirc;s cen&aacute;rios alternativos para o setor de l&aacute;cteos.    Para isso, foi utilizado um modelo de aloca&ccedil;&atilde;o espacial e vertical    formulado como um Problema de Complementaridade Mista (PCM), levando em considera&ccedil;&atilde;o    nove regi&otilde;es. Esse modelo permite desagregar o consumo em seis grupos:    leite <i>in natura</i>, leite em p&oacute; integral e desnatado, manteiga, queijo    e outros derivados, medindo as varia&ccedil;&otilde;es nos n&iacute;veis de    produ&ccedil;&atilde;o, consumo e pre&ccedil;os-sombra em vista da remo&ccedil;&atilde;o    de barreiras ao com&eacute;rcio.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A partir do PCM,    s&atilde;o avaliadas as poss&iacute;veis mudan&ccedil;as no mercado internacional    e os respectivos impactos sobre o setor de l&aacute;cteos. Nesse sentido, uma    das contribui&ccedil;&otilde;es do estudo &eacute; a aplica&ccedil;&atilde;o    de uma metodologia que incorpora aspectos espec&iacute;ficos do setor, como    custos de transforma&ccedil;&atilde;o, desagrega&ccedil;&atilde;o do consumo    de leite em grupos homog&ecirc;neos, al&eacute;m da inclus&atilde;o de quotas    tarif&aacute;rias, tarifas e subs&iacute;dios para cada produto.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O modelo desenvolvido    permite, ainda, incluir diferen&ccedil;as qualitativas do leite ao produtor    (produto heterog&ecirc;neo), conferindo maior robustez aos resultados, na medida    em que a composi&ccedil;&atilde;o do leite &eacute; diferenciada entre as regi&otilde;es    analisadas. Essa ferramenta constitui-se num importante instrumental de aux&iacute;lio    no processo de tomada de decis&atilde;o, por meio da estima&ccedil;&atilde;o    dos ganhos ou perdas em cada cen&aacute;rio de integra&ccedil;&atilde;o entre    pa&iacute;ses ou regi&otilde;es. Assim, a partir das simula&ccedil;&otilde;es    de cen&aacute;rios alternativos, identificam-se as melhores estrat&eacute;gias    nas negocia&ccedil;&otilde;es internacionais que permitem ampliar a produ&ccedil;&atilde;o    e a renda nos setores analisados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste estudo, apontam-se    ganhos nos tr&ecirc;s cen&aacute;rios para produtores brasileiros de leite.    O cen&aacute;rio mais promissor re&uacute;ne os pa&iacute;ses do Mercosul e    da UE atrav&eacute;s de um acordo de livre com&eacute;rcio no qual s&atilde;o    eliminadas as barreiras tarif&aacute;rias. Nesse cen&aacute;rio, apesar de o    Brasil n&atilde;o se tornar um exportador l&iacute;quido de l&aacute;cteos,    os produtores desse Pa&iacute;s s&atilde;o beneficiados pelo fato de as exporta&ccedil;&otilde;es    argentinas e uruguaias serem redirecionadas para os pa&iacute;ses da UE, diminuindo    o excesso de oferta nas na&ccedil;&otilde;es do Cone Sul.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O segundo melhor    cen&aacute;rio para os produtores brasileiros &eacute; o de livre com&eacute;rcio    multilateral. Em termos gerais, nesse cen&aacute;rio existem ganhos para os    pa&iacute;ses do Mercosul, da Oceania e para regi&atilde;o denominada "resto    do mundo". Para os demais pa&iacute;ses (Canad&aacute;, UE e EUA), existem redu&ccedil;&otilde;es    na produ&ccedil;&atilde;o de leite quando eliminados as tarifas e os subs&iacute;dios    concedidos &agrave; produ&ccedil;&atilde;o e &agrave;s exporta&ccedil;&otilde;es.    J&aacute; no cen&aacute;rio que simula um acordo de livre com&eacute;rcio entre    os pa&iacute;ses do Mercosul, EUA e Canad&aacute;, existem ganhos para o Brasil    e para os demais pa&iacute;ses do Mercosul. Todavia, nesse cen&aacute;rio as    varia&ccedil;&otilde;es na produ&ccedil;&atilde;o foram menores para todas as    na&ccedil;&otilde;es envolvidas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quando comparados    os resultados deste trabalho com os de outros estudos, observa-se que as estimativas    obtidas se aproximam das apresentadas por Castro, Figueiredo e Teixeira (2004),    que utilizaram um modelo de equil&iacute;brio geral (GTAP) para calcular os    impactos da Alca (Acordo de Livre Com&eacute;rcio das Am&eacute;ricas) e do    Mercosul-UE sobre um conjunto de produtos agr&iacute;colas, entre eles o leite.    Para esses autores, o melhor cen&aacute;rio para a produ&ccedil;&atilde;o foi    o Mercosul-UE. Neste artigo, contudo, as varia&ccedil;&otilde;es no volume produzido    para esse acordo (Mercosul-UE) s&atilde;o menores que as registradas por Castro,    Figueiredo e Teixeira (2004). Para esse estudo, os resultados apontam aumentos    de 25,94% na produ&ccedil;&atilde;o de leite da Argentina, de 7,4%, no Brasil    e de 46,34% no Uruguai.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Waquil e Alvim    (2001), por meio de um modelo de equil&iacute;brio parcial considerando apenas    a dimens&atilde;o espacial, avaliaram os efeitos de acordos como a Alca e o    Mercosul-UE sobre o setores de l&aacute;cteos e de carnes (bovina, su&iacute;na    e de aves). Os autores observaram que, para o setor de l&aacute;cteos, o cen&aacute;rio    mais promissor seria a Alca, no qual os pa&iacute;ses integrantes do Nafta (Estados    Unidos, M&eacute;xico e Canad&aacute;), al&eacute;m de Brasil e Uruguai teriam    vantagens na produ&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por fim, os resultados    deste estudo apontam que acordos de car&aacute;ter regional que tenham redu&ccedil;&otilde;es    tarif&aacute;rias permitem melhorar as condi&ccedil;&otilde;es de mercado para    os produtores brasileiros. Em outras palavras, acordos regionais como o Mercosul-UE,    mesmo quando mantidos os subs&iacute;dios, resultam em maiores benef&iacute;cios    para os produtores.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Refer&ecirc;ncias    Bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALVIM, A. M.; WAQUIL,    P. D. Impactos dos Novos Acordos de Livre Com&eacute;rcio sobre os Setores de    Carnes e L&aacute;cteos no Brasil. <i>Estudos do CEPE.</i> Santa Cruz do Sul,    v. 14, p. 93-109, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003201000020000700001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALVIM, A. M. <i>Os    Impactos dos Novos Acordos de Livre Com&eacute;rcio sobre o Mercado de Arroz    no Brasil:</i> um modelo de aloca&ccedil;&atilde;o espacial e temporal. Porto    Alegre: PPGE/UFRGS, 2003. (Tese de Doutorado em Economia).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003201000020000700002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALVIM, A. M.; WAQUIL,    P. D. O problema de complementaridade mista: um modelo de aloca&ccedil;&atilde;o    espacial aplicado ao setor agr&iacute;cola. In: Santos, M. L. e Vieira, W. C.    <i>M&eacute;todos quantitativos em economia.</i> Vi&ccedil;osa: UFV, 2004. Cap.6,    p.161-190.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003201000020000700003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ALVIM, A. M.; WAQUIL,    P. D. "O acordo entre o Mercosul e a Uni&atilde;o Europ&eacute;ia: efeitos sobre    os mercados de gr&atilde;os". In: XLIII Congresso Brasileiro de Economia e Sociologia    Rural. <i>Anais...</i> Ribeir&atilde;o Preto, SP: SOBER, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003201000020000700004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BENDER FILHO, R.;    ALVIM, A. M. O Mercado de Carne Bovina no Brasil: os efeitos da elimina&ccedil;&atilde;o    das barreiras tarif&aacute;rias e n&atilde;o tarif&aacute;rias. <i>Revista de    Economia e Sociologia Rural</i>, v. 46, p. 1095-1127, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003201000020000700005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BISHOP, P.M.; NICHOLSON,    C.F.; PRATT, J.E. <i>Tariff-Rate Quotas</i>: difficult to model or plain simple.    Wellington: NZIER, 2001. Paper presented at the annual conference of the New    Zealand Agricultural and Resource Economics Society. Dispon&iacute;vel em: <a href="http://www.nzier.co.nz" target="_blank">http://www.nzier.co.nz</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003201000020000700006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BITD (The International    Customs Tariff Bureau). <i>Tariffs Database.</i> 2007. Dispon&iacute;vel em:    <a href="http://www.bitd.org" target="_blank">http://www.bitd.org</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003201000020000700007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CASTRO, E. R. DE.;    FIGUEIREDO, A. M.; TEIXEIRA, E. C. GTAP: modelo, instru&ccedil;&otilde;es de    uso e aplica&ccedil;&atilde;o. In: SANTOS, M.L.; VIEIRA, W.C. <i>M&eacute;todos    quantitativos em economia</i>. Vi&ccedil;osa: UFV, 2004. Cap.12, p.341-374.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003201000020000700008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">EMBRAPA Gado de    Leite. <i>&Iacute;ndice para convers&atilde;o de produtos l&aacute;cteos em    equivalente leite de origem.</i> 2007. Dispon&iacute;vel em: <a href="http://www.cnpgl.embrapa.br" target="_blank">http://www.cnpgl.embrapa.br</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003201000020000700009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FAPRI (Food and    Agriculture Policy Research Center). <i>Elasticities Databases.</i> 2007. Dispon&iacute;vel    em: <a href="http://www.fapri.org" target="_blank">http://www.fapri.org</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003201000020000700010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FONTERRA Co-operative    Group. <i>Milk Composition.</i> 2007. Dispon&iacute;vel em: <a href="http://www.fonterra.com" target="_blank">www.fonterra.com</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003201000020000700011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">OECD/FAO (Organisation    for Economic Co-operation and Development - Food and Agriculture Organization    of United Nations). <i>The agricultural outlook database.</i> Dispon&iacute;vel    em: <a href="http://www.oecd.org" target="_blank">http://www.oecd.org</a>. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003201000020000700012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NAGURNEY, A.; NICHOLSON,    C.F.; BISHOP, P.M. Spatial price equilibrium models with discriminatory ad valorem    tariffs: formulation and comparative computation using variational inequalities.    In: VAN DEN BERGH, J.C.J.M., NIJKAMP, P., RIETVELD, P (eds). <i>Recent Advances    in Spatial Equilibrium Modelling:</i> methodology and applications. New York:    Springer, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003201000020000700013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NICHOLSON, C.F.;    BISHOP, P. M. <i>US Dairy Product Trade: Modeling Approaches and the Impact    of New Product Formulations.</i> Final Report for NRI Grant # 2001-35400-10249,    March 2004.w</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003201000020000700014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RUTHEFORD, T.F.    Extension of GAMS for complementarity problems arising in applied economic analysis.    <i>Journal of Economics Dynamics &amp; Control.</i> n.19, p.1299-1324, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0103-2003201000020000700015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SAMUELSON, P. Spatial    price equilibrium and linear programming. <i>American Economic Review</i>, v.    42, p. 283-303, 1952.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0103-2003201000020000700016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TAKAYAMA, T., JUDGE,    G. Spatial equilibrium and quadratic programming. <i>Journal of Farm Economics</i>,    v. 46, p. 67-93, 1964.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003201000020000700017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TAKAYAMA, T.; JUDGE,    G. <i>Spatial and temporal price and allocation models</i>. Amsterdam/London:    North-Holland Publishing Company, 1971.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003201000020000700018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">THORE, S. <i>Economic    logistics:</i> the optimization of spatial and sectoral resource, production    and distribution systems. New York: Westport: London: Quorum Books, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0103-2003201000020000700019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">UNCTAD (United    Nation Conference on Trade and Development). <i>UNCTAD -Trains</i> (Trade Analysis    and Information System), 2007. Dispon&iacute;vel em: <a href="http://www.unctad.org" target="_blank">http://www.unctad.org</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003201000020000700020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">USDA (United States    Departament of Agriculture). <i>Ocean Rate Bulletin.</i> 2007. Dispon&iacute;vel    em: <a href="http://www.ams.usda.gov" target="_blank">http://www.ams.usda.gov</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0103-2003201000020000700021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">USDA-ERS (United    State Department of Agriculture - Economic Research Service). <i>Commodity and    Food Elasticities.</i> 2007. Dispon&iacute;vel em: <a href="http://www.ers.usda.gov/Data/Elasticities/query.aspx" target="_blank">http://www.ers.usda.gov/Data/Elasticities/query.aspx</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0103-2003201000020000700022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">USDA-NAL (United    State Departamento f Agriculture - Nutrient Data Laboratory). <i>USDA Food Composition    Data</i>, 2007. Dispon&iacute;vel em: <a href="http://www.nal.usda.gov" target="_blank">http://www.nal.usda.gov</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S0103-2003201000020000700023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">WAQUIL, P.D. <i>Primal-dual    spatial equilibrium model with intermediate products:</i> application to the    agricultural sector in the MERCOSUR. University of Wisconsin - Madison, 1995.    (Ph.D. Dissertation).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0103-2003201000020000700024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">WAQUIL, P. D. Equil&iacute;brio    espacial: modelagem e aplica&ccedil;&atilde;o ao setor de gr&atilde;os em tr&ecirc;s    cen&aacute;rios de integra&ccedil;&atilde;o regional. In: MONTOYA, A. e PARR&Eacute;,    J. L. (eds). <i>O Agroneg&oacute;cio brasileiro no final do s&eacute;culo XX.</i>    Passo Fundo: UPF, v. 2, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0103-2003201000020000700025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">WORLD BANK. Ileana    Cristina Neagu (<a href="mailto:ineagu@worldbank.org">ineagu@worldbank.org</a>).    c&oacute;pia 24 set. 2002. E-mail para Augusto Mussi Alvim (<a href="mailto:augusto.alvim@ig.com.br">augusto.alvim@ig.com.br</a>).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S0103-2003201000020000700026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back1"></a><a href="#top1">1</a>    Samuelson (1952) mostrou que o equil&iacute;brio de mercado pode ser alcan&ccedil;ado    a partir da maximiza&ccedil;&atilde;o da fun&ccedil;&atilde;o de Net Social    Payoff (NSP), obtida com a soma dos excedentes dos produtores e dos consumidores.    ]]></body>
+<body><![CDATA[<br>   <a name="back2"></a><a href="#top2">2</a> A elasticidade de demanda pode ter    varia&ccedil;&otilde;es nos pa&iacute;ses analisados em rela&ccedil;&atilde;o    ao cen&aacute;rio-base caso haja mudan&ccedil;as na renda, produtos substitutos,    na essencialidade do bem ou, simplesmente, na prefer&ecirc;ncia dos consumidores.    <br>   <a name="back3"></a><a href="#top3">3</a> A elasticidade de oferta pode ter    varia&ccedil;&otilde;es caso haja mudan&ccedil;as tecnol&oacute;gicas na produ&ccedil;&atilde;o    e/ou comercializa&ccedil;&atilde;o, novas alternativas na produ&ccedil;&atilde;o,    entre outros aspectos. Produtos com maior elasticidade s&atilde;o mais sens&iacute;veis    a varia&ccedil;&otilde;es nos pre&ccedil;os e vice-versa.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVIM]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WAQUIL]]></surname>
+<given-names><![CDATA[P. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Impactos dos Novos Acordos de Livre Comércio sobre os Setores de Carnes e Lácteos no Brasil]]></article-title>
+<source><![CDATA[Estudos do CEPE]]></source>
+<year>2001</year>
+<volume>14</volume>
+<page-range>93-109</page-range><publisher-loc><![CDATA[Santa Cruz do Sul ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVIM]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os Impactos dos Novos Acordos de Livre Comércio sobre o Mercado de Arroz no Brasil: um modelo de alocação espacial e temporal]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+<publisher-name><![CDATA[PPGE/UFRGS]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVIM]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WAQUIL]]></surname>
+<given-names><![CDATA[P. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[O problema de complementaridade mista: um modelo de alocação espacial aplicado ao setor agrícola]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[M. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vieira]]></surname>
+<given-names><![CDATA[W. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Métodos quantitativos em economia]]></source>
+<year>2004</year>
+<page-range>161-190</page-range><publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[UFV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVIM]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WAQUIL]]></surname>
+<given-names><![CDATA[P. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["O acordo entre o Mercosul e a União Européia: efeitos sobre os mercados de grãos"]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year>2005</year>
+<conf-name><![CDATA[XLIII Congresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Ribeirão Preto^eSP SP]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BENDER FILHO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALVIM]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O Mercado de Carne Bovina no Brasil: os efeitos da eliminação das barreiras tarifárias e não tarifárias]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2008</year>
+<volume>46</volume>
+<page-range>1095-1127</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BISHOP]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NICHOLSON]]></surname>
+<given-names><![CDATA[C.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PRATT]]></surname>
+<given-names><![CDATA[J.E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tariff-Rate Quotas: difficult to model or plain simple]]></source>
+<year>2001</year>
+<conf-name><![CDATA[ conference of the New Zealand Agricultural and Resource Economics Society]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Wellington ]]></publisher-loc>
+<publisher-name><![CDATA[NZIER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<collab>BITD</collab>
+<source><![CDATA[Tariffs Database]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[E. R. DE]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[E. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[GTAP: modelo, instruções de uso e aplicação]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIEIRA]]></surname>
+<given-names><![CDATA[W.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Métodos quantitativos em economia]]></source>
+<year>2004</year>
+<page-range>341-374</page-range><publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[UFV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<collab>EMBRAPA Gado de Leite</collab>
+<source><![CDATA[Índice para conversão de produtos lácteos em equivalente leite de origem]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<collab>FAPRI</collab>
+<source><![CDATA[Elasticities Databases]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<collab>FONTERRA Co-operative Group</collab>
+<source><![CDATA[Milk Composition]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>OECD^dFAO</collab>
+<source><![CDATA[The agricultural outlook database]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NAGURNEY]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NICHOLSON]]></surname>
+<given-names><![CDATA[C.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BISHOP]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial price equilibrium models with discriminatory ad valorem tariffs: formulation and comparative computation using variational inequalities]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[VAN DEN BERGH]]></surname>
+<given-names><![CDATA[J.C.J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NIJKAMP]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RIETVELD]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Recent Advances in Spatial Equilibrium Modelling: methodology and applications]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NICHOLSON]]></surname>
+<given-names><![CDATA[C.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BISHOP]]></surname>
+<given-names><![CDATA[P. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[US Dairy Product Trade: Modeling Approaches and the Impact of New Product Formulations]]></source>
+<year>Marc</year>
+<month>h </month>
+<day>20</day>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUTHEFORD]]></surname>
+<given-names><![CDATA[T.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Extension of GAMS for complementarity problems arising in applied economic analysis]]></article-title>
+<source><![CDATA[Journal of Economics Dynamics & Control.]]></source>
+<year>1995</year>
+<numero>19</numero>
+<issue>19</issue>
+<page-range>1299-1324</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAMUELSON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial price equilibrium and linear programming]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>1952</year>
+<volume>42</volume>
+<page-range>283-303</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAKAYAMA]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUDGE]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial equilibrium and quadratic programming]]></article-title>
+<source><![CDATA[Journal of Farm Economics]]></source>
+<year>1964</year>
+<volume>46</volume>
+<page-range>67-93</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAKAYAMA]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUDGE]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial and temporal price and allocation models]]></source>
+<year>1971</year>
+<publisher-loc><![CDATA[AmsterdamLondon ]]></publisher-loc>
+<publisher-name><![CDATA[North-Holland Publishing Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[THORE]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic logistics: the optimization of spatial and sectoral resource, production and distribution systems]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[New YorkWestportLondon ]]></publisher-loc>
+<publisher-name><![CDATA[Quorum Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<collab>UNCTAD</collab>
+<source><![CDATA[UNCTAD -Trains (Trade Analysis and Information System)]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="">
+<collab>United States Departament of Agriculture</collab>
+<source><![CDATA[Ocean Rate Bulletin]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="">
+<collab>United State Department of Agriculture - Economic Research Service</collab>
+<source><![CDATA[Commodity and Food Elasticities]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="">
+<collab>United State Departamento f Agriculture - Nutrient Data Laboratory</collab>
+<source><![CDATA[USDA Food Composition Data]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WAQUIL]]></surname>
+<given-names><![CDATA[P.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Primal-dual spatial equilibrium model with intermediate products: application to the agricultural sector in the MERCOSUR]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Madison ]]></publisher-loc>
+<publisher-name><![CDATA[University of Wisconsin]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WAQUIL]]></surname>
+<given-names><![CDATA[P. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Equilíbrio espacial: modelagem e aplicação ao setor de grãos em três cenários de integração regional]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[MONTOYA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARRÉ]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Agronegócio brasileiro no final do século XX]]></source>
+<year>2000</year>
+<volume>2</volume>
+<publisher-loc><![CDATA[Passo Fundo ]]></publisher-loc>
+<publisher-name><![CDATA[UPF]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<collab>WORLD BANK</collab>
+<source><![CDATA[Ileana Cristina Neagu]]></source>
+<year>24 s</year>
+<month>et</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

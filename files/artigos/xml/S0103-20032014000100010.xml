@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032014000100010</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032014000100010</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Determinantes da demanda brasileira por importação de arroz: uma abordagem não linear]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Poerschke]]></surname>
+<given-names><![CDATA[Rafael Pentiado]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Morais]]></surname>
+<given-names><![CDATA[Igor Alexandre Clemente de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Unifra  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Unisinos  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2014</year>
+</pub-date>
+<volume>52</volume>
+<numero>1</numero>
+<fpage>177</fpage>
+<lpage>194</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032014000100010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032014000100010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032014000100010&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O presente trabalho propõe o uso de modelos de correção de erros para avaliar o comportamento da função de demanda brasileira por arroz em casca e beneficiado entre janeiro de 1995 e junho de 2010. O objetivo geral é testar se os modelos não lineares conseguem representar as relações de curto e longo prazo na demanda. Em geral, os impactos de longo prazo da renda e preço doméstico foram os principais determinantes das importações, com evidências de que o arroz é um bem inferior. O preço de importação contribui menos que proporcionalmente, ao passo que o importador parece ajustar a quantidade importada do período com certo grau de defasagem. A dinâmica de correção do modelo a choques foi atenuada nas estimativas não lineares mensais, enquanto permaneceu praticamente estável nas estimativas trimestrais. Ainda conforme os resultados é possível afirmar que os ciclos de expansão das importações se mostraram fortemente relacionados a eventos climáticos adversos e às alterações da política comercial. Os resultados chamam a atenção para a influência do governo sobre a importação via incentivo tarifário com terceiros - o que se mostra útil para contornar períodos de escassez de oferta do produto no Brasil e no Mercosul.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The objective of this study is to analyze the behavior of the Brazilian demand for rough and milled rice between January 1995 and June 2010. The main aim is to test the adequacy of linear and non-linear relations that represent short and long-term variables on the demand. In general, long-term impacts from income and domestic price were the most determinants to imports and the rice can be seen as an inferior good. The price of imports contributes less than proportionately, while the importer seems to adjust the quantity with some lag. The correction of the model to short-term shocks was eased in monthly non-linear estimates, while it remained nearly stable in quarterly estimates. Finally, one can say that import cycles were strongly related to adverse climatic events, as well as to alterations in trade policy. The results draw attention to the influence of the government on the imports through pricing incentives to third parties - what proves to be helpful to overcome supply shortages in Brazil and Mercosur.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Cointegração]]></kwd>
+<kwd lng="pt"><![CDATA[modelo de correção de erros]]></kwd>
+<kwd lng="pt"><![CDATA[mudança de regime]]></kwd>
+<kwd lng="pt"><![CDATA[equação de demanda]]></kwd>
+<kwd lng="en"><![CDATA[Cointegration]]></kwd>
+<kwd lng="en"><![CDATA[error correction model]]></kwd>
+<kwd lng="en"><![CDATA[switching regime]]></kwd>
+<kwd lng="en"><![CDATA[demand function]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><a name="top"></a><b>Determinantes    da demanda brasileira por importa&ccedil;&atilde;o de arroz: uma abordagem n&atilde;o    linear</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Rafael Pentiado    Poerschke<sup>I</sup>; Igor Alexandre Clemente de Morais<sup>II</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Professor    Unifra e Doutorando PPGEEI/UFRGS. E-mail: <a href="mailto:faecohaiti@yahoo.com.br">faecohaiti@yahoo.com.br</a>    <br>   <sup>II</sup>Professor do Programa de P&oacute;s-gradua&ccedil;&atilde;o em    Economia/Unisinos E-mail: <a href="mailto:igoracmorais@gmail.com">igoracmorais@gmail.com</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr noshade size="1"/>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O presente trabalho    prop&otilde;e o uso de modelos de corre&ccedil;&atilde;o de erros para avaliar    o comportamento da fun&ccedil;&atilde;o de demanda brasileira por arroz em casca    e beneficiado entre janeiro de 1995 e junho de 2010. O objetivo geral &eacute;    testar se os modelos n&atilde;o lineares conseguem representar as rela&ccedil;&otilde;es    de curto e longo prazo na demanda. Em geral, os impactos de longo prazo da renda    e pre&ccedil;o dom&eacute;stico foram os principais determinantes das importa&ccedil;&otilde;es,    com evid&ecirc;ncias de que o arroz &eacute; um bem inferior. O pre&ccedil;o    de importa&ccedil;&atilde;o contribui menos que proporcionalmente, ao passo    que o importador parece ajustar a quantidade importada do per&iacute;odo com    certo grau de defasagem. A din&acirc;mica de corre&ccedil;&atilde;o do modelo    a choques foi atenuada nas estimativas n&atilde;o lineares mensais, enquanto    permaneceu praticamente est&aacute;vel nas estimativas trimestrais. Ainda conforme    os resultados &eacute; poss&iacute;vel afirmar que os ciclos de expans&atilde;o    das importa&ccedil;&otilde;es se mostraram fortemente relacionados a eventos    clim&aacute;ticos adversos e &agrave;s altera&ccedil;&otilde;es da pol&iacute;tica    comercial. Os resultados chamam a aten&ccedil;&atilde;o para a influ&ecirc;ncia    do governo sobre a importa&ccedil;&atilde;o via incentivo tarif&aacute;rio com    terceiros - o que se mostra &uacute;til para contornar per&iacute;odos de escassez    de oferta do produto no Brasil e no Mercosul.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chaves:</b>    Cointegra&ccedil;&atilde;o, modelo de corre&ccedil;&atilde;o de erros, mudan&ccedil;a    de regime, equa&ccedil;&atilde;o de demanda.</font></p> <hr noshade size="1"/>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The objective of    this study is to analyze the behavior of the Brazilian demand for rough and    milled rice between January 1995 and June 2010. The main aim is to test the    adequacy of linear and non-linear relations that represent short and long-term    variables on the demand. In general, long-term impacts from income and domestic    price were the most determinants to imports and the rice can be seen as an inferior    good. The price of imports contributes less than proportionately, while the    importer seems to adjust the quantity with some lag. The correction of the model    to short-term shocks was eased in monthly non-linear estimates, while it remained    nearly stable in quarterly estimates. Finally, one can say that import cycles    were strongly related to adverse climatic events, as well as to alterations    in trade policy. The results draw attention to the influence of the government    on the imports through pricing incentives to third parties - what proves to    be helpful to overcome supply shortages in Brazil and Mercosur.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key-words:</b>    Cointegration, error correction model, switching regime, demand function.    <br>   </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Classifica&ccedil;&atilde;o    JEL:</b> Q11, F10, C24.</font></p> <hr noshade size="1"/>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O r&aacute;pido    crescimento do com&eacute;rcio mundial, ocorrido especialmente ap&oacute;s 2001,    n&atilde;o foi homog&ecirc;neo entre pa&iacute;ses e produtos. Em alguns casos,    mesmo diante de caracter&iacute;sticas comuns, como &eacute; o caso do arroz,    o que poderia facilitar sua comercializa&ccedil;&atilde;o, essa din&acirc;mica    de transforma&ccedil;&otilde;es comerciais n&atilde;o foi verificada. Segundo    dados da FAO (2011), apenas 5% da produ&ccedil;&atilde;o mundial arroz foi exportada    ao final da d&eacute;cada de 2000. Um resultado praticamente est&aacute;vel    relativamente aos 3% da d&eacute;cada de 1990. Embora o Brasil ocupe a nona    posi&ccedil;&atilde;o entre os maiores produtores mundiais, o saldo comercial    &eacute; negativo e produz um efeito difuso sobre a cadeia. Dentro da porteira,    manifesta-se de forma preocupante e transp&otilde;e o com&eacute;rcio internacional    como nocivo, ao passo que a ind&uacute;stria n&atilde;o compartilha a mesma    opini&atilde;o [ver Perotti (2000)].</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sob esse prisma,    o decurso da hist&oacute;ria econ&ocirc;mica dos &uacute;ltimos 30 anos foi    perverso com a cadeia produtiva de arroz no Brasil. Um dos maiores desafios    da cadeia, sem d&uacute;vida, foi o processo de abertura da economia e seus    impactos sobre a balan&ccedil;a comercial do cereal. O Brasil, antes exportador    l&iacute;quido do produto, passou a importar pequenas quantidades nos anos 1980,    mas, nos 1990, esse movimento se intensificou. Na d&eacute;cada seguinte, as    importa&ccedil;&otilde;es n&atilde;o recrudesceram por completo, pois alteraram    per&iacute;odos de queda e expans&atilde;o. Depreende-se que muito do comportamento    das importa&ccedil;&otilde;es se deveu, em parte, a problemas clim&aacute;ticos    ou mesmo influenciada pelas mudan&ccedil;as das condi&ccedil;&otilde;es macroecon&ocirc;micas    internacionais.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Primeiramente,    a conclus&atilde;o da transi&ccedil;&atilde;o de zona de livre com&eacute;rcio    para uma uni&atilde;o aduaneira no Mercosul exp&ocirc;s o mercado dom&eacute;stico    &agrave; concorr&ecirc;ncia externa, haja vista a redu&ccedil;&atilde;o das    barreiras tarif&aacute;rias e a elimina&ccedil;&atilde;o de restri&ccedil;&otilde;es    quantitativas das importa&ccedil;&otilde;es de produtos agr&iacute;colas e uma    tarifa externa comum (TEC) para o arroz. De outro lado, a forma&ccedil;&atilde;o    do Mercosul possibilitou um grande volume de com&eacute;rcio criado na Argentina    e Uruguai, ver Nonnenberg e Mendon&ccedil;a (1999). Esse ganho de com&eacute;rcio    explica parcialmente os &uacute;ltimos 10 anos das importa&ccedil;&otilde;es,    quando o bloco respondeu por 90% do volume importado de arroz do Brasil. Entretanto,    outros fatores tornaram-se tamb&eacute;m relevantes como vari&aacute;veis determinantes    da demanda por importa&ccedil;&atilde;o: (i) a estabilidade de pre&ccedil;os    p&oacute;s-Plano Real e seu impacto direto sobre a renda dos consumidores; (ii)    aprecia&ccedil;&atilde;o da taxa de c&acirc;mbio no per&iacute;odo anterior    &agrave; flexibiliza&ccedil;&atilde;o; (iii) eventos clim&aacute;ticos sazonais    e (iv) o avan&ccedil;o da produ&ccedil;&atilde;o nacional via eleva&ccedil;&otilde;es    de produtividade. Assim, tirar conclus&otilde;es dos impactos que essas diferentes    condi&ccedil;&otilde;es do mercado produzem sobre o comportamento da importa&ccedil;&atilde;o    de arroz torna-se uma tarefa complexa.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Apesar da import&acirc;ncia    econ&ocirc;mica e social que desempenha a atividade oriz&iacute;cola no Brasil,    os estudos recentes que se propuseram a verificar os determinantes da demanda    por importa&ccedil;&atilde;o de arroz em casca no Brasil restringem-se a Nonnenberg    e Mendon&ccedil;a (1999), com dados anuais, e Capitani <i>et al</i>. (2011).    Como forma de complementar esses resultados, o presente trabalho tem como objetivo    principal identificar as elasticidades envolvidas na demanda por importa&ccedil;&atilde;o    de arroz e, al&eacute;m disso, avaliar caracter&iacute;sticas c&iacute;clicas    e modelar as mudan&ccedil;as de regime que envolveram essa din&acirc;mica.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esse estudo fornece    duas importantes contribui&ccedil;&otilde;es para o tema. Em primeiro lugar,    &eacute; uma forma de preencher uma lacuna na pesquisa da &aacute;rea no Brasil.    Em segundo, fornecer subs&iacute;dios para que formuladores de pol&iacute;ticas    p&uacute;blicas, investidores e produtores melhor entendam os efeitos de mudan&ccedil;as    no mercado e seus reflexos sobre as importa&ccedil;&otilde;es de arroz. Finalmente,    os resultados encontrados sinalizaram uma rela&ccedil;&atilde;o inversa entre    renda e importa&ccedil;&atilde;o de arroz e uma significativa relev&acirc;ncia    para o pre&ccedil;o dom&eacute;stico. Tamb&eacute;m foi poss&iacute;vel identificar    a presen&ccedil;a de distintos comportamentos entre as importa&ccedil;&otilde;es    de arroz em casca e beneficiado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esse artigo est&aacute;    organizado em seis se&ccedil;&otilde;es, al&eacute;m dessa introdu&ccedil;&atilde;o.    A segunda faz uma revis&atilde;o dos aspectos emp&iacute;ricos sobre demanda    por importa&ccedil;&atilde;o no Brasil. A terceira se&ccedil;&atilde;o destaca    a metodologia utilizada com o modelo te&oacute;rico desenvolvido. A quarta se&ccedil;&atilde;o    re&uacute;ne os resultados da pesquisa e a quinta apresenta a conclus&atilde;o.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. Revis&atilde;o    bibliogr&aacute;fica</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O fundamento te&oacute;rico    da demanda por importa&ccedil;&atilde;o remete &agrave; t&iacute;pica curva    de demanda discutida na microeconomia. Nesse caso, al&eacute;m do pre&ccedil;o    do produto que, no presente artigo &eacute; o arroz, tamb&eacute;m devem ser    consideradas vari&aacute;veis relacionadas &agrave; renda e o pre&ccedil;o do    bem substituto. No primeiro caso, como se trata de uma curva de demanda por    importa&ccedil;&otilde;es, deve-se avaliar a evolu&ccedil;&atilde;o da renda    interna e que pode ser complementada pela medida de Utiliza&ccedil;&atilde;o    da Capacidade Instalada, &uacute;til para medir os movimentos c&iacute;clicos    da renda. No segundo caso, a literatura internacional aponta a necessidade de    incluir, al&eacute;m do pre&ccedil;o do produto no mercado internacional, ver    Capitani <i>et al</i>. (2011), outras duas vari&aacute;veis que podem distorcer    seu valor no mercado interno, a taxa de c&acirc;mbio real e as tarifas de importa&ccedil;&atilde;o.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Diversos artigos    apontam as diferen&ccedil;as no tratamento da formula&ccedil;&atilde;o dos modelos    de demanda, ver Goldstein e Khan (1978), Zini (1988) e Portugal (1993). De forma    geral, considerando-se que o Pa&iacute;s &eacute; pequeno e, dessa forma, n&atilde;o    influencia o pre&ccedil;o do bem no mercado internacional, &eacute; poss&iacute;vel    estimar apenas uma equa&ccedil;&atilde;o de demanda.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na linha de pesquisa    para dados da economia brasileira destacam-se os trabalhos de Dib (1981), Zini    (1988), Portugal (1992), Carvalho e Parente (1999), Carvalho e Negri (2000)    e Morais e Portugal (2005). Contudo, h&aacute; poucos estudos relacionados aos    produtos do agroneg&oacute;cio. Osaki (2003) analisou os determinantes da oferta    e demanda por cebola argentina pelo Brasil, a partir de uma demanda invertida    que revelou a relev&acirc;ncia do pre&ccedil;o de importa&ccedil;&atilde;o na    demanda e que o bem em quest&atilde;o era inferior. Santos e Barros (2006) estimaram    os efeitos da abertura comercial sobre o setor l&aacute;cteo brasileiro e conclu&iacute;ram    que o pre&ccedil;o de importa&ccedil;&atilde;o, renda e taxa de c&acirc;mbio    foram significativos em explicar as importa&ccedil;&otilde;es. Capitani <i>et    al</i>. (2011), com um Modelo Autorregressivo Vetorial (VAR), analisaram a rela&ccedil;&atilde;o    comercial do arroz no Mercosul. Especificamente, propuseram rela&ccedil;&otilde;es    contempor&acirc;neas do excesso de demanda dom&eacute;stica por arroz, do pre&ccedil;o    de importa&ccedil;&atilde;o do Mercosul, do pre&ccedil;o interno, da renda interna    brasileira e taxa de c&acirc;mbio efetiva. Os resultados apontaram para a forte    rela&ccedil;&atilde;o do volume importado de arroz com o pre&ccedil;o dom&eacute;stico,    al&eacute;m da relativa import&acirc;ncia da taxa de c&acirc;mbio entre 1989    e 2008. A <a href="#t1">Tabela 1</a> mostra um resumo dessas diferentes formula&ccedil;&otilde;es    e resultados para as elasticidades.</font></p>     <p align="center"><a name="t1"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src=" /img/revistas/resr/v52n1/10t01.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como se observa,    a maioria dos autores trazidos n&atilde;o abordaram especificamente o cap&iacute;tulo    da Nomenclatura Comum do Mercosul (NCM) que cont&eacute;m o arroz de forma desagregada,    exceto Capitani <i>et al</i>. (2011), que evidenciaram a import&acirc;ncia de    vari&aacute;veis <i>dummy</i> para a estabilidade de seu modelo. Este fato fornece    subs&iacute;dio para novas estima&ccedil;&otilde;es que considerem a instabilidade    dos par&acirc;metros do modelo, assim como uma desagrega&ccedil;&atilde;o a    fim de verificar se os determinantes assumem diferentes comportamentos para    explicar a demanda por arroz em casca e beneficiado.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. Metodologia</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para analisar empiricamente    os determinantes das importa&ccedil;&otilde;es de arroz definiu-se um modelo    de economia pequena e assumiu-se o produto dom&eacute;stico e estrangeiro como    substitutos imperfeitos. Assim, parte-se de um modelo geral do tipo:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s1.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">em que <img src=" /img/revistas/resr/v52n1/10s2.jpg" align="absmiddle">    &eacute; a quantidade importada de arroz; <img src=" /img/revistas/resr/v52n1/10s3.jpg" align="absmiddle">    = Pre&ccedil;o dom&eacute;stico do arroz; <img src=" /img/revistas/resr/v52n1/10s4.jpg" align="absmiddle">    = Pre&ccedil;o externo de importa&ccedil;&atilde;o; <img src=" /img/revistas/resr/v52n1/10s5.jpg" align="absmiddle">    = Produ&ccedil;&atilde;o Industrial F&iacute;sica de arroz beneficiado; <img src=" /img/revistas/resr/v52n1/10s6.jpg" align="absmiddle">    = vari&aacute;vel que representa a renda e os coeficientes </font><font  size="2">&#946;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>j</sub>    medem as elasticidades de <img src=" /img/revistas/resr/v52n1/10s7.jpg" align="absmiddle">    com rela&ccedil;&atilde;o &agrave;s vari&aacute;veis, e <i>i</i> pode ser o    arroz em casca, beneficiado ou total. Se aplicado o log na equa&ccedil;&atilde;o    1 tem-se:</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s8.jpg" align="absmiddle"></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">em que </font><font  size="2">&#945;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    = ln</font><font  size="2">&#946;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>0</sub>,    </font><font  size="2">&#949;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>it</sub>    ~ <i>NID</i>(o,</font><font  size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>2</sup>).    Os sinais para as elasticidades das vari&aacute;veis de acordo com a teoria    econ&ocirc;mica, podem ser observados no <a href="#q1">Quadro 1</a>, a seguir.</font></p>     <p align="center"><a name="q1"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><a href=" /img/revistas/resr/v52n1/10q01.jpg"><img src=" /img/revistas/resr/v52n1/10q01thumb.jpg" border="0"></a>    <br>   <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href=" /img/revistas/resr/v52n1/10q01.jpg">Quadro    1 - Clique para ampliar</a></font> </p>     <p align="center">&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Apesar de a rela&ccedil;&atilde;o    de longo prazo fornecer resultados interessantes para a interpreta&ccedil;&atilde;o    das elasticidades, &eacute; importante destacar que essa formula&ccedil;&atilde;o    n&atilde;o capta os movimentos no ajuste de curto prazo, nem mesmo lan&ccedil;a    luz sobre a rela&ccedil;&atilde;o de longo prazo que possa existir entre as    vari&aacute;veis. A literatura revisada acerca da exist&ecirc;ncia de raiz unit&aacute;ria    em algumas das vari&aacute;veis em quest&atilde;o faz com que boa parte das    conclus&otilde;es seja afetada por uma tend&ecirc;ncia estoc&aacute;stica. Johansen    (1988) sugeriu uma formula&ccedil;&atilde;o que represente a cointegra&ccedil;&atilde;o    das vari&aacute;veis abrindo caminho para o uso de um modelo de Mecanismo de    Corre&ccedil;&atilde;o de Erros (MEC) com a incorpora&ccedil;&atilde;o de uma    vari&aacute;vel latente para diferentes regimes a partir de Krolzig (1998).    Diante da presen&ccedil;a de n&atilde;o linearidade, a equa&ccedil;&atilde;o    2 passaria a ser expressa pela equa&ccedil;&atilde;o 3, preservando as informa&ccedil;&otilde;es    de curto e longo prazo em <img src=" /img/revistas/resr/v52n1/10s9.jpg" align="absmiddle">.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s10.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">em que </font><font  size="2">&#8710;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    denota o operador de primeira diferen&ccedil;a; <img src=" /img/revistas/resr/v52n1/10s11.jpg" align="absmiddle">    representa a constante sujeita aos movimentos da vari&aacute;vel de regime n&atilde;o    observada e estoc&aacute;stica <img src=" /img/revistas/resr/v52n1/10s12.jpg" align="absmiddle">;    <img src=" /img/revistas/resr/v52n1/10s13.jpg" align="absmiddle"> &eacute; o    par&acirc;metro de ajuste do modelo de longo prazo e </font><font  size="2">&#8710;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>z</i><sub>t-1</sub>    &eacute; a primeira diferen&ccedil;a das vari&aacute;veis independentes. Assim,    <img src=" /img/revistas/resr/v52n1/10s14.jpg" align="absmiddle"> &eacute; o    erro aleat&oacute;rio e representa os res&iacute;duos gaussianos tamb&eacute;m    governados pela vari&aacute;vel de regime, definida pelas probabilidades de    transi&ccedil;&atilde;o entre os estados, <img src=" /img/revistas/resr/v52n1/10s15.jpg" align="absmiddle">    com <img src=" /img/revistas/resr/v52n1/10s16.jpg" align="absmiddle">. Para    uma discuss&atilde;o sobre modelos de mudan&ccedil;a de regime, ver Hamilton    (1989); para aplica&ccedil;&otilde;es do tipo MS-VEC, ver Krolzig (1996, 1998)    e, aplicado a s&eacute;ries brasileiras, Morais (2003), Morais e Portugal (2005)    e Morais <i>et al</i>. (2010).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Destaca-se que    a estima&ccedil;&atilde;o da equa&ccedil;&atilde;o 3 permite que se possam fazer    diferentes investiga&ccedil;&otilde;es sobre o impacto entre as vari&aacute;veis;    por&eacute;m, h&aacute; diversas quest&otilde;es espec&iacute;ficas relacionadas    ao comportamento dos dados que devem ser consideradas, como por exemplo, a n&atilde;o    linearidade de s&eacute;ries temporais causada por quebras estruturais, que    violam a hip&oacute;tese de estacionaridade e normalidade. Nesse caso, &eacute;    muito comum o uso de vari&aacute;veis <i>dummy</i> para contornar essas quest&otilde;es,    sendo que poucos trabalhos aplicam t&eacute;cnicas alternativas, como por exemplo,    a mudan&ccedil;a de regime markoviano (MS). Este caracteriza as altera&ccedil;&otilde;es    como sendo end&oacute;genas e s&atilde;o captadas pelo pr&oacute;prio modelo.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>3.1. Bases de    dados</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o caso das    vari&aacute;veis dependentes, as s&eacute;ries referentes &agrave;s importa&ccedil;&otilde;es    de arroz pelo Brasil foram coletadas para quantidades (em toneladas) e valores    (US$ FOB) via sistema Alice da Secex/MDIC, correspondendo ao cap&iacute;tulo    10, posi&ccedil;&atilde;o 6 do Sistema Harmonizado de Designa&ccedil;&atilde;o    e de Codifica&ccedil;&atilde;o de Mercadorias (SH), na totalidade dos subgrupos    10 (para arroz em casca) e 20 (beneficiado).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Relativo &agrave;s    vari&aacute;veis independentes, <i>ind</i> refere-se &agrave; produ&ccedil;&atilde;o    industrial de arroz beneficiado, medida pela pesquisa industrial mensal de produ&ccedil;&atilde;o    f&iacute;sica (IBGE/PIM-PF). Para o pre&ccedil;o dom&eacute;stico do arroz foram    coletadas s&eacute;ries com fontes distintas. As s&eacute;ries de arroz em casca    foram obtidas junto &agrave; Secretaria da Agricultura e do Abastecimento do    Estado do Paran&aacute;, Departamento de Economia Rural (Seab-PR) e no Instituto    Riograndense do Arroz (IRGA), ambas referentes &agrave; saca de 50 kg do pre&ccedil;o    pago ao produtor. A s&eacute;rie referente ao pre&ccedil;o m&eacute;dio pago    pelo quilo (kg) ao produtor foi obtida na Funda&ccedil;&atilde;o Get&uacute;lio    Vargas (FGV). Para o arroz beneficiado, as op&ccedil;&otilde;es de s&eacute;ries    tiveram as mesmas fontes; por&eacute;m, os pre&ccedil;os eram referentes ao    pre&ccedil;o m&eacute;dio pago pelo fardo de 30 kg de arroz beneficiado no atacado.    Os valores expressos em reais foram deflacionados pelo &Iacute;ndice Nacional    de Pre&ccedil;os ao Consumidor Amplo (IPCA), referente a agosto de 2010.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A s&eacute;rie    do c&acirc;mbio &eacute; o &iacute;ndice da taxa de c&acirc;mbio efetiva real    para o setor da agropecu&aacute;ria, mensurada pelo Instituto de Pesquisa Econ&ocirc;mica    Aplicada (IPEA). Para a vari&aacute;vel renda, tr&ecirc;s s&eacute;ries foram    selecionadas. Uma refere-se ao Produto Interno Bruto medido a pre&ccedil;os    de mercado pelo &iacute;ndice encadeado, coletada no Banco Central do Brasil    (BCB). As duas outras se referem ao sal&aacute;rio real da ind&uacute;stria,    bem como a m&eacute;dia salarial na ind&uacute;stria paulista, obtida na Federa&ccedil;&atilde;o    das Ind&uacute;strias de S&atilde;o Paulo (FIESP).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para a vari&aacute;vel    que representa o pre&ccedil;o de importa&ccedil;&atilde;o, foram selecionadas    cinco diferentes s&eacute;ries - todas foram convertidas para moeda dom&eacute;stica    pela taxa de c&acirc;mbio efetiva real da agropecu&aacute;ria. Uma dessas foi    estimada por meio dos dados de importa&ccedil;&atilde;o via Alice Secex/MDIC,    conforme especificado por Leamer e Stern (1970), que sugere o conceito de valor    m&eacute;dio de importa&ccedil;&atilde;o (quociente entre a quantidade e o valor    do bem importado). Tamb&eacute;m foram usadas s&eacute;ries referentes ao pre&ccedil;o    da tonelada de arroz em casca na Argentina, na Tail&acirc;ndia, o pre&ccedil;o-conv&ecirc;nio    da saca do arroz no Uruguai e o pre&ccedil;o pago ao produtor americano.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Todas as s&eacute;ries    s&atilde;o mensais com in&iacute;cio em janeiro de 1995 a junho de 2010, exceto    o pre&ccedil;o do arroz beneficiado fornecido pelo IRGA, que data de janeiro    de 1997 a junho de 2010. Tratamentos adicionais foram feitos aos dados, como    a constru&ccedil;&atilde;o de n&uacute;mero &iacute;ndice com todas na mesma    base (m&eacute;dia 2002 = 100), bem como aplicado o logaritmo.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. Resultados</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esta se&ccedil;&atilde;o    &eacute; dividida em tr&ecirc;s partes. Em um primeiro momento, apresentam-se    as vari&aacute;veis envolvidas e suas caracter&iacute;sticas. Posteriormente,    abordam-se os resultados para os modelos lineares de curto e longo prazo. Optou-se    tamb&eacute;m por estimativas com dados mensais e trimestrais e foi feita a    investiga&ccedil;&atilde;o de aspectos da sazonalidade e presen&ccedil;a de    <i>outliers</i>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>4.1. Caracter&iacute;sticas    dos dados</i></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A demanda por importa&ccedil;&atilde;o    de arroz foi avaliada a partir da quantidade classificada como casca e tamb&eacute;m    para o arroz beneficiado. Tal como os estudos caracter&iacute;sticos de demanda,    usou-se a renda, pre&ccedil;o dom&eacute;stico, pre&ccedil;o externo e a capacidade    instalada como vari&aacute;veis independentes [ver Braga e Markwald (1983),    Zini (1988), Portugal (1992), Carvalho e Negri (2000), Morais e Portugal (2005)    e Santos e Barros (2006) para aplica&ccedil;&otilde;es a outros bens].</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Algumas das vari&aacute;veis    envolvidas s&atilde;o comuns entre os modelos estimados, como por exemplo, a    produ&ccedil;&atilde;o industrial de arroz, a renda e os pre&ccedil;os internacionais.    Verificou-se que os pre&ccedil;os internacionais apresentam pelo menos duas    fases distintas. Um primeiro momento, marcado por pre&ccedil;os declinantes    at&eacute; o final de 2001 e interrompido por uma longa tend&ecirc;ncia altista.    Essa foi revertida somente no segundo trimestre de 2008 por conta dos efeitos    da crise financeira internacional. Tal revers&atilde;o do comportamento dos    pre&ccedil;os se deu concomitante ao in&iacute;cio da crise <i>subprime</i>    e n&atilde;o se limitou apenas ao arroz, tendo se estendido a outras commodities    agr&iacute;colas. N&atilde;o h&aacute; clareza na literatura sobre as causas    da eleva&ccedil;&atilde;o dos pre&ccedil;os entre 2002 e 2008, mas depreende-se    que a alta do pre&ccedil;o dos produtos agr&iacute;colas assenta-se em fatores    que, em grande parte, foram globais e de natureza macroecon&ocirc;mica [para    mais detalhes acerca desses aspectos ver Good e Irwin (2008), Irwin <i>et al</i>.    (2009) e Frankel e Rose (2009)].</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os pre&ccedil;os    de importa&ccedil;&atilde;o do cereal praticados pelo Brasil parecem ter seguido    de perto a tend&ecirc;ncia internacional, conforme mostra a <a href=" /img/revistas/resr/v52n1/10f01.jpg">Figura    1</a>. Para a quantidade de arroz em casca se percebe uma tend&ecirc;ncia de    queda no volume importado entre 1998 e 2003 acompanhado do aumento dos pre&ccedil;os.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para a cadeia produtiva    nacional, o per&iacute;odo abrange importantes acontecimentos, como o aumento    da concentra&ccedil;&atilde;o da ind&uacute;stria de beneficiamento ga&uacute;cha    e a expans&atilde;o do processamento na dire&ccedil;&atilde;o dos grandes centros    consumidores brasileiros. Compreende ainda uma fase de pre&ccedil;os hist&oacute;ricos    em alta at&eacute; o terceiro trimestre de 2008. Al&eacute;m disso, a queda    do volume importado pode estar atrelada &agrave; acelera&ccedil;&atilde;o da    produ&ccedil;&atilde;o na d&eacute;cada de 2000 e &agrave; diversifica&ccedil;&atilde;o    das exporta&ccedil;&otilde;es uruguaias, fatores que em parte ajudam a explicar    esse fen&ocirc;meno.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De outro lado,    as importa&ccedil;&otilde;es brasileiras de arroz beneficiado oscilaram bastante,    ver <a href="#f2">Figura 2</a>. A expans&atilde;o recente aconteceu concomitante    &agrave; internacionaliza&ccedil;&atilde;o de algumas ind&uacute;strias brasileiras    do setor de alimentos, mais especificamente pela aquisi&ccedil;&atilde;o de    engenhos na Am&eacute;rica do Sul<a name="top1"></a><a href="#back1"><sup>1</sup></a>.    Fica evidente tamb&eacute;m que os pre&ccedil;os de importa&ccedil;&atilde;o    do arroz beneficiado seguiram a mesma tend&ecirc;ncia de alta verifica no arroz    em casca.</font></p>     <p align="center"><a name="f2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src=" /img/revistas/resr/v52n1/10f02.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vale ressaltar    a rela&ccedil;&atilde;o das importa&ccedil;&otilde;es brasileiras de arroz com    as idiossincrasias da condu&ccedil;&atilde;o das pol&iacute;ticas na economia    brasileira e internacional, bem como com problemas clim&aacute;ticos (excesso    ou stress h&iacute;drico). Conforme proposto por Bry e Boschan (1971), a cronologia<a name="top2"></a><a href="#back2"><sup>2</sup></a>    das importa&ccedil;&otilde;es de arroz beneficiado e em casca, <a href="#f2">Figura    2</a> e <a href=" /img/revistas/resr/v52n1/10t02.jpg">Tabela 2</a>, ressalta    quatro e cinco ciclos expansivos, respectivamente. A literatura<a name="top3"></a><a href="#back3"><sup>3</sup></a>    aponta uma s&eacute;rie de fatores que podem explicar a magnitude desse e dos    demais ciclos de importa&ccedil;&otilde;es de arroz que coincidem com fen&ocirc;menos    ligados a mudan&ccedil;as das condi&ccedil;&otilde;es do cen&aacute;rio fundamental    desse mercado e, tamb&eacute;m, a altera&ccedil;&otilde;es conjunturais das    economias brasileira e mundial.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O primeiro deles    &eacute; praticamente comum para ambos os tipos de arroz, al&eacute;m de mais    longo, com dura&ccedil;&atilde;o de 36 meses. O per&iacute;odo que compreende    o ciclo 1 &eacute; concomitante a tr&ecirc;s importantes eventos sob a &oacute;tica    da cadeia oriz&iacute;cola brasileira: (i) o per&iacute;odo abarca o implementa&ccedil;&atilde;o    da Uni&atilde;o Aduaneira do Mercosul; (ii) tal vantagem tarif&aacute;ria do    arroz do Mercosul acontece junto a um Real valorizado, influenciando a forma&ccedil;&atilde;o    do pre&ccedil;o interno brasileiro e a concorr&ecirc;ncia intrabloco; e, por    fim, (iii) esse per&iacute;odo compreende uma das maiores estiagens da regi&atilde;o    Sul, que resultou em queda de 11% da produ&ccedil;&atilde;o nacional. Esse ciclo,    em ambos os casos, se encerra pr&oacute;ximo &agrave; desvaloriza&ccedil;&atilde;o    cambial vivenciada em 1999.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os ciclos do arroz    em casca apresentam magnitudes equilibradas entre si, por&eacute;m, exibem uma    m&eacute;dia (17,2 meses) inferior &agrave; extens&atilde;o dos ciclos verificados    para o arroz beneficiado. Um importante motivo para ajudar a explicar o curto    segundo ciclo de expans&atilde;o assenta-se na estiagem que causou quebras na    safra 2000/01.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O terceiro ciclo    iniciou-se em outubro de 2002 e estendeu-se at&eacute; setembro de 2003, perfazendo    11 meses. Dois fatores s&atilde;o importantes para ajudar a explicar esse per&iacute;odo:    (i) esse intervalo engloba problemas referentes &agrave; estiagem da safra 2002/03    e decorrentes do fen&ocirc;meno <i>El ni&ntilde;o</i>; (ii) &eacute; concomitante    a um per&iacute;odo de pre&ccedil;os internacionais baixos. A <a href="#f2">Figura    2</a> mostra a evolu&ccedil;&atilde;o da importa&ccedil;&atilde;o de arroz e    esses respectivos momentos expansivos, caracterizados pelas barras de cor cinza.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No quarto ciclo,    a dist&acirc;ncia entre o vale e o pico &eacute; relativamente longa, 24 meses,    com in&iacute;cio em 2006: fev e indo at&eacute; 2008: fev. Nota-se que o come&ccedil;o    do ciclo contempla a estiagem que afetou a safra 2005/06 e seu final coincide    com o in&iacute;cio da colheita brasileira da safra 2007/08. Por fim, o quinto    ciclo, com dura&ccedil;&atilde;o de nove meses apenas, pode estar associado    ao per&iacute;odo em que o Brasil retomou as exporta&ccedil;&otilde;es de arroz    quebrado e beneficiado para o exterior, especificamente no com&eacute;rcio com    pa&iacute;ses da &Aacute;frica e Oriente M&eacute;dio.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No caso do arroz    beneficiado, o segundo ciclo (2001: mai a 2001: out) &eacute; o mais curto e    pode estar ligado &agrave; retra&ccedil;&atilde;o da produ&ccedil;&atilde;o    nacional (-9%) da safra 2000/01 em fun&ccedil;&atilde;o de adversidades clim&aacute;ticas.    O terceiro ciclo, que vai de agosto de 2002 a fevereiro de 2004, com dura&ccedil;&atilde;o    m&eacute;dia de 18 meses, coincide igualmente com problemas referentes a uma    estiagem<a name="top4"></a><a href="#back4"><sup>4</sup></a> de escala internacional    na safra 2002/03 decorrente do fen&ocirc;meno <i>El ni&ntilde;o</i> (que restringiram    a oferta de produto verde no Brasil, China e &Iacute;ndia). A fim de garantir    o suprimento interno, a C&acirc;mara de Com&eacute;rcio Exterior (Camex) isentou    de tarifas o arroz beneficiado entre junho de 2001 e dezembro de 2002 [resolu&ccedil;&otilde;es    n. 16, n. 27, n. 42 de 2001 e n. 34 de 2002], ao passo que entre outubro e dezembro    de 2003, a tarifa para o arroz foi mantida reduzida pela Camex na casa de 4%    [resolu&ccedil;&atilde;o n. 25 de 2003]. Vale ressaltar que esse per&iacute;odo    foi marcado por pre&ccedil;os internacionais declinantes. O incentivo &agrave;s    importa&ccedil;&otilde;es via redu&ccedil;&atilde;o de pre&ccedil;os externos    pode ter sido em parte, atenuado pela desvaloriza&ccedil;&atilde;o do Real ao    longo do per&iacute;odo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O quarto e &uacute;ltimo    ciclo &eacute; relativamente longo, com 25 meses, e compreende altera&ccedil;&otilde;es    tribut&aacute;rias no Brasil<a name="top5"></a><a href="#back5"><sup>5</sup></a>    importantes para a cadeia do arroz, bem como uma tend&ecirc;ncia de valoriza&ccedil;&atilde;o    do Real e de aquisi&ccedil;&otilde;es de empresas de processamento de arroz    na Am&eacute;rica do Sul por ind&uacute;strias brasileiras. Ainda, o per&iacute;odo    engloba duas estiagens que afetaram as safras 2004/05 e 2005/06, ao passo que    &eacute; um per&iacute;odo de pre&ccedil;os internos elevados. Finalmente, o    pico (junho de 2007) e a posterior fase de retra&ccedil;&atilde;o das importa&ccedil;&otilde;es    s&atilde;o coincidentes com um per&iacute;odo de queda do com&eacute;rcio internacional    em fun&ccedil;&atilde;o da crise do subprime e forte eleva&ccedil;&atilde;o    dos pre&ccedil;os do cereal no mercado interno e externo. Em novembro de 2008,    h&aacute; um vale que corresponde ao per&iacute;odo marcado pela exaust&atilde;o    da alta dos pre&ccedil;os das commodities, acompanhado de um excesso de chuvas    na regi&atilde;o Sul (que prejudicou a safra 2009/10) concomitante &agrave;    retomada da valoriza&ccedil;&atilde;o do Real frente ao d&oacute;lar.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quanto aos pre&ccedil;os    dom&eacute;sticos, &eacute; poss&iacute;vel identificar mudan&ccedil;as de comportamento    (na m&eacute;dia) nas s&eacute;ries (<a href=" /img/revistas/resr/v52n1/10f01.jpg">Figura    1</a>). As s&eacute;ries de arroz beneficiado e casca exibem comportamento semelhante    aos pre&ccedil;os internacionais, bem como entre si. Contudo, diferente dos    pre&ccedil;os internacionais, o pico dos pre&ccedil;os reais da saca de arroz    em casca e do fardo de arroz beneficiado &eacute; anterior e compreende o per&iacute;odo    que vai do &uacute;ltimo trimestre de 2003 ao primeiro trimestre de 2004.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por fim, as vari&aacute;veis    em quest&atilde;o parecem exibir algumas caracter&iacute;sticas. Por exemplo,    no caso da tend&ecirc;ncia verificada na renda, a literatura salienta que esse    resultado pode viesar as estimativas. Ainda, em segundo lugar, &eacute; poss&iacute;vel    que se tenham quebras estruturais que podem ter ocorrido tanto no n&iacute;vel    quanto na tend&ecirc;ncia das s&eacute;ries. Assim, na investiga&ccedil;&atilde;o    sobre a estacionaridade das vari&aacute;veis do modelo, diversos testes de raiz    unit&aacute;ria foram feitos para os dados mensais e trimestrais, como <i>Augmented    Dickey-Fuller</i> (ADF) e NG-Perron [ver Ng e Perron (2001)]. A fim de evitar    resultados esp&uacute;rios no teste de raiz unit&aacute;ria tamb&eacute;m foi    utilizada a proposta de Perron (1997), que considera a hip&oacute;tese nula    de raiz unit&aacute;ria e quebra estrutural na s&eacute;rie determinada endogenamente    [para detalhamento, ver Perron (1989, 1997)]. De forma geral, as s&eacute;ries    utilizadas nas equa&ccedil;&otilde;es sinalizaram para a n&atilde;o estacionaridade    em n&iacute;vel, mas estacion&aacute;rias quando em primeira diferen&ccedil;a.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>4.2. Modelos    mensais</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nesta subse&ccedil;&atilde;o,    as estimativas de modelos lineares<a name="top6"></a><a href="#back6"><sup>6</sup></a>    foram feitas com dados mensais<a name="top7"></a><a href="#back7"><sup>7</sup></a>    seguindo a equa&ccedil;&atilde;o 2. Embora a discuss&atilde;o referente ao longo    prazo<a name="top8"></a><a href="#back8"><sup>8</sup></a> revele padr&otilde;es    importantes, o artigo presa pela discuss&atilde;o dos resultados apontados pelo    Mecanismo de Corre&ccedil;&atilde;o de Erros, que capta tanto as informa&ccedil;&otilde;es    de curto quanto de longo prazo. Nesse caso, &eacute; feita uma compara&ccedil;&atilde;o    entre os resultados do MCE linear e com mudan&ccedil;a de regime.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como primeiro passo    &eacute; importante investigar a exist&ecirc;ncia, ou n&atilde;o, de raiz unit&aacute;ria,    aqui sinalizando que as mesmas s&atilde;o I(1) em n&iacute;vel. A seguir, &eacute;    aplicado o teste de cointegra&ccedil;&atilde;o de Johansen(1988), confirmando    a exist&ecirc;ncia de um vetor de cointegra&ccedil;&atilde;o<a name="top9"></a><a href="#back9"><sup>9</sup></a>    e o teste de Gregory e Hansen (1996) para identificar a presen&ccedil;a de quebra    estrutural no vetor de cointegra&ccedil;&atilde;o. Esse sinaliza para a constru&ccedil;&atilde;o    de um modelo mais completo, que preserve as rela&ccedil;&otilde;es de curto    e longo prazo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A equa&ccedil;&atilde;o    4 representa o melhor ajuste de curto prazo para as importa&ccedil;&otilde;es    de arroz em casca. O par&acirc;metro que sinaliza a velocidade de corre&ccedil;&atilde;o    dos desequil&iacute;brios no longo prazo, dada por <img src=" /img/revistas/resr/v52n1/10s42.jpg">,    exibe um ajuste relativamente lento, ou seja, 18% dos desequil&iacute;brios    s&atilde;o compensados a cada m&ecirc;s. Segundo Carvalho e Parente (1999),    para bens n&atilde;o dur&aacute;veis o ajuste seria mais significativo, de 28%.    Todos os par&acirc;metros foram estatisticamente significativos, exceto aquele    ligado &agrave; renda<a name="top10"></a><a href="#back10"><sup>10</sup></a>.    Ressalta-se que o ajuste das importa&ccedil;&otilde;es a varia&ccedil;&otilde;es    positivas no pre&ccedil;o internacional no m&ecirc;s anterior n&atilde;o s&atilde;o    compensados no per&iacute;odo. O sinal do par&acirc;metro relacionado &agrave;    cria&ccedil;&atilde;o do Mercosul mostra os sinais do arrefecimento da importa&ccedil;&atilde;o,    bem como o reflexo do aumento da produ&ccedil;&atilde;o dom&eacute;stica de    arroz quando destinado para beneficiamento.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s17.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O teste LR aplicado    para arroz em casca indica que o modelo testado apontou caracter&iacute;sticas    n&atilde;o lineares, <img src=" /img/revistas/resr/v52n1/10s18.jpg" align="absmiddle">    = 48,305. Conforme Krolzig (1996, 1998), o primeiro passo para a determina&ccedil;&atilde;o    do modelo n&atilde;o linear &eacute; especificar o n&uacute;mero de regimes    que governa os dados. Por&eacute;m, a vari&aacute;vel de estado &eacute; desconhecida,    o que dificulta determinar, a priori, o n&uacute;mero de regimes. Nesse sentido,    foram estimados diversos modelos da forma MS(<i>k</i>)-VEC(1), em que <i>k=</i>2,3    &eacute; o n&uacute;mero de regimes e supondo mudan&ccedil;a de regime na m&eacute;dia,    no intercepto, no componente autorregressivo e tamb&eacute;m na vari&acirc;ncia.    Os crit&eacute;rios de compara&ccedil;&atilde;o, como Akaike, Hanna-Quinn e    Schwarz, foram usados para comparar os resultados entre os modelos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A melhor formula&ccedil;&atilde;o    &eacute; a mostrada na equa&ccedil;&atilde;o 5, com mudan&ccedil;a na m&eacute;dia    e vari&acirc;ncia e tr&ecirc;s regimes, que podem ser classificadas em: regime    1 (queda na importa&ccedil;&atilde;o de arroz), regime 2 (estabilidade) e regime    3 (expans&atilde;o na importa&ccedil;&atilde;o de arroz). Para o modelo n&atilde;o    linear MSMH(3)-VEC(1), os resultados contrastam, pelo menos em parte, quando    comparados ao modelo linear, equa&ccedil;&atilde;o 4. Conforme pode ser visto,    todos os par&acirc;metros foram significativos a 1%, exceto a m&eacute;dia relativa    ao regime 1, caracterizado pela "retra&ccedil;&atilde;o" da demanda.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s19.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O ajuste de curto    prazo para o arroz em casca recuou da compensa&ccedil;&atilde;o de 18% dos desequil&iacute;brios    a cada m&ecirc;s no modelo linear para 13% na equa&ccedil;&atilde;o 5. Ressalta-se    o ajustamento da demanda frente a flutua&ccedil;&otilde;es dos pre&ccedil;os    no mercado dom&eacute;stico. Nesse caso, o sinal da elasticidade-pre&ccedil;o    da demanda sugere que os desequil&iacute;brios do m&ecirc;s anterior s&atilde;o    compensados no per&iacute;odo. J&aacute; o sinal positivo da elasticidade-pre&ccedil;o    de importa&ccedil;&atilde;o, embora atenuado, vai ao encontro do modelo linear    ao ressaltar a defasagem da corre&ccedil;&atilde;o a varia&ccedil;&otilde;es    positivas do pre&ccedil;o no per&iacute;odo anterior.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Relativo &agrave;    atividade da ind&uacute;stria, destaca-se que a eleva&ccedil;&atilde;o do beneficiamento    n&atilde;o tem impactos significativos na importa&ccedil;&atilde;o de mat&eacute;ria-prima.    A renda, por sua vez, mostra maior influ&ecirc;ncia sobre as importa&ccedil;&otilde;es    com um per&iacute;odo de defasagem.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As estimativas    das probabilidades de transi&ccedil;&atilde;o da matriz em 6, sinalizam as poss&iacute;veis    mudan&ccedil;as que podem ocorrer entre os regimes. Assim, a probabilidade de    se estar em um regime de queda das importa&ccedil;&otilde;es de arroz em casca    (regime 1) e nele permanecer, dado por <i>p</i><sub>11</sub> = 0,38, &eacute;    menor do que a probabilidade de se estar em um regime de estabilidade da demanda    e nele permanecer, <i>p</i><sub>22</sub> = 0,52. &Eacute; importante ressaltar    que a probabilidade de se estar e continuar em um estado de expans&atilde;o    de demanda &eacute; menor (<i>p</i><sub>33</sub> = 0,31) e tende ao equil&iacute;brio    (<i>p</i><sub>32</sub> = 0,68). No caso do regime 3, a taxa m&eacute;dia de    expans&atilde;o da importa&ccedil;&atilde;o de arroz em casca atinge 0,33% ao    m&ecirc;s.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por fim, a dura&ccedil;&atilde;o    m&eacute;dia dos regimes de queda da demanda (1,63 m&ecirc;s) por arroz em casca    &eacute; superior &agrave;s expans&otilde;es (1,46 m&ecirc;s), ao passo que    per&iacute;odos de estabilidade s&atilde;o mais longos, 2,10 meses. O per&iacute;odo    mais longo das expans&otilde;es (regime 3) n&atilde;o ultrapassou tr&ecirc;s    meses consecutivos, ao passo que a estabilidade da demanda (regime 2) chegou    a oito meses consecutivos.</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s20.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">J&aacute; os resultados    para o arroz beneficiado s&atilde;o relativamente distintos dos alcan&ccedil;ados    no arroz em casca, a come&ccedil;ar pelo modelo mensal de longo prazo de arroz    beneficiado. A elasticidade relativa &agrave; renda, produ&ccedil;&atilde;o    industrial e o intercepto n&atilde;o mostram signific&acirc;ncia estat&iacute;stica    apesar de os sinais estarem de acordo com a teoria. O coeficiente relacionado    ao pre&ccedil;o dom&eacute;stico sinalizou que as importa&ccedil;&otilde;es    s&atilde;o mais sens&iacute;veis a varia&ccedil;&otilde;es internas de pre&ccedil;o    no arroz beneficiado do que varia&ccedil;&otilde;es do pre&ccedil;o internacional.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O teste de Johansen    evidencia a exist&ecirc;ncia de pelo menos um vetor de cointegra&ccedil;&atilde;o<a name="top11"></a><a href="#back11"><sup>11</sup></a>,    sinalizando para a maior sensibilidade dos volumes importados de arroz beneficiado    em rela&ccedil;&atilde;o a varia&ccedil;&otilde;es do <i>quantum</i> produzido    e &agrave; renda. O resultado para o teste de Gregory e Hansen (1996) n&atilde;o    foi como o esperado para esse modelo, pois n&atilde;o foi poss&iacute;vel rejeitar    a hip&oacute;tese nula de aus&ecirc;ncia de cointegra&ccedil;&atilde;o. De qualquer    forma, os resultados para MCE na equa&ccedil;&atilde;o 7 mostram um ajuste de    curto prazo relativamente maior que o encontrado para o arroz em casca, cerca    de 30% dos desequil&iacute;brios s&atilde;o compensados a cada m&ecirc;s. Ressalta-se,    nesse caso, tamb&eacute;m o ajustamento da demanda frente a flutua&ccedil;&otilde;es    dos pre&ccedil;os internacionais e que segue o mesmo padr&atilde;o identificado    para a demanda por arroz em casca, em que varia&ccedil;&otilde;es positivas    no m&ecirc;s anterior n&atilde;o s&atilde;o compensadas no per&iacute;odo seguinte.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s21.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O teste LR revelou    a n&atilde;o linearidade do sistema <img src=" /img/revistas/resr/v52n1/10s22.jpg" align="absmiddle">    = 24,691, assim, a compara&ccedil;&atilde;o entre diferentes modelos com mudan&ccedil;a    de regime permite selecionar <i>k</i>=<i>3</i> em MSIH(3)-VEC(1)<a name="top12"></a><a href="#back12"><sup>12</sup></a>,    com mudan&ccedil;a de regime no intercepto e vari&acirc;ncia. De acordo com    os resultados da equa&ccedil;&atilde;o 8, o ajuste de curto prazo &eacute; inferior    ao modelo linear, em que 16% dos desequil&iacute;brios foram compensados a cada    m&ecirc;s. As vari&aacute;veis relativas aos estados apresentaram-se significativas,    ao passo que a produ&ccedil;&atilde;o da ind&uacute;stria, renda e pre&ccedil;o    dom&eacute;stico n&atilde;o o foram. Como no caso do arroz em casca, ajustes    a varia&ccedil;&otilde;es positivas nos pre&ccedil;os internacionais no m&ecirc;s    anterior s&atilde;o mais lentamente compensados no per&iacute;odo - resultado    que tamb&eacute;m foi encontrado para o modelo linear. O sinal do par&acirc;metro    relacionado ao pre&ccedil;o dom&eacute;stico significa que eleva&ccedil;&otilde;es    dos pre&ccedil;os estimular&atilde;o as importa&ccedil;&otilde;es no per&iacute;odo    seguinte.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s23.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As probabilidades    de transi&ccedil;&atilde;o mostradas em 9, sinalizam que estar em um regime    de queda na demanda e nele permanecer, com <i>p</i><sub>11</sub> = 0,47, foi    inferior &agrave; probabilidade de se estar em um regime de estabilidade (regime    2) da demanda e nele permanecer, <i>p</i><sub>22</sub> = 0,82. Contudo, para    estados de expans&atilde;o mais significativa da demanda, a probabilidade recua    para <i>p</i><sub>33</sub> = 0,27.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s24.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De fato, os per&iacute;odos    de estabilidade da demanda s&atilde;o mais longos (5,68 meses) que per&iacute;odos    de contra&ccedil;&atilde;o (1,91 m&ecirc;s). O per&iacute;odo mais longo de    expans&otilde;es (regime 3) n&atilde;o ultrapassa dois meses consecutivos, ao    passo que as quedas na demanda (regime 1) chegaram a seis meses consecutivos,    com destaque para os meses de fevereiro a julho de 2008. Al&eacute;m disso,    per&iacute;odos de estabilidade (regime 2) s&atilde;o mais frequentes, al&eacute;m    de mais longos. Nesse caso, entre junho de 2005 e dezembro de 2006, foram registrados    18 meses consecutivos de estabilidade. Chama-se a aten&ccedil;&atilde;o para    o per&iacute;odo onde vigoraram as resolu&ccedil;&otilde;es n. 16, 17 e 42 de    2001 e n. 34 de 2002 [ver Camex (2001, 2002)] que reduziram as tarifas mediante    o risco de desabastecimento. Durante os 10 primeiros meses observa-se intensifica&ccedil;&atilde;o    das importa&ccedil;&otilde;es (passagem do regime 2, entre junho e agosto de    2001, para o regime 3), enquanto na vig&ecirc;ncia da resolu&ccedil;&atilde;o    n. 25 de 2003 predomina a ocorr&ecirc;ncia do regime 2.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os modelos mensais    de longo prazo salientaram maior import&acirc;ncia de vari&aacute;veis como    a renda e pre&ccedil;o dom&eacute;stico para o arroz em casca, ao passo que    para o arroz beneficiado os coeficientes dos par&acirc;metros associados &agrave;s    vari&aacute;veis foram inferiores &agrave; unidade. J&aacute; o MCE forneceu    informa&ccedil;&otilde;es importantes, pois ajustes da quantidade importada    de arroz, em casca e beneficiado, ressaltaram a falta de percep&ccedil;&atilde;o    dos agentes frente a aumento de pre&ccedil;os internacionais, principalmente    no mercado de arroz em casca.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A melhor adequa&ccedil;&atilde;o    do modelo mensal de arroz em casca com mudan&ccedil;a de regime na m&eacute;dia    j&aacute; era esperado, na medida em que o teste de Gregory e Hansen (1996)    ressaltou a exist&ecirc;ncia de um vetor de cointegra&ccedil;&atilde;o mesmo    diante de quebra estrutural. Esse comportamento ficou mais claro com a op&ccedil;&atilde;o    do modelo de mudan&ccedil;a de regime com tr&ecirc;s estados para o arroz em    casca e beneficiado. A aplica&ccedil;&atilde;o do <i>MS</i> revela, tamb&eacute;m,    que, embora os regimes de expans&atilde;o das importa&ccedil;&otilde;es sejam    significativos, sua dura&ccedil;&atilde;o &eacute; mais curta quando comparado    a per&iacute;odos de queda.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>4.3. Modelos    Trimestrais</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como forma de evitar    excessivas oscila&ccedil;&otilde;es causadas pela periodicidade mensal dos dados,    essa subse&ccedil;&atilde;o faz a mesma abordagem agora com dados trimestrais.    Nas estimativas de longo prazo<a name="top13"></a><a href="#back13"><sup>13</sup></a>    tamb&eacute;m d&atilde;o lugar para os modelos em primeira diferen&ccedil;a.    Como no modelo mensal para o arroz em casca, o resultado do teste de Gregory    e Hansen (1996) rejeitou a hip&oacute;tese nula para aus&ecirc;ncia de vetor    de cointegra&ccedil;&atilde;o com quebra estrutural. Nesse caso, h&aacute; evid&ecirc;ncia    de pelo menos um vetor de cointegra&ccedil;&atilde;o e que pode ser definido    por </font><font  size="2">&#952;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    = [1; 1,565; 9,499; 4,470; -2,729; 55,301<i>c</i>]. Ressalta-se, nesse vetor,    a import&acirc;ncia de vari&aacute;veis como a renda e o pre&ccedil;o dom&eacute;stico    na demanda por importa&ccedil;&atilde;o de arroz em casca.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A equa&ccedil;&atilde;o    10 mostra as estimativas para o MCE que melhor se adaptaram aos dados. O ajuste    de curto prazo com dados trimestrais ocorre em 62% ao trimestre, em torno de    20% ao m&ecirc;s, em linha com os resultados mensais. Al&eacute;m disso, o ajuste    &eacute; maior quando comparado aos resultados de Portugal (1992) e Morais e    Portugal (2005), bem como aos produtos agropecu&aacute;rios (-0,5) estimados    em Carvalho e Negri (2000). Ressalta-se, nesse modelo, um ajustamento defasado    da demanda frente a varia&ccedil;&otilde;es dos pre&ccedil;os internos no per&iacute;odo    anterior.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s25.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De modo geral,    com dados trimestrais, as especifica&ccedil;&otilde;es n&atilde;o diferiram    substancialmente daquelas encontradas nas estimativas mensais. Os resultados    para a demanda por importa&ccedil;&atilde;o de arroz em casca apontam caracter&iacute;sticas    n&atilde;o lineares, uma vez que o teste LR rejeita a hip&oacute;tese nula de    linearidade. Desta forma, a especifica&ccedil;&atilde;o com mudan&ccedil;a de    regime selecionada de acordo com os crit&eacute;rios de compara&ccedil;&atilde;o    segue um MSI(3)-VEC(1), sendo que os tr&ecirc;s regimes s&atilde;o classificados    como anteriormente.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s26.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os par&acirc;metros    relacionados ao pre&ccedil;o dom&eacute;stico e &agrave; produ&ccedil;&atilde;o    industrial n&atilde;o foram significativos. J&aacute; o ajuste de curto prazo    para o arroz em casca, representado na equa&ccedil;&atilde;o 11, comparativamente    ao mensal, subiu para cerca de 70%. O par&acirc;metro exibido pela renda demonstra    que eleva&ccedil;&otilde;es da renda no trimestre anterior s&atilde;o revertidas    em um consistente aumento das importa&ccedil;&otilde;es no per&iacute;odo seguinte.    J&aacute; a elasticidade-pre&ccedil;o de importa&ccedil;&atilde;o tem resultados    que contrastam com sua vers&atilde;o linear. Nesse caso, a estimativa n&atilde;o    linear demonstra que os importadores ajustam a quantidade no per&iacute;odo    dada uma eleva&ccedil;&atilde;o do pre&ccedil;o do bem substituto no trimestre    anterior. O ajuste para o pre&ccedil;o dom&eacute;stico, mesmo que pequeno e    n&atilde;o significativo, acontece no modelo com mudan&ccedil;a de regime, enquanto    que para o modelo linear a resposta &agrave; eleva&ccedil;&atilde;o de pre&ccedil;o    levou dois trimestres.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As estimativas    das probabilidades de transi&ccedil;&atilde;o entre os tr&ecirc;s estados indicam    resultados pr&oacute;ximos do modelo mensal. Segundo a matriz de probabilidade    de transi&ccedil;&atilde;o em 12, a probabilidade de se estar em um regime de    queda das importa&ccedil;&otilde;es e assim permanecer, dado por <i>p</i><sub>11</sub>    = 0,81, &eacute; menor do que a probabilidade de se estar em um regime de expans&atilde;o    da demanda e nele permanecer, <i>p</i><sub>33</sub> = 0,87. Entretanto, a probabilidade    de se estar em um regime de estabilidade das importa&ccedil;&otilde;es e nele    permanecer, dado por <i>p</i><sub>22</sub> = 0,92, &eacute; maior que os demais.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s27.jpg" align="absmiddle"></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O per&iacute;odo    mais longo das expans&otilde;es (regime 3) chega a 15 trimestres consecutivos,    ao passo que quedas na demanda (regime 1) chagaram a oito trimestres consecutivos.    Nesse caso, destaca-se a retra&ccedil;&atilde;o ocorrida entre o primeiro trimestre    de 2004 e o quarto de 2005. J&aacute; per&iacute;odos mais est&aacute;veis (regime    2), al&eacute;m de mais frequentes, s&atilde;o, em m&eacute;dia, as mais longas    (12,49 trimestres), contra 5,25 e 7,74 trimestres dos regimes 1 e 3, respectivamente.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o modelo linear    trimestral de arroz beneficiado da equa&ccedil;&atilde;o 13, os resultados sugerem    um comportamento semelhante ao modelo mensal<a name="top14"></a><a href="#back14"><sup>14</sup></a>.    A elasticidade-renda, al&eacute;m de el&aacute;stica, exp&ocirc;s as caracter&iacute;sticas    de bem inferior, enquanto a produ&ccedil;&atilde;o industrial de arroz ressaltou    que per&iacute;odos de elevada produ&ccedil;&atilde;o interna inibem a importa&ccedil;&atilde;o    de arroz beneficiado. O coeficiente relacionado ao pre&ccedil;o dom&eacute;stico    mostrou-se inferior &agrave; unidade. Entretanto, a elasticidade-pre&ccedil;o    de importa&ccedil;&atilde;o evidenciou sinal contr&aacute;rio ao esperado. Chama-se    a aten&ccedil;&atilde;o para a aus&ecirc;ncia de cota&ccedil;&atilde;o externa    do produto beneficiado (esse par&acirc;metro tinha como fonte o pre&ccedil;o    pago ao arroz em casca ao produtor americano).</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s28.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Lembrando que os    testes de raiz unit&aacute;ria indicaram que as vari&aacute;veis em quest&atilde;o    s&atilde;o I(1), os resultados dos testes de cointegra&ccedil;&atilde;o evidenciaram    a exist&ecirc;ncia de pelo menos um vetor de cointegra&ccedil;&atilde;o, ao    passo que, para o teste de Gregory e Hansen (1996), assim como na vers&atilde;o    mensal, n&atilde;o foi poss&iacute;vel rejeitar a hip&oacute;tese nula em todos    os modelos testados<a name="top15"></a><a href="#back15"><sup>15</sup></a>.    Os resultados sugerem um ajuste de curto prazo mais lento em rela&ccedil;&atilde;o    ao modelo de arroz beneficiado mensal. Ressalta-se tamb&eacute;m que o ajuste    das importa&ccedil;&otilde;es a varia&ccedil;&otilde;es positivas nos pre&ccedil;os    internos e internacionais n&atilde;o s&atilde;o compensados no per&iacute;odo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O teste LR revelou    a n&atilde;o linearidade do sistema <img src=" /img/revistas/resr/v52n1/10s29.jpg" align="absmiddle">    = 24,672, justificando a necessidade de se estimar um modelo com mudan&ccedil;a    de regime. No caso do arroz beneficiado, selecionou-se um modelo com tr&ecirc;s    estados igualmente ao modelo mensal, com mudan&ccedil;a de regime no intercepto    e vari&acirc;ncia, MSIH(3)-VEC(1) representado por (4.11). Comparando os resultados,    o ajuste de curto prazo do modelo trimestral &eacute; mais lento (22%) frente    ao mensal. Embora os par&acirc;metros relacionados com expans&otilde;es (regime    3) e a ind&uacute;stria de beneficiamento n&atilde;o sejam significativos, sua    estabilidade foi superior ao modelo mensal para o arroz beneficiado. Conforme    os resultados encontrados, ajustes a varia&ccedil;&otilde;es positivas no pre&ccedil;o    internacional no trimestre anterior s&atilde;o compensados no per&iacute;odo,    ao passo que esse resultado contrasta com o modelo n&atilde;o linear mensal    e linear trimestral. J&aacute; eleva&ccedil;&otilde;es do pre&ccedil;o dom&eacute;stico    tendem a influenciar menos que proporcionalmente as importa&ccedil;&otilde;es    no per&iacute;odo seguinte.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s30.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pela matriz de    transi&ccedil;&atilde;o mostrada em 15, a probabilidade de se estar em um regime    de queda das importa&ccedil;&otilde;es e assim permanecer, dado por <i>p</i><sub>11</sub>    = 0,66, &eacute; menor do que a probabilidade de se estar em um regime de expans&atilde;o    da demanda e nele permanecer, <i>p</i><sub>33</sub> = 0,74. No entanto, a probabilidade    de se estar em um regime de estabilidade das importa&ccedil;&otilde;es e nele    permanecer, dado por <i>p</i><sub>22</sub> = 0,52, &eacute; menor que os demais.    O regime 3, com dura&ccedil;&atilde;o de 3,86 trimestres, &eacute; o mais longo    deles, contra 2,95 trimestres do regime 2. Per&iacute;odos de expans&atilde;o    da demanda (regime 3) s&atilde;o os mais longos, mas menos frequentes que o    regime 2. J&aacute; as contra&ccedil;&otilde;es da demanda (regime 1), embora    frequentes, n&atilde;o ultrapassaram seis trimestres consecutivos.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src=" /img/revistas/resr/v52n1/10s31.jpg" align="absmiddle"></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o per&iacute;odo    de aus&ecirc;ncia de restri&ccedil;&atilde;o tarif&aacute;ria, entre junho de    2001 e dezembro de 2002, o modelo com dados trimestrais possibilita melhor observa&ccedil;&atilde;o    de que s&atilde;o os regimes de expans&atilde;o que governam as importa&ccedil;&otilde;es    em quatro dos seis trimestres identificados. J&aacute; o incentivo tarif&aacute;rio    concedido pelo governo brasileiro para fomentar as importa&ccedil;&otilde;es,    entre outubro e dezembro de 2003, est&aacute; dentro do per&iacute;odo de vigor    do regime 2.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pelas estimativas    trimestrais, depreende-se que atribuir a eleva&ccedil;&atilde;o da renda ap&oacute;s    a estabiliza&ccedil;&atilde;o conseguida com o Plano Real como um catalisador    das importa&ccedil;&otilde;es de ambos os tipos, seja casca ou beneficiado,    somente &eacute; poss&iacute;vel quando a vari&aacute;vel utilizada &eacute;    o sal&aacute;rio m&eacute;dio da ind&uacute;stria e n&atilde;o o PIB. Vale lembrar,    conforme Coelho <i>et al</i>. (2009), que uma parcela do aumento da renda no    Brasil tem sido revertido em consumo do cereal. Mas a introdu&ccedil;&atilde;o    dos regimes tamb&eacute;m deixa a percep&ccedil;&atilde;o que parte desse aumento    tem sido suprida pela eleva&ccedil;&atilde;o da produ&ccedil;&atilde;o nacional    e n&atilde;o pela importa&ccedil;&atilde;o de cereal. A op&ccedil;&atilde;o    do modelo de mudan&ccedil;a de regime para o arroz em casca e beneficiado trimestral    mostra que os desequil&iacute;brios mantiveram as magnitudes de ajustes pr&oacute;ximas    das estimativas lineares. Revela tamb&eacute;m que, embora os regimes de expans&atilde;o    das importa&ccedil;&otilde;es sejam significativos em ambos os casos, sua dura&ccedil;&atilde;o    para o beneficiado foi mais longa quando comparado a per&iacute;odos de queda,    mas menos frequente. As matrizes de transi&ccedil;&atilde;o tamb&eacute;m ressaltam    o car&aacute;ter dominante dos regimes de estabilidade e suas caracter&iacute;sticas:    em um primeiro momento, foram rompidos na integra&ccedil;&atilde;o do Mercosul    e, depois, esse regime volta a se repetir sob o risco desabastecimento por problemas    clim&aacute;ticos e via est&iacute;mulo tarif&aacute;rio (redu&ccedil;&atilde;o    da tarifa). Esse novo argumento n&atilde;o enfraquece a import&acirc;ncia que    a literatura tem dado para as flutua&ccedil;&otilde;es do c&acirc;mbio, mas    apenas refor&ccedil;a a necessidade de se estudar os regimes de uma vari&aacute;vel    dentro de diferentes periodicidades.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Conclus&otilde;es</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O objetivo principal    desse trabalho foi avaliar os determinantes da importa&ccedil;&atilde;o brasileira    de arroz p&oacute;s-uni&atilde;o aduaneira do Mercosul. O per&iacute;odo compreende    importantes eventos que influenciaram a economia e as rela&ccedil;&otilde;es    comerciais no Cone Sul. A investiga&ccedil;&atilde;o seguiu a proposta na literatura    da &aacute;rea ao usar um modelo que pudesse representar as elasticidades de    curto e longo prazo. Nesse caso, a maior contribui&ccedil;&atilde;o est&aacute;    na adapta&ccedil;&atilde;o de modelos n&atilde;o lineares, como os que incorporam    mudan&ccedil;as de regime markoviano ao comportamento da demanda por importa&ccedil;&atilde;o    de arroz. Essa contribui&ccedil;&atilde;o foi significativa, na medida em que    os resultados contrastaram com modelos utilizados anteriormente. O modelo com    mudan&ccedil;a de regime tamb&eacute;m ressaltou comportamentos distintos para    os par&acirc;metros mediante a mudan&ccedil;a de vari&aacute;veis explicativas,    periodicidade e entre os tipos de arroz, quando considerados separadamente.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De forma geral,    na periodicidade mensal, nota-se a maior contribui&ccedil;&atilde;o da renda    para o aumento da importa&ccedil;&atilde;o de arroz em casca, embora o mesmo    n&atilde;o possa ser afirmado para o arroz beneficiado. Com a mudan&ccedil;a    na periodicidade dos dados, os resultados trimestrais diferiram substancialmente,    na medida em que predominou um comportamento de bem inferior para ambos os tipos    de arroz. Esse comportamento foi discutido e verificado em estudos anteriores,    que ressaltaram as mudan&ccedil;as dos h&aacute;bitos alimentares do brasileiro    ao longo dos anos. De todo modo, n&atilde;o &eacute; poss&iacute;vel afirmar    que a melhora da renda, quando medida pela vari&aacute;vel PIB, seja a principal    causa da eleva&ccedil;&atilde;o da demanda por arroz. Por&eacute;m, quando se    usa o sal&aacute;rio da ind&uacute;stria como <i>proxy</i> da renda, os resultados    s&atilde;o diferentes.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A magnitude das    elasticidades estimadas para o pre&ccedil;o dom&eacute;stico foram superiores    &agrave; unidade apenas nos modelos para o arroz em casca. Isso refor&ccedil;a    que o custo financeiro com a aquisi&ccedil;&atilde;o do cereal no mercado interno    tem impacto significativo nas importa&ccedil;&otilde;es de arroz em casca. J&aacute;    para o arroz beneficiado, as elasticidades permaneceram inferiores &agrave;    unidade, embora os sinais tenham seguido o modelo econ&ocirc;mico proposto,    ou seja, altera&ccedil;&otilde;es de pre&ccedil;o interno n&atilde;o apresentam    impacto significativo para as importa&ccedil;&otilde;es.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quanto ao bem substituto    externo, a elasticidade-pre&ccedil;o mostrou-se perfeitamente condizente com    a teoria. Contudo, o pre&ccedil;o internacional de arroz n&atilde;o pode ser    apontado como o principal catalisador das importa&ccedil;&otilde;es de arroz    em casca no per&iacute;odo. A falta de expressividade tamb&eacute;m se verificou    para o arroz beneficiado, por&eacute;m, com sinal inverso, e isso levanta ind&iacute;cios    de que a cota&ccedil;&atilde;o externa e o c&acirc;mbio perderam influ&ecirc;ncia    sobre as importa&ccedil;&otilde;es. Essa afirma&ccedil;&atilde;o &eacute; refor&ccedil;ada    pelo grau de defasagem dos agentes frente a altera&ccedil;&otilde;es do mercado,    pois aumentos de pre&ccedil;o no m&ecirc;s anterior n&atilde;o s&atilde;o compensados    no per&iacute;odo, na totalidade dos casos. Acredita-se, ent&atilde;o, que esse    comportamento possa ser explicado em fun&ccedil;&atilde;o dos contratos de importa&ccedil;&atilde;o    j&aacute; tratados, o que pode limitar a tomada de decis&atilde;o do agente.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No caso da atividade    industrial, observa-se uma rela&ccedil;&atilde;o pr&oacute;-c&iacute;clica entre    a ind&uacute;stria de beneficiamento e as importa&ccedil;&otilde;es mensais    de arroz em casca, enquanto h&aacute; uma rela&ccedil;&atilde;o inversa quando    se observa o lado da demanda pelo arroz beneficiado. Sendo assim, do ponto de    vista do produtor de arroz &eacute; desej&aacute;vel maior articula&ccedil;&atilde;o    entre governo e ind&uacute;stria que vise compensar a queda do pre&ccedil;o    ao produtor durante o per&iacute;odo de colheita. J&aacute; para os modelos    trimestrais, o resultado n&atilde;o se repetiu, tendo predominado o comportamento    contrac&iacute;clico com a demanda, sinalizando uma absor&ccedil;&atilde;o interna,    ou via estoques, em detrimento das importa&ccedil;&otilde;es.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As corre&ccedil;&otilde;es    dos desequil&iacute;brios foram mais elevadas para o modelo mensal de arroz    beneficiado, assim como para o arroz em casca trimestral. A introdu&ccedil;&atilde;o    da formula&ccedil;&atilde;o MS com tr&ecirc;s regimes de importa&ccedil;&otilde;es    para ambos os casos levou a uma atenua&ccedil;&atilde;o da velocidade da corre&ccedil;&atilde;o    dos desequil&iacute;brios de curto prazo com dados mensais, enquanto manteve-se    est&aacute;vel nas estimativas trimestrais.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nesse caso, algumas    conclus&otilde;es s&atilde;o refor&ccedil;adas, tais como: a import&acirc;ncia    da pol&iacute;tica comercial para a demanda por importa&ccedil;&atilde;o de    arroz e a significativa influ&ecirc;ncia dos fen&ocirc;menos clim&aacute;ticos    adversos sobre os regimes de expans&atilde;o das importa&ccedil;&otilde;es.    Para o arroz em casca, a estabilidade da demanda tende a ser mais longa nas    estimativas trimestrais. Isso chama a aten&ccedil;&atilde;o para a influ&ecirc;ncia    do governo sobre os volumes importados via incentivo tarif&aacute;rio com terceiros    - o que se mostra &uacute;til para contornar per&iacute;odos de escassez de    oferta no Brasil e no Mercosul - e manuten&ccedil;&atilde;o de estoques reguladores.    Esse comportamento demonstra que todo o esfor&ccedil;o voltado para a expans&atilde;o    da produ&ccedil;&atilde;o interna, via incrementos de produtividade, &eacute;    v&aacute;lido para manter a competitividade do setor. Em destaque, o risco de    se criar um mercado de arroz isolado via imposi&ccedil;&atilde;o de tarifas    de importa&ccedil;&atilde;o proibitivas no bloco, leia-se desvio de com&eacute;rcio.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como sugest&atilde;o    de trabalho futuro que podem contribuir com as evid&ecirc;ncias aqui apontadas    est&aacute; a constru&ccedil;&atilde;o de indicadores coincidentes e antecedentes    das importa&ccedil;&otilde;es, al&eacute;m do uso de equa&ccedil;&otilde;es    simult&acirc;neas.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>6. Refer&ecirc;ncias    bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BRAGA, H. C. e    MARKWALD, R. A. <i>Fun&ccedil;&otilde;es de oferta e de demanda das exporta&ccedil;&otilde;es    de manufaturados no Brasil: estima&ccedil;&atilde;o de um modelo simult&acirc;neo</i>.    Bras&iacute;lia: IPEA, 1983. (Texto para Discuss&atilde;o Interna n. 57).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0103-2003201400010001000001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BRY, G. e BOSCHAN,    C. <i>Cyclical Analysis of Time Series</i>: Selected Procedures and Computer    Programs, NBER Technical Paper 20, 1971.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S0103-2003201400010001000002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CAPITANI, D. H.    D., MIRANDA, S. H. G. de e FERNANDES, E. A. Determinantes da demanda por importa&ccedil;&atilde;o    de arroz do Mercosul. <i>Revista de Economia e Sociologia Rural</i>, Bras&iacute;lia,    v. 49 n. 3, jul./set., 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S0103-2003201400010001000003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CARVALHO, A. e    PARENTE, M. A. <i>Estima&ccedil;&atilde;o de Equa&ccedil;&otilde;es de Demanda    de Importa&ccedil;&otilde;es por categoria de Uso para o Brasil (1978/1996)</i>.    Bras&iacute;lia: IPEA, abr. 1999. (Texto para discuss&atilde;o, 636).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0103-2003201400010001000004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CARVALHO, A. e    NEGRI, J. A. <i>Estima&ccedil;&atilde;o de Equa&ccedil;&otilde;es de Importa&ccedil;&atilde;o    e Exporta&ccedil;&atilde;o de Produtos Agropecu&aacute;rios para o Brasil (1977/1998).</i>    Bras&iacute;lia: IPEA, jan. 2000. (Texto para discuss&atilde;o, 698).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S0103-2003201400010001000005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CASTRO, A. S. e    CAVALCANTI, M. A. F. H. <i>Estima&ccedil;&atilde;o de equa&ccedil;&otilde;es    de exporta&ccedil;&atilde;o e importa&ccedil;&atilde;o para o Brasil - 1955/1995.</i>    Rio de Janeiro: IPEA, mar. 1997 (Texto para Discuss&atilde;o, 469).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0103-2003201400010001000006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">COELHO, A. B.,    AGUIAR, D. R. D. e FERNANDES, E. A.. Padr&atilde;o de consumo de alimentos no    Brasil. <i>Revista de Economia e Sociologia Rural</i>, Bras&iacute;lia: v. 47    n. 2, abr./jun., 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0103-2003201400010001000007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DIB, M. de F. S.    P. Equa&ccedil;&otilde;es para a demanda de importa&ccedil;&otilde;es, Brasil:    1960-1979. <i>Revista Brasileira de Economia</i>, Rio de Janeiro, v. 35, n.    4, out./dez. 1981.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S0103-2003201400010001000008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FAO - Food and    Agriculture Organization. <i>Rice Market Monitor</i>. Volume XII - Issue No.    4. Dec 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0103-2003201400010001000009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FRANKEL, J. A.    e ROSE, A. K. Determinants of Agricultural and Mineral Commodity Prices. In:    Preconference Westf&auml;lische Wilhelms University M&uuml;nster, Muenster,    Germany. <i>Anais eletr&ocirc;nicos...</i> Germany: Muenster, jun. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003201400010001000010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOLDSTEIN, M. e    KHAN, M. S. The supply and demand for exports: a simultaneous approach. <i>The    Review of Economics and Statistics</i>, v. 60, n. 2, p. 257-286, 1978.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0103-2003201400010001000011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOOD D. e IRWIN    S. Implications of Credit Market Problems for Crop Prices. In: Illinois Farm    Economics Update, Department of Agricultural and Consumer Economics, University    of Illinois at Urbana - Champaign, 2008. Dispon&iacute;vel em: &lt;<a href="http://www.farmdoc.uiuc.edu/IFEU/IFEU_08_03/IFEU_08_03.pdf" target="_blank">http://www.farmdoc.uiuc.edu/IFEU/IFEU_08_03/IFEU_08_03.pdf</a>&gt;.    Acesso em: 2 abr. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003201400010001000012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GREGORY, A. W.    e HANSEN, B. E. Residual-based tests for cointegration in models with regime    shifts. <i>Journal of Econometrics</i>, v. 70, n. 1, p. 99-126, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003201400010001000013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HAMILTON, J. D.    A New Approach to the Economic Analysis of Nonstationary Time Series and the    Business Cycle, <i>Econometrica</i>, v. 57, p. 357-384, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003201400010001000014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">IRWIN, S. H., SANDER,    D. R. e MERRIN, R. P. Devil or Angel? The Role of Speculation in the Recent    Commodity Price Boom (and Bust). <i>Journal of Agricultural and Applied Economics</i>,    v. 41, n. 02, ago. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003201400010001000015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">JOHANSEN, S. Statistical    analysis of cointegration vectors. <i>Journal of Economic Dynamics and Control</i>,    n. 12, p. 231-254, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003201400010001000016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">KROLZIG, H.-M.    <i>Statistical analysis of cointegrated VAR Processes with Markovian Regime    Shifts</i>. SFB 373, Berlin, Humboldt Universitat, 1996. (Discussion Paper,    n. 25).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003201400010001000017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">KROLZIG, H.-M.    <i>Econometric modeling of Markov-switching vector autoregressions using MSVAR    for Ox</i>, Department of Economics, University of Oxford, 1998. (Discussion    Paper).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003201400010001000018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LEAMER, E. E. e    STERN, R. M. <i>Quantitative international economics</i>. Allyn and Bacon, 1970.    209 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003201400010001000019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MDIC - Minist&eacute;rio    do Desenvolvimento, Ind&uacute;stria e Com&eacute;rcio. Dispon&iacute;vel em:    &lt;<a href="http://www.desenvolvimento.gov.br/sitio/inicial/index.php" target="_blank">http://www.desenvolvimento.gov.br/sitio/inicial/index.php</a>&gt;.    Acesso em: 29 mar. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003201400010001000020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MORAIS, I. A. C.    e PORTUGAL, M. S. A markov switching model for the Brazilian Demand for Imports:    Analyzing the import substitution process in Brazil. <i>Revista de Econometria</i>,    Rio de Janeiro, v. 25, n. 2, p. 173-219, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003201400010001000021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MORAIS, I. A. C.,    BERTOLDI, A. e ANJOS, A. T. M. Estimativa de um modelo n&atilde;o-linear para    as exporta&ccedil;&otilde;es brasileiras de borracha no per&iacute;odo 1992-2006.    <i>Revista de Economia e Sociologia Rural</i>, Bras&iacute;lia, v. 48, n. 3,    jul./set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003201400010001000022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NG, S. e PERRON,    P. Lag Length Selection and the Construction of Unit Root Tests with Good Size    and Power". <i>Econometrica</i>, v. 69, p. 1519-1554, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003201400010001000023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NONNENBERG, M.    J. B. e MENDON&Ccedil;A, M. J. C. <i>Cria&ccedil;&atilde;o e Desvio de Com&eacute;rcio    no rcosul: o caso dos produtos agr&iacute;colas</i>. Rio de Janeiro: IPEA, Mar.    1999. (Text for discussion, 631).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003201400010001000024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">OSAKI, M. <i>Determinantes    da oferta e da demanda por cebola argentina no Brasil nos anos 90</i>. 2003.    101f. Disserta&ccedil;&atilde;o (Mestrado em Economia Aplicada) - Escola Superior    de Agricultura Luiz de Queiroz, Universidade de S&atilde;o Paulo, S&atilde;o    Paulo.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003201400010001000025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PERRON, P. The    Great Crash, the Oil Price Shock, and the Unit Roots Hypothesis. <i>Econometrica</i>,    v. 57, p. 1361-1401, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003201400010001000026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PERRON, P. Further    evidence on breaking trend functions in macroeconomic variables. <i>Journal    of Econometrics</i>, n. 80, p. 355-385, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0103-2003201400010001000027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PEROTTI, A. D.    El arroz... la gran base... para uma decisi&oacute;n que afianza el Derecho    Mercosur (Medidas Cautelares): La sentencia del Superior Tribunal de Justi&ccedil;a    del 8 de junio de 2000. <i>Revista de Direito do Mercosul</i>, ano 4, n. 4,    ago. 2000, p. 237-244.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0103-2003201400010001000028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PORTUGAL, M. S.    Um modelo de corre&ccedil;&atilde;o de erros para a demanda por importa&ccedil;&otilde;es    brasileira. <i>Pesquisa e Planejamento Econ&ocirc;mico</i>, Rio de Janeiro,    v. 22, n. 3, dez. 1992. p. 501-540.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0103-2003201400010001000029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PORTUGAL, M. S.    Equilibrium models of trade equations: A critical review. <i>An&aacute;lise    Econ&ocirc;mica</i>, Porto Alegre, Ano 11, p. 69-91, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0103-2003201400010001000030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RESENDE, M. F.    C. <i>Crescimento Econ&ocirc;mico, Disponibilidade de Divisas e Importa&ccedil;&otilde;es    Totais e por Categoria de Uso no Brasil: Um Modelo de Corre&ccedil;&atilde;o    de Erros.</i> Bras&iacute;lia: IPEA, mar. 2000. (Texto para discuss&atilde;o,    714).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S0103-2003201400010001000031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SANTOS, D. F. e    BARROS, G. S. C. Importa&ccedil;&otilde;es brasileiras de leite: impactos micro    e macroecon&ocirc;micos. <i>Economia Aplicada</i>, v. 10, n. 4, Ribeir&atilde;o    Preto, out/dez, p.541-549, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000197&pid=S0103-2003201400010001000032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ZINI, A. A. Jr..    Fun&ccedil;&otilde;es de exporta&ccedil;&atilde;o e de importa&ccedil;&atilde;o    para o Brasil. <i>Pesquisa e Planejamento Econ&ocirc;mico</i>, v. 18, n. 3,    1988, p. 615-662.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S0103-2003201400010001000033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back1"></a><a href="#top1">1</a>    As empresas beneficiadoras do Uruguai e Chile, S. A. Molinos Arroceros Nacionales    (Saman) e Tucapel do Chile, respectivamente, foram incorporadas seguindo sua    estrat&eacute;gia de internacionaliza&ccedil;&atilde;o da ind&uacute;stria brasileira.    <br>   <a name="back2"></a><a href="#top2">2</a> Para maior detalhamento e emprego    espec&iacute;fico da rotina BB, ver Bry e Boschan (1971).    <br>   <a name="back3"></a><a href="#top3">3</a> Para revis&atilde;o hist&oacute;rica    e fatos estilizados sobre o arroz, ver Perotti (2000), IRGA (2011), entre outros.    <br>   <a name="back4"></a><a href="#top4">4</a> A safra 2003/04 foi tamb&eacute;m    afetada pela falta de chuva; contudo, os reflexos para a produ&ccedil;&atilde;o    foram pequenos.    <br>   <a name="back5"></a><a href="#top5">5</a> Altera&ccedil;&atilde;o/mudan&ccedil;as    nas regras do PIS/Cofins foram estabelecidas na Lei Federal n. 10.925/04, publicada    em 26 de julho de 2004, cujas mudan&ccedil;as na forma de incid&ecirc;ncia e    no percentual das al&iacute;quotas ofereceram vantagem ao produto do Mercosul,    aumentando a competitividade do produto beneficiado argentino e uruguaio e tamb&eacute;m    o volume de importa&ccedil;&otilde;es. A al&iacute;quota, que era de 9,25%,    foi reduzida a zero.    <br>   <a name="back6"></a><a href="#top6">6</a> O suplemento estat&iacute;stico e    os dados da pesquisa podem ser obtidos com os autores.    <br>   <a name="back7"></a><a href="#top7">7</a> Diversas equa&ccedil;&otilde;es de    longo prazo foram estimadas utilizando o logaritmo do &iacute;ndice dos dados    dessazonalizados pelo m&eacute;todo X-12. Os crit&eacute;rios para a sele&ccedil;&atilde;o    dos modelos podem ser encontrados na <a href=" /img/revistas/resr/v52n1/10a01.jpg">Tabela    1A</a> em anexo.    <br>   <a name="back8"></a><a href="#top8">8</a> O modelo &eacute; representado por    <img src=" /img/revistas/resr/v52n1/10s32.jpg" align="absmiddle"><img src=" /img/revistas/resr/v52n1/10s33.jpg" align="absmiddle">    <br>   <a name="back9"></a><a href="#top9">9</a> Esse &eacute; dado por </font><font  size="2">&#952;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    = [1; 12,194; 64,431; 28,612; 4,279; -2,297; -187,018<i>c</i>; -0,042<i>t</i>.    Os vetores de cointegra&ccedil;&atilde;o daqui para frente seguem a mesma ordem,    ou seja, </font><font  size="2">&#946;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    = [<i>q</i><sub>i</sub>; <i>ind</i>; <i>renda</i>; <i>pd</i>; <i>pm</i>; <i>constante</i>;    <i>tend&ecirc;ncia</i>].    <br>   <a name="back10"></a><a href="#top10">10</a> Optou-se por preservar o par&acirc;metro    na medida em que a melhor ader&ecirc;ncia do modelo foi obtida com essa formula&ccedil;&atilde;o,    junto da adi&ccedil;&atilde;o de uma <i>dummy</i> (<i>D</i>) que representa    o per&iacute;odo de constitui&ccedil;&atilde;o do MERCOSUL.    ]]></body>
+<body><![CDATA[<br>   <a name="back11"></a><a href="#top11">11</a> Esse &eacute; dado por </font><font  size="2">&#952;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    = [1; -4,341; 3,697; 0,556; 0,669; 1,963<i>c</i>].    <br>   <a name="back12"></a><a href="#top12">12</a> O modelo linear de longo prazo    foi definido por <img src=" /img/revistas/resr/v52n1/10s34.jpg" align="absmiddle"><img src=" /img/revistas/resr/v52n1/10s35.jpg" align="absmiddle"><img src=" /img/revistas/resr/v52n1/10s36.jpg" align="absmiddle">    <br>   <a name="back13"></a><a href="#top13">13</a> O modelo linear de longo prazo    foi definido por <img src=" /img/revistas/resr/v52n1/10s37.jpg" align="absmiddle"><img src=" /img/revistas/resr/v52n1/10s38.jpg" align="absmiddle"><img src=" /img/revistas/resr/v52n1/10s39.jpg" align="absmiddle">    <br>   <a name="back14"></a><a href="#top14">14</a> O modelo linear de longo prazo    foi definido por <img src=" /img/revistas/resr/v52n1/10s40.jpg" align="absmiddle"><img src=" /img/revistas/resr/v52n1/10s41.jpg" align="absmiddle">    <br>   <a name="back15"></a><a href="#top15">15</a> Optou-se pela estima&ccedil;&atilde;o    do vetor, dado por </font><font  size="2">&#952;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    = [1; -5,408; -1,873; 1,036; 1,382; 26,945<i>c</i>], para a constru&ccedil;&atilde;o    de um modelo de corre&ccedil;&otilde;es de erros.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Anexos</b></font></p>     <p>&nbsp;</p>     <p align="center"><a href=" /img/revistas/resr/v52n1/10a01.jpg"><img src=" /img/revistas/resr/v52n1/10a01thumb.jpg" border="0"></a>    <br>   <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href=" /img/revistas/resr/v52n1/10a01.jpg">Tabela    1A - Clique para ampliar</a></font></p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRAGA]]></surname>
+<given-names><![CDATA[H. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARKWALD]]></surname>
+<given-names><![CDATA[R. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Funções de oferta e de demanda das exportações de manufaturados no Brasil: estimação de um modelo simultâneo]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRY]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BOSCHAN]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cyclical Analysis of Time Series: Selected Procedures and Computer Programs]]></source>
+<year>1971</year>
+<publisher-name><![CDATA[NBER Technical Paper 20]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAPITANI]]></surname>
+<given-names><![CDATA[D. H. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[S. H. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Determinantes da demanda por importação de arroz do Mercosul]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>set.</year>
+<month>, </month>
+<day>20</day>
+<volume>49</volume>
+<numero>3</numero>
+<issue>3</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARENTE]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estimação de Equações de Demanda de Importações por categoria de Uso para o Brasil (1978/1996)]]></source>
+<year>abr.</year>
+<month> 1</month>
+<day>99</day>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NEGRI]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estimação de Equações de Importação e Exportação de Produtos Agropecuários para o Brasil (1977/1998)]]></source>
+<year>jan.</year>
+<month> 2</month>
+<day>00</day>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAVALCANTI]]></surname>
+<given-names><![CDATA[M. A. F. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estimação de equações de exportação e importação para o Brasil - 1955/1995]]></source>
+<year>mar.</year>
+<month> 1</month>
+<day>99</day>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AGUIAR]]></surname>
+<given-names><![CDATA[D. R. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Padrão de consumo de alimentos no Brasil]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jun.</year>
+<month>, </month>
+<day>20</day>
+<volume>47</volume>
+<numero>2</numero>
+<issue>2</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIB]]></surname>
+<given-names><![CDATA[M. de F. S. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Equações para a demanda de importações: Brasil: 1960-1979]]></article-title>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>dez.</year>
+<month> 1</month>
+<day>98</day>
+<volume>35</volume>
+<numero>4</numero>
+<issue>4</issue>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<collab>Food and Agriculture Organization</collab>
+<source><![CDATA[Rice Market Monitor]]></source>
+<year>Dec </year>
+<month>20</month>
+<day>11</day>
+<volume>XII</volume>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRANKEL]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSE]]></surname>
+<given-names><![CDATA[A. K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Determinants of Agricultural and Mineral Commodity Prices]]></article-title>
+<source><![CDATA[Anais eletrônicos]]></source>
+<year>jun.</year>
+<month> 2</month>
+<day>00</day>
+<conf-name><![CDATA[ Preconference Westfälische Wilhelms University Münster]]></conf-name>
+<conf-loc>Muenster </conf-loc>
+<publisher-name><![CDATA[Muenster]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLDSTEIN]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KHAN]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The supply and demand for exports: a simultaneous approach]]></article-title>
+<source><![CDATA[The Review of Economics and Statistics]]></source>
+<year>1978</year>
+<volume>60</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>257-286</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOOD]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IRWIN]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Implications of Credit Market Problems for Crop Prices]]></article-title>
+<source><![CDATA[Illinois Farm Economics Update]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Champaign ]]></publisher-loc>
+<publisher-name><![CDATA[Department of Agricultural and Consumer Economics, University of Illinois at Urbana]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREGORY]]></surname>
+<given-names><![CDATA[A. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HANSEN]]></surname>
+<given-names><![CDATA[B. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Residual-based tests for cointegration in models with regime shifts]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>1996</year>
+<volume>70</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>99-126</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAMILTON]]></surname>
+<given-names><![CDATA[J. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1989</year>
+<volume>57</volume>
+<page-range>357-384</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IRWIN]]></surname>
+<given-names><![CDATA[S. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANDER]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MERRIN]]></surname>
+<given-names><![CDATA[R. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Devil or Angel?: The Role of Speculation in the Recent Commodity Price Boom (and Bust]]></article-title>
+<source><![CDATA[Journal of Agricultural and Applied Economics]]></source>
+<year>ago.</year>
+<month> 2</month>
+<day>00</day>
+<volume>41</volume>
+<numero>02</numero>
+<issue>02</issue>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical analysis of cointegration vectors]]></article-title>
+<source><![CDATA[Journal of Economic Dynamics and Control]]></source>
+<year>1988</year>
+<numero>12</numero>
+<issue>12</issue>
+<page-range>231-254</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KROLZIG]]></surname>
+<given-names><![CDATA[H.-M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Statistical analysis of cointegrated VAR Processes with Markovian Regime Shifts. SFB 373]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Humboldt Universitat]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KROLZIG]]></surname>
+<given-names><![CDATA[H.-M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric modeling of Markov-switching vector autoregressions using MSVAR for Ox]]></source>
+<year>1998</year>
+<publisher-name><![CDATA[Department of Economics, University of Oxford]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEAMER]]></surname>
+<given-names><![CDATA[E. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STERN]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Quantitative international economics]]></source>
+<year>1970</year>
+<publisher-name><![CDATA[Allyn and Bacon]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<collab>Ministério do Desenvolvimento^dIndústria e Comércio</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORAIS]]></surname>
+<given-names><![CDATA[I. A. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PORTUGAL]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A markov switching model for the Brazilian Demand for Imports: Analyzing the import substitution process in Brazil]]></article-title>
+<source><![CDATA[Revista de Econometria]]></source>
+<year>2005</year>
+<volume>25</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>173-219</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORAIS]]></surname>
+<given-names><![CDATA[I. A. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERTOLDI]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANJOS]]></surname>
+<given-names><![CDATA[A. T. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estimativa de um modelo não-linear para as exportações brasileiras de borracha no período 1992-2006]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>set.</year>
+<month> 2</month>
+<day>01</day>
+<volume>48</volume>
+<numero>3</numero>
+<issue>3</issue>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NG]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PERRON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Lag Length Selection and the Construction of Unit Root Tests with Good Size and Power"]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>2001</year>
+<volume>69</volume>
+<page-range>1519-1554</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NONNENBERG]]></surname>
+<given-names><![CDATA[M. J. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENDONÇA]]></surname>
+<given-names><![CDATA[M. J. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Criação e Desvio de Comércio no rcosul: o caso dos produtos agrícolas]]></source>
+<year>Mar.</year>
+<month> 1</month>
+<day>99</day>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OSAKI]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Determinantes da oferta e da demanda por cebola argentina no Brasil nos anos 90]]></source>
+<year>2003</year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PERRON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Great Crash, the Oil Price Shock, and the Unit Roots Hypothesis]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1989</year>
+<volume>57</volume>
+<page-range>1361-1401</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PERRON]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Further evidence on breaking trend functions in macroeconomic variables]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>1997</year>
+<numero>80</numero>
+<issue>80</issue>
+<page-range>355-385</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEROTTI]]></surname>
+<given-names><![CDATA[A. D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[El arroz... la gran base... para uma decisión que afianza el Derecho Mercosur (Medidas Cautelares): La sentencia del Superior Tribunal de Justiça del 8 de junio de 2000]]></article-title>
+<source><![CDATA[Revista de Direito do Mercosul]]></source>
+<year>ago.</year>
+<month> 2</month>
+<day>00</day>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>237-244</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PORTUGAL]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Um modelo de correção de erros para a demanda por importações brasileira]]></article-title>
+<source><![CDATA[Pesquisa e Planejamento Econômico]]></source>
+<year>dez.</year>
+<month> 1</month>
+<day>99</day>
+<volume>22</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>501-540</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PORTUGAL]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Equilibrium models of trade equations: A critical review]]></article-title>
+<source><![CDATA[Análise Econômica]]></source>
+<year>1993</year>
+<page-range>69-91</page-range><publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RESENDE]]></surname>
+<given-names><![CDATA[M. F. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crescimento Econômico, Disponibilidade de Divisas e Importações Totais e por Categoria de Uso no Brasil: Um Modelo de Correção de Erros]]></source>
+<year>mar.</year>
+<month> 2</month>
+<day>00</day>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[D. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G. S. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Importações brasileiras de leite: impactos micro e macroeconômicos]]></article-title>
+<source><![CDATA[Economia Aplicada]]></source>
+<year>2006</year>
+<volume>10</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>541-549</page-range><publisher-loc><![CDATA[Ribeirão Preto ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZINI]]></surname>
+<given-names><![CDATA[A. A. Jr.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Funções de exportação e de importação para o Brasil]]></article-title>
+<source><![CDATA[Pesquisa e Planejamento Econômico]]></source>
+<year>1988</year>
+<volume>18</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>615-662</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

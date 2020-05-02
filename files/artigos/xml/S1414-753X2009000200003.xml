@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1414-753X</journal-id>
+<journal-title><![CDATA[Ambiente & Sociedade]]></journal-title>
+<abbrev-journal-title><![CDATA[Ambient. soc.]]></abbrev-journal-title>
+<issn>1414-753X</issn>
+<publisher>
+<publisher-name><![CDATA[ANPPAS - Revista Ambiente e Sociedade]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1414-753X2009000200003</article-id>
+<article-id pub-id-type="doi">10.1590/S1414-753X2009000200003</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Método de regressão de Poisson: metodologia para avaliação do impacto da poluição atmosférica na saúde populacional]]></article-title>
+<article-title xml:lang="en"><![CDATA[Methodology to assess air pollution impact on the population's health using the Poisson regression method]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Tadano]]></surname>
+<given-names><![CDATA[Yara de Souza]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ugaya]]></surname>
+<given-names><![CDATA[Cássia Maria Lie]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Franco]]></surname>
+<given-names><![CDATA[Admilson Teixeira]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Tecnológica Federal do Paraná Programa de Pós-graduação em Engenharia Mecânica e de Materiais ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2009</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2009</year>
+</pub-date>
+<volume>12</volume>
+<numero>2</numero>
+<fpage>241</fpage>
+<lpage>255</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1414-753X2009000200003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1414-753X2009000200003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1414-753X2009000200003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Os modelos estatísticos mais utilizados para avaliar o impacto da poluição atmosférica na saúde populacional são os modelos de regressão, pois são capazes de relacionar uma ou mais variáveis explicativas com uma única variável resposta. O objetivo deste estudo foi apresentar o modelo estatístico de regressão de Poisson dos modelos lineares generalizados. Neste trabalho são apresentadas todas as etapas da avaliação, desde a coleta e a análise dos dados até a verificação do ajuste do modelo escolhido.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The most used statistical model to evaluate the relation between air pollution and population's health is regression analysis, as it is able to relate one or more explanatory variables with one response variable. This research aims to present the generalized linear model with Poisson regression. Every assessment step, from data collection and analysis to the verification of the chosen model adjustment, will be presented.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Análise de regressão]]></kwd>
+<kwd lng="pt"><![CDATA[Modelo de regressão de Poisson]]></kwd>
+<kwd lng="pt"><![CDATA[Poluição atmosférica]]></kwd>
+<kwd lng="pt"><![CDATA[Saúde populacional]]></kwd>
+<kwd lng="en"><![CDATA[Regression analysis]]></kwd>
+<kwd lng="en"><![CDATA[Poisson regression]]></kwd>
+<kwd lng="en"><![CDATA[Air pollution]]></kwd>
+<kwd lng="en"><![CDATA[Population's health]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2" face="Verdana"><b>ARTIGOS</b></font></p>     <p>&nbsp;</p>     <p><font size="4" face="verdana"><b><a name="tx"></a>M&eacute;todo de regress&atilde;o de Poisson: metodologia para avalia&ccedil;&atilde;o do impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de populacional</b></font></p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><b>Methodology to assess air pollution impact on the    population's health using the Poisson regression method</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>Yara de Souza Tadano; C&aacute;ssia Maria Lie Ugaya; Admilson Teixeira Franco</b></font></p>     <p><font size="2" face="Verdana">Programa de P&oacute;s&#45;gradua&ccedil;&atilde;o em Engenharia Mec&acirc;nica e de Materiais, Universidade Tecnol&oacute;gica Federal do Paran&aacute; &#150; UTFPR, Curitiba, Paran&aacute;, Brasil</font></p>     <p><font size="2" face="Verdana"><a href="#nt">Autor para correspond&ecirc;ncia</a></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana">Os modelos estat&iacute;sticos mais utilizados para avaliar o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de populacional s&atilde;o os modelos de regress&atilde;o, pois s&atilde;o capazes de relacionar uma ou mais vari&aacute;veis explicativas com uma &uacute;nica vari&aacute;vel resposta. O objetivo deste estudo foi apresentar o modelo estat&iacute;stico de regress&atilde;o de Poisson dos modelos lineares generalizados. Neste trabalho s&atilde;o apresentadas todas as etapas da avalia&ccedil;&atilde;o, desde a coleta e a an&aacute;lise dos dados at&eacute; a verifica&ccedil;&atilde;o do ajuste do modelo escolhido.</font></p>     <p><font size="2" face="Verdana"><b>Palavras&#45;chave:</b> An&aacute;lise de regress&atilde;o. Modelo de regress&atilde;o de Poisson. Polui&ccedil;&atilde;o atmosf&eacute;rica. Sa&uacute;de populacional.</font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana">The most used statistical model to evaluate the relation between air pollution and population's health is regression analysis, as it is able to relate one or more explanatory variables with one response variable. This research aims to present the generalized linear model with Poisson regression. Every assessment step, from data collection and analysis to the verification of the chosen model adjustment, will be presented.</font></p>     <p><font size="2" face="Verdana"><b>Keywords:</b> Regression analysis. Poisson regression. Air pollution. Population's health.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana"><b>1 <i>Introdu&ccedil;&atilde;o</i></b> </font></p>     <p><font size="2" face="Verdana">Em estudos epidemiol&oacute;gicos, os modelos freq&uuml;entemente utilizados s&atilde;o os modelos estat&iacute;sticos e anal&iacute;ticos que, segundo Concei&ccedil;&atilde;o et al. (2001, p. 207), "constituem ferramentas extremamente &uacute;teis para resumir e interpretar dados. Em particular, estes modelos podem facilitar a avalia&ccedil;&atilde;o da forma e da intensidade de associa&ccedil;&otilde;es de interesse em estudos epidemiol&oacute;gicos".</font></p>     <p><font size="2" face="Verdana">O modelo estat&iacute;stico utilizado na an&aacute;lise da rela&ccedil;&atilde;o entre a polui&ccedil;&atilde;o atmosf&eacute;rica e o impacto na sa&uacute;de &eacute; a an&aacute;lise de regress&atilde;o, pois &eacute; uma ferramenta &uacute;til para avaliar a rela&ccedil;&atilde;o entre uma ou mais vari&aacute;veis explicativas (vari&aacute;veis independentes, preditoras ou covari&aacute;veis) (x<SUB>1</SUB>, x<SUB>2</SUB>, ..., x<SUB>n</SUB>) e uma &uacute;nica vari&aacute;vel resposta (vari&aacute;vel dependente, prevista) (y) (MARTINS, 2000).</font></p>     <p><font size="2" face="Verdana">Neste artigo ser&aacute; apresentada, primeiramente, a defini&ccedil;&atilde;o da an&aacute;lise de regress&atilde;o. Em seguida, ser&aacute; descrito o modelo de regress&atilde;o de Poisson dos modelos lineares generalizados (MLG), com o qual &eacute; poss&iacute;vel analisar os dados da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de populacional.</font></p>     <p><font size="2" face="Verdana">Devido &agrave; grande import&acirc;ncia das decis&otilde;es a serem tomadas desde a coleta e an&aacute;lise dos dados at&eacute; a verifica&ccedil;&atilde;o do ajuste do modelo escolhido, ser&atilde;o apresentados os passos envolvidos em uma an&aacute;lise de regress&atilde;o.</font></p>     <p><font size="2" face="Verdana">Finalmente, encontram&#45;se alguns coment&aacute;rios finais sobre as vantagens e limita&ccedil;&otilde;es do modelo proposto.</font></p>      <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>2 <i>An&aacute;lise de regress&atilde;o</i></b></font></p>     <p><font size="2" face="Verdana">A an&aacute;lise de regress&atilde;o que envolve apenas uma vari&aacute;vel explicativa &eacute; chamada de regress&atilde;o simples, enquanto a an&aacute;lise envolvendo duas ou mais vari&aacute;veis explicativas &eacute; denominada regress&atilde;o m&uacute;ltipla (HAIR jr. et al., 2005).</font></p>     <p><font size="2" face="Verdana">A regress&atilde;o linear m&uacute;ltipla &eacute; dada por (Equa&ccedil;&atilde;o 1):</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/asoc/v12n2/a03frm01.gif"></p>     <p><font size="2" face="Verdana">onde y &eacute; a vari&aacute;vel resposta e x<SUB>i</SUB> (i = 1, 2, ..., n) s&atilde;o as vari&aacute;veis explicativas. </font><font>&#946;</font><font size="2" face="Verdana"><SUB>0</SUB> representa o valor de <I>y</I> quando as vari&aacute;veis explicativas s&atilde;o nulas, os termos </font><font>&#946;</font><font size="2" face="Verdana"><SUB>i</SUB> s&atilde;o chamados de coeficientes de regress&atilde;o e o res&iacute;duo (</font><font>&#949;</font><font size="2" face="Verdana">) &eacute; o erro de previs&atilde;o, ou seja, a diferen&ccedil;a entre os valores reais e os previstos da vari&aacute;vel resposta, que &eacute; assumido normalmente distribu&iacute;do com m&eacute;dia zero e vari&acirc;ncia </font><font>&#963;</font><font size="2" face="Verdana"><sup>2</sup> (HAIR Jr. et al., 2005).</font></p>     <p><font size="2" face="Verdana">O objetivo da an&aacute;lise de regress&atilde;o linear m&uacute;ltipla, assim como de todos os tipos de regress&atilde;o, &eacute; encontrar uma equa&ccedil;&atilde;o (chamada de equa&ccedil;&atilde;o de regress&atilde;o, vari&aacute;vel estat&iacute;stica de regress&atilde;o ou modelo de regress&atilde;o) que prev&ecirc; de maneira melhor a vari&aacute;vel resposta a partir de uma combina&ccedil;&atilde;o das vari&aacute;veis explicativas, ou seja, deseja&#45;se encontrar os valores dos </font><font>&#946;</font><font size="2" face="Verdana">'s que melhor se ajustem aos dados do problema (HAIR Jr. et al., 2005).</font></p>     <p><font size="2" face="Verdana">Encontrados os </font><font>&#946;</font><font size="2" face="Verdana">'s, &eacute; necess&aacute;rio validar o modelo de regress&atilde;o, que consiste em verificar se sinais e magnitude dos coeficientes fazem sentido no contexto do fen&ocirc;meno estudado, que pode ser feito atrav&eacute;s do teste <I>t</I> de <I>Student </I>como ser&aacute; apresentado na an&aacute;lise dos resultados (WERKEMA; AGUIAR, 1996).</font></p>     <p><font size="2" face="Verdana">Nem sempre &eacute; poss&iacute;vel aplicar um modelo de regress&atilde;o linear em estudos epidemiol&oacute;gicos, como por exemplo, estudos sobre o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de populacional, devido ao car&aacute;ter n&atilde;o linear da vari&aacute;vel resposta. Nestes casos, geralmente utilizam&#45;se as classes de modelos que oferecem uma poderosa alternativa para a transforma&ccedil;&atilde;o de dados, chamadas de modelos lineares generalizados (MLG) e modelos aditivos generalizados (MAG) (SCHMIDT, 2003).</font></p>     <p><font size="2" face="Verdana">O estudo realizado por Concei&ccedil;&atilde;o et al. (2001) descreveu e comparou estas duas classes de modelos que podem ser utilizadas para avaliar a associa&ccedil;&atilde;o entre polui&ccedil;&atilde;o atmosf&eacute;rica e morbidade ou mortalidade por causas espec&iacute;ficas: os modelos lineares generalizados (MLG) e os modelos aditivos generalizados (MAG).</font></p>     <p><font size="2" face="Verdana">Concei&ccedil;&atilde;o et al. (2001) conclu&iacute;ram que as duas classes de modelos apresentadas produziram resultados coerentes, sendo que a abordagem baseada em curvas suavizadas<a name="tx01"></a><a href="#nt01"><sup>1</sup></a> utilizada nos MAG permite que o padr&atilde;o sazonal seja definido pelos pr&oacute;prios dados, sem a imposi&ccedil;&atilde;o de uma estrutura r&iacute;gida e, talvez, menos fidedigna encontrada nos MLG, devido &agrave; inclus&atilde;o de uma vari&aacute;vel referente aos meses do ano. Existem, entretanto, desvantagens em utilizar curvas suavizadas, pois os coeficientes estimados correspondentes nos modelos de regress&atilde;o n&atilde;o s&atilde;o interpret&aacute;veis (CHAPRA; CANALE, 1987).</font></p>     <p><font size="2" face="Verdana">Nos MLG, foram consideradas 18 vari&aacute;veis explicativas, enquanto apenas 4 foram requeridas pelos MAG. Assim, aparentemente, os MAG s&atilde;o modelos mais parcimoniosos, ou seja, necessitam de um n&uacute;mero menor de vari&aacute;veis explicativas, o que justificaria o fato de detectarem um n&uacute;mero maior de associa&ccedil;&otilde;es (CONCEI&Ccedil;&Atilde;O et al., 2001).</font></p>     <p><font size="2" face="Verdana">O grande desafio existente nas avalia&ccedil;&otilde;es do impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de &eacute; encontrar um modelo estat&iacute;stico capaz de considerar todos os fatores envolvidos, pois para avaliar o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de, &eacute; necess&aacute;rio levar em considera&ccedil;&atilde;o que cada pessoa reage de forma diferente a uma determinada concentra&ccedil;&atilde;o de poluente.</font></p>     <p><font size="2" face="Verdana">No corrente trabalho ser&aacute; apresentada, ent&atilde;o, uma metodologia para avaliar o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de, com a aplica&ccedil;&atilde;o da fam&iacute;lia de Poisson para os MLG.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">As curvas suavizadas, utilizadas nos modelos MAG por Concei&ccedil;&atilde;o et al. (2001), foram inclu&iacute;das nos modelos MLG, para suavizar a sazonalidade. No presente trabalho a curva suavizada utilizada foi a <I>spline</I> c&uacute;bica (<I>cubic splines</I>) (CHAPRA; CANALE, 1987).</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>3 <i>Modelos lineares generalizados (MLG)</i></b></font></p>     <p><font size="2" face="Verdana">Os modelos lineares generalizados (MLG) representam a uni&atilde;o de modelos lineares e n&atilde;o&#45;lineares com uma distribui&ccedil;&atilde;o da fam&iacute;lia exponencial, que &eacute; formada pela distribui&ccedil;&atilde;o normal, Poisson, binomial, gama, normal inversa e incluem modelos lineares tradicionais (erros com distribui&ccedil;&atilde;o normal), bem como modelos log&iacute;sticos (SCHMIDT, 2003).</font></p>     <p><font size="2" face="Verdana">Desde 1972, in&uacute;meros trabalhos relacionados com modelos lineares generalizados foram publicados, resultando em diversas ferramentas computacionais, como por exemplo, GLIM (<I>Generalized Linear Interactive Models</I>), S&#45;Plus, R, SAS, STATA e SUDAAN, bem como extens&otilde;es desses modelos (PAULA, 2004).</font></p>     <p><font size="2" face="Verdana">Os MLG s&atilde;o definidos por uma distribui&ccedil;&atilde;o de probabilidade, membro da fam&iacute;lia exponencial de distribui&ccedil;&otilde;es, e s&atilde;o formados pelas seguintes componentes (McCULLAGH; NELDER, 1989; TADANO et al., 2006a):</font></p>   <ul>       <li>         <p><font size="2" face="Verdana">Componente aleat&oacute;ria: <I>n</I> vari&aacute;veis explicativas y<SUB>1</SUB>, ..., y<SUB>n</SUB>, de uma vari&aacute;vel resposta que segue uma distribui&ccedil;&atilde;o da fam&iacute;lia exponencial com valor esperado E (y<SUB>i</SUB>) = </font><font>&#181;</font><font size="2" face="Verdana">; </font>       </p>   </li>       <li>         <p><font size="2" face="Verdana">Componente sistem&aacute;tica: comp&otilde;e uma estrutura linear para o modelo de regress&atilde;o </font><font>&#951;</font><font size="2" face="Verdana"> = </font><font>&#946;</font><font size="2" face="Verdana">x<SUP>T</SUP>, chamado de preditor linear, onde x<SUP>T</SUP> = (x<SUB>i1</SUB>, x<SUB>12</SUB>, ..., x<SUB>ip</SUB>)<SUP>T</SUP>, i = 1, ..., n s&atilde;o as chamadas vari&aacute;veis explicativas; e</font></p>   </li>       ]]></body>
+<body><![CDATA[<li>         <p><font size="2" face="Verdana">Fun&ccedil;&atilde;o de liga&ccedil;&atilde;o: Uma fun&ccedil;&atilde;o mon&oacute;tona e diferenci&aacute;vel g, chamada de fun&ccedil;&atilde;o de liga&ccedil;&atilde;o, capaz de conectar as componentes aleat&oacute;ria e sistem&aacute;tica, ou seja, relaciona a m&eacute;dia da vari&aacute;vel resposta (</font><font>&#181;</font><font size="2" face="Verdana">) &agrave; estrutura linear, definida nos MLG por g(</font><font>&#181;</font><font size="2" face="Verdana">) = </font><font>&#951;</font><font size="2" face="Verdana">, onde (TADANO, 2007) (Equa&ccedil;&atilde;o 2):</font></p>   </li>     </ul>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm02.gif"></p>     <p><font size="2" face="Verdana">ou em forma matricial (Equa&ccedil;&atilde;o 3):</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm03.gif"></p>     <p><font size="2" face="Verdana">Com o coeficiente de regress&atilde;o </font><font>&#946;</font><font size="2" face="Verdana"> = (</font><font>&#946;</font><font size="2" face="Verdana"><SUB>1</SUB>, </font><font>&#946;</font><font size="2" face="Verdana"><SUB>2</SUB>, ..., </font><font>&#946;</font><font size="2" face="Verdana"><SUB>n</SUB>) representando o vetor de par&acirc;metros a ser estimado (McCULLAGH; NELDER, 1989).</font></p>     <p><font size="2" face="Verdana">Na <a href="#tab01">Tabela 1</a>, cada distribui&ccedil;&atilde;o tem uma fun&ccedil;&atilde;o de liga&ccedil;&atilde;o especial, chamada de fun&ccedil;&atilde;o de liga&ccedil;&atilde;o can&ocirc;nica que ocorre quando </font><font>&#951;</font><font size="2" face="Verdana"> = </font><font>&#952;</font><font size="2" face="Verdana"><SUB>i</SUB>, onde </font><font>&#952;</font><font size="2" face="Verdana"> &eacute; o chamado par&acirc;metro de localiza&ccedil;&atilde;o ou par&acirc;metro can&ocirc;nico (McCULLAGH; NELDER, 1989).</font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/asoc/v12n2/a03tab01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">De acordo com Myers e Montgomery (2002), a utiliza&ccedil;&atilde;o da fun&ccedil;&atilde;o de liga&ccedil;&atilde;o can&ocirc;nica implica algumas propriedades interessantes, por&eacute;m n&atilde;o quer dizer que deva ser utilizada sempre. Essa escolha &eacute; conveniente porque, al&eacute;m de simplificar as estimativas dos par&acirc;metros do modelo, tamb&eacute;m facilita o c&aacute;lculo do intervalo de confian&ccedil;a<a name="tx02"></a><a href="#nt02"><sup>2</sup></a> para a m&eacute;dia da vari&aacute;vel resposta. Contudo, a conveni&ecirc;ncia n&atilde;o implica necessariamente em qualidade de ajuste do modelo.</font></p>     <p><font size="2" face="Verdana">Conforme o exposto acima, se </font><font>&#951;</font><font size="2" face="Verdana"> &eacute; a fun&ccedil;&atilde;o logar&iacute;tmica e y<SUB>i</SUB> possui distribui&ccedil;&atilde;o de Poisson, o modelo resultante &eacute; o modelo de regress&atilde;o de Poisson com fun&ccedil;&atilde;o de liga&ccedil;&atilde;o can&ocirc;nica, utilizado para avaliar dados n&atilde;o&#45;negativos em forma de contagens, frequentemente encontrados em estudos epidemiol&oacute;gicos.</font></p>      <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>4 <i>Modelo de regress&atilde;o de Poisson</i></b></font></p>      <p><font size="2" face="Verdana">Dentre as fam&iacute;lias dos MLG, a mais utilizada em estudos sobre o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de &eacute; a de Poisson (CONCEI&Ccedil;&Atilde;O et al., 2001; MARTINS, 2000; TADANO, 2007; TADANO et al., 2006b).</font></p>     <p><font size="2" face="Verdana">O modelo de regress&atilde;o de Poisson tem por caracter&iacute;stica a an&aacute;lise de dados contados na forma de propor&ccedil;&otilde;es ou raz&otilde;es de contagem, ou seja, leva em considera&ccedil;&atilde;o o total de pessoas com uma determinada doen&ccedil;a (McCULLAGH; NELDER, 1989).</font></p>     <p><font size="2" face="Verdana">O modelo de regress&atilde;o de Poisson &eacute; um tipo espec&iacute;fico dos MLG e MAG que teve origem por volta de 1970, quando Wedderburn (1974) desenvolveu a teoria da quasi&#45;verossimilhan&ccedil;a, analisada com mais detalhes por McCullagh (1983).</font></p>     <p><font size="2" face="Verdana">A vari&aacute;vel resposta de uma regress&atilde;o de Poisson deve seguir uma distribui&ccedil;&atilde;o de Poisson e os dados devem possuir igual dispers&atilde;o, ou seja, a m&eacute;dia da vari&aacute;vel resposta deve ser igual &agrave; vari&acirc;ncia. Entretanto, conforme Ribeiro (2006), quando se trabalha com dados experimentais, esta propriedade &eacute; frequentemente violada. Assim, pode&#45;se ter uma superdispers&atilde;o quando a vari&acirc;ncia &eacute; maior que a m&eacute;dia; ou uma subdispers&atilde;o quando a vari&acirc;ncia &eacute; menor que a m&eacute;dia (SCHMIDT, 2003). Nestes casos, ainda &eacute; poss&iacute;vel aplicar o modelo de regress&atilde;o de Poisson realizando&#45;se alguns ajustes.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A representa&ccedil;&atilde;o das probabilidades da distribui&ccedil;&atilde;o de Poisson para </font><font>&#181;</font><font size="2" face="Verdana"> = 1, 2, 4, 6 encontra&#45;se na <a href="#fig01">Figura 1</a> (SCHMIDT, 2003), onde y indica uma vari&aacute;vel qualquer.</font></p>     <p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03fig01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">A <a href="#fig01">Figura 1</a> mostra o gr&aacute;fico da distribui&ccedil;&atilde;o de Poisson (P(y)) para quatro valores de </font><font>&#181;</font><font size="2" face="Verdana">. Observa&#45;se um achatamento da curva e o seu deslocamento para a direita quando </font><font>&#181;</font><font size="2" face="Verdana"> aumenta. &Agrave; medida que </font><font>&#181;</font><font size="2" face="Verdana"> aumenta, a curva aproxima&#45;se de uma distribui&ccedil;&atilde;o normal (TADANO, 2007).</font></p>     <p><font size="2" face="Verdana">Antes de escolher um modelo estat&iacute;stico, &eacute; necess&aacute;rio especificar o escopo do estudo para realizar a coleta dos dados necess&aacute;rios.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>5 <i>Coleta e an&aacute;lise dos dados</i></b></font></p>     <p><font size="2" face="Verdana">Em estudos epidemiol&oacute;gicos, &eacute; importante coletar dados separados por faixa et&aacute;ria devido &agrave; grande diferen&ccedil;a existente na rea&ccedil;&atilde;o de cada uma a um determinado fator.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Na sele&ccedil;&atilde;o do curso de a&ccedil;&atilde;o para a melhoria do banco de dados, &eacute; essencial compreender os processos que conduzem a dados faltantes na amostra, pois s&atilde;o uma realidade em qualquer tipo de an&aacute;lise (HAIR Jr. et al., 2005).</font></p>     <p><font size="2" face="Verdana">Para alguns problemas em particular, existem na literatura aproxima&ccedil;&otilde;es padr&otilde;es. Utilizar estas aproxima&ccedil;&otilde;es acarretar&aacute; um aumento na confiabilidade dos dados. Por exemplo, os &oacute;rg&atilde;os respons&aacute;veis pelo monitoramento da qualidade do ar seguem um padr&atilde;o para o c&aacute;lculo de m&eacute;dias di&aacute;rias, mensais e anuais de vari&aacute;veis meteorol&oacute;gicas e de concentra&ccedil;&atilde;o de poluentes.</font></p>     <p><font size="2" face="Verdana">O exame dos dados pode parecer uma tarefa comum e sem import&acirc;ncia, por&eacute;m &eacute; fundamental em qualquer an&aacute;lise de regress&atilde;o, pois o banco de dados &eacute; a parte fundamental da an&aacute;lise, assim a confiabilidade do banco de dados &eacute; essencial (HAIR Jr. et al., 2005).</font></p>     <p><font size="2" face="Verdana">Com os devidos ajustes no banco de dados, parte&#45;se para a escolha da modelagem estat&iacute;stica que melhor descreva os dados.</font></p>      <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>6 <i>Escolha do modelo estat&iacute;stico</i></b></font></p>     <p><font size="2" face="Verdana">Para confirmar que o modelo de regress&atilde;o de Poisson dos MLG pode ser utilizado para avaliar o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de populacional, &eacute; preciso verificar primeiro se existe possibilidade de se aplicar a regress&atilde;o estat&iacute;stica mais simples (regress&atilde;o linear). Uma caracter&iacute;stica importante da regress&atilde;o linear &eacute; a normalidade dos dados, ou seja, os dados devem possuir uma distribui&ccedil;&atilde;o aproximadamente normal.</font></p>     <p><font size="2" face="Verdana">O teste de diagn&oacute;stico mais simples para verificar a normalidade &eacute; o histograma, que compara os valores dos dados observados com uma distribui&ccedil;&atilde;o aproximadamente normal, como mostra a <a href="#fig02">Figura 2</a>. Este teste &eacute; atraente devido &agrave; simplicidade, por&eacute;m &eacute; um m&eacute;todo problem&aacute;tico para amostras com menos de 100 observa&ccedil;&otilde;es. Para estes casos, existem outros m&eacute;todos mais confi&aacute;veis, como o teste de assimetria e curtose (HAIR Jr. et al., 2005; FONSECA; MARTINS, 1996).</font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/asoc/v12n2/a03fig02.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Em estudos sobre o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de frequentemente tem&#45;se mais de 100 observa&ccedil;&otilde;es, pois s&atilde;o necess&aacute;rios dados di&aacute;rios durante pelo menos dois anos para a realiza&ccedil;&atilde;o de uma boa an&aacute;lise (MARTINS, 2000; LATORRE; CARDOSO, 2001). Portanto, a an&aacute;lise do histograma &eacute; suficiente para verificar a normalidade dos dados.</font></p>     <p><font size="2" face="Verdana">Uma outra caracter&iacute;stica importante dos dados &eacute; a linearidade, ou seja, a magnitude da rela&ccedil;&atilde;o linear entre duas vari&aacute;veis. A linearidade pode ser observada atrav&eacute;s de um diagrama de dispers&atilde;o<a name="tx03"></a><a href="#nt03"><sup>3</sup></a> (HAIR Jr. et al., 2005).</font></p>     <p><font size="2" face="Verdana">Em uma matriz de dispers&atilde;o, como no exemplo da <a href="#fig03">Figura 3</a>, s&atilde;o apresentados o diagrama de dispers&atilde;o abaixo da diagonal principal, o histograma na diagonal principal e os coeficientes de correla&ccedil;&atilde;o entre as vari&aacute;veis acima da diagonal principal (HAIR Jr. et al., 2005).</font></p>     <p><a name="fig03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03fig03.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Dados que n&atilde;o seguem uma distribui&ccedil;&atilde;o normal e s&atilde;o n&atilde;o negativos em forma de contagem indicam a possibilidade de aplica&ccedil;&atilde;o da fam&iacute;lia de Poisson dos MLG. Para se aplicar o modelo de Poisson, os dados devem possuir distribui&ccedil;&atilde;o de Poisson, ou seja, o histograma deve apresentar uma tend&ecirc;ncia de acordo com as linhas da <a href="#fig01">Figura 1</a>, exceto para </font><font>&#181;</font><font size="2" face="Verdana"> = 6 que indica uma distribui&ccedil;&atilde;o normal (SCHMIDT, 2003; TADANO, 2007).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Se os dados seguem uma distribui&ccedil;&atilde;o de Poisson, inicia&#45;se a aplica&ccedil;&atilde;o do modelo de regress&atilde;o de Poisson.</font></p>      <p><font size="2" face="Verdana"><b>6.1 Estimativa dos par&acirc;metros</b></font></p>     <p><font size="2" face="Verdana">Com todas as suposi&ccedil;&otilde;es satisfeitas, inicia&#45;se a estimativa do modelo que pode ser feita com o aux&iacute;lio de programas estat&iacute;sticos capazes de encontrar os coeficientes </font><font>&#946;</font><font size="2" face="Verdana"><SUB>i</SUB> da equa&ccedil;&atilde;o 2 (S&#45;PLUS 7, 2005).</font></p>     <p><font size="2" face="Verdana">A estimativa dos par&acirc;metros pode ser uma tarefa relativamente simples se houver somente um par&acirc;metro a ser estimado, contudo n&atilde;o &eacute; o que ocorre normalmente. Nestes casos, processos iterativos devem ser empregados para resolver o sistema de equa&ccedil;&otilde;es.</font></p>     <p><font size="2" face="Verdana">Nos MLG, o m&eacute;todo utilizado para estimar os valores dos par&acirc;metros de regress&atilde;o </font><font>&#946;</font><font size="2" face="Verdana"><SUB>i</SUB> &eacute; conhecido como m&eacute;todo escore de Fisher para maximiza&ccedil;&atilde;o da fun&ccedil;&atilde;o de verossimilhan&ccedil;a, que coincide com o m&eacute;todo de Newton&#45;Raphson quando a fun&ccedil;&atilde;o de liga&ccedil;&atilde;o &eacute; a can&ocirc;nica (PAULA, 2004; McCULLAGH; NELDER, 1989).</font></p>     <p><font size="2" face="Verdana">Desta forma, para o modelo de regress&atilde;o de Poisson, a fun&ccedil;&atilde;o densidade de probabilidade &eacute; (Equa&ccedil;&atilde;o 4):</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm04.gif"></p>     <p><font size="2" face="Verdana">sendo que y &eacute; a vari&aacute;vel resposta, </font><font>&#952;</font><font size="2" face="Verdana"> &eacute; o par&acirc;metro de dispers&atilde;o, <img src="/img/revistas/asoc/v12n2/fi_01.gif" align="absmiddle"> &eacute; o par&acirc;metro can&ocirc;nico e ! significa fatorial. Quando a fun&ccedil;&atilde;o de liga&ccedil;&atilde;o considerada &eacute; a liga&ccedil;&atilde;o can&ocirc;nica (ln </font><font>&#181;</font><font size="2" face="Verdana"> = </font><font>&#951;</font><font size="2" face="Verdana">).</font></p>       <p><font size="2" face="Verdana"><b>6.2 Ajuste de tend&ecirc;ncias temporais</b></font></p>     <p><font size="2" face="Verdana">a) Dias da semana</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Em estudos sobre o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de, &eacute; necess&aacute;rio levar em considera&ccedil;&atilde;o a tend&ecirc;ncia temporal. Por exemplo, nos finais de semana, o n&uacute;mero de atendimentos hospitalares &eacute; menor do que nos dias de semana. Uma forma de ajustar esta tend&ecirc;ncia &eacute; acrescentar uma vari&aacute;vel qualitativa para dia da semana, que varia de 1 a 7, come&ccedil;ando a contagem no domingo (TADANO, 2007).</font></p>     <p><font size="2" face="Verdana">O n&uacute;mero de atendimentos hospitalares nos feriados tamb&eacute;m &eacute; menor do que nos dias em que n&atilde;o &eacute; feriado. Esta tend&ecirc;ncia &eacute; ajustada atrav&eacute;s do acr&eacute;scimo de uma vari&aacute;vel binomial, ou seja, os dias de feriado recebem valor 1 e os dias em que n&atilde;o &eacute; feriado recebem valor 0.</font></p>      <p><font size="2" face="Verdana">b) Sazonalidade</font></p>     <p><font size="2" face="Verdana">Outra tend&ecirc;ncia temporal importante &eacute; a sazonalidade, pois as vari&aacute;veis meteorol&oacute;gicas e concentra&ccedil;&atilde;o de poluentes variam no decorrer do ano. Para ajustar estas tend&ecirc;ncias frequentemente utiliza&#45;se uma fun&ccedil;&atilde;o chamada <I>spline</I>, j&aacute; que essa fun&ccedil;&atilde;o fornece uma aproxima&ccedil;&atilde;o melhor que as tend&ecirc;ncias polinomais (CHAPRA; CANALE, 1987).</font></p>     <p><font size="2" face="Verdana"><I>Spline</I> &eacute; um tipo de fun&ccedil;&atilde;o que fornece uma aproxima&ccedil;&atilde;o do comportamento das fun&ccedil;&otilde;es que t&ecirc;m mudan&ccedil;as locais e abruptas. Nos <I>splines</I>, ao inv&eacute;s de utilizar apenas um polin&ocirc;mio para todo o conjunto de dados, definem&#45;se alguns intervalos e estima&#45;se uma fun&ccedil;&atilde;o polinomial para cada um dos intervalos. O <I>spline</I> mais utilizado para suaviza&ccedil;&atilde;o de curvas &eacute; o <I>spline</I> c&uacute;bico. O objetivo dos <I>splines</I> c&uacute;bicos &eacute; derivar um polin&ocirc;mio de terceira ordem para cada intervalo entre 2 n&oacute;s (ponto onde dois <I>splines</I> se encontram) (CHAPRA; CANALE, 1987).</font></p>     <p><font size="2" face="Verdana">Em estudos sobre o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de, utilizam&#45;se 4 a 5 n&oacute;s por ano, pois a sazonalidade ocorre devido &agrave;s diferen&ccedil;as existentes entre as esta&ccedil;&otilde;es do ano.</font></p>     <p><font size="2" face="Verdana">Apesar dos <I>splines</I> fornecerem uma boa aproxima&ccedil;&atilde;o para tend&ecirc;ncias temporais, n&atilde;o possuem interpreta&ccedil;&atilde;o f&iacute;sica, portanto n&atilde;o podem ser utilizados para realizar previs&otilde;es. Nestes casos, opta&#45;se por utilizar uma vari&aacute;vel qualitativa para os meses do ano que possui valores entre 1 (referente &agrave; janeiro) e 12 (referente &agrave; dezembro) (CONCEI&Ccedil;&Atilde;O et al., 2001; CHAPRA; CANALE, 1987).</font></p>      <p><font size="2" face="Verdana">c) Correla&ccedil;&atilde;o de dados com o tempo</font></p>     <p><font size="2" face="Verdana">As tend&ecirc;ncias temporais podem provocar autocorrela&ccedil;&atilde;o entre os dados, ou seja, os dados de um dia podem estar correlacionados com os dados do dia anterior devido &agrave; diferen&ccedil;a entre os atendimentos hospitalares nos finais de semana e feriados; mesmo ap&oacute;s serem inclu&iacute;das vari&aacute;veis explicativas para dias da semana e feriado. Assim, para verificar a exist&ecirc;ncia de correla&ccedil;&atilde;o entre os dados e decidir quais as provid&ecirc;ncias a serem tomadas, s&atilde;o constru&iacute;dos gr&aacute;ficos da fun&ccedil;&atilde;o de autocorrela&ccedil;&atilde;o parcial em rela&ccedil;&atilde;o ao tempo de defasagem (<I>lag</I>) (TADANO, 2007).</font></p>     <p><font size="2" face="Verdana">A fun&ccedil;&atilde;o de autocorrela&ccedil;&atilde;o do res&iacute;duo &eacute; dada por (Equa&ccedil;&atilde;o 5):</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/asoc/v12n2/a03frm05.gif"></p>     <p><font size="2" face="Verdana">onde  <img src="/img/revistas/asoc/v12n2/a03img13.gif" align="absmiddle"> sendo que <I>n</I> &eacute; o n&uacute;mero de observa&ccedil;&otilde;es e <I>k</I> representa os dias de defasagem (BOX et al., 1994).</font></p>     <p><font size="2" face="Verdana">No gr&aacute;fico da fun&ccedil;&atilde;o de autocorrela&ccedil;&atilde;o, os res&iacute;duos devem ser os menores poss&iacute;veis, encontrando&#45;se numa faixa entre &#91;&#150;2n<SUP>&#150;1/2</SUP>, 2n<SUP>&#150;1/2</SUP>&#93;, onde n &eacute; o n&uacute;mero de observa&ccedil;&otilde;es presentes no problema, como mostra a <a href="#fig04">Figura 4</a> (FERRAZ et al., 1999).</font></p>     <p><a name="fig04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03fig04.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">No caso de estudos epidemiol&oacute;gicos, as autocorrela&ccedil;&otilde;es importantes e poss&iacute;veis de serem interpretadas ocorrem nos primeiros 4 dias. Estas autocorrela&ccedil;&otilde;es geralmente s&atilde;o devido ao reduzido n&uacute;mero de atendimentos hospitalares nos finais de semana (TADANO, 2007).</font></p>     <p><font size="2" face="Verdana">Se os dados est&atilde;o correlacionados, deve&#45;se ajustar o modelo levando em considera&ccedil;&atilde;o essas autocorrela&ccedil;&otilde;es. Esta corre&ccedil;&atilde;o &eacute; feita atrav&eacute;s da inser&ccedil;&atilde;o do res&iacute;duo no modelo.</font></p>     <p><font size="2" face="Verdana">Todas as considera&ccedil;&otilde;es sobre as tend&ecirc;ncias temporais devem ser observadas quando se realiza um estudo, por exemplo, sobre o impacto de um determinado poluente na sa&uacute;de populacional.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Outros fatores que geralmente s&atilde;o considerados nestes estudos s&atilde;o os efeitos da temperatura e da umidade.</font></p>     <p><font size="2" face="Verdana">Deseja&#45;se ent&atilde;o, ap&oacute;s considerar os fatores mencionados, encontrar os valores dos coeficientes </font><font>&#946;</font><font size="2" face="Verdana">'s da seguinte Equa&ccedil;&atilde;o 6:</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm06.gif"></p>     <p><font size="2" face="Verdana">onde DS &#45; diagn&oacute;stico na sa&uacute;de; temp &#45; temperatura; umid &#45; umidade; conc &#45; concentra&ccedil;&atilde;o de um determinado poluente; ns &#45; spline c&uacute;bico natural; dds &#45; dia da semana e fer &#45; feriado.</font></p>     <p><font size="2" face="Verdana">Uma vez escolhido o modelo que melhor se ajuste aos dados e determinados os coeficientes de regress&atilde;o </font><font>&#946;</font><font size="2" face="Verdana">'s, &eacute; necess&aacute;rio avaliar este ajuste.</font></p>       <p><font size="2" face="Verdana"><b>6.3 Avalia&ccedil;&atilde;o do ajuste</b></font></p>     <p><font size="2" face="Verdana">Um teste interessante e f&aacute;cil de ser aplicado para avaliar o ajuste de um modelo &eacute; chamado de estat&iacute;stica pseudo R<sup>2</sup> que &eacute; similar ao coeficiente de determina&ccedil;&atilde;o obtido nos modelos lineares cl&aacute;ssicos, e &eacute; definida por (Equa&ccedil;&atilde;o 7):</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm07.gif"></p>     <p><font size="2" face="Verdana">onde D<SUB>c</SUB> &eacute; o desvio do modelo ajustado e D<SUB>0</SUB> &eacute; o desvio do modelo nulo, ou seja, desvio antes da aplica&ccedil;&atilde;o do modelo. Esta estat&iacute;stica mede a redu&ccedil;&atilde;o no desvio devido &agrave; inclus&atilde;o de vari&aacute;veis explicativas (RIBEIRO, 2006).</font></p>     <p><font size="2" face="Verdana">A principal ferramenta capaz de avaliar o ajuste do modelo, por&eacute;m, &eacute; a an&aacute;lise de res&iacute;duos. Para os MLG, s&atilde;o definidos quatro tipos diferentes de res&iacute;duos capazes de avaliar o ajuste do modelo, o desvio residual, res&iacute;duo <I>working</I>, res&iacute;duo de Pearson e res&iacute;duo resposta. Dentre eles, ser&aacute; apresentado o desvio residual (<I>deviance residual</I>), que &eacute; capaz de detectar observa&ccedil;&otilde;es at&iacute;picas que influenciam o processo de ajuste do modelo e o res&iacute;duo de Pearson por ser uma vers&atilde;o aprimorada (<I>rescaled</I>) do res&iacute;duo <I>working </I>(S&#45;PLUS 7, 2005).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O res&iacute;duo de Pearson est&aacute; presente em uma estat&iacute;stica bastante utilizada para avaliar o ajuste do modelo, chamada estat&iacute;stica de Pearson ou Qui&#45;quadrado </font><font>&#967;</font><font size="2" face="Verdana"><sup>2</sup> capaz de comparar a distribui&ccedil;&atilde;o observada com a determinada pelo modelo atrav&eacute;s da seguinte express&atilde;o (SCHMIDT, 2003) (Equa&ccedil;&atilde;o 8):</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm08.gif"></p>     <p><font size="2" face="Verdana">onde v(<img src="/img/revistas/asoc/v12n2/a03img14.gif" align="absmiddle">) &eacute; a fun&ccedil;&atilde;o de vari&acirc;ncia estimada para a distribui&ccedil;&atilde;o em quest&atilde;o.</font></p>     <p><font size="2" face="Verdana">Pode&#45;se dizer que a estat&iacute;stica de Pearson &eacute; a soma dos res&iacute;duos de Pearson para cada observa&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana">Um modelo que se ajuste bem aos dados possui estat&iacute;stica de Pearson </font><font>&#967;</font><font size="2" face="Verdana"><sup>2</sup> aproximadamente igual ao seu grau de liberdade (gl), ou seja, </font><font>&#967;</font><font size="2" face="Verdana"><sup>2</sup>/gl ~ 1, caso contr&aacute;rio, pode se dizer que o modelo &eacute; inadequado, podendo tratar&#45;se de um problema de superdispers&atilde;o (RUSSO, 2002).</font></p>     <p><font size="2" face="Verdana"><b>6.4 An&aacute;lise gr&aacute;fica</b></font></p>     <p><font size="2" face="Verdana">Entre os tipos de an&aacute;lises gr&aacute;ficas comumente utilizadas para avaliar o ajuste de um MLG tem&#45;se (BOX et al., 1994):</font></p>     <p><font size="2" face="Verdana">1) Gr&aacute;fico dos desvios residuais de cada observa&ccedil;&atilde;o em rela&ccedil;&atilde;o aos valores ajustados pelo modelo.</font></p>     <p><font size="2" face="Verdana">Um modelo bem ajustado possui o gr&aacute;fico com os pontos o mais pr&oacute;ximo poss&iacute;vel de zero no intervalo entre &#150;2 e 2, como mostra a <a href="#fig05">Figura 5</a> (BAXTER et al., 1997).</font></p>     <p><a name="fig05"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03fig05.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">O desvio residual, que em alguns trabalhos aparece como <I>deviance residual</I> ou res&iacute;duo <I>deviance</I>, &eacute; definido por (Equa&ccedil;&atilde;o 9):</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm09.gif"></p>     <p><font size="2" face="Verdana">onde d<SUB>i</SUB> &eacute; a contribui&ccedil;&atilde;o da i&#45;&eacute;sima observa&ccedil;&atilde;o para o res&iacute;duo (S&#45;PLUS 7, 2005).</font></p>      <p><font size="2" face="Verdana">2) Gr&aacute;fico dos valores observados da vari&aacute;vel resposta em rela&ccedil;&atilde;o aos valores ajustados pelo modelo.</font></p>     <p><font size="2" face="Verdana">Um exemplo deste gr&aacute;fico &eacute; apresentado na <a href="#fig06">Figura 6</a>. Os pontos deste gr&aacute;fico devem estar pr&oacute;ximos da linha em que y = x, indicando que os valores ajustados est&atilde;o pr&oacute;ximos dos valores observados.</font></p>     <p><a name="fig06"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/asoc/v12n2/a03fig06.gif"></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>7 <i>An&aacute;lise dos resultados</i></b></font></p>     <p><font size="2" face="Verdana">Para verificar a signific&acirc;ncia estat&iacute;stica dos coeficientes de regress&atilde;o ajustados utiliza&#45;se um teste de hip&oacute;tese (TADANO et al., 2006b). A hip&oacute;tese estat&iacute;stica a ser testada &eacute; designada por H<SUB>0</SUB>, chamada hip&oacute;tese nula, expressa por uma igualdade. A hip&oacute;tese alternativa &eacute; dada por uma desigualdade (FONSECA; MARTINS, 1996).</font></p>     <p><font size="2" face="Verdana">O teste de hip&oacute;tese possui v&aacute;rias finalidades, uma delas &eacute; verificar se o coeficiente de regress&atilde;o estimado pode ser desprezado. Neste caso, consideram&#45;se as hip&oacute;teses H<SUB>0</SUB>: </font><font>&#946;</font><font size="2" face="Verdana"> = 0 e H<SUB>1</SUB>: </font>&#946; &#8800;<font size="2" face="Verdana"> 0.</font></p>     <p><font size="2" face="Verdana">O teste estat&iacute;stico utilizado para verificar esta hip&oacute;tese &eacute; (Equa&ccedil;&atilde;o 10):</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm10.gif"></p>     <p><font size="2" face="Verdana">onde </font><font>&#949;</font><font size="2" face="Verdana"> &eacute; o erro padr&atilde;o do coeficiente de regress&atilde;o (</font><font>&#946;</font><font size="2" face="Verdana">) estimado.</font></p>     <p><font size="2" face="Verdana">A rejei&ccedil;&atilde;o da hip&oacute;tese nula ocorre quando |t<sub>0</sub>|&gt;t</font><font><sub>&#945;</sub></font><font size="2" face="Verdana"><sub>/2,n&#45;k&#45;1</sub> (n = n&uacute;mero de observa&ccedil;&otilde;es, k = n&uacute;mero de vari&aacute;veis explicativas), indicando que o valor encontrado para o coeficiente de regress&atilde;o &eacute; estatisticamente significativo, ou seja, a vari&aacute;vel explicativa considerada influencia nos resultados da vari&aacute;vel resposta (FONSECA; MARTINS, 1996).</font></p>     <p><font size="2" face="Verdana">Os valores  t</font><font><sub>&#945;</sub></font><font size="2" face="Verdana"><sub>/2,n&#45;k&#45;1</sub>s&atilde;o apresentados na tabela de distribui&ccedil;&atilde;o t de <I>student</I><a name="tx04"></a><a href="#nt04"><sup>4</sup></a>, onde gl &eacute; o grau de liberdade, dado por n &#150; k &#150; 1 e </font><font>&#945;</font><font size="2" face="Verdana"> &eacute; o n&iacute;vel de signific&acirc;ncia considerado (FONSECA; MARTINS, 1996).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Para a an&aacute;lise dos resultados em estudos epidemiol&oacute;gicos frequentemente utiliza&#45;se uma medida chamada risco relativo, calculada com o uso dos par&acirc;metros estimados no modelo (BAXTER et al., 1997).</font></p>       <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>8 <i>Risco relativo</i></b></font></p>     <p><font size="2" face="Verdana">O risco relativo &eacute; uma medida da associa&ccedil;&atilde;o entre um fator particular (por exemplo, a concentra&ccedil;&atilde;o de poluentes atmosf&eacute;ricos) e o risco de um dado resultado (por exemplo, o n&uacute;mero de pessoas com problemas respirat&oacute;rias em uma regi&atilde;o) (EVERITT, 2003).</font></p>     <p><font size="2" face="Verdana">De forma mais espec&iacute;fica, a fun&ccedil;&atilde;o risco relativo para um n&iacute;vel x de um poluente (Y) &eacute; definida por (BAXTER et al., 1997) (Equa&ccedil;&atilde;o 11):</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm11.gif"></p>     <p><font size="2" face="Verdana">Para o modelo de regress&atilde;o de Poisson, o risco relativo &eacute; dado por (Equa&ccedil;&atilde;o 12):</font></p>     <p align="center"><img src="/img/revistas/asoc/v12n2/a03frm12.gif"></p>     <p><font size="2" face="Verdana">Isto indica, por exemplo, que o risco de uma pessoa exposta a uma concentra&ccedil;&atilde;o de poluente (x) adquirir uma doen&ccedil;a espec&iacute;fica &eacute; RR(x) vezes maior que uma pessoa que n&atilde;o foi exposta a esta concentra&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana">Um risco relativo igual a cinco para uma concentra&ccedil;&atilde;o de um determinado poluente de 100 </font><font>&#181;</font><font size="2" face="Verdana">g/m<sup>3</sup>, por exemplo, indica que uma pessoa exposta a uma concentra&ccedil;&atilde;o de 100 </font><font>&#181;</font><font size="2" face="Verdana">g/m<sup>3</sup> possui cinco vezes mais chance de adquirir uma doen&ccedil;a que uma pessoa que n&atilde;o foi exposta a essa concentra&ccedil;&atilde;o (TADANO, 2007).</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>9 <i>Coment&aacute;rios finais</i></b></font></p>     <p><font size="2" face="Verdana">O processo de busca pelo modelo que melhor se ajusta a um conjunto de dados, apresentado neste trabalho, pode ser utilizado para qualquer problema que envolva uma vari&aacute;vel resposta n&atilde;o negativa em forma de contagem.</font></p>     <p><font size="2" face="Verdana">Verificar o ajuste do modelo, dimensionando os erros envolvidos &eacute; essencial para confirmar se o modelo escolhido representa, adequadamente, os dados envolvidos.</font></p>     <p><font size="2" face="Verdana">Caso os erros sejam altos, &eacute; necess&aacute;rio encontrar um modelo que se ajuste melhor aos dados.</font></p>     <p><font size="2" face="Verdana">O risco relativo &eacute; uma medida muito importante para quantificar o impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de populacional, bem como para alertar a popula&ccedil;&atilde;o quanto aos riscos causados pela polui&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana">De acordo com Concei&ccedil;&atilde;o et al. (2001), para os MLG foram consideradas 18 vari&aacute;veis explicativas, sendo 12 para os meses do ano, 4 para os anos de estudo, temperatura e umidade. Utilizando a fun&ccedil;&atilde;o <I>spline</I> c&uacute;bica natural para o MLG, como apresentado neste trabalho, tem&#45;se 6 vari&aacute;veis explicativas. Assim, aparentemente, os MLG utilizando a fun&ccedil;&atilde;o <I>spline </I>s&atilde;o mais parcimoniosos.</font></p>     <p><font size="2" face="Verdana">Existem, entretanto, desvantagens em utilizar a fun&ccedil;&atilde;o <I>spline</I>, pois os coeficientes estimados nos modelos de regress&atilde;o n&atilde;o s&atilde;o interpret&aacute;veis.</font></p>     <p><font size="2" face="Verdana">Substituindo a fun&ccedil;&atilde;o <I>spline</I> por uma vari&aacute;vel para os meses do ano, como apresentado por Concei&ccedil;&atilde;o et al. (2001), tornam os coeficientes de regress&atilde;o estimados poss&iacute;veis de serem interpretados, por&eacute;m, esta substitui&ccedil;&atilde;o pode provocar um aumento nos erros.</font></p>     <p><font size="2" face="Verdana">A fim de verificar se a aproxima&ccedil;&atilde;o utilizando a fun&ccedil;&atilde;o <I>spline</I> se ajusta melhor que uma vari&aacute;vel para os meses do ano, foi realizado um estudo de caso sobre o impacto do MP<SUB>10</SUB> na sa&uacute;de populacional do munic&iacute;pio de Arauc&aacute;ria, PR (TADANO, 2007).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O estudo de caso ser&aacute; tema de um pr&oacute;ximo artigo.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>Agradecimentos</b></font></p>      <p><font size="2" face="Verdana">&Agrave; Ag&ecirc;ncia Nacional do Petr&oacute;leo (ANP) e &agrave; Financiadora de Estudos e Projetos (FINEP) por meio do Programa de Recursos Humanos da ANP para o Setor de Petr&oacute;leo e G&aacute;s &#150; PRH &#150; ANP/MCT (PRH10 &#150; UTFPR) pelo apoio financeiro.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>Refer&ecirc;ncias bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana">BAXTER, L. A. et al. Comparing estimates of the effects of air pollution on human mortality obtained using different regression methodologies. <B>Risk Analysis</B>, v. 17, n. 3, p. 273&#45;278, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S1414-753X200900020000300001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BERGAMASCHI, D. P.; SOUZA, J. M. P. <B>Bioestat&iacute;stica aplicada a Nutri&ccedil;&atilde;o</B>. S&atilde;o Paulo: Universidade de S&atilde;o Paulo, 2005. (Aula 11). Dispon&iacute;vel em: &lt;<a href="http://www.fsp.usp.br/hep103/Aula11.pdf" target="_blank">http://www.fsp.usp.br/hep103/Aula11.pdf</a>&gt;. Acesso em: 27 Setembro 2006</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000201&pid=S1414-753X200900020000300002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">BOX, G. E. P.; JENKINS, G. M.; REINSEL, G. C. <B>Time series analysis</B>: forecasting and control. EUA: Prentice&#45;Hall, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S1414-753X200900020000300003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CHAPRA, S. C.; CANALE, R. P. <B>Numerical methods for engineers with personal computer applications</B>. EUA: McGraw&#45;Hill International Editions, 1987.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S1414-753X200900020000300004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CONCEI&Ccedil;&Atilde;O, G. M. S.; SALDIVA, P. H. N.; SINGER, J. M. Modelos MLG e MAG para an&aacute;lise da associa&ccedil;&atilde;o entre polui&ccedil;&atilde;o atmosf&eacute;rica e marcadores de morbi&#45;mortalidade: uma introdu&ccedil;&atilde;o baseada em dados da cidade de S&atilde;o Paulo. <B>Revista Brasileira de Epidemiologia</B>, v. 4, n. 3, p. 206&#45;219, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S1414-753X200900020000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">EVERITT, B. S. <B>Modern medical statistics</B>. Nova Iorque: Oxford University Press Inc., 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S1414-753X200900020000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FERRAZ, M. I. F.; S&Aacute;FADI, T.; LAGE, G. Uso de modelos de s&eacute;ries temporais na previs&atilde;o de s&eacute;ries de precipita&ccedil;&atilde;o pluviais mensais no munic&iacute;pio de Lavras &#150; MG. <B>Revista Brasileira de Agrometeorologia</B>, v. 7, n. 2, p. 259&#45;267, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000210&pid=S1414-753X200900020000300007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">FONSECA, J. S.; MARTINS, G. A. <B>Curso de Estat&iacute;stica</B>. S&atilde;o Paulo: Atlas, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000212&pid=S1414-753X200900020000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HAIR Jr., J. F. et al. <B>An&aacute;lise multivariada de dados</B>. S&atilde;o Paulo: Bookman, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000214&pid=S1414-753X200900020000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LATORRE, M. R. D.O.; CARDOSO, M. R. A. Time series analysis in epidemiology: an introduction to methodological aspects. <B>Revista Brasileira de Epidemiologia</B>, v. 4, n. 3, p. 145&#45;152, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000216&pid=S1414-753X200900020000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MARTINS, L. C. <B>Rela&ccedil;&atilde;o entre polui&ccedil;&atilde;o atmosf&eacute;rica e algumas doen&ccedil;as respirat&oacute;rias em idosos: avalia&ccedil;&atilde;o do rod&iacute;zio de ve&iacute;culos no munic&iacute;pio de S&atilde;o Paulo</B>. S&atilde;o Paulo, 2000. 97 f. Disserta&ccedil;&atilde;o (Mestrado em Ci&ecirc;ncias) &#45; Faculdade de Medicina, Universidade de S&atilde;o Paulo.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000218&pid=S1414-753X200900020000300011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">McCULLAGH, P. Quasi&#45;likelihood functions. <B>Annals of Statistics</B>. v. 11, n. 1, p. 59&#45;67, 1983.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000220&pid=S1414-753X200900020000300012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">McCULLAGH, P.; NELDER, J. A. <B>Generalized linear models</B>. 2 ed. Fl&oacute;rida, EUA: Chapman &amp; Hall, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000222&pid=S1414-753X200900020000300013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MYERS, R. H.; MONTGOMERY, D. C. <B>Response surface methodology:</B> process and product optimization using designed experiments. Nova Iorque: John Wiley &amp; Sons, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000224&pid=S1414-753X200900020000300014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">PAULA, G. A. <B>Modelos de regress&atilde;o com apoio computacional</B>. S&atilde;o Paulo: Instituto de Matem&aacute;tica e Estat&iacute;stica, Universidade de S&atilde;o Paulo, 2004. Dispon&iacute;vel em: &lt;<a href="http://www.ime.usp.br/~giapaula/livro.pdf" target="_blank">http://www.ime.usp.br/~giapaula/livro.pdf</a>&gt;. Acesso em: 25 Janeiro 2006</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000226&pid=S1414-753X200900020000300015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">RIBEIRO, A. J. F. <B>Um estudo sobre mortalidade dos aposentados por invalidez do regime geral da previd&ecirc;ncia social (RGPS)</B>. Belo Horizonte, 2006. 191 f. Tese (Doutorado em Demografia) &#45; Centro de Desenvolvimento e Planejamento Regional, Faculdade de Ci&ecirc;ncias Econ&ocirc;micas, Universidade Federal de Minas Gerais.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000227&pid=S1414-753X200900020000300016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">RUSSO, S. L. <B>Gr&aacute;ficos de controle para vari&aacute;veis n&atilde;o&#45;conformes autocorrelacionadas</B>. Florian&oacute;pilis, 2002. 120 f. Tese (Doutorado em Engenharia de Produ&ccedil;&atilde;o) &#45; Universidade Federal de Santa Catarina.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000229&pid=S1414-753X200900020000300017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SCHMIDT, C. M. C. <B>Modelo de regress&atilde;o de Poisson aplicado &agrave; &aacute;rea da sa&uacute;de</B>. Ij&uacute;i, 2003. 98 f. Disserta&ccedil;&atilde;o (Mestrado em Modelagem Matem&aacute;tica) &#45; Universidade Regional do Noroeste do Estado do Rio Grande do Sul.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000231&pid=S1414-753X200900020000300018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana">S&#45;PLUS 7. <B>Guide to Statistics</B>. Seattle, Washington: Insightful Corporation, 2005. (v. 1).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000233&pid=S1414-753X200900020000300019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">TADANO, Y. S. <B>An&aacute;lise do impacto de MP10 na sa&uacute;de populacional:</B> estudo de caso em Arauc&aacute;ria, PR. Curitiba, 2007. 99 f. Disserta&ccedil;&atilde;o (Mestrado em Engenharia Mec&acirc;nica e de Materiais) &#45; Universidade Tecnol&oacute;gica Federal do Paran&aacute;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000235&pid=S1414-753X200900020000300020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</font></p>     <!-- ref --><p><font size="2" face="Verdana">TADANO, Y. S.; UGAYA, C. M. L.; FRANCO, A. T. An&aacute;lise estat&iacute;stica do impacto da polui&ccedil;&atilde;o atmosf&eacute;rica na sa&uacute;de populacional. In: RIO OIL &amp; GAS 2006 EXPO AND CONFERENCE, 13, 2006, Rio de Janeiro. <B>Anais...</B> Rio de Janeiro: Editora IBP, 2006a.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000237&pid=S1414-753X200900020000300021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">TADANO, Y. S.; UGAYA, C. M. L.; FRANCO, A. T. Avalia&ccedil;&atilde;o do impacto do ciclo de vida: efeitos dos poluentes e das condi&ccedil;&otilde;es meteorol&oacute;gicas na sa&uacute;de da popula&ccedil;&atilde;o de Arauc&aacute;ria. In: RAA 2006 ENCONTRO DE PRHS REGI&Atilde;O SUL, 2006, Curitiba. <B>Anais...</B> Curitiba, 2006b.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000239&pid=S1414-753X200900020000300022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">WERKEMA, M. C. C.; AGUIAR, S. <B>An&aacute;lise de regress&atilde;o:</B> como entender o relacionamento entre as vari&aacute;veis de um processo. Belo Horizonte: Funda&ccedil;&atilde;o Christiano Ottoni da Escola de Engenharia da UFMG, 1996. (S&eacute;rie Ferramentas da qualidade, 7).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000241&pid=S1414-753X200900020000300023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>Notas</b></font></p>     <p><font size="2" face="Verdana"><a name="nt01"></a><a href="#tx01">1</a> Curvas suavizadas: S&atilde;o curvas ajustadas atrav&eacute;s de uma fun&ccedil;&atilde;o que por defini&ccedil;&atilde;o deve ser mais "suave" do que os valores de y, ou seja, devem ter menor variabilidade do que os valores de y. Como exemplos de curvas suavizadas podem ser citados: m&eacute;dia m&oacute;vel, <I>splines</I>, <I>locally weighted running line smoother</I> (loess), entre outros (CONCEI&Ccedil;&Atilde;O et al., 2001).</font></p>     <p><font size="2" face="Verdana"><a name="nt02"></a><a href="#tx02">2</a> O intervalo de confian&ccedil;a (IC) &eacute; um conjunto de valores calculados com base nos dados. Pressup&otilde;e&#45;se que cubra o par&acirc;metro de interesse com um 'certo' grau (n&iacute;vel) de confian&ccedil;a. O grau de confian&ccedil;a mais comumente utilizado &eacute; o de 95% (BERGAMASCHI; SOUZA, 2005).</font></p>     <p><font size="2" face="Verdana"><a name="nt03"></a><a href="#tx03">3</a> Diagrama de dispers&atilde;o: "Gr&aacute;fico de pontos baseado em duas vari&aacute;veis, onde uma vari&aacute;vel define o eixo horizontal e a outra define o eixo vertical. As vari&aacute;veis podem ser observa&ccedil;&otilde;es, valores esperados ou mesmo res&iacute;duos. Uma forte organiza&ccedil;&atilde;o dos pontos ao longo de uma linha reta caracteriza uma rela&ccedil;&atilde;o linear ou correla&ccedil;&atilde;o" (HAIR Jr. et al., 2005).</font></p>     <p><font size="2" face="Verdana"><a name="nt04"></a><a href="#tx04">4</a> Distribui&ccedil;&atilde;o t de <I>student</I> &#150; &Eacute; uma distribui&ccedil;&atilde;o cont&iacute;nua semelhante &agrave; distribui&ccedil;&atilde;o normal utilizada para realizar testes de hip&oacute;stese. A tabela da distribui&ccedil;&atilde;o t de <I>student </I>pode ser encontrada em qualquer livro de estat&iacute;stica b&aacute;sica (FONSECA; MARTINS, 1996).</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b><a name="nt"></a><a href="#tx"><img src="/img/revistas/asoc/v12n2/seta.gif" border="0"></a> Autor para correspond&ecirc;ncia:</b>    <br>   Yara de Souza Tadano    ]]></body>
+<body><![CDATA[<br>  Universidade Tecnol&oacute;gica Federal do Paran&aacute; &#150; UTFPR    <br>  Rua Enoque Ant&ocirc;nio de Aquino, 520    <br>  CEP 79950&#45;000, Navira&iacute;, MS, Brasil    <br>  E&#45;mail: <a href="mailto:yaratadano@gmail.com">yaratadano@gmail.com</a></font></p>     <p><font size="2" face="Verdana">Recebido: 3/4/2009. Aceito: 24/6/2009</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAXTER]]></surname>
+<given-names><![CDATA[L. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Comparing estimates of the effects of air pollution on human mortality obtained using different regression methodologies]]></article-title>
+<source><![CDATA[Risk Analysis]]></source>
+<year>1997</year>
+<volume>17</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>273-278</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERGAMASCHI]]></surname>
+<given-names><![CDATA[D. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[J. M. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bioestatística aplicada a Nutrição]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Universidade de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOX]]></surname>
+<given-names><![CDATA[G. E. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JENKINS]]></surname>
+<given-names><![CDATA[G. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[REINSEL]]></surname>
+<given-names><![CDATA[G. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series analysis: forecasting and control]]></source>
+<year>1994</year>
+<publisher-name><![CDATA[Prentice-Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHAPRA]]></surname>
+<given-names><![CDATA[S. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CANALE]]></surname>
+<given-names><![CDATA[R. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Numerical methods for engineers with personal computer applications]]></source>
+<year>1987</year>
+<publisher-name><![CDATA[McGraw-Hill International Editions]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CONCEIÇÃO]]></surname>
+<given-names><![CDATA[G. M. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SALDIVA]]></surname>
+<given-names><![CDATA[P. H. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SINGER]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Modelos MLG e MAG para análise da associação entre poluição atmosférica e marcadores de morbi-mortalidade: uma introdução baseada em dados da cidade de São Paulo]]></article-title>
+<source><![CDATA[Revista Brasileira de Epidemiologia]]></source>
+<year>2001</year>
+<volume>4</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>206-219</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EVERITT]]></surname>
+<given-names><![CDATA[B. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modern medical statistics]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Nova Iorque ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERRAZ]]></surname>
+<given-names><![CDATA[M. I. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SÁFADI]]></surname>
+</name>
+<name>
+<surname><![CDATA[LAGE]]></surname>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1999</year>
+<volume>7</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>259-267</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FONSECA]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARTINS]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Curso de Estatística]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Atlas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAIR Jr.]]></surname>
+<given-names><![CDATA[J. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise multivariada de dados]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Bookman]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LATORRE]]></surname>
+<given-names><![CDATA[M. R. D.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARDOSO]]></surname>
+<given-names><![CDATA[M. R. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Time series analysis in epidemiology: an introduction to methodological aspects]]></article-title>
+<source><![CDATA[Revista Brasileira de Epidemiologia]]></source>
+<year>2001</year>
+<volume>4</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>145-152</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTINS]]></surname>
+<given-names><![CDATA[L. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Relação entre poluição atmosférica e algumas doenças respiratórias em idosos: avaliação do rodízio de veículos no município de São Paulo]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McCULLAGH]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Quasi-likelihood functions]]></article-title>
+<source><![CDATA[Annals of Statistics]]></source>
+<year>1983</year>
+<volume>11</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>59-67</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McCULLAGH]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NELDER]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Generalized linear models]]></source>
+<year>1989</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Flórida ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman & Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MYERS]]></surname>
+<given-names><![CDATA[R. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MONTGOMERY]]></surname>
+<given-names><![CDATA[D. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Response surface methodology: process and product optimization using designed experiments]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Nova Iorque ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PAULA]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modelos de regressão com apoio computacional]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Matemática e Estatística, Universidade de São Paulo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RIBEIRO]]></surname>
+<given-names><![CDATA[A. J. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Um estudo sobre mortalidade dos aposentados por invalidez do regime geral da previdência social (RGPS)]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUSSO]]></surname>
+<given-names><![CDATA[S. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Gráficos de controle para variáveis não-conformes autocorrelacionadas]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Florianópilis ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHMIDT]]></surname>
+<given-names><![CDATA[C. M. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modelo de regressão de Poisson aplicado à área da saúde]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Ijúi ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<collab>S-PLUS 7</collab>
+<source><![CDATA[Guide to Statistics]]></source>
+<year>2005</year>
+<volume>1</volume>
+<publisher-loc><![CDATA[Seattle^eWashington Washington]]></publisher-loc>
+<publisher-name><![CDATA[Insightful Corporation]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TADANO]]></surname>
+<given-names><![CDATA[Y. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise do impacto de MP10 na saúde populacional: estudo de caso em Araucária]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Curitiba^ePR PR]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TADANO]]></surname>
+<given-names><![CDATA[Y. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[UGAYA]]></surname>
+<given-names><![CDATA[C. M. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRANCO]]></surname>
+<given-names><![CDATA[A. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise estatística do impacto da poluição atmosférica na saúde populacional]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year>2006</year>
+<conf-name><![CDATA[13 RIO OIL & GAS 2006 EXPO AND CONFERENCE]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>Rio de Janeiro </conf-loc>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Editora IBP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TADANO]]></surname>
+<given-names><![CDATA[Y. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[UGAYA]]></surname>
+<given-names><![CDATA[C. M. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FRANCO]]></surname>
+<given-names><![CDATA[A. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Avaliação do impacto do ciclo de vida: efeitos dos poluentes e das condições meteorológicas na saúde da população de Araucária]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year>2006</year>
+<conf-name><![CDATA[ RAA 2006 ENCONTRO DE PRHS REGIÃO SUL]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>Curitiba </conf-loc>
+<publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WERKEMA]]></surname>
+<given-names><![CDATA[M. C. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AGUIAR]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de regressão: como entender o relacionamento entre as variáveis de um processo]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação Christiano Ottoni da Escola de Engenharia da UFMG]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

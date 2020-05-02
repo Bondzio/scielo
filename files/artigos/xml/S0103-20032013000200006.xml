@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032013000200006</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032013000200006</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Determinantes da localização da agroindústria canavieira nos municípios de Minas Gerais]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Siqueira]]></surname>
+<given-names><![CDATA[Paulo Henrique de Lima]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Castro Júnior]]></surname>
+<given-names><![CDATA[Luiz Gonzaga de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de São João Del-Rei  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal de Lavras  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2013</year>
+</pub-date>
+<volume>51</volume>
+<numero>2</numero>
+<fpage>309</fpage>
+<lpage>330</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032013000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032013000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032013000200006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Durante quase toda a sua história, a economia canavieira de Minas Gerais sempre se apresentou como complementar em relação a outras atividades econômicas nucleares, tanto dentro do próprio estado quanto em relação aos demais estados do Centro-Sul do Brasil. A partir dos anos 1990, a importância econômica dessa atividade no estado aumentou, atraindo grandes investimentos e fazendo com que a região ocupasse posição de destaque na produção canavieira nacional. Especificamente nos municípios mineiros, muitos fatores podem ser atrativos para a instalação de usinas e destilarias, trazendo vantagens e desvantagens econômicas, sociais e ambientais. Este estudo foi realizado com o objetivo de verificar a evolução da agroindústria canavieira em Minas Gerais e quais elementos têm estimulado a localização das usinas e destilarias em determinados municípios deste estado. Com uma análise multivariada de regressão logística, verificou-se que a produtividade, o acesso aos recursos hídricos, a concentração fundiária, as áreas arrendadas, a disponibilidade de mão de obra formal e a renda mais elevada dessa mão de obra são os fatores que determinam a presença de usinas e destilarias nos municípios mineiros, podendo gerar benefícios ou malefícios, que devem ser verificados em estudos posteriores.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[During almost all the history of Minas Gerais State, its sugarcane production always presented as complementary to other major economy activities, both inside the state and in other Central-Southern regions in Brazil. From the nineties onwards, the sugarcane activity presented a significant economic importance for the state, with the occupation of the savanna of Minas Gerais and attracting investments. This state began to have a prominence occupation in the ethanol and sugar production in Brazil. Specifically in Minas Gerais State cities, many aspects can attract the installation of mills and distilleries, with economic, social and environmental advantages and disadvantages. This paper verifies the evolution of the sugarcane agroindustry in Minas Gerais and the elements which have encouraged the location of mills and distilleries in some counties. With a multivariate logistic regression analysis, it was found that the yield, the access to water resources, the land concentration, leased agriculture properties, the availability of formal workforce and the higher income of this workforce are aspects that have determined the presence of mills and distilleries in Minas Gerais cities, which can result in beneficial or harmful effects that should be verified in future studies.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Agroindústria canavieira]]></kwd>
+<kwd lng="pt"><![CDATA[municípios mineiros]]></kwd>
+<kwd lng="pt"><![CDATA[determinantes]]></kwd>
+<kwd lng="en"><![CDATA[Sugarcane agroindustry]]></kwd>
+<kwd lng="en"><![CDATA[Minas Gerais cities]]></kwd>
+<kwd lng="en"><![CDATA[determinants]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Determinantes da localiza&ccedil;&atilde;o da agroind&uacute;stria canavieira nos munic&iacute;pios de Minas Gerais</b> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Paulo Henrique de Lima Siqueira<sup>I</sup>; Luiz Gonzaga de Castro J&uacute;nior<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Professor da Universidade Federal de S&atilde;o Jo&atilde;o Del-Rei (UFSJ) E-mail: <a href="mailto:p33108@hotmail.com">p33108@hotmail.com</a>    <br>   <sup>II</sup>Professor da Universidade Federal de Lavras (Ufla) E-mail: <a href="mailto:lgcastro@ufla.br">lgcastro@ufla.br</a> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Durante quase toda a sua hist&oacute;ria, a economia canavieira de Minas Gerais sempre se apresentou como complementar em rela&ccedil;&atilde;o a outras atividades econ&ocirc;micas nucleares, tanto dentro do pr&oacute;prio estado quanto em rela&ccedil;&atilde;o aos demais estados do Centro-Sul do Brasil. A partir dos anos 1990, a import&acirc;ncia econ&ocirc;mica dessa atividade no estado aumentou, atraindo grandes investimentos e fazendo com que a regi&atilde;o ocupasse posi&ccedil;&atilde;o de destaque na produ&ccedil;&atilde;o canavieira nacional. Especificamente nos munic&iacute;pios mineiros, muitos fatores podem ser atrativos para a instala&ccedil;&atilde;o de usinas e destilarias, trazendo vantagens e desvantagens econ&ocirc;micas, sociais e ambientais. Este estudo foi realizado com o objetivo de verificar a evolu&ccedil;&atilde;o da agroind&uacute;stria canavieira em Minas Gerais e quais elementos t&ecirc;m estimulado a localiza&ccedil;&atilde;o das usinas e destilarias em determinados munic&iacute;pios deste estado. Com uma an&aacute;lise multivariada de regress&atilde;o log&iacute;stica, verificou-se que a produtividade, o acesso aos recursos h&iacute;dricos, a concentra&ccedil;&atilde;o fundi&aacute;ria, as &aacute;reas arrendadas, a disponibilidade de m&atilde;o de obra formal e a renda mais elevada dessa m&atilde;o de obra s&atilde;o os fatores que determinam a presen&ccedil;a de usinas e destilarias nos munic&iacute;pios mineiros, podendo gerar benef&iacute;cios ou malef&iacute;cios, que devem ser verificados em estudos posteriores. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chaves: </b>Agroind&uacute;stria canavieira, munic&iacute;pios mineiros, determinantes. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">During almost all the history of Minas Gerais State, its sugarcane production always presented as complementary to other major economy activities, both inside the state and in other Central-Southern regions in Brazil. From the nineties onwards, the sugarcane activity presented a significant economic importance for the state, with the occupation of the savanna of Minas Gerais and attracting investments. This state began to have a prominence occupation in the ethanol and sugar production in Brazil. Specifically in Minas Gerais State cities, many aspects can attract the installation of mills and distilleries, with economic, social and environmental advantages and disadvantages. This paper verifies the evolution of the sugarcane agroindustry in Minas Gerais and the elements which have encouraged the location of mills and distilleries in some counties. With a multivariate logistic regression analysis, it was found that the yield, the access to water resources, the land concentration, leased agriculture properties, the availability of formal workforce and the higher income of this workforce are aspects that have determined the presence of mills and distilleries in Minas Gerais cities, which can result in beneficial or harmful effects that should be verified in future studies. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key-words: </b>Sugarcane agroindustry, Minas Gerais cities, determinants.     <br>   <b>Classifica&ccedil;&atilde;o JEL: </b>Q13, R3. </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A presen&ccedil;a de qualquer atividade econ&ocirc;mica numa determinada regi&atilde;o pode trazer vantagens ou desvantagens. Dentre as vantagens, podem ser apontadas as novas oportunidades de empregos, aumento da arrecada&ccedil;&atilde;o de impostos e novas atividades econ&ocirc;micas em fun&ccedil;&atilde;o da necessidade de fornecedores e distribuidores dentro de uma determinada cadeia produtiva. Por outro lado, a polui&ccedil;&atilde;o do ar, sonora ou mesmo visual, a concorr&ecirc;ncia desleal e o deslocamento de pessoas para outras localidades poderiam ser fatores negativos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car foi uma atividade importante para a economia brasileira em diferentes per&iacute;odos hist&oacute;ricos. Foi relevante, principalmente, nos prim&oacute;rdios do s&eacute;culo XVI, durante a coloniza&ccedil;&atilde;o portuguesa e, mais recentemente, a partir da d&eacute;cada de 70, com a implementa&ccedil;&atilde;o do Programa Nacional do &Aacute;lcool, o Pro&aacute;lcool, cujo objetivo era estimular a produ&ccedil;&atilde;o de etanol, tido como combust&iacute;vel nacional. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir de 2003, a produ&ccedil;&atilde;o de etanol no Brasil tem sido favorecida, principalmente em fun&ccedil;&atilde;o da parcela destinada, por decreto governamental, na mistura com a gasolina e com a introdu&ccedil;&atilde;o dos carros flex fuel, que podem utilizar tanto a gasolina quanto o etanol. De acordo com os dados sobre a produ&ccedil;&atilde;o de ve&iacute;culos automotores da Associa&ccedil;&atilde;o Nacional dos Fabricantes de Ve&iacute;culos Automotores (Anfavea) disponibilizados pela Unica<a name="1b"></a><a href="#1a"><sup>1</sup></a>, o Pa&iacute;s produziu 2.848.071 carros  flex fuel em 2011 (88,31% do total de autom&oacute;veis comerciais leves), com eleva&ccedil;&atilde;o de mais de 5.811% em rela&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o de 2003. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em Minas Gerais, a produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car teve in&iacute;cio somente a partir do s&eacute;culo XVIII, quando a cultura j&aacute; n&atilde;o era t&atilde;o importante economicamente para o Pa&iacute;s, surgindo como um ap&ecirc;ndice de uma nova atividade econ&ocirc;mica mais importante, que era a extra&ccedil;&atilde;o de ouro e diamantes. Essa pequena express&atilde;o econ&ocirc;mica da produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car em Minas Gerais se estendeu durante todo o seu per&iacute;odo hist&oacute;rico at&eacute; meados da d&eacute;cada de 90, quando a produ&ccedil;&atilde;o passou a ter import&acirc;ncia cada vez maior para o estado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; produ&ccedil;&atilde;o de a&ccedil;&uacute;car em Minas Gerais, segundo a Unica, a taxa geom&eacute;trica de crescimento<a name="2b"></a><a href="#2a"><sup>2</sup></a> foi de 9,73% entre as safras 1990/1991 e 2011/2012. Assim, o estado mineiro assumiu a segunda posi&ccedil;&atilde;o, que era do Paran&aacute;, e que, no mesmo per&iacute;odo, teve taxa geom&eacute;trica de crescimento de 6,82%. Na temporada 2011/2012, Minas Gerais produziu 3.242.059 toneladas de a&ccedil;&uacute;car, crescimento de 684,63% em rela&ccedil;&atilde;o &agrave; safra 1990/1991, sendo o segundo maior produtor no Pa&iacute;s, atr&aacute;s somente de S&atilde;o Paulo. A produ&ccedil;&atilde;o de etanol tamb&eacute;m aumentou nesse mesmo per&iacute;odo, 388,45%, atingindo 2.087.437 m&sup3; na safra 2011/2012. Em virtude desse crescimento, surgem novos questionamentos quanto &agrave;s implica&ccedil;&otilde;es econ&ocirc;micas, sociais e mesmo ambientais da presen&ccedil;a dessa atividade nos munic&iacute;pios mineiros. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alguns estudiosos (SHIKIDA e SOUZA, 2009; NEVES e CONEJERO, 2007; JUNQUEIRA et al., 2009; TONETO JUNIOR e LIBONI, 2008) t&ecirc;m levantado aspectos positivos em rela&ccedil;&atilde;o &agrave; presen&ccedil;a de usinas em determinados munic&iacute;pios brasileiros. Entre eles podem-se citar: gera&ccedil;&atilde;o de emprego, que diminui a migra&ccedil;&atilde;o para as &aacute;reas urbanas, melhorando a qualidade de vida de muitas localidades; diminui&ccedil;&atilde;o gradativa da m&atilde;o de obra tempor&aacute;ria, em fun&ccedil;&atilde;o das exig&ecirc;ncias legais relativas &agrave; extin&ccedil;&atilde;o das queimadas na colheita da cana, mas com a gera&ccedil;&atilde;o de novos empregos em outras atividades que demandam m&atilde;o de obra mais qualificada; remunera&ccedil;&atilde;o salarial superior da cultura de cana em rela&ccedil;&atilde;o &agrave;s v&aacute;rias outras culturas agr&iacute;colas, bem como da ind&uacute;stria de a&ccedil;&uacute;car e &aacute;lcool em rela&ccedil;&atilde;o &agrave;s outras ind&uacute;strias aliment&iacute;cias; gera&ccedil;&atilde;o de renda e de impostos, al&eacute;m do aumento das transfer&ecirc;ncias de recursos estaduais aos munic&iacute;pios e abertura do mercado internacional ao etanol anidro, devido &agrave;s pol&iacute;ticas governamentais de adi&ccedil;&atilde;o do &aacute;lcool &agrave; gasolina e ao fato de o Brasil ser o &uacute;nico Pa&iacute;s que tem um programa em larga escala de ve&iacute;culos com motores que utilizam como fontes energ&eacute;ticas o etanol. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dentre os aspectos prejudiciais para os munic&iacute;pios, determinados estudos (SZMRECS&Aacute;NYI et al., 2008; GON&Ccedil;ALVES J&Uacute;NIOR et al., 2009; SHIKIDA e SOUZA, 2009; ALTIERI, 2009) apontam para a exist&ecirc;ncia de uma rede de sa&uacute;de e saneamento no limite de sua utiliza&ccedil;&atilde;o e insuficientes para atender a popula&ccedil;&atilde;o itinerante ocupada no plantio e na colheita de cana; o desarranjo de atividades produtivas locais importantes para o abastecimento alimentar e para o com&eacute;rcio regional, amea&ccedil;adas de desestrutura&ccedil;&atilde;o pela introdu&ccedil;&atilde;o da monocultura de cana em larga escala que substitua atividades preexistentes; concentra&ccedil;&atilde;o fundi&aacute;ria intensificada pela monocultura extensiva resultante da corrida para a aquisi&ccedil;&atilde;o de terras e pelo elevado grau de verticaliza&ccedil;&atilde;o da ind&uacute;stria canavieira; sazonalidade da demanda de m&atilde;o de obra ainda presente em muitas lavouras canavieiras; mecaniza&ccedil;&atilde;o do cultivo de cana que prejudica o mercado de trabalho, pois o setor &eacute; o que mais emprega analfabetos ou semianalfabetos e eles poderiam ter dificuldades de empregabilidade; possibilidade de depend&ecirc;ncia por parte dos munic&iacute;pios a somente uma atividade econ&ocirc;mica, o que pode comprometer sua economia caso o setor canavieiro sofra crises e concentra&ccedil;&atilde;o na produ&ccedil;&atilde;o em grandes produtores agr&iacute;colas que favorece a utiliza&ccedil;&atilde;o de uma grande quantidade de insumos agroqu&iacute;micos - herbicidas e fertilizantes nitrogenados - que provocam graves consequ&ecirc;ncias ambientais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Considerando-se todos esses elementos positivos e negativos em um contexto de crescimento da agroind&uacute;stria canavieira no estado de Minas Gerais, questiona-se: quais seriam os fatores que t&ecirc;m favorecido a presen&ccedil;a de usinas e destilarias em determinados munic&iacute;pios mineiros? Com isso, este estudo foi realizado com o objetivo de verificar a evolu&ccedil;&atilde;o da agroind&uacute;stria canavieira em Minas Gerais e quais elementos t&ecirc;m estimulado a localiza&ccedil;&atilde;o das usinas e destilarias em determinados munic&iacute;pios deste estado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na pr&oacute;xima se&ccedil;&atilde;o &eacute; apresentado um levantamento dos principais estudos sobre vantagens e desvantagens da instala&ccedil;&atilde;o de usinas e destilarias em diferentes regi&otilde;es do Brasil. Em seguida, apresenta-se a metodologia utilizada no estudo, destacando-se as descri&ccedil;&otilde;es sobre an&aacute;lise multivariada log&iacute;stica. Na se&ccedil;&atilde;o subsequente, apresentam-se a evolu&ccedil;&atilde;o hist&oacute;rica e as caracter&iacute;sticas da agroind&uacute;stria canavieira em Minas Gerais, a partir da d&eacute;cada de 90 e os principais fatores que t&ecirc;m contribu&iacute;do para seu desenvolvimento e relev&acirc;ncia econ&ocirc;mica. A seguir, abordam-se os aspectos que t&ecirc;m estimulado a presen&ccedil;a da agroind&uacute;stria canavieira nos munic&iacute;pios mineiros e, por fim, as considera&ccedil;&otilde;es finais e as sugest&otilde;es de pesquisas futuras. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Impactos econ&ocirc;micos da presen&ccedil;a de usinas e destilarias nos munic&iacute;pios</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alguns autores t&ecirc;m apontado vantagens relacionadas &agrave; presen&ccedil;a da agroind&uacute;stria canavieira, do ponto de vista econ&ocirc;mico, na gera&ccedil;&atilde;o de empregos, no aumento da arrecada&ccedil;&atilde;o de impostos e na dinamiza&ccedil;&atilde;o econ&ocirc;mica. Segundo Toneto J&uacute;nior e Liboni (2008), baseando-se nos dados da Rela&ccedil;&atilde;o Anual e Rela&ccedil;&otilde;es Sociais (Rais), do Minist&eacute;rio do Trabalho e do Emprego e da Pesquisa Nacional por Amostra Domiciliar (PNAD) do IBGE, o setor de cana-de-a&ccedil;&uacute;car foi, em 2006, um dos principais setores, em termos de gera&ccedil;&atilde;o de emprego no Brasil, representando 17% do emprego na ind&uacute;stria aliment&iacute;cia e aproximadamente 14% na agricultura, com cerca de um milh&atilde;o de empregos gerados. Neste setor encontram-se as melhores condi&ccedil;&otilde;es de remunera&ccedil;&atilde;o e formaliza&ccedil;&atilde;o das rela&ccedil;&otilde;es de trabalho, quando se consideram tanto o emprego no cultivo de cana, cuja remunera&ccedil;&atilde;o &eacute; maior do que a m&eacute;dia da agricultura, como nas usinas e no refino de a&ccedil;&uacute;car, em que a remunera&ccedil;&atilde;o situa-se na m&eacute;dia do setor de alimentos. Al&eacute;m disso, o trabalho sazonal tem sido fortemente reduzido e h&aacute; maior procura por m&atilde;o de obra mais qualificada. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Shikida e Souza (2009), pesquisando uma usina no munic&iacute;pio de Cidade Ga&uacute;cha, no estado do Paran&aacute;, constataram uma diminui&ccedil;&atilde;o no percentual de empregados dispensados ao t&eacute;rmino da safra entre 1992 e 2005, que passou de 90,8% para apenas 21,6%, devido &agrave; mecaniza&ccedil;&atilde;o no corte, em fun&ccedil;&atilde;o das press&otilde;es ambientais e &agrave; escassez de m&atilde;o de obra na regi&atilde;o para o corte manual da cana. Isso aconteceu porque, apesar da queda do n&uacute;mero de pessoas empregadas no setor rural, n&atilde;o houve queda significativa no n&uacute;mero total de empregados da empresa, pois o crescimento nos setores industrial, administrativo, agr&iacute;cola e laborat&oacute;rio entomol&oacute;gico compensou a queda do setor rural. Al&eacute;m disso, o n&uacute;mero de empregados na f&aacute;brica passou de 186, em 1992, para 275, em 2000, sendo respons&aacute;vel por 37,9% do emprego do setor ind&uacute;stria de transforma&ccedil;&atilde;o do munic&iacute;pio, al&eacute;m de 67,8% do emprego dos setores agropecu&aacute;rio, de extra&ccedil;&atilde;o vegetal e de pesca da cidade. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em estudo de Junqueira et al. (2009), tamb&eacute;m no Paran&aacute;, verificou-se que a maioria das usinas adota ou buscar&aacute; adotar a colheita mecanizada em fun&ccedil;&atilde;o do aumento das press&otilde;es competitivas de mercado, da escassez de m&atilde;o de obra para o corte manual da cana e das press&otilde;es ambientais para a extin&ccedil;&atilde;o da queima da palha da cana. Verificaram, ainda, a escassez de m&atilde;o de obra mais qualificada, justamente para trabalhar com essas novas m&aacute;quinas agr&iacute;colas, demandando treinamento e qualifica&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outro aspecto positivo relacionado &agrave; presen&ccedil;a de usinas e destilarias nos munic&iacute;pios &eacute; o aumento da arrecada&ccedil;&atilde;o de impostos. De acordo com Silva e Pontili, citados por Shikida e Souza (2009), s&atilde;o recolhidos, a cada ano, mais de R$ 12 bilh&otilde;es aos cofres p&uacute;blicos. Shikida e Souza (2009) verificaram, ainda, que a usina de Cidade Ga&uacute;cha ajudou a elevar as suas receitas correntes, no que se refere &agrave;s receitas de transfer&ecirc;ncias de recursos estaduais, com sua contribui&ccedil;&atilde;o para o Valor Adicionado Fiscal. Al&eacute;m disso, as receitas pr&oacute;prias desse munic&iacute;pio tamb&eacute;m cresceram, entre 1980 e 2004, levando a um aumento de 64,1% da sua arrecada&ccedil;&atilde;o tribut&aacute;ria. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m disso, a Contribui&ccedil;&atilde;o de Interven&ccedil;&atilde;o sobre o Dom&iacute;nio Econ&ocirc;mico (Cide), institu&iacute;da em 19 de dezembro de 2001, tamb&eacute;m foi relevante para a arrecada&ccedil;&atilde;o de impostos, incidente sobre a importa&ccedil;&atilde;o e a comercializa&ccedil;&atilde;o de combust&iacute;veis, cujo montante arrecadado deve subsidiar os pre&ccedil;os e o transporte do &aacute;lcool combust&iacute;vel, do g&aacute;s natural e dos derivados de petr&oacute;leo, e ao financiamento de projetos ambientais relacionados com a ind&uacute;stria do petr&oacute;leo e do g&aacute;s e de programas de infraestrutura de transportes (BARROS e MARJOTA-MAISTRO, 2005). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; dinamiza&ccedil;&atilde;o econ&ocirc;mica, Shikida e Souza (2009) verificaram que, antes da instala&ccedil;&atilde;o da usina em Cidade Ga&uacute;cha, havia menor crescimento urbano, maior &ecirc;xodo rural e maior perda de popula&ccedil;&atilde;o total em rela&ccedil;&atilde;o &agrave; mesorregi&atilde;o paranaense e que, ap&oacute;s a sua instala&ccedil;&atilde;o, ocorreram perda menos acentuada da popula&ccedil;&atilde;o rural e crescimento urbano mais acelerado que a m&eacute;dia dos munic&iacute;pios integrantes dessa mesorregi&atilde;o. Al&eacute;m disso, a usina doou 150 hectares para constru&ccedil;&atilde;o de 220 casas, em uma vila rural, para fixar as pessoas na cidade, intensificando a circula&ccedil;&atilde;o econ&ocirc;mica e criando renda para o munic&iacute;pio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outro aspecto que ainda pode dinamizar a economia local &eacute; a possibilidade da abertura de novos mercados nacionais e internacionais para o etanol brasileiro, especialmente para o etanol anidro, pois, segundo Neves e Conejero (2007), as pol&iacute;ticas governamentais de diferentes partes do mundo v&ecirc;m estimulando a adi&ccedil;&atilde;o de etanol na gasolina. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Um dos fen&ocirc;menos observados na agroind&uacute;stria canavieira brasileira nos &uacute;ltimos anos, e alvo de muita controv&eacute;rsia, &eacute; o n&iacute;vel de concentra&ccedil;&atilde;o, tanto das propriedades agr&iacute;colas produtoras de cana-de-a&ccedil;&uacute;car como das unidades esmagadoras. Szmrecs&aacute;nyi et al. (2008), comparando o Censo Agropecu&aacute;rio de 1985 com o de 1995-1996, verificaram que, no Brasil, a lavoura canavieira constitui uma monocultura extensiva, pois as &aacute;reas m&eacute;dias dos estabelecimentos especializados na produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car t&ecirc;m sido maiores do que as dos demais dedicados a outras lavouras, com exce&ccedil;&atilde;o da silvicultura em alguns estados, e da silvicultura e da pecu&aacute;ria em Minas Gerais. Al&eacute;m disso, nesse per&iacute;odo, os mesmos autores verificaram que o n&uacute;mero de estabelecimentos agr&iacute;colas tem diminu&iacute;do, enquanto as &aacute;reas m&eacute;dias aumentaram na maioria dos estados, mostrando uma concentra&ccedil;&atilde;o fundi&aacute;ria. Eles observaram, ainda, que a participa&ccedil;&atilde;o de cana pr&oacute;pria nos volumes totais mo&iacute;dos pelas unidades dos principais estados produtores do Centro-Sul do Brasil permaneceram acima de 50% no per&iacute;odo de 1984 a 2006; que o aumento de mais de 70% da produ&ccedil;&atilde;o de cana esteve atrelado aos maiores produtores que mais que duplicaram seu fornecimento e que as propriedades canavieiras pertencentes ou controladas pelas ind&uacute;strias canavieiras ocupam &aacute;reas de terras muito maiores dos que as que realmente cultivam, devido &agrave; sua integra&ccedil;&atilde;o vertical. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; concentra&ccedil;&atilde;o das unidades esmagadoras, o que se tem verificado, a partir do ano 2000, &eacute; um intenso processo de fus&otilde;es e aquisi&ccedil;&otilde;es tanto de empresas nacionais quanto estrangeiras. De acordo com a Unica, em 2009, o setor de a&ccedil;&uacute;car e &aacute;lcool respondeu por cerca de 25% das transa&ccedil;&otilde;es na ind&uacute;stria de alimentos e agroneg&oacute;cio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em Minas Gerais, em um estudo de Hersen et al. (2008), foi demonstrado que, nos anos-safras de 1996/97 at&eacute; 2005/06, houve aumento na concentra&ccedil;&atilde;o na produ&ccedil;&atilde;o da agroind&uacute;stria canavieira mineira, com aumento dos &iacute;ndices de concentra&ccedil;&atilde;o CR<sub>4</sub> de 50,55% a 59,49% e de Hirschmann-Herfindahl Index (HHI) de 0,0937 para 0,1259, no per&iacute;odo<a name="3b"></a><a href="#3a"><sup>3</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se a concentra&ccedil;&atilde;o &eacute; positiva ou negativa, existe controv&eacute;rsia entre pesquisadores e estudiosos. Shepherd (1999) argumenta que todas as firmas procuram aumentar sua parcela de mercado para alcan&ccedil;ar lucros maiores e, enquanto essas firmas lutam para superar umas &agrave;s outras, uma competi&ccedil;&atilde;o efetiva ainda existe, resultando em menores custos, menores pre&ccedil;os, r&aacute;pida inova&ccedil;&atilde;o e amplos benef&iacute;cios. Entretanto, a partir do momento em que uma ou poucas firmas dominam o mercado, a competi&ccedil;&atilde;o pode ser ineficiente, pois o poder de mercado causa maiores pre&ccedil;os e restri&ccedil;&atilde;o de oferta de produtos, e imp&otilde;e custos sociais, como inefici&ecirc;ncia, inova&ccedil;&otilde;es mais lentas, injusta concentra&ccedil;&atilde;o de renda e riqueza, reduzida liberdade de escolha, etc. Shepherd (1999) argumenta, ainda, que esses custos podem ser compensados se houver economia de escala ou performance superior das firmas dominantes. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por outro lado, os economistas da Escola de Chicago argumentam que efici&ecirc;ncia relativa apropriada por uma firma &eacute; o que determina sua posi&ccedil;&atilde;o na estrutura de mercado e o seu comportamento. Assim, monop&oacute;lio ocorre somente quando uma firma for mais eficiente, gerando benef&iacute;cios ao inv&eacute;s de malef&iacute;cios. Essa escola argumenta que todos os mercados n&atilde;o t&ecirc;m imperfei&ccedil;&otilde;es significativas e o mercado de capitais, em particular, &eacute; perfeito (SHEPHERD, 1999). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Especificamente na agroind&uacute;stria canavieira, t&ecirc;m sido encontrados, em alguns estudos, elementos negativos e outros positivos quanto &agrave; concentra&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Salgado J&uacute;nior et al. (2009), pesquisando 26 usinas paulistas, verificaram que n&atilde;o existia rela&ccedil;&atilde;o direta entre o tamanho das usinas e a efici&ecirc;ncia operacional, ou seja, a efici&ecirc;ncia operacional n&atilde;o estaria relacionada com a capacidade de moagem da usina, indicando nenhum benef&iacute;cio resultante de maior escala de produ&ccedil;&atilde;o e, consequentemente, da concentra&ccedil;&atilde;o. Quanto &agrave;s propriedades agr&iacute;colas, Szmrecs&aacute;nyi et al. (2008) argumentam que a concentra&ccedil;&atilde;o fundi&aacute;ria, representada pela apropria&ccedil;&atilde;o das propriedades agr&iacute;colas pelas grandes usinas e destilarias, pelo grau de parentesco com os propriet&aacute;rios delas ou pela participa&ccedil;&atilde;o acion&aacute;ria, pode fazer com que haja substitui&ccedil;&atilde;o da produ&ccedil;&atilde;o de outras culturas. Al&eacute;m disso, a expans&atilde;o canavieira em Minas Gerais, Goi&aacute;s, Mato Grosso e Mato Grosso do Sul tem provocado verdadeira corrida para a aquisi&ccedil;&atilde;o de terras, por empres&aacute;rios, com o objetivo de implantar novas unidades esmagadoras e por numerosos investidores, que visam arrend&aacute;-las ou revend&ecirc;-las aos primeiros, elevando os pre&ccedil;os e a concentra&ccedil;&atilde;o fundi&aacute;ria. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Somado a isso, existe a possibilidade de que, de acordo com Point; Gutierrez (2009), o aumento da produ&ccedil;&atilde;o de biocombust&iacute;veis, como o da cana-de-a&ccedil;&uacute;car, afete o suprimento global de alimentos e, no longo prazo, a sustentabilidade da produ&ccedil;&atilde;o agr&iacute;cola, al&eacute;m de fazer com que os pa&iacute;ses em desenvolvimento que produzem alimentos tenham de escolher entre produzir alimentos para consumo ou para energia, atendendo a demanda dos pa&iacute;ses desenvolvidos, o que pode comprometer sua seguran&ccedil;a alimentar. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Altieri (2009) chama a aten&ccedil;&atilde;o para o fato de que o aumento da escala industrial na produ&ccedil;&atilde;o de biocombust&iacute;veis para a gera&ccedil;&atilde;o dos chamados combust&iacute;veis verdes, provenientes da produ&ccedil;&atilde;o em massa de milho, cana-de-a&ccedil;&uacute;car, soja, &oacute;leo de palma e outras culturas, pode ser prejudicial, pois, al&eacute;m de n&atilde;o reduzir o efeito estufa da emiss&atilde;o de gases, desloca dezenas de milhares de fazendeiros, diminui a seguran&ccedil;a alimentar em muitos pa&iacute;ses, acelera o desflorestamento e aprofunda a depreda&ccedil;&atilde;o ecol&oacute;gica do modelo de agricultura industrial, trazendo novos problemas econ&ocirc;micos, ambientais e sociais. A concentra&ccedil;&atilde;o na produ&ccedil;&atilde;o em grandes produtores agr&iacute;colas favorece a utiliza&ccedil;&atilde;o de uma grande quantidade de insumos agroqu&iacute;micos, em particular herbicidas e fertilizantes nitrogenados, que provocam graves consequ&ecirc;ncias ambientais. Em regi&otilde;es com poucos recursos h&iacute;dricos, a produ&ccedil;&atilde;o de biocombust&iacute;veis pode diminuir a disponibilidade futura de &aacute;gua para irriga&ccedil;&atilde;o e outras op&ccedil;&otilde;es de desenvolvimento. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por outro lado, entre os benef&iacute;cios da concentra&ccedil;&atilde;o, Macedo et al. (2010) observaram, em seu estudo, que as usinas maiores tinham desempenhos socioambientais estatisticamente superiores ao das menores e defenderam pol&iacute;ticas p&uacute;blicas que tivessem como foco regular a a&ccedil;&atilde;o socioambiental das usinas e destilarias a partir dos aspectos de melhorias tra&ccedil;ados pela an&aacute;lise de <i>benchmarking</i> entre as empresas eficientes e n&atilde;o eficientes, visando n&iacute;veis &oacute;timos de a&ccedil;&atilde;o socioambiental. Quanto &agrave;s propriedades agr&iacute;colas, Toneto Junior e Liboni (2008) constataram que, nas propriedades de cana, predominam as rela&ccedil;&otilde;es de trabalho com carteira de trabalho, resultando em maior grau de formaliza&ccedil;&atilde;o do setor, maior participa&ccedil;&atilde;o de contribuintes para a previd&ecirc;ncia e maior concentra&ccedil;&atilde;o de trabalhadores em idade m&eacute;dia. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dentre os aspectos negativos da presen&ccedil;a de usinas e destilarias nos munic&iacute;pios, Szmrecs&aacute;nyi et al. (2008) observaram, junto a prefeitos e dirigentes de associa&ccedil;&otilde;es de produtores agr&iacute;colas do oeste de S&atilde;o Paulo, que a rede de sa&uacute;de e saneamento j&aacute; estava no limite de sua utiliza&ccedil;&atilde;o e sem capacidade para atender &agrave; popula&ccedil;&atilde;o itinerante ocupada no plantio e na colheita de cana, al&eacute;m do desarranjo de atividades produtivas locais importantes para o abastecimento alimentar e para o com&eacute;rcio regional, amea&ccedil;adas de desestrutura&ccedil;&atilde;o pela introdu&ccedil;&atilde;o da monocultura de cana, podendo substituir as atividades preexistentes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Shikida e Souza (2009) alertam, ainda, para o risco de que o munic&iacute;pio fique dependente de somente uma atividade econ&ocirc;mica, podendo comprometer sua economia, caso essa atividade econ&ocirc;mica sofra crises espont&acirc;neas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Gon&ccedil;alves J&uacute;nior et al. (2009), estudando as atas das 11 reuni&otilde;es da C&acirc;mara Setorial do A&ccedil;&uacute;car e do &Aacute;lcool, que &eacute; constitu&iacute;da por 47 representantes de 36 entidades, das quais 20 s&atilde;o representantes patronais, 14 governamentais e dois da classe trabalhadora, verificaram que, no per&iacute;odo de junho de 2003 a janeiro de 2006, n&atilde;o houve muitas discuss&otilde;es quanto aos aspectos socioambientais, com exce&ccedil;&atilde;o das preocupa&ccedil;&otilde;es quanto &agrave; qualifica&ccedil;&atilde;o dos trabalhadores, pois o setor &eacute; o que mais emprega analfabetos ou semianalfabetos. Com a mecaniza&ccedil;&atilde;o do setor, esses trabalhadores poderiam ter dificuldades quanto &agrave; sua empregabilidade, talvez por ter somente dois representantes da classe trabalhadora e de n&atilde;o haver a presen&ccedil;a de nenhum representante que defenda interesses ambientais. O que prevaleceu nas discuss&otilde;es foi a "queda de bra&ccedil;o" entre a sanha tribut&aacute;ria do estado contra a iniciativa privada. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Point e Gutierrez (2009) e Altieri (2009) chamam a aten&ccedil;&atilde;o para as amea&ccedil;as socioambientais da mudan&ccedil;a no uso da terra para a produ&ccedil;&atilde;o de culturas de mat&eacute;ria-prima de biocombust&iacute;veis em larga escala, pois elas s&atilde;o intensivas no uso de terras e &aacute;gua, reduzindo as &aacute;reas para a produ&ccedil;&atilde;o de alimentos e a preserva&ccedil;&atilde;o ambiental, e t&ecirc;m maior impacto sobre os pre&ccedil;os dos alimentos do que no pre&ccedil;o da energia. Segundo esses autores, poucos estudos cient&iacute;ficos t&ecirc;m atentado para isso, j&aacute; que a ind&uacute;stria dos biocombust&iacute;veis tem sido dominada pelas pol&iacute;ticas e os interesses de poucas grandes companhias, em um mundo dirigido amplamente pelas pol&iacute;ticas neoliberais com regras de mercado que t&ecirc;m forte inclina&ccedil;&atilde;o contra regula&ccedil;&atilde;o ou qualquer restri&ccedil;&atilde;o de mercado para proteger o ambiente, o clima ou as comunidades. Al&eacute;m disso, os biocombust&iacute;veis estariam associados diretamente com a produ&ccedil;&atilde;o de transg&ecirc;nicos, negligenciando o impacto das mudan&ccedil;as gen&eacute;ticas, mesmo em plantas n&atilde;o alimentares, na seguran&ccedil;a alimentar, pois se podem criar novas esp&eacute;cies de pragas em plantas. Florestas, biodiversidade, sa&uacute;de do solo, &aacute;gua limpa e emiss&atilde;o de gases estufas continuam sendo "externalidades" na contabilidade, da qual v&atilde;o sendo sacrificadas pelo real lucro r&aacute;pido. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Parte expressiva do mundo tem se movido na dire&ccedil;&atilde;o da utiliza&ccedil;&atilde;o de biomassa vegetal na produ&ccedil;&atilde;o de combust&iacute;veis, n&atilde;o por causa da preocupa&ccedil;&atilde;o pela consci&ecirc;ncia ambiental, ou sobre a real escassez de combust&iacute;veis f&oacute;sseis ou a evid&ecirc;ncia irrefut&aacute;vel da mudan&ccedil;a clim&aacute;tica global, mas porque os biocombust&iacute;veis representam oportunidades de neg&oacute;cios num mercado n&atilde;o atendido (SICARD, 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Apesar dessas considera&ccedil;&otilde;es ambientais, Neves e Conejero (2007) defendem que n&atilde;o se pode comparar o etanol do milho e de outros gr&atilde;os com o etanol da cana-de-a&ccedil;&uacute;car, pois as outras fontes concorrem diretamente com alimentos, enquanto isso n&atilde;o ocorre para o etanol da cana. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Metodologia</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O primeiro passo para a realiza&ccedil;&atilde;o deste estudo foi fazer um levantamento bibliogr&aacute;fico da evolu&ccedil;&atilde;o hist&oacute;rica da economia canavieira no estado de Minas Gerais, processo importante para relacionar os principais motivos que provocaram o atraso e as mudan&ccedil;as ocorridas a partir da d&eacute;cada de 90, que alavancaram essa atividade econ&ocirc;mica no estado. Junto a essa an&aacute;lise bibliogr&aacute;fica, foi realizada uma compara&ccedil;&atilde;o da produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car entre as mesorregi&otilde;es de Minas Gerais e destas com a de outros estados do Pa&iacute;s. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com o Sistema de Acompanhamento da Produ&ccedil;&atilde;o Canavieira do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento - Mapa (2011), atualmente, a produ&ccedil;&atilde;o mineira de a&ccedil;&uacute;car e etanol &eacute; sustentada por 45 unidades industriais em 42 munic&iacute;pios mineiros. Para analisar a probabilidade da exist&ecirc;ncia de uma usina em determinado munic&iacute;pio, utilizou-se a regress&atilde;o log&iacute;stica que, segundo Corrar et al. (2009), busca explicar ou predizer valores de uma vari&aacute;vel dependente categ&oacute;rica, em fun&ccedil;&atilde;o de valores conhecidos de outras vari&aacute;veis independentes, que podem ser categ&oacute;ricas ou m&eacute;tricas, possibilitando tanto classificar os fen&ocirc;menos ou indiv&iacute;duos em catego-rias espec&iacute;ficas quanto estimar a probabilidade de ocorr&ecirc;ncia de determinado evento ou de que um fen&ocirc;meno venha a se enquadrar nessa ou naquela categoria. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A vari&aacute;vel dependente &eacute; a presen&ccedil;a (1) ou a aus&ecirc;ncia (0) de usina ou destilaria em determinado munic&iacute;pio. De acordo com os estudos dos t&oacute;picos anteriores, as vari&aacute;veis independentes s&atilde;o: </font></p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">     <blockquote>       <p>&#149; produtividade de cana-de-a&ccedil;&uacute;car (Pt): calculada pela divis&atilde;o entre a produ&ccedil;&atilde;o total sobre a &aacute;rea colhida, com dados disponibilizados pelo Censo Agropecu&aacute;rio do IBGE em 2006; </p>       <p>&#149; concentra&ccedil;&atilde;o fundi&aacute;ria (C): calculada pela divis&atilde;o entre a &aacute;rea total em hectare sobre o n&uacute;mero de estabelecimentos, com dados disponibilizados pelo Censo Agropecu&aacute;rio do IBGE em 2006; </p>       ]]></body>
+<body><![CDATA[<p>&#149; arrendamento (Arr): rela&ccedil;&atilde;o percentual das propriedades arrendadas sobre a &aacute;rea total das propriedades, com dados disponibilizados pelo Censo Agropecu&aacute;rio do IBGE em 2006;</p>       <p>&#149; recursos h&iacute;dricos (Hd): n&uacute;mero de estabelecimentos, por munic&iacute;pio, que t&ecirc;m nascentes, rios, riachos, lagos naturais, a&ccedil;udes, po&ccedil;os ou cisternas, disponibilizados pelo Censo Agropecu&aacute;rio do IBGE em 2006; </p>       <p>&#149; m&atilde;o de obra formal (Form): taxa de emprego no setor formal de cada munic&iacute;pio em 2007, com dados disponibilizados pelo &Iacute;ndice Mineiro de Responsabilidade Social, da Funda&ccedil;&atilde;o Jo&atilde;o Pinheiro, calculado pela rela&ccedil;&atilde;o entre emprego formal sobre o total de m&atilde;o de obra; </p>       <p>&#149; rendimento m&eacute;dio do trabalho formal (Rend): de cada munic&iacute;pio, disponibilizado em 2007, pelo &Iacute;ndice Mineiro de Responsabilidade Social, da Funda&ccedil;&atilde;o Jo&atilde;o Pinheiro, cotado em valores reais de dezembro de 2008, por empregado formal; </p>       <p>&#149; imposto l&iacute;quido (Imp): imposto l&iacute;quido de cada munic&iacute;pio, em 2006, em milhares de reais, com dados disponibilizados pelo &Iacute;ndice Mineiro de Responsabilidade Social, da Funda&ccedil;&atilde;o Jo&atilde;o Pinheiro, cotado em valores reais de dezembro de 2008; </p>       <p>&#149;	 adubo qu&iacute;mico nitrogenado (Nit): vari&aacute;vel utilizada como proxi para verificar a emiss&atilde;o de poluentes e constitu&iacute;da pelo percentual das propriedades que utilizaram adubo qu&iacute;mico nitrogenado sobre o total de propriedades, com dados disponibilizados pelo Censo Agropecu&aacute;rio do IBGE em 2006. </p> </blockquote> </font>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Espera-se uma rela&ccedil;&atilde;o positiva entre todas as vari&aacute;veis independentes com a vari&aacute;vel dependente, ou seja, os munic&iacute;pios que apresentarem maior produtividade, concentra&ccedil;&atilde;o fundi&aacute;ria, arrendamento, recursos h&iacute;dricos, m&atilde;o de obra formal, rendimento m&eacute;dio do trabalho formal, imposto l&iacute;quido e adubo qu&iacute;mico nitrogenado ter&atilde;o maior probabilidade de hospedarem alguma usina ou destilaria, conforme as discuss&otilde;es te&oacute;ricas dos t&oacute;picos anteriores. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste trabalho, foi feita a regress&atilde;o log&iacute;stica com 851 munic&iacute;pios mineiros, desconsiderando dois, cujos dados sobre a concentra&ccedil;&atilde;o fundi&aacute;ria n&atilde;o estavam dispon&iacute;veis. Contudo, isso n&atilde;o prejudicou as an&aacute;lises, pois em nenhum deles havia uma esmagadora de cana-de-a&ccedil;&uacute;car. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com Corrar et al. (2009) e Field (2009), para a valida&ccedil;&atilde;o do modelo de regress&atilde;o linear, os dados observados devem ter um relacionamento linear e, quando a vari&aacute;vel dependente &eacute; categ&oacute;rica, essa hip&oacute;tese &eacute; violada. Al&eacute;m disso, isso inviabiliza a probabilidade de o evento aumentar ou diminuir linearmente em rela&ccedil;&atilde;o &agrave; fun&ccedil;&atilde;o estat&iacute;stica. Para contornar as dificuldades inerentes ao modelo linear, efetua-se uma transforma&ccedil;&atilde;o log&iacute;stica na vari&aacute;vel dependente, mantendo a forma de relacionamento linear, enquanto o pr&oacute;prio relacionamento em si n&atilde;o &eacute; linear. Esse processo se d&aacute;, primeiramente, convertendo a vari&aacute;vel dependente numa raz&atilde;o de chances e, em seguida, transformando-a numa vari&aacute;vel de base logar&iacute;tmica, evitando-se a predi&ccedil;&atilde;o de valores menores que zero e maiores que 1 da vari&aacute;vel dependente: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a06equ01-02.jpg"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No lado esquerdo da Equa&ccedil;&atilde;o 2 tem-se o logaritmo natural da raz&atilde;o de chance e, no direito, as vari&aacute;veis independentes e os coeficientes estimados, que expressam mudan&ccedil;as no log da raz&atilde;o de chance. A raz&atilde;o chance pode ser obtida elevando-se a constante matem&aacute;tica e ao expoente composto dos coeficientes estimados, conforme Equa&ccedil;&atilde;o 3, chegando-se ao objetivo final de identificar a probabilidade associada &agrave; ocorr&ecirc;ncia de determinado evento, conforme Equa&ccedil;&otilde;es 4 e 5. </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a06equ03-04.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ou</font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a06equ05.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A transforma&ccedil;&atilde;o log&iacute;stica da qual resulta a Equa&ccedil;&atilde;o 5 geralmente &eacute; desenvolvida por meio do m&eacute;todo da m&aacute;xima verossimilhan&ccedil;a, que &eacute; uma forma de estimar par&acirc;metros de distribui&ccedil;&atilde;o de probabilidades que maximizem a fun&ccedil;&atilde;o verossimilhan&ccedil;a: </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a06equ06.jpg" ></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <i>Y<sub>i</sub></i> &eacute; o evento e <i>n</i> &eacute; o n&uacute;mero de observa&ccedil;&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A verossimilhan&ccedil;a &eacute; baseada na soma das probabilidades associadas com a sa&iacute;da real e a prevista, e tem-se que valores altos da estat&iacute;stica de verossimilhan&ccedil;a indicam uma ader&ecirc;ncia pobre do modelo porque, quanto maior for esse valor, mais observa&ccedil;&otilde;es n&atilde;o explicadas existir&atilde;o (FIELD, 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para testar a signific&acirc;ncia do modelo ajustado, utiliza-se o modelo da raz&atilde;o verossimilhan&ccedil;a, testando-se as hip&oacute;teses: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ho: b<sub>1</sub> = b<sub>2</sub> = ...= b<sub>p</sub> = 0 </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ou seja, o modelo n&atilde;o &eacute; estatisticamente significativo, ou </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">H<sub>1</sub>: bi &#8800; 0 (i = 1, ..., p) </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ou seja, modelo significativo estatisticamente. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se o modelo n&atilde;o for significativo, n&atilde;o &eacute; poss&iacute;vel predizer a probabilidade do "sucesso" a partir das vari&aacute;veis independentes no modelo. A estat&iacute;stica testa a signific&acirc;ncia da verossimilhan&ccedil;a (VL) do modelo s&oacute; com a constante (B&aacute;sico), isto &eacute;, nenhuma vari&aacute;vel independente (logit (Y) = bo), com a verossimilhan&ccedil;a (VL) do modelo com as vari&aacute;veis independentes (Novo), na combina&ccedil;&atilde;o linear (logit (Y<sub>i</sub>) = bo + b<sub>1</sub>X<sub>1i</sub> + b<sub>2</sub>X<sub>2i</sub> + ... + b<sub>p</sub>X<sub>pi</sub>) (MAROCO, 2007). O teste baseia-se na f&oacute;rmula (7): </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a06equ07.jpg" ></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Uma medida de avalia&ccedil;&atilde;o geral da regress&atilde;o log&iacute;stica &eacute; o Log Likelihood Value, que busca aferir a capacidade de o modelo estimar a probabilidade associada &agrave; ocorr&ecirc;ncia de determinado evento (CORRAR et al., 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A distribui&ccedil;&atilde;o Qui-quadrado tem graus de liberdade iguais ao n&uacute;mero de par&acirc;metros no novo modelo menos o n&uacute;mero de par&acirc;metros no modelo b&aacute;sico que, neste &uacute;ltimo, &eacute; sempre igual a 1, a constante, e qualquer modelo subsequente ter&aacute; um n&uacute;mero de graus de liberdade igual ao n&uacute;mero de previsores mais 1 (FIELD, 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para apurar o grau de ajustamento do modelo, utiliza-se o Teste Hosmer e Lemeshow, que nada mais &eacute; do que um Teste Qui-quadrado que consiste em dividir o n&uacute;mero de observa&ccedil;&otilde;es em cerca de dez classes e, em seguida, comparar as frequ&ecirc;ncias preditas com as observadas, verificando se existem diferen&ccedil;as significativas entre as classifica&ccedil;&otilde;es realizadas pelo modelo e a reali-dade observada. Se houver diferen&ccedil;as significativas entre os valores preditos e observados, ent&atilde;o, ele n&atilde;o representa a realidade de forma satisfat&oacute;ria. Busca-se, portanto, aceitar a hip&oacute;tese nula de que n&atilde;o existem diferen&ccedil;as significativas entre os valores preditos e observados (CORRAR et al., 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para identificar qual ou quais vari&aacute;veis independentes influenciam significativamente a regress&atilde;o log&iacute;stica, o Teste de Wald &eacute; utilizado, informando se o coeficiente b de cada previsor &eacute; significativamente diferente de zero. Apresenta distribui&ccedil;&atilde;o Qui-quadrada e seu c&aacute;lculo &eacute; dado pelo valor do coeficiente de regress&atilde;o dividido pelo seu erro padr&atilde;o (EP) associado, elevado ao quadrado (8)</font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a06equ08-09.jpg"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que n &eacute; o n&uacute;mero de observa&ccedil;&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Maroco (2007) chama a aten&ccedil;&atilde;o para o fato de que a estat&iacute;stica de teste s&oacute; &eacute; verdadeiramente v&aacute;lida para amostras de grande dimens&atilde;o e que os testes dos coeficientes de regress&atilde;o log&iacute;stica pela estat&iacute;stica de Wald t&ecirc;m ainda maiores probabilidades de erro Tipo I e II do que os testes t na regress&atilde;o linear, ou seja, se os coeficientes forem muito grandes ou se a dimens&atilde;o da amostra for pequena, o EP &eacute;, geralmente, inflacionado, levando &agrave; n&atilde;o rejei&ccedil;&atilde;o de Ho. Para contornar essa dificuldade, Corrar et al. (2009) recomendam calcular o Likelihood Value com a vari&aacute;vel a que se refere o coeficiente sob an&aacute;lise e, depois, renovar esse mesmo procedimento sem essa vari&aacute;vel. Comparando-se os dois valores, pode-se verificar se o coeficiente em apre&ccedil;o exerce impactos significativos sobre as probabilidades. Com isso, al&eacute;m da estat&iacute;stica de Wald, tem-se o intervalo de confian&ccedil;a para verificar se, realmente, o coeficiente &eacute; significativamente diferente de zero. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na regress&atilde;o log&iacute;stica n&atilde;o &eacute; poss&iacute;vel calcular o R<sup>2</sup>, j&aacute; que vari&acirc;ncia da vari&aacute;vel dependente depende da probabilidade em que ocorrem os seus valores e, assim, &eacute; comum utilizar pseudo-R<sup>2</sup>, que apenas permite avaliar se o modelo melhora ou n&atilde;o a qualidade das predi&ccedil;&otilde;es, quando comparado a outro que ignore as vari&aacute;veis independentes. Dentre os pseudo-R<sup>2</sup>s, t&ecirc;m-se o Cox &amp; Snell (10) e o Nagelkerke (11). </font></p>     <p align="center"><img src="/img/revistas/resr/v51n2/a06equ10-11.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O software utilizado para fazer a regress&atilde;o log&iacute;stica foi o Statistical Package for Social Science (SPSS). </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Caracteriza&ccedil;&atilde;o da economia canavieira em Minas Gerais</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os principais fatores que dificultaram o crescimento da economia canavieira em territ&oacute;rio mineiro, do s&eacute;culo XVIII ao XX, tiveram origem no processo hist&oacute;rico de implanta&ccedil;&atilde;o e desenvolvimento da produ&ccedil;&atilde;o de a&ccedil;&uacute;car no estado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Jo&atilde;o Ant&ocirc;nio de Paula, apud Affonso de Paula (2005), a forma&ccedil;&atilde;o do territ&oacute;rio de Minas Gerais, no s&eacute;culo XVIII, foi determinada pela atividade econ&ocirc;mica itinerante, ou seja, explora&ccedil;&atilde;o &aacute;ureo-diamant&iacute;fera, e pela dispers&atilde;o de seu povoamento, multiplicando-se as vilas devido &agrave;s ocorr&ecirc;ncias minerais e &agrave; busca de regi&otilde;es mais f&eacute;rteis que prevenissem as "grandes fomes" do final do s&eacute;culo XVII e in&iacute;cio do s&eacute;culo XVIII. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Shikida (1992), no seu processo de implanta&ccedil;&atilde;o e desenvolvimento, do s&eacute;culo XVIII at&eacute; o final do s&eacute;culo XIX, a cultura de cana-de-a&ccedil;&uacute;car em Minas Gerais se estabeleceu em regi&otilde;es pr&oacute;ximas de outras atividades econ&ocirc;micas, independente das condi&ccedil;&otilde;es edafoclim&aacute;ticas favor&aacute;veis ao cultivo deste produto agr&iacute;cola. Destarte, pode-se afirmar que a produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car no estado se estabeleceu, nos seus prim&oacute;rdios, de maneira pouco competitiva. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diversos fatores explicam os motivos que fizeram com que a agroind&uacute;stria canavieira de Minas Gerais ficasse defasada em rela&ccedil;&atilde;o &agrave; de S&atilde;o Paulo, no per&iacute;odo da economia cafeeira. Segundo Shikida (1992), em Minas Gerais, os fatores naturais adequados para o cultivo de cana-de-a&ccedil;&uacute;car eram limitados, como o relevo relativamente ondulado e as restri&ccedil;&otilde;es t&eacute;rmicas e h&iacute;dricas. A economia cafeeira contribuiu com a agroind&uacute;stria canavieira por criar uma infraestrutura e uma gama de capital muito maior em S&atilde;o Paulo do que em Minas Gerais, que se tornou uma &aacute;rea marginal em rela&ccedil;&atilde;o &agrave;s regi&otilde;es mais din&acirc;micas dos estados do Rio de Janeiro e S&atilde;o Paulo. Pode-se constatar, ainda, maior preocupa&ccedil;&atilde;o desenvolvimentista da agroind&uacute;stria canavieira paulista diante da mineira, pois, enquanto o governo paulista se preocupou em criar &oacute;rg&atilde;os de pesquisa com a finalidade de criar variedades mais produtivas de cana-de-a&ccedil;&uacute;car e mais resistentes a doen&ccedil;as, o governo mineiro buscou sa&iacute;das menos custosas para superar os obst&aacute;culos ocasionais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em 1930, com o final da I Guerra Mundial, a crise da Bolsa de Nova York e a superprodu&ccedil;&atilde;o recorde de a&ccedil;&uacute;car, entre outros fatores, ocorreu uma queda acentuada do pre&ccedil;o do a&ccedil;&uacute;car no mercado externo. O governo brasileiro come&ccedil;ou a implementar algumas pol&iacute;ticas para regulamentar o mercado de a&ccedil;&uacute;car, visando manter os pre&ccedil;os em determinado patamar, para atender ao bem-estar, principalmente, dos produtores nordestinos (SZMRECS&Aacute;NYI, 1976). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em 1933, surgiu o Instituto do A&ccedil;&uacute;car e do &Aacute;lcool (IAA), que visava o fomento e o controle da produ&ccedil;&atilde;o de a&ccedil;&uacute;car e do etanol em todo o territ&oacute;rio nacional. Apesar de o IAA ter sido criado para atender aos interesses nordestinos, o Centro-Sul foi retirando a hegemonia do Nordeste na produ&ccedil;&atilde;o de a&ccedil;&uacute;car (LAGES, 1993). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Minas Gerais, no entanto, n&atilde;o conseguiu desenvolver esta atividade, como ocorreu no estado de S&atilde;o Paulo, pois as pol&iacute;ticas do IAA contribu&iacute;ram para o predom&iacute;nio econ&ocirc;mico e pol&iacute;tico das usinas, mais presentes no estado paulista, sobre as unidades produtivas mais arcaicas dos engenhos e das engenhocas que caracterizavam as unidades existentes em Minas Gerais. Tanto no aspecto econ&ocirc;mico da agroind&uacute;stria canavieira (concentra&ccedil;&atilde;o industrial, mercado consumidor, de trabalho e de terras, entre outros indicadores), como no institucional (decretos e leis), o mais favorecido foi o estado de S&atilde;o Paulo (SHIKIDA, 1992). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em 1975, depois da primeira crise do petr&oacute;leo na d&eacute;cada de 70 e da queda de pre&ccedil;o do a&ccedil;&uacute;car, o governo brasileiro instituiu o Pro&aacute;lcool, que contribuiu com a diversifica&ccedil;&atilde;o da agroind&uacute;stria da cana-de-a&ccedil;&uacute;car e o aumento de efici&ecirc;ncia. A partir de 1975, a produ&ccedil;&atilde;o de etanol passou a representar parcela bastante significativa no valor total de produ&ccedil;&atilde;o, funcionando como um regulador do mercado de a&ccedil;&uacute;car e vice-versa (VIEIRA, 1999). Com o advento do Pro&aacute;lcool, as usinas mineiras, ainda que pouco expressivas, passaram por um processo de moderniza&ccedil;&atilde;o que melhorou seu desempenho. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m disso, a partir da d&eacute;cada de 70, com a implementa&ccedil;&atilde;o da chamada Revolu&ccedil;&atilde;o Verde<a name="4b"></a><a href="#4a"><sup>4</sup></a>, teve in&iacute;cio o processo de ocupa&ccedil;&atilde;o do Cerrado brasileiro, iniciado a partir das regi&otilde;es mineiras do Tri&acirc;ngulo Mineiro e Alto Parana&iacute;ba. Nesse per&iacute;odo, intensificou-se a produ&ccedil;&atilde;o de cana-dea&ccedil;&uacute;car, bastante incentivada no decorrer desta d&eacute;cada (GARLIPP e ORTEGA, 1998). Nessas regi&otilde;es, apoiada na expans&atilde;o da fronteira agr&iacute;cola com moderniza&ccedil;&atilde;o agropecu&aacute;ria e introdu&ccedil;&atilde;o da agroindustrializa&ccedil;&atilde;o, procurou-se construir uma agricultura moderna com a introdu&ccedil;&atilde;o intensiva de capital (CARNEIRO e FONTES, 2005). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com a crise do Pro&aacute;lcool, entre 1986 e 1995, a desativa&ccedil;&atilde;o do IAA (1990) e a liberaliza&ccedil;&atilde;o dos pre&ccedil;os do a&ccedil;&uacute;car (1990), do etanol anidro (1997), da cana-de-a&ccedil;&uacute;car (1998) e do etanol hidratado (1999), avultaram-se as diferen&ccedil;as de produtividade existentes na agroind&uacute;stria canavieira. Com um novo processo de delineamento das atividades do setor sucroalcooleiro, em que o planejamento e as atividades de produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o deixaram de ser orientados pelo governo e passaram a fazer parte da administra&ccedil;&atilde;o privada, as empresas menos preparadas em termos de capacita&ccedil;&atilde;o tecnol&oacute;gica encerraram suas atividades ou foram incorporadas pelas mais din&acirc;micas (SHIKIDA e BACHA, 1999; MARJOTTA-MAISTRO, 2002). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Muitas das empresas produtoras de a&ccedil;&uacute;car e etanol n&atilde;o se acostumaram com a diminui&ccedil;&atilde;o do protecionismo estatal, ampliando seus problemas de endividamento, resultando na diminui&ccedil;&atilde;o do n&uacute;mero de usinas e destilarias, impulsionados pelas mudan&ccedil;as patrimoniais. A tend&ecirc;ncia que se visualiza no setor &eacute; de novas estrat&eacute;gias individuais, baseadas na diferencia&ccedil;&atilde;o do produto, principalmente pela qualidade, diversifica&ccedil;&atilde;o produtiva, produtividade, especializa&ccedil;&atilde;o, disponibilidade de entrega e abastecimento, buscando-se maior competitividade (MARJOTTA-MAISTRO e BURNQUIST, 1998; BELIK et al., 1998; SICS&Uacute; e SILVA, 2001). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste contexto, o setor canavieiro no estado de Minas Gerais passou por diversas transforma&ccedil;&otilde;es, oscilando com per&iacute;odos de prosperidade e decad&ecirc;ncia. Ap&oacute;s um per&iacute;odo de expans&atilde;o no n&uacute;mero de unidades produtivas na d&eacute;cada de 80, com a derrocada do Pro&aacute;lcool, o setor viveu um de seus per&iacute;odos mais cr&iacute;ticos no estado, com cerca de 50% das unidades produtoras desativadas. Entretanto, no final da d&eacute;cada de 90, a ind&uacute;stria canavieira de Minas Gerais novamente come&ccedil;ou a viver um per&iacute;odo de expans&atilde;o, com crescimento do parque industrial e moderniza&ccedil;&atilde;o administrativa e operacional, resultando na melhoria dos n&iacute;veis de produtividade, qualidade e aumento da produ&ccedil;&atilde;o acima da m&eacute;dia nacional (SINDA&Ccedil;&Uacute;CAR-MG, 200?). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pelos dados da <a href="/img/revistas/resr/v51n2/a06tab01.jpg">Tabela 1</a> observa-se a evolu&ccedil;&atilde;o da quantidade produzida de cana-de-a&ccedil;&uacute;car dos cinco maiores estados produtores brasileiros, junto &agrave;s taxas geom&eacute;tricas de crescimento. A partir do final da d&eacute;cada de 90, Minas Gerais tem aumentado a participa&ccedil;&atilde;o na produ&ccedil;&atilde;o e superado a segunda posi&ccedil;&atilde;o, do Paran&aacute;. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O crescimento da produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car em Minas Gerais vem sendo acompanhado por uma concentra&ccedil;&atilde;o maior nas mesorregi&otilde;es Noroeste de Minas, Central Mineira, Oeste de Minas, Tri&acirc;ngulo Mineiro/Alto Parana&iacute;ba e Sul/Sudoeste de Minas, conforme mostrado na <a href="/img/revistas/resr/v51n2/a06tab02.jpg">Tabela 2</a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As regi&otilde;es Noroeste de Minas, Oeste de Minas e Tri&acirc;ngulo Mineiro/Alto Parana&iacute;ba foram as que mais incrementaram a produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car, no per&iacute;odo de 1990 a 2010, em 832,23%, 784,70% e 478,43%, respectivamente. A regi&atilde;o Central Mineira, terceira maior produtora, teve incremento de 125,34%. Por outro lado, as regi&otilde;es do Jequitinhonha e da Zona da Mata diminu&iacute;ram sua produ&ccedil;&atilde;o em 24,46% e 17,27%, respectivamente, no mesmo per&iacute;odo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A atividade canavieira, que durante muitos anos esteve concentrada nas regi&otilde;es da Zona da Mata e Sul/Sudoeste, passou, a partir do final dos anos 1990, a ser transferida para a regi&atilde;o do Tri&acirc;ngulo Mineiro, principalmente devido aos investimentos realizados pelos principais grupos empresariais nordestinos, atra&iacute;dos pelas condi&ccedil;&otilde;es topogr&aacute;ficas, pelo clima e pela proximidade com S&atilde;o Paulo (SINDA&Ccedil;&Uacute;CAR-MG, 200?). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo a Secretaria de Desenvolvimento Econ&ocirc;mico de Minas Gerais (2006), no munic&iacute;pio de Tupaciguara, a Bioenerg&eacute;tica Aroeira Ltda. planejava investir R$ 180 milh&otilde;es numa usina e a Usina Itapagipe, R$ 31 milh&otilde;es na amplia&ccedil;&atilde;o da sua unidade de produ&ccedil;&atilde;o localizada no munic&iacute;pio de Itapagipe. A Secretaria (2007) tamb&eacute;m relata que, em julho de 2007, o governo de Minas Gerais anunciou investimentos de R$ 1,3 bilh&atilde;o em novas usinas, sendo tr&ecirc;s no Tri&acirc;ngulo Mineiro e a quarta na regi&atilde;o Noroeste. Os investimentos previstos foram: no Grupo Santa Elisa, de R$ 410 milh&otilde;es, para a implanta&ccedil;&atilde;o da Usina Platina Bioenergia, em Ituiutaba, a terceira planta no Tri&acirc;ngulo Mineiro; na Companhia Energ&eacute;tica Vale do S&atilde;o Sim&atilde;o, de R$ 350 milh&otilde;es, no munic&iacute;pio de Santa Vit&oacute;ria; na Central Energ&eacute;tica Monte Alegre de Minas (Cemam), cuja implanta&ccedil;&atilde;o vai demandar investimentos da ordem de R$ 450 milh&otilde;es e na Destilaria Vale do Paracatu Agroenergia, no munic&iacute;pio de Paracatu, no Noroeste de Minas, com investimentos previstos em R$ 85,2 milh&otilde;es. Desde 2005, com mais essas quatro novas usinas, s&atilde;o 40 os projetos de implanta&ccedil;&atilde;o e expans&atilde;o em Minas Gerais, com investimentos previstos em R$ 8,5 bilh&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em suma, apesar das dificuldades do desenvolvimento da agroind&uacute;stria canavieira em Minas Gerais durante quase toda a sua hist&oacute;ria, observa-se que o aumento da produ&ccedil;&atilde;o de a&ccedil;&uacute;car e &aacute;lcool no estado coincide com o crescimento e o deslocamento da produ&ccedil;&atilde;o de cana-de-a&ccedil;&uacute;car para as regi&otilde;es Oeste de Minas, Noroeste de Minas, Central Mineira e Tri&acirc;ngulo Mineiro/Alto Parana&iacute;ba, bem como com os investimentos realizados nessas regi&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dentre as caracter&iacute;sticas que s&atilde;o favor&aacute;veis ao desenvolvimento da cultura de cana-de-a&ccedil;&uacute;car nessas regi&otilde;es, destacam-se a topografia e o tipo de solo, o que pode ser confirmado pelo zoneamento agroclim&aacute;tico do estado de Minas Gerais, que &eacute; favor&aacute;vel &agrave; cultura de cana-de-a&ccedil;&uacute;car, conforme mostrado na <a href="/img/revistas/resr/v51n2/a06fig01.jpg">Figura 1</a>. Observa-se que as regi&otilde;es do Noroeste de Minas, Oeste de Minas, Central Mineira, Tri&acirc;ngulo Mineiro/Alto Parana&iacute;ba e Sul/Sudoeste de Minas compreendem uma grande parcela da &aacute;rea mais prop&iacute;cia para a cultura de cana-de-a&ccedil;&uacute;car no estado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A classe de solo predominante nessas mesorregi&otilde;es &eacute; o Latossolo, com &aacute;reas mais planas na forma de terra "solta", relevo suave e sem impedimentos &agrave; mecaniza&ccedil;&atilde;o, mas com grandes problemas de fertilidade, com solo geralmente sobre floresta ou, mesmo, cerrad&atilde;o (CARNEIRO e FONTES, 2005). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m disso, a regi&atilde;o possui uma rica bacia hidrogr&aacute;fica (<a href="#fig02">Figura 2</a>), com a do Paran&aacute; banhando parte do oeste e do sul do estado, composta pelos rios Parana&iacute;ba e Grande. O rio Parana&iacute;ba &eacute; formado por tr&ecirc;s bacias secund&aacute;rias, que s&atilde;o os rios Araguari, Tijuco e S&atilde;o Domingos, limitando, com o rio Grande, a regi&atilde;o do Tri&acirc;ngulo Mineiro. Estas bacias drenam aproximadamente 75% da &aacute;rea do Tri&acirc;ngulo Mineiro. O rio Grande limita a parte do sul de Minas com o estado de S&atilde;o Paulo e merece destaque por abrigar o maior n&uacute;mero das principais usinas geradoras constru&iacute;das pelas concession&aacute;rias Cemig e Furnas (CARNEIRO e FONTES, 2005). </font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v51n2/a06fig02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A regi&atilde;o do Tri&acirc;ngulo Mineiro, al&eacute;m das condi&ccedil;&otilde;es edafoclim&aacute;ticas favor&aacute;veis, possui infraestrutura de armazenamento e log&iacute;stica adequada, que facilita o escoamento da produ&ccedil;&atilde;o at&eacute; o porto de Santos (SHIKIDA et al., 2010). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na <a href="/img/revistas/resr/v51n2/a06tab03.jpg">Tabela 3</a> s&atilde;o observados dados sobre a produtividade agr&iacute;cola da cana-de-a&ccedil;&uacute;car no Brasil, expressa em tonelada/hectare, nos estados de S&atilde;o Paulo, Paran&aacute; e Minas Gerais e nas regi&otilde;es do Tri&acirc;ngulo Mineiro/Alto Parana&iacute;ba, Sul/Sudeste de Minas e Central de Minas, nos anos de 1999 a 2010 e a taxa geom&eacute;trica de crescimento nesse per&iacute;odo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Observa-se que a regi&atilde;o do Tri&acirc;ngulo Mineiro/ Alto Parana&iacute;ba foi, durante todo o per&iacute;odo, mais produtiva do que o estado de Minas Gerais, superando tamb&eacute;m a produtividade nacional e a das outras duas regi&otilde;es produtoras mineiras. Sua produtividade &eacute; equivalente &agrave; dos dois maiores e mais produtivos estados produtores de cana-de-a&ccedil;&uacute;car do Brasil, S&atilde;o Paulo e Paran&aacute;. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m disso, de acordo com Carneiro; Fontes (2005), o progresso t&eacute;cnico na agricultura se apresentou de forma bastante desigual, ocorrendo apenas naquelas mesorregi&otilde;es com caracter&iacute;sticas socioecon&ocirc;micas e ambientais compat&iacute;veis com o modelo tecnol&oacute;gico adotado, notadamente as mesorregi&otilde;es do Sul/Sudoeste de Minas e Tri&acirc;ngulo Mineiro/Alto Parana&iacute;ba. Com isso, houve maior concentra&ccedil;&atilde;o das propriedades agr&iacute;colas e, se por um lado, isso colocou essas mesorregi&otilde;es entre as mais modernas e tecnificadas do estado e do Pa&iacute;s, por outro lado, ao empregarem tecnologias maci&ccedil;as na agricultura, relegou o fator trabalho a essa tecnologia, ou seja, perdeu-se a import&acirc;ncia da m&atilde;o de obra (menos qualificada) por meio do est&iacute;mulo do uso intensivo de capital. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Apesar desses avan&ccedil;os, alguns desafios ainda se fazem presentes para a agroind&uacute;stria canavieira mineira. Em um estudo de Shikida et al. (2010) sobre as capacidades tecnol&oacute;gicas de 14 usinas e destilarias mineiras, foi demonstrado que ainda existem avan&ccedil;os que devem ser implementados por essas esmagadoras no desenho do processo b&aacute;sico, no esbo&ccedil;o e na fabrica&ccedil;&atilde;o de equipamentos, na inova&ccedil;&atilde;o do processo e em Pesquisa e Desenvolvimento (P&amp;D). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Shikida et al. (2011), fazendo esse mesmo estudo somando 46 unidades paulistas e 11 paranaenses, observaram que o estado de S&atilde;o Paulo foi o que mais apresentou unidades com capacidades tecnol&oacute;gicas no n&iacute;vel avan&ccedil;ado dentre os tr&ecirc;s estados. Na engenharia de processo, por exemplo, enquanto 100% dos respondentes de S&atilde;o Paulo tinham capacidade tecnol&oacute;gica b&aacute;sica (controle de qualidade, levantamento e an&aacute;lise dos problemas, manuten&ccedil;&atilde;o preventiva e assimila&ccedil;&atilde;o de processo tecnol&oacute;gico), 89%, intermedi&aacute;ria (redu&ccedil;&atilde;o de custos, modifica&ccedil;&atilde;o de novas tecnologias de processo, adapta&ccedil;&atilde;o de processo ao novo produto e melhoria na qualidade dos produtos) e 24%, avan&ccedil;ada (inova&ccedil;&atilde;o pr&oacute;pria de processo em departamento de P&amp;D), no estado de Minas Gerais, esses percentuais foram de 86%, 93% e 0%, respectivamente, mostrando o quanto as usinas e destilarias de Minas Gerais se mostraram aqu&eacute;m das localizadas no estado de S&atilde;o Paulo. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Determinantes da presen&ccedil;a das usinas e destilarias nos munic&iacute;pios</b> </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A amostra &eacute; composta por 809 munic&iacute;pios que n&atilde;o t&ecirc;m usinas ou destilarias e 42 munic&iacute;pios que t&ecirc;m. Assim, todos os munic&iacute;pios seriam classificados, a priori, como n&atilde;o tendo uma usina, fazendo com que o percentual geral de acertos seja de 95,1%. Essa classifica&ccedil;&atilde;o atua como refer&ecirc;ncia para avaliar a efic&aacute;cia do modelo, quando ele passa a operar com as vari&aacute;veis independentes para predizer a que grupo pertence certo munic&iacute;pio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No <a href="/img/revistas/resr/v51n2/a06qua01.jpg">Quadro 1</a> s&atilde;o descritas as vari&aacute;veis no modelo s&oacute; com a constante, com sua estimativa do coeficiente (B), erro padr&atilde;o (EP), estat&iacute;stica de Wald, grau de liberdade (g.l.) e a signific&acirc;ncia (p-valor). O erro padr&atilde;o &eacute; calculado por <i>EP </i>= <img src="/img/revistas/resr/v51n2/a06for01.jpg" align="absmiddle">, e <i>Wald </i>= <img src="/img/revistas/resr/v51n2/a06for02.jpg"  align="absmiddle">= 349 384 ,  e, como o p-valor = 0,000, rejeita-se a hip&oacute;tese de que a vari&aacute;vel constante (bo) seja igual a zero. Finalmente, na &uacute;ltima coluna mostra-se a raz&atilde;o de chances (0,049/0,951) = 0,052. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No <a href="#qua02">Quadro 2</a> mostra-se o teste da raz&atilde;o verossimilhan&ccedil;a entre o modelo nulo e os modelos em cada um dos passos, bloco e modelo final, que t&ecirc;m o mesmo valor porque as vari&aacute;veis independentes foram colocadas ao mesmo tempo. Como o p-valor = 0,000, pode-se dizer que existe pelo menos uma vari&aacute;vel independente no modelo com poder preditivo sobre a vari&aacute;vel dependente. </font></p>     <p><a name="qua02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v51n2/a06qua02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; qualidade do ajustamento, o valor de - 2 LV (- 2 Log Likelihood) foi de 206,789 e os valores dos pseudos-R<sup>2</sup> de Cox &amp; Snell e de Nagelkerke foram de 0,140 e 0,429, respectivamente, o que mostra que o acr&eacute;scimo das vari&aacute;veis independentes melhora a qualidade do modelo, mas n&atilde;o de maneira muito significativa. Ou seja, considerando o Nagelkerke, o modelo &eacute; capaz de explicar 42,9% das varia&ccedil;&otilde;es registradas na vari&aacute;vel dependente. Apesar de pequeno, deve-se considerar a signific&acirc;ncia do Qui-quadrado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O teste de Hosmer e Lemeshow resultou em um valor Qui-quadrado igual a 8,165, com p-valor de 0,418, n&atilde;o significativo, mostrando, portanto, que n&atilde;o existem diferen&ccedil;as significativas entre os valores preditos e observados. Assim, tem-se um ind&iacute;cio de que o modelo pode ser utilizado para estimar a probabilidade de uma determinada usina se localizar em determinadas cidades, em fun&ccedil;&atilde;o das vari&aacute;veis independentes. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No <a href="/img/revistas/resr/v51n2/a06qua03.jpg">Quadro 3</a> observa-se o percentual de acerto nas classifica&ccedil;&otilde;es, considerando-se as vari&aacute;veis independentes. Observa-se que houve uma pequena varia&ccedil;&atilde;o em rela&ccedil;&atilde;o ao percentual, considerando a tabela de classifica&ccedil;&atilde;o, a priori, de 95,1% para 95,8%. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Apesar de se verificar uma redu&ccedil;&atilde;o no n&iacute;vel de acerto em rela&ccedil;&atilde;o &agrave; classifica&ccedil;&atilde;o das cidades que n&atilde;o hospedam usinas ou destilarias, j&aacute; que antes estava 100% e agora declinou para 99%, no conjunto, o modelo alcan&ccedil;a melhor desempenho, pois, nos munic&iacute;pios que hospedam usinas e destilarias, por serem a minoria, o n&iacute;vel de acerto do modelo era zero e passou para 33,3%. Considerando-se mais esse indicador, pode-se dizer que, estatisticamente, &eacute; conveniente incluir as vari&aacute;veis independentes no modelo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finalmente, no <a href="/img/revistas/resr/v51n2/a06qua04.jpg">Quadro 4</a>, observa-se que somente as vari&aacute;veis imposto l&iacute;quido e adubo qu&iacute;mico nitrogenado foram n&atilde;o significativas, n&atilde;o podendo ser aproveitadas na composi&ccedil;&atilde;o do modelo. Entretanto, todas as outras foram significativas, conforme se verifica no Teste de Wald, exercendo, portanto, efeito sobre a probabilidade de uma usina ou destilaria se localizar em determinado munic&iacute;pio do estado de Minas Gerais. Analisando-se o intervalo de confian&ccedil;a, observa-se que os valores de exp B est&atilde;o dentro do intervalo inferior e superior, o que mostra que os coeficientes s&atilde;o significativamente diferentes de zero. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir dos resultados, desenvolveu-se o modelo probabil&iacute;stico para a presen&ccedil;a de usinas ou destilarias nos munic&iacute;pios mineiros: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>P</i>(<i>evento</i>) = <img src="/img/revistas/resr/v51n2/a06for03.jpg" align="absmiddle" ></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para ficar mais claro, de acordo com Gujarati (2000), tomando-se o antilog do j-&eacute;simo coeficiente de inclina&ccedil;&atilde;o, dele subtrair 1 e multiplicar o resultado por 100, se levantar&aacute; a varia&ccedil;&atilde;o percentual na chance, devido ao aumento de uma unidade no j-&eacute;simo regressor. Assim, por exemplo, tomando-se o antilog do coeficiente da produtividade (antilog 0,033 = 1,0336), subtraindo-se 1 e multiplicando-se por 100, tem-se que o aumento de uma unidade na produtividade aumenta a probabilidade de uma usina se instalar numa determinada cidade mineira em 3,36%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esse fato &eacute; relevante, considerando que, dos 42 munic&iacute;pios que hospedam alguma usina ou destilaria, 25 (59,52%) est&atilde;o localizados justamente na regi&atilde;o do Tri&acirc;ngulo Mineiro/Alto Parana&iacute;ba, a mais produtiva do estado mineiro e uma das mais produtivas do Pa&iacute;s, com produtividade de 87,94% em 2009, conforme se verifica na <a href="/img/revistas/resr/v51n2/a06tab03.jpg">Tabela 3</a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Verificou-se, ainda, que, quanto maior a parcela da propriedade arrendada sobre total das propriedades, maior a probabilidade da presen&ccedil;a de alguma usina ou destilaria no munic&iacute;pio mineiro em 8,11% e, quanto maior a concentra&ccedil;&atilde;o fundi&aacute;ria, maior a probabilidade, em 0,9%. Esses resultados corroboram os de outros autores (SZMRECS&Aacute;NYI et al., 2008; ALTIERI, 2009; POINT e GUTIERREZ, 2009), mostrando que os propriet&aacute;rios t&ecirc;m preferido arrendar suas propriedades agr&iacute;colas em vez de procurar produzir alguma outra cultura agr&iacute;cola, aproveitando os pre&ccedil;os mais elevados que conseguem com essa atitude. Al&eacute;m disso, a concentra&ccedil;&atilde;o fundi&aacute;ria passa a ser maior, pois a cana-de-a&ccedil;&uacute;car &eacute; uma monocultura produzida por extensas propriedades agr&iacute;colas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com rela&ccedil;&atilde;o &agrave; m&atilde;o de obra, observou-se que o aumento de uma unidade na m&atilde;o de obra formal aumenta a probabilidade de que uma usina ou destilaria se localize em determinado munic&iacute;pio em 3,67%, e que o aumento de uma unidade na remunera&ccedil;&atilde;o dessa m&atilde;o de obra formal aumenta essa probabilidade em 0,2%. Este resultado tamb&eacute;m foi observado nos estudos de Toneto J&uacute;nior e Liboni (2008), mostrando as melhores condi&ccedil;&otilde;es de remunera&ccedil;&atilde;o e de formaliza&ccedil;&atilde;o das rela&ccedil;&otilde;es de trabalho no emprego no cultivo de cana e nas usinas e destilarias, al&eacute;m de uma remunera&ccedil;&atilde;o mais elevada nas propriedades produtoras de cana-de-a&ccedil;&uacute;car. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finalmente, outro aspecto relevante que tem provocado a presen&ccedil;a de usinas ou destilarias em determinados munic&iacute;pios mineiros &eacute; o acesso aos diferentes recursos h&iacute;dricos. Munic&iacute;pios com mais propriedades com acesso aos recursos h&iacute;dricos t&ecirc;m maior probabilidade da presen&ccedil;a de usinas em 0,1%. Este resultado concorda com o que &eacute; mostrado na <a href="#fig02">Figura 2</a>, que mostra a regi&atilde;o do Tri&acirc;ngulo Mineiro/Alto Parana&iacute;ba comportando grande parte da bacia hidrogr&aacute;fica mineira. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, quanto aos impactos fiscais e ambientais, observou-se que eles n&atilde;o foram significativos no modelo. Isso ocorreu provavelmente por dois motivos: pequeno n&uacute;mero de munic&iacute;pios mineiros que hospedam alguma usina ou destilaria em rela&ccedil;&atilde;o ao total de munic&iacute;pios existentes, diminuindo o valor das probabilidades e inviabilizado a comprova&ccedil;&atilde;o dessas vari&aacute;veis; e a padroniza&ccedil;&atilde;o dos tributos e dos arranjos institucionais ambientais, ou seja, n&atilde;o tem como um munic&iacute;pio, por exemplo, alterar o Imposto Sobre Circula&ccedil;&atilde;o de Mercadorias e Servi&ccedil;os (ICMS) ou outro imposto incidente nesta agroind&uacute;stria, procurando, assim, determinar ou influenciar sua localiza&ccedil;&atilde;o, assim como as leis ambientais s&atilde;o v&aacute;lidas para todo o estado. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Assim, &eacute; importante destacar que os valores observados foram adequados aos esperados e que, portanto, refor&ccedil;am os principais aspectos te&oacute;ricos que v&ecirc;m exercendo influ&ecirc;ncia econ&ocirc;mica nesses munic&iacute;pios mineiros. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. Considera&ccedil;&otilde;es finais</b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com a ocupa&ccedil;&atilde;o do cerrado mineiro e os investimentos de grandes grupos empresariais, a cultura de cana-de-a&ccedil;&uacute;car passou a apresentar grande import&acirc;ncia para a economia de Minas Gerais, surgindo como uma atividade implantada de maneira "racional" economicamente, ou seja, que visa a competitividade para atender da melhor maneira poss&iacute;vel a demanda do mercado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Visando verificar quais os motivos que atraem usinas e destilarias para os munic&iacute;pios mineiros, neste estudo observou-se que a produtividade, a concentra&ccedil;&atilde;o fundi&aacute;ria, o arrendamento, o acesso aos recursos h&iacute;dricos, o acesso &agrave; m&atilde;o de obra formal e a remunera&ccedil;&atilde;o mais elevada dessa m&atilde;o de obra foram elementos que favoreceram a presen&ccedil;a dessas esmagadoras nesses munic&iacute;pios, conforme verificado em estudos anteriores. Entretanto, os impactos fiscais e ambientais n&atilde;o puderam ser verificados. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Um aspecto relevante que deve ser considerado e que pode n&atilde;o ter permitido gerar resultados mais consistentes &eacute; o pequeno n&uacute;mero de munic&iacute;pios mineiros que hospedam alguma usina ou destilaria em rela&ccedil;&atilde;o ao total de munic&iacute;pios existentes. Isso pode ter diminu&iacute;do o valor das probabilidades e inviabilizado a comprova&ccedil;&atilde;o das duas &uacute;ltimas vari&aacute;veis. Al&eacute;m disso, os tributos e os arranjos institucionais ambientais tendem a ser padronizados no estado, inviabilizando mudan&ccedil;as que atraiam usinas e destilarias para os munic&iacute;pios. Por outro lado, os resultados foram relevantes na medida em que, apesar dessa despropor&ccedil;&atilde;o, ainda resultaram em valores significativos e com rela&ccedil;&otilde;es esperadas, conforme os levantamentos bibliogr&aacute;ficos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Estes resultados mostram que, efetivamente, alguns fen&ocirc;menos est&atilde;o associados com a presen&ccedil;a de usinas e destilarias em determinados munic&iacute;pios, conforme tem sido levantado em outros estudos. Por outro lado, os impactos positivos e negativos desses fen&ocirc;menos n&atilde;o foram levantados. Sugere-se que novos estudos sejam realizados para descobrir os reais impactos econ&ocirc;micos, sociais e ambientais da presen&ccedil;a dessas esmagadoras nos munic&iacute;pios, direcionando poss&iacute;veis pol&iacute;ticas para refor&ccedil;ar os aspectos positivos e mitigar os aspectos negativos da presen&ccedil;a dessa atividade produtiva. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>7. Refer&ecirc;ncias bibliogr&aacute;ficas</b> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AFFONSO DE PAULA, R. Z. Ocupa&ccedil;&atilde;o do espa&ccedil;o, formas de produ&ccedil;&atilde;o e territ&oacute;rio: uma nota sobre a forma&ccedil;&atilde;o territorial de Minas Gerais. <i>Revista Cient&iacute;fica da FAMINAS</i>, v. 1, n.2 (maio/ago.) 2005 - Muria&eacute; - FAMINAS - Faculdade de Minas, 2005, p. 255-275.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003201300020000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALTIERI, M. A. The Ecological Impacts of large-scale agrofuel monoculture production systems in the Americans. <i>Bulletin of Science, Technology &amp; Society</i>, v. 29, n. 3, jun. 2009, p. 236-244.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003201300020000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARROS, G. S. A. C. e MARJOTA-MAISTRO, M. C. Ajustes nos mercados de &aacute;lcool e gasolina entre os anos de 1995 e 2000. <i>Revista de Economia Aplicada</i>, S&atilde;o Paulo, v. 9, n. 2, p. 225-256, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003201300020000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BELIK, W., RAMOS, P. e VIAN, C. E. F. <i>Mudan&ccedil;as Institucionais e seus Impactos nas Estrat&eacute;gias dos Capitais do Complexo Agroindutrial Canavieiro no Centro-Sul do Brasil</i>. Congresso Brasileiro de Economia e Sociologia Rural, 36, 1998. Po&ccedil;os de Caldas. Anais. Bras&iacute;lia: SOBER, 1998, p. 519-532.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003201300020000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CARNEIRO, P. A. S. e FONTES, M. P. F. Aspectos Geogr&aacute;ficos e Agr&iacute;colas do Estado de Minas Gerais. In: FONTES, R. e FONTES, M. <i>Crescimento e desigualdade regional em Minas Gerais</i>. Vi&ccedil;osa, MG, 2004, p. 151-222.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003201300020000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CORRAR, L. J., PAULO, E. e DIAS FILHO, J M. <i>An&aacute;lise Multivariada</i>: para os cursos de administra&ccedil;&atilde;o, ci&ecirc;ncias cont&aacute;beis e economia. FIPECAFI - Funda&ccedil;&atilde;o Instituto de Pesquisa Cont&aacute;beis, Atuariais e Financeiras. 1. ed., 2. reimpr. S&atilde;o Paulo: Atlas, 2009 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-2003201300020000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FIELD, A. <i>Descobrindo a estat&iacute;stica utilizando o SPSS</i>. 2. ed. S&atilde;o Paulo: Artmed Boodman, 2009, 688 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003201300020000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GARLIPP, A. A. P. B. D. e ORTEGA, A. C. <i>A Moderniza&ccedil;&atilde;o da Agricultura e a Evolu&ccedil;&atilde;o do Emprego no Cerrado: O caso Tri&acirc;ngulo Mineiro e Alto Parana&iacute;ba</i>. Congresso Brasileiro de Economia e Sociologia Rural, 36, 1998. Po&ccedil;os de Caldas. Anais. v. 2. Bras&iacute;lia: SOBER, 1998, p. 895-907.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003201300020000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GON&Ccedil;ALVES J&Uacute;NIOR, C. A., ALVES, Y. B. e SHIKIDA, P. F. A., STADUTO, J. A. R. e ROCHA J&Uacute;NIOR, W. F. da. Um estudo das delibera&ccedil;&otilde;es da C&acirc;mara Setorial do A&ccedil;&uacute;car e do &Aacute;lcool, usando an&aacute;lise de correspond&ecirc;ncia. <i>Revista de Economia e Sociologia Rural</i>. Piracicaba, v. 47, n. 1, jan/mar 2009. p. 183-210 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003201300020000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GUJARATI, D. N. <i>Econometria b&aacute;sica</i>. S&atilde;o Paulo: MAKRON Books, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003201300020000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HERSEN, A., SHIKIDA, P. F. A. E e DAHMER, V. de S. Concentra&ccedil;&atilde;o na agroind&uacute;stria canavieira mineira p&oacute;s-desregulamenta&ccedil;&atilde;o setorial. In: CONGRESSO BRASILEIRO DE ECONOMIA, ADMINISTRA&Ccedil;&Atilde;O E SOCIOLOGIA RURAL, 46., Rio Branco (AC), 2008. <i>Anais</i>. Rio Branco: SOBER/UFAC, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-2003201300020000600011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">IBGE - Instituto Brasileiro de Geografia e Estat&iacute;stica, 2012. Dispon&iacute;vel em: &lt;<a href="http://www.sidra.ibge.gov.br/" target="_blank">http://www.sidra.ibge.gov.br/</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003201300020000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JUNQUEIRA, C. P., STERCHILE, S. P. W. e SHIKIDA, P. F. A. Mudan&ccedil;a Institucional e o impacto no padr&atilde;o tecnol&oacute;gico: o caso da mecaniza&ccedil;&atilde;o da colheita de cana-de-a&ccedil;&uacute;car no Paran&aacute;. <i>Organiza&ccedil;&otilde;es Rurais &amp; Agroindustriais</i>, Lavras, v. 11, n. 1, 2009, p. 87-105.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0103-2003201300020000600013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LAGES, A. M. G. <i>A Diferencia&ccedil;&atilde;o Tecnol&oacute;gica na Ind&uacute;stria Sucro-Alcooleira do Brasil</i>, 1993. Disserta&ccedil;&atilde;o (Mestrado pela CME/PIMES/UFPE) - Universidade Federal de Pernambuco. Pernambuco: UFPE, 1993. 199p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0103-2003201300020000600014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MACEDO, M. A. da S., C&Iacute;POLA, F. C. e FERREIRA, A. F. R. Desempenho social no agroneg&oacute;cio brasileiro: aplicando DEA no segmento de usinas de processamento de cana-de-a&ccedil;&uacute;car. <i>Revista de Economia e Sociologia Rural</i>. Piracicaba, v. 48, n. 1, jan/mar 2010. p. 223-243.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0103-2003201300020000600015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MARJOTTA-MAISTRO, M. C. <i>Ajustes nos Mercados de &Aacute;lcool e Gasolina no Processo de Desregulamenta&ccedil;&atilde;o</i>. Tese (Mestrado - ESALQ/USP) - Escola Superior de Agricultura "Luiz de Queiroz" / Universidade de S&atilde;o Paulo. Piracicaba: ESALQ/USP, 2002, 180p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003201300020000600016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MARJOTTA-MAISTRO, M. C. e BURNQUIST, H. L. A Avalia&ccedil;&atilde;o do fornecimento de A&ccedil;&uacute;car para as Ind&uacute;strias Aliment&iacute;cias do Estado de S&atilde;o Paulo: Uma Pesquisa de Mercado. In: CONGRESSO BRASILEIRO DE ECONOMIA, ADMINISTRA&Ccedil;&Atilde;O E SOCIOLOGIA RURAL, 36, Po&ccedil;os de Caldas (SP), 1998. <i>Anais</i>. Bras&iacute;lia: SOBER, 1998, p. 599-609.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003201300020000600017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MAROCO, J. <i>An&aacute;lise estat&iacute;stica - com utiliza&ccedil;&atilde;o do SPSS</i>. 3. ed. Lisboa: Edi&ccedil;&otilde;es Silabo Lda, 2007, 822 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0103-2003201300020000600018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MINIST&Eacute;RIO DA AGRICULTURA, PECU&Aacute;RIA E ABASTECIMENTO - MAPA, 2011. Dispon&iacute;vel em: &lt;<a href="http://www.agricultura.gov.br/" target="_blank">http://www.agricultura.gov.br/</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003201300020000600019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NEVES, M. F. e CONEJERO, M. A. Sistema agroindustrial da cana: cen&aacute;rios e agenda estrat&eacute;gica. <i>Economia Aplicada</i>, v. 11, n. 4, out.-dez. 2007, p. 587-604.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0103-2003201300020000600020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">POINT, L. e GUTIERREZ, A. P. Overview on biofuels from a European Perspective. <i>Bulletin of Science, Technology &amp; Society</i>, v. 29, n. 6, 2009, p. 493-504.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0103-2003201300020000600021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SALGADO JUNIOR, A. P., BONACIM, C. A. G. e PACAGNELLA JUNIOR, A. C. Aplica&ccedil;&atilde;o da An&aacute;lise Envolt&oacute;ria de Dados (DEA) para avalia&ccedil;&atilde;o de efici&ecirc;ncia de Usinas de a&ccedil;&uacute;car e &aacute;lcool da regi&atilde;o Nordeste do Estado de S&atilde;o Paulo. <i>Organiza&ccedil;&otilde;es Rurais &amp; Agroindustriais</i>, Lavras, v. 11, n. 3, 2009, p. 494-513.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S0103-2003201300020000600022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SECRETARIA DE DESENVOLVIMENTO ECON&ocirc;MICO DE MINAS GERAIS. Investimentos em novas usinas de a&ccedil;&uacute;car e &aacute;lcool somam R$ 1,3 bilh&atilde;o. 22 de julho de 2007. Dispon&iacute;vel em: &lt;<a href="http://www.desenvolvimento.mg.gov.br/pt/noticias/285investimentos-em-novas-usinas-de-acucar-e-alcoolsomam-r-13-bilhao" target="_blank">http://www.desenvolvimento.mg.gov.br/pt/noticias/285investimentos-em-novas-usinas-de-acucar-e-alcoolsomam-r-13-bilhao</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0103-2003201300020000600023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SECRETARIA DE DESENVOLVIMENTO ECON&ocirc;MICO DE MINAS GERAIS. Tri&acirc;ngulo recebe mais duas usinas de a&ccedil;&uacute;car e &aacute;lcool. 21 de dezembro de 2006. Dispon&iacute;vel em: &lt;<a href="http://www.desenvolvimento.mg.gov.br/pt/noticias/134-triangulo-recebe-mais-duasusinas-de-acucar-e-alcool" target="_blank">http://www.desenvolvimento.mg.gov.br/pt/noticias/134-triangulo-recebe-mais-duasusinas-de-acucar-e-alcool</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0103-2003201300020000600024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHEPHERD, W. G. <i>The Economics of Industrial Organization</i>. Waveland Press, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S0103-2003201300020000600025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHIKIDA, P. F. A. <i>A Evolu&ccedil;&atilde;o da Agroind&uacute;stria Canavieira em Minas Gerais de 1705 a 1995</i>. Tese (Mestrado - ESALQ/USP) - Escola Superior de Agricultura "Luiz de Queiroz" / Universidade de S&atilde;o Paulo. Piracicaba: ESALQ/USP, 1992, 154p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000210&pid=S0103-2003201300020000600026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHIKIDA, P. F. A., AZEVEDO, P. F. de. e VIAN, C. E. de F. Desafios da Agroind&uacute;stria Canavieira no Brasil p&oacute;s-desregulamenta&ccedil;&atilde;o: uma an&aacute;lise das capacidades tecnol&oacute;gicas. <i>Revista de Economia e Sociologia Rural</i>, Piracicaba, v. 49, n. 3, p. 599-628, jul./set. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000212&pid=S0103-2003201300020000600027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHIKIDA, P. F. A., AZEVEDO, P. F. de e VIAN, C. E. de F. Uma an&aacute;lise das capacidades tecnol&oacute;gicas da agroind&uacute;stria canavieira em Minas Gerais. <i>Revista de Economia e Agroneg&oacute;cio</i>, Vi&ccedil;osa (MG), v. 8, n. 2, p. 251-277, mai/ago 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000214&pid=S0103-2003201300020000600028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHIKIDA, P. F. A. e BACHA, C. J. Evolu&ccedil;&atilde;o da Agroind&uacute;stria Canavieira Brasileira de 1975 a 1995. <i>Revista Brasileira de Economia</i>, v. 53, n. 1, p. 69-89, jan/ mar 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000216&pid=S0103-2003201300020000600029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHIKIDA, P. F. A. e SOUZA, E. C. de. Agroind&uacute;stria canavieira e crescimento econ&ocirc;mico local. <i>Revista de Economia e Sociologia Rural</i>. Piracicaba, v. 47, n. 3, jul/set 2009, p. 569-600.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000218&pid=S0103-2003201300020000600030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SICARD, T. E L. Between Development and Environment: Uncertainties of Agrofuels. <i>Bulletin of Science, Technology &amp; Society</i>, v. 29, n. 3, jun. 2009, p. 226-235.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000220&pid=S0103-2003201300020000600031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SICS&Uacute;, A. B. e SILVA, K. S. Desenvolvimento Rural na Zona da Mata Canavieira do Nordeste Brasileiro: Uma Vis&atilde;o Recente. In: Semin&aacute;rio: Dilema e Perspectivas para o Desenvolvimento Regional com &Ecirc;nfase Agr&iacute;cola e Rural no Brasil na Primeira D&eacute;cada do S&eacute;culo XXI. <i>Anais</i>. Santiago, Chile  &#91;s.n. &#93;, 11 a 13 de dez. 2001. Dispon&iacute;vel em: &lt;<a href="http://www.fao.org/regional/Lameria/prior/" target="_blank">www.fao.org/regional/Lameria/prior/</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000222&pid=S0103-2003201300020000600032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SINDA&Ccedil;&Uacute;CAR-MG. <i>Realidade e Perspectivas do Setor Sucroalcooleiro de Minas Com Foco no Desenvolvimento Social e Econ&ocirc;mico</i>.  &#91;S.I.: s.n., &#93; 200?. 20p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000224&pid=S0103-2003201300020000600033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SZMRECS&Aacute;NYI, T. <i>Contribui&ccedil;&atilde;o &agrave; An&aacute;lise do Planejamento da Agroind&uacute;stria Canavieira do Brasil</i>. Tese (Doutorado - Departamento de Economia e Planejamento Econ&ocirc;mico do Instituto de Filosofia e Ci&ecirc;ncias Humanas da Universidade Estadual de Campinas). Campinas, UNICAMP, 1976, 508 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000226&pid=S0103-2003201300020000600034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SZMRECS&Aacute;NYI, T., RAMOS, P., RAMOS FILHO, L. O. e VEIGA FILHO, A. de A. <i>Dimens&otilde;es, riscos e desafios da atual expans&atilde;o canavieira</i>. Bras&iacute;lia: Embrapa Informa&ccedil;&otilde;es Tecnol&oacute;gicas, 2008. 150 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000228&pid=S0103-2003201300020000600035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">TONETO JUNIOR, R. e LIBONI, L. B. Evolu&ccedil;&atilde;o recente do mercado de trabalho da cana-de-a&ccedil;&uacute;car no Brasil (1995-2006). <i>Organiza&ccedil;&otilde;es Rurais &amp; Agroindustriais</i>, Lavras, v. 10, n. 3, p. 455-474, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000230&pid=S0103-2003201300020000600036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">UNICA (Uni&atilde;o da Ind&uacute;stria de Cana-de-A&ccedil;&uacute;car), 2012. Dispon&iacute;vel em: &lt;<a href="http://www.unica.com.br/dadosCotacao/estatistica/" target="_blank">http://www.unica.com.br/dadosCotacao/estatistica/</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000232&pid=S0103-2003201300020000600037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VIEIRA, R. J. <i>Restrutura&ccedil;&atilde;o do PRO&Aacute;LCOOL e Continuidade da Produ&ccedil;&atilde;o de &Aacute;lcool Combust&iacute;vel no Brasil</i>. Tese (Mestrado em Economia Rural) - Universidade Federal de Vi&ccedil;osa. Vi&ccedil;osa: UFV, 1999, 134p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000234&pid=S0103-2003201300020000600038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="1a"></a><a href="#1b">1</a> Uni&atilde;o das Ind&uacute;strias de Cana-de-A&ccedil;&uacute;car.    <br>   <a name="2a"></a><a href="#2b">2</a> Calculada pelo antilog do par&acirc;metro </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub> da regress&atilde;o ln(<i>Y<sub>i</sub></i>) = </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>0</sub> + </font>&#946;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub>1</sub><i>T</i> + <i>ui</i>, em que <i>Y<sub>i</sub></i> &eacute; o valor da produ&ccedil;&atilde;o de a&ccedil;&uacute;car de cada estado e <i>T</i>, a vari&aacute;vel tend&ecirc;ncia, calculado pelo autor.    <br>   <a name="3a"></a><a href="#3b">3</a> CR4 &eacute; taxa de concentra&ccedil;&atilde;o, calculada pelo somat&oacute;rio da participa&ccedil;&atilde;o das quatro maiores usinas ou grupos sobre o total de cana mo&iacute;da em Minas Gerais, e o HHI &eacute; o somat&oacute;rio da participa&ccedil;&atilde;o de todas as usinas ou grupos elevados ao quadrado.    <br>   <a name="4a"></a><a href="#4b">4</a> Refere-se &agrave; inven&ccedil;&atilde;o e &agrave; dissemina&ccedil;&atilde;o de novas sementes e pr&aacute;ticas agr&iacute;colas que permitiram um vasto aumento na produ&ccedil;&atilde;o agr&iacute;cola no Cerrado brasileiro, durante as d&eacute;cadas de 60 e 70.    <br>   <a href="/img/revistas/resr/v51n2/a06fig01.jpg">5</a> Sistema de informa&ccedil;&otilde;es do governo de Minas Gerais, com informa&ccedil;&otilde;es digitais geogr&aacute;ficas e georreferenciadas sobre o estado </font></p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AFFONSO DE PAULA]]></surname>
+<given-names><![CDATA[R. Z.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Ocupação do espaço, formas de produção e território: uma nota sobre a formação territorial de Minas Gerais]]></article-title>
+<source><![CDATA[Revista Científica da FAMINAS]]></source>
+<year>(mai</year>
+<month>o/</month>
+<day>ag</day>
+<volume>1</volume><volume>2</volume>
+<page-range>255-275</page-range><publisher-loc><![CDATA[Muriaé ]]></publisher-loc>
+<publisher-name><![CDATA[Faculdade de Minas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALTIERI]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Ecological Impacts of large-scale agrofuel monoculture production systems in the Americans]]></article-title>
+<source><![CDATA[Bulletin of Science, Technology & Society]]></source>
+<year>jun.</year>
+<month> 2</month>
+<day>00</day>
+<volume>29</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>236-244</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G. S. A. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARJOTA-MAISTRO]]></surname>
+<given-names><![CDATA[M. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Ajustes nos mercados de álcool e gasolina entre os anos de 1995 e 2000]]></article-title>
+<source><![CDATA[Revista de Economia Aplicada]]></source>
+<year>2005</year>
+<volume>9</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>225-256</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BELIK]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAMOS]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIAN]]></surname>
+<given-names><![CDATA[C. E. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Mudanças Institucionais e seus Impactos nas Estratégias dos Capitais do Complexo Agroindutrial Canavieiro no Centro-Sul do Brasil]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>1998</year>
+<conf-name><![CDATA[36 Congresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-date>1998</conf-date>
+<conf-loc>Poços de Caldas </conf-loc>
+<page-range>519-532</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARNEIRO]]></surname>
+<given-names><![CDATA[P. A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FONTES]]></surname>
+<given-names><![CDATA[M. P. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Aspectos Geográficos e Agrícolas do Estado de Minas Gerais]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[FONTES]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FONTES]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crescimento e desigualdade regional em Minas Gerais]]></source>
+<year>2004</year>
+<page-range>151-222</page-range><publisher-loc><![CDATA[Viçosa^eMG MG]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CORRAR]]></surname>
+<given-names><![CDATA[L. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PAULO]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DIAS FILHO]]></surname>
+<given-names><![CDATA[J M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise Multivariada: para os cursos de administração, ciências contábeis e economia]]></source>
+<year>2009</year>
+<edition>1</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação Instituto de Pesquisa Contábeis, Atuariais e FinanceirasAtlas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIELD]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Descobrindo a estatística utilizando o SPSS]]></source>
+<year>2009</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Artmed Boodman]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARLIPP]]></surname>
+<given-names><![CDATA[A. A. P. B. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ORTEGA]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A Modernização da Agricultura e a Evolução do Emprego no Cerrado: O caso Triângulo Mineiro e Alto Paranaíba]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>1998</year>
+<volume>2</volume>
+<conf-name><![CDATA[36 Congresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-date>1998</conf-date>
+<conf-loc>Poços de Caldas </conf-loc>
+<page-range>895-907</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONÇALVES JÚNIOR]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[Y. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHIKIDA]]></surname>
+<given-names><![CDATA[P. F. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STADUTO]]></surname>
+<given-names><![CDATA[J. A. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROCHA JÚNIOR]]></surname>
+<given-names><![CDATA[W. F. da]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Um estudo das deliberações da Câmara Setorial do Açúcar e do Álcool, usando análise de correspondência]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jan/</year>
+<month>ma</month>
+<day>r </day>
+<volume>47</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>183-210</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUJARATI]]></surname>
+<given-names><![CDATA[D. N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria básica]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[MAKRON Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HERSEN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHIKIDA]]></surname>
+<given-names><![CDATA[P. F. A. E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DAHMER]]></surname>
+<given-names><![CDATA[V. de S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Concentração na agroindústria canavieira mineira pós-desregulamentação setorial]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2008</year>
+<conf-name><![CDATA[46 CONGRESSO BRASILEIRO DE ECONOMIA, ADMINISTRAÇÃO E SOCIOLOGIA RURAL]]></conf-name>
+<conf-date>2008</conf-date>
+<conf-loc>Rio Branco AC</conf-loc>
+<publisher-loc><![CDATA[Rio Branco ]]></publisher-loc>
+<publisher-name><![CDATA[SOBERUFAC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>Instituto Brasileiro de Geografia e Estatística</collab>
+<source><![CDATA[]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JUNQUEIRA]]></surname>
+<given-names><![CDATA[C. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STERCHILE]]></surname>
+<given-names><![CDATA[S. P. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHIKIDA]]></surname>
+<given-names><![CDATA[P. F. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Mudança Institucional e o impacto no padrão tecnológico: o caso da mecanização da colheita de cana-de-açúcar no Paraná]]></article-title>
+<source><![CDATA[Organizações Rurais & Agroindustriais]]></source>
+<year>2009</year>
+<volume>11</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>87-105</page-range><publisher-loc><![CDATA[Lavras ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAGES]]></surname>
+<given-names><![CDATA[A. M. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Diferenciação Tecnológica na Indústria Sucro-Alcooleira do Brasil, 1993]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Pernambuco ]]></publisher-loc>
+<publisher-name><![CDATA[UFPE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACEDO]]></surname>
+<given-names><![CDATA[M. A. da S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CÍPOLA]]></surname>
+<given-names><![CDATA[F. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[A. F. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Desempenho social no agronegócio brasileiro: aplicando DEA no segmento de usinas de processamento de cana-de-açúcar]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jan/</year>
+<month>ma</month>
+<day>r </day>
+<volume>48</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>223-243</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARJOTTA-MAISTRO]]></surname>
+<given-names><![CDATA[M. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ajustes nos Mercados de Álcool e Gasolina no Processo de Desregulamentação]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+<publisher-name><![CDATA[ESALQ/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARJOTTA-MAISTRO]]></surname>
+<given-names><![CDATA[M. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURNQUIST]]></surname>
+<given-names><![CDATA[H. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A Avaliação do fornecimento de Açúcar para as Indústrias Alimentícias do Estado de São Paulo: Uma Pesquisa de Mercado]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>1998</year>
+<conf-name><![CDATA[36 CONGRESSO BRASILEIRO DE ECONOMIA, ADMINISTRAÇÃO E SOCIOLOGIA RURAL]]></conf-name>
+<conf-date>1998</conf-date>
+<conf-loc>Poços de Caldas SP</conf-loc>
+<page-range>599-609</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAROCO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise estatística: com utilização do SPSS]]></source>
+<year>2007</year>
+<edition>3</edition>
+<publisher-loc><![CDATA[Lisboa ]]></publisher-loc>
+<publisher-name><![CDATA[Edições Silabo Lda]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="">
+<collab>MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO</collab>
+<source><![CDATA[]]></source>
+<year>2011</year>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEVES]]></surname>
+<given-names><![CDATA[M. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CONEJERO]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Sistema agroindustrial da cana: cenários e agenda estratégica]]></article-title>
+<source><![CDATA[Economia Aplicada]]></source>
+<year>out.</year>
+<month>-d</month>
+<day>ez</day>
+<volume>11</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>587-604</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POINT]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUTIERREZ]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Overview on biofuels from a European Perspective]]></article-title>
+<source><![CDATA[Bulletin of Science, Technology & Society]]></source>
+<year>2009</year>
+<volume>29</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>493-504</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SALGADO JUNIOR]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BONACIM]]></surname>
+<given-names><![CDATA[C. A. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PACAGNELLA JUNIOR]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Aplicação da Análise Envoltória de Dados (DEA) para avaliação de eficiência de Usinas de açúcar e álcool da região Nordeste do Estado de São Paulo]]></article-title>
+<source><![CDATA[Organizações Rurais & Agroindustriais]]></source>
+<year>2009</year>
+<volume>11</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>494-513</page-range><publisher-loc><![CDATA[Lavras ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="">
+<collab>SECRETARIA DE DESENVOLVIMENTO ECONôMICO DE MINAS GERAIS</collab>
+<source><![CDATA[Investimentos em novas usinas de açúcar e álcool somam R$ 1,3 bilhão. 22 de julho de 2007]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<collab>SECRETARIA DE DESENVOLVIMENTO ECONôMICO DE MINAS GERAIS</collab>
+<source><![CDATA[Triângulo recebe mais duas usinas de açúcar e álcool]]></source>
+<year>21 d</year>
+<month>e </month>
+<day>de</day>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHEPHERD]]></surname>
+<given-names><![CDATA[W. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Economics of Industrial Organization]]></source>
+<year>1999</year>
+<publisher-name><![CDATA[Waveland Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHIKIDA]]></surname>
+<given-names><![CDATA[P. F. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Evolução da Agroindústria Canavieira em Minas Gerais de 1705 a 1995]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+<publisher-name><![CDATA[ESALQ/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHIKIDA]]></surname>
+<given-names><![CDATA[P. F. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AZEVEDO]]></surname>
+<given-names><![CDATA[P. F. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIAN]]></surname>
+<given-names><![CDATA[C. E. de F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Desafios da Agroindústria Canavieira no Brasil pós-desregulamentação: uma análise das capacidades tecnológicas]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jul.</year>
+<month>/s</month>
+<day>et</day>
+<volume>49</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>599-628</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHIKIDA]]></surname>
+<given-names><![CDATA[P. F. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AZEVEDO]]></surname>
+<given-names><![CDATA[P. F. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIAN]]></surname>
+<given-names><![CDATA[C. E. de F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Uma análise das capacidades tecnológicas da agroindústria canavieira em Minas Gerais]]></article-title>
+<source><![CDATA[Revista de Economia e Agronegócio]]></source>
+<year>mai/</year>
+<month>ag</month>
+<day>o </day>
+<volume>8</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>251-277</page-range><publisher-loc><![CDATA[Viçosa^eMG MG]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHIKIDA]]></surname>
+<given-names><![CDATA[P. F. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Evolução da Agroindústria Canavieira Brasileira de 1975 a 1995]]></article-title>
+<source><![CDATA[Revista Brasileira de Economia]]></source>
+<year>jan/</year>
+<month> m</month>
+<day>ar</day>
+<volume>53</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>69-89</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHIKIDA]]></surname>
+<given-names><![CDATA[P. F. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[E. C. de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Agroindústria canavieira e crescimento econômico local]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jul/</year>
+<month>se</month>
+<day>t </day>
+<volume>47</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>569-600</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SICARD]]></surname>
+<given-names><![CDATA[T. E L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Between Development and Environment: Uncertainties of Agrofuels]]></article-title>
+<source><![CDATA[Bulletin of Science, Technology & Society]]></source>
+<year>jun.</year>
+<month> 2</month>
+<day>00</day>
+<volume>29</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>226-235</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SICSÚ]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[K. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Desenvolvimento Rural na Zona da Mata Canavieira do Nordeste Brasileiro: Uma Visão Recente]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>11 a</year>
+<month> 1</month>
+<day>3 </day>
+<conf-name><![CDATA[ Seminário: Dilema e Perspectivas para o Desenvolvimento Regional com Ênfase Agrícola e Rural no Brasil na Primeira Década do Século XXI]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Santiago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="">
+<collab>SINDAÇÚCAR</collab>
+<source><![CDATA[Realidade e Perspectivas do Setor Sucroalcooleiro de Minas Com Foco no Desenvolvimento Social e Econômico]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SZMRECSÁNYI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Contribuição à Análise do Planejamento da Agroindústria Canavieira do Brasil]]></source>
+<year>1976</year>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[UNICAMP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SZMRECSÁNYI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAMOS]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAMOS FILHO]]></surname>
+<given-names><![CDATA[L. O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VEIGA FILHO]]></surname>
+<given-names><![CDATA[A. de A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dimensões, riscos e desafios da atual expansão canavieira]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa Informações Tecnológicas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TONETO JUNIOR]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIBONI]]></surname>
+<given-names><![CDATA[L. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Evolução recente do mercado de trabalho da cana-de-açúcar no Brasil (1995-2006)]]></article-title>
+<source><![CDATA[Organizações Rurais & Agroindustriais]]></source>
+<year>2008</year>
+<volume>10</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>455-474</page-range><publisher-loc><![CDATA[Lavras ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="">
+<collab>União da Indústria de Cana-de-Açúcar</collab>
+<source><![CDATA[]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VIEIRA]]></surname>
+<given-names><![CDATA[R. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Restruturação do PROÁLCOOL e Continuidade da Produção de Álcool Combustível no Brasil]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[UFV]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

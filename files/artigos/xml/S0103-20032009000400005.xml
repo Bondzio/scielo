@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032009000400005</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032009000400005</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Programa Bolsa Família: impacto das transferências sobre os gastos com alimentos em famílias rurais]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Duarte]]></surname>
+<given-names><![CDATA[Gisléia Benini]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Sampaio]]></surname>
+<given-names><![CDATA[Breno]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Sampaio]]></surname>
+<given-names><![CDATA[Yony]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,University of Illinois Departamento de Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,UFPE Departamento de Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2009</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2009</year>
+</pub-date>
+<volume>47</volume>
+<numero>4</numero>
+<fpage>903</fpage>
+<lpage>918</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032009000400005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032009000400005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032009000400005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Programas de transferência condicionada de renda são políticas sociais correntemente empregadas para combater e reduzir a pobreza em diversos países. No curto prazo, esses programas visam aliviar os problemas decorrentes da situação de pobreza, sendo que, no longo prazo, o objetivo é investir no capital humano, quebrando o ciclo intergeracional da pobreza. Estudos têm sido realizados para avaliar os impactos desses programas sobre variáveis como freqüência escolar, trabalho infantil, gastos com alimentação, entre outros. Este trabalho avalia o impacto da transferência de renda do Programa Bolsa Família sobre os gastos com alimentos de famílias rurais. As estimações foram feitas com base no método de Propensity Score Matching (PSM), que corrige para o viés de seleção amostral. Os resultados mostram que o valor médio das despesas anuais para as famílias beneficiárias supera em R$ 246 os gastos totais das famílias não-participantes. Considerando que a média anual recebida por essas famílias é de R$ 278, pode-se inferir que 88% desse valor é utilizado para consumo de alimento. Portanto, o programa de transferência condicionada Bolsa Família exerce um impacto positivo sobre o consumo de alimentos dessas famílias selecionadas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Conditional income transfer programs are social policies currently adopted to reduce poverty in several countries. These conditional transfer schemes have a goal to alleviate some of the consequences of poverty in the short run and increase human capital in the long run changing the intergenerational poverty cycle. Several papers evaluate the impact of income transfer on school attendance, child work and food expenses, among others. This paper analyzes the impact of the Bolsa Família Program on food expenses of rural families. The Propensity Score Method was used to correct sample selection bias. Results show that annual food expenses increased 246 reais in relation to non participant families. Considering that average annual transfer to these families is 278 reais, it can be concluded that 88% of the transfer is expend in food products. Thus, Bolsa Família brings a positive impact on food consumption of the benefited families.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Bolsa Família]]></kwd>
+<kwd lng="pt"><![CDATA[transferência de renda]]></kwd>
+<kwd lng="pt"><![CDATA[consumo alimentar]]></kwd>
+<kwd lng="pt"><![CDATA[famílias rurais]]></kwd>
+<kwd lng="en"><![CDATA[Bolsa Família]]></kwd>
+<kwd lng="en"><![CDATA[conditional income transfer]]></kwd>
+<kwd lng="en"><![CDATA[food expenses]]></kwd>
+<kwd lng="en"><![CDATA[rural families]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p> <font size="4" face="Verdana"><b>Programa Bolsa Fam&iacute;lia: impacto das transfer&ecirc;ncias sobre os gastos com alimentos em fam&iacute;lias rurais </b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>Gisl&eacute;ia Benini Duarte<sup>I</sup>; Breno Sampaio<sup>II</sup>;   Yony Sampaio<sup>III</sup> </b></font></p>     <p><font size="2" face="Verdana"><sup>I</sup></font><font size="2" face="Verdana">Doutora em Economia, Departamento de Economia/Pimes, UFPE. E-mail:     <a href="mailto:gisleiaduarte@gmail.com">gisleiaduarte@gmail.com</a>    <br>   <sup>II</sup>Doutorando em Economia, Departamento de Economia, University of Illinois. E-mail:   <a href="mailto:brenosampaio@hotmail.com">brenosampaio@hotmail.com</a>    <br>   <sup>III</sup>Professor Titular de Economia, Departamento de Economia/Pimes, UFPE. PhD. em Economia, Universidade da Calif&oacute;rnia, 1973. E-mail: <a href="mailto:sampyony@yahoo.com.br">sampyony@yahoo.com.br</a> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><B>RESUMO</B></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Programas de transfer&ecirc;ncia condicionada de renda s&atilde;o pol&iacute;ticas sociais   correntemente empregadas para combater e reduzir a pobreza em diversos   pa&iacute;ses. No curto prazo, esses programas visam aliviar os problemas decorrentes   da situa&ccedil;&atilde;o de pobreza, sendo que, no longo prazo, o objetivo &eacute; investir no capital   humano, quebrando o ciclo intergeracional da pobreza. Estudos t&ecirc;m sido   realizados para avaliar os impactos desses programas sobre vari&aacute;veis como   freq&uuml;&ecirc;ncia escolar, trabalho infantil, gastos com alimenta&ccedil;&atilde;o, entre outros. Este   trabalho avalia o impacto da transfer&ecirc;ncia de renda do Programa Bolsa Fam&iacute;lia   sobre os gastos com alimentos de fam&iacute;lias rurais. As estima&ccedil;&otilde;es foram feitas com   base no m&eacute;todo de <I>Propensity Score Matching </I>(PSM), que corrige para o vi&eacute;s de   sele&ccedil;&atilde;o amostral. Os resultados mostram que o valor m&eacute;dio das despesas anuais   para as fam&iacute;lias benefici&aacute;rias supera em R$ 246 os gastos totais das fam&iacute;lias   n&atilde;o-participantes. Considerando que a m&eacute;dia anual recebida por essas fam&iacute;lias &eacute;   de R$ 278, pode-se inferir que 88% desse valor &eacute; utilizado para consumo de   alimento. Portanto, o programa de transfer&ecirc;ncia condicionada Bolsa Fam&iacute;lia   exerce um impacto positivo sobre o consumo de alimentos dessas fam&iacute;lias   selecionadas. </font></p>     <p><font size="2" face="Verdana"><B>Palavras-chaves: </B>Bolsa Fam&iacute;lia, transfer&ecirc;ncia de renda, consumo alimentar,   fam&iacute;lias rurais. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><B>ABSTRACT</B></font></p>     <p><font size="2" face="Verdana">Conditional income transfer programs are social policies currently adopted to   reduce poverty in several countries. These conditional transfer schemes have a goal to   alleviate some of the consequences of poverty in the short run and increase human capital   in the long run changing the intergenerational poverty cycle. Several papers evaluate the   impact of income transfer on school attendance, child work and food expenses, among   others. This paper analyzes the impact of the Bolsa Fam&iacute;lia Program on food expenses of   rural families. The Propensity Score Method was used to correct sample selection bias.   Results show that annual food expenses increased 246 reais in relation to non participant   families. Considering that average annual transfer to these families is 278 reais, it can be   concluded that 88% of the transfer is expend in food products. Thus, Bolsa Fam&iacute;lia brings a   positive impact on food consumption of the benefited families.</font></p>     <p><font size="2" face="Verdana"><B>Key-words: </B>Bolsa Fam&iacute;lia, conditional income transfer, food expenses, rural families.    <br> <B>Classifica&ccedil;&atilde;o JEL: </B>I38, Q18.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"> <B>1. Introdu&ccedil;&atilde;o </B></font><font size="2" face="Verdana"> </font></p>     <p><font size="2" face="Verdana">Programas de transfer&ecirc;ncia de renda iniciam-se, no Brasil, em 1995, seguindo   o modelo proposto pelo senador Eduardo Suplicy em 1991, denominado   Programa de Garantia de Renda M&iacute;nima. Segundo Bourguignon, Ferreira e Leite   (2003), programas de prote&ccedil;&atilde;o social que garantem &agrave; popula&ccedil;&atilde;o uma renda   m&iacute;nima apresentam, entre outras vantagens, mecanismos que n&atilde;o afetam os   aspectos alocacionistas do mercado.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"> Em 2000, os gastos federais com esse programa representavam pouco mais de   0,25% dos disp&ecirc;ndios com transfer&ecirc;ncias sociais e 18% dos gastos com assist&ecirc;ncia   social. Portanto, at&eacute; aquele per&iacute;odo, o perfil das pol&iacute;ticas de combate &agrave; pobreza   n&atilde;o havia sido alterado. Considera-se que, at&eacute; 2001, os programas de garantia de   renda m&iacute;nima eram basicamente de cunho municipal, condicionando a   transfer&ecirc;ncia &agrave; freq&uuml;&ecirc;ncia a escola e postos de sa&uacute;de.</font></p>     <p><font size="2" face="Verdana"> O Programa Bolsa Escola, quando implantado, tinha como objetivo elevar a   participa&ccedil;&atilde;o escolar das crian&ccedil;as pertencentes aos domic&iacute;lios com renda mensal   inferior a R$ 100, por meio do repasse de um valor mensal por crian&ccedil;a em idade   escolar. Pretendia-se investir em capital humano, quebrando o ciclo   intergeracional da pobreza. O Bolsa Alimenta&ccedil;&atilde;o, por sua vez, buscava estimular   gestantes, nutrizes e crian&ccedil;as menores a participarem de atividades ligadas &agrave; &aacute;rea   da sa&uacute;de, englobando consultas pr&eacute;-natal e p&oacute;s-parto bem como programas   educativos de aleitamento materno e alimenta&ccedil;&atilde;o saud&aacute;vel, refor&ccedil;adores da   melhoria do capital humano. Para tal, ofereciam uma transfer&ecirc;ncia condicionada   &agrave; fam&iacute;lia e &agrave; crian&ccedil;a participante.</font></p>     <p><font size="2" face="Verdana">No in&iacute;cio de 2004, criou-se o Programa Bolsa Fam&iacute;lia, o qual incorporou o   Bolsa Escola e outros como o Bolsa Alimenta&ccedil;&atilde;o, centralizando a administra&ccedil;&atilde;o   de todos os dispositivos de transfer&ecirc;ncia de renda direta do governo federal. Em   2005, o Bolsa Fam&iacute;lia foi expandido, atingindo cerca de 7 milh&otilde;es de fam&iacute;lias.   Objetivou-se atender a dois grupos: o de fam&iacute;lias com renda per capita mensal   inferior a R$ 50 sem nenhuma condicionalidade e o de fam&iacute;lias com uma renda   per capita mensal entre R$50 e R$ 100 com crian&ccedil;as de at&eacute; cinco anos. At&eacute; agosto   de 2006, os domic&iacute;lios selecionados pelo programa recebiam de R$ 15 a R$ 95. Para   as fam&iacute;lias com renda inferior a R$ 50, o valor mensal recebido era de R$ 50 mais   R$ 15 por crian&ccedil;a, sendo que para as fam&iacute;lias com renda per capita inferior a R$   100<a name="tx01"></a><a href="#nt01"><sup>1</sup></a>, tal benef&iacute;cio era concedido para, no m&aacute;ximo, tr&ecirc;s crian&ccedil;as. </font></p>     <p><font size="2" face="Verdana">O Bolsa Fam&iacute;lia, assim como os programas anteriores de transfer&ecirc;ncia de   renda, partiu da constata&ccedil;&atilde;o de que os n&iacute;veis de pobreza da popula&ccedil;&atilde;o brasileira   n&atilde;o apresentaram nenhuma redu&ccedil;&atilde;o significativa nas &uacute;ltimas d&eacute;cadas do s&eacute;culo   passado (XX). Entre os motivos destacam-se o alto n&iacute;vel de desigualdade de   renda e a estagna&ccedil;&atilde;o do PIB, principalmente no per&iacute;odo de 1980 a 1993. Somente   com a implanta&ccedil;&atilde;o do Plano Real, em 1993, &eacute; que a economia brasileira ganhou   mais estabilidade, resultando em um crescimento significativo de 11,61% no PIB   nacional e afetando positivamente os n&iacute;veis de pobreza. Daquele ano at&eacute; 1999, o   percentual de pobres no Pa&iacute;s reduziu-se em sete pontos percentuais. No entanto,   29% da popula&ccedil;&atilde;o ainda vivia com renda per capita abaixo da linha de pobreza.   Quando comparado a pa&iacute;ses com n&iacute;vel semelhante de desenvolvimento, o grau   de pobreza no Brasil &eacute; bastante elevado (CAMARGO, 2003).</font></p>     <p><font size="2" face="Verdana"> Nesse contexto, emerge a vis&atilde;o de que a pol&iacute;tica p&uacute;blica teria um papel crucial   a cumprir: prevenir, enfrentar e reduzir a situa&ccedil;&atilde;o de pobreza das fam&iacute;lias.   Adquirem import&acirc;ncia as pol&iacute;ticas de perfil redistributivo, que criam redes de   prote&ccedil;&atilde;o social para popula&ccedil;&otilde;es mais pobres. No entanto, face ao fracasso de   pol&iacute;ticas de distribui&ccedil;&atilde;o direta de bens na redu&ccedil;&atilde;o da pobreza no curto prazo,   ocorre a substitui&ccedil;&atilde;o dos mesmos por programas de transfer&ecirc;ncia direta de renda.</font></p>     <p><font size="2" face="Verdana"> Essa mudan&ccedil;a de foco dos programas de transfer&ecirc;ncia se deu tamb&eacute;m em   decorr&ecirc;ncia do debate sobre a perspectiva da prote&ccedil;&atilde;o social, o qual discute a   import&acirc;ncia de a&ccedil;&otilde;es que constituem investimento em capital humano ao   mesmo tempo em que fomentam o acesso a servi&ccedil;os b&aacute;sicos e buscam quebrar o   ciclo da pobreza entre gera&ccedil;&otilde;es. Os benefici&aacute;rios desse sistema de prote&ccedil;&atilde;o social   s&atilde;o pessoas que vivem em pobreza estrutural, encontram-se abaixo da linha de   pobreza e pertencem a grupos com necessidades especiais (VILLATORO, 2005). </font></p>     <p><font size="2" face="Verdana">Os programas de transfer&ecirc;ncia condicionada enquadram-se no conceito de   prote&ccedil;&atilde;o social, visto que almejam elevar o investimento em capital humano. Esses   programas t&ecirc;m como pressuposto o fato de que a reprodu&ccedil;&atilde;o da pobreza deve-se &agrave;</font> <font size="2" face="Verdana">falta de investimento nas capacidades dos indiv&iacute;duos; por isso buscam, por meio   do condicionamento da transfer&ecirc;ncia, gerar incentivos para esses investimentos   (Villatoro, 2005). A condi&ccedil;&atilde;o de entrada no sistema se restringe, quase sempre, &agrave;   remunera&ccedil;&atilde;o, implicando na transpar&ecirc;ncia da declara&ccedil;&atilde;o da renda real e do   patrim&ocirc;nio de cada requerente. O crit&eacute;rio renda &eacute; largamente criticado na literatura pelos desvios que pode causar (MULLER; BIBI, 2005; MELO, 2008). </font></p>     <p><font size="2" face="Verdana">Esses programas de transfer&ecirc;ncia de renda apresentam tr&ecirc;s principais   estrat&eacute;gias: preven&ccedil;&atilde;o, enfrentamento e suaviza&ccedil;&atilde;o da pobreza. Segundo   Ravallion (2001), as estrat&eacute;gias de enfrentamento s&atilde;o orientadas para atenuar o   impacto do risco ao qual as pessoas ou comunidades pobres est&atilde;o expostas, uma   vez que a situa&ccedil;&atilde;o de pobreza j&aacute; existe. As estrat&eacute;gias de suaviza&ccedil;&atilde;o e preven&ccedil;&atilde;o,   por sua vez, s&atilde;o adotadas para diminuir os riscos futuros. </font></p>     <p><font size="2" face="Verdana">A import&acirc;ncia desses programas de transfer&ecirc;ncia no Brasil e o amadurecimento   da literatura sobre condicionalidades estimularam o acompanhamento e a avalia&ccedil;&atilde;o   dos mesmos. </font></p>     <p><font size="2" face="Verdana">Diversos estudos analisaram o programa de transfer&ecirc;ncia de renda Bolsa   Escola. Cardoso e Souza (2004) avaliam o impacto do programa condicional de   transfer&ecirc;ncia de renda sobre a taxa de matr&iacute;cula e a freq&uuml;&ecirc;ncia escolar das   crian&ccedil;as pertencentes &agrave;s fam&iacute;lias beneficiadas. Ao aplicar o m&eacute;todo <I>Propensity   Score Matching </I>(PSM), obt&eacute;m-se como resultado que a participa&ccedil;&atilde;o das fam&iacute;lias   no Bolsa Escola apresenta efeito positivo sobre a taxa de matr&iacute;cula e a freq&uuml;&ecirc;ncia   escolar. Bourguignom et. al (2003), usando modelo de micro-simula&ccedil;&atilde;o <I>ex ante</I>,   encontram um forte efeito da condicionalidade (freq&uuml;&ecirc;ncia escolar) sobre o   comparecimento &agrave; escola, mas n&atilde;o encontram maior impacto das transfer&ecirc;ncias   sobre a pobreza e a distribui&ccedil;&atilde;o de renda. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Outros estudos tamb&eacute;m apontam resultados positivos para o Programa   Bolsa Escola. Segundo Ferro e Kassouf (2004), que avaliam o impacto do   programa sobre o trabalho infantil, as crian&ccedil;as que participam do programa   trabalham, em m&eacute;dia, 3,4 horas a menos que as que n&atilde;o participam. O Bolsa   Escola teria, portanto, contribu&iacute;do para a redu&ccedil;&atilde;o da jornada de trabalho infantil.   Villatoro (2005) identifica que o programa contribui positivamente para a   acumula&ccedil;&atilde;o de capital humano, para maior freq&uuml;&ecirc;ncia escolar e para a melhoria   da rela&ccedil;&atilde;o idade/ano escolar. </font></p>     <p><font size="2" face="Verdana">Para o Bolsa Alimenta&ccedil;&atilde;o, tamb&eacute;m h&aacute; avalia&ccedil;&otilde;es (MINIST&Eacute;RIO DA SA&Uacute;DE,   2004; 2005) que constatam impacto positivo das transfer&ecirc;ncias sobre o gasto com   alimenta&ccedil;&atilde;o e sobre a diversifica&ccedil;&atilde;o da dieta, mas n&atilde;o foi constatado impacto   sobre a utiliza&ccedil;&atilde;o dos servi&ccedil;os de sa&uacute;de, um dos objetivos centrais do programa. </font></p>     <p><font size="2" face="Verdana">Dada a import&acirc;ncia j&aacute; atribu&iacute;da aos programas de transfer&ecirc;ncia de renda, o   presente estudo pretende analisar o impacto dessa transfer&ecirc;ncia sobre os gastos   com alimentos por parte das fam&iacute;lias beneficiadas.</font></p>     <p><font size="2" face="Verdana">Segundo Attanasio et. al (2004), o efeito positivo das transfer&ecirc;ncias do   programa sobre o consumo pode n&atilde;o ocorrer de forma imediata. Isso porque a   renda disponibilizada pelo programa n&atilde;o necessariamente aumenta na mesma   propor&ccedil;&atilde;o que o montante da renda familiar, dadas as condicionalidades do   programa que podem reduzir outras fontes de renda, como a proveniente do   trabalho infantil. Entretanto, o resultado que se espera &eacute; que as transfer&ecirc;ncias   influenciem de forma positiva o consumo e, conseq&uuml;entemente, o bem-estar das   fam&iacute;lias beneficiadas. </font></p>     <p><font size="2" face="Verdana">Esse impacto pode ser maior que o de uma transfer&ecirc;ncia de renda   n&atilde;o-condicionada se a fam&iacute;lia entender que a transfer&ecirc;ncia deve ser utilizada   predominantemente em favor das crian&ccedil;as ou da melhoria da sa&uacute;de. Isso pode   ser uma decorr&ecirc;ncia de quem decide o gasto da renda da transfer&ecirc;ncia &#150; se a   mulher ou o homem. Dessa forma, a elasticidade-renda por alimento pode ser   maior para a renda transferida em rela&ccedil;&atilde;o &agrave; renda do trabalho. No caso do Bolsa   Alimenta&ccedil;&atilde;o, a condicionalidade &eacute; expl&iacute;cita, e se constata aumento do gasto com   alimenta&ccedil;&atilde;o para fam&iacute;lias com mesma renda, indicando que as elasticidades s&atilde;o   distintas. Mas com o Bolsa Fam&iacute;lia, essa condicionalidade &eacute;, em partes, perdida.   Uma hip&oacute;tese poss&iacute;vel &eacute; a de que mesmo sem condicionalidade esse   comportamento se deva ao tomador de decis&atilde;o do gasto desta renda de   transfer&ecirc;ncia. De modo geral, &eacute; atribu&iacute;do papel crucial &agrave; m&atilde;e como tomadora de   decis&atilde;o quanto aos recursos de transfer&ecirc;ncia do Bolsa Fam&iacute;lia. </font></p>     <p><font size="2" face="Verdana">A se&ccedil;&atilde;o seguinte apresenta uma descri&ccedil;&atilde;o da metodologia utilizada para   an&aacute;lise bem como os dados e vari&aacute;veis selecionados. Na terceira se&ccedil;&atilde;o, s&atilde;o   apresentados os resultados obtidos com o modelo <I>propensity score</I>. Por fim, a   quarta se&ccedil;&atilde;o traz as conclus&otilde;es do trabalho. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>2. Metodologia </B></font></p>     <p><font size="2" face="Verdana">Os estudos existentes relacionados aos impactos de pol&iacute;ticas p&uacute;blicas sobre   vari&aacute;veis de interesse apontam como principal dificuldade a falta de informa&ccedil;&atilde;o   a respeito dos indiv&iacute;duos em situa&ccedil;&otilde;es diferentes, ou seja, dos indiv&iacute;duos   beneficiados e n&atilde;o beneficiados pela pol&iacute;tica. </font></p>     <p><font size="2" face="Verdana">Toma-se como exemplo a fam&iacute;lia <I>i</I>, com vari&aacute;vel de interesse <I>Y </I>(crescimento   do consumo de alimentos). T&ecirc;m-se duas situa&ccedil;&otilde;es: <I>D </I>= 1 para os indiv&iacute;duos que   participarem da pol&iacute;tica e <I>D </I>= 0, caso contr&aacute;rio. O resultado observado para a   vari&aacute;vel de interesse pode ser representado por:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="2" face="Verdana"> <I>Yi </I>= <I>D</I>.<I>Y</I><sub>1</sub><I><sub>i </sub></I>+(1-<I>D</I>).<I>Y</I><sub>0</sub></font></p>     <p><font size="2" face="Verdana">O impacto m&eacute;dio da pol&iacute;tica para o indiv&iacute;duo <I>i </I>e o impacto m&eacute;dio da pol&iacute;tica   sobre a fam&iacute;lia beneficiada podem ser representados por: </font></p> <table width="439" border="0" align="center" cellpadding="0" cellspacing="0">   <tr>     <td width="129"><font>&#916;</font><font size="2" face="verdana"><I>i</I>=<I>Y</I></font><sub>&#8595;</sub><font size="2" face="verdana"><I>1i </I>&#150;<I> Y</I></font><sub>&#8595;</sub><font size="2" face="verdana">01</font></td>     <td width="35"><font size="2" face="verdana">e</font></td>     <td width="336"><font>&#916;</font><font size="2" face="verdana"><I>i</I>= <I>E </I></font><font>(&#916;</font><font size="2" face="verdana"><I>i | D</I>=1) = <I>E </I>(<I>Y</I></font><sub>&#8595;</sub><font size="2" face="verdana">1<I>i</I> &#150; <I>Y</I></font><sub>&#8595;</sub><font size="2" face="verdana">01<I> | D</I>=  1) </font></td>   </tr> </table>     <p><font size="2" face="Verdana">em que <I>E</I>( &#8729; | <I>D</I>=1) refere-se ao valor esperado condicional &agrave; participa&ccedil;&atilde;o no   programa social. </font></p>     <p><font size="2" face="Verdana">Como n&atilde;o &eacute; poss&iacute;vel observar as fam&iacute;lias nas duas situa&ccedil;&otilde;es, utiliza-se nas   avalia&ccedil;&otilde;es um grupo das que n&atilde;o receberam o beneficio, o grupo de controle,   obtendo-se uma medida aproximada do impacto do benef&iacute;cio sobre a vari&aacute;vel   considerada: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05frm01.gif"></p>     <p><font size="2" face="Verdana"> A equa&ccedil;&atilde;o (1) expressa o vi&eacute;s ou a medida do erro que se incorre ao   diferenciar as fam&iacute;lias apenas pelo fato destas participarem ou n&atilde;o da pol&iacute;tica.   Uma simples compara&ccedil;&atilde;o entre os grupos pode refletir diferen&ccedil;as pr&eacute;-programa,   e o efeito do programa pode ser decorrente de vari&aacute;veis como idade e   escolaridade dos indiv&iacute;duos (ATTANASIO et al, 2004). Para a resolu&ccedil;&atilde;o do   problema de vi&eacute;s de sele&ccedil;&atilde;o, Rosenbaum e Rubin (1983) desenvolveram, a partir   do <I>matching </I>ou pareamento das caracter&iacute;sticas observ&aacute;veis dos indiv&iacute;duos do   grupo amostral, o m&eacute;todo conhecido como <I>Propensity Score Matching</I>. </font></p>     <p><font size="2" face="Verdana"><B>2.1. Pareamento das Caracter&iacute;sticas Observ&aacute;veis </B></font></p>     <p><font size="2" face="Verdana">Neste trabalho, ser&aacute; utilizada a metodologia do <I>matching </I>ou pareamento das   caracter&iacute;sticas observ&aacute;veis. O <I>matching </I>&eacute; freq&uuml;entemente empregado nos   estudos que avaliam o impacto de pol&iacute;ticas sobre vari&aacute;veis de interesse. </font></p>     <p><font size="2" face="Verdana">Esse m&eacute;todo tem por finalidade encontrar um grupo de compara&ccedil;&atilde;o ao   grupo de tratamento a partir de uma amostra de indiv&iacute;duos que n&atilde;o participam   do programa ou pol&iacute;tica (grupo de controle). Tomam-se como base as   caracter&iacute;sticas observ&aacute;veis do grupo de tratamento, comparando-o com o grupo   de controle, composto por indiv&iacute;duos com caracter&iacute;sticas semelhantes &agrave;s do   grupo de tratamento. </font></p>     <p><font size="2" face="Verdana">Segundo Heckman et. al. (1997), o grupo de tratamento &eacute; representado por   uma vari&aacute;vel <I>dummy D</I>, que assume valor 1 caso o indiv&iacute;duo tenha recebido o   benef&iacute;cio e 0 caso contr&aacute;rio. A vari&aacute;vel <I>Y</I><sub>1</sub><I><sub>i</sub> </I>denota a vari&aacute;vel de interesse para o   indiv&iacute;duo <I>i</I>, que pertence ao grupo de tratamento (recebe o benef&iacute;cio) e <I>Y</I><sub>0</sub><I><sub>i</sub> </I>&eacute; o   valor da mesma vari&aacute;vel, caso o indiv&iacute;duo n&atilde;o receba o benef&iacute;cio. Portanto, o impacto m&eacute;dio do programa sobre os beneficiados &eacute; dado pelo efeito m&eacute;dio do   tratamento no (grupo) tratado (ATT): </font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v47n4/a05frm02.gif"></p>     <p><font size="2" face="Verdana">Considerando a equa&ccedil;&atilde;o (3), isso seria verdade se os grupos de controle e de   tratamento fossem observados em duas situa&ccedil;&otilde;es no tempo. Como isso n&atilde;o &eacute; poss&iacute;vel,   admitem-se neste estudo algumas hip&oacute;teses sobre (3), como substituir o resultado da   vari&aacute;vel de interesse dos indiv&iacute;duos beneficiados se o mesmo n&atilde;o tivesse sido   beneficiado <I>E</I>(<I>Y</I><sub>0</sub><I><sub>i</sub> | D<sub>i</sub> </I>= 0). Por&eacute;m, como &eacute; conhecido, os indiv&iacute;duos beneficiados pela   pol&iacute;tica de transfer&ecirc;ncia social n&atilde;o foram escolhidos aleatoriamente e, portanto, &eacute;   prov&aacute;vel a exist&ecirc;ncia de um vi&eacute;s. Logo <I>E</I>(<I>Y</I><sub>0</sub><I><sub>i</sub> | D<sub>i </sub></I>= 1) </font>&#8800;<font size="2" face="Verdana"> <I>E(Y</I><sub>0</sub><I><sub>i</sub> | D<sub>i</sub> </I>= 0). </font></p>     <p><font size="2" face="Verdana">Para resolver o problema de vi&eacute;s, &eacute; necess&aacute;rio considerar as caracter&iacute;sticas   observ&aacute;veis (<I>X<sub>i</sub></I>) que afetam a vari&aacute;vel de interesse (<I>Y</I>). Uma vez que os   indiv&iacute;duos com caracter&iacute;sticas observ&aacute;veis id&ecirc;nticas possuem a mesma   probabilidade de receber o benef&iacute;cio, o valor da vari&aacute;vel de interesse (<I>Y</I>) passa a   ser independente do estado (se o indiv&iacute;duo se encontra no grupo dos   beneficiados ou controle). Formalmente, nessa situa&ccedil;&atilde;o tem-se (<I>Y</I><sub>1</sub><I><sub>i </sub></I>,<I>Y</I><sub>0</sub><I><sub>i</sub> </I></font>&#8869;<font size="2" face="Verdana"><I>D</I>), e   assim pode-se reescrever a equa&ccedil;&atilde;o 3 como:</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05frm04.gif"></p>     <p><font size="2" face="Verdana"> Dessa forma, o efeito do programa sobre as fam&iacute;lias (equa&ccedil;&atilde;o 1) pode ser   reescrita como: </font><font>&#916;</font><font size="2" face="verdana">= <I>E</I>(<I>Y</I><sub>1</sub><I><sub>i</sub> | X<sub>i</sub> </I>, <I>D</I>=1) &#150; <I>E</I>(<I>Y</I><sub>0</sub><I><sub>i</sub> | X<sub>i</sub> </I>, <I>D</I>= 0), t&atilde;o logo o impacto m&eacute;dio   do programa nas fam&iacute;lias seja obtido a partir da m&eacute;dia ponderada dos resultados   para os diversos grupos. Para isso, toma-se o valor esperado da equa&ccedil;&atilde;o 4, para o   caso em que <I>D </I>= 1, obtendo-se a express&atilde;o: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05frm05.gif"></p>     <p><font size="2" face="Verdana"> O impacto do programa sobre a vari&aacute;vel de interesse (<I>Y</I>) se d&aacute; por meio da   soma ponderada das diferen&ccedil;as entre o valor m&eacute;dio dessa vari&aacute;vel para   beneficiados e n&atilde;o-beneficiados. Essa compara&ccedil;&atilde;o &eacute; poss&iacute;vel apenas para   indiv&iacute;duos com caracter&iacute;sticas semelhantes. </font></p>     <p><font size="2" face="Verdana">A dificuldade de aplica&ccedil;&atilde;o desse m&eacute;todo reside no fato de que, quanto mais   caracter&iacute;sticas s&atilde;o utilizadas como base, maior ser&aacute; o n&uacute;mero de observa&ccedil;&otilde;es   necess&aacute;rio no grupo de tratamento para que possa ser feito o pareamento com o grupo   de controle. Para eliminar esse problema, em vez de se utilizar as vari&aacute;veis que   expressam as caracter&iacute;sticas observ&aacute;veis (<I>X<sub>i</sub></I>), passou-se a considerar as probabilidades   associadas a essas vari&aacute;veis <I>P(X<sub>i</sub></I>). Essa altera&ccedil;&atilde;o foi realizada por Rosembaum e Rubin   (1983) e o m&eacute;todo ficou conhecido como <I>Propensity Score Matching</I>. </font></p>     <p><font size="2" face="Verdana"><B><I>2.2. Propensity Score Matching (PSM) </I></B></font></p>     <p><font size="2" face="Verdana">O m&eacute;todo de avalia&ccedil;&atilde;o do impacto do Bolsa Fam&iacute;lia &eacute; baseado na   compara&ccedil;&atilde;o entre indiv&iacute;duos que participam e os que n&atilde;o participam do   programa social. Como a sele&ccedil;&atilde;o dos beneficiados da pol&iacute;tica, no caso deste   estudo, n&atilde;o ocorreu de forma aleat&oacute;ria, uma simples compara&ccedil;&atilde;o entre os grupos   (de tratamento e de controle) n&atilde;o seria correta. Isso porque o efeito do programa   pode ser fun&ccedil;&atilde;o de vari&aacute;vel <I>background </I>(escolaridade do chefe de fam&iacute;lia, por   exemplo), que, por sua vez, pode ser diferente entre os grupos. Assim, foram   comparados indiv&iacute;duos semelhantes entre as caracter&iacute;sticas observ&aacute;veis,   utilizando-se o <I>matching </I>ou pareamento das vari&aacute;veis. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O PSM foi criado por Rosenbaum e Rubin (1983) para resolver o problema   da multidimensionalidade do pareamento. Mostrou-se que o m&eacute;todo pode   ser implantado a partir de uma &uacute;nica vari&aacute;vel de controle, o <I>propensity score   P(X), </I>definido como a probabilidade condicional de um indiv&iacute;duo receber   benef&iacute;cio, dadas as suas caracter&iacute;sticas observ&aacute;veis (ver express&atilde;o 6)   (ROSENBAUM; RUBIN, 1983): </font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05frm06.gif"></p>     <p><font size="2" face="Verdana">A multidimensionalidade do pareamento pode ser solucionada por meio do <I>propensity score</I>, uma vez que a probabilidade se vincula a apenas um escalar. Na   express&atilde;o 6, X<sub>i</sub> (vetor das caracter&iacute;sticas observ&aacute;veis) pode ser, ent&atilde;o, substitu&iacute;do   pelo escalar <I>P</I>(<I>X</I>):</font></p>     <p align="left"><font size="2" face="Verdana"> <I>E</I>(<I>Y</I><sub>1 </sub>&#150;<I> Y</I><sub>0</sub> <I>| D</I>=1, <I>P</I>(<I>X</I>))= <I>E</I>(<I>Y</I><sub>1</sub> <I>D</I>=1, <I>P</I>(<I>X</I>)) &#150; <I>E</I>(<I>Y</I><sub>0</sub> <I>D</I>= 0, <I>P</I>(<I>X</I>)) , ent&atilde;o</font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05frm07.gif"></p>     <p><font size="2" face="Verdana"> Com o <I>propensity score, </I>&eacute; poss&iacute;vel ajustar todo vi&eacute;s existente entre os grupos   de controle e de tratamento (ROSENBAUM; RUBIN, 1983). Entretanto, para a   aplica&ccedil;&atilde;o desse m&eacute;todo, &eacute; preciso assumir duas hip&oacute;teses:</font></p>     <blockquote>       <p><font size="2" face="Verdana"> 1) Balanceamento das caracter&iacute;sticas observ&aacute;veis. A sele&ccedil;&atilde;o da amostra     requer que a participa&ccedil;&atilde;o no programa independa dos resultados e seja     condicional nas covari&aacute;veis. </font></p>       <p><font size="2" face="Verdana">2) Exist&ecirc;ncia de um suporte comum, isto &eacute;, n&atilde;o comparar o incompar&aacute;vel, o     que geraria vi&eacute;s na avalia&ccedil;&atilde;o. Ent&atilde;o, 0 &lt; <I>P</I>(<I>X</I>) &lt; 1, para cada grupo de     controle existe um de tratamento correspondente. (HECKMAN et al,     1997).</font></p> </blockquote>     <p><font size="2" face="Verdana"><B> <I>2.3. C&aacute;lculo do Propensity Score </I></B></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Em geral o <I>Propensity Score P</I>(<I>X</I>) n&atilde;o &eacute; conhecido, por isso &eacute; necess&aacute;rio   estim&aacute;-lo. De posse de amostras dos grupos de controle e de tratamento, estima-se   uma regress&atilde;o <I>logit </I>para obter a probabilidade dos indiv&iacute;duos participarem dos   programas sociais, dadas as suas caracter&iacute;sticas observ&aacute;veis (<I>Xi</I>). </font></p>     <p><font size="2" face="Verdana">Nessa regress&atilde;o, as vari&aacute;veis independentes s&atilde;o aquelas que podem afetar a   participa&ccedil;&atilde;o ou n&atilde;o do indiv&iacute;duo na pol&iacute;tica ou programa de transfer&ecirc;ncia social.   A vari&aacute;vel dependente &eacute; uma <I>dummy </I>que assume valor 1 para o caso do grupo de   tratamento (chefes de fam&iacute;lia beneficiados) e zero para o grupo de controle. </font></p>     <p><font size="2" face="Verdana">Ap&oacute;s a estimativa do <I>propensity score, </I>s&atilde;o obtidos subgrupos dentro do grupo   de controle com probabilidades semelhantes &agrave;s dos indiv&iacute;duos do grupo de   tratamento. Em seguida, para cada bloco do <I>propensity score</I>, testa-se se a m&eacute;dia de   cada vari&aacute;vel preditora utilizada no modelo n&atilde;o difere entre tratamento e controle. </font></p>     <p><font size="2" face="Verdana">Se identificada distin&ccedil;&atilde;o entre os grupos, deve-se especificar um modelo   menos parcimonioso para a estimativa do <I>propensity score</I>. Caso contr&aacute;rio &#150; se   todos os testes para cada vari&aacute;vel dentro de cada intervalo mostrarem que a   m&eacute;dia n&atilde;o difere significantemente &#150;, um n&uacute;mero de blocos ou estratos ser&aacute;   definido, prosseguindo-se com o c&aacute;lculo do Efeito M&eacute;dio com Pareamento   Estratificado (ATT). </font></p>     <p><font size="2" face="Verdana"><I>2.3.1. C&aacute;lculo do Efeito M&eacute;dio do Programa   com Pareamento Estratificado (ATT) </I></font></p>     <p><font size="2" face="Verdana">Entre os diversos m&eacute;todos de pareamento ou <I>matching </I>existentes na   literatura, optou-se por utilizar o de pareamento estratificado (<I>stratification   matching</I>). Formalmente, considera-se a distribui&ccedil;&atilde;o de beneficiados e n&atilde;o   beneficiados pela pol&iacute;tica p&uacute;blica em n blocos ou estratos, de forma que a m&eacute;dia   das estimativas de <I>propensity score </I>para os dois grupos n&atilde;o apresente diferen&ccedil;a   estatisticamente significante em cada estrato. Se <I>Y </I>&eacute; a vari&aacute;vel de interesse, o   primeiro passo &eacute; calcular as diferen&ccedil;as de desempenho entre os beneficiados e   n&atilde;o-beneficiados dentro dos estratos: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05frm08.gif"></p>     <p><font size="2" face="Verdana"> em que<i> <img src="/img/revistas/resr/v47n4/a05img01.gif" align="absmiddle"></i> e<i> <img src="/img/revistas/resr/v47n4/a05img02.gif" align="absmiddle"></i> correspondem aos resultados observados para os   indiv&iacute;duos dos grupos <I>i </I>e <I>j</I>, respectivamente, dos grupos dos beneficiados e   n&atilde;o-beneficiados (de controle). O resultados final &eacute; representado por: </font></p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05frm09.gif"></p>     <p><font size="2" face="Verdana"><B>2.4. Amostra e Vari&aacute;veis Utilizadas no Modelo </B></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Os dados utilizados neste estudo s&atilde;o provenientes de pesquisa de campo   realizada pelo PADR-Ufrpe/Fadurpe com 838 fam&iacute;lias de agricultores familiares   de 32 munic&iacute;pios dos estados da Para&iacute;ba (Cariri), Cear&aacute; (Sert&atilde;o Central), Rio   Grande do Norte (Apodi) e Sergipe (Sert&atilde;o), no ano de 2005 (PROJETO DOM   HELDER C&Acirc;MARA, 2006). </font></p>     <p><font size="2" face="Verdana">Observa-se que a renda m&eacute;dia mensal das fam&iacute;lias que comp&otilde;em a amostra &eacute;   de R$ 240 (<a href="#tab01">Tabela 1</a>). A idade m&eacute;dia &eacute; de 44 anos. J&aacute; a escolaridade, que varia de zero   a 16 anos de estudo, apresenta m&eacute;dia bastante baixa, de tr&ecirc;s anos. Do total dos   indiv&iacute;duos amostrados, 63% s&atilde;o do sexo masculino, 29% s&atilde;o brancos, 31% s&atilde;o   aposentados e 23% s&atilde;o benefici&aacute;rios do Programa Bolsa Fam&iacute;lia (<a href="#tab02">Tabela 2</a>). O valor   m&eacute;dio mensal do benef&iacute;cio recebido pelas fam&iacute;lias participantes &eacute; de R$ 29,30.</font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05tab01.gif"></p>     <p>&nbsp;</p>     <p><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05tab02.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O primeiro passo foi selecionar as vari&aacute;veis independentes a serem inclu&iacute;das   no modelo <I>logit </I>&#150; utilizado para calcular a probabilidade dos indiv&iacute;duos   participarem do programa de transfer&ecirc;ncia social. Em seguida, esses indiv&iacute;duos   ou fam&iacute;lias foram agrupados ou pareados de acordo com a semelhan&ccedil;a existente   entre a probabilidade dos mesmos serem benefici&aacute;rios do Programa Bolsa   Fam&iacute;lia. A <a href="#tab03">Tabela 3</a> apresenta as vari&aacute;veis utilizadas no modelo <I>logit</I>. </font></p>     <p><a name="tab03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05tab03.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Com a obten&ccedil;&atilde;o dos estratos a partir da estimativa do <I>propensity score</I>, &eacute;   poss&iacute;vel avaliar o impacto do recebimento do Bolsa Fam&iacute;lia sobre o consumo de   alimentos das fam&iacute;lias. Para isso, a vari&aacute;vel <I>despesa com consumo de alimentos de cada     indiv&iacute;duo </I>foi agregada para a unidade familiar. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>3. Resultados e Discuss&atilde;o </B></font></p>     <p><font size="2" face="Verdana">Os resultados est&atilde;o divididos em duas se&ccedil;&otilde;es. Na se&ccedil;&atilde;o 3.1, s&atilde;o feitas   considera&ccedil;&otilde;es sobre o modelo <I>logit, </I>constru&iacute;do para estimar o <I>propensity score</I>. Na   se&ccedil;&atilde;o 3.2, s&atilde;o analisados os resultados obtidos para as estimativas do efeito do tratamento.  </font></p>     <p><font size="2" face="Verdana"><B><I>3.1. Estima&ccedil;&atilde;o e Discuss&atilde;o do modelo logit </I></B></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A <a href="#tab04">Tabela 4</a> apresenta o resultado para o modelo <I>propensity score </I>estimado. As   especifica&ccedil;&otilde;es finais foram obtidas por meio de v&aacute;rias tentativas, a fim de se   chegar a um modelo com maior n&uacute;mero de vari&aacute;veis. Isso porque quanto maior o   n&uacute;mero de vari&aacute;veis inclu&iacute;das, melhor &eacute; o pareamento entre os grupos de   tratamento e de controle. </font></p>     <p><a name="tab04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05tab04.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">A an&aacute;lise dos preditores permite avaliar que, em geral, as vari&aacute;veis   apresentam os sinais esperados. Em um primeiro momento, observaram-se as   vari&aacute;veis relacionadas &agrave;s caracter&iacute;sticas do chefe do domic&iacute;lio, como g&ecirc;nero, ra&ccedil;a,   idade, idade2 e se &eacute; aposentado. As vari&aacute;veis g&ecirc;nero e ra&ccedil;a n&atilde;o s&atilde;o   estatisticamente significativas a menos de 10%, de modo que n&atilde;o garantem   aumento ou redu&ccedil;&atilde;o na probabilidade de recebimento do benef&iacute;cio pela fam&iacute;lia.</font></p>     <p><font size="2" face="Verdana">A vari&aacute;vel <I>idade ao quadrado</I> indica que, quanto maior a idade do chefe de   fam&iacute;lia, maiores s&atilde;o as chances de recebimento do benef&iacute;cio. A partir de um   determinado ponto, contudo, o cen&aacute;rio se inverte, diminuindo a probabilidade   de inser&ccedil;&atilde;o da fam&iacute;lia nos programas sociais. Ser aposentado tamb&eacute;m influi   negativamente nas chances de recebimento.</font></p>     <p><font size="2" face="Verdana"> Quanto &agrave; educa&ccedil;&atilde;o do chefe de fam&iacute;lia, a vari&aacute;vel <I>anos de estudo </I>n&atilde;o se   mostrou significativa, apesar do sinal negativo no coeficiente. Uma poss&iacute;vel   explica&ccedil;&atilde;o pode estar associada &agrave; homogeneidade dos indiv&iacute;duos que   constituem a amostra em rela&ccedil;&atilde;o &agrave; escolaridade. </font></p>     <p><font size="2" face="Verdana">Vari&aacute;veis relacionadas &agrave;s condi&ccedil;&otilde;es de moradia da fam&iacute;lia, entre elas a exist&ecirc;ncia   de banheiro na resid&ecirc;ncia e materiais usados na constru&ccedil;&atilde;o da casa, n&atilde;o s&atilde;o   estatisticamente significantes a 10%. De acordo com o sinal positivo do coeficiente da   vari&aacute;vel &aacute;gua encanada, &eacute; poss&iacute;vel afirmar que a fam&iacute;lia que possui em sua resid&ecirc;ncia   &aacute;gua encanada tem maior chance de receber o benef&iacute;cio do programa social. </font></p>     <p><font size="2" face="Verdana">Vari&aacute;veis que se relacionam com as caracter&iacute;sticas das fam&iacute;lias, como renda,   presen&ccedil;a de crian&ccedil;as e territ&oacute;rio, tamb&eacute;m apresentaram o sinal esperado. Com   rela&ccedil;&atilde;o &agrave; renda, quanto maior o valor, menor &eacute; a probabilidade de participa&ccedil;&atilde;o   no programa. O sinal positivo do coeficiente associado &agrave; vari&aacute;vel <I>crian&ccedil;a por   domic&iacute;lio </I>mostra que a resid&ecirc;ncia composta por casais com filhos aumenta a   chance de a fam&iacute;lia se enquadrar como benefici&aacute;ria. Quanto ao territ&oacute;rio, quem   mora no Sert&atilde;o de Sergipe tem a maior probabilidade de receber o beneficio.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Ap&oacute;s calcular a probabilidade de participa&ccedil;&atilde;o com o modelo <I>logit</I>, realizou-se   o pareamento das fam&iacute;lias pertencentes aos grupos de controle e tratamento de   acordo com a probabilidade que as mesmas t&ecirc;m de serem eleg&iacute;veis como   benefici&aacute;rias do programa social, dadas as suas caracter&iacute;sticas observ&aacute;veis.</font></p>     <p><font size="2" face="Verdana">O resultado do pareamento, ou seja, a obten&ccedil;&atilde;o de subgrupos dentro do   grupo de controle com valores de escores similares aos dos indiv&iacute;duos do grupo   de tratamento, pode ser observado na <a href="#tab05">Tabela 5</a>. Obteve-se quatro estratos de   fam&iacute;lias com chances de receberem o Bolsa Fam&iacute;lia.</font></p>     <p><a name="tab05"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05tab05.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><B><I>3.2. Impacto do Programa Bolsa Fam&iacute;lia   sobre os Gastos com Alimentos</I></B></font></p>     <p><font size="2" face="Verdana">Ap&oacute;s o pareamento estratificado, calcula-se o impacto do Programa Bolsa   Fam&iacute;lia sobre as despesas de alimentos das fam&iacute;lias beneficiadas (ATT). O   m&eacute;todo de pareamento dividiu a varia&ccedil;&atilde;o dos escores de propens&atilde;o em   intervalos, de modo que, em cada um destes, as unidades tratadas e de controle   apresentassem na m&eacute;dia a mesma probabilidade de receber o benef&iacute;cio. </font></p>     <p><font size="2" face="Verdana">Em seguida, obteve-se o resultado quanto ao impacto da transfer&ecirc;ncia de   renda sobre o consumo alimentar. Em cada intervalo ou bloco, calculou-se a   diferen&ccedil;a dos resultados m&eacute;dios entre os grupos participantes e   n&atilde;o-participantes. Ou seja, a m&eacute;dia das despesas de consumo de cada bloco de   fam&iacute;lias do grupo de tratamento foi comparada com a m&eacute;dia de consumo do   grupo de controle (<a href="#tab06">Tabela 6</a>).</font></p>     <p><a name="tab06"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v47n4/a05tab06.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Na <a href="#tab06">Tabela 6</a>, nota-se que existe uma diferen&ccedil;a positiva e significativa das   despesas com alimentos entre os grupos de tratamento e de controle. O valor   m&eacute;dio das despesas anuais para a fam&iacute;lia benefici&aacute;ria &eacute; R$ 246 superior &agrave; m&eacute;dia   dos gastos totais das fam&iacute;lias n&atilde;o-participantes, cuja renda per capita mensal &eacute; de   R$ 100. Considerando que a m&eacute;dia anual recebida por essas fam&iacute;lias &eacute; de R$ 278,   pode-se inferir que 88% desse valor &eacute; utilizado para consumo de alimentos.   Portanto, o programa de transfer&ecirc;ncia Bolsa Fam&iacute;lia exerce um impacto positivo   sobre o consumo de alimentos das fam&iacute;lias selecionadas.</font></p>     <p><font size="2" face="Verdana"> Esse resultado est&aacute; de acordo com os obtidos nas an&aacute;lises do Minist&eacute;rio da   Sa&uacute;de (2004, 2005), indicando que o Programa Bolsa Fam&iacute;lia apresenta dados   semelhantes aos estimados para o Programa Bolsa Alimenta&ccedil;&atilde;o, que o   antecedeu. Ressalte-se que o Programa Bolsa Fam&iacute;lia amplia os benefici&aacute;rios, em   fun&ccedil;&atilde;o da renda, atingindo as fam&iacute;lias rurais de baixa renda e n&atilde;o apenas aquelas   consideradas priorit&aacute;rias de um ponto de vista nutricional (gestantes, nutrizes e   crian&ccedil;as com menos de cinco anos). Essa maior abrang&ecirc;ncia constitui uma   amplia&ccedil;&atilde;o no sentido de beneficiar a pobreza rural como um todo. O fato de essa   amplia&ccedil;&atilde;o n&atilde;o ter afetado o gasto com alimentos &eacute; indicativo de que a   condicionalidade deve estar ligada ao modo como a renda transferida &eacute;   percebida pela fam&iacute;lia e ao processo de decis&atilde;o quanto a seu uso. Destaca-se o   papel da mulher como gestora dos recursos recebidos do Bolsa Fam&iacute;lia. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>4. Conclus&otilde;es </B></font></p>     <p><font size="2" face="Verdana">Programas de transfer&ecirc;ncia condicionada de renda s&atilde;o pol&iacute;ticas sociais   correntemente empregadas para combater e reduzir a pobreza em diversos   pa&iacute;ses. No curto prazo, esses programas visam aliviar os problemas decorrentes   da situa&ccedil;&atilde;o de pobreza, sendo que, no longo prazo, o objetivo &eacute; investir no capital   humano, quebrando o ciclo intergeracional da pobreza. </font></p>     <p><font size="2" face="Verdana">Uma quest&atilde;o que surgiu a respeito dessa pol&iacute;tica &eacute; como verificar a efici&ecirc;ncia   do Bolsa Fam&iacute;lia sobre o bem-estar das fam&iacute;lias. Muitos trabalhos avaliam os   efeitos diretos do programa, como o aumento do n&uacute;mero de matr&iacute;culas e a   freq&uuml;&ecirc;ncia escolar das crian&ccedil;as beneficiadas. Entretanto, este estudo se prop&ocirc;s a   estudar os impactos indiretos da pol&iacute;tica de transfer&ecirc;ncia de renda condicional,   como o aumento do consumo de alimentos pelas fam&iacute;lias selecionadas pelo   programa. </font></p>     <p><font size="2" face="Verdana">Dada a restri&ccedil;&atilde;o imposta pelos    dados, optou-se pelo uso do m&eacute;todo <I>propensity score</I>, o qual permite    a utiliza&ccedil;&atilde;o de informa&ccedil;&otilde;es coletadas em um ponto    do tempo. A situa&ccedil;&atilde;o ideal seria possuir dados que permitissem    a an&aacute;lise da mesma fam&iacute;lia em dois per&iacute;odos do tempo, o    que produziria resultados mais robustos. Entretanto, o pareamento dos grupos    a partir do <I>propensity score</I>, segundo a literatura, &eacute; bastante    adequado para a redu&ccedil;&atilde;o do vi&eacute;s de sele&ccedil;&atilde;o.    </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Os resultados estimados por meio do <I>propensity    score </I>indicaram que existem quatro grupos de pareamento, ou seja, quatro    subgrupos de fam&iacute;lias, dentro dos grupos de controle e de tratamento,    com probabilidades semelhantes de serem eleg&iacute;veis como benefici&aacute;rias    do Bolsa Fam&iacute;lia. </font></p>     <p><font size="2" face="Verdana">O resultado estimado ao se calcular a diferen&ccedil;a de m&eacute;dia do consumo entre   os subgrupos das fam&iacute;lias participantes e n&atilde;o-participantes sugere que existe   uma diferen&ccedil;a significativa e positiva entre m&eacute;dia de consumo de alimentos dos   grupos de tratamento e de controle. O valor m&eacute;dio dos gastos mensais das   fam&iacute;lias benefici&aacute;rias &eacute; R$ 246 superior &agrave; m&eacute;dia dos gastos totais das fam&iacute;lias   n&atilde;o-participantes. Considerando que a m&eacute;dia anual recebida por essas fam&iacute;lias &eacute;   de R$ 278, pode-se inferir que 88% desse valor &eacute; utilizado para consumo de   alimentos. A elasticidade-renda por alimento da renda de transfer&ecirc;ncia &eacute; bem   maior que a elasticidade referente &agrave; renda total. </font></p>     <p><font size="2" face="Verdana">Portanto, existe um efeito positivo das transfer&ecirc;ncias monet&aacute;rias sobre o   consumo alimentar das fam&iacute;lias benefici&aacute;rias. Esse resultado vai de acordo com   os obtidos pelo Minist&eacute;rio da Sa&uacute;de (2004, 2005), mostrando que o Programa   Bolsa Fam&iacute;lia apresenta resultados semelhantes aos estimados para o Programa   Bolsa Alimenta&ccedil;&atilde;o, que o antecedeu. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>5. Refer&ecirc;ncias Bibliogr&aacute;ficas </B></font></p>     <!-- ref --><p><font size="2" face="Verdana">ATTANAZIO, O., BATTISTIN, E., FITZSIMONS, E., MESNARD, A.,   VERA-HERN&Aacute;NDEZ, M. (2005). <I>How effective are conditional cash transfers? </I>Evidence from Colombia. London: The Institute for Fiscal Studies. Dispon&iacute;vel em   <a href="http://www.ifs.org.uk/publications.php" target="_blank">http://www.ifs.org.uk/publications.php</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200900040000500001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana"> BECKER, S.O., ICHINO, A. (2002). Estimation of average treatment effects base   do propensity score. <I>Stata Journal</I>, v.2, n.4, p.358-357.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200900040000500002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">BOURGUIGNON, F., FERREIRA, F., LEITE, P. (2003). <I>Conditional Cash Transfers,   Schooling and Child Labor</I>: Simulating Bolsa Escola. Working Paper 2003-07, Delta,   University of Paris.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003200900040000500003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">CAMARGO, J. M., FERREIRA, F.H.G. (2001). <I>O benef&iacute;cio social &uacute;nico: Uma proposta   para reforma da pol&iacute;tica social no Brasil</I>. Texto para discuss&atilde;o, departamento de   economia, PUC-RIO.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003200900040000500004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">CARDOSO, E., SOUZA, A. P. (2004). <I>The Impact of Cash Transfer on Child Labor and Scholl   attendance in Brazil</I>. n.04, w. 07. Dispon&iacute;vel em: <a href="http://www.vanderbilt.edu/econ" target="_blank">http://www.vanderbilt.edu/econ</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003200900040000500005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">DEHEJIA, R. (2005). Practical propensity score matching: a reply to Smith and   Todd. <I>Journal of Econometrics</I>, v.125, n.1-2, p. 355-364.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003200900040000500006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FERNANDES, R., FEL&Iacute;CIO, F. (2003). <I>Impacto dos programas oficiais de transfer&ecirc;ncia   de renda sobre a pobreza nas unidades da federa&ccedil;&atilde;o brasileira</I>. Bras&iacute;lia.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003200900040000500007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">FERRO, A. R., KASSOUF, A. L. (2003). <I>Avalia&ccedil;&atilde;o dos impactos dos Programas Bolsa Escola   sobre o Trabalho Infantil no Brasil</I>. Dispon&iacute;vel em <a href="http://www.cepea.esalq.usp.br" target="_blank">http://www.cepea.esalq.usp.br</a>.   Banco Mundial, Rural Poverty Alleviation in Brazil.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003200900040000500008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">HECKMAN, J., ICHIMURA, H., TODD, P. (1997). Matching as an econometric   evaluation estimator: evidence from evaluating a job training program. <I>Review of   Economic Studies</I>, v. 64(4), n. 221, p.605-654.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003200900040000500009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">HOLZMANN, R., JORGENSEN, O. (2000). <I>Manejo social del riesgo: un nuevo marco   conceptual para la protecci&oacute;n social y m&aacute;s all&aacute;, documento de trabajo</I>, Nº 0006, Washington,   D.C., Banco Mundial. Dispon&iacute;vel em <a href="http://www1.worldbank.org.sp.safetynets/" target="_blank">http://www1.worldbank.org.sp.safetynets/</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003200900040000500010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">LAVINAS, L. (1998). <I>Programas de garantia de renda m&iacute;nima: perspectivas   brasileiras</I>.Textos para discuss&atilde;o - Ipea, No. 596.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003200900040000500011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">MULLER, C. E BIBI, S. (2006). Focused Targeting against Poverty Evidence from   Tunisia. IDEP Working Papers 0602, Institut d'economie publique (IDEP), Marselha,   Fran&ccedil;a. Dispon&iacute;vel em <a href="http://www.vcharite.univ-mrs.fr/idep/document/dt/dt0602.pdf" target="_blank">http://www.vcharite.univ-mrs.fr/idep/document/dt/dt0602.pdf</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003200900040000500012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">PROJETO DOM HELDER CAMARA (2006). Relatorios de Perfil de Entrada dos   Territorios do Sertao Central do Ceara, do Apodi, do Cariri Paraibano e do Sert&atilde;o   Sergipano, Recife, PADR-UFRPE/FADURPE.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003200900040000500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">RAVALLION, M. (2003). Targeted Transfers in Poor Countries: Revisiting the   Trade-offs and Policy Options, Social Protection Discussion Paper, Nº 0314,   Washington, D.C., Banco Mundial. Dispon&iacute;vel em   <a href="http://www1.worldbankorg/sp/safetynets/" target="_blank">http://www1.worldbankorg/sp/safetynets/</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003200900040000500014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">ROSEMBAUM, P. R., RUBIN, D. B. (1983). The central role of propensity score in   observational studies for causal effects. <I>Biometrika</I>, v.70, n.1, p. 41-55.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003200900040000500015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">SKOUFIAS, E., PARKER, S. (2001). <I>Conditional Cash Transfers and Their Impacts on   Child Work and Schooling: Evidence from the Progresa Programa in Mexico</I>, FCND   Discussion Paper, Nº 123, Washington, D.C., Instituto Internacional de   Investigaci&oacute;n de las Pol&iacute;ticas Alimentarias (IFPRI). Dispon&iacute;vel em   <a href="http://www.ifpri.org.br" target="_blank">http://www.ifpri.org.br</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003200900040000500016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">VILLATORO, P. (2005). Programas de transfer&ecirc;ncias monet&aacute;rias condicionadas:   experi&ecirc;ncia en Am&eacute;rica Latina. <I>Revista de la Cepal </I>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003200900040000500017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana"><a name="nt01"></a><a href="#tx01">1</a> Esses valores foram alterados em agosto de 2006, com o beneficio m&iacute;nimo por fam&iacute;lia   passando de R$ 15 para R$ 18, e o m&aacute;ximo, de R$ 54. O valor do beneficio b&aacute;sico subiu de R$ 50 para R$ 58, enquanto o teto m&aacute;ximo saltou de R$ 95 para R$ 112. </font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ATTANAZIO]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BATTISTIN]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FITZSIMONS]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MESNARD]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VERA-HERNÁNDEZ]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[How effective are conditional cash transfers?: Evidence from Colombia]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[The Institute for Fiscal Studies]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BECKER]]></surname>
+<given-names><![CDATA[S.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ICHINO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Stata JournalEstimation of average treatment effects base do propensity score]]></source>
+<year>2002</year>
+<volume>2</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>358-357</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOURGUIGNON]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEITE]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conditional Cash Transfers, Schooling and Child Labor: Simulating Bolsa Escola]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Delta ]]></publisher-loc>
+<publisher-name><![CDATA[University of Paris]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMARGO]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[F.H.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O benefício social único: Uma proposta para reforma da política social no Brasil]]></source>
+<year>2001</year>
+<publisher-name><![CDATA[departamento de economiaPUC-RIO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARDOSO]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Impact of Cash Transfer on Child Labor and Scholl attendance in Brazil]]></source>
+<year>2004</year>
+<volume>04</volume>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DEHEJIA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Practical propensity score matching: a reply to Smith and Todd]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year></year>
+<volume>125</volume>
+<numero>1-2</numero>
+<issue>1-2</issue>
+<page-range>355-364</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FELÍCIO]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Impacto dos programas oficiais de transferência de renda sobre a pobreza nas unidades da federação brasileira]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERRO]]></surname>
+<given-names><![CDATA[A. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KASSOUF]]></surname>
+<given-names><![CDATA[A. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Avaliação dos impactos dos Programas Bolsa Escola sobre o Trabalho Infantil no Brasil]]></source>
+<year>2003</year>
+<publisher-name><![CDATA[Banco MundialRural Poverty Alleviation in Brazil]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HECKMAN]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ICHIMURA]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TODD]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Matching as an econometric evaluation estimator: evidence from evaluating a job training program]]></article-title>
+<source><![CDATA[Review of Economic Studies]]></source>
+<year></year>
+<volume>64</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>605-654</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOLZMANN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JORGENSEN]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manejo social del riesgo: un nuevo marco conceptual para la protección social y más allá, documento de trabajo]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Washington^eD.C. D.C.]]></publisher-loc>
+<publisher-name><![CDATA[Banco Mundial]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAVINAS]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Programas de garantia de renda mínima: perspectivas brasileiras]]></source>
+<year>1998</year>
+<volume>596</volume>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MULLER]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIBI]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Focused Targeting against Poverty Evidence from Tunisia]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Marselha ]]></publisher-loc>
+<publisher-name><![CDATA[Institut d'economie publique]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<collab>PROJETO DOM HELDER CAMARA</collab>
+<source><![CDATA[Relatorios de Perfil de Entrada dos Territorios do Sertao Central do Ceara, do Apodi, do Cariri Paraibano e do Sertão Sergipano]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Recife ]]></publisher-loc>
+<publisher-name><![CDATA[PADRUFRPEFADURPE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAVALLION]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Targeted Transfers in Poor Countries: Revisiting the Trade-offs and Policy Options]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Washington^eD.C. D.C.]]></publisher-loc>
+<publisher-name><![CDATA[Banco Mundial]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSEMBAUM]]></surname>
+<given-names><![CDATA[P. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RUBIN]]></surname>
+<given-names><![CDATA[D. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The central role of propensity score in observational studies for causal effects]]></article-title>
+<source><![CDATA[Biometrika]]></source>
+<year></year>
+<volume>70</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>41-55</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SKOUFIAS]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARKER]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conditional Cash Transfers and Their Impacts on Child Work and Schooling: Evidence from the Progresa Programa in Mexico]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Washington^eD.C. D.C.]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Internacional de Investigación de las Políticas Alimentarias]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VILLATORO]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Programas de transferências monetárias condicionadas: experiência en América Latina]]></source>
+<year>2005</year>
+<publisher-name><![CDATA[Revista de la Cepal]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

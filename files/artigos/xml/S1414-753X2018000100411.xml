@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1414-753X</journal-id>
+<journal-title><![CDATA[Ambiente & Sociedade]]></journal-title>
+<abbrev-journal-title><![CDATA[Ambient. soc.]]></abbrev-journal-title>
+<issn>1414-753X</issn>
+<publisher>
+<publisher-name><![CDATA[ANPPAS - Revista Ambiente e Sociedade]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1414-753X2018000100411</article-id>
+<article-id pub-id-type="doi">10.1590/1809-4422asoc0133r2vu18l4td</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[ASSOCIATIONS BETWEEN DENGUE AND SOCIO-ENVIRONMENTAL VARIABLES IN CAPITALS OF THE BRAZILIAN NORTHEAST BY CLUSTER ANALYSIS]]></article-title>
+<article-title xml:lang="pt"><![CDATA[ASSOCIAÇÕES ENTRE DENGUE E VARIÁVEIS SOCIOAMBIENTAIS NAS CAPITAIS DO NORDESTE BRASILEIRO POR ANÁLISE DE AGRUPAMENTOS]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[JULIO CESAR BARRETO DA]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[MACHADO]]></surname>
+<given-names><![CDATA[CARLOS JOSÉ SALDANHA]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade do Estado do Rio de Janeiro Programa de Pós-Graduação em Meio Ambiente ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Fundação Oswaldo Cruz  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2018</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2018</year>
+</pub-date>
+<volume>21</volume>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1414-753X2018000100411&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1414-753X2018000100411&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1414-753X2018000100411&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract This article aims to identify the level of similarity between dengue and climatic, sociodemographic and sanitation variables in Brazilian Northeast capitals between 2001 and 2012, by cluster analysis, an explanatory technique used on multivariate data to verify the interrelationship between groups formed by the similar distances among its components. The results, validated by Spearman, showed high correlation (p-value &#8804; 0.0001) of dengue with: female subjects between 10-19 years old and over 79 years old; the annual total of urban public waste collected by all types of agents, especially private agents; and the total extent of area swept by public agents, suggesting that a higher volume of residues would lead to higher occurrence of mosquito breeding sites transmitting the disease. There was also some correlation with the indexes of water and sewage treatment, suggesting that it is related to the maintenance of the mosquito-borne life cycle due to the water availability.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[Resumen Este artículo busca identificar, en las capitales del Nordeste brasileño, el nivel de similitud entre dengue y variables climáticas, sociodemográficas y de saneamiento, entre 2001-2012, por análisis de agrupamientos, una técnica usada sobre datos multivariados para verificar la interrelación entre grupos formados por distancias similares entre sus componentes. Los resultados, validados por Spearman, mostraron una alta correlación (p-valor &#8804; 0,0001) del dengue con: individuos del género femenino entre 10-19 años y mayores de 79 años; el total anual de residuos públicos urbanos recogidos por todos los tipos de agentes, especialmente los agentes privados; y la extensión total de área barrida por agentes públicos, sugiriendo que un mayor volumen de residuos propicie mayor ocurrencia de criaderos de mosquitos-transmisores de la enfermedad. También hubo cierta correlación junto a los índices de tratamiento de agua y alcantarilla, sugiriendo estar relacionado al mantenimiento del ciclo de vida del mosquito-borne, debido la disponibilidad del agua.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo Este artigo busca identificar, nas capitais do Nordeste brasileiro, o nível de similaridade entre dengue e variáveis climáticas, sociodemográficas e de saneamento, entre 2001-2012, através da análise de agrupamentos, uma técnica explanatória usada sobre dados multivariados para verificar o inter-relacionamento entre grupos formados pelas distâncias similares entre seus componentes. Os resultados, validados por Spearman, mostraram alta correlação (p-valor &#8804; 0,0001) da dengue com: indivíduos do gênero feminino entre 10-19 anos e acima de 79 anos; o total anual de resíduos públicos urbanos coletados por todos os tipos de agentes, especialmente os agentes privados; a extensão total de área varrida por agentes públicos, sugerindo que um maior volume de resíduos propicie uma maior ocorrência de criadouros de mosquitos-transmissores da doença. Houve também certa correlação junto aos índices de tratamento de água e de esgoto, sugerindo estar relacionado à manutenção do ciclo de vida do mosquito-vetor devido à disponibilidade de água.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Aedes aegypti]]></kwd>
+<kwd lng="en"><![CDATA[Cluster Analysis]]></kwd>
+<kwd lng="en"><![CDATA[Euclidian Distance]]></kwd>
+<kwd lng="en"><![CDATA[Sanitary Sewage]]></kwd>
+<kwd lng="en"><![CDATA[Urban Solid Waste]]></kwd>
+<kwd lng="es"><![CDATA[Aedes aegypti]]></kwd>
+<kwd lng="es"><![CDATA[Análisis de Agrupamientos]]></kwd>
+<kwd lng="es"><![CDATA[Distancia Euclidiana]]></kwd>
+<kwd lng="es"><![CDATA[Agotamiento Sanitario]]></kwd>
+<kwd lng="es"><![CDATA[Residuos sólidos urbanos]]></kwd>
+<kwd lng="pt"><![CDATA[Aedes aegypti]]></kwd>
+<kwd lng="pt"><![CDATA[Análise de Agrupamentos]]></kwd>
+<kwd lng="pt"><![CDATA[Distância Euclidiana]]></kwd>
+<kwd lng="pt"><![CDATA[Esgotamento Sanitário]]></kwd>
+<kwd lng="pt"><![CDATA[Resíduos sólidos urbanos]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALLEN]]></surname>
+<given-names><![CDATA[R. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[L. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAES]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Crop Evapotranspiration (guidelines for computing crop water requirements)]]></article-title>
+<source><![CDATA[Fao Irrigation and Drainege]]></source>
+<year>1998</year>
+<volume>56</volume>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>ARACAJU</collab>
+<source><![CDATA[Secretaria Municipal de Saúde. Informe da Vigilância Epidemiológica]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Sergipe ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<collab>BRAZIL</collab>
+<source><![CDATA[Lei Federal de Saneamento Básico. Lei nº. 11.445, de 05 de janeiro de 2007]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<collab>BRAZIL</collab>
+<source><![CDATA[Censo Demográfico de 2010]]></source>
+<year>2010</year>
+<publisher-name><![CDATA[Instituto Brasileiro de Geografia e Estatística, IBGE. Ministério do Planejamento, Desenvolvimento e Gestão]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<collab>BRAZIL</collab>
+<source><![CDATA[Prevenção e Resposta à Introdução do Vírus Chikungunya no Brasil]]></source>
+<year>2014</year>
+<page-range>100</page-range><publisher-loc><![CDATA[Brasília/DF ]]></publisher-loc>
+<publisher-name><![CDATA[Ministério da Saúde]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="">
+<collab>BRAZIL</collab>
+<source><![CDATA[Sala Nacional de Coordenação e Controle para o enfrentamento à Dengue, ao vírus Chikungunya e ao vírus Zika]]></source>
+<year>2016</year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<collab>BRAZIL</collab>
+<source><![CDATA[Estimativas de população brasileira]]></source>
+<year>2016</year>
+<publisher-loc><![CDATA[Brasília, DF ]]></publisher-loc>
+<publisher-name><![CDATA[Diário Oficial da União]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<collab>BRAZIL</collab>
+<source><![CDATA[Sistema de Informação de Agravos de Notificação - SINAN]]></source>
+<year>2017</year>
+<publisher-name><![CDATA[Ministério da Saúde]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<collab>BRAZIL</collab>
+<source><![CDATA[Dados históricos do Banco de Dados Meteorológicos para Ensino e Pesquisa - BDMEP]]></source>
+<year>2017</year>
+<publisher-name><![CDATA[Instituto Nacional de Meteorologia - INMET. Ministério da Agricultura, Pecuária e Abastecimento]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<collab>BRAZIL</collab>
+<source><![CDATA[Sistema IBGE de Recuperação Automática - SIDRA]]></source>
+<year>2017</year>
+<publisher-name><![CDATA[Instituto Brasileiro de Geografia e Estatística, IBGE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<collab>BRAZIL</collab>
+<source><![CDATA[Sistema Nacional de Informações sobre Saneamento - SNIS]]></source>
+<year>2017</year>
+<publisher-name><![CDATA[Ministério das Cidades]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BROWER]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZAR]]></surname>
+<given-names><![CDATA[J. H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Field and laboratory methods for general ecology]]></source>
+<year>1977</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Dubuque ]]></publisher-loc>
+<publisher-name><![CDATA[Wm. C. Brown Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUSSAB]]></surname>
+<given-names><![CDATA[W. de O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIAZAKI]]></surname>
+<given-names><![CDATA[S. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ANDRADE]]></surname>
+<given-names><![CDATA[D. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introdução à análise de agrupamento]]></source>
+<year>1990</year>
+<conf-name><![CDATA[ Simpósio Brasileiro de Probabilidade e Estatística, 9]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CALINSKI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HARABASZ]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A dendrite method for cluster analysis]]></article-title>
+<source><![CDATA[Communications in Statistics-theory and Methods]]></source>
+<year>1974</year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-27</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMPELLO]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NERI]]></surname>
+<given-names><![CDATA[M. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Programa Bolsa Família: uma década de inclusão e cidadania]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ipea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAPRARA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[J. W. de O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARINHO]]></surname>
+<given-names><![CDATA[A. C. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CALYASINA]]></surname>
+<given-names><![CDATA[P. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LANDIM]]></surname>
+<given-names><![CDATA[L. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOMMERFELD]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Irregular water supply, household usage and dengue: a biosocial study in the Brazilian Northeast]]></article-title>
+<source><![CDATA[Cadernos de Saúde Pública]]></source>
+<year>2009</year>
+<volume>25</volume>
+<page-range>125-36</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAVALCANTI]]></surname>
+<given-names><![CDATA[I. F. de A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[N. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[M. G. A. J. da]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DIAS]]></surname>
+<given-names><![CDATA[M. A. F. da S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tempo e Clima no Brasil]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[São Paulo, SP ]]></publisher-loc>
+<publisher-name><![CDATA[Oficina de Textos]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DA COSTA]]></surname>
+<given-names><![CDATA[A. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DOS SANTOS]]></surname>
+<given-names><![CDATA[J. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DA CONCEIÇÃO]]></surname>
+<given-names><![CDATA[J. K. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALECRIM]]></surname>
+<given-names><![CDATA[P. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASSEB]]></surname>
+<given-names><![CDATA[A. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BATISTA]]></surname>
+<given-names><![CDATA[W. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HECKMANN]]></surname>
+<given-names><![CDATA[M. I. O]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Dengue: aspectos epidemiológicos e o primeiro surto ocorrido na região do Médio Solimões, Coari, Estado do Amazonas, no período de 2008 a 2009]]></article-title>
+<source><![CDATA[Revista da Sociedade Brasileira de Medicina Tropical]]></source>
+<year>2011</year>
+<volume>44</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>471-4</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DANIEL]]></surname>
+<given-names><![CDATA[W. W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spearman rank correlation coefficient. Applied Nonparametric Statistics]]></source>
+<year>1990</year>
+<edition>2nd</edition>
+<page-range>358-65</page-range><publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[PWS-Kent]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ELMEC]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BATAIERO]]></surname>
+<given-names><![CDATA[M. O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CRUZ]]></surname>
+<given-names><![CDATA[M. G. B. da]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Saneamento do meio, arboviroses e as estratégias de Vigilância Sanitária para combate aos vetores no Estado de São Paulo]]></article-title>
+<source><![CDATA[BEPA]]></source>
+<year>2016</year>
+<volume>13</volume>
+<numero>153-154</numero>
+<issue>153-154</issue>
+<page-range>63-8</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FEITOSA]]></surname>
+<given-names><![CDATA[F. R. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOBRAL]]></surname>
+<given-names><![CDATA[I. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JESUS]]></surname>
+<given-names><![CDATA[E. N. de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Indicadores Socioambientais como subsídio à prevenção e controle da Dengue]]></article-title>
+<source><![CDATA[Revista Eletrônica em Gestão, Educação e Tecnologia Ambiental]]></source>
+<year>2015</year>
+<volume>19</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>351-68</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GAUCH]]></surname>
+<given-names><![CDATA[H. G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multivariate analysis in community ecology]]></source>
+<year>1982</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GIL]]></surname>
+<given-names><![CDATA[L. H. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KATSURAGAWA]]></surname>
+<given-names><![CDATA[T. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[A. A. de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TADA]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OZAKI]]></surname>
+<given-names><![CDATA[L. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JULIÃO]]></surname>
+<given-names><![CDATA[G. R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Rudimentary cesspits as breeding sites for Aedes aegypti in urban areas of Northern BRASIL]]></article-title>
+<source><![CDATA[Rev Pan-Amaz Saúde]]></source>
+<year>2015</year>
+<volume>6</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>73-80</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRILLO]]></surname>
+<given-names><![CDATA[R. B. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ARAÚJO]]></surname>
+<given-names><![CDATA[L. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BORJA]]></surname>
+<given-names><![CDATA[P. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fatores intervenientes na ocorrência de Dengue nos municípios da Bahia]]></source>
+<year>2016</year>
+<conf-name><![CDATA[ IV Congresso Baiano de Engenharia Sanitária e Ambiental]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAIR]]></surname>
+<given-names><![CDATA[J. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise multivariada de dados]]></source>
+<year>2005</year>
+<edition>5</edition>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+<publisher-name><![CDATA[Bookman]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KRZANOWSKI]]></surname>
+<given-names><![CDATA[W. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Principles of Multivariate Analysis - A User&#8217;s Perspective]]></source>
+<year>1988</year>
+<publisher-name><![CDATA[Oxford Science Publications [A user-friendly introduction to modern multivariate statistical analysis]]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[S. R. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[R. C. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O comportamento socioeconômico da Região Nordeste: do meio século XX ao século XXI]]></source>
+<year>2015</year>
+<conf-name><![CDATA[ XI Encontro de Economia Baiana]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACHADO]]></surname>
+<given-names><![CDATA[C. J. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Animais na sociedade brasileira]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Rio de Janeiro, RJ ]]></publisher-loc>
+<publisher-name><![CDATA[E-Papers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACHADO]]></surname>
+<given-names><![CDATA[C. J. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desenvolvimento Sustentável para o Antropoceno]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Rio de Janeiro, RJ ]]></publisher-loc>
+<publisher-name><![CDATA[E-Papers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARDIA]]></surname>
+<given-names><![CDATA[K. V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KENT]]></surname>
+<given-names><![CDATA[J. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIBBY]]></surname>
+<given-names><![CDATA[J. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multivariate Analysis]]></source>
+<year>1979</year>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOLION]]></surname>
+<given-names><![CDATA[L.C.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERNARDO]]></surname>
+<given-names><![CDATA[S. O]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Uma revisão da dinâmica das chuvas no Nordeste Brasileiro]]></article-title>
+<source><![CDATA[Revista Brasileira de Meteorologia]]></source>
+<year>2002</year>
+<volume>17</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-10</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORAES]]></surname>
+<given-names><![CDATA[I. H. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[S. R. F. R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Informação em Saúde: Os Desafios Continuam]]></article-title>
+<source><![CDATA[Ciência &amp; Saúde Coletiva]]></source>
+<year>1998</year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>37-51</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[M. L. L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Brasil de JK, A invenção do Nordeste]]></source>
+<year>2011</year>
+<publisher-name><![CDATA[CPDOC FGV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OKSANEN]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLANCHET]]></surname>
+<given-names><![CDATA[F. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KINDT]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEGENDRE]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MINCHIN]]></surname>
+<given-names><![CDATA[P. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[O&#8217;HARA]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Vegan: Community Ecology Package]]></source>
+<year>2016</year>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSENBERG]]></surname>
+<given-names><![CDATA[N. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLAND]]></surname>
+<given-names><![CDATA[B. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VERMA]]></surname>
+<given-names><![CDATA[S. B]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Microclimate: The Biological Environment]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley &amp; Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUSCIO]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Constructing Confidence Intervals for Spearman&#8217;s Rank Correlation with Ordinal Data: A Simulation Study Comparing Analytic and Bootstrap Methods]]></article-title>
+<source><![CDATA[Journal of Modern Applied Statistical Methods]]></source>
+<year>2008</year>
+<volume>7</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>416-34</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAN PEDRO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA-SANTOS]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SABROZA]]></surname>
+<given-names><![CDATA[P. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[M. de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Condições particulares de produção e reprodução da dengue em nível local: estudo de Itaipu, Região Oceânica de Niterói, Rio de Janeiro, Brasil]]></article-title>
+<source><![CDATA[Cadernos de Saúde Pública]]></source>
+<year>2009</year>
+<volume>25</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>1.937-46</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SARDÃO]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dengue e Zika: ABES alerta sobre a importância do saneamento básico no combate às doenças]]></source>
+<year>2016</year>
+<publisher-name><![CDATA[Associação Brasileira de Engenharia Sanitária e Ambiental]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Reprodução do Aedes aegypti em fossas de esgotamento sanitário no bairro dos Pioneiros, zona urbana de Pimenta Bueno - Rondônia, Amazônia Ocidental]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Brasília, Brasil ]]></publisher-loc>
+<publisher-name><![CDATA[Universidade de Brasília]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPEARMAN]]></surname>
+<given-names><![CDATA[C. S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The proof and measurement of association between two things]]></article-title>
+<source><![CDATA[American Journal of Psychology]]></source>
+<year>1904</year>
+<volume>15</volume>
+<page-range>72-101</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STEADMAN]]></surname>
+<given-names><![CDATA[R. G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The assessment of sultriness: part I: A temperature-humidity index based on human physiology and clothing science]]></article-title>
+<source><![CDATA[J. Appl. Meteor]]></source>
+<year>1979</year>
+<volume>18</volume>
+<page-range>861-84</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[THORNTHWAITE]]></surname>
+<given-names><![CDATA[W. C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[An approach toward a rational classification of climate]]></article-title>
+<source><![CDATA[Geographycal Review]]></source>
+<year>1948</year>
+<volume>38</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>55-94</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VALLE]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIMENTA]]></surname>
+<given-names><![CDATA[D. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CUNHA]]></surname>
+<given-names><![CDATA[R. V. da]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dengue: teorias e práticas]]></source>
+<year>2015</year>
+<publisher-loc><![CDATA[Rio de Janeiro, RJ ]]></publisher-loc>
+<publisher-name><![CDATA[Ed. Fiocruz]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VENDRAMIN]]></surname>
+<given-names><![CDATA[R. J. G. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HRUSCHKA]]></surname>
+<given-names><![CDATA[E. R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Relative Clustering Validity Criteria: A Comparative Overview]]></article-title>
+<source><![CDATA[Statistical Analysis and Data Mining]]></source>
+<year>2010</year>
+<volume>3</volume>
+<page-range>209-35</page-range></nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[YUDELL]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROBERTS]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DE SALLE]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TISHKOFF]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Taking race out of human genetics]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2016</year>
+<volume>351</volume>
+<numero>6273</numero>
+<issue>6273</issue>
+<page-range>564-5</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZARA]]></surname>
+<given-names><![CDATA[A. L. de S. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[S. M. dos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERNANDES-OLIVEIRA]]></surname>
+<given-names><![CDATA[E. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[R. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[G. E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Estratégias de controle do Aedes aegypti: uma revisão]]></article-title>
+<source><![CDATA[Epidemiol. Serv. Saúde]]></source>
+<year>2016</year>
+<volume>25</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>391-404</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

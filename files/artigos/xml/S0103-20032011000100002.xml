@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032011000100002</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032011000100002</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Oferta de exportação de carne de frango do Brasil, de 1992 a 2007]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Márcia Ap. de Paiva]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rosado]]></surname>
+<given-names><![CDATA[Patrícia Lopes]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Braga]]></surname>
+<given-names><![CDATA[Marcelo José]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Campos]]></surname>
+<given-names><![CDATA[Antônio Carvalho]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A02">
+<institution><![CDATA[,da Universidade Federal de São João Del Rey Departamento de Economia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A01">
+<institution><![CDATA[,UFV Departamento de Economia Rural ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,UFV Departamento de Economia Rural ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2011</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2011</year>
+</pub-date>
+<volume>49</volume>
+<numero>1</numero>
+<fpage>31</fpage>
+<lpage>53</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032011000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032011000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032011000100002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O objetivo deste trabalho foi analisar os determinantes da oferta de exportação de carne de frango no período de 1992 a 2007, quando o setor conquistou maior representatividade nas exportações brasileiras. O modelo teórico fundamentou-se nas relações de oferta e demanda. O modelo econométrico baseouse no Vetor de Correção de Erro (VEC). Para isso, a análise de cointegração pelo procedimento de Johansen foi considerada na análise. Os resultados mostram que a. o preço doméstico e a renda interna têm significativo impacto nas exportações de carne de frango brasileira, com reflexos negativos no volume embarcado, enquanto b. preço externo apresenta impacto significativo e positivo na quantidade exportada.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The objective of this study is to analyze the determinants of chicken meat export supply in the period from 1992 to 2007, when the industry acquired more representativeness in the Brazilian shipments. The theoretical approach is based on the ratios between supply and demand. The econometric model is based on the Johansen' procedure and the Error Correction Vector (VEC). Results show that the Brazilian price and the domestic income have significant impact on the Brazilian chicken meat exports, leading to a negative effect on the shipped volume. The international price presents significant and positive impacts on the amount exported.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Exportação]]></kwd>
+<kwd lng="pt"><![CDATA[carne de frango]]></kwd>
+<kwd lng="pt"><![CDATA[Modelos VAR]]></kwd>
+<kwd lng="en"><![CDATA[Exports]]></kwd>
+<kwd lng="en"><![CDATA[chicken meat]]></kwd>
+<kwd lng="en"><![CDATA[VAR models]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[  <HTML>     <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>Oferta de exporta&ccedil;&atilde;o de carne de frango do Brasil, de 1992 a 2007 </B></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>M&aacute;rcia Ap. de Paiva Silva<Sup>I</Sup>; Patr&iacute;cia Lopes Rosado<Sup>II</Sup>; Marcelo Jos&eacute; Braga<Sup>III</Sup>; Ant&ocirc;nio Carvalho Campos<Sup>IV</Sup></b> </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Mestre em Economia Aplicada pelo Departamento de Economia Rural da UFV.  E-mail: <a href="mailto:marcia_agronegocio@yahoo.com.br">marcia_agronegocio@yahoo.com.br</a>    <br> <sup>II</sup>Professora-Doutora do Departamento de Economia da Universidade Federal de S&atilde;o      Jo&atilde;o Del Rey. E-mail: <a href="mailto:patriciarosado@yahoo.com.br">patriciarosado@yahoo.com.br</a>     <br>   <sup>III</sup>Professor-Doutor do Departamento de Economia Rural da UFV. E-mail: <a href="mailto:mjbraga@ufv.br">mjbraga@ufv.br</a>    <br>   <sup>IV</sup>Professor-Doutor do Departamento de Economia Rural da UFV. E-mail: <a href="mailto:accampos@ufv.br">accampos@ufv.br</a> </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p> <hr size="1" noshade >     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>RESUMO</B></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O objetivo deste trabalho foi analisar os determinantes da oferta de exporta&ccedil;&atilde;o de carne de frango no per&iacute;odo de 1992 a 2007, quando o setor conquistou maior representatividade nas exporta&ccedil;&otilde;es brasileiras. O modelo te&oacute;rico fundamentou-se nas rela&ccedil;&otilde;es de oferta e demanda. O modelo econom&eacute;trico baseouse no Vetor de Corre&ccedil;&atilde;o de Erro (VEC). Para isso, a an&aacute;lise de cointegra&ccedil;&atilde;o pelo procedimento de Johansen foi considerada na an&aacute;lise. Os resultados mostram que    <br> </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">a.    o pre&ccedil;o dom&eacute;stico e a renda interna t&ecirc;m significativo impacto nas exporta&ccedil;&otilde;es de carne de frango brasileira, com reflexos negativos no volume embarcado, enquanto     <br>   b.  pre&ccedil;o externo apresenta impacto significativo e positivo na quantidade exportada. </font></p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">     <p><B>Palavras-chave: </B>Exporta&ccedil;&atilde;o, carne de frango, Modelos VAR. </p> </font> <hr size="1" noshade >     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>ABSTRACT</B></font></p>         <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The objective of this study is to analyze the determinants of chicken meat export supply in the period from 1992 to 2007, when the industry acquired more representativeness in the Brazilian shipments. The theoretical approach is based on the ratios between supply and demand. The econometric model is based on the Johansen' procedure and the Error Correction Vector (VEC). Results show that the Brazilian price and the domestic income have significant impact on the Brazilian chicken meat exports, leading to a negative effect on the shipped volume. The international price presents significant and positive impacts on the amount exported.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>Key-words: </B><I>Exports, chicken meat, VAR models.     <br> </I><B>Classifica&ccedil;&atilde;o JEL: </B>F10, C32. </font></p> <hr size="1" noshade >     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>1. Introdu&ccedil;&atilde;o </B></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Atualmente, a balan&ccedil;a comercial brasileira vem exercendo importante papel no ajuste dos fluxos de capitais internacionais. Apesar das importantes mudan&ccedil;as na pauta de exporta&ccedil;&atilde;o, os produtos agr&iacute;colas, embora em menor propor&ccedil;&atilde;o, apresentam papel fundamental na gera&ccedil;&atilde;o de super&aacute;vits ou na redu&ccedil;&atilde;o de d&eacute;ficits da balan&ccedil;a comercial. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O setor av&iacute;cola ocupa a terceira posi&ccedil;&atilde;o na cesta de produtos de exporta&ccedil;&atilde;o do agroneg&oacute;cio brasileiro e contribui de modo significativo para o fortalecimento da balan&ccedil;a comercial nacional (BARCELLOS, 2006). Segundo Gon&ccedil;alves e Perez (2006), o alto n&iacute;vel tecnol&oacute;gico alcan&ccedil;ado pela avicultura nacional, mais expressivamente a de corte, colocou a atividade em posi&ccedil;&atilde;o privilegiada em rela&ccedil;&atilde;o a outras atividades pecu&aacute;rias desenvolvidas no Brasil, com n&iacute;vel de produtividade internacional comparado ao dos pa&iacute;ses mais atualizados no mundo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A representatividade da atividade av&iacute;cola para a produ&ccedil;&atilde;o de carnes, tanto em &acirc;mbito nacional como internacional, justifica a realiza&ccedil;&atilde;o do estudo da oferta de exporta&ccedil;&atilde;o de carne de frango. Costa e Waquil (1999b) afirmaram que a import&acirc;ncia dos estudos da exporta&ccedil;&atilde;o de frangos se deve &agrave;s caracter&iacute;sticas da produ&ccedil;&atilde;o, que envolvem uma s&eacute;rie de atividades e agentes interdependentes, &agrave; import&acirc;ncia do setor na balan&ccedil;a comercial brasileira e &agrave; possibilidade de incorpora&ccedil;&atilde;o de novas tecnologias, proporcionada pelas transa&ccedil;&otilde;es comerciais internacionais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O objetivo deste trabalho foi analisar os determinantes da oferta de exporta&ccedil;&atilde;o de carne de frango por meio do modelo de Autorregress&atilde;o Vetorial (VAR) reparametrizado, denominado Vetor de Corre&ccedil;&atilde;o de Erro (VEC), no per&iacute;odo de janeiro de 1992 a outubro de 2007. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O trabalho consta de uma parte introdut&oacute;ria, que apresenta a caracteriza&ccedil;&atilde;o do setor produtivo e exportador de carne de frango nacional, e de quatro outras se&ccedil;&otilde;es. Na segunda, h&aacute; descri&ccedil;&atilde;o do modelo te&oacute;rico e anal&iacute;tico; na terceira, s&atilde;o apresentados os resultados; e, na quarta, est&atilde;o as considera&ccedil;&otilde;es finais. </font></p>     <p   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B><I>1.1. Caracteriza&ccedil;&atilde;o do setor produtor e exportador de carne de frango brasileiro </I></B></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A cadeia produtiva de frangos de corte ocupa, atualmente, posi&ccedil;&atilde;o de destaque no agroneg&oacute;cio brasileiro e apresenta grande dinamismo na produ&ccedil;&atilde;o, industrializa&ccedil;&atilde;o, comercializa&ccedil;&atilde;o, progresso tecnol&oacute;gico e mercado externo, al&eacute;m de ser considerada forte geradora de empregos e de renda para a popula&ccedil;&atilde;o brasileira. O bom desenvolvimento do setor av&iacute;cola &eacute; decorrente do processo de reestrutura&ccedil;&atilde;o industrial, de mudan&ccedil;as tecnol&oacute;gicas e de melhorias nas t&eacute;cnicas de manejo, nutri&ccedil;&atilde;o e sanidade das aves, ocorridas nas &uacute;ltimas tr&ecirc;s d&eacute;cadas, aliado ao fato de o Pa&iacute;s ser um grande produtor de soja e milho, que s&atilde;o os principais componentes da ra&ccedil;&atilde;o de frango de corte (GARCIA, 2004). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Costa e Waquil (1999a), no per&iacute;odo de 1994 a 1997, a avicultura brasileira vivenciou significativas transforma&ccedil;&otilde;es em raz&atilde;o de seu acelerado crescimento, estimulado pela estabiliza&ccedil;&atilde;o da renda dos trabalhadores &#150; proporcionada pela implementa&ccedil;&atilde;o do Plano Real &#150; e pela menor resposta dos mercados promovida pela estabiliza&ccedil;&atilde;o dos pre&ccedil;os. A implementa&ccedil;&atilde;o do Plano Real, de fato, resultou em forte consumo brasileiro de frangos, principalmente pela classe com menor poder aquisitivo, que transferiu parte de seu consumo de alimentos energ&eacute;ticos para os prot&eacute;icos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O desenvolvimento da cadeia produtiva do setor av&iacute;cola, bem como o estabelecimento de pre&ccedil;os inferiores em rela&ccedil;&atilde;o aos de outras carnes, intensifica o consumo de carne de frango, tanto no mercado interno como no externo (BARCELLOS, 2006; GON&Ccedil;ALVES e PEREZ, 2006). De modo adicional, por apresentar pre&ccedil;os competitivos, a produ&ccedil;&atilde;o de carne de frango &eacute; o segmento mais din&acirc;mico da cadeia de produ&ccedil;&atilde;o de aves (GON&Ccedil;ALVES e PEREZ, 2006). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Embora o consumo nacional de carne de frango seja bastante acentuado, o Brasil ocupa a quarta posi&ccedil;&atilde;o no consumo mundial, visto que respondeu, em 2007, pelo consumo de 7,12 milh&otilde;es de toneladas, que corresponde a, aproximadamente,12%doconsumo mundial.Pa&iacute;ses como Estados Unidos,China e Uni&atilde;o Europeia superaram o consumo brasileiro, uma vez que responderam por 23%, 18% e 12,5%, respectivamente, do consumo mundial. No per&iacute;odo de 2000 a 2007, o consumo brasileiro de carne de frango cresceu a uma taxa de 5% ao ano, enquanto o mundial aumentou cerca de 3% ao ano (ABEF, 2007).</font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em conson&acirc;ncia com a representatividade do consumo, o Brasil desponta como o terceiro maior produtor mundial de carne de frango. Em 2007, a produ&ccedil;&atilde;o brasileira foi estimada em 9,7 milh&otilde;es de toneladas, que corresponde a 16% da produ&ccedil;&atilde;o mundial. Os maiores produtores foram Estados Unidos e China, respons&aacute;veis por 27% e 17%, respectivamente, da produ&ccedil;&atilde;o mundial. De 2000 a 2007, a produ&ccedil;&atilde;o brasileira cresceu a uma taxa de 7,5% ao ano, o que superou o crescimento da produ&ccedil;&atilde;o mundial, de 3,1%, e o dos Estados Unidos e da China, que foram de 3% e 2% ao ano, respectivamente. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os principais estados produtores s&atilde;o: Paran&aacute;, Santa Catarina e Rio Grande do Sul, que, em 2007, tiveram uma participa&ccedil;&atilde;o de 23%, 17% e 15% na produ&ccedil;&atilde;o nacional, respectivamente. Nas exporta&ccedil;&otilde;es, os estados do Paran&aacute;, Santa Catarina e Minas Gerais responderam por 39%, 21% e 21%, respectivamente, do valor exportado, e por 37%, 23% e 21%, respectivamente, do volume exportado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As exporta&ccedil;&otilde;es brasileiras do setor av&iacute;cola iniciaram-se por volta de 1970, quando o setor, ao acompanhar o processo de moderniza&ccedil;&atilde;o da agricultura, modificou sua base de produ&ccedil;&atilde;o de uma estrutura de subsist&ecirc;ncia para uma estrutura empresarial. No per&iacute;odo de 1970 a 1980, importantes mudan&ccedil;as ocorreram nos aspectos tecnol&oacute;gicos, produtivos e operacionais na produ&ccedil;&atilde;o de aves, o que ocasionou a expans&atilde;o da produ&ccedil;&atilde;o e o estabelecimento do Brasil como um dos maiores exportadores mundiais de produtos av&iacute;colas (COSTA e WAQUIL, 1999b). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O desempenho brasileiro no com&eacute;rcio internacional &eacute; altamente influenciado pelas diversas muta&ccedil;&otilde;es ocorridas no mercado. De acordo com Bueno (2001), no per&iacute;odo de 1984 a 1998, quando foi verificada expans&atilde;o da participa&ccedil;&atilde;o de alguns pa&iacute;ses no com&eacute;rcio, como Estados Unidos, China e Hong Kong, registrouse redu&ccedil;&atilde;o de 50% na parcela brasileira no mercado internacional. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir do ano de 2004, o Brasil assumiu a posi&ccedil;&atilde;o &#150; antes ocupada pelos Estados Unidos &#150; de maior exportador. Em 2007, o volume foi de 3,2 milh&otilde;es de toneladas de carne de frango enviadas ao exterior, o que corresponde a, aproximadamente, 48% das exporta&ccedil;&otilde;es mundiais do produto (ABEF, 2007). No per&iacute;odo de 2000 a 2007, o Brasil apresentou crescimento de 19% ao ano nas exporta&ccedil;&otilde;es, taxa que se encontra bem acima da dos demais pa&iacute;ses exportadores, conforme apresentado na <a href="#tab01">Tabela 1</a>. </font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v49n1/a02t01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os principais destinos das exporta&ccedil;&otilde;es brasileiras foram os pa&iacute;ses do Oriente M&eacute;dio, &aacute;sia e Uni&atilde;o Europeia, que, de janeiro a outubro de 2007, responderam por 30%, 25% e 17% das exporta&ccedil;&otilde;es de carne de frango, respectivamente. </font></p>     <p   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No com&eacute;rcio internacional de carnes, as exporta&ccedil;&otilde;es de carne de frango, que ocuparam a primeira posi&ccedil;&atilde;o, corresponderam a cerca de 2,7 milh&otilde;es toneladas ou 53% do volume total exportado no setor de carnes. Em termos de receita, a carne de frango ficou na segunda posi&ccedil;&atilde;o entre as demais, j&aacute; que respondeu por uma receita de US$ 3,2 milh&otilde;es ou, aproximadamente, 40% do total gerado pelo setor de carnes, estando atr&aacute;s apenas da carne bovina, que gerou uma receita correspondente a 46% do total gerado pelo setor de carnes (Relat&oacute;rio, 2006). A <a href="#tab02">Tabela 2</a>, a seguir, apresenta as principais informa&ccedil;&otilde;es acerca das exporta&ccedil;&otilde;es do setor de carnes. </font></p>     <p   ><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Gon&ccedil;alves e Perez (2006), o posicionamento competitivo do Brasil no mercado internacional &eacute; fortemente influenciado por pol&iacute;ticas protecionistas, adotadas por alguns pa&iacute;ses, e por quest&otilde;es relacionadas com o controle de sanidade, as quais afetam, diretamente, a qualidade dos alimentos. Alguns problemas, como a expans&atilde;o da gripe avi&aacute;ria em pa&iacute;ses da Europa, &aacute;frica e &aacute;sia, s&atilde;o prejudiciais ao setor, por reduzirem a demanda e os pre&ccedil;os internacionais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A continuidade da participa&ccedil;&atilde;o brasileira no mercado internacional &eacute; favorecida pela preocupa&ccedil;&atilde;o com excel&ecirc;ncia sanit&aacute;ria, taxas de c&acirc;mbio menos sobrevalorizadas, juntamente com competitividade da produ&ccedil;&atilde;o de milho e soja, que garantem a alimenta&ccedil;&atilde;o animal. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Metodologia </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I><b>2.1. Modelo te&oacute;rico</b></I></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As teorias tradicionais do com&eacute;rcio internacional t&ecirc;m como princ&iacute;pio b&aacute;sico as vantagens comparativas. De acordo com essas teorias, o com&eacute;rcio entre os pa&iacute;ses &eacute; decorrente do fato de as na&ccedil;&otilde;es poderem obter vantagens com a negocia&ccedil;&atilde;o de um produto, ao utilizarem o fator de produ&ccedil;&atilde;o mais abundante e a tecnologia de produ&ccedil;&atilde;o mais eficiente (KRUGMAN e OBSTFELD, 2005). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No entanto, segundo Porter (1993), os pressupostos das teorias do com&eacute;rcio internacional, baseadas em vantagens comparativas, n&atilde;o s&atilde;o condizentes com a realidade. A partir dessa ideia, outros elementos, al&eacute;m da dota&ccedil;&atilde;o de fatores, passam a ser determinantes no com&eacute;rcio internacional, o que conduz a uma an&aacute;lise sob o enfoque de competitividade. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sob o aspecto competitivo, o com&eacute;rcio internacional passa a ser influenciado por v&aacute;rios elementos, como tecnologia dispon&iacute;vel, pre&ccedil;os, custos dos fatores, taxas de c&acirc;mbio, taxas de paridade entre os parceiros comerciais, custos de transporte, estrutura de incentivos, barreiras tarif&aacute;rias e n&atilde;o tarif&aacute;rias, entre outros fatores. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como forma de superar as limita&ccedil;&otilde;es das teorias tradicionais de com&eacute;rcio, Krugman e Obstfeld (2005) apresentaram um modelo-padr&atilde;o de uma economia mundial com com&eacute;rcio, pelo qual s&atilde;o desenhadas a curva de oferta relativa mundial a partir das possibilidades de produ&ccedil;&atilde;o e a curva de demanda relativa mundial a partir das prefer&ecirc;ncias. Considerando o modelo-padr&atilde;o aplicado a dois bens (A e B), a produ&ccedil;&atilde;o, o consumo e o com&eacute;rcio podem ser representados pela <a href="#fig01">Figura 1</a>. </font></p>     <p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02fig01.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A produ&ccedil;&atilde;o efetiva da economia &eacute; determinada pela fronteira de possibilidade de produ&ccedil;&atilde;o, representada pela curva TT. O valor de mercado do produto &eacute; representado por uma linha de isovalor, isto &eacute;, linha ao longo da qual o valor da produ&ccedil;&atilde;o &eacute; constante. A declividade da isovalor &eacute; dada pelo negativo do pre&ccedil;o relativo do bem A (PA/PB). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O consumo efetivo na economia &eacute; determinado pelas prefer&ecirc;ncias de um indiv&iacute;duo representativo<a name="back01"></a><a href="#end01"><Sup>1</Sup></a> , as quais podem ser simbolizadas por uma s&eacute;rie de  curvas de indiferen&ccedil;a que mostram um conjunto de combina&ccedil;&otilde;es do consumo de A e B, capazes de produzir o mesmo n&iacute;vel de satisfa&ccedil;&atilde;o aos indiv&iacute;duos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com Varian (2003), as prefer&ecirc;ncias simbolizam a escolha, por um indiv&iacute;duo, de v&aacute;rias cestas de consumo, que contribuem para que o consumidor ordene suas v&aacute;rias op&ccedil;&otilde;es de consumo. As prefer&ecirc;ncias podem ser representadas, graficamente, pelas curvas de indiferen&ccedil;a, que podem representar diversos n&iacute;veis de satisfa&ccedil;&atilde;o; quanto mais para cima ou mais &agrave; direita estiverem localizadas, maior a satisfa&ccedil;&atilde;o do consumidor. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Conforme argumentado por Krugman e Obstfeld (2005), a produ&ccedil;&atilde;o e o consumo devem estar sobre a mesma linha de isovalor, uma vez que o valor do consumo, em uma economia, &eacute; igual ao valor de sua produ&ccedil;&atilde;o<a name="back02"></a><a href="#end02"><Sup>2</Sup></a> . </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Assim, o n&iacute;vel de produ&ccedil;&atilde;o &eacute; determinado pelo ponto de tang&ecirc;ncia entre a curva de possibilidade de produ&ccedil;&atilde;o (TT) e a linha de isovalor, graficamente representado pelo ponto Q. De forma similar, o n&iacute;vel de consumo &eacute; determinado pelo ponto de tang&ecirc;ncia da linha de isovalor com a mais alta curva de indiferen&ccedil;a (representado pelo ponto D), a fim de aumentar o bem-estar do consumidor. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Considerando que o n&iacute;vel de produ&ccedil;&atilde;o e o consumo sejam predeterminados, observa-se que a produ&ccedil;&atilde;o do bem A excede o seu consumo (eixo horizontal), o que resulta na exporta&ccedil;&atilde;o desse bem. No entanto, o consumo do produto B excede a sua produ&ccedil;&atilde;o, o que determina a importa&ccedil;&atilde;o desse bem (eixo vertical). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Krugman e Obstfeld (2005) enfatizaram que o com&eacute;rcio surge em determinado mercado quando os pre&ccedil;os, medidos em uma mesma moeda, forem diferentes na aus&ecirc;ncia de com&eacute;rcio. Para estabelecer o pre&ccedil;o mundial e a quantidade comercializada, devem-se determinar a curva de demanda de importa&ccedil;&atilde;o de determinado bem e a curva de oferta de exporta&ccedil;&atilde;o do pa&iacute;s exportador do mesmo bem, as quais s&atilde;o derivadas das curvas de oferta e demanda dom&eacute;sticas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A demanda de importa&ccedil;&atilde;o do pa&iacute;s importador refere-se ao excesso do que os consumidores desse pa&iacute;s demandam sobre os que os produtores locais ofertam. Entretanto, a oferta de exporta&ccedil;&atilde;o do pa&iacute;s exportador &eacute; definida pelo excesso do que os produtores desse pa&iacute;s ofertam sobre o que os consumidores locais demandam. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Varian (2003), a curva de oferta indica a quantidade de mercadoria que os produtores est&atilde;o dispostos a vender, a determinado pre&ccedil;o, considerando constantes quaisquer outros fatores que possam afetar a quantidade ofertada. A curva de oferta apresenta inclina&ccedil;&atilde;o positiva, uma vez que os pre&ccedil;os e a quantidade ofertada apresentam rela&ccedil;&atilde;o direta. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Vasconcellos (2006) acrescentou que a oferta &eacute; afetada por outras vari&aacute;veis, al&eacute;m do pre&ccedil;o, e representa a fun&ccedil;&atilde;o de oferta por meio da express&atilde;o: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02ex01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <I><img src="/img/revistas/resr/v49n1/a02ex02.jpg" align="absmiddle"> </I>&eacute; quantidade ofertada do bem i; <I>P<sub>i</sub> </I>, pre&ccedil;o do bem i; <I>P<sub>fp</sub> </I>, pre&ccedil;o dos fatores e dos insumos de produ&ccedil;&atilde;o (mat&eacute;ria-prima, m&atilde;o de obra etc.); <I>P</I><sub>n</sub>, pre&ccedil;os  de outros bens substitutos na produ&ccedil;&atilde;o; <I>T </I>, tecnologia; e <I>M </I>, metas e objetivos do empres&aacute;rio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A curva de demanda, por sua vez, informa a quantidade que os consumidores desejam comprar, &agrave; medida que varia o pre&ccedil;o unit&aacute;rio, mantidos os demais fatores constantes (VARIAN, 2003). A curva de demanda apresenta rela&ccedil;&atilde;o inversa com os pre&ccedil;os, ou seja, um aumento nos pre&ccedil;os de determinado bem implica redu&ccedil;&atilde;o na quantidade demandada desse bem. Al&eacute;m do pre&ccedil;o, a demanda &eacute; afetada ainda por outras vari&aacute;veis: renda, pre&ccedil;o de bens relacionados e gostos do consumidor: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02ex03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que<i> <img src="/img/revistas/resr/v49n1/a02ex04.jpg" align="absmiddle"> </i>&eacute; quantidade procurada (demandada) do bem i; <I>P<sub>i</sub> </I>, pre&ccedil;o do bem i; <I>P<sub>s</sub> </I>, pre&ccedil;o dos bens substitutos ou concorrentes; <I>P<sub>C</sub> </I>, pre&ccedil;o dos bens complementares;  <I>R </I>, renda do consumidor; e <I>G </I>, gostos, h&aacute;bitos e prefer&ecirc;ncias do consumidor. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Considerando as condi&ccedil;&otilde;es de oferta e demanda dom&eacute;stica, a deriva&ccedil;&atilde;o da curva de oferta exporta&ccedil;&atilde;o de um pa&iacute;s &eacute; representada pela <a href="#fig02">Figura 2</a>. Se o pre&ccedil;o estiver ao n&iacute;vel de P1, os produtores dom&eacute;sticos ir&atilde;o ofertar O&sup1;, enquanto os consumidores dom&eacute;sticos ir&atilde;o consumir D&sup1;; portanto, a quantidade dispon&iacute;vel para exporta&ccedil;&atilde;o ser&aacute; dada pela diferen&ccedil;a entre O&sup1; e D&sup1; (O&sup1; -D&sup1;). Se o pre&ccedil;o do bem aumentar de P1 para P2, os produtores elevar&atilde;o a sua quantidade ofertada para O&sup2;, ao passo que os consumidores reduzir&atilde;o a quantidade demandada de D&sup2;, o que far&aacute; com que a quantidade dispon&iacute;vel para a exporta&ccedil;&atilde;o aumente, passando a ser representada pela diferen&ccedil;a entre O&sup2; e D&sup2; (O&sup2;-D&sup2;). A oferta de bens dispon&iacute;veis para a exporta&ccedil;&atilde;o aumentar&aacute; &agrave; medida que o pre&ccedil;o elevar; portanto, a curva de oferta de exporta&ccedil;&atilde;o ser&aacute; positivamente inclinada. Ao n&iacute;vel de pre&ccedil;o P*, oferta e demanda ser&atilde;o iguais; logo, haver&aacute; aus&ecirc;ncia de com&eacute;rcio. </font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02fig02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O equil&iacute;brio mundial ocorrer&aacute; quando a demanda de importa&ccedil;&atilde;o do pa&iacute;s importador se igualar &agrave; oferta de exporta&ccedil;&atilde;o do pa&iacute;s exportador. A partir dessa igualdade, ser&atilde;o determinados pre&ccedil;o e quantidade de equil&iacute;brio comercializada no mercado internacional. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O pre&ccedil;o internacional, expresso em diferentes moedas, tornar-se-&aacute; compar&aacute;vel por interm&eacute;dio da taxa de c&acirc;mbio, definida pelo pre&ccedil;o da moeda de um pa&iacute;s expresso pela moeda de outro pa&iacute;s (KRUGMAN e OBSTFELD, 2005). No entanto, a varia&ccedil;&atilde;o da taxa de c&acirc;mbio poder&aacute; ser determinante na defini&ccedil;&atilde;o das exporta&ccedil;&otilde;es, uma vez que a deprecia&ccedil;&atilde;o da moeda de um pa&iacute;s, em rela&ccedil;&atilde;o &agrave; estrangeira<Sup><a href="#end03">3</a><a name="back03"></a></Sup>, tornar&aacute; suas exporta&ccedil;&otilde;es mais baratas e suas importa&ccedil;&otilde;es mais caras, e uma aprecia&ccedil;&atilde;o de sua moeda tornar&aacute; suas exporta&ccedil;&otilde;es mais caras e suas importa&ccedil;&otilde;es mais baratas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em termos pr&aacute;ticos, a taxa de c&acirc;mbio pode ser determinada por: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02ex05.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <I>P </I>&eacute; o pre&ccedil;o de um bem no mercado dom&eacute;stico, em moeda nacional; e <I>P</I><Sup>*</Sup>, pre&ccedil;o do mesmo bem no mercado externo, em d&oacute;lares. O comportamento dos pre&ccedil;os interno e externo de um produto pode ser determinante para a varia&ccedil;&atilde;o da taxa de c&acirc;mbio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entende-se por deprecia&ccedil;&atilde;o da moeda de um pa&iacute;s, em rela&ccedil;&atilde;o &agrave; moeda estrangeira, a eleva&ccedil;&atilde;o dos pre&ccedil;os da moeda estrangeira em moeda dom&eacute;stica. No entanto, a aprecia&ccedil;&atilde;o da moeda de um pa&iacute;s, em rela&ccedil;&atilde;o &agrave; estrangeira, seria uma redu&ccedil;&atilde;o no pre&ccedil;o da moeda estrangeira em moeda dom&eacute;stica. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B><I>2.2. Modelo anal&iacute;tico </I></B></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>2.2.1. Modelo econ&ocirc;mico </I></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em trabalhos realizados s&atilde;o identificadas diversas vari&aacute;veis que afetam a oferta de exporta&ccedil;&atilde;o de produtos agropecu&aacute;rios. Barros <I>et al</I>. (2002) e Alves e Bacchi (2004) consideraram que os fatores determinantes para as exporta&ccedil;&otilde;es eram o pre&ccedil;o interno e externo dos bens em considera&ccedil;&atilde;o, a renda interna e a taxa de c&acirc;mbio. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com os trabalhos revisados, o modelo econ&ocirc;mico, que sustenta a an&aacute;lise dos determinantes da oferta de exporta&ccedil;&atilde;o de carne de frango, &eacute; dado por: </font></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>QX<sub>t</sub> </I>= <i>f ( PD<sub>t</sub>, PE<sub>t</sub>,  Y<sub>t</sub>, TC<sub>t</sub></I>) (4)</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <I>QX<sub>t</sub> </I>&eacute; quantidade exportada de frango, no per&iacute;odo t; <I>PD<sub>t</sub> </I>, pre&ccedil;o dom&eacute;stico de carne de frango, no per&iacute;odo t; <I>PEt </I>, pre&ccedil;o externo de carne de frango, no per&iacute;odo t; <I>Y<sub>t</sub> </I>, renda interna no per&iacute;odo t; e <I>TC<sub>t</sub> </I>, taxa de c&acirc;mbio, no per&iacute;odo t. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As vari&aacute;veis foram logaritmizadas para se obterem, diretamente, as elasticidades, que correspondem aos pr&oacute;prios coeficientes estimados. Segundo Alves e Bacchi (2004), a transforma&ccedil;&atilde;o dos dados em logaritmo reduz os problemas associados &agrave; vari&acirc;ncia n&atilde;o constante dos erros, quando existirem. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por um lado, espera-se que os coeficientes estimados do pre&ccedil;o externo e da taxa de c&acirc;mbio sejam positivos e que exprimam uma rela&ccedil;&atilde;o direta com a quantidade exportada de carne de frango. Isso ocorre porque um aumento no pre&ccedil;o externo dever&aacute; levar a aumento na quantidade ofertada de carne de frango, e um aumento na taxa de c&acirc;mbio &#150; uma deprecia&ccedil;&atilde;o do real &#150; dever&aacute; corresponder a um incentivo ao aumento das exporta&ccedil;&otilde;es. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por outro, espera-se que os sinais dos coeficientes de pre&ccedil;o dom&eacute;stico e da renda interna<Sup><a href="#end04">4</a><a name="back04"></a> </Sup>sejam negativos e que exprimam uma rela&ccedil;&atilde;o inversa com a oferta de exporta&ccedil;&atilde;o de carne de frango. Isso se justifica, pois um aumento na renda interna conduziria a aumento no consumo de produtos internos, levando a uma queda na disponibilidade de produtos para exporta&ccedil;&atilde;o. Em rela&ccedil;&atilde;o ao pre&ccedil;o dom&eacute;stico, essa rela&ccedil;&atilde;o negativa poderia ser decorrente do fato de o equil&iacute;brio no mercado interno sinalizar escassez ou n&atilde;o do produto, isto &eacute;, pre&ccedil;o elevado sinaliza escassez e, portanto, menor exporta&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>2.2.2. Procedimentos metodol&oacute;gicos </I></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em toda a an&aacute;lise que envolve dados de s&eacute;ries temporais, deve-se, primeiramente, verificar a ordem de integra&ccedil;&atilde;o das s&eacute;ries e, a partir dessa informa&ccedil;&atilde;o, identificar se a s&eacute;rie possui raiz unit&aacute;ria ou se &eacute; estacion&aacute;ria em n&iacute;vel. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entre os diversos testes empregados para avaliar a estacionaridade de uma s&eacute;rie temporal, tem-se o Dickey-Fuller Aumentado (ADF), que &eacute; utilizado para testar a presen&ccedil;a de raiz unit&aacute;ria, que constitui uma situa&ccedil;&atilde;o de n&atilde;o estacionaridade (5). </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02ex06.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que &#916; &eacute; o operador de primeira diferen&ccedil;a ( &#916;<I>Y<sub>t</sub> </I>= <I>Y<sub>t</sub> </I>-<I>Y<sub>t-1</sub></I>); <I>&#945;</I>, termo de intercepto; <I>T </I>, tend&ecirc;ncia; <I>&#948; </I>(= &#961; -1) , coeficiente de teste da presen&ccedil;a ou aus&ecirc;ncia </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">de raiz unit&aacute;ria; &#916;<I>Y</I><sub>t-1</sub> , pr&oacute;pria vari&aacute;vel dependente, diferenciada e defasada, cujo objetivo &eacute; eliminar a possibilidade de presen&ccedil;a de autocorrela&ccedil;&atilde;o dos res&iacute;duos; e <I>ft </I>, estrutura de erros, que se pressup&otilde;e ter m&eacute;dia zero, vari&acirc;ncia constante e aus&ecirc;ncia de autocorrela&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Conforme se pode verificar, na express&atilde;o (5) est&atilde;o presentes o termo de intercepto e a vari&aacute;vel tend&ecirc;ncia. No entanto, ao utilizar o teste de ADF &eacute; necess&aacute;rio testar, tamb&eacute;m, varia&ccedil;&otilde;es na referida express&atilde;o, ou seja, testar a presen&ccedil;a de raiz unit&aacute;ria por meio da estima&ccedil;&atilde;o de outras duas express&otilde;es: em uma delas se exclui apenas a vari&aacute;vel tend&ecirc;ncia e, na outra, al&eacute;m dessa vari&aacute;vel,  o termo de intercepto. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com base na autorregress&atilde;o (5), testam-se as hip&oacute;teses nula (<I>H</I><sub>0</sub>:<I>&#948;</I>=0) e alternativa (<I>H<sub>1</sub> </I>:<I>&#948;</I>=1). Se a hip&oacute;tese nula n&atilde;o for rejeitada (<b>|</b>&#964;<b>|</b> <sub>calculado</sub> &lt; <b>|</b>&#964;<b>|</b> <sub>tabelado</sub> ), a s&eacute;rie da vari&aacute;vel <I>Y<sub>t</sub> </I>ser&aacute; n&atilde;o estacion&aacute;ria em n&iacute;vel, existindo, portanto, o problema de raiz unit&aacute;ria (L&Uuml;TKEPOHL e KR&Auml;TZIG, 2004). Com base no teste de ADF, pode-se, portanto, identificar a ordem de integra&ccedil;&atilde;o de determinada s&eacute;rie, ou seja, qual &eacute; a ordem de diferencia&ccedil;&atilde;o que torna a s&eacute;rie estacion&aacute;ria (exemplo: I(1), indica que a s&eacute;rie &eacute; estacion&aacute;ria na primeira diferen&ccedil;a). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para definir o n&uacute;mero de defasagens empregadas na realiza&ccedil;&atilde;o dos testes de ADF, neste trabalho foi utilizado o crit&eacute;rio de <I>SBC </I>(<I>SCHWARZ Bayesian Criterion</I>), com o intuito de minimizar a poss&iacute;vel presen&ccedil;a de autocorrela&ccedil;&atilde;o nos res&iacute;duos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para identificar o poss&iacute;vel relacionamento de longo prazo entre as vari&aacute;veis, utilizou-se o teste de cointegra&ccedil;&atilde;o, elaborado por Johansen e Jeselius (1990), j&aacute; que o mesmo possibilita identificar o maior conjunto de vari&aacute;veis que compartilham o mesmo comportamento de longo prazo, visto que a an&aacute;lise &eacute; conduzida por uma estrutura multivariada. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O procedimento de Johansen (1991), para testar a cointegra&ccedil;&atilde;o, baseia-se na vers&atilde;o reparametrizada de um modelo VAR(p), representado da seguinte forma: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02ex07.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <I>X<sub>t</sub> </I>&eacute; um vetor (<I>k </I>x 1) de vari&aacute;veis estoc&aacute;sticas; <I>&#958;<sub>t</sub> </I>, erros id&ecirc;ntica e independentemente distribu&iacute;dos, ou seja, que seguem a distribui&ccedil;&atilde;o normal; e <I>&#928;</I>= <I>&#945;&#946;</I>' , em que <I>&#945;</I> e <I>&#946;</I>' s&atilde;o matrizes (<I>k</I> x <I>r</I>), sendo <I>r</I> o posto da matriz <I>&#928;</I> , que &eacute; igual ao n&uacute;mero de vetores linearmente independentes ou cointegrados, e p, o n&uacute;mero de defasagens das vari&aacute;veis. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A determina&ccedil;&atilde;o de que <I>r </I>&eacute; o posto da matriz <I>&#928;</I> permite inferir que esta tenha <I>r </I>autovalores diferentes de zero, e tr&ecirc;s situa&ccedil;&otilde;es podem ocorrer: (i) se <I>r </I>= <I>k </I>, ent&atilde;o <I>y<sub>t</sub> </I>ser&aacute; estacion&aacute;rio e a quest&atilde;o de cointegra&ccedil;&atilde;o n&atilde;o ser&aacute; pertinente; (ii) se <I>r </I>=0 , ent&atilde;o &#916;<I>y<sub>t</sub> </I>ser&aacute; estacion&aacute;rio e n&atilde;o haver&aacute; rela&ccedil;&atilde;o de cointegra&ccedil;&atilde;o entre as vari&aacute;veis; e (iii) se 0&lt; <I>r </I>&lt; <I>k </I>, haver&aacute; <I>r </I>rela&ccedil;&otilde;es de cointegra&ccedil;&atilde;o que fornecer&atilde;o <I>r </I>vetores de cointegra&ccedil;&atilde;o. Nesse &uacute;ltimo caso, h&aacute; ainda matrizes <I>a </I>e <I>b </I>de dimens&atilde;o <I>kxr</I>, tais que <I>&#928;</I>= <I>&#945;&#946;</I>' e o vetor<I> &#946;</I>'<I>y<sub>t</sub> </I>&eacute; estacion&aacute;rio, havendo, portanto, <I>r </I>vetores de cointegra&ccedil;&atilde;o (as <I>r </I>colunas de <I>&#946;</I>) que definem as rela&ccedil;&otilde;es de equil&iacute;brio de longo prazo entre as vari&aacute;veis;<I> &#945;</I>, matriz de coeficientes de ajustamento para o equil&iacute;brio de longo prazo; e <I>&#915;</I><sub>i </sub>, matrizes de coeficientes que definem a din&acirc;mica de curto prazo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Portanto, para testar a cointegra&ccedil;&atilde;o das s&eacute;ries temporais utilizadas neste trabalho, foram utilizados os testes tra&ccedil;o (<I>&#955;<sub>tra&ccedil;o</sub></I>) e de m&aacute;ximo autovalor (<I>&#955;<sub>max</sub></I>) , propostos por Johansen e Juselius (1990). Segundo esses autores, as hip&oacute;teses do teste tra&ccedil;o s&atilde;o montadas para verificar a exist&ecirc;ncia do n&uacute;mero m&aacute;ximo de (<I>r</I>) vetores cointegrados, ou seja, <I>H</I><sub>0</sub>: <I>r</I><sub>0</sub> <u>&lt;</u> <I>r </I>e <I>H </I>: <I>r</I><sub>0</sub> &gt; 2<I>r </I>.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entretanto, a hip&oacute;tese nula do teste de m&aacute;ximo autovalor &eacute; formulada para verificar o n&uacute;mero exato de vetores de cointegra&ccedil;&atilde;o, contra a hip&oacute;tese alternativa de exist&ecirc;ncia de <I>r + 1 </I>vetores: <I>H</I><sub>0</sub>: <I>r</I><sub>0</sub> = <I>r </I>e <I>H</I>1: <I>r </I>+1 . </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os testes tra&ccedil;o e m&aacute;ximo autovalor s&atilde;o denotados, respectivamente, por  <img src="/img/revistas/resr/v49n1/a02ex08.jpg" align="absmiddle">, em que T &eacute; o n&uacute;mero de observa&ccedil;&otilde;es e <I>mi </I>, autovetores estimados. Tanto na estat&iacute;stica tra&ccedil;o quanto na de m&aacute;ximo autovalor, para os valores que forem maiores que os n&iacute;veis cr&iacute;ticos estabelecidos por Johansen e Juselius, rejeita-se <I>H</I><sub>0</sub> ( <I>H</I><sub>0</sub> : aus&ecirc;ncia de cointegra&ccedil;&atilde;o). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Admitindo que todas as vari&aacute;veis explicativas contidas no modelo sejam I(1) e que tamb&eacute;m sejam cointegradas, &eacute; poss&iacute;vel estimar a equa&ccedil;&atilde;o (7) e, dessa forma, resolver o problema da perda das informa&ccedil;&otilde;es no longo prazo. </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02ex09.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em que <I>LQX</I><Sub><Sub><I>t </I></Sub></Sub>&eacute; o logaritmo da quantidade exportada; <I>LPD<sub>t</sub> </I>, logaritmo do pre&ccedil;o dom&eacute;stico; <I>LPE<sub>t</sub> </I>, logaritmo do pre&ccedil;o externo; <I>LY<sub>t</sub> </I>, logaritmo da renda nacional; <I>LTC<sub>t</sub> </I>, logaritmo da taxa de c&acirc;mbio; e <I>u<sub>t</sub> </I>= termo de erro aleat&oacute;rio com as propriedades usuais. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo L&uuml;tkepohl (2004), os m&eacute;todos de Autorregress&atilde;o Vetorial (VAR) e de Autorregress&atilde;o Vetorial reparametrizada (VEC) possibilitam a decomposi&ccedil;&atilde;o da vari&acirc;ncia dos erros de previs&atilde;o <I>k </I>per&iacute;odos &agrave; frente, o que permite determinar a evolu&ccedil;&atilde;o do comportamento din&acirc;mico apresentado pelas vari&aacute;veis do modelo econ&ocirc;mico, ao longo do tempo. Assim, torna-se poss&iacute;vel a separa&ccedil;&atilde;o da vari&acirc;ncia dos erros de previs&atilde;o para cada vari&aacute;vel em componentes que podem ser atribu&iacute;dos por ela pr&oacute;pria e pelas demais vari&aacute;veis end&oacute;genas isoladamente, apresentando, em termos percentuais, o efeito que um choque n&atilde;o antecipado sobre determinada vari&aacute;vel teria sobre ela pr&oacute;pria e sobre as demais vari&aacute;veis pertencentes ao sistema (MARGARIDO <I>et al</I>., 2002). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com Margarido <I>et al</I>. (2002), ao analisar o efeito de choques individuais sobre a din&acirc;mica do sistema, torna-se necess&aacute;rio diagonalizar a matriz de vari&acirc;ncia e covari&acirc;ncia dos res&iacute;duos para evitar que choques sobre determinada vari&aacute;vel contaminem todo o sistema, impedindo a an&aacute;lise de seu efeito individual sobre o comportamento da vari&aacute;vel de interesse. O procedimento utilizado neste estudo para diagonalizar essa matriz foi o da decomposi&ccedil;&atilde;o de Cholesky,<Sup><a href="#end05">5</a><a name="back05"></a> </Sup>com a seguinte ordena&ccedil;&atilde;o: LTC, LY, LPE, LPD e LQX. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B><I>2.3. Fonte de dados e descri&ccedil;&atilde;o das vari&aacute;veis </I></B></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os dados de quantidade exportada (em kg) e de valor das exporta&ccedil;&otilde;es de carne de frango<Sup><a href="#end06">6</a></Sup><a name="back06"></a>, utilizado no c&aacute;lculo do pre&ccedil;o externo (US$/kg), foram obtidos da Secretaria de Com&eacute;rcio Exterior do Minist&eacute;rio da Ind&uacute;stria e Com&eacute;rcio (Mdic/Secex), e os pre&ccedil;os dom&eacute;sticos (em R$/kg), da Funda&ccedil;&atilde;o Get&uacute;lio Vargas (FGV/Agroanalysis). Os pre&ccedil;os foram deflacionados pelo &iacute;ndice Geral de Pre&ccedil;os </font></p>  <font size="2" face="Verdana, Arial, Helvetica, sans-serif">&#150; Disponibilidade Interna (IGP-DI), da Funda&ccedil;&atilde;o Get&uacute;lio Vargas &#150; Conjuntura Econ&ocirc;mica (FGV/Conjuntura Econ&ocirc;mica). A taxa de c&acirc;mbio real utilizada foi o &iacute;ndice calculado pelo Ipea, denominado Taxa de C&acirc;mbio Efetiva Real (IPA-OG &#150; exporta&ccedil;&otilde;es), calculado a partir da taxa de c&acirc;mbio nominal (R$/US$). A renda interna foi representada utilizando-se como <I>proxy </I>o Produto Interno Bruto Nacional (PIB, em US$), obtido do Banco Central do Brasil. Os dados utilizados t&ecirc;m frequ&ecirc;ncia mensal e foram transformados em logaritmos, para melhor ajustamento do modelo. Na operacionaliza&ccedil;&atilde;o do modelo foi empregado o software econom&eacute;trico Eviews 6.0.</font>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>3. Resultados e discuss&atilde;o </B></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Inicialmente, foram realizados os testes de raiz unit&aacute;ria de Dickey Fuller Aumentado (ADF), para analisar a estacionaridade das s&eacute;ries quantidade exportada (LQX), pre&ccedil;o dom&eacute;stico (LPD), pre&ccedil;o externo (LPE), renda nacional (LY) e taxa de c&acirc;mbio (LTC), todas logaritmizadas. Os resultados s&atilde;o apresentados na <a href="#tab03">Tabela 3</a>. </font></p>     <p><a name="tab03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t03.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados apontam que, considerando as s&eacute;ries em n&iacute;vel, n&atilde;o se pode rejeitar a presen&ccedil;a de raiz unit&aacute;ria a 1% e 5% de probabilidade para todas as s&eacute;ries, o que indica que todas elas s&atilde;o n&atilde;o estacion&aacute;rias. Em primeira diferen&ccedil;a, os testes indicam que, em n&iacute;vel de signific&acirc;ncia de 5%, todas as s&eacute;ries s&atilde;o estacion&aacute;rias. Portanto, constata-se que todas elas s&atilde;o estacion&aacute;rias em primeira diferen&ccedil;a e, por possu&iacute;rem a mesma ordem de integra&ccedil;&atilde;o, podem ser cointegradas. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na obten&ccedil;&atilde;o dos resultados da an&aacute;lise de cointera&ccedil;&atilde;o, para as s&eacute;ries integradas de mesma ordem, utilizou-se o procedimento de Johansen, a partir da especifica&ccedil;&atilde;o de um modelo VAR. Na identifica&ccedil;&atilde;o do n&uacute;mero de defasagens do modelo VAR foi empregado o crit&eacute;rio de Schwarz, que, segundo Enders (1995), &eacute; o mais parcimonioso, pois identificou a exist&ecirc;ncia de apenas uma defasagem, conforme apresentado na <a href="#tab04">Tabela 4</a>. </font></p>     <p><a name="tab04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t04.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O teste de cointegra&ccedil;&atilde;o de Johansen, considerando os testes do tra&ccedil;o e do m&aacute;ximo autovalor, &eacute; apresentado na <a href="#tab05">Tabela 5</a>. Segundo o teste de tra&ccedil;o, a hip&oacute;tese de que o posto da matriz de cointegra&ccedil;&atilde;o &eacute; nulo &eacute; rejeitada, ao passo que n&atilde;o se rejeita a hip&oacute;tese <I>r </I><u>&gt;</u> 1 , em n&iacute;vel de signific&acirc;ncia de 5%. Da mesma forma, de acordo com o teste do m&aacute;ximo autovalor, a hip&oacute;tese de que o posto da matriz de cointegra&ccedil;&atilde;o &eacute; nulo &eacute; rejeitada, em n&iacute;vel de signific&acirc;ncia de 5%; nesse n&iacute;vel de signific&acirc;ncia, n&atilde;o se rejeita a hip&oacute;tese alternativa <I>r </I>=1 . Constatase, assim, a exist&ecirc;ncia de um vetor de cointegra&ccedil;&atilde;o, ou seja, uma rela&ccedil;&atilde;o de equil&iacute;brio no longo prazo. </font></p>     <p><a name="tab05"></a><a name="back07"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v49n1/a02t05.jpg" border="0" usemap="#Map"> <map name="Map"><area shape="rect" coords="497,1,510,21" href="#end07"> </map></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na an&aacute;lise do padr&atilde;o de interdepend&ecirc;ncia dos fatores determinantes da exporta&ccedil;&atilde;o de carne de frango utilizaram-se as estimativas dos par&acirc;metros do modelo Vetor de Corre&ccedil;&atilde;o de Erros (VEC), como definido na equa&ccedil;&atilde;o 4. Assim, com o intuito de analisar as rela&ccedil;&otilde;es de longo prazo entre os diferentes fatores determinantes das exporta&ccedil;&otilde;es de carne de frango, foram estimados os par&acirc;metros do modelo VEC e procedeu-se &agrave; estima&ccedil;&atilde;o da rela&ccedil;&atilde;o de cointegra&ccedil;&atilde;o, normalizada em rela&ccedil;&atilde;o ao logaritmo da quantidade exportada de frango, de modo que o valor dessa vari&aacute;vel fosse igual a 1. A <a href="#tab06">Tabela 6</a> apresenta o vetor de cointegra&ccedil;&atilde;o entre as vari&aacute;veis LQX, LPD, LPE, LY e LTC, no per&iacute;odo de janeiro de 1992 a outubro de 2007. </font></font></p>     <p><a name="tab06"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t06.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Considerando os resultados da <a href="#tab06">Tabela 6</a>, a rela&ccedil;&atilde;o de equil&iacute;brio no longo prazo &eacute; dada pela equa&ccedil;&atilde;o (8), a seguir, que equivale &agrave; fun&ccedil;&atilde;o de oferta de exporta&ccedil;&atilde;o estimada. </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02ex10.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acordo com essa equa&ccedil;&atilde;o, apenas o sinal do par&acirc;metro da taxa de c&acirc;mbio ( <I>&#946;</I><sub>4</sub> ) n&atilde;o se apresentou condizente com a teoria e n&atilde;o foi estatisticamente significativo, aos n&iacute;veis de 1% e 5%, segundo o teste "t" de Student. Todos os demais par&acirc;metros foram significativos a 1% e 5%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O coeficiente do logaritmo do pre&ccedil;o dom&eacute;stico (LPD) indica que, mantidas as demais vari&aacute;veis constantes, um acr&eacute;scimo (decr&eacute;scimo) de 1% no pre&ccedil;o dom&eacute;stico deveria reduzir (aumentar) a quantidade exportada em 11,30%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A elasticidade-pre&ccedil;o direta da oferta de exporta&ccedil;&atilde;o de carne de frango, medida pelo coeficiente do logaritmo do pre&ccedil;o externo (LPE), evidencia que, <I>ceteris paribus</I>, um acr&eacute;scimo (decr&eacute;scimo) de 1% no pre&ccedil;o externo da carne de frango deveria induzir a aumento (redu&ccedil;&atilde;o) de 4,06% na quantidade exportada. Portanto, verifica-se que a oferta de exporta&ccedil;&atilde;o &eacute; el&aacute;stica. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em rela&ccedil;&atilde;o ao coeficiente do logaritmo da renda nacional (LY), verifica-se que, mantido tudo o mais constante, um acr&eacute;scimo (decr&eacute;scimo) de 1% na renda interna deveria provocar redu&ccedil;&atilde;o (aumento) de 5,65% na quantidade exportada de carne de frango. Isso ocorre porque, conforme argumentaram Souza e Burnquist (2007), Satolo e Bacchi (2006), Souza Neto <I>et al</I>. (2006) e Alves e Bacchi (2004), um aumento na renda interna induziria a um aumento no consumo interno, o que reduziria a disponibilidade de produto direcionado &agrave; exporta&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Embora o coeficiente do logaritmo da taxa de c&acirc;mbio n&atilde;o tenha sido estatisticamente significativo 1% e 5% e contasse com sinal contr&aacute;rio ao esperado, prosseguiu-se a sua an&aacute;lise. O coeficiente de LTC indica que, <I>ceteris paribus, </I>um aumento na taxa de c&acirc;mbio de 1% provocaria queda de 4,79% na quantidade exportada. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como justificativa para a baixa signific&acirc;ncia da taxa de c&acirc;mbio e seu sinal contr&aacute;rio ao esperado, Sousa e Osaki (2006) afirmaram que, uma vez que o maior volume de exporta&ccedil;&otilde;es brasileiras &eacute; destinado ao Oriente M&eacute;dio e &agrave; Uni&atilde;o Europeia, em que a taxa de c&acirc;mbio &eacute; dada em reais por euro, a taxa de c&acirc;mbio em reais por d&oacute;lar pode n&atilde;o ter impacto significativo sobre as exporta&ccedil;&otilde;es. Al&eacute;m disso, outros fatores, como a gripe avi&aacute;ria, s&atilde;o prejudiciais &agrave; produ&ccedil;&atilde;o e &agrave; exporta&ccedil;&atilde;o brasileiras e influenciam o volume destinado ao mercado externo. Gon&ccedil;alves <I>et al</I>. (2007) afirmaram que a resposta das exporta&ccedil;&otilde;es a mudan&ccedil;as na taxa de c&acirc;mbio exige tempo e n&atilde;o pode ser representada num mesmo per&iacute;odo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tendo em vista que a taxa de c&acirc;mbio pode ser representada pela raz&atilde;o entre o pre&ccedil;o interno e externo de carne de frango e que o pre&ccedil;o dom&eacute;stico teve constante queda a partir de 1995, considera-se plaus&iacute;vel a rela&ccedil;&atilde;o inversa entre a taxa de c&acirc;mbio e a quantidade exportada de carne de frango. Isso ocorre porque as exporta&ccedil;&otilde;es apresentaram comportamento crescente no per&iacute;odo de 1992 a 2007; em contrapartida, a taxa de c&acirc;mbio, por efeito da queda dos pre&ccedil;os dom&eacute;sticos, mostrou comportamento descendente. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O coeficiente de ajustamento de curto prazo (&alpha;) pode ainda ser obtido pela an&aacute;lise de cointegra&ccedil;&atilde;o. Esses coeficientes mostram a velocidade de ajustamento de curto prazo das vari&aacute;veis em dire&ccedil;&atilde;o ao equil&iacute;brio de longo prazo. Em suma, diante de um desequil&iacute;brio transit&oacute;rio (de curto prazo), um elevado valor para &alpha; indica que a velocidade de ajuste ser&aacute; r&aacute;pida em dire&ccedil;&atilde;o ao equil&iacute;brio de longo prazo. No entanto, um valor pequeno de &alpha; mostra que a velocidade ser&aacute; baixa e, consequentemente, a transi&ccedil;&atilde;o de uma situa&ccedil;&atilde;o de desequil&iacute;brio de curto prazo para uma situa&ccedil;&atilde;o de equil&iacute;brio no longo prazo tender&aacute; a ser corrigida lentamente. Na <a href="#tab07">Tabela 7</a> s&atilde;o apresentados os resultados do ajustamento de curto prazo para cada uma das vari&aacute;veis quantidade exportada (LQX), pre&ccedil;o dom&eacute;stico (LPD), pre&ccedil;o externo (LPE), renda interna (LY) e taxa de c&acirc;mbio (LTC), todas logaritmizadas. </font></p>     <p><a name="tab07"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t07.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No curto prazo, o coeficiente da quantidade exportada de carne de frango (LQX) &eacute; de 0,0341. Desse modo, constata-se que desequil&iacute;brios transit&oacute;rios nessa vari&aacute;vel s&atilde;o corrigidos a uma velocidade de 3,41%, que se apresenta uma velocidade baixa, mas relativamente mais r&aacute;pida entre todas as demais vari&aacute;veis. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A metodologia VAR permite, ainda, avaliar o poder explanat&oacute;rio de cada vari&aacute;vel sobre as demais por meio da decomposi&ccedil;&atilde;o da vari&acirc;ncia do erro de previs&atilde;o. Entretanto, como o modelo VAR &eacute; sens&iacute;vel &agrave; ordena&ccedil;&atilde;o das vari&aacute;veis parte e das menos end&oacute;genas para as mais end&oacute;genas, optou-se por ordenar as vari&aacute;veis da seguinte forma: LTC, LY, LPE, LPD e LQX. As <a href="#tab08">Tabelas 8 a 12</a>, apresentam a referida decomposi&ccedil;&atilde;o para o logaritmo da quantidade exportada (LQX), do pre&ccedil;o dom&eacute;stico (LPD), do pre&ccedil;o externo (LPE), da renda interna (LY) e da taxa de c&acirc;mbio (LTC). S&atilde;o apresentadas, ainda, as estimativas dos desvios padr&atilde;o e a propor&ccedil;&atilde;o dos erros atribu&iacute;da a cada vari&aacute;vel explicativa do modelo. </font></p>     <p><a name="tab08"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t08.jpg"></p>     <p>&nbsp;</p>     <p><a name="tab09"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t09.jpg"></p>     <p>&nbsp;</p>     <p><a name="tab10"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t10.jpg"></p>     <p>&nbsp;</p>     <p><a name="tab11"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t11.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="tab12"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n1/a02t12.jpg"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na <a href="#tab08">Tabela 8</a>, nota-se que, no per&iacute;odo de 24 meses, o pre&ccedil;o dom&eacute;stico explica 0,08% a 12,60% da vari&acirc;ncia do erro de previs&atilde;o da quantidade exportada (LQX), enquanto a renda nacional (LNY) explica 1,30% a 1,61% da vari&acirc;ncia do erro de previs&atilde;o de LQX, ap&oacute;s o quarto m&ecirc;s. O pre&ccedil;o das exporta&ccedil;&otilde;es e a taxa de c&acirc;mbio t&ecirc;m menor poder explicativo sobre o erro de previs&atilde;o da quantidade exportada do referido produto. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com rela&ccedil;&atilde;o &agrave; decomposi&ccedil;&atilde;o da vari&acirc;ncia dos erros do pre&ccedil;o dom&eacute;stico (LPD), verifica-se que, no m&ecirc;s, 1, 95,37% referem-se &agrave; influ&ecirc;ncia do seu pr&oacute;prio pre&ccedil;o; 2,74%, da taxa de c&acirc;mbio (LTC); 1,27%, da renda (LY); e 0,61%, do pre&ccedil;o externo (LPE). Esses resultados mostram que, na forma&ccedil;&atilde;o do LPD, as vari&aacute;veis LTC e LY s&atilde;o as mais relevantes no primeiro m&ecirc;s. No entanto, sua import&acirc;ncia relativa decresce ao longo do tempo, enquanto LY, LTC, LPE e LQX t&ecirc;m import&acirc;ncia na composi&ccedil;&atilde;o do LPD, chegando ao m&ecirc;s 24 com uma participa&ccedil;&atilde;o de, aproximadamente, 80,83% na sua forma&ccedil;&atilde;o (<a href="#tab09">Tabela 9</a>). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No que se refere &agrave; vari&aacute;vel LPE, a maior parcela da decomposi&ccedil;&atilde;o do erro de previs&atilde;o deve-se ao pr&oacute;prio comportamento da vari&aacute;vel. Decorridos 24 meses da incid&ecirc;ncia do choque n&atilde;o antecipado sobre o LPE, cerca de 60,41% da decomposi&ccedil;&atilde;o do seu erro de previs&atilde;o deve-se &agrave; sua pr&oacute;pria influ&ecirc;ncia, que &eacute; a mais relevante ao longo de todo o per&iacute;odo; 24,71%, ao LPD; 8,64%, ao LY; 6,17, ao LQX; e 0,06%, ao LTC. Esses resultados mostram que, na forma&ccedil;&atilde;o do LPE, al&eacute;m do seu pr&oacute;prio pre&ccedil;o, a vari&aacute;vel LPD &eacute; a mais relevante. Isso ocorre, conforme sugeriram Alves e Bachi (2004), em decorr&ecirc;ncia da intera&ccedil;&atilde;o dos mercados nacional e internacional (<a href="#tab10">Tabela 10</a>). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nas <a href="#tab11">Tabelas 11</a> e <a href="#tab12">12</a> s&atilde;o apresentados os resultados da decomposi&ccedil;&atilde;o da vari&acirc;ncia para renda nacional (LY) e para taxa de c&acirc;mbio (LTC). Para a renda nacional, observa-se que a taxa de c&acirc;mbio (LTC) explica, a partir do quarto m&ecirc;s, 4,6% a 3,93% da sua vari&acirc;ncia do erro de previs&atilde;o; em rela&ccedil;&atilde;o aos choques nas demais vari&aacute;veis, a renda desenvolve-se de maneira relativamente independente. No tocante &agrave; taxa de c&acirc;mbio, observa-se que o pre&ccedil;o dom&eacute;stico (LPD) e a renda (LY) tiveram maior impacto na vari&acirc;ncia do erro de previs&atilde;o, que foi de 4,39% a 26,13% e 1,69% a 10,05%, respectivamente, a partir do quarto m&ecirc;s; a quantidade exportada e o pre&ccedil;o externo, por sua vez, explicaram 1,09% a 6,52% e 0,48% a 2,86% da vari&acirc;ncia do erro de previs&atilde;o da taxa de c&acirc;mbio, a partir do quarto m&ecirc;s. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>4. Conclus&otilde;es </B></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O objetivo deste trabalho foi analisar os determinantes das exporta&ccedil;&otilde;es de carne de frango no per&iacute;odo de 1992 a 2007, por meio do modelo de Autorregress&atilde;o Vetorial (VAR). Como as vari&aacute;veis foram integradas em primeira diferen&ccedil;a, utilizou-se um VAR restrito ou reparametrizado, denominado de Vetor de Corre&ccedil;&atilde;o de Erro (VEC). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De maneira isolada, as vari&aacute;veis que refletem diretamente as condi&ccedil;&otilde;es do mercado interno &#150; pre&ccedil;o dom&eacute;stico e renda interna &#150; foram de grande import&acirc;ncia na determina&ccedil;&atilde;o das exporta&ccedil;&otilde;es brasileiras de carne de frango. O pre&ccedil;o externo tamb&eacute;m apresentou significativa influ&ecirc;ncia na quantidade exportada de carne de frango, o que corrobora o preceito de que esse fator &eacute; um sinalizador da absor&ccedil;&atilde;o de carne de frango no mercado externo e evidencia que a oferta de exporta&ccedil;&atilde;o de carne de frango &eacute; el&aacute;stica ao pre&ccedil;o externo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A taxa de c&acirc;mbio n&atilde;o apresentou impacto estatisticamente significativo, porque, conforme indicaram alguns autores, existem outros fatores, como a taxa de c&acirc;mbio em reais por euro, e fatores relativos &agrave; sanidade animal, como incid&ecirc;ncia de gripe avi&aacute;ria, que podem responder pela varia&ccedil;&atilde;o das exporta&ccedil;&otilde;es de carne de frango. Ademais, n&atilde;o se pode desconsiderar a forte defasagem temporal entre a varia&ccedil;&atilde;o cambial e seu impacto nas exporta&ccedil;&otilde;es brasileiras. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em suma, neste trabalho, constata-se que, embora os fatores apresentados sejam importantes determinantes das exporta&ccedil;&otilde;es de carne de frango, no per&iacute;odo de 1992 a 2007, h&aacute; outros que podem influenciar o com&eacute;rcio internacional. Apesar de apresentarem excel&ecirc;ncia na produtividade, tecnologia e recursos produtivos, os produtores brasileiros devem preocupar-se, sobremaneira, com elementos de ordem de seguran&ccedil;a alimentar, uma vez que o risco de gripe avi&aacute;ria &eacute; pertinente. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Essa constata&ccedil;&atilde;o refor&ccedil;a a necessidade de qualifica&ccedil;&atilde;o dos produtores e exportadores nacionais, com vistas ao atendimento das exig&ecirc;ncias cada vez mais restritivas dos pa&iacute;ses importadores, al&eacute;m do desenvolvimento de programas de certifica&ccedil;&otilde;es e indicadores que garantam os padr&otilde;es de qualidade da carne de frango brasileira. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em trabalhos posteriores, sugere-se a utiliza&ccedil;&atilde;o da taxa de c&acirc;mbio em reais por euro para verificar seus impactos na oferta de exporta&ccedil;&atilde;o de carne de frango e compar&aacute;-los com os resultados discutidos neste trabalho. Recomendase, ainda, a realiza&ccedil;&atilde;o de futuras an&aacute;lises que identifiquem outras vari&aacute;veis determinantes, bem como o estudo dos efeitos de pol&iacute;ticas protecionistas e de barreiras n&atilde;o-tarif&aacute;rias sobre as exporta&ccedil;&otilde;es de carne de frango. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>5. Refer&ecirc;ncias Bibliogr&aacute;ficas </B></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ASSOCIA&Ccedil;&Atilde;O BRASILEIRA dos Exportadores de Frango do Brasil -ABEF. <I>Estat&iacute;sticas. </I>Dispon&iacute;vel em: &lt;<a href="http://www.abef.com.br/Estatisticas/MercadoMundial/MercadoMundial.asp" target="_blank">http://www.abef.com.br/Estatisticas/ MercadoMundial/MercadoMundial.asp</a>&gt;. Acesso em: 15 dez 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000213&pid=S0103-2003201100010000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ASSOCIA&Ccedil;&Atilde;O BRASILEIRA dos Exportadores de Frango do Brasil &#150; ABEF. <I>Relat&oacute;rio Anual. </I>S&atilde;o Paulo, SP. 2006. Dispon&iacute;vel em: &lt;<a href="http://www.abef.com.br/portal/_clientes/abef/cat/Relatorio_2006_9062.pdf" target="_blank">http://www.abef.com.br/ portal/_clientes/abef/cat/Relatorio_2006_9062.pdf</a>&gt;. Acesso em: 8 jan. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000215&pid=S0103-2003201100010000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ALVES, L. R. A.; BACCHI, M. R. P. Oferta de exporta&ccedil;&atilde;o de a&ccedil;&uacute;car do Brasil. <I>Revista de Economia e Sociologia Rural</I>, Bras&iacute;lia, DF, v. 42, n. 1, jan-mar/2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000217&pid=S0103-2003201100010000200003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BANCO CENTRAL DO BRASIL &#150; BACEN. <I>Estat&iacute;sticas</I>. Dispon&iacute;vel em &lt;<a href="https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararT elaLocalizarSeries" target="_blank">https:// www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararT elaLocalizarSeries</a>&gt;. Acesso em 15 dez. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000219&pid=S0103-2003201100010000200004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARCELLOS, O. Uma reflex&atilde;o do com&eacute;rcio internacional dos setores de carne de frango e de soja do Brasil e Mercosul. <I>Perspectiva Econ&ocirc;mica</I>, v.2, n. 2, p. 15 - 36, jul./dez. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000221&pid=S0103-2003201100010000200005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARROS, G. S, C.; BACCHI, M. R. P.; BURNQUIST, H. L. <I>Estima&ccedil;&atilde;o de equa&ccedil;&otilde;es de oferta de exporta&ccedil;&atilde;o de produtos agropecu&aacute;rios para o Brasil (1992/2000)</I>. Bras&iacute;lia: IPEA, 2002. n. 865, (Texto para Discuss&atilde;o).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000223&pid=S0103-2003201100010000200006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BUENO, Y. M. <I>Determinantes das estrat&eacute;gias de marketing no setor exportador de frangos</I>. 2001. 94 p. Disserta&ccedil;&atilde;o (Mestrado em Economia Aplicada) &#150; Universidade Federal de Vi&ccedil;osa, Vi&ccedil;osa-MG, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000225&pid=S0103-2003201100010000200007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COSTA, T. V. M. <I>Integra&ccedil;&atilde;o regional e seus efeitos sobre as exporta&ccedil;&otilde;es brasileiras de carne av&iacute;cola</I>. 1999. 128 p. Disserta&ccedil;&atilde;o (Mestrado em Economia Aplicada) &#150; Universidade Federal do Rio Grande do Sul, Porto Alegre, 1999a.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000227&pid=S0103-2003201100010000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COSTA, T. V. M.; WAQUIL, P. D. com&eacute;rcio intra-mercosul de frangos: intensidade, orienta&ccedil;&atilde;o regional e vantagens comparativas. <I>Teoria e Evid&ecirc;ncia Econ&ocirc;mica</I>, v. 7, n. 12, p. 9-35, maio 1999b.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000229&pid=S0103-2003201100010000200009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ENDERS, W. <I>Applied econometric time series</I>. New York, John Wiley &amp; Sons, Inc., 1995. 433p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000231&pid=S0103-2003201100010000200010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GARCIA, L. A. F. <I>Economias de escala na produ&ccedil;&atilde;o de frangos de corte no Brasil</I>. 2004. 114 p. Tese (Doutorado em Economia Aplicada) &#150; Escola Superior de Agricultura "Luiz de Queiroz", Universidade de S&atilde;o Paulo, S&atilde;o Paulo, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000233&pid=S0103-2003201100010000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GON&Ccedil;ALVES, J. S.; PEREZ, L. H. Exporta&ccedil;&otilde;es brasileiras da cadeia de produ&ccedil;&atilde;o de aves no per&iacute;odo 2000-2005: origem, destino e agrega&ccedil;&atilde;o de valor. <I>Informa&ccedil;&otilde;es Econ&ocirc;micas</I>, v.36, n.7, p 32-47, jul. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000235&pid=S0103-2003201100010000200012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GON&Ccedil;ALVES, V. C.; FREITAS, C. A.; NICOLA, D. S.; PAZ, M. V. O desempenho das exporta&ccedil;&otilde;es brasileiras de carnes e gr&atilde;os no per&iacute;odo 1990-2004. In: CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL, 45., 2007, Londrina. <I>Artigo Completo... </I>Londrina, PR: SOBER, 2007. Cd-Rom </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000237&pid=S0103-2003201100010000200013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HAMILTON, J. D. <I>Time series analysis</I>. Princeton, New Jersey: Princeton University, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000238&pid=S0103-2003201100010000200014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Instituto de Pesquisa Econ&ocirc;mica Aplicada &#150; IPEA. <I>Estat&iacute;sticas</I>. Dispon&iacute;vel em &lt;<a href="http://www.ipedata.gov.br" target="_blank">www.ipedata.gov.br</a>&gt;. Acesso em: 15 dez. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000240&pid=S0103-2003201100010000200015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHANSEN, S. Statistical analysis of cointegration vectors. <I>Journal of Economic Dynamics &amp; Control</I>, v. 12, p. 231-254, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000242&pid=S0103-2003201100010000200016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHANSEN, S.; Estimation and hypothesis testing of cointegration vectors in gaussian vector autorregressive models. <I>Econometrica</I>, v. 59, p. 1551-1580, 1991.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000244&pid=S0103-2003201100010000200017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHANSEN, S., JUSELIUS, K. Maximum likelihood estimation and inference on cointegration &#150; with application to the demand for money. <I>Oxford Bulletin on Economics and Statistics</I>, v. 52, n. 1, p. 169-210, 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000246&pid=S0103-2003201100010000200018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KRUGMAM, P. R.; OBSTEFELD, M. <I>Economia internacional: teoria e pol&iacute;tica. </I>S&atilde;o Paulo: Makron Books, 2005. 807 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000248&pid=S0103-2003201100010000200019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">L&Uuml;TKEPOHL, H.; KR&Auml;TZIG, M. <I>Applied time series econometrics</I>. New York: Cambridge University Press, 2004. 323 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000250&pid=S0103-2003201100010000200020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MARGARIDO, M. A.; Fernandes, J. M.; TUROLLA, F. A. An&aacute;lise da forma&ccedil;&atilde;o dos pre&ccedil;os no mercado internacional de soja: o caso do Brasil. <I>Agricultura em S&atilde;o Paulo</I>, v. 47, n.2, p.71-85, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000252&pid=S0103-2003201100010000200021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MDIC/SECEX. Minist&eacute;rio do Desenvolvimento, Ind&uacute;stria e Com&eacute;rcio Exterior. <I>Alice web: dados das Exporta&ccedil;&otilde;es brasileiras por per&iacute;odo. </I>Dispon&iacute;vel em: &lt;<a href="http://www.aliceweb.desenvolvimento.gov.br" target="_blank">http:// www.aliceweb.desenvolvimento.gov.br</a>&gt;. Acesso em: 15 dez. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000254&pid=S0103-2003201100010000200022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PORTER, M. E. <I>Vantagem competitiva das na&ccedil;&otilde;es. </I>Rio de Janeiro: Campus, 1993. 897 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000256&pid=S0103-2003201100010000200023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SOUSA, D. P.; OSAKI, M. Gripe avi&aacute;ria: primeiros impactos nas exporta&ccedil;&otilde;es brasileiras. In: CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL, 44., 2006, Fortaleza. <I>Anais... </I>Fortaleza, CE: SOBER, 2006. Cd-Rom </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000258&pid=S0103-2003201100010000200024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VARIAN, H. R. <I>Microeconomia: princ&iacute;pios b&aacute;sicos. Uma abordagem moderna. </I>Rio de Janeiro: Elsevier, 2003. 778 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000259&pid=S0103-2003201100010000200025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VASCONCELLOS, M. A. S. <I>Economia: micro e macro. </I>4. ed. S&atilde;o Paulo: Atlas, 2006. 441 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000261&pid=S0103-2003201100010000200026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="end01"></a><a href="#back01">1</a> Essa hip&oacute;tese sustenta-se na ideia de que os indiv&iacute;duos apresentam as mesmas    prefer&ecirc;ncias e respondem pela mesma parcela de todos os recursos, ou de que o  governo redistribua a renda a fim de maximizar o bem-estar geral.    <br> <a name="end02"></a><a href="#back02">2</a> igualdade entre valor da produ&ccedil;&atilde;o e do consumo baseia-se na ideia de que um pa&iacute;s    n&atilde;o pode gastar mais do que recebe, embora a quantidade de cada bem que esse pa&iacute;s    consome e produz seja diferente. No caso dos bens A e B, a igualdade entre produ&ccedil;&atilde;o    e consumo pode ser representada pela seguinte equa&ccedil;&atilde;o:    <br>   P<sub>A</sub>Q<sub>A</sub>+P<sub>B</sub>Q<sub>B</sub> = P<sub>A</sub>D<sub>A</sub>+P<sub>B</sub>D<sub>B</sub>    <br>   em que:    <br>   P<sub>A</sub> e P<sub>B</sub>: pre&ccedil;os dos bens A e B, respectivamente;    <br>   Q<sub>A</sub> e Q<sub>B</sub>: quantidades produzidas dos bens A e B, respectivamente; e    <br> D<sub>A</sub> e D<sub>B</sub>: consumo dos bens A e B, respectivamente.    <br> <a name="end03"></a><a href="#back03">3</a> Entende-se por deprecia&ccedil;&atilde;o da moeda de um pa&iacute;s, em rela&ccedil;&atilde;o &agrave; moeda estrangeira,    a eleva&ccedil;&atilde;o dos pre&ccedil;os da moeda estrangeira em moeda dom&eacute;stica. No entanto, a    aprecia&ccedil;&atilde;o da moeda de um pa&iacute;s, em rela&ccedil;&atilde;o &agrave; estrangeira, seria uma redu&ccedil;&atilde;o no  pre&ccedil;o da moeda estrangeira em moeda dom&eacute;stica.    ]]></body>
+<body><![CDATA[<br> <a name="end04"></a><a href="#back04">4</a> A rela&ccedil;&atilde;o inversa oferta de exporta&ccedil;&atilde;o e renda interna &eacute; apresentada nos trabalhos de Barros <I>et al</I>. (2002) e Alves e Bacchi (2004).     <br> <a name="end05"></a><a href="#back05">5</a> Para mais detalhes sobre o processo de diagonaliza&ccedil;&atilde;o da matriz de vari&acirc;nciacovari&acirc;ncia, ver Lutkepohl (2004).     <br> <a name="end06"></a><a href="#back06">6</a> No presente estudo, os dados de carne de frango englobam carne e mi&uacute;dos de frango congelado, fresco ou refrigerado. De acordo com a classifica&ccedil;&atilde;o da Nomenclatura Comum do Mercosul (NCM), o setor de carne de frango comp&otilde;e a se&ccedil;&atilde;o I, que corresponde a animais vivos e produtos do reino animal. O cap&iacute;tulo 2, da NCM, trata das posi&ccedil;&otilde;es referentes a carnes, miudezas e comest&iacute;veis, e o grupo de carnes de frango ocupa a s&eacute;tima posi&ccedil;&atilde;o.     <br> <a name="end07"></a><a href="#back07">7</a> Foi escolhido o modelo com constante e sem tend&ecirc;ncia, o qual n&atilde;o apresenta tend&ecirc;ncia determin&iacute;stica (modelo 2) pelo fato de a tend&ecirc;ncia n&atilde;o se apresentar estatisticamente diferente de zero, a 10% de signific&acirc;ncia, e o termo constante significativo, o que levou &agrave; inclus&atilde;o deste no vetor de corre&ccedil;&atilde;o de erro. </font></p> </HTML>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<collab>ASSOCIAÇÃO BRASILEIRA dos Exportadores de Frango do Brasil</collab>
+<source><![CDATA[Estatísticas]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>ASSOCIAÇÃO BRASILEIRA dos Exportadores de Frango do Brasil</collab>
+<source><![CDATA[Relatório Anual]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[São Paulo^eSP SP]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[L. R. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M. R. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Oferta de exportação de açúcar do Brasil]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jan-</year>
+<month>ma</month>
+<day>r/</day>
+<volume>42</volume>
+<numero>1</numero>
+<issue>1</issue>
+<publisher-loc><![CDATA[Brasília^eDF DF]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL</collab>
+<source><![CDATA[Estatísticas]]></source>
+<year>15 d</year>
+<month>ez</month>
+<day>. </day>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARCELLOS]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Uma reflexão do comércio internacional dos setores de carne de frango e de soja do Brasil e Mercosul]]></article-title>
+<source><![CDATA[Perspectiva Econômica]]></source>
+<year>jul.</year>
+<month>/d</month>
+<day>ez</day>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>15 - 36</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[G. S, C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M. R. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURNQUIST]]></surname>
+<given-names><![CDATA[H. L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estimação de equações de oferta de exportação de produtos agropecuários para o Brasil (1992/2000)]]></source>
+<year>2002</year>
+<volume>865</volume>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUENO]]></surname>
+<given-names><![CDATA[Y. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Determinantes das estratégias de marketing no setor exportador de frangos]]></source>
+<year>2001</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COSTA]]></surname>
+<given-names><![CDATA[T. V. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Integração regional e seus efeitos sobre as exportações brasileiras de carne avícola]]></source>
+<year>1999</year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COSTA]]></surname>
+<given-names><![CDATA[T. V. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WAQUIL]]></surname>
+<given-names><![CDATA[P. D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[comércio intra-mercosul de frangos: intensidade, orientação regional e vantagens comparativas]]></article-title>
+<source><![CDATA[Teoria e Evidência Econômica]]></source>
+<year>maio</year>
+<month> 1</month>
+<day>99</day>
+<volume>7</volume>
+<numero>12</numero>
+<issue>12</issue>
+<page-range>9-35</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENDERS]]></surname>
+<given-names><![CDATA[W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied econometric time series]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons, Inc]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARCIA]]></surname>
+<given-names><![CDATA[L. A. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economias de escala na produção de frangos de corte no Brasil]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONÇALVES]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEREZ]]></surname>
+<given-names><![CDATA[L. H]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Exportações brasileiras da cadeia de produção de aves no período 2000-2005: origem, destino e agregação de valor]]></article-title>
+<source><![CDATA[Informações Econômicas]]></source>
+<year>jul.</year>
+<month> 2</month>
+<day>00</day>
+<volume>36</volume>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>32-47</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONÇALVES]]></surname>
+<given-names><![CDATA[V. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FREITAS]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NICOLA]]></surname>
+<given-names><![CDATA[D. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PAZ]]></surname>
+<given-names><![CDATA[M. V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O desempenho das exportações brasileiras de carnes e grãos no período 1990-2004]]></article-title>
+<source><![CDATA[Artigo Completo...]]></source>
+<year>2007</year>
+<conf-name><![CDATA[45 CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL]]></conf-name>
+<conf-date>2007</conf-date>
+<conf-loc>Londrina </conf-loc>
+<publisher-loc><![CDATA[Londrina^ePR PR]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAMILTON]]></surname>
+<given-names><![CDATA[J. D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series analysis]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Princeton^eNew Jersey New Jersey]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<collab>Instituto de Pesquisa Econômica Aplicada</collab>
+<source><![CDATA[Estatísticas]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical analysis of cointegration vectors]]></article-title>
+<source><![CDATA[Journal of Economic Dynamics & Control]]></source>
+<year>1988</year>
+<volume>12</volume>
+<page-range>231-254</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.;]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Estimation and hypothesis testing of cointegration vectors in gaussian vector autorregressive models]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1991</year>
+<volume>59</volume>
+<page-range>1551-1580</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.,]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUSELIUS]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Maximum likelihood estimation and inference on cointegration - with application to the demand for money]]></article-title>
+<source><![CDATA[Oxford Bulletin on Economics and Statistics]]></source>
+<year>1990</year>
+<volume>52</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>169-210</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KRUGMAM]]></surname>
+<given-names><![CDATA[P. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OBSTEFELD]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia internacional: teoria e política]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Makron Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LÜTKEPOHL]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KRÄTZIG]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied time series econometrics]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARGARIDO]]></surname>
+<given-names><![CDATA[M. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fernandes]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TUROLLA]]></surname>
+<given-names><![CDATA[F. A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise da formação dos preços no mercado internacional de soja: o caso do Brasil]]></article-title>
+<source><![CDATA[Agricultura em São Paulo]]></source>
+<year>2002</year>
+<volume>47</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>71-85</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="">
+<collab>Ministério do Desenvolvimento, Indústria e Comércio Exterior</collab>
+<source><![CDATA[Alice web: dados das Exportações brasileiras por período]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PORTER]]></surname>
+<given-names><![CDATA[M. E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Vantagem competitiva das nações]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Campus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOUSA]]></surname>
+<given-names><![CDATA[D. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OSAKI]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Gripe aviária: primeiros impactos nas exportações brasileiras]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year>2006</year>
+<conf-name><![CDATA[44 CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>Fortaleza </conf-loc>
+<publisher-loc><![CDATA[Fortaleza ]]></publisher-loc>
+<publisher-name><![CDATA[SOBER]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VARIAN]]></surname>
+<given-names><![CDATA[H. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Microeconomia: princípios básicos. Uma abordagem moderna]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VASCONCELLOS]]></surname>
+<given-names><![CDATA[M. A. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia: micro e macro]]></source>
+<year>2006</year>
+<edition>4</edition>
+<page-range>441 p</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Atlas]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

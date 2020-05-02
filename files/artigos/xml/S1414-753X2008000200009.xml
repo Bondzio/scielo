@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1414-753X</journal-id>
+<journal-title><![CDATA[Ambiente & Sociedade]]></journal-title>
+<abbrev-journal-title><![CDATA[Ambient. soc.]]></abbrev-journal-title>
+<issn>1414-753X</issn>
+<publisher>
+<publisher-name><![CDATA[ANPPAS - Revista Ambiente e Sociedade]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1414-753X2008000200009</article-id>
+<article-id pub-id-type="doi">10.1590/S1414-753X2008000200009</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Considerações sobre ecodesign: um estudo de caso na indústria eletrônica automotiva]]></article-title>
+<article-title xml:lang="en"><![CDATA[Reflections about Ecodesign: a case study in the automotive eletronic industry]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Borchardt]]></surname>
+<given-names><![CDATA[Miriam]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Poltosi]]></surname>
+<given-names><![CDATA[Leonel Augusto Calliari]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Sellitto]]></surname>
+<given-names><![CDATA[Miguel Afonso]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Pereira]]></surname>
+<given-names><![CDATA[Giancarlo Medeiros]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade do Vale do Rio dos Sinos Engenharia de Produção e Sistemas - PPGEPS ]]></institution>
+<addr-line><![CDATA[São Leopoldo RS]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Travelbit Consultores Engenharia de Produto ]]></institution>
+<addr-line><![CDATA[São Leopoldo RS]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2008</year>
+</pub-date>
+<volume>11</volume>
+<numero>2</numero>
+<fpage>341</fpage>
+<lpage>353</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1414-753X2008000200009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1414-753X2008000200009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1414-753X2008000200009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este artigo apresenta um estudo de caso referente à implantação de técnicas de ecodesign em uma empresa da cadeia eletrônica automotiva. Inicia-se com uma revisão sobre sustentabilidade ambiental, ecologia industrial, ecodesign e análise de ciclo de vida. Segue-se com a descrição de algumas práticas ambientalmente corretas na indústria automotiva, e se finaliza com o processo de implantação, as diretivas de projeto e uma avaliação preliminar dos resultados até agora alcançados.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This paper presents a case study discussing the introduction of ecodesign techniques in a company of the electronic automotive industry. The paper begins by reviewing environmental sustainability, industrial ecology, ecodesign and life cycle analysis. The report contains some environmentally accepted practices in the automotive industry and concludes with the process of implantation and establishment of design policies and with a preliminary assessment of the results so far yielded.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Análise de ciclo de vida]]></kwd>
+<kwd lng="pt"><![CDATA[Gestão ambiental]]></kwd>
+<kwd lng="pt"><![CDATA[Produtos verdes]]></kwd>
+<kwd lng="en"><![CDATA[Environmental management]]></kwd>
+<kwd lng="en"><![CDATA[Green products]]></kwd>
+<kwd lng="en"><![CDATA[Life cycle analysis]]></kwd>
+<kwd lng="en"><![CDATA[Ecodesign]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ARTIGOS</b></font></p>     <p>&nbsp;</p>     <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b><a name="add1"></a>Considera&ccedil;&otilde;es sobre ecodesign: um estudo de caso na ind&uacute;stria eletr&ocirc;nica automotiva</b></font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Reflections about Ecodesign: a case study in the automotive eletronic industry</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Miriam Borchardt<sup>I</sup>; Leonel Augusto Calliari Poltosi<sup>II</sup>; Miguel Afonso Sellitto<sup>I</sup>; Giancarlo Medeiros Pereira<sup>I</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Engenharia de Produ&ccedil;&atilde;o e Sistemas - PPGEPS, Universidade do Vale do Rio dos Sinos - UNISINOS, S&atilde;o Leopoldo - RS, Brasil    <br> <sup>II</sup>Engenharia de Produto, Travelbit Consultores, S&atilde;o Leopoldo, RS, Brasil</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#add">Autor para correspond&ecirc;ncia</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este artigo apresenta um estudo de caso referente &agrave; implanta&ccedil;&atilde;o de t&eacute;cnicas de ecodesign em uma empresa da cadeia eletr&ocirc;nica automotiva. Inicia-se com uma revis&atilde;o sobre sustentabilidade ambiental, ecologia industrial, ecodesign e an&aacute;lise de ciclo de vida. Segue-se com a descri&ccedil;&atilde;o de algumas pr&aacute;ticas ambientalmente corretas na ind&uacute;stria automotiva, e se finaliza com o processo de implanta&ccedil;&atilde;o, as diretivas de projeto e uma avalia&ccedil;&atilde;o preliminar dos resultados at&eacute; agora alcan&ccedil;ados.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chave:</b> An&aacute;lise de ciclo de vida. Gest&atilde;o ambiental. Produtos verdes.</font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> This paper presents a case study discussing the introduction of ecodesign techniques in a company of the electronic automotive industry. The paper begins by reviewing environmental sustainability, industrial ecology, ecodesign and life cycle analysis. The report contains some environmentally accepted practices in the automotive industry and concludes with the process of implantation and establishment of design policies and with a preliminary assessment of the results so far yielded.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Keywords:</b> Environmental management. Green products. Life cycle analysis. Ecodesign.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1 <i>Introdu&ccedil;&atilde;o</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Iniciativas governamentais, acad&ecirc;micas e empresariais t&ecirc;m tentado reverter o quadro de degrada&ccedil;&atilde;o dos recursos naturais observado em algumas &aacute;reas do planeta. Tal quadro tem sido agravado por fatores, tais como: i) o estilo de vida de algumas sociedades consumistas; ii) o crescimento acelerado de alguns pa&iacute;ses emergentes; iii) o envelhecimento da popula&ccedil;&atilde;o em pa&iacute;ses desenvolvidos; iv) as desigualdades entre regi&otilde;es (o consumo de &aacute;gua de um norte-americano &eacute; vinte vezes superior ao de um africano); e v) o ciclo de vida de produtos cada vez menor (KAZAZIAN, 2005). Para Maxwell, Sheate e Vorst (2006), tais fatores podem ser resumidos em uma causa essencial: a produ&ccedil;&atilde;o e o consumo de bens e servi&ccedil;os antr&oacute;picos.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto a iniciativas governamentais brasileiras, Teixeira (2006) menciona a exig&ecirc;ncia de laudos de impacto ambiental e a exist&ecirc;ncia de uma legisla&ccedil;&atilde;o rigorosa, que procura estabelecer e manter os danos ambientais dentro de limites aceit&aacute;veis. No campo internacional, pode-se citar o Protocolo de Kyoto, assinado em 1992, que visou limitar a emiss&atilde;o de CO2 causador do efeito estufa. No mercado europeu, onde o lixo eletro-eletr&ocirc;nico anual &eacute; de quatro quilos por habitante, as diretivas <i>Waste Electrical and Electronic Equipment</i> (WEEE) (BOKS; STEVELS, 2003) e as diretivas <i>Restriction on the use of Harzardous Substances </i>(ROHS) (DONNELLY et al., 2006) t&ecirc;m promovido, respectivamente, o recondicionamento de bens ap&oacute;s o uso e a restri&ccedil;&atilde;o ao uso de subst&acirc;ncias nocivas.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No que se refere &agrave;s iniciativas empresariais, Giannetti e Almeida (2006) relatam as experi&ecirc;ncias de arranjos produtivos locais, nos quais uma empresa utiliza como mat&eacute;ria-prima os res&iacute;duos de suas vizinhas.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No meio acad&ecirc;mico, conceitos como ecodesign e an&aacute;lise do ciclo de vida (ACV) t&ecirc;m promovido uma releitura nas t&eacute;cnicas de concep&ccedil;&atilde;o, projeto e produ&ccedil;&atilde;o industrial de bens (BYGGETH; BROMAN; R&Ograve;BERT, 2007), oferecendo o embasamento te&oacute;rico para diretivas de aplica&ccedil;&atilde;o em projeto de produto. Para Venzke (2002), ecodesign &eacute; uma t&eacute;cnica de projeto de produto em que objetivos tradicionais, tais como desempenho, custo da manufatura e confiabilidade, surgem conjuntamente com objetivos ambientais, tais como redu&ccedil;&atilde;o de riscos ambientais, redu&ccedil;&atilde;o do uso de recursos naturais, aumento da efici&ecirc;ncia energ&eacute;tica e da reciclagem. Para Vercalsteren (2001), empresas consideram ecodesign e ACV como meios para preservar n&atilde;o apenas o ambiente, mas tamb&eacute;m a competitividade e a imagem p&uacute;blica.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O objetivo deste artigo &eacute; relatar um estudo de caso realizado em uma empresa da ind&uacute;stria eletr&ocirc;nica automotiva<a href="#not01"><sup>1</sup></a><a name="not1"></a>. A investiga&ccedil;&atilde;o descreveu aspectos da ind&uacute;stria automotiva relacionados ao tema e analisou o processo de implanta&ccedil;&atilde;o do ecodesign na empresa, incluindo a motiva&ccedil;&atilde;o para o uso do mesmo por parte da organiza&ccedil;&atilde;o estudada. A pesquisa, de uma forma mais ampla, visou a estudar as implica&ccedil;&otilde;es do ecodesign e da ACV como fontes de vantagens competitivas em manufatura. O m&eacute;todo de pesquisa foi o estudo de caso &uacute;nico, do tipo explorat&oacute;rio. Na seq&uuml;&ecirc;ncia, apresenta-se a fundamenta&ccedil;&atilde;o te&oacute;rica, o m&eacute;todo de pesquisa, os resultados e as considera&ccedil;&otilde;es finais.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Algumas refer&ecirc;ncias consultadas antes da pesquisa t&ecirc;m algo a ver com o objetivo do artigo. Johansson (2002) revisou o estado-da-arte da integra&ccedil;&atilde;o entre desenvolvimento de produto e ecodesign. Bhamra (2004), Charter (1997), Frei (1998), Stevels (1997) e Riitahuhta, Salminen e Sirkkola (1994) trataram do ecodesign como op&ccedil;&atilde;o estrat&eacute;gica para melhoria de desempenho ambiental e desenvolvimento de produto. Cabezas e colaboradores (2005), Svensson e colaboradores (2006) e Daub (2007) discutiram indicadores de desempenho em ecodesign. Beitz (1993) apontou diretrizes para o projeto de produtos voltado &agrave; reciclabilidade; complementando este tema, Xing, Abhary e Luong (2003) propuseram o IREDA, uma metodologia de projeto voltada &agrave; reciclabilidade. Sweatman e colaboradores (1997) integraram ecodesign e sistemas de gest&atilde;o ambiental. Brezet (1997), Sherwin e Bhamra (1999) e Kleef e Roome (2007) relacionaram ecodesign com inova&ccedil;&atilde;o. Van Hemel e Cramer (2002) estudaram o ecodesign em pequenas e m&eacute;dias empresas. Brezet, Stevels e Rombouts (1999) estudaram a ACV na ind&uacute;stria holandesa.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2 <i>Sustentabilidade e ecologia industrial</i></b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para Kazazian (2005), o desenvolvimento sustent&aacute;vel concilia crescimento econ&ocirc;mico com preserva&ccedil;&atilde;o do meio ambiente e traz melhorias nas condi&ccedil;&otilde;es sociais. Para Manzini e Vezzoli (2005), em situa&ccedil;&otilde;es de sustentabilidade ambiental, as atividades humanas n&atilde;o interferem nos ciclos naturais resilientes do planeta e n&atilde;o reduzem o capital natural que ser&aacute; transmitido &agrave;s gera&ccedil;&otilde;es futuras. O primeiro conceito enfoca o desenvolvimento econ&ocirc;mico e social, enquanto que o segundo enfoca os seus reflexos nos fluxos naturais. Da discuss&atilde;o, emerge que a sustentabilidade &eacute; um objetivo a atingir, n&atilde;o uma dire&ccedil;&atilde;o a seguir. Conclui-se que nem toda proposta de melhoria ambiental pode ser considerada sustent&aacute;vel.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para Manzini e Vezzoli (2005), uma proposta sustent&aacute;vel: i) &eacute; centrada em recursos renov&aacute;veis; ii) otimiza o emprego dos recursos n&atilde;o-renov&aacute;veis, tais como ar, &aacute;gua, energia e territ&oacute;rio; iii) n&atilde;o acumula res&iacute;duos que o ecossistema n&atilde;o seja capaz de reabsorver; e iv) faz com que indiv&iacute;duos e comunidades das sociedades ricas permane&ccedil;am nos limites de seu espa&ccedil;o ambiental e que indiv&iacute;duos e comunidades das sociedades pobres possam efetivamente gozar do espa&ccedil;o ambiental ao qual potencialmente t&ecirc;m direito.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outro conceito relevante &eacute; o de ecologia industrial proposto por Jay Forrester, na d&eacute;cada de 1960, baseado na teoria dos sistemas. A ecologia industrial considera que todos os res&iacute;duos e materiais devem ser continuamente reciclados dentro de um sistema fechado e somente a energia solar ilimitada seria utilizada de forma dissipativa (<a href="#fig01">Figura 1</a>).</font></p> <a name="fig01"></a>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/asoc/v11n2/a09fig01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Giannetti e Almeida (2006) e Manzini e Vezzoli (2005) apontaram analogias entre sistemas industriais e ecossistemas. Para os autores, a ecologia industrial prop&otilde;e que a antroposfera seja parte da biosfera e que essa somente possa existir em equil&iacute;brio din&acirc;mico com outros sub-sistemas: atmosfera, hidrosfera e litosfera. A ecologia industrial &eacute; a base para o desenvolvimento de sistemas industriais sustent&aacute;veis. Uma aplica&ccedil;&atilde;o pr&aacute;tica da ecologia industrial &eacute; a forma&ccedil;&atilde;o de arranjos industriais, onde uma unidade consome os res&iacute;duos de outra, gerando produtos e res&iacute;duos que ser&atilde;o utilizados alhures como mat&eacute;rias-primas.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3 <i>Ecodesign</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Karlsson e Luttropp (2006) definiram ecodesign como um m&eacute;todo de desenvolvimento de produtos que objetiva a redu&ccedil;&atilde;o do impacto ambiental e usa a criatividade para gerar produtos e processos mais eficientes sob o ponto de vista da sustentabilidade. Johansson (2006) prop&ocirc;s a integra&ccedil;&atilde;o de requisitos de aspectos ambientais aos requisitos usuais do projeto de produto em que predominavam, essencialmente, os aspectos t&eacute;cnicos e econ&ocirc;micos. Kazazian (2005) difundiu o conceito de eco-concep&ccedil;&atilde;o de produtos leves: antes, durante e ap&oacute;s o uso, a manuten&ccedil;&atilde;o do equil&iacute;brio do produto com o meio ambiente &eacute; t&atilde;o importante quanto a exeq&uuml;ibilidade t&eacute;cnica, o controle de custos e a demanda de mercado relativa ao mesmo.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A id&eacute;ia do ecodesign surgiu na d&eacute;cada de 1990, quando a ind&uacute;stria eletr&ocirc;nica dos EUA procurava minimizar o impacto no meio ambiente decorrente de sua atividade. A Associa&ccedil;&atilde;o Americana de Eletr&ocirc;nica (<i>American Electronics Association</i>) formou uma for&ccedil;a-tarefa para desenvolver projetos com preocupa&ccedil;&atilde;o ambiental e providenciar uma base conceitual que beneficiasse primeiramente os membros da associa&ccedil;&atilde;o. Desde ent&atilde;o, o n&iacute;vel de interesse pelo assunto cresceu e os termos ecodesign e <i>Design for Environment</i> passaram a ser mencionados em programas de gest&atilde;o ambiental (BORCHARDT et al., 2007).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No ecodesign, o projetista seleciona e articula solu&ccedil;&otilde;es de projeto segundo seu impacto no ciclo de vida do produto: fabrica&ccedil;&atilde;o, embalagem, uso, troca de pe&ccedil;as e fim de vida. O projetista objetiva a utiliza&ccedil;&atilde;o do produto, pois o mesmo n&atilde;o &eacute; independente nem homog&ecirc;neo e exige outros produtos e atores para a sua fabrica&ccedil;&atilde;o, o seu transporte e o seu uso, em uma abordagem transversal e multidisciplinar. Tingstr&ouml;m e Karlsson (2006) salientaram a multidisciplinaridade do ecodesign, considerando que o desenvolvimento de um novo produto n&atilde;o &eacute; um processo linear e repetitivo, &eacute; complexo, pois intera&ccedil;&otilde;es inesperadas entre o produto e o meio podem surgir, requerendo o uso de modelos n&atilde;o-lineares para o seu teste.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como fatores que influenciam a implementa&ccedil;&atilde;o do ecodesign, Boks (2006) citou: i) press&atilde;o externa de requisitos legais; ii) influ&ecirc;ncias econ&ocirc;micas internas; iii) percep&ccedil;&atilde;o e valoriza&ccedil;&atilde;o do consumidor; e iv) disponibilidade de novas tecnologias.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A ado&ccedil;&atilde;o de pr&aacute;ticas do ecodesign pode auxiliar a estrat&eacute;gia de manufatura ao incorporar, na gest&atilde;o, aspectos relativos ao controle ambiental (BORCHARDT et al., 2007). Nesse sentido, cita-se, como exemplo, a estrat&eacute;gia de manufatura baseada nos princ&iacute;pios do Sistema Toyota de Produ&ccedil;&atilde;o (STP); o STP favorece a preserva&ccedil;&atilde;o de recursos, uma vez que visa eliminar as perdas dos processos produtivos e reduzir significativamente todas as atividades que n&atilde;o agregam valor sob o ponto de vista do cliente (BORCHARDT; SELLITTO, 2002).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fiksel (1996) apresenta pr&aacute;ticas de aplica&ccedil;&atilde;o dos conceitos de ecodesign. As mesmas s&atilde;o compiladas por Venzke (2002), conforme ilustrado no <a href="#qua01">Quadro 1</a>. Tais pr&aacute;ticas n&atilde;o s&atilde;o &uacute;nicas ou est&aacute;ticas, pois h&aacute; aprendizado e evolu&ccedil;&atilde;o tecnol&oacute;gica na sua execu&ccedil;&atilde;o.</font></p>     <p><a name="qua01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/asoc/v11n2/a09qua01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A an&aacute;lise do quadro sugere que o ecodesign herdou a vis&atilde;o hol&iacute;stica da ecologia industrial, pois trata do aproveitamento de res&iacute;duos industriais de outros produtos, da extra&ccedil;&atilde;o da mat&eacute;ria-prima, do consumo de energia e da gera&ccedil;&atilde;o de res&iacute;duos em toda a cadeia de produ&ccedil;&atilde;o, distribui&ccedil;&atilde;o, uso e descarte do produto.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4 <i>An&aacute;lise do ciclo de vida (ACV)</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Chehebe (2002) definiu an&aacute;lise do ciclo de vida (ACV) como uma t&eacute;cnica de avalia&ccedil;&atilde;o de aspectos ambientais e impactos potenciais associados a um produto. Segundo Ljungberg (2005), a ACV compreende etapas que v&atilde;o desde a retirada, no meio ambiente, das mat&eacute;rias-primas (ber&ccedil;o) at&eacute; a disposi&ccedil;&atilde;o do produto final (t&uacute;mulo). Os impactos ambientais de um produto s&atilde;o determinados por entradas e sa&iacute;das durante o ciclo de vida: entram mat&eacute;ria-prima e energia; e saem gases, efluentes, res&iacute;duos, contamina&ccedil;&atilde;o do solo, ru&iacute;do, vibra&ccedil;&otilde;es, radia&ccedil;&otilde;es e calor. A primeira refer&ecirc;ncia &agrave; ACV data de 1965, quando a Coca-Cola custeou um estudo realizado pelo <i>Midwest Research Institute</i> (MRI), que comparou alternativas de embalagens e determinou qual apresentava melhor desempenho quanto &agrave; preserva&ccedil;&atilde;o de recursos naturais.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para Aurich, Fuchs e Wagenknecht (2006), a ACV desenvolve a perspectiva do produtor e do consumidor. O produtor analisa o projeto do produto, a manufatura, os servi&ccedil;os associados, a disposi&ccedil;&atilde;o final e a remanufatura. O consumidor exige que o produto seja definido por caracter&iacute;sticas espec&iacute;ficas, o que requer solu&ccedil;&otilde;es individualizadas.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A NBR ISO 14040 estabelece que a ACV de produtos deve ser executada em quatro fases (CHEHEBE, 2002): i) objetivo e escopo, onde s&atilde;o estabelecidos a abrang&ecirc;ncia e os limites do estudo em tr&ecirc;s dimens&otilde;es: extens&atilde;o, que define in&iacute;cio e t&eacute;rmino; largura, que define quantos e quais subsistemas ser&atilde;o inclu&iacute;dos na an&aacute;lise; e profundidade, que define o n&iacute;vel de detalhe do estudo; ii) an&aacute;lise do invent&aacute;rio, que contempla a coleta e a quantifica&ccedil;&atilde;o das vari&aacute;veis (mat&eacute;ria-prima, energia, transporte, emiss&otilde;es gasosas, efluentes e res&iacute;duos l&iacute;quidos) relevantes no ciclo de vida; iii) avalia&ccedil;&atilde;o do impacto, que consiste na medi&ccedil;&atilde;o ou no julgamento da magnitude ou da severidade dos impactos ambientais das vari&aacute;veis inventariadas; e iv) interpreta&ccedil;&atilde;o, baseada na an&aacute;lise dos resultados das fases anteriores.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para Giannetti e Almeida (2006), a ACV permite: i) identificar os processos, materiais e sistemas que mais amea&ccedil;am o ambiente; ii) comparar op&ccedil;&otilde;es de minimiza&ccedil;&atilde;o de risco; e iii) tra&ccedil;ar uma estrat&eacute;gia de longo prazo para o projeto e o uso de materiais de um produto. Os autores mencionados prop&otilde;em a ACV bidimensional: produto e processo (<a href="#fig02">Figura 2</a>). A ACV do produto estende-se ao longo de sua produ&ccedil;&atilde;o, uso e descarte, enquanto que a do processo estende-se ao longo da constru&ccedil;&atilde;o, opera&ccedil;&atilde;o e desativa&ccedil;&atilde;o da planta produtora.</font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/asoc/v11n2/a09fig02.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5 <i>A pesquisa: metodologia e resultados</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O objetivo de pesquisa foi estudar a presen&ccedil;a do ecodesign em uma empresa da cadeia eletr&ocirc;nica automotiva. Os objetivos secund&aacute;rios foram entender a inser&ccedil;&atilde;o da empresa no setor, identificar os fatores que a motivaram a adotar o ecodesign como alternativa de projeto e como o ecodesign inseriu-se na rotina de projeto de produto. Sendo um caso inicial, o m&eacute;todo de pesquisa poss&iacute;vel foi o estudo de caso explorat&oacute;rio. Foram quest&otilde;es de pesquisa: i) o que motivou a empresa a adotar o ecodesign?; e ii) como as pr&aacute;ticas de ecodesign inseriram-se na rotina de projeto de produto? As respostas devem fornecer ind&iacute;cios sobre os antecedentes &agrave; ado&ccedil;&atilde;o do ecodesign em uma empresa e sobre como as suas pr&aacute;ticas ajustaram-se &agrave;s de projeto de produto. A contribui&ccedil;&atilde;o de pesquisa, segundo Roesch (1999), &eacute; a descri&ccedil;&atilde;o espec&iacute;fica de um caso que, se somado a outros, em profundidade e lateralidade crescentes, poder&aacute; contribuir para uma futura teoria fundamentada (<i>grounded theory</i>) e, eventualmente, chegar a diretrizes de implanta&ccedil;&atilde;o de ecodesign na ind&uacute;stria eletr&ocirc;nica automotiva.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A coleta de evid&ecirc;ncias baseou-se em cinco entrevistas semi-estruturadas, com gestores de pesquisa e desenvolvimento, engenheiros de projeto de produto e o gerente do Sistema de Gest&atilde;o Ambiental (SGA); baseou-se, ainda, em observa&ccedil;&atilde;o participante e em an&aacute;lise de documentos.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A empresa que sediou o estudo possui certifica&ccedil;&atilde;o de qualidade (ISO 9001:2000) e de gest&atilde;o ambiental (ISO 14001:2004) e produz componentes de eletr&ocirc;nica embarcada, em itens de seguran&ccedil;a e de entretenimento. Os fornecimentos ocorrem sob contratos de confidencialidade formais. A empresa opera h&aacute; nove anos uma pol&iacute;tica de gest&atilde;o ambiental que contempla consumos de energia e material e tratamento dos res&iacute;duos.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O relato abaixo monta um pano de fundo para a investiga&ccedil;&atilde;o, ao descrever pr&aacute;ticas da ind&uacute;stria automotiva. A seguir, investiga-se e se discute a motiva&ccedil;&atilde;o para a escolha do ecodesign e, por fim, descreve-se e se analisa o processo de implanta&ccedil;&atilde;o do mesmo na empresa.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>5.1 Algumas pr&aacute;ticas ambientais na ind&uacute;stria automotiva</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Antes de examinar a empresa, ser&atilde;o feitas algumas considera&ccedil;&otilde;es sobre a ind&uacute;stria.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A ind&uacute;stria automotiva atua em mercado competitivo, de alto valor agregado, e com distribui&ccedil;&atilde;o de produtos em n&iacute;vel mundial. Devido a requisitos de seguran&ccedil;a, a toler&acirc;ncia a falhas &eacute; pequena. De modo geral, ve&iacute;culos t&ecirc;m apresentado balan&ccedil;o ambiental negativo. Na fase de produ&ccedil;&atilde;o, s&atilde;o deslocadas quinze toneladas de mat&eacute;ria-prima, dez vezes o peso m&eacute;dio do produto final, e s&atilde;o requeridos quarenta mil litros de &aacute;gua (KAZAZIAN, 2005). Na fase de utiliza&ccedil;&atilde;o, h&aacute; consumo de combust&iacute;veis e lubrificantes e conseq&uuml;entes emiss&otilde;es de CO<sub>2</sub> e SO<sub>2</sub> (gases associados ao efeito estufa e &agrave; chuva &aacute;cida). Na fase de descarte, h&aacute; problemas com a destina&ccedil;&atilde;o de pneus e com a reciclagem de pl&aacute;sticos e de res&iacute;duos eletro-eletr&ocirc;nicos. Quanto aos metais, de modo geral, s&atilde;o aproveitados como sucata met&aacute;lica, a mat&eacute;ria-prima da ind&uacute;stria sider&uacute;rgica.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os fabricantes automotivos restringiram o uso de subst&acirc;ncias perigosas, pelas chamadas listas negra e cinza. Na primeira, est&atilde;o listadas as subst&acirc;ncias expressamente vedadas, para qualquer tipo de emprego. Na segunda, est&atilde;o listadas as subst&acirc;ncias que podem ser usadas, mas em quantidades restritas. Para qualquer caso, o fornecedor da ind&uacute;stria automotiva deve emitir uma declara&ccedil;&atilde;o confirmando que seu produto atende &agrave;s restri&ccedil;&otilde;es regulamentares. Caso n&atilde;o consiga atender &agrave;s restri&ccedil;&otilde;es, deve solicitar derroga tempor&aacute;ria &agrave; montadora, justificando o desvio, e apresentando um plano de a&ccedil;&atilde;o para regulariza&ccedil;&atilde;o. O fornecedor deve registrar o produto na <i>International Material Data System</i> (IMDS), um banco de dados com registros de todas as partes de itens automotivos e suas composi&ccedil;&otilde;es qu&iacute;micas. O registro &eacute; comparado com as listas negras e cinzas, indicando desvios.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; reciclagem e ao reaproveitamento, um exemplo &eacute; a pr&aacute;tica da FIAT do Brasil de reaproveitar embalagens de motores na produ&ccedil;&atilde;o de isolantes ac&uacute;sticos. Outro exemplo, descrito em Adlmaier e Sellitto (2007), foi desenvolvido pela MWM International, que utiliza embalagens pl&aacute;sticas retorn&aacute;veis, em substitui&ccedil;&atilde;o &agrave;s de madeira, na exporta&ccedil;&atilde;o de cabe&ccedil;otes de motores a diesel. Cabe observar que as normas do setor impedem que itens de seguran&ccedil;a que falharam, como alguns produzidos pela empresa em estudo, possam ser retrabalhados ou recuperados. No entanto, &eacute; poss&iacute;vel modificar o projeto, de modo que itens que apresentaram falhas possam ser facilmente desmontados e as suas partes recicladas.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O exposto sugere que a ind&uacute;stria automotiva tem consci&ecirc;ncia de seu papel nas quest&otilde;es ambientais e tem trabalhado para reduzir o saldo negativo do balan&ccedil;o. Citam-se exemplos: o desenvolvimento de motores de alto rendimento e com energias alternativas, como a el&eacute;trica; a fabrica&ccedil;&atilde;o de partes com reciclados; o desenvolvimento de lubrificantes sint&eacute;ticos de alta durabilidade; e a possibilidade de uso combust&iacute;veis renov&aacute;veis.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>5.2 Motiva&ccedil;&atilde;o e implanta&ccedil;&atilde;o do ecodesign na empresa</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diversas motiva&ccedil;&otilde;es surgiram na literatura para a ado&ccedil;&atilde;o do ecodesign, com diferentes graus de import&acirc;ncia. Pesquisas emp&iacute;ricas apontaram como principais motivadores o retorno financeiro oferecido pela venda de produtos ditos verdes e a redu&ccedil;&atilde;o de custos por redu&ccedil;&atilde;o de perdas em processos de fabrica&ccedil;&atilde;o e reaproveitamento f&iacute;sico de materiais (VENZKE, 2002; ECHEVESTE; SAURIN; DANILEVICZ, 2002). Tamb&eacute;m apontaram que os benef&iacute;cios de longo prazo da melhoria de desempenho ambiental n&atilde;o s&atilde;o suficientemente reconhecidos pelas empresas, a ponto de justificar e motivar mudan&ccedil;as no modo de conduzir suas opera&ccedil;&otilde;es empresariais e de neg&oacute;cios.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na presente pesquisa, os entrevistados afirmaram que a principal motiva&ccedil;&atilde;o para a ado&ccedil;&atilde;o do ecodesign na empresa foi a redu&ccedil;&atilde;o de custos, em conson&acirc;ncia com o exposto anteriormente. Tal percep&ccedil;&atilde;o justifica-se. Na ind&uacute;stria automotiva, fatores como confiabilidade de entrega e pre&ccedil;os baixos s&atilde;o considerados ganhadores de pedidos. J&aacute; requisitos ambientais s&atilde;o qualificadores: se o fornecedor os possui, continua na competi&ccedil;&atilde;o; se n&atilde;o os possui, est&aacute; fora; e atendimento superior ao m&iacute;nimo n&atilde;o favorece o competidor. A redu&ccedil;&atilde;o de custos &eacute; um motivador permanente de competitividade na ind&uacute;stria, o que vale tamb&eacute;m para o ecodesign.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto ao processo de implanta&ccedil;&atilde;o, a empresa formou um grupo multidisciplinar de estudo, planejamento e implanta&ccedil;&atilde;o, composto por colaboradores das &aacute;reas comercial, de desenvolvimento, de qualidade, de log&iacute;stica e de industrializa&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O estudo compreendeu o acesso &agrave; bibliografia, o contato e a troca de experi&ecirc;ncias com empresas que j&aacute; implementaram a t&eacute;cnica, o treinamento e a coleta de sugest&otilde;es. Nesta etapa, foram analisadas as necessidades exigidas pelos clientes nas suas normas internas e as exig&ecirc;ncias de normas, tais como ISO 9001, ISO/TS 16949 e ISO 14001.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O planejamento foi feito segundo a metodologia de gest&atilde;o de projetos vigente na empresa. Foi elaborado um cronograma f&iacute;sico-financeiro, e o projeto foi acompanhado nas reuni&otilde;es peri&oacute;dicas de an&aacute;lises cr&iacute;ticas e de riscos. Diretrizes prim&aacute;rias foram elaboradas. O Procedimento de Gest&atilde;o Integrada (PGI) foi estruturado para comportar as pr&aacute;ticas do ecodesign, contendo orienta&ccedil;&otilde;es para o desenvolvimento de produtos e processos industriais. Diretrizes secund&aacute;rias, compostas de diretrizes operacionais de aplica&ccedil;&atilde;o, foram desdobradas em procedimentos secund&aacute;rios, denominados de Especifica&ccedil;&atilde;o de Engenharia. Esses procedimentos secund&aacute;rios apresentam maior grau de detalhamento; foram implementados na forma de <i>checklists</i>, que incluem a verifica&ccedil;&atilde;o de pontos no projeto, tais como: efici&ecirc;ncia energ&eacute;tica; partes em pl&aacute;stico; partes met&aacute;licas; placas de circuito impresso; cabos e conex&otilde;es; embalagens e outras.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os <i>checklists</i> s&atilde;o utilizados nas fases de concep&ccedil;&atilde;o, de detalhamento e nas reuni&otilde;es de an&aacute;lise critica. Definido o acervo de informa&ccedil;&otilde;es necess&aacute;rio para a gest&atilde;o do projeto, houve divulga&ccedil;&atilde;o para todos os n&iacute;veis da empresa. O acervo &eacute; revisado permanentemente e contribui&ccedil;&otilde;es relevantes s&atilde;o registradas, retendo-se o conhecimento. Novas experi&ecirc;ncias decorrentes do exerc&iacute;cio da t&eacute;cnica s&atilde;o incorporadas ao mecanismo de an&aacute;lise cr&iacute;tica.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Uma sugest&atilde;o por parte dos entrevistados refere-se &agrave; extens&atilde;o do ecodesign ao desenvolvimento de software. Embora n&atilde;o sejam tang&iacute;veis, softwares podem ser orientados para a amplia&ccedil;&atilde;o da vida &uacute;til da base instalada de produto, pois t&ecirc;m a possibilidade de receber atualiza&ccedil;&otilde;es, tornar o produto multifuncional e prever acidentes por meio de rotinas de diagn&oacute;stico de sistemas. Outras transforma&ccedil;&otilde;es foram os procedimentos de qualifica&ccedil;&atilde;o e de est&iacute;mulo aos fornecedores para a verifica&ccedil;&atilde;o do impacto ambiental de seus produtos. A empresa considera que a sustentabilidade no projeto s&oacute; ser&aacute; alcan&ccedil;ada com o apoio da cadeia produtiva.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Algumas m&eacute;tricas globais de controle foram adotadas: percentual de res&iacute;duos recicl&aacute;veis; redu&ccedil;&atilde;o nos custos dos produtos; abrang&ecirc;ncia do ecodesign nos outros processos da empresa; n&uacute;mero total de itens nos <i>checklists</i>. Essas m&eacute;tricas globais foram desdobradas em m&eacute;tricas locais, que apreendem e recomp&otilde;em as m&eacute;tricas de maior hierarquia.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; ACV, ap&oacute;s estudar softwares comerciais de gest&atilde;o, o grupo de trabalho decidiu n&atilde;o adotar a t&eacute;cnica. Conforme alertado por Chehebe (2002), os resultados da ACV somente ser&atilde;o eficazes se a base de dados for compat&iacute;vel com a realidade do local de aplica&ccedil;&atilde;o. Disponibilidade de mat&eacute;rias-primas, custo de transporte e matriz de gera&ccedil;&atilde;o de energia devem ser coerentes com a realidade brasileira. Enquanto uma base de dados confi&aacute;vel n&atilde;o for dispon&iacute;vel, a empresa n&atilde;o considerar&aacute; a ACV. Por exemplo, um grupo de projeto de produto ficou na d&uacute;vida entre alternativas para tratamento superficial de metais, e a d&uacute;vida n&atilde;o foi esclarecida, pois n&atilde;o havia informa&ccedil;&otilde;es dispon&iacute;veis sobre os impactos ambientais que as alternativas ofereciam.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>5.3 Resultados da implementa&ccedil;&atilde;o e a continuidade do projeto</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os primeiros produtos inteiramente desenvolvidos sob normas de ecodesign ainda est&atilde;o em homologa&ccedil;&atilde;o por montadoras. A empresa ainda n&atilde;o disp&otilde;e de valores quantitativos que evidenciem os avan&ccedil;os alcan&ccedil;ados. No entanto, percebeu-se maior envolvimento das equipes de projeto com novos materiais, novas tecnologias e aspectos ambientais diversos. Como o ecodesign est&aacute; inserido no sistema de gest&atilde;o da empresa, os entrevistados est&atilde;o otimistas com rela&ccedil;&atilde;o aos resultados no longo prazo. Esperam poder disseminar as suas experi&ecirc;ncias para outras empresas da ind&uacute;stria e estimular os seus fornecedores a adotar pr&aacute;ticas compat&iacute;veis, ampliando o leque de empresas de pequeno e m&eacute;dio porte que possuem o ecodesign como diretriz no desenvolvimento de produtos.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Apesar de ainda n&atilde;o haver um balan&ccedil;o quantitativo completo, algumas indica&ccedil;&otilde;es qualitativas de avan&ccedil;os j&aacute; foram feitas: i) houve redu&ccedil;&atilde;o do custo do produto (espera-se a consolida&ccedil;&atilde;o do avan&ccedil;o no m&eacute;dio prazo); ii) ocorreu redu&ccedil;&atilde;o do n&uacute;mero de produtos, pelo princ&iacute;pio da multifuncionalidade no projeto (longo prazo); iii) observou-se melhoria na gest&atilde;o do conhecimento pela sistem&aacute;tica de registro de aprendizado nos <i>checklists</i> (curto prazo); iv) houve diminui&ccedil;&atilde;o dos itens de mat&eacute;ria-prima em estoque (m&eacute;dio prazo); v) houve diminui&ccedil;&atilde;o do n&uacute;mero de jigas de testes e dispositivos de montagem pelo princ&iacute;pio da racionaliza&ccedil;&atilde;o das facilidades oferecidas pelos produtos e pelo menor impacto no ciclo de vida destes (longo prazo); vi) ocorreu redu&ccedil;&atilde;o de investimentos no processo industrial, motivado pela menor necessidade de dispositivos (longo prazo); vii) observou-se redu&ccedil;&atilde;o de custos de gest&atilde;o de res&iacute;duos, pelo princ&iacute;pio do reaproveitamento planejado (m&eacute;dio prazo); e viii) ocorreu redu&ccedil;&atilde;o dos custos de transporte e estocagem de mat&eacute;ria-prima e produtos semi-prontos, pelo princ&iacute;pio da multifuncionalidade, que garante lotes maiores de aquisi&ccedil;&otilde;es, transfer&ecirc;ncias e armazenagem (curto prazo).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; continuidade do projeto, um elemento que pareceu essencial foi o comprometimento da alta dire&ccedil;&atilde;o com o mesmo. Tal aspecto est&aacute; evidenciado nas estrat&eacute;gias da empresa, desenvolvidas pela metodologia do <i>Balanced Scorecard</i> (BSC), proposto por Kaplan e Norton (2001). Indicadores de desempenho relativos ao ecodesign foram inseridos no sistema de gest&atilde;o da empresa, incluindo desempenho de fornecedores e da cadeia produtiva &agrave; montante. Destaca-se, tamb&eacute;m, o processo de capacita&ccedil;&atilde;o para todos os funcion&aacute;rios e n&iacute;veis da empresa. A introdu&ccedil;&atilde;o da pr&aacute;tica de ecodesign no processo da empresa foi garantida pela incorpora&ccedil;&atilde;o de rotinas de projeto &agrave;s rotinas existentes de gerenciamento de projetos. Para o gerenciamento da rotina, foi constitu&iacute;da uma equipe multifuncional, com coordenador. O escopo de atividades, cronograma e an&aacute;lise de riscos passaram a ser acompanhados pela alta gest&atilde;o, da mesma forma que outros desenvolvimentos de produtos e processos da empresa.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entende-se que a sistem&aacute;tica de gest&atilde;o que a empresa montou parece ser suficiente para garantir a perpetua&ccedil;&atilde;o da pr&aacute;tica do ecodesign e a sua incorpora&ccedil;&atilde;o definitiva aos princ&iacute;pios de projeto vigentes na empresa. Espera-se, na seq&uuml;&ecirc;ncia, que outros benef&iacute;cios, al&eacute;m daqueles puramente ligados ao resultado imediato do neg&oacute;cio, sejam percebidos pelos gestores.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6 <i>Considera&ccedil;&otilde;es finais</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O objetivo deste artigo foi relatar um estudo de caso feito no processo de implanta&ccedil;&atilde;o de ecodesign em uma empresa pertencente &agrave; ind&uacute;stria eletr&ocirc;nica automotiva. Fizeram parte do estudo: i) uma descri&ccedil;&atilde;o de pr&aacute;ticas ambientais na ind&uacute;stria automotiva, que serviu como pano de fundo para a pesquisa; ii) uma investiga&ccedil;&atilde;o acerca das motiva&ccedil;&otilde;es da empresa para o ecodesign; e iii) uma descri&ccedil;&atilde;o do processo de implanta&ccedil;&atilde;o. Por ser inicial, o estudo &eacute; explorat&oacute;rio e ainda n&atilde;o permite generaliza&ccedil;&otilde;es.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O referencial te&oacute;rico apresentou os conceitos de sustentabilidade e ecologia industrial, ecodesign e an&aacute;lise de ciclo de vida. Abordou-se a no&ccedil;&atilde;o de que &eacute; a vis&atilde;o hol&iacute;stica da ecologia industrial que sustenta o ecodesign, em suas diretivas sobre: i) concep&ccedil;&atilde;o de produtos comprometidos com a redu&ccedil;&atilde;o do impacto da extra&ccedil;&atilde;o da mat&eacute;ria-prima; ii) redu&ccedil;&atilde;o do consumo de energia e redu&ccedil;&atilde;o ou elimina&ccedil;&atilde;o da gera&ccedil;&atilde;o de res&iacute;duos; iii) produtos com vida &uacute;til maior; iv) reparos de partes defeituosas; v) descarte que possa reintroduzir as partes no ciclo industrial; e vi) disposi&ccedil;&atilde;o final que possa ser reabsorvida pela natureza.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entende-se que o desenvolvimento sustent&aacute;vel seja fundamental para o crescimento econ&ocirc;mico, simultaneamente no que se refere &agrave; preserva&ccedil;&atilde;o do meio ambiente e &agrave; melhoria das condi&ccedil;&otilde;es sociais. O ecodesign &eacute; uma alternativa de projeto que prop&otilde;e que as an&aacute;lises dos aspectos econ&ocirc;micos e ecol&oacute;gicos caminhem juntas no projeto de produtos. A ACV, apesar de ser uma ferramenta complexa e que n&atilde;o foi implantada pela empresa, pode ser associada &agrave;s pr&aacute;ticas do ecodesign. A ACV ap&oacute;ia o projeto, pois se vale de informa&ccedil;&otilde;es de impacto ambiental, tanto na fase de projeto do produto como na de processo de produ&ccedil;&atilde;o, comparando as diversas alternativas de projeto e propondo escolhas que minimizem os impactos ambientais de um produto ao longo de todo o seu ciclo de vida.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os pressupostos do ecodesign, em forma de diretivas de projeto, foram implementados na empresa por meio de <i>checklists</i> inseridos nos procedimentos de desenvolvimento de produto e processo. Os <i>checklists</i> s&atilde;o considerados documentos vivos, ou seja, a cada novo evento, aprendizado ou experi&ecirc;ncia de um aspecto do ecodesign, a informa&ccedil;&atilde;o deve ser consolidada e agregada ao <i>checklist</i> correspondente, formando uma base de conhecimento manej&aacute;vel.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Verificou-se, ainda, que a ind&uacute;stria de eletr&ocirc;nica automotiva possui peculiaridades que devem ser adaptadas na ado&ccedil;&atilde;o da t&eacute;cnica. Problemas de ordem t&eacute;cnica foram abordados na implanta&ccedil;&atilde;o, como a falta de uma base de dados coerente com a realidade local, o que impede, por ora, a ado&ccedil;&atilde;o da an&aacute;lise do ciclo de vida de produtos. Da mesma forma, faltam informa&ccedil;&otilde;es consistentes e organizadas sobre quais impactos ambientais as principais alternativas dispon&iacute;veis na concep&ccedil;&atilde;o de um produto acarretam.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como continuidade de pesquisa, prop&otilde;e-se analisar, no m&eacute;dio e longo prazo, os par&acirc;metros de desenvolvimento de produtos afetados pelo ecodesign e o seu respectivo impacto nos indicadores da organiza&ccedil;&atilde;o. Tamb&eacute;m se sugere estender esse estudo para outras organiza&ccedil;&otilde;es, de diversos portes e segmentos, a fim de se determinar um m&eacute;todo de implanta&ccedil;&atilde;o de ecodesign adapt&aacute;vel a diversas realidades organizacionais.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por fim, agradece-se a participa&ccedil;&atilde;o dos colaboradores da empresa e o apoio &agrave; pesquisa, dado pela Universidade onde os autores atuam.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Refer&ecirc;ncias bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ADLMAIER, D.; SELLITTO, M. Embalagens retorn&aacute;veis para transporte de bens manufaturados: um estudo de caso em log&iacute;stica reversa. <b>Revista Produ&ccedil;&atilde;o,</b> v. 17, n. 2, p. 395-406, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000100&pid=S1414-753X200800020000900001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AURICH, J.; FUCHS, C.; WAGENKNECHT, C. Life cycle oriented of technical Product-Service Systems. <b>Journal of Cleaner Production,</b> v. 14, p. 1480-1494, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000102&pid=S1414-753X200800020000900002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BEITZ, W. Designing for Ease of Recycling. <b>Journal of Engineering Design,</b> v. 4, n. 1, p. 11-23, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000104&pid=S1414-753X200800020000900003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BHAMRA, T. Ecodesign: the search for new strategies in product development. <b>Journal of Engineering Manufacture,</b> v. 218, n. 5, p. 557-569, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000106&pid=S1414-753X200800020000900004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BOKS, C. The soft side of EcoDesign. <b>Journal of Cleaner Production,</b> v. 14, p. 1346-1356, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000108&pid=S1414-753X200800020000900005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BOKS, C.; STEVELS, A. Theory and Practice of Environmental <b>Benchmarking </b>in a Major Consumer Electronics Company. Benchmarking: an International Journal, v. 10, p. 120-135, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S1414-753X200800020000900006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BORCHARDT, M. et al. Motiva&ccedil;&atilde;o para o emprego do ecodesign: um estudo de caso na ind&uacute;stria automotiva. In: International Workshop Advances in Cleaner Production, 1, 2007, S&atilde;o Paulo, SP. <b>Anais...</b> S&atilde;o Paulo: IWACP 2007. Dispon&iacute;vel em: &lt;<a href="http://www.advancesincleanerproduction.net/first/ptbr/Site/datahora2211.htm" target="_blank">http://www.advancesincleanerproduction.net/first/ptbr/Site/datahora2211.htm</a>&gt; Acesso em: 31 Maio 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S1414-753X200800020000900007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BORCHARDT, M.; SELLITTO, M. O pensamento enxuto convergindo para a preserva&ccedil;&atilde;o dos recursos naturais. In: ENCONTRO NACIONAL DE ENGENHARIA DE PRODU&Ccedil;&Atilde;O, 22, 2002, Curitiba, PR. <b>Anais...</b> Curitiba: ENEGEP. (CD-ROM).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S1414-753X200800020000900008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BORCHARDT, M. et al. Implementa&ccedil;&atilde;o do ecodesign: um estudo de caso na ind&uacute;stria eletr&ocirc;nica. In: ENCONTRO NACIONAL DE ENGENHARIA DE PRODU&Ccedil;&Atilde;O, 28, 2007, Foz do Igua&ccedil;u, PR. <b>Anais...</b> Foz do Igua&ccedil;u: ENEGEP. (CD-ROM).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S1414-753X200800020000900009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BREZET, H. Dynamics in ecodesign practice. <b>Industry and Environment,</b> v. 20, n. 1-2, p. 21-25, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S1414-753X200800020000900010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BREZET, H.;   STEVELS, A.;   ROMBOUTS, J. LCA for ecodesign: the Dutch experience. In: INTERNATIONAL SYMPOSIUM ON ECODESIGN, 1, 1999, Tokyo. <b>Proceedings...</b> Tokyo, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S1414-753X200800020000900011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BYGGETH, S.; BROMAN, G.; ROB&Egrave;RT, K. A method for sustainable product development based on a modular system of guiding questions. <b>Journal of Cleaner Production,</b> v.15, p. 1-11, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S1414-753X200800020000900012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CABEZAS, H. et al. Sustainable systems theory: ecological and other aspects. <b>Journal of Cleaner Production,</b> v. 13, p. 455-467, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S1414-753X200800020000900013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHARTER, M. Managing the eco-design process. <b>Journal of Sustainable Product Design,</b> v. 2, p. 48-51, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S1414-753X200800020000900014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CHEHEBE, J. <b>An&aacute;lise do Ciclo de Vida de Produtos - Ferramenta Gerencial da ISO 14000.</b> Rio de Janeiro: Ed. Qualitymark, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S1414-753X200800020000900015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DAUB, C. Assessing the quality of sustainability reporting: an alternative methodological approach. <b>Journal of Cleaner Production,</b> v. 15, p. 75-85, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S1414-753X200800020000900016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DONNELLY, K. et al. Ecodesign Implemented Through a Product-based Environmental Management System. <b>Journal of Cleaner Production.</b> v. 14, p. 1357-1367, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S1414-753X200800020000900017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ECHEVESTE, M.; SAURIN, T.; DANILEVICZ, A. Avalia&ccedil;&atilde;o do uso de pr&aacute;tica de ecodesign nas industrias do Rio Grande do Sul: um estudo Introdut&oacute;rio. <b>Produto e Produ&ccedil;&atilde;o,</b> v. 6, n. 1, p. 9-23, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S1414-753X200800020000900018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FREI, M. Eco-effective product design: the contribution of environmental management in designing sustainable products. <b>Journal of Sustainable Product Design,</b> v. 7, p. 16-25, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S1414-753X200800020000900019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FIKSEL, J.<b> Design for Environment.</b> New York: Mc Graw Hill, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S1414-753X200800020000900020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GIANNETTI, E.; ALMEIDA, C. <b>Ecologia Industrial - Conceitos, Ferramentas e Aplica&ccedil;&otilde;es.</b> S&atilde;o Paulo: Ed. Edgard Bl&uuml;cher, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S1414-753X200800020000900021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHANSSON, G. <b>Success factors for integration of ecodesign in product development</b>: a review of state of the art. Su&eacute;cia: Link&ouml;ping University, 2002. (PhD Project). Dispon&iacute;vel em: <a href="http://www.emeraldinsight.com/Insight/ViewContentServlet?Filename=Published/EmeraldFullTextArticle/Articles/0830130108.html" target="_blank">http://www.emeraldinsight.com/Insight/ViewContentServlet?Filename=Published/EmeraldFullTextArticle/Articles/0830130108.html</a>, consulta em mar&ccedil;o de 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S1414-753X200800020000900022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">______. Incorporating environmental concern in product development: a study of Project characteristics. <b>Management of Environmental Quality: an International Journal,</b> v. 17, n. 4, p. 421-436, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S1414-753X200800020000900023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KAPLAN, R.; NORTON, D. <b>Organiza&ccedil;&atilde;o Orientada para a Estrat&eacute;gia.</b> S&atilde;o Paulo: Ed. Campus, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S1414-753X200800020000900024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KARLSSON, R.; LUTTROPP, C. Ecodesign: what's happening? An overview of the subject area of Ecodesign and the papers in this special issue. <b>Journal of Cleaner Production,</b> v. 14, p. 1291-1298, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S1414-753X200800020000900025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KAZAZIAN, T. <b>Haver&aacute; a Idade das Coisas Leves - Design e Desenvolvimento Sustent&aacute;vel.</b> S&atilde;o Paulo: Ed. SENAC, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S1414-753X200800020000900026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KLEEF, J.; ROOME, N. Developing capabilities and competence for sustainable business management as innovation: a research agenda. <b>Journal of Cleaner Production,</b> v. 15, p. 38-51, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S1414-753X200800020000900027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LJUNGBERG, L. Responsible products: selecting design and materials. <b>Design Management Review,</b> v. 16, n. 3, p. 64-73, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S1414-753X200800020000900028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MANZINI, E.; VEZZOLI, C.<b> O Desenvolvimento de Produtos Sustent&aacute;veis - Os requisitos ambientais dos produtos industriais.</b> S&atilde;o Paulo: Ed. USP, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S1414-753X200800020000900029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MAXWELL, D.; SHEATE, W.; VORST, R. Functional and systems aspects of the sustainable product and service development approach for industry. <b>Journal of Cleaner Production,</b> v. 14, p. 1466-1479, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S1414-753X200800020000900030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">RIITAHUHTA, A.; SALMINEN, V.; SIRKKOLA, E. Greening as strategic choice.<b> Journal of Environmentally Conscious Design &amp; Manufacturing,</b> v. 3, n. 1, p. 27-33, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S1414-753X200800020000900031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ROESCH, S. <b>Projetos de est&aacute;gio e de pesquisa em administra&ccedil;&atilde;o:</b> guia para est&aacute;gios, trabalhos de conclus&atilde;o, disserta&ccedil;&otilde;es e estudos de caso. S&atilde;o Paulo: Atlas, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S1414-753X200800020000900032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHERWIN, C.;  BHAMRA, T.   Beyond engineering: ecodesign as a proactive approach to product innovation. In: INTERNATIONAL SYMPOSIUM ON ECODESIGN, 1, 1999, Tokyo. <b>Proceedings...</b> Tokyo, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S1414-753X200800020000900033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SWEATMAN, A. et al. Integrating design for environment within an environmental management system. In: INTERNATIONAL CONFERENCE ON ENGINEERING DESIGN - ICED, 1997, Tampere. <b>Proceedings.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S1414-753X200800020000900034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->..</b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">STEVELS, A. Moving companies towards sustainability through eco-design: conditions for success. <b>Journal of Sustainable Product Design,</b> v. 3, p. 47-55, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S1414-753X200800020000900035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SVENSSON, N. et al. Environmental relevance and use of energy indicators in environmental management and research. <b>Journal of Cleaner Production,</b> v. 14, p. 134-145, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S1414-753X200800020000900036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">TEIXEIRA, O. <b>O Direito ao Meio Ambiente - Ecologicamente Equilibrado como Direito Fundamental.</b> Porto Alegre: Livraria do Advogado Editora, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S1414-753X200800020000900037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">TINGSTR&Ouml;M, J.; KARLSSON, R. The relationship between environmental analyses and the dialogue process in product development. <b>Journal of Cleaner Production,</b> v. 14, p. 1409-1419, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S1414-753X200800020000900038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VAN HEMEL, C.; CRAMER, J. Barriers and stimuli for ecodesign in SMEs. <b>Journal of Cleaner Production</b>, v. 10, n. 5, p. 439-453, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S1414-753X200800020000900039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VERCALSTEREN, A. Integrating the ecodesign concept in small and medium-size enterprises: experiences in the Flemish region of Belgium. <b>Environmental Management and Health</b>, v. 12, n. 4, p. 347-355, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S1414-753X200800020000900040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VENZKE, C. A <b>Situa&ccedil;&atilde;o do Ecodesign em Empresas Moveleiras da Regi&atilde;o de Bento Gon&ccedil;alves - RS:</b> An&aacute;lise das Posturas e Pr&aacute;ticas Ambientais. Porto Alegre, 2002. Disserta&ccedil;&atilde;o - (Mestrado em Administra&ccedil;&atilde;o), Programa de P&oacute;s-gradua&ccedil;&atilde;o em Administra&ccedil;&atilde;o, UFRGS.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S1414-753X200800020000900041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">XING, K.; ABHARY, K.; LUONG, L. IREDA: An Integrated Methodology for Product Recyclability and End-of-life Design.<b> Journal of Sustainable Product Design,</b> v. 3, n. 3-4, p. 149-171, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S1414-753X200800020000900042&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Notas</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="not01" id="not01"></a><a href="#not1">1</a> A identifica&ccedil;&atilde;o da empresa n&atilde;o ser&aacute; divulgada a pedido da mesma.</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><a name="add"></a><a href="#add1"><img src="/img/revistas/asoc/v11n2/seta.gif" border="0"></a> Autor para correspond&ecirc;ncia:</b>    <br>  Miriam Borchardt    <br> Universidade do Vale do Rio dos Sinos - UNISINOS    <br>  Av. Unisinos, 950    ]]></body>
+<body><![CDATA[<br> CEP 93022-000, S&atilde;o Leopoldo, RS, Brasil    <br>  E-mail: <a href="mailto:miriamb@unisinos.br">miriamb@unisinos.br</a></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Recebido: 12/12/2007    <br>  Aceito: 9/6/2008</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ADLMAIER]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SELLITTO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Embalagens retornáveis para transporte de bens manufaturados: um estudo de caso em logística reversa]]></article-title>
+<source><![CDATA[Revista Produção]]></source>
+<year>2007</year>
+<volume>17</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>395-406</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AURICH]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FUCHS]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WAGENKNECHT]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Life cycle oriented of technical Product-Service Systems]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2006</year>
+<volume>14</volume>
+<page-range>1480-1494</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BEITZ]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Designing for Ease of Recycling]]></article-title>
+<source><![CDATA[Journal of Engineering Design]]></source>
+<year>1993</year>
+<volume>4</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>11-23</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BHAMRA]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecodesign: the search for new strategies in product development]]></article-title>
+<source><![CDATA[Journal of Engineering Manufacture]]></source>
+<year>2004</year>
+<volume>218</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>557-569</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOKS]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The soft side of EcoDesign]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2006</year>
+<volume>14</volume>
+<page-range>1346-1356</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOKS]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STEVELS]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Theory and Practice of Environmental Benchmarking in a Major Consumer Electronics Company]]></source>
+<year>2003</year>
+<volume>10</volume>
+<page-range>120-135</page-range><publisher-loc><![CDATA[Benchmarking ]]></publisher-loc>
+<publisher-name><![CDATA[an International Journal]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BORCHARDT]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Motivação para o emprego do ecodesign: um estudo de caso na indústria automotiva]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year>2007</year>
+<conf-name><![CDATA[1 International Workshop Advances in Cleaner Production]]></conf-name>
+<conf-date>2007</conf-date>
+<conf-loc>São Paulo SP</conf-loc>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[IWACP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BORCHARDT]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SELLITTO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O pensamento enxuto convergindo para a preservação dos recursos naturais]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year></year>
+<conf-name><![CDATA[22 ENCONTRO NACIONAL DE ENGENHARIA DE PRODUÇÃO]]></conf-name>
+<conf-date>2002</conf-date>
+<conf-loc>Curitiba PR</conf-loc>
+<publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+<publisher-name><![CDATA[ENEGEP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BORCHARDT]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Implementação do ecodesign: um estudo de caso na indústria eletrônica]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year></year>
+<conf-name><![CDATA[28 ENCONTRO NACIONAL DE ENGENHARIA DE PRODUÇÃO]]></conf-name>
+<conf-date>2007</conf-date>
+<conf-loc>Foz do Iguaçu PR</conf-loc>
+<publisher-loc><![CDATA[Foz do Iguaçu ]]></publisher-loc>
+<publisher-name><![CDATA[ENEGEP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BREZET]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Dynamics in ecodesign practice]]></article-title>
+<source><![CDATA[Industry and Environment]]></source>
+<year>1997</year>
+<volume>20</volume>
+<numero>1-2</numero>
+<issue>1-2</issue>
+<page-range>21-25</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BREZET]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STEVELS]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROMBOUTS]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[LCA for ecodesign: the Dutch experience]]></article-title>
+<source><![CDATA[Proceedings...]]></source>
+<year>1999</year>
+<conf-name><![CDATA[1 INTERNATIONAL SYMPOSIUM ON ECODESIGN]]></conf-name>
+<conf-date>1999</conf-date>
+<conf-loc>Tokyo </conf-loc>
+<publisher-loc><![CDATA[Tokyo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BYGGETH]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BROMAN]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROBÈRT]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A method for sustainable product development based on a modular system of guiding questions]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2007</year>
+<volume>15</volume>
+<page-range>1-11</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CABEZAS]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sustainable systems theory: ecological and other aspects]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2005</year>
+<volume>13</volume>
+<page-range>455-467</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHARTER]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Managing the eco-design process]]></article-title>
+<source><![CDATA[Journal of Sustainable Product Design]]></source>
+<year>1997</year>
+<volume>2</volume>
+<page-range>48-51</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHEHEBE]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise do Ciclo de Vida de Produtos: Ferramenta Gerencial da ISO 14000]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Ed. Qualitymark]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DAUB]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Assessing the quality of sustainability reporting: an alternative methodological approach]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2007</year>
+<volume>15</volume>
+<page-range>75-85</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DONNELLY]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecodesign Implemented Through a Product-based Environmental Management System]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2006</year>
+<volume>14</volume>
+<page-range>1357-1367</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ECHEVESTE]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SAURIN]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DANILEVICZ]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Avaliação do uso de prática de ecodesign nas industrias do Rio Grande do Sul: um estudo Introdutório]]></article-title>
+<source><![CDATA[Produto e Produção]]></source>
+<year>2002</year>
+<volume>6</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>9-23</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREI]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Eco-effective product design: the contribution of environmental management in designing sustainable products]]></article-title>
+<source><![CDATA[Journal of Sustainable Product Design]]></source>
+<year>1998</year>
+<volume>7</volume>
+<page-range>16-25</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIKSEL]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Design for Environment]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Mc Graw Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GIANNETTI]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecologia Industrial: Conceitos, Ferramentas e Aplicações]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Ed. Edgard Blücher]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSSON]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Success factors for integration of ecodesign in product development: a review of state of the art]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Suécia ]]></publisher-loc>
+<publisher-name><![CDATA[Linköping University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSSON]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Incorporating environmental concern in product development: a study of Project characteristics]]></article-title>
+<source><![CDATA[Management of Environmental Quality: an International Journal]]></source>
+<year>2006</year>
+<volume>17</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>421-436</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KAPLAN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NORTON]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Organização Orientada para a Estratégia]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Ed. Campus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KARLSSON]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LUTTROPP]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecodesign: whatÂ´s happening? An overview of the subject area of Ecodesign and the papers in this special issue]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2006</year>
+<volume>14</volume>
+<page-range>1291-1298</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KAZAZIAN]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Haverá a Idade das Coisas Leves: Design e Desenvolvimento Sustentável]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Ed. SENAC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KLEEF]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROOME]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Developing capabilities and competence for sustainable business management as innovation: a research agenda]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2007</year>
+<volume>15</volume>
+<page-range>38-51</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LJUNGBERG]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Responsible products: selecting design and materials]]></article-title>
+<source><![CDATA[Design Management Review]]></source>
+<year>2005</year>
+<volume>16</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>64-73</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MANZINI]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VEZZOLI]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Desenvolvimento de Produtos Sustentáveis: Os requisitos ambientais dos produtos industriais]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Ed. USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAXWELL]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHEATE]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VORST]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Functional and systems aspects of the sustainable product and service development approach for industry]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2006</year>
+<volume>14</volume>
+<page-range>1466-1479</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RIITAHUHTA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SALMINEN]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SIRKKOLA]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Greening as strategic choice]]></article-title>
+<source><![CDATA[Journal of Environmentally Conscious Design & Manufacturing]]></source>
+<year>1994</year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>27-33</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROESCH]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Projetos de estágio e de pesquisa em administração: guia para estágios, trabalhos de conclusão, dissertações e estudos de caso]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Atlas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHERWIN]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BHAMRA]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Beyond engineering: ecodesign as a proactive approach to product innovation]]></article-title>
+<source><![CDATA[Proceedings...]]></source>
+<year>1999</year>
+<conf-name><![CDATA[1 INTERNATIONAL SYMPOSIUM ON ECODESIGN]]></conf-name>
+<conf-date>1999</conf-date>
+<conf-loc>Tokyo </conf-loc>
+<publisher-loc><![CDATA[Tokyo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SWEATMAN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Integrating design for environment within an environmental management system]]></article-title>
+<source><![CDATA[Proceedings...]]></source>
+<year></year>
+<conf-name><![CDATA[ INTERNATIONAL CONFERENCE ON ENGINEERING DESIGN - ICED]]></conf-name>
+<conf-date>1997</conf-date>
+<conf-loc>Tampere </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STEVELS]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Moving companies towards sustainability through eco-design: conditions for success]]></article-title>
+<source><![CDATA[Journal of Sustainable Product Design]]></source>
+<year>1997</year>
+<volume>3</volume>
+<page-range>47-55</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SVENSSON]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Environmental relevance and use of energy indicators in environmental management and research]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2006</year>
+<volume>14</volume>
+<page-range>134-145</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Direito ao Meio Ambiente: Ecologicamente Equilibrado como Direito Fundamental]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+<publisher-name><![CDATA[Livraria do Advogado Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TINGSTRÃ-M]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KARLSSON]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The relationship between environmental analyses and the dialogue process in product development]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2006</year>
+<volume>14</volume>
+<page-range>1409-1419</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VAN HEMEL]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CRAMER]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Barriers and stimuli for ecodesign in SMEs]]></article-title>
+<source><![CDATA[Journal of Cleaner Production]]></source>
+<year>2002</year>
+<volume>10</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>439-453</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VERCALSTEREN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Integrating the ecodesign concept in small and medium-size enterprises: experiences in the Flemish region of Belgium]]></article-title>
+<source><![CDATA[Environmental Management and Health]]></source>
+<year>2001</year>
+<volume>12</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>347-355</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VENZKE]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Situação do Ecodesign em Empresas Moveleiras da Região de Bento Gonçalves - RS: Análise das Posturas e Práticas Ambientais]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[XING]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ABHARY]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LUONG]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[IREDA: An Integrated Methodology for Product Recyclability and End-of-life Design]]></article-title>
+<source><![CDATA[Journal of Sustainable Product Design]]></source>
+<year>2003</year>
+<volume>3</volume>
+<numero>3-4</numero>
+<issue>3-4</issue>
+<page-range>149-171</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

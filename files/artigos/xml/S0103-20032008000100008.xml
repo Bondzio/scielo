@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032008000100008</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032008000100008</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[O pass-through das variações da taxa de câmbio para os preços dos principais produtos exportados pelo Brasil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Tejada]]></surname>
+<given-names><![CDATA[César A. O.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Agnaldo Gomes da]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,FEAC  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,da Universidade Federal de Alagoas  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2008</year>
+</pub-date>
+<volume>46</volume>
+<numero>1</numero>
+<fpage>171</fpage>
+<lpage>205</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032008000100008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032008000100008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032008000100008&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O artigo estuda a relação entre as variações da taxa de câmbio e os preços das exportações dos principais produtos exportados pelo Brasil, o chamado pass-through da taxa de câmbio. Utiliza-se o modelo de parâmetros variáveis no tempo para estimar os coeficientes de pass-through. Os resultados sugerem que o pass-through incompleto das taxas de câmbio predomina nos setores analisados, bem como com relação às exportações totais. Esses resultados confirmam as estimativas de outros estudos e também mostram que o comportamento desse fenômeno, ao longo do tempo, depende do setor analisado.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The aim of the present paper is to analyze the relationship between exchange rates changes and prices of main Brazilian exports, the exchange rate pass-through. A varying-parameter model was used to estimate the coefficients of pass-through. The results suggest that incomplete pass-through of exchange rate changes is a pervasive phenomenon. These results are in line with other estimates presented in the literature.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[coeficiente de pass-through]]></kwd>
+<kwd lng="pt"><![CDATA[taxa de câmbio]]></kwd>
+<kwd lng="pt"><![CDATA[preços das exportações]]></kwd>
+<kwd lng="pt"><![CDATA[Brasil]]></kwd>
+<kwd lng="en"><![CDATA[exchange rate pass-through]]></kwd>
+<kwd lng="en"><![CDATA[export prices]]></kwd>
+<kwd lng="en"><![CDATA[Brazil]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="verdana"><b><a name="tx"></a>O <I>pass-through</I> das    varia&ccedil;&otilde;es da taxa de c&acirc;mbio para os pre&ccedil;os dos principais    produtos exportados pelo Brasil<a href="#nt"><sup>*</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>C&eacute;sar A. O. Tejada<sup>I</sup>; Agnaldo    Gomes da Silva<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana"><sup>I</sup>Professor da FEAC e do Curso de Mestrado    em Economia Aplicada da Universidade Federal de Alagoas. E-mail: <a href="mailto:cesartejada@uol.com.br">cesartejada@uol.com.br</a>    <br>   <sup>II</sup>Professor da FEAC e do Curso de Mestrado em Economia Aplicada da    Universidade Federal de Alagoas. E-mail: <a href="mailto:gomeco@uol.com.br">gomeco@uol.com.br</a>    </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><B>RRESUMO</b></font></p>     <p><font size="2" face="Verdana"> O artigo estuda a rela&ccedil;&atilde;o entre    as varia&ccedil;&otilde;es da taxa de c&acirc;mbio e os pre&ccedil;os das exporta&ccedil;&otilde;es    dos principais produtos exportados pelo Brasil, o chamado <I>pass-through</I>    da taxa de c&acirc;mbio. Utiliza-se o modelo de par&acirc;metros vari&aacute;veis    no tempo para estimar os coeficientes de <I>pass-through.</I> Os resultados    sugerem que o <I>pass-through</I> incompleto das taxas de c&acirc;mbio predomina    nos setores analisados, bem como com rela&ccedil;&atilde;o &agrave;s exporta&ccedil;&otilde;es    totais. Esses resultados confirmam as estimativas de outros estudos e tamb&eacute;m    mostram que o comportamento desse fen&ocirc;meno, ao longo do tempo, depende    do setor analisado. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><B>Palavras-chave:</b> coeficiente de <I>pass-through</I>,    taxa de c&acirc;mbio, pre&ccedil;os das exporta&ccedil;&otilde;es, Brasil.    <br>   <B>Classifica&ccedil;&atilde;o JEL:</b> C22, C50, F12. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><B>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana">The aim of the present paper is to analyze the    relationship between exchange rates changes and prices of main Brazilian exports,    the exchange rate pass-through. A varying-parameter model was used to estimate    the coefficients of pass-through. The results suggest that incomplete pass-through    of exchange rate changes is a pervasive phenomenon. These results are in line    with other estimates presented in the literature. </font></p>     <p><font size="2" face="Verdana"><b>Keywords:</b>    exchange rate pass-through, export prices, Brazil.    <br>   <B>JEL Classification:</b> C22, C50, F12. </font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><b>1. Introdu&ccedil;&atilde;o </b></font> </p>     <p><font size="2" face="Verdana">O <I>pass-through</I> (repasse) das mudan&ccedil;as    da taxa de c&acirc;mbio para os pre&ccedil;os comerci&aacute;veis de um pa&iacute;s    constitui-se em uma quest&atilde;o central no debate sobre a efic&aacute;cia    da pol&iacute;tica cambial no ajuste do balan&ccedil;o de pagamentos. Por exemplo,    para motivarem seu <I>survey</I> da literatura sobre os pre&ccedil;os e as taxas    de c&acirc;mbio, Goldberg e Knetter (1997) focaram a aprecia&ccedil;&atilde;o    da ordem do 34% do iene face ao d&oacute;lar americano, entre janeiro de 1994    e abril de 1995. Para esses autores esse epis&oacute;dio levantava certas quest&otilde;es,    tais como: </font></p>     ]]></body>
+<body><![CDATA[<blockquote>        <p><font size="2" face="Verdana">Why was there so little change in the dollar      price of imports ...? Was the response simply delayed? Did Japanese exporters      perceive the exchange rate change to be only temporary? Does incomplete pass-through      imply that Japanese producers slashed markups top the U.S.? Or did they find      new ways to offset their increased dollar-equivalent costs?... What can we      learn about the nature of competition in international products markets from      observations on prices and exchange rates? </font></p> </blockquote>     <p><font size="2" face="Verdana">O principal achado de Golberg e Knetter (1997,    p. 1244) foi: " the local currency prices of foreign products do not respond    fully to exchange rates" . </font></p>     <p><font size="2" face="Verdana">Naturalmente, o epis&oacute;dio relatado n&atilde;o    &eacute; um exemplo isolado na hist&oacute;ria econ&ocirc;mica japonesa, bem    como em outras experi&ecirc;ncias internacionais. A conclus&atilde;o geral da    maioria de estudos emp&iacute;ricos &eacute; que o grau de <I>pass-through</I>    da taxa de c&acirc;mbio para os pre&ccedil;os das exporta&ccedil;&otilde;es    e das importa&ccedil;&otilde;es &eacute; incompleto, e que existem importantes    diferen&ccedil;as nas magnitudes estimadas do grau de <I>pass-through</I>.<a name="tx01"></a><a href="#nt01"><sup>1</sup></a></font></p>     <p><font size="2" face="Verdana">Quando o <I>pass-throug</I> &eacute; nulo, a    taxa de c&acirc;mbio n&atilde;o tem qualquer influ&ecirc;ncia sobre o pre&ccedil;o    em moeda estrangeira dos bens exportados; portanto, mudan&ccedil;as cambiais    afetam apenas as margens de lucro dos exportadores, sem causar impacto sobre    a " competitividade"  das exporta&ccedil;&otilde;es nacionais. Quando    o <I>pass-through</I> &eacute; <B>completo</B>, quaisquer mudan&ccedil;as na    taxa de c&acirc;mbio s&atilde;o transmitidas integralmente para o pre&ccedil;o    em moeda estrangeira dos produtos exportados, afetando, assim, a competitividade    da produ&ccedil;&atilde;o dom&eacute;stica no mercado mundial. Assim, o <I>pass-through</I>    das mudan&ccedil;as na taxa de c&acirc;mbio para os pre&ccedil;os das exporta&ccedil;&otilde;es    determina o grau de competitividade alcan&ccedil;ado a partir de varia&ccedil;&otilde;es    na taxa de c&acirc;mbio. A efic&aacute;cia da taxa de c&acirc;mbio como instrumento    de pol&iacute;tica em programas de promo&ccedil;&atilde;o de exporta&ccedil;&otilde;es    e ajustamento da conta corrente do balan&ccedil;o de pagamento, depende, portanto,    do coeficiente de <I>pass-through</I>.</font></p>     <p><font size="2" face="Verdana">Como Goldberg e Knetter (1997) mostram, esses    fatos estilizados t&ecirc;m inspirado uma vasta literatura sobre as condi&ccedil;&otilde;es    competitivas nos mercados externos e dom&eacute;sticos. A discrimina&ccedil;&atilde;o    de pre&ccedil;os, a forma funcional da curva de demanda sob monop&oacute;lio,    pressupostos sobre estruturas oligopolistas e outros aspectos s&atilde;o apresentados    como poss&iacute;veis explica&ccedil;&otilde;es desses fatos. </font></p>     <p><font size="2" face="Verdana">Nesse contexto, o crescente interesse no desempenho    das exporta&ccedil;&otilde;es brasileiras faz com que seja importante analisar    a rela&ccedil;&atilde;o entre as varia&ccedil;&otilde;es nas taxas de c&acirc;mbio    e os pre&ccedil;os dos produtos exportados, o chamado <I>pass-through</I> das    mudan&ccedil;as na taxa de c&acirc;mbio para os pre&ccedil;os das exporta&ccedil;&otilde;es.    Como se sabe, a participa&ccedil;&atilde;o das exporta&ccedil;&otilde;es brasileiras    sobre o total das exporta&ccedil;&otilde;es mundiais n&atilde;o atingiu 1% nos    &uacute;ltimos anos, embora se espere que essa participa&ccedil;&atilde;o aumente.    </font></p>     <p><font size="2" face="Verdana">Portanto, estudos que estimem os coeficientes    de <I>p</I>a<I>ss-through</I> tornam-se de extrema import&acirc;ncia    para a determina&ccedil;&atilde;o da competitividade dos produtos brasileiros    no contexto do mercado internacional. </font></p>     <p><font size="2" face="Verdana">O objetivo deste artigo &eacute; analisar    os determinantes do <I>pass-through</I> das varia&ccedil;&otilde;es da    taxa de c&acirc;mbio para os pre&ccedil;os das principais exporta&ccedil;&otilde;es    do Brasil. Os setores examinados no trabalho representaram 65,86% das exporta&ccedil;&otilde;es    totais brasileiras, no ano de 2004.<a name="tx02"></a><a href="#nt02"><sup>2</sup></a>    Adicionalmente, para prop&oacute;sitos de compara&ccedil;&atilde;o, foram analisadas    tamb&eacute;m as exporta&ccedil;&otilde;es totais. </font></p>     <p><font size="2" face="Verdana">Al&eacute;m desta introdu&ccedil;&atilde;o, o    artigo apresenta, na segunda se&ccedil;&atilde;o, os aspectos te&oacute;ricos    do <I>pass-through</I> da taxa de c&acirc;mbio; na terceira, uma breve revis&atilde;o    dos estudos emp&iacute;ricos; na quarta, os resultados das estima&ccedil;&otilde;es    dos coeficientes de <I>pass-through</I> para os pre&ccedil;os dos principais    setores de exporta&ccedil;&atilde;o; no final, s&atilde;o apresentadas as conclus&otilde;es    do artigo. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>2. O <I>pass-through</I> da    taxa de c&acirc;mbio</b></font></p>     <p><font size="2" face="Verdana">Na literatura econ&ocirc;mica, a express&atilde;o    <I>exchange rate pass-through</I> &eacute; geralmente usada para referir-se    aos efeitos das mudan&ccedil;as das taxas de c&acirc;mbio sobre um dos seguintes    itens: (1) pre&ccedil;os aos consumidores; (2) investimentos; (3) volumes de    com&eacute;rcio e (4) pre&ccedil;os das importa&ccedil;&otilde;es e das exporta&ccedil;&otilde;es.    </font></p>     <p><font size="2" face="Verdana">Como assinalado na introdu&ccedil;&atilde;o,    o foco de estudo do artigo &eacute; o t&oacute;pico (4) e, mais especificamente,    o <I>pass-through</I> das varia&ccedil;&otilde;es da taxa de c&acirc;mbio para    os pre&ccedil;os das exporta&ccedil;&otilde;es. A escolha dessa quest&atilde;o    como objeto da pesquisa deve-se a dois fatores: primeiro, porque essa &eacute;    a base natural para estudar as regras de fixa&ccedil;&atilde;o de pre&ccedil;os    dos setores exportadores; segundo, porque uma resposta dos pre&ccedil;os das    exporta&ccedil;&otilde;es &agrave;s mudan&ccedil;as da taxa de c&acirc;mbio    &eacute; usualmente necess&aacute;ria, antes de haver qualquer conseq&uuml;&ecirc;ncia    para os pre&ccedil;os aos consumidores, o investimento ou os volumes de com&eacute;rcio.    </font></p>     <p><font size="2" face="Verdana">Como mencionado, a situa&ccedil;&atilde;o mais    comum encontrada na literatura emp&iacute;rica &eacute; de um <I>pass-through    </I><B>incompleto</B>. As principais explica&ccedil;&otilde;es propostas na    literatura econ&ocirc;mica para o <I>pass-through</I> incompleto de varia&ccedil;&otilde;es    nas taxas de c&acirc;mbio para os pre&ccedil;os dos produtos comerci&aacute;veis    (bens exportados e importados) podem ser agrupadas em duas: a <B>abordagem das    elasticidades</B> e os recentes desenvolvimentos baseados nas <B>estruturas    de mercado e as caracter&iacute;sticas dos produtos</B>, e o papel das <B>empresas    multinacionais</B> e os efeitos das <B>barreiras n&atilde;o-tarif&aacute;rias</B>.<a name="tx03"></a><a href="#nt03"><sup>3</sup></a></font></p>     <p><font size="2" face="Verdana"><b><i>2.1. A abordagem das elasticidades </i></b></font></p>     <p><font size="2" face="Verdana">Para este primeiro enfoque, na aus&ecirc;ncia    de outros choques, as elasticidades-pre&ccedil;o relativas de oferta e demanda    dos bens comerci&aacute;veis s&atilde;o os determinantes principais do <I>pass-through</I>.    No caso dos bens exportados, o grau de <I>pass-through</I> aumentar&aacute;    quanto maior for a elasticidade pre&ccedil;o de demanda e menor for a elasticidade    pre&ccedil;o de oferta. Especificamente, quando os exportadores enfrentam uma    curva de demanda perfeitamente el&aacute;stica, uma mudan&ccedil;a na taxa de    c&acirc;mbio n&atilde;o desvia o pre&ccedil;o das exporta&ccedil;&otilde;es    em moeda dom&eacute;stica com respeito ao pre&ccedil;o estrangeiro, quando expresso    numa moeda comum. Para isso, &eacute; necess&aacute;rio que o pre&ccedil;o em    moeda dom&eacute;stica das exporta&ccedil;&otilde;es mova-se na exata propor&ccedil;&atilde;o    da taxa de c&acirc;mbio de forma que o <I>pass-through</I> &eacute; completo.    </font></p>     <p><font size="2" face="Verdana">Mais formalmente, pode-se definir:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm01.gif"></p>     <p><font size="2" face="Verdana">onde <I>x:</I> exporta&ccedil;&otilde;es; <I>q</I>:    taxa de varia&ccedil;&atilde;o da quantidade; <I>p</I>: taxa de varia&ccedil;&atilde;o    do pre&ccedil;o dom&eacute;stico; <I>p</I>* = taxa de varia&ccedil;&atilde;o    do pre&ccedil;o no resto do mundo; <font face="Symbol">h</font><I><SUB>x</sub></I>    = elasticidade-pre&ccedil;o da demanda por exporta&ccedil;&otilde;es; e <font face="Symbol">t</font><I><SUB>x</sub></I>    = elasticidade-pre&ccedil;o da oferta de exporta&ccedil;&otilde;es. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Adicionalmente, define-se:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm03.gif"></p>     <p><font size="2" face="Verdana">onde <I>e</I> representa a varia&ccedil;&atilde;o    na taxa de c&acirc;mbio,medida em unidades da moeda dom&eacute;stica por unidade    de moeda estrangeira. </font></p>     <p><font size="2" face="Verdana">A Equa&ccedil;&atilde;o (1) pode ser reescrita    como: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm04.gif"></p>     <p><font size="2" face="Verdana">Substituindo as Equa&ccedil;&otilde;es (3) e    (4) na Equa&ccedil;&atilde;o (2), obt&eacute;m-se: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08img01.gif"></p>     <p><font size="2" face="Verdana">Isolando <img src="/img/revistas/resr/v46n1/a08img02.gif" align="absbottom">,    obt&eacute;m-se:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm05.gif"></p>     <p><font size="2" face="Verdana">A Equa&ccedil;&atilde;o (5) mostra que o impacto    das varia&ccedil;&otilde;es na taxa de c&acirc;mbio sobre o pre&ccedil;o das    exporta&ccedil;&otilde;es (<img src="/img/revistas/resr/v46n1/a08img02.gif" align="absbottom">)    &eacute; dado pela express&atilde;o entre colchetes. Assim, o coeficiente de    <I>pass-through </I>ser&aacute; nulo (isto &eacute;, varia&ccedil;&otilde;es    na taxa de c&acirc;mbio n&atilde;o afetar&atilde;o o pre&ccedil;o dos produtos    exportados no mercado externo), caso uma das seguintes condi&ccedil;&otilde;es    se verifique: (i) a elasticidade-pre&ccedil;o da oferta de exporta&ccedil;&otilde;es    seja igual a zero (<font face="Symbol">t</font><I><SUB>x</sub></I> = 0) ou (ii)    a elasticidade-pre&ccedil;o da demanda de exporta&ccedil;&otilde;es seja infinita    (<font face="Symbol">h</font><I><SUB>x</sub></I> = <font face="Symbol">&yen;</font>).    No entanto, o coeficiente de <I>pass-through</I> ser&aacute; igual a -1, e <I>o    pass-through</I>, portanto, ser&aacute; completo se: (iii) a elasticidade-pre&ccedil;o    da demanda de exporta&ccedil;&otilde;es for zero (<font face="Symbol">h</font><I><SUB>x</sub></I>    = 0), (iv) a elasticidade-pre&ccedil;o da oferta de exporta&ccedil;&otilde;es    for infinita (<font face="Symbol">t</font><I><SUB>x</sub></I> = <font face="Symbol">&yen;</font>).    Entre os casos extremos descritos, v&aacute;rias situa&ccedil;&otilde;es de    <I>pass-through</I> n&atilde;o–nulo, por&eacute;m incompleto, podem ocorrer.    </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Existem v&aacute;rios problemas associados &agrave;    medida do <I>pass-through</I> baseada unicamente nas elasticidades da oferta    e da demanda. Primeiro, essa abordagem n&atilde;o fornece qualquer informa&ccedil;&atilde;o    sobre o <I>timing </I>da resposta dos pre&ccedil;os &agrave;s mudan&ccedil;as    na taxa de c&acirc;mbio. Segundo, ignora o que est&aacute; por tr&aacute;s da    resposta das empresas exportadoras em diferentes pa&iacute;ses. A resposta das    empresas exportadoras depende de quest&otilde;es de organiza&ccedil;&atilde;o    industrial e de tecnologia da ind&uacute;stria sob estudo.<a name="tx04"></a><a href="#nt04"><sup>4</sup></a></font></p>     <p><font size="2" face="Verdana"><b><i>2.2. Recentes desenvolvimentos </i></b></font></p>     <p><font size="2" face="Verdana">A seguir s&atilde;o apresentados os mais recentes    desenvolvimentos que enfatizam: i) a estrutura de mercado e as caracter&iacute;sticas    dos produtos; ii) o papel da empresas multinacionais e do com&eacute;rcio intrafirma;    e iii) os efeitos das bareiras n&atilde;o-tarif&aacute;rias. </font></p>     <p><font size="2" face="Verdana"><i>2.2.1. Estrutura de mercado e caracter&iacute;sticas    dos produtos </i></font></p>     <p><font size="2" face="Verdana">As explica&ccedil;&otilde;es te&oacute;ricas    do <I>pass-through</I> incompleto t&ecirc;m enfatizado o papel da estrutura    de mercado, em primeiro lugar, e depois a diferencia&ccedil;&atilde;o do produto.    </font></p>     <p><font size="2" face="Verdana">Menon (1995, p.199-200) mostra que, assumindo    um mercado perfeitamente competitivo onde o produto importado e o domesticamente    produzido s&atilde;o substitutos perfeitos, a medida do <I>pass-through</I>    equivale a usar a abordagem das elasticidades apresentada anteriormente. Levantar    tais pressupostos implica diferentes medidas do <I>pass-through</I>. </font></p>     <p><font size="2" face="Verdana">Por exemplo, sob condi&ccedil;&otilde;es de concorr&ecirc;ncia    imperfeita, as regras de fixa&ccedil;&atilde;o de pre&ccedil;os n&atilde;o ser&atilde;o    mais feitas com base no custo marginal, e as firmas estar&atilde;o na posi&ccedil;&atilde;o    de fixar um <I>markup</I> sobre os custos. Nesse caso, &eacute; necess&aacute;rio    analisar como esse <I>markup</I> acima do custo marginal varia em resposta a    uma mudan&ccedil;a na taxa de c&acirc;mbio. A literatura tem proposto dois fatores.    O primeiro relaciona-se com o grau de substitui&ccedil;&atilde;o entre o bem    importado e o bem dom&eacute;stico, como determinado pelo grau de diferencia&ccedil;&atilde;o    do produto. O segundo, com o grau de integra&ccedil;&atilde;o ou separa&ccedil;&atilde;o    do mercado. Ambos os fatores determinam o poder de fixa&ccedil;&atilde;o de    pre&ccedil;os das empresas, e afetam suas decis&otilde;es de resposta face &agrave;s    mudan&ccedil;as na taxa de c&acirc;mbio. Quanto menor for o grau de substitui&ccedil;&atilde;o    entre esses bens e quanto menor for o grau de integra&ccedil;&atilde;o de mercado,    maior ser&aacute; o poder de mercado dos vendedores. </font></p>     <p><font size="2" face="Verdana">Por exemplo, Dornbusch (1987) desenvolve um modelo    de concorr&ecirc;ncia em c&iacute;rculo para capturar o efeito da substitui&ccedil;&atilde;o    imperfeita e da diferencia&ccedil;&atilde;o do produto sobre a resposta dos    pre&ccedil;os face a uma mudan&ccedil;a na taxa de c&acirc;mbio. Ele conclui    que o grau de <I>pass-through</I> est&aacute; diretamente relacionado ao grau    de substitui&ccedil;&atilde;o entre o bem dom&eacute;stico e o bem importado.    Fischer (1989) considera o caso no qual as firmas s&atilde;o concorrentes do    tipo Bertrand e as empresas estrangeiras produzem para o mercado dom&eacute;stico    e o estrangeiro, mas n&atilde;o praticam discrimina&ccedil;&atilde;o de pre&ccedil;os.    Ele mostra que se os mercados s&atilde;o segmentados, de forma que a arbitragem    &eacute; limitada, uma aprecia&ccedil;&atilde;o levar&aacute; a um maior <I>pass-through</I>    se o mercado dom&eacute;stico for monopol&iacute;stico em rela&ccedil;&atilde;o    ao mercado externo.<a name="tx05"></a><a href="#nt05"><sup>5</sup></a> Usualmente,    os bens manufaturados s&atilde;o vistos como altamente diferenciados e freq&uuml;entemente    vendidos em mercados imperfeitamente competitivos e segmentados, nos quais a    arbitragem &eacute; custosa e normalmente gera preju&iacute;zo. A evid&ecirc;ncia    emp&iacute;rica confirma essa hip&oacute;tese.<a name="tx06"></a><a href="#nt06"><sup>6</sup></a>    Outra linha de pesquisa iniciada com os estudos de Baldwin (1988), Dixit (1989)    e Krugman (1989) desenvolve modelos de histerese de fixa&ccedil;&atilde;o de    pre&ccedil;os. Essa linha baseia-se na no&ccedil;&atilde;o de <I>sunk costs</I>    irrecuper&aacute;veis associados &agrave;s decis&otilde;es de entrada e sa&iacute;da    nos mercados mundiais. Existem custos afundados de entrar em um mercado que    as firmas n&atilde;o podem recuperar quando elas o deixam. O efeito de histerese    sugere que a concorr&ecirc;ncia no mercado permanecer&aacute; invari&aacute;vel,    na medida em que as mudan&ccedil;as da taxa de c&acirc;mbio flutuem dentro de    uma banda e que essa banda seja maior do que os custos associados com a entrada    e sa&iacute;da. Isso resultar&aacute; em um menor grau de <I>pass-through</I>,    uma vez que as empresas lutaram para entrar no mercado ou preferiram permanecer    nele. </font></p>     <p><font size="2" face="Verdana"><i>2.2.2. Empresas multinacionais e com&eacute;rcio    intra-ind&uacute;stria </i></font></p>     <p><font size="2" face="Verdana">A grande instabilidade presente nos mercados    cambiais e, em particular, os grandes movimentos cambiais que caracterizam os    regimes de taxas de c&acirc;mbio flutuantes t&ecirc;m induzido as empresas multinacionais    a empregar ativamente pol&iacute;ticas de fixa&ccedil;&atilde;o de pre&ccedil;os    que impe&ccedil;am, ou ao menos reduzam, a transmiss&atilde;o completa das mudan&ccedil;as    na taxa de c&acirc;mbio para os pre&ccedil;os de venda em mercados individuais.    Essa pr&aacute;tica tem facilitado a estabiliza&ccedil;&atilde;o dos pre&ccedil;os    nos mercados dom&eacute;sticos, e permitido que as subsidi&aacute;rias das empresas    multinacionais evitem as perdas significativas das parcelas de mercado que se    seguem &agrave;s grandes deprecia&ccedil;&otilde;es cambiais. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><i>2.2.3. Barreiras n&atilde;o-tarif&aacute;rias    </i></font></p>     <p><font size="2" face="Verdana">O papel das barreiras n&atilde;o-tarif&aacute;rias    na determina&ccedil;&atilde;o do grau do <I>pass-through</I> tamb&eacute;m tem    sido levantado. Mostra-se, por exemplo, que deprecia&ccedil;&otilde;es da taxa    de c&acirc;mbio na presen&ccedil;a de restri&ccedil;&otilde;es &agrave;s importa&ccedil;&otilde;es    geralmente reduzem primeiro o <I>markup</I> do importador, absorvendo, portanto,    muito do seu impacto antes que a deprecia&ccedil;&atilde;o seja refletida nos    pre&ccedil;os. Somente quando a deprecia&ccedil;&atilde;o &eacute; suficientemente    grande para empurrar os pre&ccedil;os at&eacute; o ponto no qual as restri&ccedil;&otilde;es    quantitativas n&atilde;o cumprem mais seu papel restritivo &eacute; que se observar&aacute;    algum grau de <I>pass-through</I>. </font></p>     <p><font size="2" face="Verdana"><b><i>2.3. Alguns problemas relativos &agrave;    agrega&ccedil;&atilde;o e ao pass-through vari&aacute;vel no tempo. </i></b></font></p>     <p><font size="2" face="Verdana">A seguir, s&atilde;o apresentados alguns problemas    que podem surgir na an&aacute;lise do <I>pass-through</I>. Alguns estudos sugerem    que, ap&oacute;s um movimento da taxa de c&acirc;mbio, pode ocorrer uma ampla    gama de resultados relacionados &agrave; ind&uacute;stria. As diferentes ind&uacute;strias    agregam-se na economia completa, mas essa agrega&ccedil;&atilde;o levanta dificuldades.    Entre outras cr&iacute;ticas aos estudos que usam &iacute;ndices de pre&ccedil;os    agregados para o <I>pass-through, </I>podem ser assinaladas: (i) erros de medida;    (ii) mudan&ccedil;as na composi&ccedil;&atilde;o dos bens; (iii) efeitos de    terceiros pa&iacute;ses; e (iv) problema da simultaneidade.<a name="tx07"></a><a href="#nt07"><sup>7</sup></a>    Portanto, espera-se que exista varia&ccedil;&atilde;o no que concerne &agrave;s    ind&uacute;strias no grau de <I>pass-through</I>. </font></p>     <p><font size="2" face="Verdana">Em adi&ccedil;&atilde;o &agrave; agrega&ccedil;&atilde;o,    existem outras raz&otilde;es para esperar uma varia&ccedil;&atilde;o ao longo    do tempo nos par&acirc;metros da rela&ccedil;&atilde;o do <I>pass-through</I>. Nos &uacute;ltimos anos, muitos pa&iacute;ses deixaram de usar regimes de    taxa de c&acirc;mbio fixa ou semi-fixa e passaram a usar c&acirc;mbio flutuante.    Adicionalmente, ocorreram mudan&ccedil;as no ambiente inflacion&aacute;rio de    diferentes pa&iacute;ses. Espera-se que esses fatores mudem a magnitude do <I>pass-through</I>.    </font></p>     <p><font size="2" face="Verdana">Uma quest&atilde;o crucial &eacute; a din&acirc;mica    em sua rela&ccedil;&atilde;o com o horizonte temporal do <I>pass-through</I>    da taxa de c&acirc;mbio. A maior parte da pesquisa est&aacute; concentrada no    efeito dos pre&ccedil;os sobre um horizonte relativamente curto. Dois pontos,    por&eacute;m, devem ser comentados. </font></p>     <p><font size="2" face="Verdana">Primeiro, o <I>pass-through</I> das mudan&ccedil;as    da taxa de c&acirc;mbio depende de a mudan&ccedil;a ser percebida como transit&oacute;ria    ou permanente. Um choque transit&oacute;rio de taxa de c&acirc;mbio ter&aacute;    pouco ou nenhum efeito sobre os pre&ccedil;os. Mudan&ccedil;as futuras na taxa    de c&acirc;mbio s&atilde;o determinantes cruciais do <I>pass-through</I> da    taxa de c&acirc;mbio e fornecem um simples modelo em que o coeficiente de <I>pass-through</I>    varia ao longo do tempo, isto &eacute;, &eacute; uma fun&ccedil;&atilde;o da    taxa de c&acirc;mbio futura esperada. Segundo, a quest&atilde;o de se a taxa    de c&acirc;mbio real flutua ou n&atilde;o &eacute; de fundamental import&acirc;ncia    aqui. Desvios da Paridade do Poder de Compra (PPP) podem ser explicados parcialmente    por <I>pass-through</I> imperfeito e <I>pricing to market</I>. Inversamente,    um<I> pass-through</I> perfeito para os pre&ccedil;os dos consumidores implicaria    uma taxa de c&acirc;mbio real constante. No entanto, as taxas de c&acirc;mbio    podem mudar de um segundo para outro, enquanto os pre&ccedil;os dos produtos    mudam menos freq&uuml;entemente, o que significa que a taxa de c&acirc;mbio    real n&atilde;o pode ser constante. Ao inv&eacute;s disso, a n&atilde;o-flutua&ccedil;&atilde;o    da taxa de c&acirc;mbio real poderia implicar <I>pass-through</I> completo.    </font></p>     <p><font size="2" face="Verdana"><b><i>2.4. O pass-through para os pre&ccedil;os    das exporta&ccedil;&otilde;es </i></b></font></p>     <p><font size="2" face="Verdana">Muitos trabalhos que tentam medir o <I>pass-through</I>    utilizam um modelo de <I>markup</I>. A seguir, apresentamos o modelo desenvolvido    por Ferreira (2000)<a name="tx08"></a><a href="#nt08"><sup>8</sup></a>. Ele    assume que os exportadores estabelecem o pre&ccedil;o das exporta&ccedil;&otilde;es    na moeda estrangeira (<img src="/img/revistas/resr/v46n1/a08img02.gif" align="absbottom">)    como um <I>markup</I> (<font face="Symbol">l</font>) acima de seu custo de produ&ccedil;&atilde;o    na moeda estrangeira (<I>CP</I>/<I>E</I>) da seguinte forma: </font></p>     <p align="center"> <img src="/img/revistas/resr/v46n1/a08frm06.gif"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">onde <I>CP =</I> custo de produ&ccedil;&atilde;o    na moeda dom&eacute;stica; <I>E</I> = taxa de c&acirc;mbio nominal; e <font face="Symbol">l</font>    = <I>markup</I>. Assume-se que o <I>markup</I> pode variar de acordo com a press&atilde;o    competitiva no mercado mundial. Usa-se como <I>proxy</I> da press&atilde;o competitiva    o <I>gap</I> entre o pre&ccedil;o das exporta&ccedil;&otilde;es mundiais (<I>P<SUB>w</sub></I>)    e o custo de produ&ccedil;&atilde;o do exportador, medido na moeda estrangeira    (<I>CP</I> / <I>E</I>), isto &eacute;: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm07.gif"></p>     <p><font size="2" face="Verdana">Combinando as Equa&ccedil;&otilde;es (6) e (7),    ent&atilde;o, obt&eacute;m-se:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm08.gif"></p>     <p><font size="2" face="Verdana">Postulando uma vers&atilde;o n&atilde;o restrita    da Equa&ccedil;&atilde;o (8), na qual n&atilde;o se exija que a soma dos coeficientes    relativos a ln (<I>CP</I> / <I>E</I>) e ln <I>P<SUB>w</sub></I> seja igual a    1 e na qual se admita que os coeficientes relativos a ln (<I>CP</I> / <I>E</I>)    e ln <I>P<SUB>w</sub></I> difiram em sinal e magnitude, ou seja: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm09.gif"></p>     <p> <font size="2" face="Verdana">O coeficiente de <I>pass-through</I> &eacute;    medido pelo par&acirc;metro <font face="Symbol">f</font><SUB>2</SUB>. Quando    <font face="Symbol">f</font><SUB>2</SUB> = 0, o <I>pass-throug</I> &eacute;    <B>nulo</B> e a taxa de c&acirc;mbio n&atilde;o tem qualquer influ&ecirc;ncia    sobre o pre&ccedil;o em moeda estrangeira dos bens exportados; portanto, mudan&ccedil;as    cambiais afetam apenas as margens de lucro dos exportadores, sem ter impacto    sobre a " competitividade"  das exporta&ccedil;&otilde;es nacionais.    Quando <font face="Symbol">f</font><SUB>2</SUB> = -1, o <I>pass-through</I>    &eacute; <B>completo</B>, e quaisquer mudan&ccedil;as na taxa de c&acirc;mbio    s&atilde;o transmitidas integralmente para o pre&ccedil;o em moeda estrangeira    dos produtos exportados, afetando, assim, a competitividade da produ&ccedil;&atilde;o    dom&eacute;stica no mercado mundial. Obviamente, para valores -1 &lt; <font face="Symbol">f</font><SUB>2</SUB>    &lt; 0, o <I>pass-through</I> ser&aacute; <B>incompleto</B>. A rela&ccedil;&atilde;o    de <I>pass-through</I> entre mudan&ccedil;as na taxa de c&acirc;mbio e pre&ccedil;os    dos bens exportados determina o grau de competitividade alcan&ccedil;ado a partir    de varia&ccedil;&otilde;es na taxa de c&acirc;mbio. A efic&aacute;cia da taxa    de c&acirc;mbio, como instrumento de pol&iacute;tica em programas de promo&ccedil;&atilde;o    de exporta&ccedil;&otilde;es e ajustamento da conta corrente do balan&ccedil;o    de pagamento, depende, portanto, do coeficiente de <I>pass-through</I>.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><b>3. Estudos emp&iacute;ricos </b></font></p>     <p><font size="2" face="Verdana">De acordo com a literatura econ&ocirc;mica sobre    o <I>pass-through</I> da taxa de c&acirc;mbio, os estudos emp&iacute;ricos analisam    os efeitos das mudan&ccedil;as das taxas de c&acirc;mbio sobre um dos seguintes    itens: (1) pre&ccedil;os aos consumidores;<a name="tx09"></a><a href="#nt09"><sup>9</sup></a>    (2) investimentos;<a name="tx10"></a><a href="#nt10"><sup>10</sup></a> (3) volumes    de com&eacute;rcio e (4) pre&ccedil;os das importa&ccedil;&otilde;es<a name="tx11"></a><a href="#nt11"><sup>11</sup></a>    e das exporta&ccedil;&otilde;es. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A seguir, revisamos os principais estudos sobre    o <I>pass-through</I> da taxa de c&acirc;mbio para os pre&ccedil;os das exporta&ccedil;&otilde;es.    Dwyer et al. (1993) t&ecirc;m estimado a din&acirc;mica do <I>pass-through</I>    da taxa de c&acirc;mbio para os pre&ccedil;os das importa&ccedil;&otilde;es    e os produtos manufaturados exportados da Austr&aacute;lia. Os referidos autores    mostram que a longo-prazo, o <I>pass-through</I> &eacute; completo. No entanto,    existe um padr&atilde;o muito defasado de resposta, ao longo do tempo, &agrave;s    mudan&ccedil;as na taxa de c&acirc;mbio. </font></p>     <p><font size="2" face="Verdana">Wang e Wu (1996) investigaram o <I>pass-through</I>    em uma ind&uacute;stria exportadora especial, a ind&uacute;stria petroqu&iacute;mica    de Taiwan. Tal ind&uacute;stria &eacute; caracterizada por um alto poder monop&oacute;lico    e fraca concorr&ecirc;ncia nos pa&iacute;ses de destino de suas exporta&ccedil;&otilde;es.    Eles mostram que nem todas as ind&uacute;strias de Taiwan respondem da mesma    forma &agrave;s mudan&ccedil;as da taxa de c&acirc;mbio. </font></p>     <p><font size="2" face="Verdana">Goldberg e Knetter (1997) sugerem que o <I>pass-through</I>    da taxa de c&acirc;mbio deve-se &agrave; discrimina&ccedil;&atilde;o de pre&ccedil;os    de terceiro grau. Assim, enquanto a dist&acirc;ncia &eacute; um fator importante    para a segmenta&ccedil;&atilde;o do mercado, as fronteiras t&ecirc;m efeitos    independentes. No entanto, a fonte desse efeito fronteira ainda n&atilde;o foi    identificada. </font></p>     <p><font size="2" face="Verdana">Existe relativamente pouco trabalho emp&iacute;rico    sobre o Brasil, no caso do <I>pass-through</I> das mudan&ccedil;as da taxa de    c&acirc;mbio para os pre&ccedil;os das exporta&ccedil;&otilde;es. Os principais    trabalhos s&atilde;o os de Ferreira e Sanso (1999), Kannebley (2000) e Ferreira    (2000). </font></p>     <p><font size="2" face="Verdana">Ferreira e Sanso (1999) analisaram o <I>pass-through</I>    da taxa de c&acirc;mbio para as exporta&ccedil;&otilde;es brasileiras de produtos    manufaturados, no per&iacute;odo 1978:3 a1996:4. As estimativas do coeficiente    do <I>pass-through</I>, derivadas usando testes de co-integra&ccedil;&atilde;o    baseados nos procedimentos de Engle-Granger, Shin e Johansen, e diferentes especifica&ccedil;&otilde;es    do modelo, ficam num intervalo relativamente estreito de 10% a 27%. </font></p>     <p><font size="2" face="Verdana">Kannebley (2000) realizou um estudo sobre o <I>pass-through</I>    da taxa de c&acirc;mbio para as exporta&ccedil;&otilde;es brasileiras no per&iacute;odo    1984 a 1997. Para tanto, usou uma an&aacute;lise de s&eacute;ries de tempo combinada    &agrave; estima&ccedil;&atilde;o de modelos lineares seguindo uma metodologia    de modelagem econom&eacute;trica <I>geral-to-specific</I>. Seus resultados apontam    para a exist&ecirc;ncia de um grau de <I>pass-through</I> nulo ou incompleto    para os nove setores analisados (Extrativa Mineral; Siderurgia; Metais n&atilde;o-ferrosos;    M&aacute;quinas e Tratores; Ve&iacute;culos Automotores; Pe&ccedil;as e outros    Ve&iacute;culos; Madeira e Mobili&aacute;rio; Celulose, Papel e Gr&aacute;fica    e &Oacute;leos Vegetais). </font></p>     <p><font size="2" face="Verdana">Ferreira (2000), usando a equa&ccedil;&atilde;o    (10) e a an&aacute;lise de co-integra&ccedil;&atilde;o, estimou um coeficiente    de <I>pass-through</I> relativamente baixo, <font face="Symbol">f</font><SUB>2    </SUB>= 0,27, isto &eacute;, 27%. Isso reflete o fato de que pa&iacute;ses como    o Brasil t&ecirc;m pouco controle sobre os pre&ccedil;os pelos quais efetuam    vendas nos mercados externos. A implica&ccedil;&atilde;o &eacute; que mudan&ccedil;as    na taxa de c&acirc;mbio podem ter pouca relev&acirc;ncia na determina&ccedil;&atilde;o    dos pre&ccedil;os de suas exporta&ccedil;&otilde;es naqueles mercados, isto    &eacute;, o coeficiente de <I>pass-through</I> pode ser pr&oacute;ximo a 0.    Tamb&eacute;m implica que a desvaloriza&ccedil;&atilde;o da taxa de c&acirc;mbio    tenha efeito limitado sobre a demanda de exporta&ccedil;&otilde;es. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><b>4. Estima&ccedil;&atilde;o do modelo e an&aacute;lise    de resultados </b></font></p>     <p><font size="2" face="Verdana">Os setores analisados, assim como suas respectivas    participa&ccedil;&otilde;es na pauta de exporta&ccedil;&otilde;es no ano de    2004, s&atilde;o: Pe&ccedil;as e Outros Ve&iacute;culos - PEOV (10,29%), Siderurgia    - SID (7,11%), Extrativa Mineral (8,41%), M&aacute;quinas e Tratores - MAQ (5,33%),    Ve&iacute;culos Automotores - VAUT (5,05%), &Oacute;leos Vegetais - OVEG (4,96%),    Refino de Petr&oacute;leo - PET (4,55%), Madeira e Mobili&aacute;rio - MAD (4,14%),    Beneficiamento de Produtos Vegetais - BVEG (3,22%), Metalurgia de N&atilde;o-ferrosos    - MNF (3,16%), Celulose Papel e Gr&aacute;fica - PAP (3,06%), Material El&eacute;trico    - ELET (2,34%), Elementos Qu&iacute;micos - QUIM (2,15%), e Equipamentos Eletr&ocirc;nicos    - EQP (2,10%). Esses setores juntos representaram 65,86% das exporta&ccedil;&otilde;es    totais brasileiras, no ano de 2004. Para prop&oacute;sitos de compara&ccedil;&atilde;o,    foram analisadas tamb&eacute;m as exporta&ccedil;&otilde;es totais. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Como discutido na parte te&oacute;rica deste    artigo, existe a possibilidade de que o coeficiente de <I>pass-through</I> seja    vari&aacute;vel no tempo, portanto estima-se a Equa&ccedil;&atilde;o (9), permitindo    que tal coeficiente possua tal comportamento. Assim, a Equa&ccedil;&atilde;o    (9) passa a ter a seguinte forma<a name="tx12"></a><a href="#nt12"><sup>12</sup></a>:</font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm10.gif"></p>     <p><font size="2" face="Verdana">onde <font face="Symbol">f</font><I><SUB>t</sub></I>    &eacute; o coeficiente de <I>pass-through</I> vari&aacute;vel no tempo e <img src="/img/revistas/resr/v46n1/a08img02.gif" align="absbottom">    = pre&ccedil;o das exporta&ccedil;&otilde;es em moeda estrangeira (medido pela    s&eacute;rie dos pre&ccedil;os de exporta&ccedil;&atilde;o de cada um dos setores    analisados); <I>CP</I> = custo de produ&ccedil;&atilde;o na moeda dom&eacute;stica    (medido pelo &Iacute;ndice de Pre&ccedil;os por Atacado - Disponibilidade Interna    da FGV); <I>E</I> = taxa de c&acirc;mbio nominal (medida pela taxa de c&acirc;mbio    nominal real/d&oacute;lar) e <I>P<SUB>w</SUB> </I>= pre&ccedil;o das exporta&ccedil;&otilde;es    mundiais. Todas as s&eacute;ries de dados foram obtidas por meio do Ipeadata.    </font></p>     <p><font size="2" face="Verdana">Tamb&eacute;m assume-se que <font face="Symbol">f</font><I><SUB>t    </sub></I>segue um passeio aleat&oacute;rio sem <I>drift</I>: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08frm11.gif"></p>     <p><font size="2" face="Verdana">onde <I>v<SUB>t</sub></I> &eacute; um ru&iacute;do    branco. Na Equa&ccedil;&atilde;o (11), o processo &eacute; n&atilde;o estacion&aacute;rio    e permite, assim, acomodar mudan&ccedil;as fundamentais na estrutura (ver Harvey,    1981, p. 204). Obviamente, poderia se utilizar uma evolu&ccedil;&atilde;o din&acirc;mica    mais complexa de <font face="Symbol">f</font><I><SUB>t</sub></I>, no entanto,    na aus&ecirc;ncia de estimativas <I>a priori</I>, esse modelo mostra ser um    bom ponto de partida. </font></p>     <p><font size="2" face="Verdana">O sistema de Equa&ccedil;&otilde;es (10) e(11)    toma a forma de um modelo espa&ccedil;o-estado. Para a estima&ccedil;&atilde;o,    utiliza-se o filtro de Kalman. Embora existam outros m&eacute;todos para estimar    modelos com par&acirc;metros vari&aacute;veis no tempo, justifica-se a escolha    do filtro de Kalman por ser superior para a estima&ccedil;&atilde;o de tais    modelos.<a name="tx13"></a><a href="#nt13"><sup>13</sup></a> A aplica&ccedil;&atilde;o    do filtro de Kalman gera duas s&eacute;ries de estimativas dos coeficientes    vari&aacute;veis no tempo. A primeira, chamada de <I>filtrada</I>, origina-se    da estima&ccedil;&atilde;o recursiva do modelo, usando dados que est&atilde;o    somente dispon&iacute;veis at&eacute; o per&iacute;odo corrente; em cada per&iacute;odo,    o filtro usa a nova informa&ccedil;&atilde;o para revisar suas estimativas dos    par&acirc;metros do modelo e as estimativas dos coeficientes vari&aacute;veis    no tempo. A segunda, chamada de <I>suavizada</I>, usa os dados da amostra completa    para estimar a s&eacute;rie temporal dos coeficientes vari&aacute;veis no tempo,    o que permite avaliar de forma retrospectiva se as estimativas recursivas (filtradas)    produzem uma trajet&oacute;ria diferente dos coeficientes vari&aacute;veis no    tempo, quando se usa a amostra completa (toda a informa&ccedil;&atilde;o). </font></p>     <p><font size="2" face="Verdana">O sistema de Equa&ccedil;&otilde;es (10) e(11)    foi estimado usando dados trimestrais no per&iacute;odo 1980.1 a 2004.1. Todas    as vari&aacute;veis passaram por um processo de ajuste sazonal. Na <a href="#taba">Tabela    A</a> do Ap&ecirc;ndice, s&atilde;o mostrados os resultados das estima&ccedil;&otilde;es    da Equa&ccedil;&atilde;o (10) para os setores analisados. Em todas as equa&ccedil;&otilde;es    as vari&aacute;veis encontram-se em logaritmo. S&atilde;o mostrados os melhores    resultados obtidos para cada um dos setores. Pode-se observar que em todas as    equa&ccedil;&otilde;es estimadas, os coeficientes fixos possuem os sinais esperados    e s&atilde;o estatisticamente significativos em um n&iacute;vel de confian&ccedil;a    de 5%. A seguir, mostram-se as trajet&oacute;rias temporais de cada um dos coeficientes    vari&aacute;veis no tempo, estimados para cada setor e para as exporta&ccedil;&otilde;es    totais. </font></p>     <p><font size="2" face="Verdana">O <a href="#grf01">Gr&aacute;fico 1</a> mostra    o coeficiente estimado vari&aacute;vel no tempo de <I>pass-through</I> da taxa    de c&acirc;mbio para as exporta&ccedil;&otilde;es totais brasileiras (o coeficiente    de <I>pass-through</I> &eacute; chamado PT_SM, em todas as figuras apresentadas    de agora em diante). Como uma estimativa mais precisa do coeficiente de <I>pass-through</I>    &eacute; dada pela s&eacute;rie <I>suavizada</I>, uma vez que usa toda a informa&ccedil;&atilde;o    dispon&iacute;vel, apenas mostramos a trajet&oacute;ria temporal da s&eacute;rie    <I>suavizada</I>. Como era esperado, o sinal &eacute; negativo ao longo de todo    o per&iacute;odo. Observa-se que o <I>pass-through</I> se mant&eacute;m em torno    de 18% at&eacute; 1991. Ap&oacute;s 1991, o <I>pass-through</I> aumenta at&eacute;    atingir 22% no in&iacute;cio de 1993. Ap&oacute;s esse per&iacute;odo, reduz-se    bastante at&eacute; o final de 1998, quando atinge 13%. Ap&oacute;s 1999, h&aacute;    um aumento no <I>pass-through</I> que passa a oscilar em torno de 17%. Para    compara&ccedil;&atilde;o, pode-se mencionar que o coeficiente de <I>pass-through</I>    - estimado como um par&acirc;metro fixo - encontrado por Ferreira (2000) para    as exporta&ccedil;&otilde;es totais foi de 27%. </font></p>     <p><a name="grf01"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf01.gif"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">S&atilde;o mostrados tamb&eacute;m os intervalos    de confian&ccedil;a das estimativas (linhas cinzas tracejadas). </font></p>     <p><font size="2" face="Verdana">Os Gr&aacute;ficos 2 a 15 exp&otilde;em os coeficientes    estimados vari&aacute;veis no tempo do <I>pass-through</I> da taxa de c&acirc;mbio    para os pre&ccedil;os das exporta&ccedil;&otilde;es dos setores. Em todos os    casos, como era esperado teoricamente, o sinal &eacute; negativo, ao longo de    todo o per&iacute;odo. No entanto, observam-se diferen&ccedil;as de setor a    setor. </font></p>     <p><a name="grf02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf02.gif"></p>     <p>&nbsp;</p>     <p><a name="grf03"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf03.gif"></p>     <p>&nbsp;</p>     <p><a name="grf04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf04.gif"></p>     <p>&nbsp;</p>     <p><a name="grf05"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf05.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="grf06"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf06.gif"></p>     <p>&nbsp;</p>     <p><a name="grf07"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf07.gif"></p>     <p>&nbsp;</p>     <p><a name="grf08"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf08.gif"></p>     <p>&nbsp;</p>     <p><a name="grf09"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf09.gif"></p>     <p>&nbsp;</p>     <p><a name="grf10"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf10.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="grf11"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf11.gif"></p>     <p>&nbsp;</p>     <p><a name="grf12"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf12.gif"></p>     <p>&nbsp;</p>     <p><a name="grf13"></a></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf13.gif"></p>     <p>&nbsp;</p>     <p><a name="grf14"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf14.gif"></p>     <p>&nbsp;</p>     <p><a name="grf15"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08grf15.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana">No caso dos setores <I>Madeira</I> e <I>Mobili&aacute;rios</I>    (Gr&aacute;fico 8) e <I>Equipamentos e Eletr&ocirc;nicos</I> (Gr&aacute;fico    11), h&aacute; uma clara tend&ecirc;ncia de redu&ccedil;&atilde;o do coeficiente    de <I>pass-through</I>, ao longo do per&iacute;odo. Comparando as m&eacute;dias    das estimativas por sub-per&iacute;odos, pode-se observar que ela diminui, passando    de -0,20, no per&iacute;odo 1980.1 a 1994.2, para -0,16, no per&iacute;odo 1991./2004.1    (ver <a href="#tabb">Tabela B</a> do Ap&ecirc;ndice), no caso do setor de <I>Madeira</I>    e <I>Mobili&aacute;rios</I>, e de -0,19 para -0,14, nos mesmos subper&iacute;odos,    no caso do setor <I>Equipamentos e Eletr&ocirc;nicos</I>.</font></p>     <p><font size="2" face="Verdana">No caso dos setores <I>Celulose, Papel e Gr&aacute;fica</I>    (Gr&aacute;fico 2), <I>Metalurgia N&atilde;o-ferrosos</I> (Gr&aacute;fico 10)    e <I>Beneficiamento de Produtos Vegetais</I> (Gr&aacute;fico 13), h&aacute;    uma clara tend&ecirc;ncia de aumento do coeficiente de <I>pass-through</I> ao    longo do per&iacute;odo. Comparando as m&eacute;dias das estimativas por sub-per&iacute;odos,    pode-se observar que ela aumenta de -0,22, no per&iacute;odo 1980.1 a 1994.2,    para -0,27, no per&iacute;odo 1991 a 2004.1 (ver <a href="#tabb">Tabela B</a>    do Ap&ecirc;ndice); no caso do setor de <I>Celulose, Papel e Gr&aacute;fica</I>,    e de -0,27 para -0,32, nos mesmos sub-per&iacute;odos, no caso do setor <I>Beneficiamento    de Produtos Vegetais</I>.</font></p>     <p><font size="2" face="Verdana">No caso dos setores <I>Ve&iacute;culos Automotores</I>    (Gr&aacute;fico 14) e Siderurgia (Gr&aacute;fico 15), as estimativas do coeficiente    de <I>pass-through</I> s&atilde;o praticamente constantes ao longo do per&iacute;odo.    Nos demais setores existe alguma variabilidade nas estimativas dos coeficientes    de <I>pass-through</I>, mas n&atilde;o h&aacute; um padr&atilde;o definido.    </font></p>     <p><font size="2" face="Verdana">Outro resultado importante &eacute; que os coeficientes    estimados s&atilde;o relativamente baixos. Pode-se observar na <a href="#tabb">Tabela    B</a> do Ap&ecirc;ndice, considerando-se todos os setores, que o menor coeficiente    m&eacute;dio obtido foi de -0,14 e o m&aacute;ximo foi de -0,34. </font></p>     <p><font size="2" face="Verdana">&Eacute; importante destacar algumas das explica&ccedil;&otilde;es    para esses baixos coeficientes. A primeira, segundo Lopes (1988) e Pereira &amp;    Carvalho (2000), est&aacute; relacionada ao desmonte dos mecanismos de indexa&ccedil;&atilde;o    na economia brasileira pois, na presen&ccedil;a desses, qualquer varia&ccedil;&atilde;o    de pre&ccedil;os relativos poderia significar uma mudan&ccedil;a direta nos    pre&ccedil;os finais da economia. Assim, a desindexa&ccedil;&atilde;o da economia    brasileira, a partir do Plano Real em julho de 1994, mudou significativamente    a din&acirc;mica entre pre&ccedil;o e c&acirc;mbio. Tal fato pode justificar    ainda a redu&ccedil;&atilde;o do <I>pass-through</I>, no caso das exporta&ccedil;&otilde;es    totais a partir de 1994. </font></p>     <p><font size="2" face="Verdana">Al&eacute;m disso, como mostra Schwartz (1999),    a m&eacute;dia europ&eacute;ia desses repasses no ano de 1992 era de 4,5%, contra    uma m&eacute;dia brasileira em 1999 de 9,6%, e contra uma m&eacute;dia latino-americana    de 25,1% nos anos 90. Neste &uacute;ltimo caso, tratava-se de economias altamente    indexadas.</font></p>     <p><font size="2" face="Verdana">Outro aspecto de fundamental import&acirc;ncia    na explica&ccedil;&atilde;o do <I>pass-through</I> das varia&ccedil;&otilde;es    cambiais para os pre&ccedil;os &eacute; a quest&atilde;o dos custos industriais,    significando que quanto maior o componente de insumos importados, maiores os    efeitos compensadores, de forma que os resultados n&atilde;o sejam potencializados    nos pre&ccedil;os dos bens finais. Britto (2003), a partir de uma an&aacute;lise    de insumo produto, mostrou que, no per&iacute;odo de 1990 a 1996, al&eacute;m    de setores importantes da ind&uacute;stria brasileira - como qu&iacute;micos    diversos, farmac&ecirc;utico, metal&uacute;rgico, entre outros - apresentarem    alto grau de conte&uacute;do importado em 1990, apenas os setores refino de    petr&oacute;leo e petroqu&iacute;mica e elementos qu&iacute;micos n&atilde;o    petroqu&iacute;micos apresentaram coeficiente de conte&uacute;do importado decrescente,    ao longo do per&iacute;odo. Os setores ve&iacute;culos, pe&ccedil;as e acess&oacute;rios,    beneficiamento de produtos vegetais e fumo, minerais n&atilde;o met&aacute;licos,    outros metal&uacute;rgicos e abate e prepara&ccedil;&atilde;o de carnes, apresentaram    coeficiente est&aacute;vel. Todos os demais apresentaram um coeficiente crescente    de conte&uacute;do importado. Isso comprometeu os saldos comerciais setoriais    e, em muitos casos, tornaram-nos negativos. Al&eacute;m disso - e principalmente    no caso das desvaloriza&ccedil;&otilde;es cambiais, se o peso dos insumos importados    &eacute; relevante, isso contamina os custos dos demais setores industriais    internos demandantes de insumos. Obviamente, tal mecanismo dificulta a utiliza&ccedil;&atilde;o    de ganhos cambiais como mecanismos de conquista de competitividade das exporta&ccedil;&otilde;es.</font></p>     <p><font size="2" face="Verdana">T&atilde;o importante quanto os dois efeitos    descritos &eacute; o comportamento dos <I>markups</I> em per&iacute;odos de    mudan&ccedil;as cambiais. O movimento esperado ocorre no sentido de que se apenas    um percentual – considerado baixo, como mostrado acima e tamb&eacute;m pela    literatura – das varia&ccedil;&otilde;es cambiais &eacute; repassado para os    pre&ccedil;os finais, os <I>markups</I> dos exportadores devem crescer. Essa    &eacute; a conclus&atilde;o a que chega Ferreira (2000), tamb&eacute;m compartilhada    por Kannebley Jr. (2000). Entretanto, esses autores n&atilde;o levam em considera&ccedil;&atilde;o    os pre&ccedil;os dos insumos importados que, quanto mais elevados, tender&atilde;o    a inibir os efeitos das varia&ccedil;&otilde;es cambiais sobre os pre&ccedil;os,    de forma que as margens de lucros tenham um comportamento diverso do esperado.    Al&eacute;m disso, como a economia brasileira ainda &eacute; altamente dependente    de insumos importados, as elasticidades-renda das importa&ccedil;&otilde;es    tendem a ser maiores que as das exporta&ccedil;&otilde;es. Assim, em per&iacute;odo    de desvaloriza&ccedil;&otilde;es cambiais, os custos dos importados devem subir    significativamente, compensando os efeitos dos ganhos das desvaloriza&ccedil;&otilde;es    advindos dos <I>tradeables</I> exportados. Pereira e Carvalho (2000) mostram    que, no per&iacute;odo de setembro de 1998 a fevereiro e mar&ccedil;o de 1999,    os <I>markups</I> industriais reduziram em m&eacute;dia 6% e, at&eacute; novembro    de 1999 - aproximadamente um ano ap&oacute;s a mudan&ccedil;a cambial - n&atilde;o    tinham recuperado os n&iacute;veis de fevereiro/mar&ccedil;o de 1998 – cerca    de um ano antes da mudan&ccedil;a no regime. Ou seja, os aumentos potenciais    das margens de lucro em virtude da desvaloriza&ccedil;&atilde;o da taxa de c&acirc;mbio    podem ter sido compensados pelos aumentos de pre&ccedil;os dos insumos importados.    Da&iacute; a redu&ccedil;&atilde;o dos <I>markups</I> nesse per&iacute;odo.    </font></p>     <p><font size="2" face="Verdana">Assim, esses baixos coeficientes de <I>pass-through</I>    fazem com que as desvaloriza&ccedil;&otilde;es da taxa de c&acirc;mbio n&atilde;o    se traduzam em ganhos significativos de competitividade, uma vez que n&atilde;o    reduzem de maneira significativa os pre&ccedil;os das exporta&ccedil;&otilde;es    em d&oacute;lares - isso porque o Brasil apresenta pouco controle sobre os pre&ccedil;os    dos produtos exportados no mercado mundial. Dessa maneira, pol&iacute;ticas    que visam aumentar as exporta&ccedil;&otilde;es brasileiras via desvaloriza&ccedil;&otilde;es    da taxa de c&acirc;mbio podem n&atilde;o ser o melhor instrumento de fomento    &agrave;s exporta&ccedil;&otilde;es. No entanto, uma desvaloriza&ccedil;&atilde;o    pode ainda ter impacto sobre o volume das exporta&ccedil;&otilde;es por conta    de seu efeito sobre a oferta, uma vez que, com um coeficiente de <I>pass-through</I>    relativamente baixo, o pre&ccedil;o das exporta&ccedil;&otilde;es em moeda dom&eacute;stica    aumenta, permitindo uma eleva&ccedil;&atilde;o das margens de lucro das empresas    exportadoras e possibilitando um incremento da oferta de exporta&ccedil;&otilde;es.<a name="tx14"></a><a href="#nt14"><sup>14</sup></a></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="verdana"><b>5. Conclus&otilde;es </b></font></p>     <p><font size="2" face="Verdana">O objetivo deste artigo &eacute; analisar os    determinantes do <I>pass-through</I> das varia&ccedil;&otilde;es da taxa    de c&acirc;mbio para os pre&ccedil;os dos principais produtos exportados    pelo Brasil. Foram escolhidos para an&aacute;lise os seguintes setores: <I>Pe&ccedil;as    e outros Ve&iacute;culos; Siderurgia; Extrativa Mineral; M&aacute;quinas    e Tratores; Ve&iacute;culos Automotores; &Oacute;leos Vegetais; Refino de Petr&oacute;leo, Madeira e Mobili&aacute;rio; Beneficiamento    de Produtos Vegetais; Metalurgia de N&atilde;o-ferrosos; Celulose Papel e Gr&aacute;fica; Material El&eacute;trico; Elementos    Qu&iacute;micos</I> e <I>Equipamentos Eletr&ocirc;nicos</I>. Esses setores juntos    foram respons&aacute;veis por aproximadamente 65,86% das exporta&ccedil;&otilde;es    totais brasileiras, no ano 2004. Adicionalmente, para prop&oacute;sitos de compara&ccedil;&atilde;o,    analisaram-se tamb&eacute;m as <I>Exporta&ccedil;&otilde;es Totais</I>. </font></p>     <p><font size="2" face="Verdana">Mostrou-se que coeficientes estimados de forma    vari&aacute;vel no tempo de <I>pass-through</I> da taxa de c&acirc;mbio para    os pre&ccedil;os das exporta&ccedil;&otilde;es dos setores analisados, em todos    os casos, apresentaram sinal negativo ao longo de todo o per&iacute;odo pesquisado    — como era esperado teoricamente. </font></p>     <p><font size="2" face="Verdana">Observou-se tamb&eacute;m que os coeficientes    estimados s&atilde;o relativamente baixos. Em m&eacute;dia, para todos os setores,    o menor coeficiente m&eacute;dio obtido foi de -0,14 e o m&aacute;ximo foi de    -0,34. Esses baixos coeficientes de <I>pass-through</I> fazem com que as desvaloriza&ccedil;&otilde;es    da taxa de c&acirc;mbio n&atilde;o se traduzam em ganhos significativos de competitividade,    tendo em vista que n&atilde;o reduzem significativamente os pre&ccedil;os das    exporta&ccedil;&otilde;es em d&oacute;lares. Isso, por&eacute;m, n&atilde;o    implica necessariamente aumentos das margens de lucros dos exportadores, j&aacute;    que, se levarmos em considera&ccedil;&atilde;o os insumos importados, essas    margens podem at&eacute; decrescer. </font></p>     <p><font size="2" face="Verdana">O estudo pode ser ampliado utilizando dados mais    desagregados de setores espec&iacute;ficos, a fim de obter estimativas mais    precisas do coeficiente de <I>pass-through</I>. </font></p>     <p><font size="2" face="Verdana">Para concluir, devido &agrave; falta de controle    sobre o comportamento da taxa de c&acirc;mbio e os baixos coeficientes estimados    de <I>pass-through, </I>existe a necessidade de serem consideradas outras alternativas    e pol&iacute;ticas para o incremento das exporta&ccedil;&otilde;es do Brasil.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><b>6. Refer&ecirc;ncias bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana">BALDWIN, R. E. Hysteresis in import prices: the    beached effect. <B>American Economic Review,</B> v. 78, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003200800010000800001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BRITTO, G. Abertura comercial e coeficiente de    conte&uacute;do importado na ind&uacute;stria. In: LAPLANE, M. COUTINHO, L.    HIRATUKA, C. (Org.) <B>Internacionaliza&ccedil;&atilde;o e desenvolvimento da    ind&uacute;stria no Brasil</B>. S&atilde;o Paulo: Editora UNESP, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0103-2003200800010000800002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CAMPA, Jos&eacute;; GOLDBERG, Linda. <B>Investment,    pass-through, and exchange rates: a cross-country comparison</B>. Mimeografado,    1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0103-2003200800010000800003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">COUGHLIN, Cletus; POLLARD, Patricia. Exchange    rate pass-through in U.S. manufacturing: exchange rate index choice and asymmetry    issues. <B>Federal Reserve Bank of St. Louis Working Paper</B>, n. 2000-022A,    2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0103-2003200800010000800004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DARVAS, Zsolt. Exchange rate pass-through and    the real exchange rate in EU candidate countries. <B>Economic Research Centre    of the Deutsche Bank Discussion Paper</B>, n. 10/01, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003200800010000800005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DIXIT, Avinash. Hysteresis, import penetration    and exchange rate pass-through. <B>Quarterly Journal of Economics</B>, v. 104,    1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003200800010000800006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DORNBUSCH, Rudiger. Exchange rate and prices.    <B>American Economic Review</B>, v. 77, n. 1, 1987.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0103-2003200800010000800007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DWYER, Jacqueline; KENT, Christopher; PEASE,    Andrew. Exchange rate pass-through: the different responses of importers and    exporters. <B>Reserve Bank of Australia Research Discussion Paper</B>, n. 9304,    1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003200800010000800008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FERREIRA, Afonso; SANSO, Andreu. Exchange rate    pass-through: the case of brazilian exports of manufactures. In: <B>XII World    Congress of International Economics Association</B>, Buenos Aires, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0103-2003200800010000800009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FERREIRA, Afonso. <I>Pass-through</I> da taxa    de c&acirc;mbio: modelos te&oacute;ricos e evid&ecirc;ncias emp&iacute;ricas    para as exporta&ccedil;&otilde;es brasileiras de manufaturados. In FONTES, R.;    ARBEX, Marcelo (eds.) <B>Economia aberta: ensaios sobre fluxos de capitais,    c&acirc;mbio e exporta&ccedil;&otilde;es</B>. Vi&ccedil;osa: UFV, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0103-2003200800010000800010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FISCHER, Stanley. A model of exchange rate pass-through.    <B>Journal of International Economics,</B> v. 26, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S0103-2003200800010000800011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GOLDBERG, Pinelopi; KNETTER; Michael. Goods prices    and exchange rates: what have we learned? <B>Journal of Economic Literature</B>,    n. 5862, 42p., 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0103-2003200800010000800012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GOLDFAJN, Ilan; WERLANG, Sergio. The pass-through    from depreciation to inflation: a panel study. <B>Puc-Rio Texto para    Discuss&atilde;o,</B> n. 423, p.1-44, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0103-2003200800010000800013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HARVEY, Andrew. <B>Time series models</B>. Deddington,    U.K.: Phillip Alan, 1981.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S0103-2003200800010000800014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">JUDGE, George; GRIFFITHS, W. E.; CARTER HILL,    R.; LUTKEPOHL, Helmut; LEE, Tsoung-Chao. <B>The theory and practice of econometrics</B>.    2 ed. New York: John Wiley and Sons, 1985.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000210&pid=S0103-2003200800010000800015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KANNEBLEY JR., S&eacute;rgio. Exchange rate pass-through:    uma an&aacute;lise setorial para as exporta&ccedil;&otilde;es brasileiras (1984-1997).    <B>Economia Aplicada</B>, v. 4, n. 3, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000212&pid=S0103-2003200800010000800016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KIM, Yoonbal. Exchange rates and import prices    in the United States: a varying-parameter estimation of exchange-rate pass-through.    <B>Journal of Business &amp; Economic Statistics</B>, v. 8, n. 3, 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000214&pid=S0103-2003200800010000800017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KRUGMAN, Paul. <B>Exchange Rate Instability</B>.    Cambridge: MIT Press, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000216&pid=S0103-2003200800010000800018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MENON, Jayant. Exchange rate and import prices    for a small open economy. <B>Applied Economics</B>, v. 27, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000218&pid=S0103-2003200800010000800019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MENON, Jayant. Exchange rate pass-through. <B>Journal    of Economic Surveys</B>, v. 9, n. 2, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000220&pid=S0103-2003200800010000800020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">PEREIRA, T.R; CARVALHO, A. Desvaloriza&ccedil;&atilde;o    cambial e seu impacto sobre os custos e pre&ccedil;os industriais no Brasil    – uma an&aacute;lise dos efeitos de encadeamento nos setores produtivos. <B>Texto    para Discuss&atilde;o</B>, n. 711, IPEA, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000222&pid=S0103-2003200800010000800021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">PORTUGAL, Marcelo. Modelos de par&acirc;metros    vari&aacute;veis: uma resenha cr&iacute;tica. <B>Pesquisa e Planejamento Econ&ocirc;mico</B>,    v. 13, n. 1, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000224&pid=S0103-2003200800010000800022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SCHWARTZ, G. Brazil price developments after    the Floating of the Real: the first six months. <B>In: IMF Staff Country Report</B>.    FMI, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000226&pid=S0103-2003200800010000800023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">WANG, Kuo-Liang; WU, Chung-Shu. Exchange rate    pass-through and industry characteristics: the case of Taiwan's exports of midstream    petrochemical products. <B>NBER Working Paper</B>, n. 5749, p. 1-28, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000228&pid=S0103-2003200800010000800024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><a name="nt"></a><a href="#tx">*</a> Agradecemos    a colabora&ccedil;&atilde;o na pesquisa de Alexandre Lima Costa e Roberto Castro    (bolsistas PIBIC/Fapeal). Agradecemos tamb&eacute;m os coment&aacute;rios de    dois pareceristas an&ocirc;nimos. Como &eacute; de praxe, eventuais erros remanescentes    s&atilde;o de inteira responsabilidade dos autores.    ]]></body>
+<body><![CDATA[<br>   <a name="nt01"></a><a href="#tx01">1</a> Ver um <I>survey</I> da literatura    emp&iacute;rica sobre o <I>pass-through</I> da taxa de c&acirc;mbio em Menon    (1995).     <br>   <a name="nt02"></a><a href="#tx02">2</a> Os setores examinados no trabalho s&atilde;o:    <I>Pe&ccedil;as e Outros Ve&iacute;culos, Siderurgia, Extrativa Mineral, M&aacute;quinas</I>    e <I>Tratores, Ve&iacute;culos Automotores, &Oacute;leos Vegetais, Refino de    Petr&oacute;leo, Madeira e Mobili&aacute;rio, Beneficiamento de Produtos Vegetais,    Metalurgia de N&atilde;o-Ferrosos, Celulose Papel e Gr&aacute;fica, Material    El&eacute;trico, Elementos Qu&iacute;micos</I> e <I>Equipamentos Eletr&ocirc;nicos</I>.    <br>   <a name="nt03"></a><a href="#tx03">3</a> Esta se&ccedil;&atilde;o baseia-se    em Menon (1995) e Ferreira (2000).    <br>   <a name="nt04"></a><a href="#tx04">4</a> Ver Menon (1995, p. 199).    <br>   <a name="nt05"></a><a href="#tx05">5</a> Existem outras v&aacute;rias raz&otilde;es    de por que os mercados nacionais (ou regionais) poderiam estar segmentados,    com escopo, portanto, para discrimina&ccedil;&atilde;o de pre&ccedil;os: (i)    custos de transporte, (ii) impostos alfandeg&aacute;rios, (iii) barreiras n&atilde;o-tarif&aacute;rias,    (iv) diferen&ccedil;as f&iacute;sicas nas caracter&iacute;sticas dos produtos    e (v) fidelidade dos consumidores &agrave; marca ou ao pa&iacute;s.    <br>   <a name="nt06"></a><a href="#tx06">6</a> Ver Menon (1995, p. 201).    <br>   <a name="nt07"></a><a href="#tx07">7</a> Ver Darvas (2001).    <br>   <a name="nt08"></a><a href="#tx08">8</a> Baseado em Menon (1995).    <br>   <a name="nt09"></a><a href="#tx09">9</a> Ver por exemplo, Dornbusch (1987),    que foi o primeiro a avan&ccedil;ar e testar um modelo te&oacute;rico do <I>pass-through</I>    de deprecia&ccedil;&atilde;o para a infla&ccedil;&atilde;o. Ver tambem Goldfjan    e Werlang (1999).     <br>   <a name="nt10"></a><a href="#tx10">10</a> Ver, por exemplo, Campa e Goldberg    (1998).    ]]></body>
+<body><![CDATA[<br>   <a name="nt11"></a><a href="#tx11">11</a> Diversos estudos, revisados em Menon    (1995) e Goldberg e Knetter (1997), reportam a um consenso bastante bem sustentado    para um <I>pass-through</I> incompleto de 60% para os pre&ccedil;os das importa&ccedil;&otilde;es    dos EUA, embora existam diferen&ccedil;as importantes, dependendo do produto    analisado. Dwyer et al. (1993) t&ecirc;m estimado a din&acirc;mica do <I>pass-through</I>    da taxa de c&acirc;mbio para os pre&ccedil;os dos produtos importados pela Austr&aacute;lia    e mostrado que existe um padr&atilde;o consistente de resposta bastante r&aacute;pida    ao longo do tempo. Coughlin e Pollard (2000) t&ecirc;m estudado o <I>pass-through</I>    das mudan&ccedil;as da taxa de c&acirc;mbio para os pre&ccedil;os das importa&ccedil;&otilde;es    do setor manufatureiro dos Estados Unidos. Um aspecto interessante &eacute;    a an&aacute;lise do papel da escolha de um &iacute;ndice de taxa de c&acirc;mbio    apropriado, mostrando que as estimativas do coeficiente de <I>pass-through</I>    s&atilde;o muito sens&iacute;veis &agrave; escolha do &iacute;ndice. Quanto    mais abrangente o &iacute;ndice utilizado, maior o coeficiente de <I>pass-through</I>.    <br>   <a name="nt12"></a><a href="#tx12">12</a> Inicialmente, seguiu-se uma metodologia    desenvolvida por Kim (1990), em que se permite que todos os coeficientes da    equa&ccedil;&atilde;o (11) sejam vari&aacute;veis no tempo. Como os melhores    resultados obtidos foram aceitando que somente seja vari&aacute;vel no tempo    o coeficiente de <I>pass-through</I>, s&atilde;o apresentados os dados relativos    a essa formula&ccedil;&atilde;o do modelo.     <br>   <a name="nt13"></a><a href="#tx13">13</a> Ver Judge et al.(1985, cap. 19) e    Portugal (1993).     <br>   <a name="nt14"></a><a href="#tx14">14</a> Ver Ferreira (2000, p. 265). </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><b>Ap&ecirc;ndice</b></font></p>     <p><a name="taba"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08tab_a.gif"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><a name="tabb"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n1/a08tab_b.gif"></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BALDWIN]]></surname>
+<given-names><![CDATA[R. E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Hysteresis in import prices: the beached effect]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>1988</year>
+<volume>78</volume>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRITTO]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Abertura comercial e coeficiente de conteúdo importado na indústria]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[LAPLANE]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COUTINHO]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HIRATUKA]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Internacionalização e desenvolvimento da indústria no Brasil]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Editora UNESP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMPA]]></surname>
+<given-names><![CDATA[José]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOLDBERG]]></surname>
+<given-names><![CDATA[Linda]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Investment, pass-through, and exchange rates: a cross-country comparison]]></source>
+<year>1998</year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COUGHLIN]]></surname>
+<given-names><![CDATA[Cletus]]></given-names>
+</name>
+<name>
+<surname><![CDATA[POLLARD]]></surname>
+<given-names><![CDATA[Patricia]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Exchange rate pass-through in U.S. manufacturing: exchange rate index choice and asymmetry issues]]></source>
+<year>2000</year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DARVAS]]></surname>
+<given-names><![CDATA[Zsolt]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Exchange rate pass-through and the real exchange rate in EU candidate countries]]></source>
+<year>2001</year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIXIT]]></surname>
+<given-names><![CDATA[Avinash]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Hysteresis, import penetration and exchange rate pass-through]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>1989</year>
+<volume>104</volume>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DORNBUSCH]]></surname>
+<given-names><![CDATA[Rudiger]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Exchange rate and prices]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>1987</year>
+<volume>77</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DWYER]]></surname>
+<given-names><![CDATA[Jacqueline]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KENT]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEASE]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Exchange rate pass-through: the different responses of importers and exporters]]></source>
+<year>1993</year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[Afonso]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANSO]]></surname>
+<given-names><![CDATA[Andreu]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Exchange rate pass-through: the case of brazilian exports of manufactures]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[XII World Congress of International Economics Association]]></conf-name>
+<conf-date>1999</conf-date>
+<conf-loc>Buenos Aires </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[Afonso]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Pass-through da taxa de câmbio: modelos teóricos e evidências empíricas para as exportações brasileiras de manufaturados]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[FONTES]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ARBEX]]></surname>
+<given-names><![CDATA[Marcelo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia aberta: ensaios sobre fluxos de capitais, câmbio e exportações]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[UFV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FISCHER]]></surname>
+<given-names><![CDATA[Stanley]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A model of exchange rate pass-through]]></article-title>
+<source><![CDATA[Journal of International Economics]]></source>
+<year>1989</year>
+<volume>26</volume>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLDBERG]]></surname>
+<given-names><![CDATA[Pinelopi]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KNETTER]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Goods prices and exchange rates: what have we learned?]]></article-title>
+<source><![CDATA[Journal of Economic Literature]]></source>
+<year>1997</year>
+<numero>5862</numero>
+<issue>5862</issue>
+<page-range>42</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLDFAJN]]></surname>
+<given-names><![CDATA[Ilan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WERLANG]]></surname>
+<given-names><![CDATA[Sergio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The pass-through from depreciation to inflation: a panel study]]></source>
+<year>2000</year>
+<page-range>1-44</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HARVEY]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Time series models]]></source>
+<year>1981</year>
+<publisher-loc><![CDATA[Deddington ]]></publisher-loc>
+<publisher-name><![CDATA[Phillip Alan]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JUDGE]]></surname>
+<given-names><![CDATA[George]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRIFFITHS]]></surname>
+<given-names><![CDATA[W. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARTER HILL]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LUTKEPOHL]]></surname>
+<given-names><![CDATA[Helmut]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[Tsoung-Chao]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The theory and practice of econometrics]]></source>
+<year>1985</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley and Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KANNEBLEY JR.]]></surname>
+<given-names><![CDATA[Sérgio]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Exchange rate pass-through: uma análise setorial para as exportações brasileiras]]></article-title>
+<source><![CDATA[Economia Aplicada]]></source>
+<year>2000</year>
+<volume>4</volume>
+<numero>3</numero>
+<issue>3</issue>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KIM]]></surname>
+<given-names><![CDATA[Yoonbal]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Exchange rates and import prices in the United States: a varying-parameter estimation of exchange-rate pass-through]]></article-title>
+<source><![CDATA[Journal of Business & Economic Statistics]]></source>
+<year>1990</year>
+<volume>8</volume>
+<numero>3</numero>
+<issue>3</issue>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KRUGMAN]]></surname>
+<given-names><![CDATA[Paul]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Exchange Rate Instability]]></source>
+<year>1989</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENON]]></surname>
+<given-names><![CDATA[Jayant]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Exchange rate and import prices for a small open economy]]></article-title>
+<source><![CDATA[Applied Economics]]></source>
+<year>1995</year>
+<volume>27</volume>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENON]]></surname>
+<given-names><![CDATA[Jayant]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Exchange rate pass-through]]></article-title>
+<source><![CDATA[Journal of Economic Surveys]]></source>
+<year>1995</year>
+<volume>9</volume>
+<numero>2</numero>
+<issue>2</issue>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[T.R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desvalorização cambial e seu impacto sobre os custos e preços industriais no Brasil: uma análise dos efeitos de encadeamento nos setores produtivos]]></source>
+<year>2000</year>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PORTUGAL]]></surname>
+<given-names><![CDATA[Marcelo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Modelos de parâmetros variáveis: uma resenha crítica]]></article-title>
+<source><![CDATA[Pesquisa e Planejamento Econômico]]></source>
+<year>1993</year>
+<volume>13</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHWARTZ]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Brazil price developments after the Floating of the Real: the first six months]]></article-title>
+<source><![CDATA[IMF Staff Country Report]]></source>
+<year>1999</year>
+<publisher-name><![CDATA[FMI]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WANG]]></surname>
+<given-names><![CDATA[Kuo-Liang]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WU]]></surname>
+<given-names><![CDATA[Chung-Shu]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Exchange rate pass-through and industry characteristics: the case of Taiwan's exports of midstream petrochemical products]]></source>
+<year>1996</year>
+<page-range>1-28</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

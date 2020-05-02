@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0104-6276</journal-id>
+<journal-title><![CDATA[Opinião Pública]]></journal-title>
+<abbrev-journal-title><![CDATA[Opin. Publica]]></abbrev-journal-title>
+<issn>0104-6276</issn>
+<publisher>
+<publisher-name><![CDATA[ Centro de Estudos de Opinião Pública da Universidade Estadual de Campinas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0104-62762010000200005</article-id>
+<article-id pub-id-type="doi">10.1590/S0104-62762010000200005</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Um modelo para medir os efeitos da cobertura da imprensa no voto: teste nas eleições de 2002 e 2006]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Mundim]]></surname>
+<given-names><![CDATA[Pedro Santos]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Minas Gerais Departamento de Comunicação Social ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>11</month>
+<year>2010</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>11</month>
+<year>2010</year>
+</pub-date>
+<volume>16</volume>
+<numero>2</numero>
+<fpage>394</fpage>
+<lpage>425</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-62762010000200005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0104-62762010000200005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0104-62762010000200005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este artigo apresenta a construção e o teste de um modelo voltado para medir o efeito da cobertura da imprensa no voto dos eleitores. O período de análise são as eleições presidenciais de 2002 e 2006. A variável dependente são as séries históricas de intenção de voto dos principais candidatos. A variável explicativa de maior interesse foi construída a partir da análise de conteúdo da cobertura eleitoral de quatro grandes jornais do país: Folha de S. Paulo, O Estado de S. Paulo, O Globo e Jornal do Brasil. Os resultados dos testes indicaram que o modelo funcionou satisfatoriamente e que a cobertura da imprensa foi, sim, um fator importante das disputas eleitorais de 2002 e 2006. Em ambos os pleitos as intenções de voto de seis dos oito principais candidatos ao cargo de Presidente da República foram afetadas pelos fluxos de informação provenientes da cobertura da imprensa.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This article presents the construction and test of a model developed to measure the effects of the press coverage in voting. The period of analysis are the presidential elections of 2002 and 2006. The dependent variable are the historical voting intentions series of the main candidates. The main independent variable was constructed from the content analysis focusing on the electoral coverage by the following Brazilian newspapers: Folha de S. Paulo, O Estado de S. Paulo, O Globo and Jornal do Brasil. The test results showed that the model worked well, and that the press coverage was indeed an important factor in the electoral disputes of 2002 and 2006. In both elections the voting intentions of six among the eight main presidential candidates were affected by the information flows coming from the press coverage.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[cobertura da imprensa]]></kwd>
+<kwd lng="pt"><![CDATA[voto]]></kwd>
+<kwd lng="pt"><![CDATA[eleições presidenciais]]></kwd>
+<kwd lng="pt"><![CDATA[efeito da mídia]]></kwd>
+<kwd lng="en"><![CDATA[press coverage]]></kwd>
+<kwd lng="en"><![CDATA[voting]]></kwd>
+<kwd lng="en"><![CDATA[presidential elections]]></kwd>
+<kwd lng="en"><![CDATA[media effects]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="verdana"><b>Um modelo para medir os efeitos da cobertura da imprensa no voto: teste nas elei&ccedil;&otilde;es de 2002 e 2006</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><B>Pedro Santos Mundim</B></font></p>     <p><font size="2" face="Verdana">Departamento de Comunica&ccedil;&atilde;o Social, Universidade Federal de Minas Gerais</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><B>RESUMO</B> </font></p>     <p><font size="2" face="Verdana">Este artigo apresenta a constru&ccedil;&atilde;o e o teste de um modelo voltado para medir o efeito da cobertura da imprensa no voto dos eleitores. O per&iacute;odo de an&aacute;lise s&atilde;o as elei&ccedil;&otilde;es presidenciais de 2002 e 2006. A vari&aacute;vel dependente s&atilde;o as s&eacute;ries hist&oacute;ricas de inten&ccedil;&atilde;o de voto dos principais candidatos. A vari&aacute;vel explicativa de maior interesse foi constru&iacute;da a partir da an&aacute;lise de conte&uacute;do da cobertura eleitoral de quatro grandes jornais do pa&iacute;s: Folha de S. Paulo, O Estado de S. Paulo, O Globo e Jornal do Brasil. Os resultados dos testes indicaram que o modelo funcionou satisfatoriamente e que a cobertura da imprensa foi, sim, um fator importante das disputas eleitorais de 2002 e 2006. Em ambos os pleitos as inten&ccedil;&otilde;es de voto de seis dos oito principais candidatos ao cargo de Presidente da Rep&uacute;blica foram afetadas pelos fluxos de informa&ccedil;&atilde;o provenientes da cobertura da imprensa.</font></p>     <p><font size="2" face="Verdana"><B>Palavras&#45;chave:</B> cobertura da imprensa; voto; elei&ccedil;&otilde;es presidenciais; efeito da m&iacute;dia.</font></p> <hr size="1" noshade>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><B>ABSTRACT</B></font></p>     <p><font size="2" face="Verdana"> This article presents the construction and test of a model developed to measure the effects of the press coverage in voting. The period of analysis are the presidential elections of 2002 and 2006. The dependent variable are the historical voting intentions series of the main candidates. The main independent variable was constructed from the content analysis focusing on the electoral coverage by the following Brazilian newspapers: Folha de S. Paulo, O Estado de S. Paulo, O Globo and Jornal do Brasil. The test results showed that the model worked well, and that the press coverage was indeed an important factor in the electoral disputes of 2002 and 2006. In both elections the voting intentions of six among the eight main presidential candidates were affected by the information flows coming from the press coverage. </font></p>     <p><font size="2" face="Verdana"><B>Keywords:</B> press coverage; voting; presidential elections; media effects.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>Introdu&ccedil;&atilde;o<a name="tx01"></a><a href="#nt01"><sup>1</sup></a></B></font></p>     <p><font size="2" face="Verdana">As elei&ccedil;&otilde;es presidenciais s&atilde;o momentos singulares da vida pol&iacute;tica e eventos midi&aacute;ticos por excel&ecirc;ncia. Dado o seu valor jornal&iacute;stico e a sua import&acirc;ncia para o pa&iacute;s, a imprensa, seja ela de que tipo for, d&aacute; especial aten&ccedil;&atilde;o &agrave;s disputas para a nomea&ccedil;&atilde;o dos candidatos pelos partidos e, posteriormente, &agrave;s campanhas eleitorais, cobrindo&#45;as com afinco e inundando a sociedade com informa&ccedil;&otilde;es a respeito dos concorrentes (PATTERSON, 1980).</font></p>     <p><font size="2" face="Verdana">No entanto, a centralidade da m&iacute;dia n&atilde;o se encontra presente nos mais importantes estudos sobre comportamento pol&iacute;tico. Tais estudos geralmente enfatizam vari&aacute;veis como a ideologia e as identidades partid&aacute;rias (CAMPBELL et al, 1967 &#91;1960&#93;; SINGER, 2002), a avalia&ccedil;&atilde;o da popularidade do presidente e o desempenho da economia (KEY, 1966; FIORINA, 1981; KIEWIET, 1983; HIBBS, 1987; CAMARGOS, 1999; CARREIR&Atilde;O, 2003). </font></p>     <p><font size="2" face="Verdana">Ao menos duas raz&otilde;es explicam tal "esquecimento". As vari&aacute;veis mencionadas acima foram bem sucedidas em explicar as raz&otilde;es das escolhas dos eleitores e os resultados das urnas (GELMAN e KING, 1993). Al&eacute;m disso, por muitos anos os cientistas sociais encontraram grandes dificuldades para demonstrar, de maneira satisfat&oacute;ria, efeitos da m&iacute;dia juntos aos eleitores (BARTELS, 1993), impossibilitando a supera&ccedil;&atilde;o do paradigma dos "efeitos limitados", inaugurado com a publica&ccedil;&atilde;o do cl&aacute;ssico <i>The People's Choice</i> (LAZARSFELD, BERELSON e GAUDET, 1944 &#91;1942&#93;). </font></p>     <p><font size="2" face="Verdana">Esse cen&aacute;rio apenas come&ccedil;ou a mudar a partir dos anos 1970 e, principalmente, dos anos 1980, com os trabalhos de pesquisadores interessados em efeitos da m&iacute;dia sobre o comportamento e as atitudes pol&iacute;ticas dos eleitores, especialmente durante as elei&ccedil;&otilde;es (MCCOMBS e SHAW, 1972; IYENGAR e KINDER, 1987; IYENGAR, 1991; ZALLER, 1992; BAUM, 2003). Atualmente, este &eacute; um dos campos de estudos mais importantes e produtivos da comunica&ccedil;&atilde;o pol&iacute;tica nos Estados Unidos. Em uma propor&ccedil;&atilde;o menor, eles tamb&eacute;m s&atilde;o cada vez mais importantes em pa&iacute;ses como Inglaterra, Alemanha e Holanda (SEMETKO, 1996).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Contudo, estudos sobre efeito da m&iacute;dia ainda s&atilde;o pouco explorados no Brasil, mesmo nas pesquisas sobre m&iacute;dia e elei&ccedil;&otilde;es. A melhor evid&ecirc;ncia desse fato encontra&#45;se na tese de Colling (2006b). Ap&oacute;s ter analisado cerca de 300 pesquisas (entre teses, disserta&ccedil;&otilde;es, artigos e ensaios) a respeito de m&iacute;dia e elei&ccedil;&otilde;es presidenciais brasileiras entre 1989 e 2002, ele n&atilde;o encontrou sequer um trabalho "dedicado &agrave; recep&ccedil;&atilde;o das mensagens jornal&iacute;sticas para verificar seu efeito na defini&ccedil;&atilde;o do voto dos eleitores" (2006a). As exce&ccedil;&otilde;es seriam textos publicados em revistas e livros editados em ingl&ecirc;s, mesmo que alguns dos autores sejam brasileiros (STRAUBHAAR, OLSEN, e NUNES, 1993; BOAS, 2005; BAKER, AMES e RENN&Oacute;, 2006; PORTO, 2007). </font></p>     <p><font size="2" face="Verdana">O objetivo deste artigo &eacute; contribuir para o desenvolvimento das pesquisas sobre efeitos da m&iacute;dia e m&iacute;dia e elei&ccedil;&otilde;es no Brasil, a partir da constru&ccedil;&atilde;o e do teste de um modelo voltado para medir o efeito da cobertura de quatro grandes jornais brasileiros &#150; <i>Folha de S. Paulo, O Estado de S. Paulo, O Globo </i>e o<i> Jornal do Brasil</i> &#150; no voto dos eleitores. Para isso, discuto, primeiramente, as raz&otilde;es que levam a cobertura da imprensa a exercer uma influ&ecirc;ncia significativa na decis&atilde;o do voto durante as elei&ccedil;&otilde;es. Esses argumentos n&atilde;o se baseiam nas abordagens que enxergam os meios de comunica&ccedil;&atilde;o como "todos poderosos", mas em como certas transforma&ccedil;&otilde;es permitiram aos cientistas sociais criticar e defender uma revis&atilde;o da teoria dos efeitos limitados. </font></p>     <p><font size="2" face="Verdana">Essa discuss&atilde;o leva ao cerne do argumento te&oacute;rico do artigo. Existe uma significativa varia&ccedil;&atilde;o das inten&ccedil;&otilde;es de voto dos candidatos durante o per&iacute;odo eleitoral. A sua causa liga&#45;se a fatores ex&oacute;genos. Estes podem ser as campanhas (GELMAN e KING, 1993; HOLBROOK, 1996) e a cobertura que a imprensa faz das campanhas (SHAW, 1999; SHAW e ROBERTS, 2000) e dos eventos e acontecimentos pol&iacute;ticos, econ&ocirc;micos e sociais que ocorrem durante os meses de disputa. Seja como for, ambas as perspectivas se baseiam no modo como os eleitores utilizam, racionalmente, as informa&ccedil;&otilde;es pol&iacute;ticas que obt&ecirc;m para tomarem suas decis&otilde;es e definirem seus votos. </font></p>     <p><font size="2" face="Verdana">Ao falar de imprensa neste artigo estarei me referindo, especificamente, ao conte&uacute;do veiculado pelos jornais impressos. Esse recorte, obviamente, levanta um questionamento v&aacute;lido: como &eacute; poss&iacute;vel investigar os efeitos da cobertura da imprensa em um pa&iacute;s onde existe apenas um pequeno n&uacute;mero de leitores? A segunda parte do artigo busca justamente dar uma resposta &agrave; essa pergunta. </font></p>     <p><font size="2" face="Verdana">A terceira parte do artigo traz as discuss&otilde;es t&eacute;cnicas em torno da constru&ccedil;&atilde;o do modelo. Apresento a descri&ccedil;&atilde;o da vari&aacute;vel dependente &#150; as inten&ccedil;&otilde;es de voto agregada dos candidatos &#150;, da vari&aacute;vel explicativa de maior interesse &#150; a cobertura da imprensa &#150;, e das vari&aacute;veis de controle, levando&#45;se em conta a tradi&ccedil;&atilde;o dos estudos sobre efeitos da m&iacute;dia e comportamento pol&iacute;tico. Por fim, apresento os resultados dos testes emp&iacute;ricos. Estes mostraram tanto um comportamento adequado do modelo, quanto a exist&ecirc;ncia de efeitos da cobertura da imprensa nas inten&ccedil;&otilde;es de voto durante as elei&ccedil;&otilde;es presidenciais de 2002 e de 2006. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>Algumas raz&otilde;es para a exist&ecirc;ncia de efeitos da m&iacute;dia</B></font></p>     <p><font size="2" face="Verdana">A teoria dos efeitos limitados tornou&#45;se predominante entre 1940 e 1960, tendo impacto significativo nos estudos sobre m&iacute;dia e elei&ccedil;&otilde;es. As poucas an&aacute;lises que foram feitas nesse per&iacute;odo enfatizando o poder de influ&ecirc;ncia dos meios de comunica&ccedil;&atilde;o junto aos eleitores n&atilde;o conseguiram quebrar com o seu predom&iacute;nio te&oacute;rico&#45;metodol&oacute;gico (GITLIN, 1975). Graber (1989, p.12) resumiu a situa&ccedil;&atilde;o com propriedade ao dizer que os cientistas sociais n&atilde;o queriam perder seu tempo estudando efeitos pouco importantes ou colocando&#45;se contra o conhecimento estabelecido. </font></p>     <p><font size="2" face="Verdana">Mas a realidade midi&aacute;tica dos anos 1960 j&aacute; era bem diferente daquela que Lazarsfeld e seus colaboradores haviam encontrado. Uma diferen&ccedil;a significativa foi que a crescente midiatiza&ccedil;&atilde;o das campanhas eleitorais a partir dos anos 1960 tornou dif&iacute;cil aceitar que a enorme quantidade de informa&ccedil;&otilde;es produzidas pelos meios de comunica&ccedil;&atilde;o n&atilde;o tivesse qualquer impacto pol&iacute;tico (ALVAREZ, 1997). Este fato torna&#45;se mais importante quando se sabe que a maioria dos eleitores n&atilde;o participa diretamente dos eventos de campanha e depende dos meios noticiosos para ter acesso &agrave;s informa&ccedil;&otilde;es que eles geram (PATTERSON, 1980; HOLBROOK, 1996; DALTON, BECK e HUCKFELDT, 1998). Essas informa&ccedil;&otilde;es chegam at&eacute; eles a partir da exposi&ccedil;&atilde;o direta &agrave;s not&iacute;cias ou de conversas com amigos, vizinhos, parentes e companheiros de trabalho (LAZARSFELD, BERELSON e GAUDET, 1944 &#91;1942&#93;; POPKIN, 1991; BECK et al, 2002; BAKER, AMES e RENN&Oacute;, 2006). </font></p>     <p><font size="2" face="Verdana">Os eleitores tamb&eacute;m prestam pouca aten&ccedil;&atilde;o &agrave;s quest&otilde;es pol&iacute;ticas entre os per&iacute;odos eleitorais. Muitos decidem em quem votar apenas durante as campanhas (CHAFFEE e CHOE, 1980); mas, quando as elei&ccedil;&otilde;es se aproximam, precisam de alguma informa&ccedil;&atilde;o para tomarem suas decis&otilde;es, o que aumenta a demanda por elas. Assim, os eleitores utilizam&#45;se das not&iacute;cias divulgadas pela imprensa &#150; "uma das mais importantes fontes de informa&ccedil;&atilde;o dos eleitores" (POPKIN, 1991, p.25) &#150; quando decidem como votar (HOLBROOK, 1996). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Outro fator importante foi o enfraquecimento das identidade partid&aacute;rias, que deixou o voto menos previs&iacute;vel e mais vol&aacute;til (PATTERSON, 1980), pois fez com os eleitores perdessem um dos principais fatores de resist&ecirc;ncia &agrave;s mensagens midi&aacute;ticas. A avalia&ccedil;&atilde;o que eles fazem dos candidatos tornou&#45;se mais dependente do que apreendem a partir da cobertura da imprensa durante o ano eleitoral. E sem dispositivos de resist&ecirc;ncia como a identifica&ccedil;&atilde;o partid&aacute;ria ou as predisposi&ccedil;&otilde;es pol&iacute;ticas (CONVERSE, 1964; ZALLER, 1992), cresce a probabilidade de o tom das not&iacute;cias influenciar suas opini&otilde;es. Obviamente, tal fato ganha ainda mais significado em pa&iacute;ses de democracia recente, por exemplo o M&eacute;xico e Brasil, onde as identidades partid&aacute;rias ainda s&atilde;o mais fr&aacute;geis (LAWSON e MCCANN, 2005; BAKER, AMES e RENN&Oacute;, 2006). </font></p>     <p><font size="2" face="Verdana">Finalmente, do ponto de vista te&oacute;rico surgiram novos conceitos como <i>agenda&#45;setting</i> (MCCOMBS e SHAW, 1972), <i>priming</i> (IYENGAR e KINDER, 1987) e enquadramento (IYENGAR, 1991). Tamb&eacute;m foram desenvolvidas ferramentas estat&iacute;sticas mais sofisticadas para a an&aacute;lise de dados, tanto agregados quanto microdados, como regress&otilde;es por m&iacute;nimos quadrados multivariadas, an&aacute;lises de s&eacute;ries temporais e modelos log&iacute;sticos para vari&aacute;veis bin&aacute;rias ou multinomiais. Essas inova&ccedil;&otilde;es n&atilde;o apenas revitalizaram as pesquisas sobre efeitos da m&iacute;dia e sobre m&iacute;dia e elei&ccedil;&otilde;es, como trouxeram outras possibilidades de an&aacute;lise sobre como a imprensa influencia o comportamento e as atitudes pol&iacute;ticas dos eleitores. </font></p>     <p><font size="2" face="Verdana">Todos esses fatores confluem para uma &uacute;ltima e importante evid&ecirc;ncia emp&iacute;rica dos poss&iacute;veis efeitos da cobertura da imprensa nas elei&ccedil;&otilde;es: a significativa varia&ccedil;&atilde;o das inten&ccedil;&otilde;es de voto dos candidatos durante o per&iacute;odo eleitoral, n&atilde;o apenas nos Estados Unidos (BARTELS, 1988; GELMAN e KING, 1993; HOLBROOK, 1996), mas tamb&eacute;m no Brasil (BAKER, AMES e RENN&Oacute;, 2006; AMES, BAKER e RENN&Oacute;, 2008)<a name="tx02"></a><a href="#nt02"><sup>2</sup></a>. Se os nove meses de corrida presidencial, com todos os seus eventos, acontecimentos e not&iacute;cias n&atilde;o tivessem qualquer import&acirc;ncia, n&atilde;o haveria uma significativa varia&ccedil;&atilde;o das inten&ccedil;&otilde;es de voto, nem a necessidade de campanhas &#150; e muito menos faria sentido se falar e pesquisar o efeito da cobertura da imprensa.</font></p>     <p><font size="2" face="Verdana">A exist&ecirc;ncia de varia&ccedil;&atilde;o na opini&atilde;o p&uacute;blica &eacute; requisito essencial para qualquer estudo sobre efeito da m&iacute;dia. Como se observa na <a href="#fig01">Figura 1</a>, houve uma clara varia&ccedil;&atilde;o nas inten&ccedil;&otilde;es de voto dos principais candidatos durante os per&iacute;odos de disputa das elei&ccedil;&otilde;es presidenciais brasileiras de 2002 e 2006. </font></p>     <p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/op/v16n2/a05fig01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">V&aacute;rios fatores contribuem para essas varia&ccedil;&otilde;es nas inten&ccedil;&otilde;es de voto. A a&ccedil;&atilde;o dos pol&iacute;ticos &eacute; um deles. Os candidatos a cargos majorit&aacute;rios est&atilde;o sempre em busca de um contato com os eleitores, por todos os meios e maneiras dispon&iacute;veis (ZALLER, 1998; BAUM, 2003; POPKIN, 2006)<a name="tx03"></a><a href="#nt03"><sup>3</sup></a>. Obviamente, a inten&ccedil;&atilde;o deles &eacute; interferir de maneira decisiva e favor&aacute;vel na curva de inten&ccedil;&atilde;o de votos. Mas esse &eacute; apenas um dos lados das elei&ccedil;&otilde;es. O interesse espec&iacute;fico deste artigo &eacute; saber quanto da mudan&ccedil;a nas curvas de inten&ccedil;&atilde;o de voto pode ser atribu&iacute;da &agrave; cobertura da imprensa. &Eacute; o que se pretende come&ccedil;ar a fazer a partir do pr&oacute;ximo item. </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana"><B>Sobre a influ&ecirc;ncia pol&iacute;tica dos jornais impressos</B></font></p>     <p><font size="2" face="Verdana">Como captar a influ&ecirc;ncia de grandes jornais brasileiros no comportamento pol&iacute;tico dos eleitores em um pa&iacute;s em que a maioria das pessoas n&atilde;o l&ecirc; jornal, e onde a televis&atilde;o, especialmente a TV Globo e o <i>Jornal Nacional</i>, parecem ser os seus principais fornecedores de informa&ccedil;&atilde;o pol&iacute;tica (LIMA, 2007; HUGHES e LAWSON, 2005)? </font></p>     <p><font size="2" face="Verdana">Mesmo que v&aacute;lido, esse questionamento n&atilde;o diminui a relev&acirc;ncia dos jornais, por pelo menos quatro raz&otilde;es. Em primeiro lugar, como argumenta Lawson (2002), a import&acirc;ncia pol&iacute;tica da m&iacute;dia impressa &eacute; desproporcional ao seu &iacute;ndice de leitura, pois seus ve&iacute;culos "s&atilde;o amplamente lidos pelas elites pol&iacute;ticas nacionais, incluindo 'l&iacute;deres de opini&atilde;o' e os detentores de decis&otilde;es pol&iacute;ticas." Ao analisar a pequena circula&ccedil;&atilde;o dos principais jornais brasileiros, Azevedo (2006) apresentou posi&ccedil;&atilde;o semelhante.</font></p>     <p><font size="2" face="Verdana">Em segundo lugar, mesmo que os &iacute;ndices de leitura sejam baixos, os jornais ainda s&atilde;o fonte importante de informa&ccedil;&atilde;o para uma parcela consider&aacute;vel dos eleitores. A partir dos dados do ESEB 2002, por exemplo, &eacute; poss&iacute;vel estimar que cerca de 33% dos eleitores, ou 24,7 milh&otilde;es, leem um jornal "algumas vezes por semana", e que cerca de 11%, ou 12,9 milh&otilde;es, leem diariamente<a name="tx04"></a><a href="#nt04"><sup>4</sup></a>. Somados, esses n&uacute;meros representam um contingente de aproximadamente 37,6 milh&otilde;es de pessoas (MUNDIM, 2010)<a name="tx05"></a><a href="#nt05"><sup>5</sup></a>. </font></p>     <p><font size="2" face="Verdana">Em terceiro lugar, alguns autores argumentam que os jornais desempenham, melhor do que a televis&atilde;o, o papel de informar os eleitores, especialmente os mais escolarizados (PATTERSON, 1980; DRUCKMAN, 2005; GRABE, KAMHAWI e YEGIYAN, 2009). Ainda que a televis&atilde;o esteja muito mais presente na vida das pessoas do que os jornais, ela &eacute; "primeiramente tratada como um meio de entretenimento, onde comparativamente menos problemas sociais s&atilde;o explorados" (ALLEN e IZCARAY, 1988, p.45). </font></p>     <p><font size="2" face="Verdana">Finalmente, embora o alcance e a preval&ecirc;ncia dos meios de comunica&ccedil;&atilde;o sejam bem diferentes, o seu conte&uacute;do &eacute; relativamente homog&ecirc;neo. "A m&iacute;dia usa meios similares na coleta das not&iacute;cias, o que resulta em julgamentos similares sobre o que tem valor noticioso e, como os ve&iacute;culos competem uns com os outros, um raramente ignora o conte&uacute;do dos seus concorrentes" (COMSTOCK e SCHARRER, 2005, p.180). </font></p>     <p><font size="2" face="Verdana">Assim, as informa&ccedil;&otilde;es produzidas pelos jornais tendem a circular e atingir todos os tipos de eleitores, com maior ou menor intensidade, e por outros meios, como por exemplo a televis&atilde;o<a name="tx06"></a><a href="#nt06"><sup>6</sup></a>. Conforme demonstrei empiricamente em outro lugar (MUNDIM, 2010), an&aacute;lises da cobertura dos jornais realmente oferecem um bom indicador da cobertura da m&iacute;dia como um todo, inclusive a televis&atilde;o. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><B>Um modelo para medir os efeitos da cobertura da imprensa no voto</B></font></p>     <p><font size="2" face="Verdana">N&atilde;o existe uma maneira &uacute;nica de medir efeitos da m&iacute;dia. Mas a natureza dos dados deste artigo imp&otilde;e certas restri&ccedil;&otilde;es. Por terem sido coletados ao longo dos anos eleitorais de 2002 e 2006, eles ser&atilde;o tratados como uma s&eacute;rie hist&oacute;rica (FIGUEIREDO, 2007), e os testes estat&iacute;sticos a serem aplicados ser&atilde;o apropriados &agrave; an&aacute;lise de s&eacute;ries temporais (WOOLDRIDGE, 2006; BUENO, 2008). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Tal fato n&atilde;o seria nenhuma novidade. An&aacute;lises de s&eacute;ries temporais v&ecirc;m sendo utilizadas, h&aacute; um bom tempo, em estudos sobre a cobertura da imprensa e comportamento eleitoral (BERH e IYENGAR, 1985; SHAPIRO et al, 1994; SHAW, 1999; SHAW e ROBERTS, 2000; BAUM e KERNNELL, 2001; GAVIN e SANDERS, 2003; FIGUEIREDO, 2007; BELTR&Aacute;N, 2007). Por essa raz&atilde;o, inicialmente &eacute; poss&iacute;vel apresentar um modelo gen&eacute;rico, que atende aos nossos objetivos. A sua equa&ccedil;&atilde;o (1) segue abaixo:</font></p>     <p align="center"><img src="/img/revistas/op/v16n2/a05eqc01.jpg"></p>     <p><font size="2" face="Verdana">onde o sufixo "i" indica os candidatos, o "t" as datas das pesquisas de inten&ccedil;&atilde;o de voto e "m" o n&uacute;mero de vari&aacute;veis de controle. Por sua vez, Y representa a vari&aacute;vel dependente num tempo t, </font><font>&#945;</font><font size="2" face="verdana"> &eacute; uma constante, </font><font>&#946;</font><font size="2" face="verdana"><SUB>1</SUB> &eacute; o coeficiente da vari&aacute;vel dependente defasada<a name="tx07"></a><a href="#nt07"><sup>7</sup></a>, </font><font>&#946;</font><font size="2" face="verdana"><SUB>2</SUB> &eacute; coeficiente das vari&aacute;veis independentes (<i>X<SUB>it</SUB></i>) conectadas com as hip&oacute;teses te&oacute;ricas, </font><font>&#946;</font><font size="2" face="verdana"><SUB>m</SUB> &eacute; o vetor dos coeficientes das vari&aacute;veis de controle (<i>Z<SUB>mt </SUB></i>), e </font><font>&#949;</font><font size="2" face="verdana"><SUB>t</SUB> &eacute; erro com m&eacute;dia zero e vari&acirc;ncia constante<a name="tx08"></a><a href="#nt08"><sup>8</sup></a>.</font></p>     <p><font size="2" face="Verdana">Traduzindo o linguajar t&eacute;cnico, a equa&ccedil;&atilde;o acima assume que inten&ccedil;&atilde;o de voto do candidato i, em um per&iacute;odo de tempo <i>t</i>, &eacute; fun&ccedil;&atilde;o de sua inten&ccedil;&atilde;o do seu voto em <i>t&#45;1</i>, das vari&aacute;veis derivadas da an&aacute;lise de conte&uacute;do da cobertura da imprensa sobre ele e das vari&aacute;veis de controle, ambas no mesmo tempo <i>t</i>. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="verdana"><B>As inten&ccedil;&otilde;es de voto dos candidatos </B></font></p>     <p><font size="2" face="Verdana">A vari&aacute;vel dependente do modelo s&atilde;o as inten&ccedil;&otilde;es de voto agregadas dos candidatos, medidas em porcentagem, em um tempo t que corresponde &agrave; data de publica&ccedil;&atilde;o dos relat&oacute;rios das pesquisas de opini&atilde;o dos Institutos <i><i>Datafolha</i></i> e <i>Ibope</i> durante os anos de 2002 e 2006, com base na pergunta estimulada de inten&ccedil;&atilde;o de voto &#150; quando havia mais de um cen&aacute;rio pol&iacute;tico, foi levado em conta apenas a pergunta refente ao primeiro destes cen&aacute;rios<a name="tx09"></a><a href="#nt09"><sup>9</sup></a>. </font></p>     <p><font size="2" face="Verdana">O banco de dados da s&eacute;rie conta com um total de 37 pesquisas em 2002, sendo 18 do <i>Datafolha</i> e 19 do <i>Ibope</i>, e um total de 38 pesquisas em 2006, sendo 21 do <i>Datafolha</i> e 17 do <i>Ibope</i>. Para as an&aacute;lises estat&iacute;sticas foram selecionadas 36 datas em 2002, sendo a primeira em 21/02 e a &uacute;ltima em 26/10, 37 em 2006, sendo a primeira em 02/02 e a &uacute;ltima em 28/10. Quando houve coincid&ecirc;ncia das datas das pesquisas, optou&#45;se por seguir o procedimento adotado por Holbrook (1996), em que foi extra&iacute;da a m&eacute;dia das duas pesquisas. </font></p>     <p><font size="2" face="Verdana">Os gr&aacute;ficos das inten&ccedil;&otilde;es de voto dos principais candidatos nas elei&ccedil;&otilde;es presidenciais brasileiras de 2002 e 2006 encontram&#45;se na <a href="#fig01">Figura 1</a>.</font></p>     <p><font size="2" face="Verdana"><i>Sobre a natureza da vari&aacute;vel dependente defasada no modelo</i></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A equa&ccedil;&atilde;o (1) mostrou que uma vari&aacute;vel dependente defasada (<i>Y<SUB>i,t&#45;1</SUB></i>) &eacute; introduzida como um dos par&acirc;metros do modelo. Existem duas raz&otilde;es para esse formato. A primeira &eacute; eminentemente te&oacute;rica. Assume&#45;se que a decis&atilde;o do voto &eacute; um processo din&acirc;mico e que a opini&atilde;o dos eleitores em um tempo <i>t</i> sofre influ&ecirc;ncia das suas opini&otilde;es no tempo <i>t&#45;1</i>, como ocorre com muitos processos pol&iacute;ticos (ROMER, 2004). Deixar de fora a vari&aacute;vel dependente defasada seria incorrer em um erro de especifica&ccedil;&atilde;o, j&aacute; que <i>Y<SUB>i,t&#45;1</SUB></i> permite n&atilde;o apenas capturar um dinamismo peculiar do processos pol&iacute;tico estudado neste artigo, como tamb&eacute;m a especifica&ccedil;&atilde;o desse dinamismo em um modelo estat&iacute;stico (KEELE e KELLY, 2006). </font></p>     <p><font size="2" face="Verdana">A segunda raz&atilde;o &eacute; eminentemente t&eacute;cnica. Um dos principais problemas de especifica&ccedil;&atilde;o dos modelos de s&eacute;ries temporais &eacute; a autocorrela&ccedil;&atilde;o serial, causada pela pr&oacute;pria natureza din&acirc;mica de suas vari&aacute;veis. De modo mais espec&iacute;fico, as inten&ccedil;&otilde;es de um candidato no tempo t s&atilde;o correlacionadas com as suas inten&ccedil;&otilde;es em <i>t&#45;1</i> (WOOLDRIDGE, 2007; BELTR&Aacute;N, 2007), como mostra a an&aacute;lise dos correlogramas &#150; n&atilde;o apresentados aqui<a name="tx10"></a><a href="#nt10"><sup>10</sup></a>. A maneira mais usual de eliminar esses problemas &eacute; introduzir uma ou mais vari&aacute;veis dependentes defasadas no lado direito da equa&ccedil;&atilde;o<a name="tx11"></a><a href="#nt11"><sup>11</sup></a>. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>A cobertura da imprensa</B></font></p>     <p><font size="2" face="Verdana">Os dados que comp&otilde;em as vari&aacute;veis sobre a cobertura da imprensa s&atilde;o derivados da Planilha de Monitoramento da M&iacute;dia Impressa do Doxa&#45;Iuperj, que cont&eacute;m informa&ccedil;&otilde;es sobre a cobertura di&aacute;ria de quatro grandes jornais brasileiros, <i>Folha de S. Paulo, O Estado de S. Paulo, O Globo</i> e o<i> Jornal do Brasil</i><a name="tx12"></a><a href="#nt12"><sup>12</sup></a><i>.</i> Destes, os tr&ecirc;s primeiros est&atilde;o, ao menos desde 2002, entre os quatro jornais de maior circula&ccedil;&atilde;o do pa&iacute;s<a name="tx13"></a><a href="#nt13"><sup>13</sup></a>. </font></p>     <p><font size="2" face="Verdana">As pesquisas sobre efeitos da m&iacute;dia geralmente compartilham de uma m&eacute;trica similar para a an&aacute;lise do conte&uacute;do da imprensa, com base no que classificaram como "val&ecirc;ncias das mat&eacute;rias". Quase sempre o que se faz &eacute; dar o valor de &#150;1 para o conte&uacute;do publicado e considerado negativo para um candidato, 0 para o neutro e +1 para o positivo (HOLBROOK, 1996; NORRIS et al, 1997; GAVIN e SANDERS, 2003; VREESE e SEMETKO, 2004; SOROKA, 2006). </font></p>     <p><font size="2" face="Verdana">Ao final de um certo per&iacute;odo, que pode ser de um dia, uma semana, uma quinzena, etc., faz&#45;se o somat&oacute;rio das val&ecirc;ncias de todo o conte&uacute;do e obt&eacute;m&#45;se, assim, a tend&ecirc;ncia do favorecimento da cobertura em rela&ccedil;&atilde;o aos candidatos. Esse somat&oacute;rio pode tanto ser a partir dos valores originais &#150;1 e +1, quanto a partir do percentual de mat&eacute;rias positivas e negativas. Neste artigo, preferiu&#45;se seguir a linha anal&iacute;tica presente no trabalho de Holbrook (1996), em que foram levadas em conta tanto as "apari&ccedil;&otilde;es" dos candidatos, uma vari&aacute;vel presente na planilha do Doxa e que busca justamente medir a intensidade da cobertura da imprensa sobre eles, quanto as val&ecirc;ncias, que medem o n&iacute;vel de favorecimento da cobertura. </font></p>     <p><font size="2" face="Verdana">As apari&ccedil;&otilde;es dos candidatos s&atilde;o uma medida importante, porque a intensidade da cobertura da imprensa sobre eles tende a crescer &agrave; medida em que se aproxima a data da elei&ccedil;&atilde;o, especialmente em rela&ccedil;&atilde;o &agrave;queles mais bem colocados. Isso significa que, para o bem ou para o mal, os concorrentes passam a ter mais visibilidade com o desenvolvimento da disputa. Nesse sentido, se a intensidade da cobertura importa, ela deve ser uma medida t&atilde;o relevante quanto as val&ecirc;ncias. </font></p>     <p><font size="2" face="Verdana"><i>Construindo a vari&aacute;vel da cobertura da imprensa</i></font></p>     <p><font size="2" face="Verdana">A vari&aacute;vel cobertura da imprensa foi constru&iacute;da da seguinte maneira, a partir dos dados presentes na planilha da m&iacute;dia impressa do Doxa&#45;Iuperj: </font></p>     ]]></body>
+<body><![CDATA[<blockquote>       <p><font size="2" face="Verdana">(a) obteve&#45;se o n&iacute;vel de exposi&ccedil;&atilde;o sobre um determinado candidato i, em um per&iacute;odo de tempo que corresponde ao intervalo entre a publica&ccedil;&atilde;o de duas pesquisas de inten&ccedil;&atilde;o de voto. Como os intervalos de tempo s&atilde;o irregulares, a medida mais adequada n&atilde;o foi o somat&oacute;rio das apari&ccedil;&otilde;es, mas a m&eacute;dia de apari&ccedil;&otilde;es di&aacute;rias por mat&eacute;ria dos candidatos;</font></p>       <p><font size="2" face="Verdana">(b) calculou&#45;se o n&iacute;vel de favorecimento da cobertura da imprensa sobre os candidatos. O procedimento foi o mesmo utilizado por Borba (2005) e Ald&eacute;, Mendes e Figueiredo (2007). Tirou&#45;se a diferen&ccedil;a do percentual de mat&eacute;rias positivas e negativas publicadas sobre um determinado candidato i, em um per&iacute;odo de tempo que corresponde ao intervalo entre a publica&ccedil;&atilde;o de duas pesquisas de inten&ccedil;&atilde;o de voto; e</font></p>       <p><font size="2" face="Verdana">(c) multiplicou&#45;se a m&eacute;dia de apari&ccedil;&otilde;es di&aacute;rias por mat&eacute;ria de cada um dos candidatos pelos respectivos somat&oacute;rios de suas val&ecirc;ncias, obtendo&#45;se a vari&aacute;vel que mede a din&acirc;mica da cobertura da imprensa.</font></p> </blockquote>     <p><font size="2" face="Verdana">As <a href="#fig02">Figuras 2</a> e <a href="#fig03">3</a> trazem os gr&aacute;ficos da cobertura da imprensa dos principais candidatos nas elei&ccedil;&otilde;es presidenciais brasileiras de 2002 e 2006. Para uma melhor compreens&atilde;o da varia&ccedil;&atilde;o da cobertura, assinalei alguns eventos&#45;chave que ocorreram durante a disputa.</font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/op/v16n2/a05fig02.jpg"></p>     <p>&nbsp;</p>     <p><a name="fig03"></a> </p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/op/v16n2/a05fig03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Em 2002, a crise econ&ocirc;mica teve um impacto negativo na cobertura de Lula, que apenas voltou a ser predominantemente positiva depois de julho, ap&oacute;s o petista lan&ccedil;ar a "Carta ao Povo Brasileiro" e, nas palavras de Borba (2004), aderir "ao <i>estalishment</i>". Serra teve, claramente, uma cobertura mais negativa que a de Lula, seu principal concorrente. Garotinho, por sua vez, n&atilde;o conseguiu deslanchar na disputa. Sua cobertura foi quase sempre negativa. Tal situa&ccedil;&atilde;o impediria qualquer candidato "azar&atilde;o" de al&ccedil;ar voos mais altos em uma disputa presidencial (ALD&Eacute;, 2004). E Ciro foi, de fato, "o grande prejudicado (...) pela atua&ccedil;&atilde;o dos jornais" (ALD&Eacute;, 2004, p.112). </font></p>     <p><font size="2" face="Verdana">Em 2006, a cobertura foi substantiva e fortemente negativa para a candidatura de Lula, seja como "Candidato" ou "Presidente" Os momentos mais cr&iacute;ticos ocorreram a partir da segunda quinzena de setembro, por causa do estouro do esc&acirc;ndalo do "Dossi&ecirc; Tucano" e da aus&ecirc;ncia do candidato no segundo debate pela televis&atilde;o dos presidenci&aacute;veis, no dia 28. A cobertura da candidatura Alckmin foi relativamente neutra. J&aacute; Helo&iacute;sa Helena apareceu, na maioria das vezes, de forma positiva nos jornais devido ao "espa&ccedil;o dado (...) aos &#91;seus&#93; ataques ao governo ou &agrave; candidatura de Lula" (ALD&Eacute;, FIGUEIREDO e MENDES, 2007, p.81). Mas a cobertura da candidata do PSOL teve pouca intensidade, e nenhum dos eventos assinalados no Gr&aacute;fico parece ter contribu&iacute;do substantivamente para a varia&ccedil;&atilde;o da sua s&eacute;rie. O mesmo pode ser dito a respeito de Cristovam Buarque.</font></p>     <p><font size="2" face="Verdana"><i>Introduzindo uma defasagem na vari&aacute;vel cobertura da imprensa </i></font></p>     <p><font size="2" face="Verdana">A vari&aacute;vel da cobertura da imprensa foi utilizada no modelo com uma defasagem no tempo. Existem duas raz&otilde;es que fundamentam essa decis&atilde;o. A primeira delas &eacute; factual. Como se sabe, as not&iacute;cias de "hoje" dos jornais trazem, na verdade, as informa&ccedil;&otilde;es sobre os acontecimentos de "ontem". </font></p>     <p><font size="2" face="Verdana">A segunda delas &eacute; te&oacute;rica. Mudan&ccedil;as de atitude n&atilde;o ocorrem de maneira repentina ou imediata: "mudan&ccedil;as no fluxo de comunica&ccedil;&otilde;es pol&iacute;ticas &#91;n&atilde;o levam&#93; (...) a experi&ecirc;ncias de convers&atilde;o repentinas" (ZALLER, 1992, p.266). Na verdade, o ac&uacute;mulo de informa&ccedil;&otilde;es disponibilizadas pelos meios de comunica&ccedil;&atilde;o ao longo de um determinado per&iacute;odo de tempo produzem "mudan&ccedil;as graduais no equil&iacute;brio de considera&ccedil;&otilde;es que est&atilde;o presentes na cabe&ccedil;a das pessoas" (ZALLER, 1992, p.266).</font></p>     <p><font size="2" face="Verdana">As flutua&ccedil;&otilde;es das curvas de inten&ccedil;&atilde;o de voto dos candidatos n&atilde;o ocorrem, exclusiva e necessariamente, em fun&ccedil;&atilde;o da cobertura da imprensa no dia em que foi coletada a opini&atilde;o do eleitor. Ela &eacute; fun&ccedil;&atilde;o da cobertura pret&eacute;rita da imprensa. Como a recep&ccedil;&atilde;o "exige aten&ccedil;&atilde;o, compreens&atilde;o e a reten&ccedil;&atilde;o da not&iacute;cia" (ZALLER e PRICE, 1993, p.134), mudan&ccedil;as de opini&atilde;o exigem do indiv&iacute;duo muito mais do que a simples exposi&ccedil;&atilde;o a uma not&iacute;cia. &Eacute; mais l&oacute;gico supor que cr&iacute;ticas insistentes a um governo tenham mais efeito no m&eacute;dio e longo prazos do que de maneira imediata. Al&eacute;m disso, por mais escandalosas que certas not&iacute;cias possam ser, muitas vezes elas tratam de assuntos complexos e que requererem dos receptores um pouco mais de aten&ccedil;&atilde;o e esfor&ccedil;o cognitivo. Isso demora algum tempo para levar a mudan&ccedil;as de opini&atilde;o.</font></p>     <p><font size="2" face="Verdana">Tal premissa vai ao encontro de uma outra caracter&iacute;stica importante das coberturas jornal&iacute;sticas. Esta &eacute; uma vari&aacute;vel que tem "mem&oacute;ria". Muitos assuntos, como por exemplo uma den&uacute;ncia, um esc&acirc;ndalo ou um problema econ&ocirc;mico, geralmente permanecem na m&iacute;dia por v&aacute;rias semanas, at&eacute; perderem intensidade ou interesse p&uacute;blico. </font></p>     <p><font size="2" face="Verdana">Mesmo se levarmos em conta que o surgimento de certas not&iacute;cias, especialmente aquelas envolvendo assuntos mais graves ou pol&ecirc;micos, possam minar consideravelmente uma candidatura em um curto espa&ccedil;o de tempo, seria incorreto especificar a vari&aacute;vel cobertura da imprensa sem uma defasagem. Na verdade, caso o n&uacute;mero de observa&ccedil;&otilde;es fosse maior, &eacute; bem prov&aacute;vel que defasagens de ordem mais elevadas fossem introduzidas. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="verdana"><B>As vari&aacute;veis de controle</B></font></p>     <p><font size="2" face="Verdana">Nem a inten&ccedil;&atilde;o de voto dos eleitores, nem a sua varia&ccedil;&atilde;o, s&atilde;o explicadas apenas pela cobertura da imprensa. Por essa raz&atilde;o, torna&#45;se necess&aacute;rio introduzir vari&aacute;veis de controle no modelo proposto para minimizar ou evitar erros de especifica&ccedil;&atilde;o. Segundo Renn&oacute; e Spanakos (2006, p.24&#45;25), tais erros s&atilde;o "um problema grave", j&aacute; que "n&atilde;o acarretam apenas inefici&ecirc;ncia na estima&ccedil;&atilde;o (erros&#45;padr&atilde;o inflados), mas tamb&eacute;m vieses nos coeficientes estimados". </font></p>     <p><font size="2" face="Verdana">As vari&aacute;veis de controle n&atilde;o ser&atilde;o aleat&oacute;rias, pois buscam conectar o modelo proposto com a longa tradi&ccedil;&atilde;o das pesquisas sobre comportamento pol&iacute;tico. Segundo estas, de acordo com Figueiredo (2007, p.11), as raz&otilde;es do voto dos eleitores podem ser explicadas, especialmente, por dois tipos de vari&aacute;veis, aquelas que s&atilde;o end&oacute;genas ao processo eleitoral e &agrave;s campanhas pol&iacute;ticas, e aquelas que s&atilde;o ex&oacute;genas a eles. No primeiro bloco estariam algumas das principais vari&aacute;veis "comunicacionais", como as propagandas pol&iacute;tico&#45;institucionais dos partidos e o HGPE. No segundo bloco estariam vari&aacute;veis "estruturais", est&aacute;veis do longo do tempo, como as avalia&ccedil;&otilde;es do estado da economia e do desempenho dos governantes. </font></p>     <p><font size="2" face="Verdana">Em grande medida, os estudos eleitorais trabalham com essas duas ordens de vari&aacute;veis de modo estanque (FIGUEIREDO, 2007, p.11). Neste artigo, elas s&atilde;o tratadas em conjunto. O modelo a ser estimado tem a vantagem de unir as vari&aacute;veis comunicacionais com a longa tradi&ccedil;&atilde;o das pesquisas sobre comportamento pol&iacute;tico. Embora o objetivo primordial n&atilde;o seja investigar o impacto, por exemplo, das avalia&ccedil;&otilde;es de governos ou do HGPE na inten&ccedil;&atilde;o de voto dos eleitores, omitir essas vari&aacute;veis do modelo seria ir contra o estado da arte da tradi&ccedil;&atilde;o dos estudos eleitorais.</font></p>     <p><font size="2" face="Verdana"><i>Propaganda pol&iacute;tico&#45;institucional, HGPE e debates presidenciais</i></font></p>     <p><font size="2" face="Verdana">Ao lado da cobertura da imprensa, a propaganda pol&iacute;tica dos partidos, o HGPE e os debates presidenciais formam o n&uacute;cleo das vari&aacute;veis comunicacionais que interferem na decis&atilde;o do voto. Os dois primeiros s&atilde;o importantes porque d&atilde;o visibilidade a programas de partido e inserem pol&iacute;ticos na cena p&uacute;blica. Existem v&aacute;rios exemplos de como as propagandas pol&iacute;tico&#45;institucionais e os programas eleitorais ganharam votos para candidatos que, at&eacute; antes de sua veicula&ccedil;&atilde;o, n&atilde;o eram considerados nem concorrentes s&eacute;rios, nem favoritos na disputa. No Brasil, isso aconteceu em praticamente todas as elei&ccedil;&otilde;es, como mostram diversos estudos (MENDES e VENTURI, 1994; BORBA, 2005; RENN&Oacute; e SPANAKOS, 2006; FIGUEIREDO, 2007).</font></p>     <p><font size="2" face="Verdana">Em rela&ccedil;&atilde;o ao HGPE, testes estat&iacute;sticos de Borba (2005) e Figueiredo (2007) mostram que, em 2002, tanto Serra quanto Lula foram beneficiados pelo in&iacute;cio da transmiss&atilde;o dos programas. Em complemento a essas informa&ccedil;&otilde;es, Louren&ccedil;o (2007) apresenta evid&ecirc;ncias de que o impacto positivo do HGPE do 1º turno da elei&ccedil;&atilde;o para Serra deveu&#45;se a uma estrat&eacute;gica agressiva de sua campanha, atrav&eacute;s de propaganda negativa contra Ciro Gomes (PPS). </font></p>     <p><font size="2" face="Verdana">S&atilde;o menos evidentes os efeitos dos debates na literatura brasileira, embora eles sejam importantes em uma elei&ccedil;&atilde;o. Como explica Louren&ccedil;o (2007), os eleitores utilizam os debates para checarem e atualizarem informa&ccedil;&otilde;es e impress&otilde;es a respeito dos candidatos. Isso significa que, ao assisti&#45;los, as pessoas podem modificar suas avalia&ccedil;&otilde;es sobre um ou mais candidatos, podendo lev&aacute;&#45;las a uma mudan&ccedil;a de prefer&ecirc;ncia. </font></p>     <p><font size="2" face="Verdana">Em todo caso, n&atilde;o se deve esperar que os efeitos dos debates limitem&#45;se apenas &agrave; exposi&ccedil;&atilde;o direta a eles. Como mostram os trabalhos de Louren&ccedil;o (2007) e Gon&ccedil;alves (2008), tais eventos s&atilde;o amplamente cobertos pela imprensa e repercutem junto aos eleitores de um modo muito mais amplo. Da&iacute; a sua import&acirc;ncia para as campanhas eleitorais. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A melhor maneira de controlar o efeito das propagandas pol&iacute;tico&#45;institucionais, do HGPE e dos debates &eacute; a partir da introdu&ccedil;&atilde;o de vari&aacute;veis dummy para os per&iacute;odos logo ap&oacute;s a ocorr&ecirc;ncia dos eventos, conforme a sugest&otilde;es de McDowall et al (1980) para a an&aacute;lise de s&eacute;ries temporais interrompidas. </font></p>     <p><font size="2" face="Verdana">Para as propagandas pol&iacute;tico&#45;institucionais foi dado o valor de 1 para o per&iacute;odo de tempo logo ap&oacute;s a sua transmiss&atilde;o, e 0 para os demais per&iacute;odos, o que indica aus&ecirc;ncia de efeito. Essa m&eacute;trica &eacute; semelhante &agrave; utilizada por Renn&oacute; e Spanakos (2006) e foi tamb&eacute;m usada para a constru&ccedil;&atilde;o da vari&aacute;vel sobre os debates. Para o HGPE, foram criadas tr&ecirc;s vari&aacute;veis <i>dummy</i>, uma para cada per&iacute;odo da campanha, pr&eacute;&#45;eleitoral, 1ºturno e 2ºturno, seguindo a m&eacute;trica implementada Figueiredo (2007), com resultados bastante satisfat&oacute;rios. </font></p>     <p><font size="2" face="Verdana"><i>Economia e avalia&ccedil;&atilde;o de governo</i></font></p>     <p><font size="2" face="Verdana">At&eacute; hoje, nenhuma an&aacute;lise de s&eacute;ries temporais sobre a popularidade presidencial deixou de mostrar que os eleitores responsabilizam o presidente pela desempenho da economia, levando em conta, principalmente, tr&ecirc;s tipos de indicadores: infla&ccedil;&atilde;o, desemprego e crescimento do Produto Interno Bruto. "<i>Este &eacute; simplesmente o achado mais difundido deste campo de pesquisa, independente do fato de que praticamente cada estudo ter selecionado uma maneira diferente de medir a performance da economia</i>" (BAUM e KERNELL, 2001, p.209). Consequentemente, pode&#45;se afirmar que as vari&aacute;veis econ&ocirc;micas t&ecirc;m um impacto significativo nos resultados eleitorais, especialmente em uma perspectiva de voto retrospectivo (DOWNS, 1999 &#91;1957&#93;; KEY, 1966; FIORINA, 1981). </font></p>     <p><font size="2" face="Verdana">Diversos estudos tamb&eacute;m demonstraram que o desempenho da economia influencia, decisivamente, a avalia&ccedil;&atilde;o de desempenho e a popularidade dos presidentes (KINDER, 1981; KIEWIET, 1983; HIBBS, 1987; PAGE e SHAPIRO, 1992). Essa realidade n&atilde;o &eacute; muito diferente no Brasil. Cervi (2006), por exemplo, mostrou como a avalia&ccedil;&atilde;o dos governantes brasileiros, <i>em especial sua avalia&ccedil;&atilde;o negativa</i>, est&aacute; associada ao desempenho da economia. Renn&oacute; e Spanakos (2006), trabalhando com dados agregados sobre as elei&ccedil;&otilde;es presidenciais de 1994, 1998 e 2002, afirmaram que 86% da popularidade presidencial, durante esse per&iacute;odo, seriam explicados pelo desempenho da economia<a name="tx14"></a><a href="#nt14"><sup>14</sup></a>. Os 14% restantes estariam vinculados a outros fatores, n&atilde;o&#45;econ&ocirc;micos.</font></p>     <p><font size="2" face="Verdana">Portanto, &eacute; poss&iacute;vel empregar os &iacute;ndices de popularidade do presidente como um indicador das avalia&ccedil;&otilde;es retrospectivas do governo feita pelos eleitores, alimentadas principalmente pelo desempenho da economia, al&eacute;m de outros fatores pol&iacute;ticos e sociais. Essa metodologia j&aacute; foi aplicada por Borba (2005) em sua disserta&ccedil;&atilde;o. Para analisar o impacto da condi&ccedil;&atilde;o nacional do pa&iacute;s no voto em Lula em 2002, ele utilizou a avalia&ccedil;&atilde;o negativa do desempenho do ent&atilde;o presidente Fernando Henrique Cardoso (PSDB), a partir da porcentagem de eleitores que avaliavam o seu governo como "ruim/p&eacute;ssimo". O fato de a avalia&ccedil;&atilde;o negativa ser um indicador mais adequado do que a positiva encontra justificativa no trabalho de Cervi (2006), pois ela capta melhor a mudan&ccedil;a de humor dos eleitores do que as avalia&ccedil;&otilde;es "boa/&oacute;tima". </font></p>     <p><font size="2" face="Verdana">A <a href="#tab01">Tabela 1</a> traz as estat&iacute;sticas descritivas destas e das demais vari&aacute;veis do modelo<a name="tx15"></a><a href="#nt15"><sup>15</sup></a>.</font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/op/v16n2/a05tab01.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana">Toda essa discuss&atilde;o, finalmente, permite apresentar a f&oacute;rmula completa do modelo a ser testado, como pode ser visto na equa&ccedil;&atilde;o (2): </font></p>     <p align="center"><img src="/img/revistas/op/v16n2/a05eqc02.jpg"></p>     <p><font size="2" face="Verdana">Onde a inten&ccedil;&atilde;o de voto do candidato <I>i</I>, em um per&iacute;odo de tempo <I>t</I>, &eacute; fun&ccedil;&atilde;o de sua inten&ccedil;&atilde;o do seu voto em <I>t&#45;1</I>, da cobertura da imprensa sobre ele, al&eacute;m das vari&aacute;veis de controle. A <a href="#tab02">Tabela 2</a> traz a descri&ccedil;&atilde;o completa de cada uma dessas vari&aacute;veis, conforme a discuss&atilde;o apresentada at&eacute; aqui.</font></p>     <p><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/op/v16n2/a05tab02.jpg"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">O modelo da equa&ccedil;&atilde;o (2) permite a formula&ccedil;&atilde;o de uma hip&oacute;tese a ser testada nas elei&ccedil;&otilde;es presidenciais de 2002 e 2006: a cobertura da imprensa de Lula,Serra, Ciro, Garotinho, Alckmin, Helo&iacute;sa Helena e Cristovam afetou as respectivas inten&ccedil;&otilde;es de voto. Rejeitar essa hip&oacute;tese seria o mesmo que dizer que a cobertura da imprensa foi uma vari&aacute;vel pouco ou nada importante nas duas &uacute;ltimas elei&ccedil;&otilde;es presidenciais brasileiras. Embora simples, acredito que esse modelo seja suficiente tanto para implementar essa tarefa, quanto para dar uma contribui&ccedil;&atilde;o importante aos estudos sobre m&iacute;dia e elei&ccedil;&otilde;es no Brasil, ainda carente de pesquisas sobre efeitos da m&iacute;dia ou "comportamento eleitoral e m&iacute;dias" (RUBIM e AZEVEDO, 1998). </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>Teste do modelo para a elei&ccedil;&atilde;o presidencial de 2002</b></font></p>     <p><font size="2" face="Verdana">A <a href="#tab03">Tabela 3</a> apresenta os resultados da aplica&ccedil;&atilde;o do modelo para as inten&ccedil;&otilde;es de voto dos principais candidatos na elei&ccedil;&atilde;o presidencial de 2002. </font></p>     <p><a name="tab03" id="tab03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/op/v16n2/a05tab03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Os valores de R<sup>2</sup> Ajustado e do Teste F, al&eacute;m dos resultados da an&aacute;lise dos res&iacute;duos, mostram que os modelos se comportaram relativamente bem. A vari&aacute;vel que mede a cobertura da imprensa foi uma das causas da varia&ccedil;&atilde;o das inten&ccedil;&otilde;es de voto de Lula e Ciro. O sinal do seu coeficiente indica que uma cobertura positiva dos candidatos rendia&#45;lhes votos e, negativa, custava&#45;lhe votos. O mesmo n&atilde;o aconteceu com a cobertura de Serra e de Garotinho. </font></p>     <p><font size="2" face="Verdana">Como mostram os Gr&aacute;ficos das <a href="#fig01">Figuras 1</a> e <a href="#fig02">2</a>, al&eacute;m das estat&iacute;sticas descritivas na <a href="#tab01">Tabela 1</a>, Serra e Garotinho foram os candidatos que apresentaram as menores varia&ccedil;&otilde;es nas s&eacute;ries de inten&ccedil;&atilde;o de voto e de suas respectivas coberturas da imprensa. Mas isso n&atilde;o implicaria, a princ&iacute;pio, em uma aus&ecirc;ncia de efeito da vari&aacute;vel cobertura da imprensa no voto do tucano e do candidato do PSB. </font></p>     <p><font size="2" face="Verdana">A meu ver, a explica&ccedil;&atilde;o para o fato de a cobertura da imprensa n&atilde;o ter afetado as inten&ccedil;&otilde;es de voto de Garotinho encontra respaldo na discuss&atilde;o sobre a base eleitoral evang&eacute;lica (CARREIR&Atilde;O E BARBETA, 2004; BOHN, 2004; ALMEIDA, 2006; CARREIR&Atilde;O, 2007), que funcionou como um forte mecanismo de resist&ecirc;ncia dos eleitores do candidato do PSB, mesmo com a cobertura predominantemente negativa. Em rela&ccedil;&atilde;o a Serra, acredito que a melhor explica&ccedil;&atilde;o est&aacute; nos estudos de Alvarez (1997) e Popkin (1991). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Alvarez (1997) mostra que, em elei&ccedil;&otilde;es presidenciais, quando maior o n&iacute;vel de informa&ccedil;&atilde;o anterior dos eleitores sobre os candidatos, menor a probabilidade de novas informa&ccedil;&otilde;es levarem a mudan&ccedil;as de prefer&ecirc;ncias. Serra n&atilde;o apenas tinha sido ministro de duas pastas do governo Fernando Henrique, como era o candidato da situa&ccedil;&atilde;o. Em um contexto de campanha pol&iacute;tica e alta visibilidade na imprensa, era ainda uma tarefa mais simples para os eleitores conectarem a sua candidatura com o governo que terminava. </font></p>     <p><font size="2" face="Verdana">Quais outras informa&ccedil;&otilde;es sobre Serra os eleitores realmente precisavam para definir o seu voto? As demais informa&ccedil;&otilde;es estavam presentes nas experi&ecirc;ncias vividas nos &uacute;ltimos sete anos. Juntos, os est&iacute;mulos comunicacionais das campanhas e da cobertura da imprensa, mais as experi&ecirc;ncias do dia&#45;a&#45;dia, formam aquilo que Popkin (1994, p.212) chamou de "racionalidade de baixo custo" ou "visceral", que os eleitores utilizam para avaliar o governo e tomar suas decis&otilde;es pol&iacute;ticas. </font></p>     <p><font size="2" face="Verdana">Nesse contexto, a cobertura da imprensa tinha, de fato, pouca probabilidade de agregar novas informa&ccedil;&otilde;es a respeito de Serra. Ao mesmo tempo, ela se tornou um inconveniente para o "tucano", cuja estrat&eacute;gia de campanha adotada &#150; a do candidato da "continuidade sem continu&iacute;smo" &#150; buscava coloc&aacute;&#45;lo como um cr&iacute;tico do governo Fernando Henrique (ALMEIDA, 2006). Essa era uma situa&ccedil;&atilde;o delicada e dif&iacute;cil de resolver, pois o candidato do governo precisava aparece para o eleitor, mas esconder as suas liga&ccedil;&otilde;es pol&iacute;ticas com uma administra&ccedil;&atilde;o que, ap&oacute;s oito anos, deixava o poder em baixa e em um contexto eleitoral de mudan&ccedil;a. </font></p>     <p><font size="2" face="Verdana">Por qu&ecirc; esse mesmo conhecimento anterior n&atilde;o afetou a candidatura de Lula da mesma maneira? Afinal, o petista tamb&eacute;m era um candidato amplamente conhecido e que estava disputado a sua quarta elei&ccedil;&atilde;o presidencial. Simplesmente porque ele n&atilde;o tinha um hist&oacute;rico de governo que servisse de atalho de informa&ccedil;&atilde;o (DOWNS, 1999 &#91;1957&#93;; POPKIN, 1991) para os eleitores racionalizarem em torno do que seria um futuro governo petista. Nesse sentido, ainda pairava sobre Lula um n&iacute;vel de incerteza mais alto, principalmente em rela&ccedil;&atilde;o &agrave;s pol&iacute;ticas econ&ocirc;micas. E isso o deixava, claramente, mais vulner&aacute;vel &agrave;s mudan&ccedil;as dos fluxos de informa&ccedil;&atilde;o provenientes da cobertura da imprensa. </font></p>     <p><font size="2" face="Verdana">Qual teria sido o impacto estimado da cobertura imprensa junto aos eleitores? Pelo valor dos coeficientes, ele foi pequeno. Contudo, para se estimar a magnitude dos efeitos, os coeficientes devem ser avaliados tendo em vista a varia&ccedil;&atilde;o dos valores da cobertura da imprensa, mantido constante as demais vari&aacute;veis do modelo. </font></p>     <p><font size="2" face="Verdana">Feito isso, &eacute; poss&iacute;vel decompor a disputa eleitoral de 2002 em diversos per&iacute;odos. No caso de Lula, at&eacute; o in&iacute;cio da crise econ&ocirc;mica, em 14 de maio, o efeito acumulado da sua cobertura foi pequeno, cerca de 0,23%. J&aacute; entre esta data e sete de julho, o impacto negativo nos votos do petista foi de &#150; 2,6%. A partir do momento em que Lula adere ao <i>establishment</i>, de 23 de julho at&eacute; o fim do 1º turno, ele tem um ganho acumulado de aproximadamente 14,58% dos votos dos eleitores. </font></p>     <p><font size="2" face="Verdana">No caso de Ciro, o seu melhor momento foi o m&ecirc;s de julho, que rendeu&#45;lhe um ganho de cerca de 6,16% dos votos, frutos de uma estrat&eacute;gia de comunica&ccedil;&atilde;o bem feita no final de junho. O estouro dos esc&acirc;ndalos sobre seu tesoureiro de campanha e seu vice tiveram um impacto negativo de &#150; 2,26%. E, a partir do momento em que come&ccedil;a o HGPE, no 1º turno, o candidato do PPS sofre um perda de &#150; 3,89% do seus votos, gra&ccedil;as ao seu destempero, gafes etc. </font></p>     <p><font size="2" face="Verdana">Mesmo que, em valores percentuais, alguns desses n&uacute;meros sejam pequenos, eles devem ser avaliados tendo em vista o n&uacute;mero de eleitores brasileiros. Em uma estimativa conservadora, que leva em conta apenas o n&uacute;mero de pessoas que votaram em algum candidato no 1º turno das elei&ccedil;&otilde;es, uma perda de 2,6%, no caso de Lula durante a crise representaria um universo de 2.207.764 eleitores; e a perda de Ciro, ap&oacute;s as den&uacute;ncias envolvendo seu tesoureiro e seu vice, de 1.919.0567<a name="tx16"></a><a href="#nt16"><sup>16</sup></a>. </font></p>     <p><font size="2" face="Verdana">Em rela&ccedil;&atilde;o &agrave;s demais vari&aacute;veis que alcan&ccedil;aram signific&acirc;ncia estat&iacute;stica, a propaganda pol&iacute;tico&#45;institucional mostrou&#45;se um elemento importante na din&acirc;mica de ganhos de votos. A sua grande vantagem &eacute; que ela permite aos candidatos uma comunica&ccedil;&atilde;o direta com os eleitores, sem intermedi&aacute;rios e a competi&ccedil;&atilde;o de outros concorrentes &#150; como acontece no HGPE. Mas um dos fatores que define se o candidatos conseguir&atilde;o manter esses votos &eacute; a cobertura da imprensa que se segue ap&oacute;s sua veicula&ccedil;&atilde;o. Quanto mais positiva a repercuss&atilde;o na imprensa, maior a possibilidade de este efeito ser duradouro, sendo o contr&aacute;rio tamb&eacute;m verdadeiro.</font></p>     <p><font size="2" face="Verdana">O in&iacute;cio da veicula&ccedil;&atilde;o do HGPE, no 1º turno, teve impacto apenas na inten&ccedil;&otilde;es de voto de Ciro. As consequ&ecirc;ncias negativas eram esperadas. J&aacute; a vari&aacute;vel que mede o efeito do HGPE no 2º turno, como havia sido demonstrada por Figueiredo (2007, p.15), mostrou&#45;se "mais eficiente do que no primeiro; isso ocorre porque com a sa&iacute;da de competi&ccedil;&atilde;o dos candidatos derrotados os seus eleitores s&atilde;o atra&iacute;dos pelos dois candidatos &#91;remanescentes&#93; na disputa".</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>Teste do modelo para a elei&ccedil;&atilde;o presidencial de 2006</b></font></p>     <p><font size="2" face="Verdana">A <a href="#tab04">Tabela 4</a> apresenta os resultados da aplica&ccedil;&atilde;o do modelo para os principais candidatos da elei&ccedil;&atilde;o de 2006. Embora as an&aacute;lises sobre a elei&ccedil;&atilde;o fossem un&acirc;nimes em assinalar a aus&ecirc;ncia de efeitos do conte&uacute;do dos jornais sobre o voto em Lula, era dif&iacute;cil aceitar que a cobertura do petista &#150; atual presidente do pa&iacute;s concorrendo &agrave; reelei&ccedil;&atilde;o, o candidato com a maior visibilidade de todos os outros concorrentes, e em um tom fortemente negativo (ver <a href="#fig03">Figura 3</a>) &#150; n&atilde;o tivesse qualquer impacto junto aos eleitores. Por esse motivo, as vari&aacute;veis que medem a cobertura da imprensa sobre Lula foram introduzidas como preditores da varia&ccedil;&atilde;o das inten&ccedil;&otilde;es de voto dos demais candidatos. </font></p>     <p><a name="tab04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/op/v16n2/a05tab04.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Novamente, os valores do R<sup>2</sup> Ajustado, do Teste F e dos resultados da an&aacute;lise dos res&iacute;duos mostraram que os modelos se comportaram de maneira satisfat&oacute;ria. </font></p>     <p><font size="2" face="Verdana">A cobertura da imprensa n&atilde;o teve qualquer impacto nas inten&ccedil;&otilde;es de voto de Lula em 2006. O fato de HGPE do 2º turno demonstrar ganhos de voto para o petista est&aacute; de acordo com a an&aacute;lise de Figueiredo </font></p>     <blockquote>       ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">"<i>t&atilde;o logo come&ccedil;ou o 2º turno, Lula participou dos debates, a m&iacute;dia diminuiu seu 'tom' negativo e o debate entre os dois candidatos e suas campanhas ganharam conte&uacute;dos program&aacute;ticos e ideol&oacute;gicos. O resultado (...) foi a recupera&ccedil;&atilde;o de Lula" e a consolida&ccedil;&atilde;o da "a sua vit&oacute;ria pol&iacute;tica e eleitoral</i>" (FIGUEIREDO, 2007, p.18).</font></p> </blockquote>     <p><font size="2" face="Verdana">O significado dos efeitos da vari&aacute;vel Avalia&ccedil;&atilde;o merece uma an&aacute;lise mais detalhada. Como assinalou Coimbra (2007), desde o in&iacute;cio da disputa os eleitores de Lula estavam decididos a votar nele independente da visibilidade negativa que seu governo recebia nas p&aacute;ginas dos jornais. Essa opini&atilde;o encontra respaldo emp&iacute;rico no artigo de Renn&oacute; (2007), que mostrou que a avalia&ccedil;&atilde;o retrospectiva funcionou como um escudo contra a cobertura da imprensa<a name="tx17"></a><a href="#nt17"><sup>17</sup></a>. Est&aacute; claro, portanto, que como candidato &agrave; reelei&ccedil;&atilde;o e amplamente conhecido pelos eleitores, os quatro do governo Lula foram mais importantes do que o conte&uacute;do do frenesi midi&aacute;tico. </font></p>     <p><font size="2" face="Verdana">Conforme a an&aacute;lise gr&aacute;fica indicava, Alckmin foi al&ccedil;ado &agrave; condi&ccedil;&atilde;o de principal concorrente do petista ap&oacute;s a veicula&ccedil;&atilde;o da propaganda pol&iacute;tico&#45;institucional do PSDB. A magnitude do efeito da sua transmiss&atilde;o mostra claramente o movimento de ades&atilde;o dos eleitores que estavam esperando pela defini&ccedil;&atilde;o do candidato dos tucanos. O HGPE do 2ºturno tamb&eacute;m foi positivo para o Alckmin. Mas seu efeito foi amenizado pelos quatro debates que ocorreram durante o m&ecirc;s de Outubro. Na verdade, os debates foram o ponto fraco de Alckmin, conforme Figueiredo (2007) j&aacute; havia intu&iacute;do.</font></p>     <p><font size="2" face="Verdana">A cobertura da imprensa sobre Lula Candidato foi claramente uma das causas da varia&ccedil;&atilde;o das inten&ccedil;&otilde;es de voto de Alckmin. Como ela foi predominantemente negativa, pode&#45;se dizer que o tucano se beneficiou amplamente da maneira como os jornais trataram a candidatura do petista. Em seu momento mais cr&iacute;tico, justamente entre o esc&acirc;ndalo do Dossi&ecirc; e a aus&ecirc;ncia de Lula no debate do dia 28 de Setembro, &eacute; poss&iacute;vel estimar que ela foi respons&aacute;vel por um ganho de aproximadamente 6,57% de votos para o tucano, mantida as demais vari&aacute;veis constantes. Uma estimativa conservadora, que leva em conta apenas o n&uacute;mero de pessoas que votaram em algum candidato no 1º turno das elei&ccedil;&otilde;es, isso representaria um universo de 6.302.777 eleitores<a name="tx18"></a><a href="#nt18"><sup>18</sup></a>. </font></p>     <p><font size="2" face="Verdana">Outro candidato que se beneficiou da ampla cobertura negativa de Lula foi Cristovam, embora esse efeito tenha sido pequeno. Ele provavelmente atraiu eleitores descontentes com os candidatos dispon&iacute;veis e que optaram por dar um voto de protesto. Mas o candidato do PDT tamb&eacute;m ganhou votos com a sua pr&oacute;pria cobertura. A princ&iacute;pio, o sinal do coeficiente parece contradit&oacute;rio. Isso provavelmente ocorreu porque o seu momento de maior visibilidade foi cercado de cr&iacute;ticas ao seu programa de governo.</font></p>     <p><font size="2" face="Verdana">Embora tal situa&ccedil;&atilde;o seja inusitada, ela n&atilde;o &eacute; de nenhum modo in&eacute;dita e d&aacute; a ver um fen&ocirc;meno interessante analisada por Burden (2002, p.79). Ele identificou aos menos duas ocasi&otilde;es em que a cobertura negativa ajudou um candidato a subir nas pesquisas, ao inv&eacute;s de atrapalh&aacute;&#45;lo. Esse fato &eacute; especialmente aplic&aacute;vel a concorrentes que s&atilde;o desconhecidos pelo grande p&uacute;blico, em que a visibilidade alcan&ccedil;ada por um candidato &eacute; mais importante do que o tom da cobertura sobre ele. Nesse sentido, os eleitores de Cristovam provavelmente optaram por um candidato com alguma visibilidade midi&aacute;tica e cuja &uacute;nica cr&iacute;tica reca&iacute;a em um programa de governo que enfatizada pol&iacute;ticas educacionais. </font></p>     <p><font size="2" face="Verdana">Assim como Alckmin e Cristovam, Helo&iacute;sa Helena foi uma candidata cuja varia&ccedil;&atilde;o das inten&ccedil;&otilde;es de voto pode ser explicada pela cobertura da imprensa. Mas, ao contr&aacute;rio dos dois, as inten&ccedil;&otilde;es de voto da ex&#45;senadora sofreram influ&ecirc;ncia apenas de sua pr&oacute;pria cobertura. A propaganda pol&iacute;tico&#45;institucional do PSOL n&atilde;o afetou sua s&eacute;rie hist&oacute;rica. Por outro lado, ap&oacute;s a oficializa&ccedil;&atilde;o da sua candidatura, Helo&iacute;sa Helena teve um breve per&iacute;odo de visibilidade positiva, o que contribuiu significativamente para ao seu crescimento nas inten&ccedil;&otilde;es de voto. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><B>Limita&ccedil;&otilde;es, novas perspectivas e possibilidades de generaliza&ccedil;&atilde;o do modelo</B></font></p>     <p><font size="2" face="Verdana">Em linhas gerais, os resultados das <a href="#tab03">Tabelas 3</a> e <a href="#tab04">4</a> apresentam duas conclus&otilde;es: que o modelo proposto funcionou satisfatoriamente e que a cobertura da imprensa foi, sim, um importante elemento das disputas eleitorais de 2002 e 2006. Afinal, em ambos os pleitos as inten&ccedil;&otilde;es de voto dos seis dos oito principais candidatos ao cargo de Presidente da Rep&uacute;blica foram afetadas pelos fluxos de informa&ccedil;&atilde;o provenientes dos quatro principais jornais do pa&iacute;s. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Isso mostra uma das grandes vantagens para os estudos eleitorais dos modelos de s&eacute;ries temporais, especialmente aqueles interessados em analisar o papel da imprensa durante as elei&ccedil;&otilde;es. Tanto estas, quanto a pr&oacute;pria cobertura da imprensa, s&atilde;o processos din&acirc;micos que respondem a uma s&eacute;rie de acontecimentos e eventos de campanha que ocorrem durante a disputa. Analisar esse tipo de dinamismo talvez seja a melhor maneira de compreender como a m&iacute;dia interfere na decis&atilde;o do voto dos eleitores, o que seria mais dif&iacute;cil de observar em pesquisas que trabalhassem apenas com dados de corte transversal. </font></p>     <p><font size="2" face="Verdana">Mas, como todos os modelos e t&eacute;cnicas estat&iacute;sticas, algo deve ser dito a respeito de suas limita&ccedil;&otilde;es. O aumento do n&uacute;mero de observa&ccedil;&otilde;es possivelmente melhoraria seus resultados ou, no m&iacute;nimo, os testes que medem o ajuste do modelo. Isso poderia ser feito com o uso de <i>tracking polls</i>, ao inv&eacute;s dos relat&oacute;rios de pesquisa. Infelizmente, no Brasil, esses dados ainda s&atilde;o exclusividade dos partidos, sendo sua libera&ccedil;&atilde;o relativamente dif&iacute;cil. </font></p>     <p><font size="2" face="Verdana">Alguns pesquisadores poderiam apontar uma outra limita&ccedil;&atilde;o do modelo, ligada &agrave; conhecida discuss&atilde;o sobre a "fal&aacute;cia ecol&oacute;gica" dos estudos eleitorais, segundo a qual o fato de ter trabalhado com dados agregados limitaria, ou at&eacute; impediria, generaliza&ccedil;&otilde;es a respeito do comportamento individual dos eleitores. Neste caso, o ideal seria trabalhar com dados de corte transversal e, preferencialmente, com dados de painel. </font></p>     <p><font size="2" face="Verdana">Concordo com as vantagens oferecidas pelos pain&eacute;is, mas reitero as limita&ccedil;&otilde;es dos dados de corte transversal para an&aacute;lises como a implementada neste artigo. Al&eacute;m disso, considero que as cr&iacute;ticas &agrave;s an&aacute;lises com dados agregados levantadas pela fal&aacute;cia ecol&oacute;gica j&aacute; foram superadas. Como argumentou Kramer, "<i>as discrep&acirc;ncias entre entre os estudos de n&iacute;veis macro e micro (...) n&atilde;o mostram realmente nenhuma discord&acirc;ncia a respeito dos verdadeiros valores ocultos dos par&acirc;metros comportamentais de interesse</i>" (KRAMER, 1981, p.3).</font></p>     <p><font size="2" face="Verdana">Uma &uacute;ltima cr&iacute;tica ao modelo proposto seria a de que ele n&atilde;o &eacute; capaz de captar todo o dinamismo inerente &agrave;s disputas eleitorais. Por exemplo, as inten&ccedil;&otilde;es de Lula em 2002 podem, tamb&eacute;m, ter sido afetadas pela cobertura da imprensa e pela veicula&ccedil;&atilde;o das propagandas pol&iacute;tico&#45;institucionais dos outros candidatos, e vice&#45;versa. As an&aacute;lises que melhor se aproximam dessa realidade s&atilde;o as de 2006, quando a cobertura da imprensa de Lula Candidato e Lula Presidente foram utilizadas como par&acirc;metros dos modelos dos demais candidatos. </font></p>     <p><font size="2" face="Verdana">Existem m&eacute;todos de estima&ccedil;&atilde;o de equa&ccedil;&otilde;es m&uacute;ltiplas ou simult&acirc;neas, como SUR ou VAR, que s&atilde;o mais apropriados para capturar esse tipo de dinamismo mencionado acima do que os MQO (KMENTA, 1971; RENN&Oacute; e SPANAKOS, 2006; BRANDT e WILLIAMS, 2007; BUENO, 2008). Ambos s&atilde;o m&eacute;todos estat&iacute;sticos bastante interessantes e promissores. Eles foram testados, mas apresentaram mais desvantagens do que benef&iacute;cios para os objetivos desta pesquisa em particular. </font></p>     <p><font size="2" face="Verdana">Tanto o SUR como o VAR levavam &agrave; perda dos dados referentes ao 2º turno e a uma redu&ccedil;&atilde;o aqu&eacute;m do desej&aacute;vel do n&uacute;mero de observa&ccedil;&otilde;es. Al&eacute;m disso, no caso do VAR, as an&aacute;lises se restringem ao chamado de "modelo estrutural", que n&atilde;o inclui nenhuma das vari&aacute;veis bin&aacute;rias: propaganda pol&iacute;tico&#45;institucional, debates, HGPE 1º e HGPE 2º. Por isso, e pelo menos por enquanto, preferi seguir o princ&iacute;pio da parcim&ocirc;nia estat&iacute;stica e trabalhar com o modelo da forma mais simples, j&aacute; que os resultados obtidos tinham sido satisfat&oacute;rios. </font></p>     <p><font size="2" face="Verdana">Acredito que um dos pontos positivos do modelo &eacute; que a sua aplica&ccedil;&atilde;o n&atilde;o se limita, de nenhuma maneira, &agrave;s elei&ccedil;&otilde;es presidenciais. Ele pode ser tranquilamente adaptado a contextos estaduais e municipais, desde que um n&uacute;mero suficiente de pesquisas esteja dispon&iacute;vel &#150; o ideal &eacute; em torno de 30, e de prefer&ecirc;ncia acima deste n&uacute;mero &#150; e que tenha sido feito uma an&aacute;lise sistem&aacute;tica da cobertura da imprensa, seja ela impressa ou televisiva. Caso tenham conte&uacute;do pol&iacute;tico, publica&ccedil;&otilde;es mais populares como O Dia e Extra, por exemplo, tamb&eacute;m poderiam ser inclu&iacute;dos em qualquer an&aacute;lise. </font></p>     <p><font size="2" face="Verdana">O modelo tamb&eacute;m poderia ser aplic&aacute;vel a uma pesquisa como a de Neves (2008), que utilizou da Metodologia de An&aacute;lise de Conte&uacute;do da M&iacute;dia Imprensa do Doxa&#45;Iuperj para analisar a cobertura do<i> Jornal Nacional </i>nas elei&ccedil;&otilde;es de 2002 e 2006. O mesmo pode ser dito a respeito do trabalho feita pelo Observat&oacute;rio Brasileiro de M&iacute;dia (OBM) (JACOKBSEN, 2007), ainda que este tenha utilizado uma metodologia de pesquisa um pouco diferente da do Doxa&#45;Iuperj. O &uacute;nico problema da pesquisa do OBM &eacute; o seu per&iacute;odo temporal, que vai de Julho a Outubro, o que acarretaria a perda de muitos casos. Isso levaria a an&aacute;lises emp&iacute;ricas menos consistentes.</font></p>     <p><font size="2" face="Verdana">Finalmente, acredito que o artigo ofere&ccedil;a respaldo a argumentos como os de Porto (2007), para quem os estudos eleitorais que ignoram o papel da m&iacute;dia apresentam algumas limita&ccedil;&otilde;es, ainda mais se considerarmos a import&acirc;ncia da comunica&ccedil;&atilde;o para as campanhas pol&iacute;ticas e dos meios de informa&ccedil;&atilde;o como um todo. Determinadas din&acirc;micas de perdas e ganhos de votos no decorrer da disputa somente podem ser compreendidas se levarmos em conta vari&aacute;veis como a cobertura da imprensa, a veicula&ccedil;&atilde;o de propagandas pol&iacute;tico&#45;institucionais dos partidos, o in&iacute;cio do HGPE e os debates presidenciais. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Obviamente, esta &eacute; uma via de m&atilde;o dupla. Trabalhos que simplesmente defendem que a m&iacute;dia definiu o resultado de uma elei&ccedil;&atilde;o, ignorando o papel de outras vari&aacute;veis importantes como avalia&ccedil;&otilde;es retrospectivas e identidade partid&aacute;rias, tamb&eacute;m s&atilde;o limitados. Nesse sentido, o ideal seria a conjun&ccedil;&atilde;o dos estudos sobre comportamento pol&iacute;tico com as pesquisas sobre efeitos da m&iacute;dia, apoiados por m&eacute;todos estat&iacute;sticos consistentes. Como afirmaram Rubim e Azevedo (1998) h&aacute; mais de dez anos, essa converg&ecirc;ncia levaria ao desenvolvimento, no Brasil, de um dos mais importantes campos de pesquisa das Ci&ecirc;ncias Sociais. </font></p>     <p>&nbsp;</p>     <p><font face="Verdana"><b>Refer&ecirc;ncias Bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana">ALD&Eacute;, A. As elei&ccedil;&otilde;es presidenciais de 2002 nos jornais. In: RUBIM, A. (org). <i>Elei&ccedil;&otilde;es presidenciais de 2002 no Brasil</i>. S&atilde;o Paulo: Hacker Editores, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0104-6276201000020000500001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ALD&Eacute;, A; FIGUEIREDO, M. F; MENDES, G. Imprensa e elei&ccedil;&otilde;es presidenciais: natureza e consequ&ecirc;ncias da cobertura das elei&ccedil;&otilde;es de 2002 e 2006. In: LIMA, V. (org.). <i>A M&iacute;dia nas Elei&ccedil;&otilde;es de 2006</i>. S&atilde;o Paulo: Editora Fund. Perseu Abramo, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0104-6276201000020000500002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">ALLEN, R. L; IZCARAY, F. "Nominal agenda diversity in a media&#45;rich, less&#45;developed society". <i>Communication Research</i>, vol.15, nº1, p.29&#45;50, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0104-6276201000020000500003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ALMEIDA, C. A. <i>Por que Lula? </i>Rio de Janeiro: Record, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0104-6276201000020000500004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ALVAREZ, R. M. <i>Information and elections</i>. Ann Arbor: The University of Michigan Press, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0104-6276201000020000500005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">AZEVEDO, F. A. Democracia e m&iacute;dia no Brasil: Um balan&ccedil;o dos anos recentes. In: GOULART, J. O. (org.). <i>M&iacute;dia e Democracia</i>. S&atilde;o Paulo: Annablume, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0104-6276201000020000500006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BAKER, A; AMES, B.; RENN&Oacute;, L. "Social context and campaign volatility in new democracies: networks and neighborhoods in Brazil's 2002 election". <i>American Journal of Political Science</i>, vol.50, nº2, p.382&#45;399, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0104-6276201000020000500007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BARTELS, L. M. "Messages received: the political impact of media exposure". <i>American Political Science Review</i>, vol.87, nº2, p.267&#45;285, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0104-6276201000020000500008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. <i>Presidential primaries and the dynamics of public choice</i>. Princeton: Princeton University Press, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0104-6276201000020000500009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BAUM, M. <i>Soft News Goes to War</i>. Princeton: Princeton University Press, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0104-6276201000020000500010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BAUM, M; KERNELL, S. "Economic class and popular support for Franklin Roosevelt in War and Peace". <i>Public Opinion Quarterly</i>, vol.65, nº2, p.198&#45;229, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0104-6276201000020000500011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BELTR&Aacute;N, U. "The combined effects of advertising and news coverage in the mexican presidential campaign of 2000". <i>Political Communication</i>, vol.24, nº1, p.37&#45;64, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0104-6276201000020000500012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BOAS, T. "Television and neopopulism in Latin America: Media effects in Brazil and Peru". <i>Latin American Research Review</i>, vol.40, nº2, p.27&#45;49, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0104-6276201000020000500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BORBA, F. M. <i>Raz&otilde;es para a escolha eleitoral:</i> A influ&ecirc;ncia da campanha pol&iacute;tica na decis&atilde;o do voto em Lula durante as elei&ccedil;&otilde;es presidenciais de 2002. Disserta&ccedil;&atilde;o de Mestrado em Ci&ecirc;ncia Pol&iacute;tica, IUPERJ, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S0104-6276201000020000500014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BRANDT, P. T; WILLIAMS, J. T. <i>Multiple time series models.</i> Thousand Oaks: Sage Publications, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0104-6276201000020000500015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BUENO, R. <i>Econometria de s&eacute;ries temporais</i>. S&atilde;o Paulo: Cengage Learning, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0104-6276201000020000500016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BURDEN, B. C. "When bad press is good news? The surprising benefits of negative campaign coveage". <i>Press/Politics</i>, vol.3 nº7, p.76&#45;89, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S0104-6276201000020000500017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CAMARGOS, M. B. "<i>Do bolso &agrave;s urnas:</i> a influ&ecirc;ncia da economia na escolha entre Fernando Henrique e Lula nas elei&ccedil;&otilde;es de 1998". Disserta&ccedil;&atilde;o de Mestrado em Ci&ecirc;ncia Pol&iacute;tica, IUPERJ, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000210&pid=S0104-6276201000020000500018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CAMPBELL, A. et al. <i>The American voter:</i> an Abridgment. New York: John Wiley &amp; Sons, 1967.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000212&pid=S0104-6276201000020000500019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CARREIR&Atilde;O, Y. <i>A decis&atilde;o do voto nas elei&ccedil;&otilde;es presidenciais brasileiras.</i> Rio de Janeiro/Florian&oacute;polis: Editora FGV, Editora da UFSC, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000214&pid=S0104-6276201000020000500020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CERVI, E. U. <i>Opini&atilde;o p&uacute;blica e pol&iacute;tica no Brasil: </i>O que o brasileiro pensa sobre pol&iacute;tica e porque Isso interessa &agrave; democracia. Tese de Doutorado em Ci&ecirc;ncia Pol&iacute;tica, IUPERJ, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000216&pid=S0104-6276201000020000500021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CHAFFEE, S. H.; CHOE, S. Y. "Time of decision and media use during the Ford&#45;Carter Campaign". <i>Public Opinion Quarterly</i>, vol.44, p.53&#45;69, 1980.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000218&pid=S0104-6276201000020000500022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">COIMBRA, M. A m&iacute;dia teve algum papel durante o processo eleitoral de 2006. In: LIMA, V. (org.). <i>A M&iacute;dia nas Elei&ccedil;&otilde;es de 2006.</i> S&atilde;o Paulo: Editora Funda&ccedil;&atilde;o Perseu Abramo, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000220&pid=S0104-6276201000020000500023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">COLLING, L. "Elei&ccedil;&otilde;es 2006: pesquisas indicam que h&aacute; vida al&eacute;m da m&iacute;dia", <i>Observat&oacute;rio da Imprensa</i>, ano 12(392), 2006a. Dispon&iacute;vel em: &lt;<a href="http://observatorio.ultimosegundo.ig.com.br/artigos.asp?cod=396IMQ003" target="_blank">http://observatorio.ultimosegundo.ig.com.br/artigos.asp?cod=396IMQ003</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000222&pid=S0104-6276201000020000500024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</font></p>     <!-- ref --><p><font size="2" face="Verdana">______. "Teorias da conspira&ccedil;&atilde;o: Os objetos de an&aacute;lise mudam, os analistas ficam no mesmo", <i>Observat&oacute;rio da imprensa</i>, ano 12(393), 2006b. Dispon&iacute;vel em: &lt;<a href="http://observatorio.ultimosegundo.ig.com.br/artigos.asp?cod=399JDB009" target="_blank">http://observatorio.ultimosegundo.ig.com.br/artigos.asp?cod=399JDB009</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000224&pid=S0104-6276201000020000500025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</font></p>     <!-- ref --><p><font size="2" face="Verdana">COMSTOCK, G.; SCHARRER, E. <i>The psychology of media and politics. </i>New York: Elsevier University Press, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000226&pid=S0104-6276201000020000500026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DALTON, R. J.; BECK, P. A.; HUCKFELDT, R. "Partisan cues and the media: information flows in the 1992 Presidential elections". <i>American Political Science Review,</i> vol.92, nº1, p.111&#45;126, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000228&pid=S0104-6276201000020000500027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DOWNS, A. <i>Uma teoria econ&ocirc;mica de democracia. </i>S&atilde;o Paulo: EDUSP, 1999 (1957).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000230&pid=S0104-6276201000020000500028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">DRUCKMAN, J. N. "Media matter: How newspapers and television news cover campaigns and influence voters". <i>Political Communication</i>, vol.22, nº4, p.463&#45;481, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000232&pid=S0104-6276201000020000500029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FIGUEIREDO, M. F. "Inten&ccedil;&atilde;o de voto e propaganda pol&iacute;tica: Efeitos da propaganda eleitoral". <i>Logos</i>, nº27, p.9&#45;20, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000234&pid=S0104-6276201000020000500030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FIORINA, M. P. <i>Retrospective voting in american nacional elections</i>. New Haven: Yale University Press, 1981.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000236&pid=S0104-6276201000020000500031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GAVIN, N. T; SANDERS, D. "The press and its influence on british political attitudes under new labour". <i>Political Studies</i>, vol.51, p.573&#45;591, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000238&pid=S0104-6276201000020000500032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GELMAN, A; KING, G. "Why are american presidential election campaign polls so variable when votes are so predictable?". <i>British Journal of Political Science</i>, vol.23, nº4, p.409&#45;451, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000240&pid=S0104-6276201000020000500033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GITLIN, T. "Media sociology: The dominat paradigm". <i>Theory and Society</i>, vol.6, nº2, p.205&#45;253, 1978.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000242&pid=S0104-6276201000020000500034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GRABE, M. E.; KAMHAWI, R.; YEGIYAN, N. "Informing citizens: How people with different levels of education process television, Newspaper, and Web News". J<i>ournal of Broadcasting &amp; Electronic Media</i>, vol.53, nº1, p.90&#45;111, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000244&pid=S0104-6276201000020000500035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GUJARATI, D. <i>Basic Econometrics</i>. New York: McGraw&#45;Hill Book Company, 1978.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000246&pid=S0104-6276201000020000500036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HIBBS, D. A. <i>The american political economiy:</i> Macroeconomics and electoral politics. Cambridge: Harvard University Press, 1987.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000248&pid=S0104-6276201000020000500037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HOLBROOK, T. M. <i>Do campaings matter?</i> Thousand Oaks: Sage Publications, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000250&pid=S0104-6276201000020000500038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">HUGHES, S.; LAWSON, C. "The barriers to media opening in Latin America".<i> Political Communication</i>, vol.22, p.9&#45;25, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000252&pid=S0104-6276201000020000500039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">IYENGAR, S. <i>Is anyone responsible?</i> How television frames political issues. Chicago: The University of Chicago Press, 1991.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000254&pid=S0104-6276201000020000500040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">IYENGAR, S.; KINDER, D. <i>News that matter:</i> Television and american opinion. Chicago: The University of Chicago Press, 1987.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000256&pid=S0104-6276201000020000500041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">JAKOBSEN, K. A cobertura da m&iacute;dia impresa aos candidatos nas elei&ccedil;&otilde;es presidenciais de 2006. In: LIMA, V. (org). <i>A M&iacute;dia nas Elei&ccedil;&otilde;es de 2006.</i> S&atilde;o Paulo: Editora Funda&ccedil;&atilde;o Perseu Abramo, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000258&pid=S0104-6276201000020000500042&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KEELE, L.; KELLY, N. J. "Dynamic models for dynamic theories: The ins and outs of lagged dependent variables". <i>Political Analysis,</i> vol.14, nº2, p.186&#45;20, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000260&pid=S0104-6276201000020000500043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KEY, V. O. <i>The responsible electorate</i>. Cambridge: Harvard University Press, 1966.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000262&pid=S0104-6276201000020000500044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KIEWIET, D. R. <i>Macroeconomics and Micropolitics</i>. Chicago: The University of Chicago Press, 1983.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000264&pid=S0104-6276201000020000500045&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KMENTA, J. <i>Elements of Econometrics. </i>New York: Macmillan Publishing Co., 1971.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000266&pid=S0104-6276201000020000500046&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">KRAMER, G. H. "The ecological fallacy revisited: Aggregate versus individual&#45;level findings on economics and elections, and sociotropic voting." <i>Social Science Working Paper</i>, dez. 1981.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000268&pid=S0104-6276201000020000500047&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LAZARSFELD, P. F.; BERELSON, B. &amp; GAUDET, H. <i>The people's choice</i>. New York: Columbia University Press, 1948 (1944).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000270&pid=S0104-6276201000020000500048&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LAWSON, C. <i>Building the forth state:</i> Democratization and the rise of a free press in Mexico. Berkeley: University of California Press, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000272&pid=S0104-6276201000020000500049&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LAWSON, C.; MCCANN, J. A. "Television news, Mexico's 2000 elections and media effects in emerging democracies". <i>British Journal of Political Science,</i> vol.35, p.1&#45;30, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000274&pid=S0104-6276201000020000500050&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">LIMA, V. A. <i>M&iacute;dia</i>: Crise pol&iacute;tica e poder no Brasil. S&atilde;o Paulo: Editora Funda&ccedil;&atilde;o Perseu Abramo, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000276&pid=S0104-6276201000020000500051&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LOUREN&Ccedil;O, L. "<i>Abrindo a caixa&#45;preta: da indecis&atilde;o &agrave; escolha &#150; </i>A elei&ccedil;&atilde;o presidencial de 2002". Tese de Doutorado em Ci&ecirc;ncia Pol&iacute;tica, IUPERJ, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000278&pid=S0104-6276201000020000500052&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MCCOMBS, M. E.; SHAW, D. L. "The agenda&#45;setting function of mass media". <i>Public Opinion Quarterly</i>, vol.26, p.176&#45;187, 1972.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000280&pid=S0104-6276201000020000500053&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MCDOWALL, D. et al. <i>Interrupted time series analysis</i>. Thousand Oaks: Sage Publications, 1980.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000282&pid=S0104-6276201000020000500054&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MENDES, M. T.; VENTURI, G. "Elei&ccedil;&atilde;o presidencial: o Plano Real na sucess&atilde;o de Itamar Franco". <i>Opini&atilde;o P&uacute;blica</i>, vol.2, nº2, p.39&#45;48, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000284&pid=S0104-6276201000020000500055&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MUNDIM, P. S. "<i>Imprensa e voto nas elei&ccedil;&otilde;es presidenciais brasileiras</i>". Tese de Doutorado em Ci&ecirc;ncia Pol&iacute;tica, IUPERJ, 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000286&pid=S0104-6276201000020000500056&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">NEVES, F. <i>Telejornalismo e poder nas elei&ccedil;&otilde;es presidenciais</i>. S&atilde;o Paulo: Summus Editorial, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000288&pid=S0104-6276201000020000500057&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">PAGE, B. I.; SHAPIRO, R. Y. T<i>he rational public.</i> The University of Chicago Press, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000290&pid=S0104-6276201000020000500058&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">PATTERSON, T. E. <i>The mass media election</i>. New York: Preager Publishers, 1980.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000292&pid=S0104-6276201000020000500059&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">POPKIN, S. L. "Changing media, changing politics". <i>Perspectives on Politics</i>, vol.4, nº2, p.327&#45;341, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000294&pid=S0104-6276201000020000500060&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______.<i> The Reasoning Voter</i>. Chicago: The University of Chicago Press, 1991.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000296&pid=S0104-6276201000020000500061&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">PORTO, M. "Framing controversies: television and the 2002 presidential election in Brazil". <i>Political Communication</i>, vol.24, nº1, p.19&#45;36, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000298&pid=S0104-6276201000020000500062&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">RENN&Oacute;, L. "Esc&acirc;ndalos e voto: as Elei&ccedil;&otilde;es presidenciais brasileiras de 2006". <i>Opini&atilde;o P&uacute;blica</i>, vol.13, nº2, p.260&#45;282, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000300&pid=S0104-6276201000020000500063&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">RENN&Oacute;, L.; SPANAKOS, A. P. "Fundamentos da economia, mercado financeiro e inten&ccedil;&atilde;o de voto: As elei&ccedil;&otilde;es presidenciais brasileiras de 1994, 1998 e 2002". <i>Dados</i>, vol.49, nº1, p.11&#45;40, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000302&pid=S0104-6276201000020000500064&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ROMER, D. Time Series Models. In: ROMER, D. et al. <i>Capturing campaign dynamics</i>. Oxford: Oxford University Press, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000304&pid=S0104-6276201000020000500065&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">RUBIM, A.; AZEVEDO, F. A. "M&iacute;dia e pol&iacute;tica no Brasil: Textos e agenda de pesquisa".<i> Lua Nova</i>, vol.43, nº1, p.189&#45;216, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000306&pid=S0104-6276201000020000500066&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SEMETKO, Holli A. The media. In: LEDUC L., NIEMI, R.; NORRIS, P. (org.). <i>Comparing Democracies</i>. Thousand Oaks: Sage Publications, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000308&pid=S0104-6276201000020000500067&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SHAPIRO, R. Y. et al. "Influ&ecirc;ncia da m&iacute;dia no apoio a candidatos &agrave; presid&ecirc;ncia em elei&ccedil;&otilde;es prim&aacute;rias: teoria, m&eacute;todo e evid&ecirc;ncia". <i>Opini&atilde;o P&uacute;blica</i>, vol.2, nº1, p.3&#45;18, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000310&pid=S0104-6276201000020000500068&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SHAW, D. R. "The impact of news media favorability and candidate events in presidential campaigns". <i>Political Communication</i>, vol.16, p.183&#45;202, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000312&pid=S0104-6276201000020000500069&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SHAW, D. R.; ROBERTS, B. E. "Campaign events, the media and the prospects of victory: the 1992 and 1996 US presidential elections". <i>British Journal of Political Science</i>, vol.30, p.259&#45;289, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000314&pid=S0104-6276201000020000500070&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SINGER, A. <i>Esquerda e direita no eleitorado brasileiro</i>. S&atilde;o Paulo: EDUSP, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000316&pid=S0104-6276201000020000500071&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">STRAUBHAAR, J.; OLSEN; NUNES, M. C. The brazilian case: Influencing the toter. In: SKIDMORE, T. E. (org.). <i>Television, Politics, and the Transition to Democracy in Latin America</i>. Baltimore: The John Hopkins University Press, The Woodrow Wilson Center Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000318&pid=S0104-6276201000020000500072&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">WOOLDRIDGE, J. M. <i>Introdu&ccedil;&atilde;o &agrave; econometria</i>. S&atilde;o Paulo: Thomson, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000320&pid=S0104-6276201000020000500073&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ZALLER, J. R. The myth of massive media impact revived: New support for a discredited idea. In: MUTZ, D. C.; SNIDERMAN, P. M.; BRODY, R. (orgs.). <i>Political persuasion and attitude change</i>. Ann Arbor: The University of Michigan Press, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000322&pid=S0104-6276201000020000500074&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. <i>The nature and origins of mass opinion</i>. Cambridge: University Press, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000324&pid=S0104-6276201000020000500075&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ZALLER, J. R.; PRICE, VOL. "Who gets the news? Alternative measures of news reception and their implications for research." <i>Public Opinion Quarterly</i>, vol.57, p.133&#45;164, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000326&pid=S0104-6276201000020000500076&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Recebido para publica&ccedil;&atilde;o em abril de 2010.    <br>   Aprovado para publica&ccedil;&atilde;o em setembro de 2010.</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana">Pedro Santos Mundim &#150;<a href="mailto:psmundim@yahoo.com.br">psmundim@yahoo.com.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><a name="nt01"></a><a href="#tx01">1</a> Agrade&ccedil;o &agrave;s cr&iacute;ticas e sugest&otilde;es de Marcus Figueiredo, Mauro Porto, Helcimara Telles, Malco Camargos, Mathieu Turgeon, Cleomar Gomes, Jairo Nicolau e Carlos Costa Ribeiro e dos participantes do GT M&iacute;dia e Elei&ccedil;&otilde;es do III Compol&iacute;tica &agrave;s discuss&otilde;es presentes neste artigo.    <br>   <a name="nt02"></a><a href="#tx02">2</a> Segundo Ames, Baker e Renn&oacute;, "um grande percentual de brasileiros muda seus votos durante as campanhas. Isso &eacute; evidente (...) nos movimentos observados nas inten&ccedil;&otilde;es de voto agregadas durante as campanhas &#150; como as vividas por Collor em 1989, Lula e Fernando Henrique Cardoso em 1994 e Ciro Gomes em 2002" (AMES, BAKER e RENN&Oacute;, 2008, p.112).    <br>   <a name="nt03"></a><a href="#tx03">3</a> Popkin (2006) apresenta uma excelente defini&ccedil;&atilde;o dos pol&iacute;ticos, ao dizer que eles s&atilde;o "s&atilde;o perseguidores de multid&otilde;es &#91;crowd&#45;seekers&#93;".    <br>   <a name="nt04"></a><a href="#tx04">4</a> ALMEIDA, A. C.; CHEIBUB, Z.; LOUREN&Ccedil;O, F.; MENEGUELLO, R. (orgs.). <i>ESEB: Estudo Eleitoral Brasileiro,  1998&#45;2002 (Banco de dados)</i>. Rio de Janeiro/ Campinas: UFF/UNICAMP. In: Cons&oacute;rcio de Informa&ccedil;&otilde;es Sociais, 2004. Dispon&iacute;vel em: &lt;<a href="http://www.cis.org.br" target="_blank">http://www.cis.org.br</a>&gt; e Banco de Dados Cesop &lt;<a href="http://www.cesop.unicamp.br" target="_blank">www.cesop.unicamp.br</a>&gt;    <br>   <a name="nt05"></a><a href="#tx05">5</a> Esses valores foram calculados a partir do n&uacute;mero de eleitores registrados em 2002: 115.184.176. Informa&ccedil;&otilde;es obtidas na p&aacute;gina de Jairo Nicolau. Dispon&iacute;vel em: &lt;<a href="http://jaironicolau.iuperj.br/banco2004.html" target="_blank">http://jaironicolau.iuperj.br/banco2004.html</a>&gt;. Acesso em: &#91;05 maio 2009&#93;. Essa &eacute; uma interpreta&ccedil;&atilde;o v&aacute;lida, se levarmos em conta que perguntas que medem os n&iacute;veis de exposi&ccedil;&atilde;o autodeclarados dos eleitores aos jornais podem sofrer de um vi&eacute;s de superestima&ccedil;&atilde;o (ZALLER e PRICE, 1993). Contudo, deve&#45;se ter em conta que, ao responderem &agrave; pergunta, os eleitores poderiam estar considerando qualquer tipo de jornal que pudessem ler durante a semana, mesmo jornais populares ou de uma linguagem mais coloquial, que possuem uma cobertura pol&iacute;tica mais escassa. Ainda assim, como mostram estudos como o de Baum (2003), tais ve&iacute;culos poderiam desempenhar um papel importante na forma&ccedil;&atilde;o da opini&atilde;o dos eleitores, ao disponibilizarem informa&ccedil;&otilde;es pol&iacute;ticas.    <br>   <a name="nt06"></a><a href="#tx06">6</a> Um estudo de Abramo (2007, p.99), por exemplo, mostrou que uma grande quantidade de not&iacute;cias publicadas pela <i>Folha de S. Paulo</i> e <i>O Estado de S. Paulo</i> &eacute; reproduzida, gra&ccedil;as &agrave;s ag&ecirc;ncias de not&iacute;cias desses ve&iacute;culos, em praticamente todos os mais importantes jornais regionais do pa&iacute;s.    ]]></body>
+<body><![CDATA[<br>   <a name="nt07"></a><a href="#tx07">7</a> Em s&eacute;ries temporais, &eacute; comum a introdu&ccedil;&atilde;o em um modelo estat&iacute;stico de uma ou mais vari&aacute;veis explicativas que contenham uma defasagem &#150; em ingl&ecirc;s, "lag" ou "time lag" &#150; no tempo. Isso ocorre porque n&atilde;o se espera que os efeitos, por exemplo, de X sobre Y ocorram instantaneamente, mas com um lapso temporal. Ou seja, o "modelo de regress&atilde;o &#91;pode&#93; incluir n&atilde;o apenas os valores atuais Xt mais tamb&eacute;m os valores defasados Xt&#45;1" de uma vari&aacute;vel (GUJARATI, 1978, p.255&#45;256).    <br>   <a name="nt08"></a><a href="#tx08">8</a> Por raz&otilde;es de espa&ccedil;o, n&atilde;o apresento aqui a discuss&atilde;o sobre especificidades da natureza dos res&iacute;duos dos modelos de s&eacute;ries temporais. Mas essa discuss&atilde;o pode ser vista em Mundim (2010), no cap&iacute;tulo 4.    <br>   <a name="nt09"></a><a href="#tx09">9</a> As raz&otilde;es para o uso desses dados s&atilde;o meramente pr&aacute;ticas, j&aacute; que, infelizmente, n&atilde;o foi poss&iacute;vel obter dados de <i>tracking polls</i>, que s&atilde;o acompanhamentos di&aacute;rios das inten&ccedil;&otilde;es de voto dos candidatos. Ao contr&aacute;rio dos Estados Unidos, onde esses dados s&atilde;o amplamente divulgados por mais de um instituto de pesquisa de opini&atilde;o, no Brasil eles ainda s&atilde;o exclusividade dos partidos. Da&iacute;, a sua dif&iacute;cil libera&ccedil;&atilde;o pelos institutos de pesquisa.    <br>   <a name="nt10"></a><a href="#tx10">10</a> Essas informa&ccedil;&otilde;es est&atilde;o dispon&iacute;veis com o autor mediante solicita&ccedil;&atilde;o.    <br>   <a name="nt11"></a><a href="#tx11">11</a> Achen (2000) argumenta que as vari&aacute;veis dependentes defasadas podem trazer mais problemas do que benef&iacute;cios para os modelos de s&eacute;ries temporais, principalmente porque elas tendem a absorver muito de sua vari&acirc;ncia. Contudo, considero o argumento de Keele e Kelly (2005) mais consistente. Para eles, o uso de vari&aacute;veis dependentes defasadas &eacute; apropriado, desde que elas fa&ccedil;am sentido teoricamente e sejam levadas em conta algumas quest&otilde;es t&eacute;cnicas como, por exemplo, a estacionaridade das s&eacute;ries.    <br>   <a name="nt12"></a><a href="#tx12">12</a> Para informa&ccedil;&otilde;es sobre a metodologia empregada na an&aacute;lise do conte&uacute;do da imprensa, ver os textos de Alessandro Ald&eacute; (2004b) e a p&aacute;gina do Doxa na internet: &lt;doxa.iuperj.br&gt;.    <br>   <a name="nt13"></a><a href="#tx13">13</a> Dados da Associa&ccedil;&atilde;o Nacional do Jornais (ANJ). Dispon&iacute;vel em: &lt;<a href="http://www.anj.org.br/a-industriajornalistica/jornais-no-brasil/maiores-jornais-do-brasil" target="_blank">http://www.anj.org.br/a&#45;industriajornalistica/ jornais&#45;no&#45;brasil/maiores&#45;jornais&#45;do&#45;brasil</a>&gt;. Acesso em: &#91;23 out. 2008&#93;.    <br>   <a name="nt14"></a><a href="#tx14">14</a> Esse n&uacute;mero foi obtido pelos autores ao regredirem a vari&aacute;vel de popularidade presidencial, medida nas pesquisas de inten&ccedil;&atilde;o de voto do <i>Datafolha, Ibope </i>e<i> Vox Populi</i>, contra vari&aacute;veis econ&ocirc;micas cl&aacute;ssicas de desemprego e infla&ccedil;&atilde;o, al&eacute;m de outras de alta volatilidade, no caso indicadores do mercado financeiro nacional (&iacute;ndice Bovespa) e internacional (taxa de c&acirc;mbio e C&#45;Bond).    <br>   <a name="nt15"></a><a href="#tx15">15</a> Modelos de s&eacute;ries temporais exigem que suas vari&aacute;veis seja estacion&aacute;rias (WOOLRIDGE, 2006; BUENO, 2008). Testes KPSS identificaram problemas de raiz unit&aacute;ria de ordem um nas seguintes vari&aacute;veis: inten&ccedil;&otilde;es de voto de Lula (2002 e 2006), Serra, Alckmin, Cristovam; cobertura da imprensa de Lula (2002 e 2006), Garotinho e Ciro; e avalia&ccedil;&atilde;o de governo (2002 e 2006). Para corrigi&#45;los, implementou&#45;se o procedimento sugerido Romer (2004), Woolridge (2007) e Bueno (2008): a tend&ecirc;ncia determin&iacute;stica linear das s&eacute;ries foi eliminada via MQO, estimando&#45;se Yit em fun&ccedil;&atilde;o do tempo; o res&iacute;duos da equa&ccedil;&atilde;o constitu&iacute;ram&#45;se na nova s&eacute;rie. Para detalhes desse procedimento, ver Mundim (2010).    <br>   <a name="nt16"></a><a href="#tx16">16</a> Valores calculados a partir dos dados dispon&iacute;veis na p&aacute;gina de Jairo Nicolau. Dispon&iacute;vel em: &lt;<a href="http://jaironicolau.iuperj.br/" target="_blank">http://jaironicolau.iuperj.br/</a>&gt;. Acesso em: &#91;06 out. 2009&#93;.    ]]></body>
+<body><![CDATA[<br>   <a name="nt17"></a><a href="#tx17">17</a> Pelos resultados da tabela, poder&#45;se&#45;ia imaginar que a cobertura da imprensa tenha tido um efeito indireto nas inten&ccedil;&otilde;es do voto em Lula. Ou seja, a visibilidade negativa nos jornais teria afetado a avalia&ccedil;&atilde;o negativa do governo e, desse modo, o voto no petista. Mas testes de causalidade de Granger e a estima&ccedil;&atilde;o do modelo tendo "Avalia&ccedil;&atilde;o" como vari&aacute;vel dependente n&atilde;o deram qualquer suporte a esta hip&oacute;tese.    <br>   <a name="nt18"></a><a href="#tx18">18</a> Valores calculados a partir dos dados dispon&iacute;veis na p&aacute;gina de Jairo Nicolau. Dispon&iacute;vel em: &lt;<a href="http://jaironicolau.iuperj.br/" target="_blank">http://jaironicolau.iuperj.br/</a>&gt;. Acesso em: &#91;13 out. 2009&#93;.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALDÉ]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[As eleições presidenciais de 2002 nos jornais]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[RUBIM]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Eleições presidenciais de 2002 no Brasil]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Hacker Editores]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALDÉ]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[M. F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENDES]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Imprensa e eleições presidenciais: natureza e consequências da cobertura das eleições de 2002 e 2006]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Mídia nas Eleições de 2006]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Fund. Perseu Abramo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALLEN]]></surname>
+<given-names><![CDATA[R. L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IZCARAY]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Nominal agenda diversity in a media-rich, less-developed society"]]></article-title>
+<source><![CDATA[Communication Research]]></source>
+<year>1998</year>
+<volume>15</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>29-50</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Por que Lula?]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Record]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVAREZ]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Information and elections]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Ann Arbor ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Michigan Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AZEVEDO]]></surname>
+<given-names><![CDATA[F. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Democracia e mídia no Brasil: Um balanço dos anos recentes]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[GOULART]]></surname>
+<given-names><![CDATA[J. O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mídia e Democracia]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Annablume]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAKER]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AMES]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RENNÓ]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Social context and campaign volatility in new democracies: networks and neighborhoods in Brazil's 2002 election"]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2006</year>
+<volume>50</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>382-399</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARTELS]]></surname>
+<given-names><![CDATA[L. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Messages received: the political impact of media exposure"]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>1993</year>
+<volume>87</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>267-285</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARTELS]]></surname>
+<given-names><![CDATA[L. M.]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Presidential primaries and the dynamics of public choice]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAUM]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Soft News Goes to War]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAUM]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KERNELL]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Economic class and popular support for Franklin Roosevelt in War and Peace"]]></article-title>
+<source><![CDATA[Public Opinion Quarterly]]></source>
+<year>2001</year>
+<volume>65</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>198-229</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BELTRÁN]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["The combined effects of advertising and news coverage in the mexican presidential campaign of 2000"]]></article-title>
+<source><![CDATA[Political Communication]]></source>
+<year>2007</year>
+<volume>24</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>37-64</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOAS]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Television and neopopulism in Latin America: Media effects in Brazil and Peru"]]></article-title>
+<source><![CDATA[Latin American Research Review]]></source>
+<year>2005</year>
+<volume>40</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>27-49</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BORBA]]></surname>
+<given-names><![CDATA[F. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Razões para a escolha eleitoral: A influência da campanha política na decisão do voto em Lula durante as eleições presidenciais de 2002]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRANDT]]></surname>
+<given-names><![CDATA[P. T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WILLIAMS]]></surname>
+<given-names><![CDATA[J. T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multiple time series models]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Thousand Oaks ]]></publisher-loc>
+<publisher-name><![CDATA[Sage Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUENO]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria de séries temporais]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Cengage Learning]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BURDEN]]></surname>
+<given-names><![CDATA[B. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["When bad press is good news?: The surprising benefits of negative campaign coveage"]]></article-title>
+<source><![CDATA[Press/Politics]]></source>
+<year>2000</year>
+<volume>3</volume>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>76-89</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMARGOS]]></surname>
+<given-names><![CDATA[M. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Do bolso às urnas: a influência da economia na escolha entre Fernando Henrique e Lula nas eleições de 1998"]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMPBELL]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The American voter: an Abridgment]]></source>
+<year>1967</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARREIRÃO]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A decisão do voto nas eleições presidenciais brasileiras]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Rio de JaneiroFlorianópolis ]]></publisher-loc>
+<publisher-name><![CDATA[Editora FGVEditora da UFSC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CERVI]]></surname>
+<given-names><![CDATA[E. U.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião pública e política no Brasil: O que o brasileiro pensa sobre política e porque Isso interessa à democracia]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHAFFEE]]></surname>
+<given-names><![CDATA[S. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CHOE]]></surname>
+<given-names><![CDATA[S. Y.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Time of decision and media use during the Ford-Carter Campaign"]]></article-title>
+<source><![CDATA[Public Opinion Quarterly]]></source>
+<year>1980</year>
+<volume>44</volume>
+<page-range>53-69</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COIMBRA]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A mídia teve algum papel durante o processo eleitoral de 2006]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Mídia nas Eleições de 2006]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Fundação Perseu Abramo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COLLING]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Eleições 2006: pesquisas indicam que há vida além da mídia"]]></article-title>
+<source><![CDATA[Observatório da Imprensa]]></source>
+<year>2006</year>
+<numero>392</numero>
+<issue>392</issue>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COLLING]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Teorias da conspiração: Os objetos de análise mudam, os analistas ficam no mesmo"]]></article-title>
+<source><![CDATA[Observatório da imprensa]]></source>
+<year>2006</year>
+<numero>393</numero>
+<issue>393</issue>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COMSTOCK]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHARRER]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The psychology of media and politics]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DALTON]]></surname>
+<given-names><![CDATA[R. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BECK]]></surname>
+<given-names><![CDATA[P. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HUCKFELDT]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Partisan cues and the media: information flows in the 1992 Presidential elections"]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>1998</year>
+<volume>92</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>111-126</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DOWNS]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Uma teoria econômica de democracia]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[EDUSP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRUCKMAN]]></surname>
+<given-names><![CDATA[J. N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Media matter: How newspapers and television news cover campaigns and influence voters"]]></article-title>
+<source><![CDATA[Political Communication]]></source>
+<year>2005</year>
+<volume>22</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>463-481</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[M. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Intenção de voto e propaganda política: Efeitos da propaganda eleitoral"]]></article-title>
+<source><![CDATA[Logos]]></source>
+<year>2007</year>
+<numero>27</numero>
+<issue>27</issue>
+<page-range>9-20</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIORINA]]></surname>
+<given-names><![CDATA[M. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Retrospective voting in american nacional elections]]></source>
+<year>1981</year>
+<publisher-loc><![CDATA[New Haven ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GAVIN]]></surname>
+<given-names><![CDATA[N. T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANDERS]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["The press and its influence on british political attitudes under new labour"]]></article-title>
+<source><![CDATA[Political Studies]]></source>
+<year>2003</year>
+<volume>51</volume>
+<page-range>573-591</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GELMAN]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KING]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Why are american presidential election campaign polls so variable when votes are so predictable?"]]></article-title>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>1993</year>
+<volume>23</volume>
+<page-range>409-451</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GITLIN]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Media sociology: The dominat paradigm"]]></article-title>
+<source><![CDATA[Theory and Society]]></source>
+<year>1978</year>
+<volume>6</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>205-253</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRABE]]></surname>
+<given-names><![CDATA[M. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KAMHAWI]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[YEGIYAN]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Informing citizens: How people with different levels of education process television, Newspaper, and Web News"]]></article-title>
+<source><![CDATA[Journal of Broadcasting & Electronic Media]]></source>
+<year>2009</year>
+<volume>53</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>90-111</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUJARATI]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Basic Econometrics]]></source>
+<year>1978</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill Book Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HIBBS]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The american political economiy: Macroeconomics and electoral politics]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOLBROOK]]></surname>
+<given-names><![CDATA[T. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Do campaings matter?]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Thousand Oaks ]]></publisher-loc>
+<publisher-name><![CDATA[Sage Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HUGHES]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAWSON]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["The barriers to media opening in Latin America"]]></article-title>
+<source><![CDATA[Political Communication]]></source>
+<year>2005</year>
+<volume>22</volume>
+<page-range>9-25</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IYENGAR]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Is anyone responsible?: How television frames political issues]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IYENGAR]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KINDER]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[News that matter: Television and american opinion]]></source>
+<year>1987</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JAKOBSEN]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A cobertura da mídia impresa aos candidatos nas eleições presidenciais de 2006]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Mídia nas Eleições de 2006]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Fundação Perseu Abramo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KEELE]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KELLY]]></surname>
+<given-names><![CDATA[N. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Dynamic models for dynamic theories: The ins and outs of lagged dependent variables"]]></article-title>
+<source><![CDATA[Political Analysis]]></source>
+<year>2006</year>
+<volume>14</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>186-20</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KEY]]></surname>
+<given-names><![CDATA[V. O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The responsible electorate]]></source>
+<year>1966</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KIEWIET]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Macroeconomics and Micropolitics]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KMENTA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Elements of Econometrics]]></source>
+<year>1971</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Macmillan Publishing Co.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KRAMER]]></surname>
+<given-names><![CDATA[G. H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["The ecological fallacy revisited: Aggregate versus individual-level findings on economics and elections, and sociotropic voting."]]></article-title>
+<source><![CDATA[Social Science Working Paper]]></source>
+<year>dez.</year>
+<month> 1</month>
+<day>98</day>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAZARSFELD]]></surname>
+<given-names><![CDATA[P. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERELSON]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GAUDET]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The people's choice]]></source>
+<year>1948</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Columbia University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAWSON]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Building the forth state: Democratization and the rise of a free press in Mexico]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Berkeley ]]></publisher-loc>
+<publisher-name><![CDATA[University of California Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAWSON]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MCCANN]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Television news, Mexico's 2000 elections and media effects in emerging democracies"]]></article-title>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2005</year>
+<volume>35</volume>
+<page-range>1-30</page-range></nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[V. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mídia: Crise política e poder no Brasil]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Fundação Perseu Abramo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOURENÇO]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Abrindo a caixa-preta: da indecisão à escolha - A eleição presidencial de 2002"]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCCOMBS]]></surname>
+<given-names><![CDATA[M. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHAW]]></surname>
+<given-names><![CDATA[D. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["The agenda-setting function of mass media"]]></article-title>
+<source><![CDATA[Public Opinion Quarterly]]></source>
+<year>1972</year>
+<volume>26</volume>
+<page-range>176-187</page-range></nlm-citation>
+</ref>
+<ref id="B54">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCDOWALL]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Interrupted time series analysis]]></source>
+<year>1980</year>
+<publisher-loc><![CDATA[Thousand Oaks ]]></publisher-loc>
+<publisher-name><![CDATA[Sage Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B55">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENDES]]></surname>
+<given-names><![CDATA[M. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VENTURI]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Eleição presidencial: o Plano Real na sucessão de Itamar Franco"]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>1994</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>39-48</page-range></nlm-citation>
+</ref>
+<ref id="B56">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUNDIM]]></surname>
+<given-names><![CDATA[P. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Imprensa e voto nas eleições presidenciais brasileiras"]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B57">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEVES]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Telejornalismo e poder nas eleições presidenciais]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Summus Editorial]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B58">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PAGE]]></surname>
+<given-names><![CDATA[B. I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHAPIRO]]></surname>
+<given-names><![CDATA[R. Y.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The rational public]]></source>
+<year>1992</year>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B59">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PATTERSON]]></surname>
+<given-names><![CDATA[T. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The mass media election]]></source>
+<year>1980</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Preager Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B60">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POPKIN]]></surname>
+<given-names><![CDATA[S. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Changing media, changing politics"]]></article-title>
+<source><![CDATA[Perspectives on Politics]]></source>
+<year>2006</year>
+<volume>4</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>327-341</page-range></nlm-citation>
+</ref>
+<ref id="B61">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POPKIN]]></surname>
+<given-names><![CDATA[S. L.]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[The Reasoning Voter]]></source>
+<year>1991</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B62">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PORTO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Framing controversies: television and the 2002 presidential election in Brazil"]]></article-title>
+<source><![CDATA[Political Communication]]></source>
+<year>2007</year>
+<volume>24</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>19-36</page-range></nlm-citation>
+</ref>
+<ref id="B63">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RENNÓ]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Escândalos e voto: as Eleições presidenciais brasileiras de 2006"]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B64">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RENNÓ]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SPANAKOS]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Fundamentos da economia, mercado financeiro e intenção de voto: As eleições presidenciais brasileiras de 1994, 1998 e 2002"]]></article-title>
+<source><![CDATA[Dados]]></source>
+<year>2006</year>
+<volume>49</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>11-40</page-range></nlm-citation>
+</ref>
+<ref id="B65">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROMER]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Time Series Models]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[ROMER]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Capturing campaign dynamics]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B66">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUBIM]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AZEVEDO]]></surname>
+<given-names><![CDATA[F. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Mídia e política no Brasil: Textos e agenda de pesquisa"]]></article-title>
+<source><![CDATA[Lua Nova]]></source>
+<year>1998</year>
+<volume>43</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>189-216</page-range></nlm-citation>
+</ref>
+<ref id="B67">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SEMETKO]]></surname>
+<given-names><![CDATA[Holli A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The media]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[LEDUC]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NIEMI]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NORRIS]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparing Democracies]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Thousand Oaks ]]></publisher-loc>
+<publisher-name><![CDATA[Sage Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B68">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAPIRO]]></surname>
+<given-names><![CDATA[R. Y.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA["Influência da mídia no apoio a candidatos à presidência em eleições primárias: teoria, método e evidência"]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>1994</year>
+<volume>2</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>3-18</page-range></nlm-citation>
+</ref>
+<ref id="B69">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAW]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["The impact of news media favorability and candidate events in presidential campaigns"]]></article-title>
+<source><![CDATA[Political Communication]]></source>
+<year></year>
+<volume>16</volume>
+</nlm-citation>
+</ref>
+<ref id="B70">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAW]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROBERTS]]></surname>
+<given-names><![CDATA[B. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Campaign events, the media and the prospects of victory: the 1992 and 1996 US presidential elections"]]></article-title>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year></year>
+<volume>30</volume>
+<page-range>259-289</page-range></nlm-citation>
+</ref>
+<ref id="B71">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SINGER]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Esquerda e direita no eleitorado brasileiro]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[EDUSP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B72">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STRAUBHAAR]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OLSEN]]></surname>
+</name>
+<name>
+<surname><![CDATA[NUNES]]></surname>
+<given-names><![CDATA[M. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The brazilian case: Influencing the toter]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[SKIDMORE]]></surname>
+<given-names><![CDATA[T. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Television, Politics, and the Transition to Democracy in Latin America]]></source>
+<year></year>
+<publisher-loc><![CDATA[Baltimore ]]></publisher-loc>
+<publisher-name><![CDATA[The John Hopkins University PressThe Woodrow Wilson Center Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B73">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WOOLDRIDGE]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introdução à econometria]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Thomson]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B74">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZALLER]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The myth of massive media impact revived: New support for a discredited idea]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[MUTZ]]></surname>
+<given-names><![CDATA[D. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SNIDERMAN]]></surname>
+<given-names><![CDATA[P. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRODY]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political persuasion and attitude change]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Ann Arbor ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Michigan Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B75">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZALLER]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[The nature and origins of mass opinion]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B76">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZALLER]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PRICE]]></surname>
+<given-names><![CDATA[VOL.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA["Who gets the news?: Alternative measures of news reception and their implications for research."]]></article-title>
+<source><![CDATA[Public Opinion Quarterly]]></source>
+<year>1993</year>
+<volume>57</volume>
+<page-range>133-164</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

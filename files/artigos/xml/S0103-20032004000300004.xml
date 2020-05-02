@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032004000300004</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032004000300004</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Pobreza e distribuição de renda em áreas rurais: uma abordagem de inferência]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Neder]]></surname>
+<given-names><![CDATA[Henrique Dantas]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Jorge Luiz Mariano da]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Uberlândia  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal do Rio Grande do Norte  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2004</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2004</year>
+</pub-date>
+<volume>42</volume>
+<numero>3</numero>
+<fpage>469</fpage>
+<lpage>486</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032004000300004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032004000300004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032004000300004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O trabalho desenvolve aplicações de metodologias para a estimativa de índices de pobreza e de distribuição de renda em áreas rurais considerando-se os erros amostrais das Pesquisas Amostrais por Amostras Domiciliares - PNADs. São obtidos estimativas com intervalos de confiança para diversos indicadores e para diversas áreas rurais do Brasil e explicitadas as áreas onde se observou alterações significativas na proporção de pobres, intensidade da pobreza e distribuição de renda no período 1995-2001. Os resultados das estimativas apontam para a ocorrência de variação significativa e positiva nos indicadores de pobreza nos Estados de São Paulo, Pernambuco, Alagoas e queda significativa dos mesmos indicadores no Ceará, Rio de Janeiro, Santa Catarina e Goiás. Verificou-se uma queda significativa no mesmo período na concentração de renda nas áreas rurais de Tocantins, Piauí, Paraíba, região metropolitana rural, região Nordeste rural, região Nordeste metropolitana rural e região Sul metropolitana rural e nos estados de São Paulo, Paraná e Ceará, constatou-se uma elevação significativa do valor do índice de Gini. Com base em valores calculados de elasticidades da pobreza foi possível estabelecer uma avaliaçao das regiões rurais do país em termos de efetividade de combate à pobreza em termos de políticas de crescimento e distributivas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The work develops applications of methodologies for the estimation of poverty indexes and income distribution in rural areas, being considered the sample errors of the National Survey for Household Sampling - PNADs. Are obtained estimates with confidence intervals for several indicators and for several rural areas of Brazil and stressed the areas where it was observed significant alterations in the poor proportion, poverty intensity and income distribution in the period 1995-2001. The results of the estimates point for the occurrence of significant and positive variation in the poverty indicators in States of São Paulo, Pernambuco, Alagoas and significant fall of the same indicators in Ceará, Rio de Janeiro, Santa Catarina and Goiás. A significant fall was verified in the same period in the income concentration of the rural areas of Tocantins, Piauí, Paraíba, rural metropolitan area, rural Northeast area, rural metropolitan Northeast area and rural metropolitan South area and in the states of São Paulo, Paraná and Ceará, a significant elevation of the value of Gini index was verified. With base in calculated values of poverty elasticities was possible to establish an evaluation of the rural areas of the country in terms of combat effectiveness to the poverty based on growth and distributives policies.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[distribuição de renda]]></kwd>
+<kwd lng="pt"><![CDATA[pobreza rural]]></kwd>
+<kwd lng="pt"><![CDATA[bootstrapping]]></kwd>
+<kwd lng="pt"><![CDATA[indicadores sociais]]></kwd>
+<kwd lng="en"><![CDATA[income distribution]]></kwd>
+<kwd lng="en"><![CDATA[rural poverty]]></kwd>
+<kwd lng="en"><![CDATA[bootstrapping]]></kwd>
+<kwd lng="en"><![CDATA[social indicators]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>Pobreza e distribui&ccedil;&atilde;o    de renda em &aacute;reas rurais: uma abordagem de infer&ecirc;ncia</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Henrique Dantas    Neder<sup>I</sup>; Jorge Luiz Mariano da Silva<sup>II</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Doutor    em Economia &#150; Professor da Universidade Federal de Uberl&acirc;ndia, E-mail:    <a href="mailto:dneder@ufu.br">dneder@ufu.br</a>    <br>   <sup>II</sup>Doutor em Economia &#150; Professor da Universidade Federal do Rio Grande    do Norte</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O trabalho desenvolve    aplica&ccedil;&otilde;es de metodologias para a estimativa de &iacute;ndices    de pobreza e de distribui&ccedil;&atilde;o de renda em &aacute;reas rurais considerando-se    os erros amostrais das Pesquisas Amostrais por Amostras Domiciliares &#150;    PNADs. S&atilde;o obtidos estimativas com intervalos de confian&ccedil;a para    diversos indicadores e para diversas &aacute;reas rurais do Brasil e explicitadas    as &aacute;reas onde se observou altera&ccedil;&otilde;es significativas na    propor&ccedil;&atilde;o de pobres, intensidade da pobreza e distribui&ccedil;&atilde;o    de renda no per&iacute;odo 1995-2001. Os resultados das estimativas apontam    para a ocorr&ecirc;ncia de varia&ccedil;&atilde;o significativa e positiva nos    indicadores de pobreza nos Estados de S&atilde;o Paulo, Pernambuco, Alagoas    e queda significativa dos mesmos indicadores no Cear&aacute;, Rio de Janeiro,    Santa Catarina e Goi&aacute;s. Verificou-se uma queda significativa no mesmo    per&iacute;odo na concentra&ccedil;&atilde;o de renda nas &aacute;reas rurais    de Tocantins, Piau&iacute;, Para&iacute;ba, regi&atilde;o metropolitana rural,    regi&atilde;o Nordeste rural, regi&atilde;o Nordeste metropolitana rural e regi&atilde;o    Sul metropolitana rural e nos estados de S&atilde;o Paulo, Paran&aacute; e Cear&aacute;,    constatou-se uma eleva&ccedil;&atilde;o significativa do valor do &iacute;ndice    de Gini. Com base em valores calculados de elasticidades da pobreza foi poss&iacute;vel    estabelecer uma avalia&ccedil;ao das regi&otilde;es rurais do pa&iacute;s em    termos de efetividade de combate &agrave; pobreza em termos de pol&iacute;ticas    de crescimento e distributivas.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chaves:</b>    distribui&ccedil;&atilde;o de renda, pobreza rural, bootstrapping, indicadores    sociais</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Classifica&ccedil;&atilde;o    JEL:</b> I32</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The work develops    applications of methodologies for the estimation of poverty indexes and income    distribution in rural areas, being considered the sample errors of the National    Survey for Household Sampling - PNADs. Are obtained estimates with confidence    intervals for several indicators and for several rural areas of Brazil and stressed    the areas where it was observed significant alterations in the poor proportion,    poverty intensity and income distribution in the period 1995-2001. The results    of the estimates point for the occurrence of significant and positive variation    in the poverty indicators in States of S&atilde;o Paulo, Pernambuco, Alagoas    and significant fall of the same indicators in Cear&aacute;, Rio de Janeiro,    Santa Catarina and Goi&aacute;s. A significant fall was verified in the same    period in the income concentration of the rural areas of Tocantins, Piau&iacute;,    Para&iacute;ba, rural metropolitan area, rural Northeast area, rural metropolitan    Northeast area and rural metropolitan South area and in the states of S&atilde;o    Paulo, Paran&aacute; and Cear&aacute;, a significant elevation of the value    of Gini index was verified. With base in calculated values of poverty elasticities    was possible to establish an evaluation of the rural areas of the country in    terms of combat effectiveness to the poverty based on growth and distributives    policies.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key words:</b>    income distribution, rural poverty, bootstrapping, social indicators</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>JEL Classification:</b>    I32</font></p> <hr size="1" noshade>     <p>&nbsp;</p>    <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1 - Introdu&ccedil;&atilde;o</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com as recentes transforma&ccedil;&otilde;es sociais no Brasil em decorr&ecirc;ncia do processo de liberaliza&ccedil;&atilde;o econ&ocirc;mica do pa&iacute;s, acompanhado do agravamento da crise social, torna-se relevante o estudo da evolu&ccedil;&atilde;o de indicadores que permitam n&atilde;o apenas apontar as &aacute;reas e setores em que a pauperiza&ccedil;&atilde;o da popula&ccedil;&atilde;o &eacute; mais dram&aacute;tica e evidente em fun&ccedil;&atilde;o da aus&ecirc;ncia de pol&iacute;ticas p&uacute;blicas, como tamb&eacute;m subsidiar a formula&ccedil;&atilde;o de pol&iacute;ticas eficazes de combate &agrave; pobreza e a concentra&ccedil;&atilde;o de renda rural. Tamb&eacute;m &eacute; importante tentar demonstrar que este agravamento poderia ter sido maior se algumas pol&iacute;ticas sociais n&atilde;o tivessem sido operantes e efetivas como as decorrentes dos princ&iacute;pios estabelecidos na Constitui&ccedil;&atilde;o Federal de 1988, como &eacute; o caso da implementa&ccedil;&atilde;o das aposentadorias rurais e a extens&atilde;o do direito universal das mesmas para pessoas com mais de 65 anos e sem renda. O argumento de que as pol&iacute;ticas sociais foram in&oacute;cuas em per&iacute;odo recente com rela&ccedil;&atilde;o &agrave; melhoria dos indicadores, n&atilde;o leva em conta o fato de que o agravamento destes &iacute;ndices teria sido mais dram&aacute;tico caso muitos dos programas n&atilde;o tivessem existido e se mantido na d&eacute;cada de 90. O debate atual sobre as quest&otilde;es sociais no Brasil est&aacute; hoje centrado na oposi&ccedil;&atilde;o de uma universaliza&ccedil;&atilde;o e focaliza&ccedil;&atilde;o das pol&iacute;ticas sociais. Esta &eacute; talvez uma falsa contraposi&ccedil;&atilde;o, na medida em que mesmo advogando-se em favor da manuten&ccedil;&atilde;o da universaliza&ccedil;&atilde;o, existe a necessidade da avalia&ccedil;&atilde;o dos efeitos das interven&ccedil;&otilde;es.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os efeitos das    novas pol&iacute;ticas econ&ocirc;micas e sociais nas &aacute;reas rurais do    Brasil foram bastante diversos e devem ser tratados com aten&ccedil;&atilde;o    particular. Algumas mudan&ccedil;as ocorreram, tal como tamb&eacute;m para a    popula&ccedil;&atilde;o urbana, em fun&ccedil;&atilde;o da estabiliza&ccedil;&atilde;o    de pre&ccedil;os no in&iacute;cio da segunda metade da d&eacute;cada de 90,    sendo que os efeitos positivos parecem esgotar-se a partir do final deste per&iacute;odo,    quando as elevadas taxas de desemprego e a situa&ccedil;&atilde;o recessiva    do Pa&iacute;s contrabalan&ccedil;am negativamente os ganhos sociais advindos    da queda inflacion&aacute;ria. Algumas transforma&ccedil;&otilde;es econ&ocirc;micas    nas &aacute;reas rurais parecem ter tamb&eacute;m contribu&iacute;do para aplacar    os efeitos da crise como &eacute; o caso do crescimento das atividades n&atilde;o    agr&iacute;colas em algumas regi&otilde;es do Brasil rural. No entanto, verifica-se    tal como constatado em Neder/2001 que estas atividades contribu&iacute;ram para    a piora dos &iacute;ndices de distribui&ccedil;&atilde;o de renda rural. Um    importante componente da renda rural, que s&atilde;o as aposentadorias, passou    a ter um papel relevante como fator distributivo de renda.<a name="top1"></a><a href="#back1"><sup>1</sup></a>    &Egrave; prov&aacute;vel que a forma tal como se direciona a trajet&oacute;ria    do desenvolvimento rural seja t&atilde;o ou mais perversa do que a chamada moderniza&ccedil;&atilde;o    conservadora, tendo em vista as elevadas taxas de desemprego rural em virtude    da intensifica&ccedil;&atilde;o da mecaniza&ccedil;&atilde;o das atividades    agr&iacute;colas, como tamb&eacute;m de uma certa extens&atilde;o do novo paradigma    tecnol&oacute;gico e de organiza&ccedil;&atilde;o produtiva para as &aacute;reas    rurais.</font></p>      <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2 &#150; Metodologia</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2 .1 &#150; Considera&ccedil;&otilde;es sobre o tratamento das amostras utilizadas</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O presente trabalho    baseia-se na estimativa de &iacute;ndices de pobreza e de concentra&ccedil;&atilde;o    de renda obtidos das PNADs &#150; Pesquisa Nacional por Amostras Domiciliares    em dois anos: 1995 e 2001. O c&aacute;lculo dos &iacute;ndices foi realizado    utilizando-se procedimentos de infer&ecirc;ncia que al&eacute;m de obter as    estimativas de ponto foram tamb&eacute;m estimados intervalos de confian&ccedil;a    para os indicadores tendo em conta que os dados prov&eacute;m de amostras domiciliares.    A PNAD &eacute; uma pesquisa anual com desenho de amostragem complexa e que    necessita de um tratamento de infer&ecirc;ncia que leve em conta estas caracter&iacute;sticas.    Nas regi&otilde;es metropolitanas e nos chamados munic&iacute;pios auto-representativos    (munic&iacute;pios de grande popula&ccedil;&atilde;o situados fora das regi&otilde;es    metropolitanas) a amostra &eacute; realizada em dois est&aacute;gios sendo que    a unidade prim&aacute;ria amostral (PSU) s&atilde;o os setores censit&aacute;rios.    Estes s&atilde;o selecionados com probabilidade proporcional ao tamanho (PPS)    sendo utilizado como proxy de tamanho o n&uacute;mero de domic&iacute;lios em    cada setor. Em cada setor selecionado s&atilde;o escolhidos domic&iacute;lios    atrav&eacute;s de um procedimento de amostragem sistem&aacute;tica. Existe tamb&eacute;m    uma estratifica&ccedil;&atilde;o impl&iacute;cita feita pelo IBGE a partir do    ordenamento dos setores censit&aacute;rios para a sele&ccedil;&atilde;o dos    setores da amostra. Para os munic&iacute;pios n&atilde;o auto-representativos    (munic&iacute;pios pequenos), as unidades da federa&ccedil;&atilde;o s&atilde;o    estratificadas geograficamente, sendo que em cada estrato s&atilde;o selecionados    dois munic&iacute;pios, sendo estes as unidades prim&aacute;rias de amostragem    (PSUs). A sele&ccedil;&atilde;o dos munic&iacute;pios &eacute; feita com probabilidade    proporcional ao tamanho dos mesmos, sendo que a proxy de tamanho indicada &eacute;    a popula&ccedil;&atilde;o total do munic&iacute;pio por ocasi&atilde;o do &uacute;ltimo    censo. Ap&oacute;s esta etapa s&atilde;o selecionados os setores censit&aacute;rios    adotando-se o mesmo m&eacute;todo empregado nas regi&otilde;es metropolitanas    e munic&iacute;pios auto-representativos. Desta forma, para os munic&iacute;pios    n&atilde;o auto-representativos a amostra &eacute; em tr&ecirc;s est&aacute;gios.    <a name="top2"></a><a href="#back2"><sup>2</sup></a></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O que importa para fins de utiliza&ccedil;&atilde;o das informa&ccedil;&otilde;es do desenho de amostragem para realizar infer&ecirc;ncias &eacute; conhecer em qual estrato e em qual PSU est&aacute; localizado o domic&iacute;lio da amostra. Com este conhecimento e de posse dos registros unit&aacute;rios (micro-dados) das PNADs, assim como programas estat&iacute;sticos convenientes, &eacute; poss&iacute;vel n&atilde;o somente estimar &iacute;ndices, assim como obter a dimens&atilde;o dos erros de amostragem para cada estimativa. Deve-se levar em conta que os erros de amostragem em uma amostra complexa como &eacute; o caso da PNAD s&atilde;o muito mais elevados do que os mesmos erros para uma amostra aleat&oacute;ria simples (AAS) com o mesmo tamanho de amostra. A vari&acirc;ncia dos estimadores amplifica-se em rela&ccedil;&atilde;o &agrave; mesma vari&acirc;ncia de uma AAS na medida do chamado fator do desenho da amostra que ir&aacute; depender das caracter&iacute;sticas descritas anteriormente.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cabe um coment&aacute;rio sobre a comparabilidade entre os dados das amostras da PNAD 1995 e 2001. Como neste artigo foram consideradas as sub-amostras para as &aacute;reas rurais do pa&iacute;s e levando-se em conta que para o ano de 2001 a PNAD redefine as &aacute;reas rurais de acordo com os resultados do Censo Demogr&aacute;fico de 2001, &eacute; poss&iacute;vel que ocorra alguma perda de comparabilidade entre as estimativas para os dois anos. O que ocorre &eacute; que as estimativas para 2001 por estarem mais pr&oacute;ximas do ano censit&aacute;rio do que as estimativas para 1995, elas acabem por refletir com maior rigor os valores dos indicadores para o conjunto das &aacute;reas rurais do pa&iacute;s e nas regi&otilde;es estudadas. Esta distor&ccedil;&atilde;o seria mais grave quanto mais afastado estivesse o ano inicial (1995) estivesse do ano censit&aacute;rio correspondente (1991). &Eacute; prov&aacute;vel que em quatro anos o per&iacute;metro urbano de muitos munic&iacute;pios tenha se ampliado, mas desprezaremos aqui este efeito levando-se em conta que muitas vezes esta amplia&ccedil;&atilde;o n&atilde;o reflete necessariamente o processo de urbaniza&ccedil;&atilde;o no inicio da d&eacute;cada de 1990, sendo decorr&ecirc;ncia muitas vezes dos interesses das municipalidades em ampliar a arrecada&ccedil;&atilde;o de impostos via cobran&ccedil;a de IPTU.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2.2 &#150;    M&eacute;todos de estimativa de intervalos de confian&ccedil;a para </i></b><b><i>os    indicadores</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste trabalho    ser&atilde;o empregados para efeito de checagem diversos m&eacute;todos de estimativa.    Um primeiro m&eacute;todo &eacute; o da estimativa da vari&acirc;ncia baseado    na "lineariza&ccedil;&atilde;o" (Stata, 2001 e Pessoa e Silva, 2002) empregando    os comandos svy do Stata. Para as estimativas dos &iacute;ndices de pobreza    foi utilizado um programa do Stata (ado file) denominado sepov (Jollife e Semykina,1999).    Este programa estima os &iacute;ndices de Foster-Greer-Thorbecke (<i>headcount    ratio &#150;</i> P<sub>0</sub><i>, poverty gap -</i> P<sub>1</sub> <i>e squared    poverty gap &#150;</i> P<sub>2</sub><i>)</i> com as suas respectivas vari&acirc;ncias    e limites de intervalo de confian&ccedil;a. Estes &iacute;ndices s&atilde;o    calculados com base nas seguintes express&otilde;es:</font></p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506x1.gif"></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde q &eacute;    o n&uacute;mero de pobres (pessoas cuja renda <i>per capita</i> domiciliar &eacute;    menor que a linha de pobreza), n &eacute; o tamanho da popula&ccedil;&atilde;o,    z &eacute; a linha de pobreza e y<sub>i</sub> &eacute; a renda <i>per capita</i>    domiciliar da i-&eacute;sima pessoa.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O primeiro &iacute;ndice (Poverty Headcount) mede a propor&ccedil;&atilde;o de pessoas pobres, ou seja, a propor&ccedil;&atilde;o de pessoas que t&ecirc;m renda <i>per capita</i> domiciliar inferior &agrave; linha de pobreza. Tal indicador &eacute; utilizado como ponto de partida para estudos sobre pobreza, mas &eacute; insuficiente para analis&aacute;-la dado que viola dois importantes axiomas (Sen <i>apud</i> Prates, 1996). Em primeiro lugar, o indicador n&atilde;o se altera ao se reduzir a renda de uma pessoa situada abaixo da linha de pobreza ou o inverso, isto &eacute;, quando a renda eleva-se sem alcan&ccedil;ar a linha de pobreza o indicador permanece o mesmo. Em segundo lugar, a propor&ccedil;&atilde;o tamb&eacute;m &eacute; insens&iacute;vel &agrave; distribui&ccedil;&atilde;o de renda entre os pobres, n&atilde;o se alterando quando se transfere renda de um indiv&iacute;duo mais pobre para outro menos pobre. Sendo assim, a propor&ccedil;&atilde;o de pobres deve ser utilizada em conjunto com outros dois indicadores, que se complementam mutuamente.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O segundo &iacute;ndice ("poverty gap") mede a intensidade de pobreza para o conjunto da popula&ccedil;&atilde;o pobre atrav&eacute;s do c&aacute;lculo do desvio m&eacute;dio entre a renda dos pobres e o valor da linha de pobreza e pode ser interpretado como um indicador do d&eacute;ficit de pobreza, ou seja, os recursos necess&aacute;rios para elevar a renda de todos os pobres ao n&iacute;vel da linha de pobreza, atrav&eacute;s de uma perfeita focaliza&ccedil;&atilde;o das transfer&ecirc;ncias de renda. O terceiro &iacute;ndice (Squared Poverty Gap) &eacute; geralmente descrito como um indicador de severidade da pobreza. Na constru&ccedil;&atilde;o deste &iacute;ndice utiliza-se um peso maior para as pessoas mais pobres (o "gap de pobreza" &eacute; ponderado por si mesmo) e leva-se em conta a desigualdade de renda entre os pobres. Considerando-se a utiliza&ccedil;&atilde;o destes &iacute;ndices para os prop&oacute;sitos de pol&iacute;ticas p&uacute;blicas de combate &agrave; pobreza a propor&ccedil;&atilde;o de pobres (P<sub>0</sub>) atribui maior efetividade &agrave; pol&iacute;ticas que elevam a renda dos menos pobres (aqueles cuja renda &eacute; mais pr&oacute;xima de z). J&aacute; o <i>gap</i> de pobreza (P<sub>1</sub>) e o <i>gap</i> de pobreza ao quadrado (P<sub>2</sub>) colocam &ecirc;nfase naqueles que est&atilde;o muito abaixo de z, ou seja, os mais pobres dos pobres. As linhas de pobreza utilizadas foram obtidas nos trabalhos da pesquisadora do Instituto de Pesquisas Econ&ocirc;micas Aplicadas &#150; IPEA, Sonia Rocha, e cuja metodologia encontra-se descrita em Rocha(1998).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um segundo m&eacute;todo empregado para a estimativa dos indicadores &eacute; o <i>bootstrapping.</i> Este m&eacute;todo baseia-se em procedimentos de re-amostragem (replica&ccedil;&atilde;o de in&uacute;meras amostras selecionadas com reposi&ccedil;&atilde;o da amostra original e com mesmo tamanho n). Foram obtidas para cada estimativa 100 replica&ccedil;&otilde;es e feito o c&aacute;lculo do desvio-padr&atilde;o dos indicadores a partir da distribui&ccedil;&atilde;o do &iacute;ndice nas replica&ccedil;&otilde;es. Este m&eacute;todo &eacute; particularmente adequado para a infer&ecirc;ncia dos &iacute;ndices de distribui&ccedil;&atilde;o, particularmente o &iacute;ndice de Gini, na medida que este tem uma f&oacute;rmula complexa e para o qual n&atilde;o pode ser adotado um m&eacute;todo anal&iacute;tico (como o primeiro m&eacute;todo). O m&eacute;todo do <i>bootstrapping</i> para uma amostra complexa procura imitar, para a constru&ccedil;&atilde;o dos <i>replicates</i> (amostras selecionadas com reposi&ccedil;&atilde;o selecionadas da amostra original), o mesmo m&eacute;todo de sele&ccedil;&atilde;o adotado para a sele&ccedil;&atilde;o da amostra da PNAD. Assim, da pr&oacute;pria amostra original da PNAD s&atilde;o selecionados os PSUs com reposi&ccedil;&atilde;o com probabilidade proporcional ao tamanho. Para os PSUs de regi&otilde;es metropolitanas e munic&iacute;pios auto-representativos foi utilizada a probabilidade de sele&ccedil;&atilde;o do munic&iacute;pio como vari&aacute;vel psuwt e para os munic&iacute;pios n&atilde;o auto-representativos foi utilizada a probabilidade de sele&ccedil;&atilde;o do setor censit&aacute;rio, sendo que ambas vari&aacute;veis est&atilde;o dispon&iacute;veis nos arquivos de micro-dados das PNADs. As estimativas dos intervalos de confian&ccedil;a basearam-se na hip&oacute;tese de normalidade da distribui&ccedil;&atilde;o amostral (para maiores detalhes ver Mooney e Duval (1993) assim como Stata (2001)).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um terceiro m&eacute;todo de estimativa de intervalos de confian&ccedil;a empregado neste trabalho &eacute; a abordagem de lineariza&ccedil;&atilde;o de Rao. Este m&eacute;todo &eacute; descrito com detalhes no manual do programa DAD da Universidade de Laval (Duclos et alii, 2002) e foi utilizado no contexto das estimativas de intervalos de confian&ccedil;a dos &iacute;ndices de Gini sendo comparados com as mesmas estimativas obtidas pelo m&eacute;todo <i>bootstrapping</i> atrav&eacute;s do programa Stata. Os resultados da compara&ccedil;&atilde;o comprovaram-se satisfat&oacute;rios sendo as vari&acirc;ncias obtidas muito pr&oacute;ximas.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>2.3 &#150; C&aacute;lculo da elasticidade da pobreza</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o c&aacute;lculo    da elasticidade da pobreza foi utilizada a metodologia proposta por Datt (1998).    Esta &eacute; uma proposi&ccedil;&atilde;o para c&aacute;lculo dos valores das    elasticidades a partir de dados de distribui&ccedil;&atilde;o de renda agrupados.    O autor do presente artigo desenvolveu um programa em Stata adaptando a metodologia    para a estrutura dos micro-dados das PNADs. No artigo de Datt (1998) s&atilde;o    apresentadas duas especifica&ccedil;&otilde;es para a curva de Lorenz, mas optamos    por simplicidade apenas para a Quadr&aacute;tica Geral.<a name="top3"></a><a href="#back3"><sup>3</sup></a>    Sejam as seguintes fun&ccedil;&otilde;es:</font></p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506x2.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde L &eacute;    a participa&ccedil;&atilde;o dos p por cento inferiores da popula&ccedil;&atilde;o    na renda <i>per capita</i> domiciliar, <font face="Symbol">p</font> &eacute;    um vetor de par&acirc;metros estim&aacute;veis da curva de Lorenz, P &eacute;    a medida de pobreza escrita como uma fun&ccedil;&atilde;o da rela&ccedil;&atilde;o    da renda <i>per capita</i> domiciliar m&eacute;dia &#181; &agrave; linha de    pobreza z e os par&acirc;metros da curva de Lorenz. A especifica&ccedil;&atilde;o    Quadr&aacute;tica Geral da curva de Lorenz &eacute; dada pelas seguintes fun&ccedil;&otilde;es:</font></p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506x4.gif"></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As fun&ccedil;&otilde;es    que representam as medidas de pobreza dadas a partir desta especifica&ccedil;&atilde;o    da curva de Lorenz s&atilde;o:</font></p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506x6.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde H, PG e P<sub>2</sub>    s&atilde;o respectivamente a propor&ccedil;&atilde;o de pobres, o gap de pobreza    e a severidade da pobreza da classe dos &iacute;ndices FGT de pobreza e os par&acirc;metros:</font></p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506x9.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O procedimento    para estimar os par&acirc;metros da curva de Lorenz utilizou uma regress&atilde;o    linear por m&iacute;nimos quadrados ordin&aacute;rios de L(1-L) em (p<sup>2</sup>    &#150; L), L(p &#150; 1) e (p-L) para a obten&ccedil;&atilde;o dos par&acirc;metros    a, b e c.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os valores das    elasticidades da pobreza s&atilde;o calculadas a partir das f&oacute;rmulas    no <a href="#qua1">Quadro 1</a>, a seguir:</font></p>     <p><a name="qua1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506q1.gif"></p>      <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3 &#150; Resultados</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na <a href="#tab1">Tabela    1</a> s&atilde;o apresentadas as estimativas da propor&ccedil;&atilde;o de pobres    (P<sub>0</sub>) para os anos de 1995 e 2001 com os respectivos intervalos de    confian&ccedil;a e n&iacute;veis de signific&acirc;ncia dos valores da diferen&ccedil;a    entre os &iacute;ndices de 2001 e 1995. Nos Estados do Cear&aacute;, Rio de    Janeiro, Santa Catarina e Goi&aacute;s observa-se uma queda significativa na    propor&ccedil;&atilde;o de pobres (P<sub>0</sub>), com n&iacute;veis de signific&acirc;ncia    0,0973; 0,0251;0,0626 e 0,0580 respectivamente.<a name="top4"></a><a href="#back4"><sup>4</sup></a>    No Estado de S&atilde;o Paulo rural observa-se uma eleva&ccedil;&atilde;o significativa    da propor&ccedil;&atilde;o de pobres entre os anos de 1995 e 2001, com n&iacute;vel    de signific&acirc;ncia 0,0366. Na <a href="#tab2">Tabela 2</a> s&atilde;o apresentados    os valores dos hiatos de pobreza (P<sub>1</sub>) para os mesmos anos ocorrendo    uma queda significativa nos Estados do Piau&iacute;, Para&iacute;ba, Santa Catarina    e Goi&aacute;s e eleva&ccedil;&atilde;o significativa deste &iacute;ndice nos    Estados de Pernambuco, Alagoas e S&atilde;o Paulo. Portanto os Estados que tiveram    redu&ccedil;&atilde;o significativa da pobreza tanto no que se refere a sua    propor&ccedil;&atilde;o como a sua intensidade foram Santa Catarina e Goi&aacute;s    enquanto que em S&atilde;o Paulo observou-se um agravamento nestes dois aspectos    da pobreza. Os dados da <a href="#tab3">Tabela 3</a> s&atilde;o mais agregados    por regi&otilde;es e mostram uma queda significativa da propor&ccedil;&atilde;o    de pobres no per&iacute;odo 1995-2001 na regi&atilde;o Centro-Oeste rural, na    regi&atilde;o rural do estado do Rio de Janeiro, ao passo que se observa um    aumento significativo da intensidade da pobreza (&iacute;ndice P<sub>1</sub>)    al&eacute;m de em S&atilde;o Paulo, como visto anteriormente, mas tamb&eacute;m    na regi&atilde;o Nordeste 2 formada pelos Estados de Alagoas, Pernambuco, Sergipe    e Bahia. Na <a href="#tab3">Tabela 3</a>, a regi&atilde;o Nordeste foi dividida    em duas sub-regi&otilde;es (NE1 rural e NE2 rural). Procedeu-se dessa forma    para que fosse poss&iacute;vel aproveitar melhor as possibilidades de desagrega&ccedil;&atilde;o    das amostras, levando-se em conta que a sub-amostra para o Nordeste rural &eacute;    muito grande em rela&ccedil;&atilde;o &agrave;s demais regi&otilde;es do pa&iacute;s,    devido ao seu elevado n&uacute;mero de unidades da federa&ccedil;&atilde;o.</font></p>     <p><a name="tab1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506t1.gif"></p>     <p>&nbsp;</p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506t2.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><a name="tab3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506t3.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href="/img/revistas/resr/v42n3/24506t4.gif">Tabela    4</a> apresenta os valores dos &iacute;ndices de Gini assim como tamb&eacute;m    os seus respectivos intervalos de confian&ccedil;a para os anos de 1995 e 2001    para as diversas &aacute;reas rurais do Brasil. Nesta tabela tamb&eacute;m s&atilde;o    mostradas as diferen&ccedil;as dos valores dos &iacute;ndices para estes dois    anos e o valor do n&iacute;vel de signific&acirc;ncia (<i>p-value</i>) para    estas diferen&ccedil;as. Observa-se uma queda significativa do &iacute;ndice    de Gini (valores negativos para a diferen&ccedil;a e <i>p-value</i> baixo) nos    Estados do Tocantins, Piau&iacute;, Para&iacute;ba e nas regi&otilde;es rurais    metropolitanas, no Nordeste rural como um todo, no Nordeste rural metropolitano    e na regi&atilde;o Sul rural metropolitana. Constatam-se eleva&ccedil;&otilde;es    significativas do &iacute;ndice de Gini (valores positivos da diferen&ccedil;a    e <b><i>p-value</i></b> baixo) nas &aacute;reas rurais dos Estados de S&atilde;o    Paulo, Cear&aacute; e Paran&aacute;. No conjunto das &aacute;reas rurais do    Brasil n&atilde;o &eacute; observada uma varia&ccedil;&atilde;o significativa    do &iacute;ndice de Gini (<i>p-value</i> = 0,4056) no per&iacute;odo 1995-2001.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href="#tab5">Tabela    5</a> apresenta as elasticidades da pobreza com rela&ccedil;&atilde;o ao aumento    da renda m&eacute;dia e do &iacute;ndice de Gini considerando-se os tr&ecirc;s    &iacute;ndices FGT. As elasticidades representam a varia&ccedil;&atilde;o percentual    no &iacute;ndice de pobreza como decorr&ecirc;ncia de uma varia&ccedil;&atilde;o    percentual unit&aacute;ria da renda m&eacute;dia (elasticidade da pobreza em    rela&ccedil;&atilde;o ao crescimento) e a varia&ccedil;&atilde;o percentual    no &iacute;ndice de pobreza como decorr&ecirc;ncia de uma varia&ccedil;&atilde;o    percentual unit&aacute;ria no &iacute;ndice de Gini (elasticidade da pobreza    em rela&ccedil;&atilde;o ao &iacute;ndice de Gini). Nesta Tabela s&atilde;o    tamb&eacute;m apresentados os valores estimados dos &iacute;ndices de pobreza    e Gini utilizando-se os m&eacute;todos descritos na se&ccedil;&atilde;o 2.3    e observa-se uma boa aproxima&ccedil;&atilde;o destes valores aos obtidos atrav&eacute;s    dos outros m&eacute;todos. Considerando-se a elasticidade da pobreza (&iacute;ndice    P<sub>0</sub>) em rela&ccedil;&atilde;o ao crescimento da renda m&eacute;dia,    os Estados que apresentaram em 2001 os melhores resultados s&atilde;o Esp&iacute;rito    Santo, Rio de Janeiro, Santa Catarina, Mato Grosso do Sul e S&atilde;o Paulo    ao passo que o Piau&iacute;, Maranh&atilde;o, Cear&aacute;, Para&iacute;ba e    a regi&atilde;o Nordeste rural mostraram &iacute;ndices mais reduzidos em valores    absolutos. A interpreta&ccedil;&atilde;o desses resultados, por exemplo para    os estados do Piau&iacute; e Esp&iacute;rito Santo, que registraram as elasticidades    da pobreza de &#150;0,7326 e &#150;1,3075, respectivamente, indicam, que se    houver um acr&eacute;scimo de 1% na renda m&eacute;dia dos domic&iacute;lios    nas regi&otilde;es rurais nesses estados, o percentual de pobres cairia no Piau&iacute;    em 0,73%, enquanto no Esp&iacute;rito Santo em 1,3%.</font></p>     <p><a name="tab5"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506t5.gif"></p>     <p>&nbsp;</p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Considerando-se    o Estado do Esp&iacute;rito Santo cuja estimativa de n&uacute;mero de pessoas    pobres residentes em &aacute;reas rurais em 2001 era de 153.772, o aumento de    1 % na renda de todas as fam&iacute;lias implicar&aacute; em uma redu&ccedil;&atilde;o    de 2.011 pessoas pobres, ao passo que no Estado do Piau&iacute; para o qual    era estimado um total de 594.022 pessoas pobres, o mesmo aumento geral de 1    % na renda das fam&iacute;lias possibilitaria uma redu&ccedil;&atilde;o de 4.352    pessoas pobres. &Eacute; importante destacar que em termos relativos &agrave;    popula&ccedil;&atilde;o pobre original o efeito desta redu&ccedil;&atilde;o    para o Estado do Esp&iacute;rito Santo &eacute; mais forte tendo em vista o    seu maior valor absoluto da elasticidade da pobreza. Se antes da eleva&ccedil;&atilde;o    da renda os recursos necess&aacute;rios para erradicar completamente a pobreza    no Estado do Esp&iacute;rito Santo seriam R$ 2.792.396, passam a ser iguais    a R$ 2.743.007 ap&oacute;s a eleva&ccedil;&atilde;o, implicando em uma redu&ccedil;&atilde;o    de R$ 49.389 mensais. No Estado do Piau&iacute;, o mesmo montante antes da eleva&ccedil;&atilde;o    da renda seria de R$ 16.450.467 e passaria a ser R$ 16.303.351 ap&oacute;s a    eleva&ccedil;&atilde;o, implicando em uma redu&ccedil;&atilde;o de R$ 147. 117    mensais necess&aacute;rios para a erradica&ccedil;&atilde;o completa da pobreza    rural (ver <a href="#tab6">Tabela 6</a>).</font></p>     <p><a name="tab6"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v42n3/24506t6.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De acordo com as conclus&otilde;es do artigo de Heltberg (2002) a partir de diversos estudos econom&eacute;tricos, a elasticidade da pobreza cresce monotonicamente com o crescimento da renda m&eacute;dia e isto explicaria a posi&ccedil;&atilde;o mais vantajosa dos Estados mais desenvolvidos de acordo com os resultados anteriores. Heltberg (op.cit.) tamb&eacute;m enfatiza que a elasticidade da pobreza depende fortemente do grau de desigualdade: "uma distribui&ccedil;&atilde;o desigual &eacute; um impedimento s&eacute;rio ao efetivo al&iacute;vio da pobreza", o que torna de certa forma a dicotomia "crescimento versus redistribui&ccedil;&atilde;o" um falso dilema. Resultados semelhantes s&atilde;o encontrados nos trabalhos de Ravallion e Datt (1994), Bell e Rich (1994) e Shujie, 1999. Esses autores estimaram a elasticidade de v&aacute;rias medidas de pobreza &#150; a propor&ccedil;&otilde;es de pobres, o hiato de pobreza e o quadrado do hiato de pobreza &#150; e encontraram que essas elasticidades s&atilde;o mais altas quanto maior o impacto do crescimento da renda sobre a renda m&eacute;dia dos mais pobres.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o Estado do Piau&iacute; rural o aumento percentual unit&aacute;rio do &iacute;ndice de Gini ocasionaria uma eleva&ccedil;&atilde;o no &iacute;ndice P<sub>0</sub> de 0,20 %, enquanto que para o Estado de Santa Catarina esta eleva&ccedil;&atilde;o seria de 3,36 %. Considerando-se um efeito sim&eacute;trico da altera&ccedil;&atilde;o do &iacute;ndice de Gini, no &uacute;ltimo Estado uma pol&iacute;tica redistributiva seria mais efetiva.</font></p>      <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4 &#150; Conclus&otilde;es</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A an&aacute;lise das estimativas dos indicadores de pobreza para as &aacute;reas rurais indicou uma queda significativa na propor&ccedil;&atilde;o de pobres nos Estados do Cear&aacute;, Rio de Janeiro, Santa Catarina e Goi&aacute;s no per&iacute;odo 1995-2001, enquanto que no Estado de S&atilde;o Paulo observou-se uma eleva&ccedil;&atilde;o significativa dos mesmos. Quanto ao &iacute;ndice de Gini foi constatada uma redu&ccedil;&atilde;o significativa no mesmo per&iacute;odo para os Estados do Tocantins, Piau&iacute;, Para&iacute;ba e nas regi&otilde;es metropolitanas rurais, no Nordeste rural como um todo, no Nordeste rural metropolitano e na regi&atilde;o Sul rural metropolitana. Foram tamb&eacute;m observadas eleva&ccedil;&otilde;es significativas do &iacute;ndice de Gini nas &aacute;reas rurais dos Estados de S&atilde;o Paulo e Paran&aacute;. Em termos de distribui&ccedil;&atilde;o de renda rural a regi&atilde;o Nordeste apresenta dois padr&otilde;es: os Estados do Maranh&atilde;o, Piau&iacute;, Cear&aacute; e Rio Grande do Norte com elevados &iacute;ndices de Gini ao passo que os Estados da Para&iacute;ba, Pernambuco, Alagoas, Sergipe e Bahia com valores significativamente mais baixos.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A an&aacute;lise dos valores das elasticidades da pobreza possibilitou estabelecer uma avalia&ccedil;&atilde;o das &aacute;reas rurais no Brasil em termos de efetividade do combate &agrave; pobreza atrav&eacute;s de pol&iacute;ticas de crescimento e re-distributivas. Comprovou-se um resultado que est&aacute; de acordo com a literatura internacional sobre o tema, a saber, que a elasticidade da pobreza cresce com o desenvolvimento das regi&otilde;es e a distribui&ccedil;&atilde;o de renda desigual &eacute; um entrave ao al&iacute;vio da pobreza, na forma de valores mais reduzidos de elasticidade. Entretanto, deve-se levar em considera&ccedil;&atilde;o a limita&ccedil;&atilde;o dessa an&aacute;lise que n&atilde;o revela quantos domic&iacute;lios nas regi&otilde;es rurais deixariam de ser pobres.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por outro lado, o estudo apontou que a elasticidade da pobreza se relaciona positivamente com mudan&ccedil;as percentuais nos &iacute;ndices de desigualdade. Portanto, se a pobreza pode ser reduzida mais rapidamente atrav&eacute;s da distribui&ccedil;&atilde;o de renda, ent&atilde;o pol&iacute;ticas de al&iacute;vio da pobreza devem ser acompanhadas por programas de redu&ccedil;&atilde;o de desigualdades de renda. &Eacute; claro que a pobreza absoluta pode declinar mesmo com a presen&ccedil;a de um n&iacute;vel elevado de desigualdade de renda se o crescimento da renda &eacute; suficientemente grande para compens&aacute;-lo.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Obviamente, o processo de retomada do crescimento s&oacute; teria efeito sobre a redu&ccedil;&atilde;o da pobreza se ele atingisse as camadas mais pobres da popula&ccedil;&atilde;o e que elas recebam os frutos do desenvolvimento econ&ocirc;mico do pa&iacute;s. Para isso, &eacute; necess&aacute;rio que a retomada do crescimento seja acompanha por programas que contemplem a gera&ccedil;&atilde;o de renda e emprego para as camadas mais pobres da popula&ccedil;&atilde;o.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No caso das pol&iacute;ticas de combate &agrave; pobreza no Nordeste elas devem considerar a import&acirc;ncia das parcelas de renda rural, principalmente, a renda n&atilde;o agr&iacute;cola como alternativa para reduzir o n&uacute;mero de fam&iacute;lias rurais que est&atilde;o abaixo da linha de pobreza e em condi&ccedil;&otilde;es de indig&ecirc;ncia.</font></p>      <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5 &#150; Refer&ecirc;ncias    Bibliogr&aacute;ficas</b></font></p>      <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BELL, C. e RICH, R. (1994) Rural poverty and agricultural performance in post - independence India, Oxford Bulletion of Economics and Statistics, 56(2), 111-133.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000089&pid=S0103-2003200400030000400001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DATT, G. (1998) Computational tools for poverty measurement and analysis. Washington, D.C. International Food and Nutrition Institute.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000090&pid=S0103-2003200400030000400002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DELGADO, G.; CARDOSO    JR., J. C.(org.) (2000) <i>A universaliza&ccedil;&atilde;o de direitos sociais    no Brasil: a previd&ecirc;ncia rural nos anos 90</i>. Bras&iacute;lia, IPEA.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000091&pid=S0103-2003200400030000400003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DUCLOS, J., ARAAR, A. E FORTIN C. (2002) DAD: Distributive analysis / Analyse Distributive, User's Manual. Universit&eacute; Laval.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000092&pid=S0103-2003200400030000400004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HELTBERG, R. (2002) The poverty elasticity of growth. Discussion Paper no. 2002/21, United Nations University/ World Institute for Development Economics research.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000093&pid=S0103-2003200400030000400005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HOFFMAN, R. (1998) Distribui&ccedil;&atilde;o de renda &#150; medidas de desigualdade e pobreza. S&atilde;o Paulo. EDUSP.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000094&pid=S0103-2003200400030000400006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">___________. 2003. Desigualdade no Brasil: a contribui&ccedil;&atilde;o das aposentadorias.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000095&pid=S0103-2003200400030000400007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">JOLLIFFE D., SEMYKINA A., (1999) Robust Standard Errors for the Foster-Greer-Thorbecke Class of Poverty Indeces: SEPOV. Stata Technical Bulletin, STB-51</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000096&pid=S0103-2003200400030000400008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">JOLLIFFE, D. E BOHDAN, K., (1999) Bootstrap standard errors for indices of inequality: INEQERR, n&atilde;o dispon&iacute;vel.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000097&pid=S0103-2003200400030000400009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOONEY, C.Z. E DUVAL, R.D, (1993) Bootstrapping: a nonparametric approach to statistical inference. Yowa. Sage Publications.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000098&pid=S0103-2003200400030000400010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">NEDER, H.D. 2001. Os efeitos das atividades n&atilde;o agr&iacute;colas na distribui&ccedil;&atilde;o de renda do meio rural do Brasil. <i>XXXIX Congresso Brasileiro de Economia e Sociologia Rural</i>, SOBER, Anais em CD-ROM, Recife, agosto de 2001.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000099&pid=S0103-2003200400030000400011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PESSOA, D.G.C. e SILVA, P.L.N. (1998) An&aacute;lise de dados amostrais complexos. S&atilde;o Paulo. Associa&ccedil;&atilde;o Brasileira de Estat&iacute;stica.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000100&pid=S0103-2003200400030000400012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PRATES, F. M. (1996) Desigualdade de renda e pobreza em Minas Gerais. Disserta&ccedil;&atilde;o de Mestrado, CEDEPLAR/UFMG, Belo Horizonte.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000101&pid=S0103-2003200400030000400013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RAVALLION, M e DATT, G. (1994) Growth and poverty in India. Washingon, DC: World Bank, Poverty and Human Resources Division (Mimeo).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000102&pid=S0103-2003200400030000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SHUJIE, YAO. (1999) Economic Growth, income inequality and poverty in China under economic reforms. the Journal of Development Studies, London, vol. 35, n. 6, August, pp. 104-130</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000103&pid=S0103-2003200400030000400015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SILVA, P.L.N. (2002) An analysis of design effects for sample surveys conducted in Brazil. United nations Statistic Division.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000104&pid=S0103-2003200400030000400016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">STATA Corp., (2001) Stata Programming Guide, Release 7. College Station, Texas. Stata Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000105&pid=S0103-2003200400030000400017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Recebido em dezembro    de 2003 e revisto em julho de 2004</font></p>      <p>&nbsp;</p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back1"></a><a href="#top1">1</a>    Em recente trabalho, Hoffmann (2003) demonstra, atrav&eacute;s do uso de t&eacute;cnica    de decomposi&ccedil;&atilde;o do &iacute;ndice de Gini, que as aposentadorias    de uma forma geral s&atilde;o concentradoras de renda. Por outro lado, Neder    (2001) verifica que as aposentadorias rurais t&ecirc;m efeito desconcentrador    sobre a distribui&ccedil;&atilde;o de renda rural. Ver tamb&eacute;m Delgado    e Cardoso (2000) para uma an&aacute;lise do efeito da universaliza&ccedil;&atilde;o    de direitos sociais sobre as condi&ccedil;&otilde;es de vida da popula&ccedil;&atilde;o    rural.    <br>   <a name="back2"></a><a href="#top2">2</a>    Para uma compreens&atilde;o mais detalhada dos fundamentos te&oacute;ricos de    uma amostragem complexa tal como a amostra da PNAD, ver Pessoa e Silva (1998).    Uma descri&ccedil;&atilde;o clara do delineamento amostral da PNAD pode ser    encontrada em Silva (2002).    ]]></body>
+<body><![CDATA[<br>   <a name="back3"></a><a href="#top3">3</a>    Pretende-se em um pr&oacute;ximo trabalho estimar os par&acirc;metros da curva    de Lorenz utilizando tamb&eacute;m a especifica&ccedil;&atilde;o Beta (mostrada    em Datt, 1998) e verificar qual das duas (para cada conjunto de dados amostrais)    cumpre mais adequadamente as condi&ccedil;&otilde;es de fronteira e de monotonicidade.    Existem tamb&eacute;m m&eacute;todos de estimativa e de an&aacute;lise diversos    para a elasticidade da pobreza em rela&ccedil;&atilde;o ao crescimento, apresentados    em Heltberg (2002).    <br>   <a name="back4"></a><a href="#top4">4</a>    Para a interpreta&ccedil;&atilde;o dos "p-values", ou n&iacute;veis de signific&acirc;ncia,    considera-se que estes s&atilde;o as probabilidades de ocorr&ecirc;ncia de um    erro tipo I (rejeitar a hip&oacute;tese nula &#150; varia&ccedil;&atilde;o nula    do &iacute;ndice, quando esta hip&oacute;tese &eacute; verdadeira). No caso    do Estado do Cear&aacute; o valor do <i>p-value</i> &eacute; 0,0973 significando    que ao rejeitar a hip&oacute;tese nula estamos incorrendo em uma probabilidade    de erro de 9,73 %, o que &eacute; aceit&aacute;vel. Quanto menor o valor do    <i>p-value</i> com mais confian&ccedil;a podemos afirmar que houve uma varia&ccedil;&atilde;o    significativa do &iacute;ndice.</font></p>       ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BELL]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RICH]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[(1994) Rural poverty and agricultural performance in post - independence India]]></article-title>
+<source><![CDATA[Oxford Bulletion of Economics and Statistics]]></source>
+<year></year>
+<volume>56</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>111-133</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DATT]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Computational tools for poverty measurement and analysis]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Washington^eD.C. D.C.]]></publisher-loc>
+<publisher-name><![CDATA[International Food and Nutrition Institute]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DELGADO]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARDOSO JR.]]></surname>
+<given-names><![CDATA[J. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A universalização de direitos sociais no Brasil: a previdência rural nos anos 90]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DUCLOS]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ARAAR]]></surname>
+<given-names><![CDATA[A. E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FORTIN]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DAD: Distributive analysis / Analyse Distributive, User's Manual]]></source>
+<year>2002</year>
+<publisher-name><![CDATA[Université Laval]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HELTBERG]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The poverty elasticity of growth]]></source>
+<year>2002</year>
+<publisher-name><![CDATA[United Nations UniversityWorld Institute for Development Economics research]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOFFMAN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Distribuição de renda: medidas de desigualdade e pobreza]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[EDUSP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<source><![CDATA[Desigualdade no Brasil: a contribuição das aposentadorias]]></source>
+<year>2003</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOLLIFFE]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SEMYKINA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Robust Standard Errors for the Foster-Greer-Thorbecke Class of Poverty Indeces: SEPOV]]></article-title>
+<source><![CDATA[Stata Technical Bulletin]]></source>
+<year></year>
+<page-range>STB-51</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOLLIFFE]]></surname>
+<given-names><![CDATA[D. E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BOHDAN]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bootstrap standard errors for indices of inequality: INEQERR]]></source>
+<year>1999</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOONEY]]></surname>
+<given-names><![CDATA[C.Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DUVAL]]></surname>
+<given-names><![CDATA[R.D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bootstrapping: a nonparametric approach to statistical inference]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Yowa ]]></publisher-loc>
+<publisher-name><![CDATA[Sage Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEDER]]></surname>
+<given-names><![CDATA[H.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os efeitos das atividades não agrícolas na distribuição de renda do meio rural do Brasil]]></source>
+<year>2001</year>
+<conf-name><![CDATA[XXXIX Congresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-date>agosto de 2001</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PESSOA]]></surname>
+<given-names><![CDATA[D.G.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[P.L.N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de dados amostrais complexos]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Associação Brasileira de Estatística]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRATES]]></surname>
+<given-names><![CDATA[F. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desigualdade de renda e pobreza em Minas Gerais]]></source>
+<year>1996</year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAVALLION]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DATT]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Growth and poverty in India]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Washingon^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[World BankPoverty and Human Resources Division]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHUJIE]]></surname>
+<given-names><![CDATA[YAO]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Economic Growth, income inequality and poverty in China under economic reforms]]></article-title>
+<source><![CDATA[the Journal of Development Studies]]></source>
+<year></year>
+<volume>35</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>104-130</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[P.L.N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An analysis of design effects for sample surveys conducted in Brazil]]></source>
+<year>2002</year>
+<publisher-name><![CDATA[United nations Statistic Division]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<collab>STATA Corp.</collab>
+<source><![CDATA[Stata Programming Guide, Release 7]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[^eTexas Texas]]></publisher-loc>
+<publisher-name><![CDATA[Stata Press]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

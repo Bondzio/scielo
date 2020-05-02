@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0100-1574</journal-id>
+<journal-title><![CDATA[Cadernos de Pesquisa]]></journal-title>
+<abbrev-journal-title><![CDATA[Cad. Pesqui.]]></abbrev-journal-title>
+<issn>0100-1574</issn>
+<publisher>
+<publisher-name><![CDATA[Fundação Carlos Chagas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0100-15742017000200004</article-id>
+<article-id pub-id-type="doi">10.1590/198053144220</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[A desigualdade socioeconômica afeta mais municípios menos favorecidos?]]></article-title>
+<article-title xml:lang="fr"><![CDATA[L&#8217;inégalité socio-économique affecte-t-elle plus l&#8217;éducation dans les communes moins riches?]]></article-title>
+<article-title xml:lang="es"><![CDATA[¿la desigualdad económica afecta más a los municipios menos favorecidos?]]></article-title>
+<article-title xml:lang="en"><![CDATA[Does socioeconomic inequality affect education more in less wealthy municipalities?]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gramani]]></surname>
+<given-names><![CDATA[Maria Cristina]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Insper  ]]></institution>
+<addr-line><![CDATA[São Paulo SP]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2017</year>
+</pub-date>
+<volume>47</volume>
+<numero>164</numero>
+<fpage>470</fpage>
+<lpage>494</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0100-15742017000200004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0100-15742017000200004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0100-15742017000200004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[RESUMO Este estudo busca analisar o panorama da educação básica em um país emergente que se caracteriza, por um lado, pelo elevado desenvolvimento econômico e, por outro, pela alta desigualdade socioeconômica. Um modelo de dois estágios é utilizado, sendo que o primeiro estágio usa variáveis diretamente relacionadas à educação para capturar a eficiência educacional de cada município e o segundo emprega a regressão Tobit a fim de estimar a influência das variáveis ambientais (não discricionárias) sobre a eficiência educacional encontrada no primeiro passo. Um agrupamento dos municípios em clusters foi implementado para assegurar uma comparação justa entre municípios homogêneos. Os resultados mostram discrepâncias significativas na influência de variáveis socioeconômicas no resultado educacional, dependendo da prosperidade de cada cluster.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="fr"><p><![CDATA[RÉSUMÉ L&#8217;objectif de cette étude est d&#8217;analyser le panorama de l&#8217;éducation basique dans un pays émergent qui, d&#8217;un côté, se caractérise par son haut développement économique et, de l&#8217;autre, par sa grande inégalité socio-économique. Pour cela, nous avons choisi un modèle à deux niveaux, dont le premier utilise des variables directement en rapport avec l&#8217;éducation, afin de juger de l&#8217;efficacité éducative de chaque commune ; et dont le second, à l&#8217;aide de la méthode de régression Tobit, estime l&#8217;influence des variables environnementales (non discriminatoires) sur cette effacité éducative. Un regroupement des communes en clusters a été mis en place pour permettre une juste comparaison entre communes homogènes. Les résultats montrent des écarts significatifs concernant l&#8217;influence des variables socio-économiques dans les résultats éducatifs, dépendant de la richesse de chaque cluster.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[RESUMEN Este estudio busca analizar el panorama de la educación básica en un país emergente que se caracteriza, por un lado, por el elevado desarrollo económico y, por otro, por la alta desigualdad socioeconómica. Se utiliza un modelo de dos fases; la primera fase usa variables directamente relacionadas con la educación para capturar la eficiencia educacional de cada municipio, y la segunda emplea la regresión Tobit a fin de estimar la influencia de las variables ambientales (no discrecionales) sobre la eficiencia educacional encontrada en el primer paso. Se implementó un agrupamiento de los municipios en clusters para asegurar una justa comparación entre municipios homogéneos. Los resultados muestran significativas discrepancias en la influencia de variables socioeconómicas en el resultado educacional, en función de la prosperidad de cada cluster.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[ABSTRACT This study attempts to capture the full picture of educational development in an emerging country that is characterized by both high economic development and high socioeconomic inequality. A two-step model is used in this study. The first step uses the variables that are directly related to education to capture the educational efficiency of each municipality; the second step uses a statistical Tobit model to estimate the influence of the non-discretionary variables on the educational efficiency found in the first step. A previous categorization by clusters is also implemented to ensure a fair comparison among homogeneous municipalities. The results show significant discrepancies in the influence of socioeconomic variables on educational outcome, which depends on the welfare of the cluster.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Data Envelopment Analysis-DEA]]></kwd>
+<kwd lng="pt"><![CDATA[Eficiência Educacional]]></kwd>
+<kwd lng="pt"><![CDATA[Educação Básica]]></kwd>
+<kwd lng="pt"><![CDATA[Desigualdade Social]]></kwd>
+<kwd lng="fr"><![CDATA[Data Envelopment Analysis-DEA]]></kwd>
+<kwd lng="fr"><![CDATA[Efficacité Éducative]]></kwd>
+<kwd lng="fr"><![CDATA[Éducation Basique]]></kwd>
+<kwd lng="fr"><![CDATA[Inégalité Sociale]]></kwd>
+<kwd lng="es"><![CDATA[Data Envelopment Analysis-DEA]]></kwd>
+<kwd lng="es"><![CDATA[Eficiencia Educacional]]></kwd>
+<kwd lng="es"><![CDATA[Educación Básica]]></kwd>
+<kwd lng="es"><![CDATA[Desigualdad Social]]></kwd>
+<kwd lng="en"><![CDATA[Data Envelopment Analysis-DEA]]></kwd>
+<kwd lng="en"><![CDATA[Educational Efficiency]]></kwd>
+<kwd lng="en"><![CDATA[Basic Education]]></kwd>
+<kwd lng="en"><![CDATA[Social Inequalities]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[St. Cross-country efficiency of secondary education provision: a semi-parametric analysis with non-discretionary inputs]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AFONSO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AUBYN]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economic Modelling]]></source>
+<year>2006</year>
+<volume>23</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>476-91</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The efficiency of Italian secondary schools and the potential role of competition: a data envelopment analysis using OECD-PISA 2006 data]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AGASISTI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Education Economics]]></source>
+<year>2013</year>
+<volume>21</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>520-44</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<collab>AGENCY FOR INTERNATIONAL DEVELOPMENT IN COOPERATION</collab>
+<source><![CDATA[Health Systems 20/20. The health system assessment approach: a how-to manual]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The effect of competition on the efficiency of secondary schools in England]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRADLEY]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JOHNES]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MILLINGTON]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>2001</year>
+<volume>135</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>545-68</page-range><publisher-loc><![CDATA[Amsterdã ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The effects of high school organization on dropping out: an exploratory investigation]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRYK]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THUM]]></surname>
+<given-names><![CDATA[Y. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Educational Research Journal]]></source>
+<year>1989</year>
+<volume>26</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>353-83</page-range><publisher-loc><![CDATA[Thousand Oaks, CA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Measuring the efficiency of decision- making units]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHARNES]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COOPER]]></surname>
+<given-names><![CDATA[W. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RHODES]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>1978</year>
+<volume>2</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>429-42</page-range><publisher-loc><![CDATA[Amsterdã ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[National income, income inequality and the importance of schools: a hierarchical cross-national comparison]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHUDGAR]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LUSCHEI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Educational Research Journal]]></source>
+<year>2009</year>
+<volume>46</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>626-58</page-range><publisher-loc><![CDATA[Thousand Oaks, CA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Family, community, and educational outcomes in South Asia]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHUDGAR]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHAFIK]]></surname>
+<given-names><![CDATA[M. N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Prospects]]></source>
+<year>2010</year>
+<volume>40</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>517-34</page-range><publisher-loc><![CDATA[Manchester, UK ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELLI]]></surname>
+<given-names><![CDATA[T. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAO]]></surname>
+<given-names><![CDATA[D. S. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[O&#8217;DONNELL]]></surname>
+<given-names><![CDATA[C. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BATTESSE]]></surname>
+<given-names><![CDATA[G. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An introduction to efficiency and productivity analysis]]></source>
+<year>2005</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Springer Science]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COMMANDER]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DAVOODI]]></surname>
+<given-names><![CDATA[Hamid R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[Une J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The causes of government and the consequences for growth and well-being. Policy, Research working paper; no. WPS 1785]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Washington, DC ]]></publisher-loc>
+<publisher-name><![CDATA[World Bank]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Fast Monte Carlo algorithms for matrices II: computing a low-rank approximation to a matrix]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRINEAS]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KANNAN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MAHONEY]]></surname>
+<given-names><![CDATA[M. W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[SIAM Journal on Computing]]></source>
+<year>2006</year>
+<volume>36</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>158-83</page-range><publisher-loc><![CDATA[Philadelphia, PA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Pitfalls and protocols in DEA]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DYSON]]></surname>
+<given-names><![CDATA[R. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALLEN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMANHO]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PODINOVSKI]]></surname>
+<given-names><![CDATA[V. V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SARRICO]]></surname>
+<given-names><![CDATA[C. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHALE]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[European Journal of Operational Research]]></source>
+<year>2001</year>
+<volume>132</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>245-59</page-range><publisher-loc><![CDATA[Amsterdã ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Índice de desenvolvimento da educação básica (Ideb): metas intermediárias para a sua trajetória no Brasil, estados, municípios e escolas]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Brasília, DF ]]></publisher-loc>
+<publisher-name><![CDATA[MEC/Inep]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<collab>FUNDO DAS NAÇÕES UNIDAS PARA A INFÂNCIA - UNICEF</collab>
+<source><![CDATA[Situação da infância e da adolescência brasileira em 2009. O direito de aprender: potencializar avanços e reduzir desigualdades]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Brasília, DF ]]></publisher-loc>
+<publisher-name><![CDATA[Unicef]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[When can schools affect dropout behavior? A longitudinal multilevel analysis]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLDSCHMIDT]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WANG]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Educational Research Journal]]></source>
+<year>1999</year>
+<volume>36</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>715-38</page-range><publisher-loc><![CDATA[Thousand Oaks, CA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The economics of schooling: production and efficiency in public schools]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HANUSHEK]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Economic Literature]]></source>
+<year>1986</year>
+<volume>24</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>1141-77</page-range><publisher-loc><![CDATA[Washington, D.C ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Efficiency and equity in schools around the world]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HANUSHEK]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LUQUE]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economics of Education Review]]></source>
+<year>2003</year>
+<volume>22</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>481-502</page-range><publisher-loc><![CDATA[Denver ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Explaining differences in public sector efficiency: evidence from Russia&#8217;s regions]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAUNER]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[World Development, Michigan]]></source>
+<year>2008</year>
+<volume>36</volume>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>1745-65</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Does money matter? A meta-analysis of studies of the effect of different school inputs on student outcomes]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HEDGES]]></surname>
+<given-names><![CDATA[L. V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LAINE]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GREENWALD]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Educational Researcher]]></source>
+<year>1994</year>
+<volume>23</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>5-14</page-range><publisher-loc><![CDATA[Thousand Oaks, CA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Effective schools do exist: low-income children&#8217;s academic performance in Chile]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HENRIQUEZ]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LARA]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIZALA]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[REPETTO]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied Economics Letters]]></source>
+<year>2012</year>
+<volume>19</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>445-51</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Does money matter for schools?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOLMLUND]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MCNALLY]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VIARENGO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economics of Education Review]]></source>
+<year>2010</year>
+<volume>29</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>1154-64</page-range><publisher-loc><![CDATA[Denver ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Data clustering: 50 years beyond K-means]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JAIN]]></surname>
+<given-names><![CDATA[A. K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pattern Recognition Letters]]></source>
+<year>2010</year>
+<volume>31</volume>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>651-66</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Algorithms for clustering data]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JAIN]]></surname>
+<given-names><![CDATA[A. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DUBES]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Englewood Cliffs]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[NJ ]]></publisher-loc>
+<publisher-name><![CDATA[Prentice-Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Efficiency differences of Finnish senior secondary schools: an application of DEA and Tobit analysis]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KIRJAVAINEN]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOIKKANEN]]></surname>
+<given-names><![CDATA[H. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economics of Education Review]]></source>
+<year>1998</year>
+<volume>17</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>377-94</page-range><publisher-loc><![CDATA[Denver ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Dropping out of high school: the role of school organization and structure]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEE]]></surname>
+<given-names><![CDATA[V. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BURKAM]]></surname>
+<given-names><![CDATA[D. T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Educational Research Journal]]></source>
+<year>2003</year>
+<volume>40</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>353-93</page-range><publisher-loc><![CDATA[Thousand Oaks, CA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A survey of DEA applications]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIU]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LU]]></surname>
+<given-names><![CDATA[L. Y. Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LU]]></surname>
+<given-names><![CDATA[W. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIN]]></surname>
+<given-names><![CDATA[B. J. Y.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Omega]]></source>
+<year>2013</year>
+<volume>41</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>893-902</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Efficiency evaluation in secondary schools: the key role of model specification and of ex post analysis of results]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MANCEBON]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BANDRÉS]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Education Economics]]></source>
+<year>1999</year>
+<volume>7</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>131-52</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[R. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENDES]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Municípios em extrema pobreza: só dinheiro não resolve. Brasília: Consultoria Legislativa do Senado Federal]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[School infrastructure and resources do matter: analysis of the incidence of school resources on the performance of Latin American students]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MURILLO]]></surname>
+<given-names><![CDATA[F. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROMÁN]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[School Effectiveness and School Improvement]]></source>
+<year>2011</year>
+<volume>22</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>29-50</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The effects of Catholic secondary schooling on educational achievement]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEAL]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Labor Economics]]></source>
+<year>1997</year>
+<volume>15</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>98-123</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="">
+<collab>ORGANIZAÇÃO PARA COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO - OECD</collab>
+<source><![CDATA[Education at a glance]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="">
+<collab>ORGANIZAÇÃO PARA COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO - OECD</collab>
+<source><![CDATA[Education at a glance]]></source>
+<year>2013</year>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Student achievement and efficiency in Missouri schools and the No Child Left Behind Act]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PRIMONT]]></surname>
+<given-names><![CDATA[D. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DOMAZLICKY]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economics of Education Review]]></source>
+<year>2006</year>
+<volume>25</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>77-90</page-range><publisher-loc><![CDATA[Denver ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Assessing the efficiency of Oklahoma public schools: a data envelopment analysis]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RASSOULI-CURRIER]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Southwestern Economic Review]]></source>
+<year>2007</year>
+<volume>34</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>131-44</page-range><publisher-loc><![CDATA[Texas ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Resource use efficiency in public schools: a study of Connecticut data]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAY]]></surname>
+<given-names><![CDATA[S. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Management Science]]></source>
+<year>1991</year>
+<volume>37</volume>
+<numero>12</numero>
+<issue>12</issue>
+<page-range>1620-8</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Mapping the European regional educational distribution]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RODRÍGUEZ-POSE]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TSELIOS]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[European Urban and Regional Studies]]></source>
+<year>2011</year>
+<volume>18</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>358-74</page-range><publisher-loc><![CDATA[Pennsylvania ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Dropping out of middle school: a multilevel analysis of students and schools]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUMBERGER]]></surname>
+<given-names><![CDATA[R. W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Educational Research Journal]]></source>
+<year>1995</year>
+<volume>32</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>583-625</page-range><publisher-loc><![CDATA[Thousand Oaks, CA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[High school performance: test scores, dropout rates, and transfer rates as alternative indicators of high school performance]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUMBERGER]]></surname>
+<given-names><![CDATA[R. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PALARDY]]></surname>
+<given-names><![CDATA[G. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Educational Research Journal]]></source>
+<year>2005</year>
+<volume>42</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>3-42</page-range><publisher-loc><![CDATA[Thousand Oaks, CA ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The distribution of dropout and turnover rates among urban and suburban high schools]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUMBERGER]]></surname>
+<given-names><![CDATA[R. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THOMAS]]></surname>
+<given-names><![CDATA[S. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sociology of Education]]></source>
+<year>2000</year>
+<volume>73</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>39-67</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAH]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A practitioner's guide to intergovernmental fiscal transfers]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Washington, DC ]]></publisher-loc>
+<publisher-name><![CDATA[World Bank]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SIMAR]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WILSON]]></surname>
+<given-names><![CDATA[P. W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Performance of the bootstrap for DEA estimators and iterating the principle]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[COOPER]]></surname>
+<given-names><![CDATA[W.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SEIFORD]]></surname>
+<given-names><![CDATA[L. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZHU]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Handbook on Data Envelopment Analysis]]></source>
+<year>2004</year>
+<page-range>265-98</page-range><publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[Kluwer Academic]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<collab>TODOS PELA EDUCAÇÃO</collab>
+<source><![CDATA[Anuário Brasileiro da Educação Básica]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Moderna]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<collab>UNITED KINGDOM. Parliament. Department for Education</collab>
+<source><![CDATA[What impact does school spending have on pupil attainment? A review of the recent literature]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Strategic Analysis and Research Division & Infrastructure Funding and Longitudinal Analysis Division]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[O impacto do Fundef na alocação de recursos para a educação básica]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ULYSSEA]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GREMAUD]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pesquisa e Planejamento Econômico]]></source>
+<year>2006</year>
+<volume>36</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>109-36</page-range><publisher-loc><![CDATA[Brasília, DF ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<collab>UNITED NATIONS</collab>
+<source><![CDATA[Diverging growth and development]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[World Economic and Social Survey]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[YANG]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Cross system bank branch evaluation using clustering and data envelopment analysis]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HUANG]]></surname>
+<given-names><![CDATA[D. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Advanced intelligent computing theories and applications]]></source>
+<year>2010</year>
+<page-range>238-45</page-range><publisher-loc><![CDATA[Berlin, Heidelberg ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

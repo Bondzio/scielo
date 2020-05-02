@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0104-6276</journal-id>
+<journal-title><![CDATA[Opinião Pública]]></journal-title>
+<abbrev-journal-title><![CDATA[Opin. Publica]]></abbrev-journal-title>
+<issn>0104-6276</issn>
+<publisher>
+<publisher-name><![CDATA[ Centro de Estudos de Opinião Pública da Universidade Estadual de Campinas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0104-62762014000300311</article-id>
+<article-id pub-id-type="doi">10.1590/1807-01912014203311</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Determinantes do voto no primeiro turno das eleições presidenciais brasileiras de 2010: uma análise exploratória]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Nicolau]]></surname>
+<given-names><![CDATA[Jairo]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal do Rio de Janeiro Instituto de Filosofia e Ciências Sociais Departamento de Ciência Política]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>20</volume>
+<numero>3</numero>
+<fpage>311</fpage>
+<lpage>325</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-62762014000300311&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0104-62762014000300311&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0104-62762014000300311&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O objetivo deste artigo é avaliar o efeito de um conjunto de variáveis no voto dos principais candidatos (Dilma Rousseff, José Serra e Marina Silva) e nos votos nulos e em branco no primeiro turno das eleições presidenciais brasileiras de 2010. A pesquisa é baseada nos resultados do Estudo Eleitoral Brasileiro (Eseb-2010). Para análise dos dados foi utilizado um modelo de regressão logística multinomial, cujos resultados são também apresentados por intermédio de gráficos com as probabilidades preditas do voto segundo algumas variáveis. Entre as variáveis selecionadas, a escolaridade, a região, a religião, a preferência partidária, o autoposicionamento na escala esquerda-direita e a avaliação de governo foram as que apresentaram diferenças na votação obtida pelos candidatos. Por outro lado, o sexo, a idade e a participação no programa Bolsa Família tiverem reduzido impacto nessa votação.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The objective of this article is to examine the effect of a set of variables on the vote of the main candidates (Dilma Rousseff, José Serra and Marina Silva), and on invalid votes in the first round of Brazilian presidential elections in 2010. The research is based on the results of "Estudo Eleitoral Brasileiro" (Brazilian Electoral Study) conducted in 2010. The data was analysed using a multinomial logistic regression model, whose results are also presented through graphics with the predicted probability. Among the selected variables, education, region, religion, party preference, self-positioning in the left-right scale and evaluation of government showed the most significant differences between the candidates. On the other hand, sex, age, and participation in the "Bolsa Família" program have limited impact on the differentiation of candidates.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[eleições presidenciais 2010]]></kwd>
+<kwd lng="pt"><![CDATA[comportamento eleitoral no Brasil]]></kwd>
+<kwd lng="pt"><![CDATA[voto para presidente no Brasil]]></kwd>
+<kwd lng="en"><![CDATA[presidential elections 2010]]></kwd>
+<kwd lng="en"><![CDATA[electoral behaviour in Brazil]]></kwd>
+<kwd lng="en"><![CDATA[vote for president in Brazil]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Almeida]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A cabeça do eleitor:estratégia de campanha, pesquisa e vitória eleitoral]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Record]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ames]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Brazilian electoral panel studies (Beps): Brazilian public opinion in the 2010 presidential elections]]></source>
+<year>2013</year>
+<publisher-name><![CDATA[Inter-American Development Bank]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Eleições, estabilidade democrática e socialização política no Brasil: análise longitudinal da persistência de valores nas eleições presidenciais de 2002 a 2010"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baquero]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gonzalez]]></surname>
+<given-names><![CDATA[R. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2011</year>
+<volume>vol. 17</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 369-99</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Social policy and vote in Brazil: Bolsa Família and the shifts in Lula's electoral base"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bohn]]></surname>
+<given-names><![CDATA[S. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Latin American Research Review]]></source>
+<year>2011</year>
+<volume>vol. 46</volume>
+<numero>n° 1</numero>
+<issue>n° 1</issue>
+<page-range>p. 54-69</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["A eleição presidencial de 2002: a decisão do voto na região da grande São Paulo"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carreirão]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barbetta]]></surname>
+<given-names><![CDATA[P. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira de Ciências Sociais]]></source>
+<year>2004</year>
+<volume>vol. 19</volume>
+<numero>n° 56</numero>
+<issue>n° 56</issue>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[Encarte Tendências]]></article-title>
+<collab>Cesop</collab>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2011</year>
+<volume>vol. 17</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 516-40</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dalton]]></surname>
+<given-names><![CDATA[R. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Citizen politics:public opinion and political parties in advanced industrial democracies]]></source>
+<year>2013</year>
+<edition>6. ed.</edition>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Cq Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Using graphs instead of tables in political science"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kastellec]]></surname>
+<given-names><![CDATA[J. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leoni]]></surname>
+<given-names><![CDATA[E. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[PPS]]></source>
+<year>2007</year>
+<volume>vol. 5</volume>
+<numero>n° 4</numero>
+<issue>n° 4</issue>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Os programas de transferência de renda e o voto regional nas eleições presidenciais de 2010"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kerbauy]]></surname>
+<given-names><![CDATA[M. T. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2011</year>
+<volume>vol. 17</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 477-92</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Making the most of statistical analyses: improving interpretation and presentation"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[King]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tomz]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wittenberg]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2000</year>
+<volume>vol. 44</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 341-55</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Bolsa Família e voto na eleição presidencial de 2006: em busca do elo perdido"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Licio]]></surname>
+<given-names><![CDATA[E. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Castro]]></surname>
+<given-names><![CDATA[H. C. O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2009</year>
+<volume>vol. 15</volume>
+<numero>n° 1</numero>
+<issue>n° 1</issue>
+<page-range>p. 31-54</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Modelo sociológico de decisão de voto presidencial no Brasil 1994-2006"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Martins Jr.]]></surname>
+<given-names><![CDATA[J. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Debates]]></source>
+<year>2009</year>
+<volume>vol. 3</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 68-96</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["A dimensão geográfica das eleições brasileiras"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Marzagão]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2013</year>
+<volume>vol. 19</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 270-90</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["An analysis of the 2002 presidential elections using logistic regression"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nicolau]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2007</year>
+<volume>vol.1</volume>
+<numero>n° 1</numero>
+<issue>n° 1</issue>
+<page-range>p. 125-35</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nicolau]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peixoto]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Uma disputa em três tempos: uma análise das bases municipais nas eleições presidenciais de 2006]]></source>
+<year>2006</year>
+<conf-name><![CDATA[ Anais XXI Encontro Anual da Anpocs]]></conf-name>
+<conf-date>20 set. 2007</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Mobilidade social ascendente e voto: as eleições presidenciais de 2010 no Brasil"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peixoto]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2011</year>
+<volume>vol. 17</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 304-32</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Escândalos e voto: as eleições presidenciais brasileiras de 2006"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2007</year>
+<volume>vol. 13</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 260-82</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Sentimentos partidários e atitudes políticas entre os brasileiros"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ribeiro]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carreirão]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Borba]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2011</year>
+<volume>vol. 17</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 336-68</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Singer]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Esquerda e direita no eleitorado brasileiro:a identificação ideológica nas disputas presidenciais de 1989 e 1994]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Edusp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Singer]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os sentidos do lulismo:reforma gradual e pacto conservador]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Cia. das Letras]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Dois Lulas: a geografia eleitoral da reeleição (explorando conceitos, métodos e técnicas de análise geoespacial)"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soares]]></surname>
+<given-names><![CDATA[G. A. D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Terron]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2008</year>
+<volume>vol. 14</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 269-301</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["As bases eleitorais de Lula e do PT: do distanciamento ao divórcio"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Terron]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soares]]></surname>
+<given-names><![CDATA[G. A. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2010</year>
+<volume>vol. 16</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p. 310-37</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Why psychologists must change the way they analyze their data: the case of psi: comment on Bem (2011)"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wagenmakers]]></surname>
+<given-names><![CDATA[E. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Personality and Social Psychology]]></source>
+<year>2011</year>
+<volume>vol. 100</volume>
+<numero>n° 3</numero>
+<issue>n° 3</issue>
+<page-range>p. 426-32</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["An agenda for purely confirmatory research"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wagenmakers]]></surname>
+<given-names><![CDATA[E. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Perspectives on Psychological Science]]></source>
+<year>2012</year>
+<volume>vol. 7</volume>
+<numero>n° 6</numero>
+<issue>n° 6</issue>
+<page-range>p. 632-8</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["When payouts pay off: conditional cash transfers and voting behavior in Brazil 2002-10"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zucco Jr.]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2013</year>
+<volume>vol. 57</volume>
+<numero>n° 4</numero>
+<issue>n° 4</issue>
+<page-range>p. 810-22</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

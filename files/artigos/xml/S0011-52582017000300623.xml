@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0011-5258</journal-id>
+<journal-title><![CDATA[Dados]]></journal-title>
+<abbrev-journal-title><![CDATA[Dados]]></abbrev-journal-title>
+<issn>0011-5258</issn>
+<publisher>
+<publisher-name><![CDATA[Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ)]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0011-52582017000300623</article-id>
+<article-id pub-id-type="doi">10.1590/001152582017131</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[50 Anos da Revista DADOS: Uma Análise Bibliométrica do seu Perfil Disciplinar e Temático]]></article-title>
+<article-title xml:lang="en"><![CDATA[Fifty Years of Revista DADOS: A Bibliometric Study of its Disciplinary and Thematic Profiles]]></article-title>
+<article-title xml:lang="fr"><![CDATA[Les 50 Ans de la Revue DADOS: Une Analyse Bibliométrique de son Profil Disciplinaire et Thématique]]></article-title>
+<article-title xml:lang="es"><![CDATA[50 Años de la Revista DADOS: Un Análisis Bibliométrico de su Perfil Disciplinario y Temático]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Campos]]></surname>
+<given-names><![CDATA[Luiz Augusto]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Feres Júnior]]></surname>
+<given-names><![CDATA[João]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Guarnieri]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade do Estado do Rio de Janeiro  ]]></institution>
+<addr-line><![CDATA[Rio de Janeiro RJ]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2017</year>
+</pub-date>
+<volume>60</volume>
+<numero>3</numero>
+<fpage>623</fpage>
+<lpage>661</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0011-52582017000300623&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0011-52582017000300623&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0011-52582017000300623&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[RESUMO O artigo traça o perfil autoral, disciplinar, bibliográfico e temático da revista DADOS por meio de uma análise bibliométrica de todos os textos publicados pelo periódico nos seus 50 anos de existência (1966-2015). A composição da base se deu pelo processamento dos textos indexados na plataforma SciELO e da leitura e codificação manual dos volumes mais antigos da revista. Diferentes técnicas para o estudo de corpora linguísticos foram utilizadas para delinear o perfil das bibliografias recorrentes, mormente a Análise de Correspondências Simples, e o perfil temático dos textos, sobretudo a Modelagem de Tópicos. Os resultados sugerem que a revista privilegiou artigos sobre as temáticas públicas prementes de cada momento histórico, aliando rigor metodológico ao compromisso com as questões públicas mais candentes no país e no mundo.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[ABSTRACT In this article we employ bibliometric techniques to examine the authorial, disciplinary, bibliographical, and thematic profiles of the Journal DADOS, from its foundation to the present (1966-2015). The database was amassed using two different methods, the periodical&#8217;s most recent output was scraped from the website SciELO in XML format while the older issues had to be scanned and its bibliography extracted by painstakingly copying and pasting each entry. We employed two techniques to analyze the material: Correspondence Analysis, to determine the patterns of co-citations and thus to chart the bibliographical map of the periodical, and Topic Modeling, to identify the main themes and approaches in the corpus. The results show that Dados privileged themes and debates that were most relevant in each period, in a constant attempt to bring together methodological rigor and public relevance.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="fr"><p><![CDATA[RÉSUMÉ L&#8217;article analyse le profil disciplinaire, bibliographique, thématique et des auteurs de la revue DADOS à partir de quelques techniques bibliométriques appliquées aux textes publiés lors des cinquante dernières années (1966-2015). Le corpus linguistique est formé, d&#8217;une part, par les textes de la revue disponibles sur le site Internet Scielo.br et, d&#8217;autre part, par des articles académiques plus anciens. On a utilisée plusieurs techniques d&#8217;analyse de corpus linguistiques pour identifier les références bibliographiques récurrentes, grâce notamment l&#8217;Analyse de Correspondances, et le profil thématique des textes, avec, entre autres, l&#8217;Analyse des Topiques. L&#8217;étude montre que le périodique scientifique a privilégié pendant son histoire les thématiques publiques les plus importantes pour le pays, en combinant rigueur méthodologique et compromis politique.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[RESUMEN El artículo traza el perfil de autor, disciplinario, bibliográfico y temático de la revista DADOS por medio de un análisis bibliométrico de todos los textos publicados en el periódico en sus 50 años de existencia (1966-2015). La composición de la base se hizo mediante el procesamiento de los textos indexados en la plataforma Scielo y la lectura y codificación manual de los volúmenes más antiguos de la revista. Se utilizaron diferentes técnicas para el estudio de corpus lingüísticos para delinear el perfil de las bibliografías recurrentes, principalmente el análisis de correspondencias simples, y el perfil temático de los textos, especialmente el modelado de temas. Los resultados sugieren que la revista se enfocó en artículos sobre los temas públicos apremiantes de cada momento histórico, uniendo el rigor metodológico y el compromiso con las cuestiones públicas más candentes del país y del mundo.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Ciências Sociais]]></kwd>
+<kwd lng="pt"><![CDATA[revista DADOS]]></kwd>
+<kwd lng="pt"><![CDATA[bibliometria]]></kwd>
+<kwd lng="pt"><![CDATA[periódicos científicos]]></kwd>
+<kwd lng="pt"><![CDATA[análise de conteúdo]]></kwd>
+<kwd lng="en"><![CDATA[Social Sciences]]></kwd>
+<kwd lng="en"><![CDATA[revista DADOS]]></kwd>
+<kwd lng="en"><![CDATA[bibliometrics]]></kwd>
+<kwd lng="en"><![CDATA[scientific periodicals]]></kwd>
+<kwd lng="en"><![CDATA[topic modeling]]></kwd>
+<kwd lng="fr"><![CDATA[Sciences sociales]]></kwd>
+<kwd lng="fr"><![CDATA[revue DADOS]]></kwd>
+<kwd lng="fr"><![CDATA[bibliométrie]]></kwd>
+<kwd lng="fr"><![CDATA[périodiques scientifiques]]></kwd>
+<kwd lng="fr"><![CDATA[analyse de contenu]]></kwd>
+<kwd lng="es"><![CDATA[Ciencias Sociales]]></kwd>
+<kwd lng="es"><![CDATA[revista DADOS]]></kwd>
+<kwd lng="es"><![CDATA[bibliometría]]></kwd>
+<kwd lng="es"><![CDATA[periódicos científicos]]></kwd>
+<kwd lng="es"><![CDATA[análisis de contenido]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ABRANCHES]]></surname>
+<given-names><![CDATA[Sérgio]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Presidencialismo de Coalizão: O Dilema Institucional Brasileiro&#8221;]]></article-title>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>1988</year>
+<volume>31</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>5-34</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALFARO REDONDO]]></surname>
+<given-names><![CDATA[Ronald]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VARGAS CULLELL]]></surname>
+<given-names><![CDATA[Jorge]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Ciencia Política en Costa Rica: Búsqueda de Identidad Disciplinaria&#8221;]]></article-title>
+<source><![CDATA[Revista de Ciencia Política (Santiago)]]></source>
+<year>2005</year>
+<volume>25</volume>
+<page-range>124-35</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALTMAN]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[From Fukuoka to Santiago: Institutionalization of Political Science in Latin America&#8221;]]></article-title>
+<source><![CDATA[PS: Political Science and Politics]]></source>
+<year>2006</year>
+<volume>39</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>196-203</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BENOIT]]></surname>
+<given-names><![CDATA[Kenneth]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARSH]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;A Relative Impact Ranking of Political Studies In Ireland&#8221;]]></article-title>
+<source><![CDATA[The Economic and Social Review]]></source>
+<year>2009</year>
+<volume>40</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>269-98</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BENZÉCRI]]></surname>
+<given-names><![CDATA[Jean-Paul]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Correspondence Analysis Handbook Statistics]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Marcel Dekker Inc]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOURDIEU]]></surname>
+<given-names><![CDATA[Pierre]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Homo Academicus]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Stanford, CA ]]></publisher-loc>
+<publisher-name><![CDATA[Stanford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOURDIEU]]></surname>
+<given-names><![CDATA[Pierre]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Distinção: Crítica Social do Julgamento]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Zouk e Edusp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BREMBS]]></surname>
+<given-names><![CDATA[Björn]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BUTTON]]></surname>
+<given-names><![CDATA[Katherine]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUNAFÒ]]></surname>
+<given-names><![CDATA[Marcus]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Deep Impact: Unintended Consequences of Journal Rank&#8221;]]></article-title>
+<source><![CDATA[Frontiers in Human Neuroscience]]></source>
+<year>2013</year>
+<volume>7</volume>
+<numero>291</numero>
+<issue>291</issue>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUTLER]]></surname>
+<given-names><![CDATA[Linda]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MCALLISTER]]></surname>
+<given-names><![CDATA[Ian]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Metrics or Peer Review? Evaluating the 2001 UK Research Assessment Exercise in Political Science&#8221;]]></article-title>
+<source><![CDATA[Political Studies Review]]></source>
+<year>2009</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>3-17</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIGIAMPIETRI]]></surname>
+<given-names><![CDATA[Luciano A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Minerando e Caracterizando Dados de Currículos Lattes"]]></source>
+<year>2012</year>
+<conf-name><![CDATA[ Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)]]></conf-name>
+<conf-date>17 de julho</conf-date>
+<conf-loc>Curitiba </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<collab>EDITORIAL</collab>
+<article-title xml:lang=""><![CDATA[&#8220;The Story of Fake Impact Factor Companies and How We Detected Them&#8221;]]></article-title>
+<source><![CDATA[Electron Physician]]></source>
+<year>2015</year>
+<numero>5</numero>
+<issue>5</issue>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<collab>EDITORIAL</collab>
+<article-title xml:lang=""><![CDATA[Time to Remodel the Journal Impact Factor&#8221;]]></article-title>
+<source><![CDATA[Nature]]></source>
+<year>2016</year>
+<volume>535</volume>
+<numero>466</numero>
+<issue>466</issue>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERES JÚNIOR]]></surname>
+<given-names><![CDATA[João]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[Luiz Augusto]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ASSUMPÇÃO]]></surname>
+<given-names><![CDATA[San Romanelli]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Teoria Política Normativa&#8221;]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Avritzer]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Milani]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Braga]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Ciência Política no Brasil: 1960-2015]]></source>
+<year>2016</year>
+<page-range>217-74</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERRAZ]]></surname>
+<given-names><![CDATA[Sérgio Eduardo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Os Dados do Normativo: Apontamentos sobre a Recepção das Teorias Contemporâneas de Justiça no Brasil (1990-2003) &#8221;]]></article-title>
+<source><![CDATA[BIB]]></source>
+<year>2004</year>
+<numero>58</numero>
+<issue>58</issue>
+<page-range>131-57</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARFIELD]]></surname>
+<given-names><![CDATA[Eugene]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;The Impact Factor and Using It Correctly&#8221;]]></article-title>
+<source><![CDATA[Der Unfallchirurg]]></source>
+<year>1998</year>
+<volume>101</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>413-4</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENACRE]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Correspondence Analysis in Practice]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Boca Raton ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman &amp; Hall/CRC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENBERG]]></surname>
+<given-names><![CDATA[Steven A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[How Citation Distortions Create Unfounded Authority: Analysis of a Citation Network&#8221;]]></article-title>
+<source><![CDATA[British Medical Journal]]></source>
+<year>2009</year>
+<volume>339</volume>
+<numero>b2680</numero>
+<issue>b2680</issue>
+<page-range>210-3</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HIRSCH]]></surname>
+<given-names><![CDATA[Jorge E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[An Index to Quantify an Individual&#8217;s Scientific Research Output&#8221;]]></article-title>
+<source><![CDATA[Proceedings of the National Academy of Sciences]]></source>
+<year>2005</year>
+<volume>102</volume>
+<numero>46</numero>
+<issue>46</issue>
+<page-range>16569-72</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HIX]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A Global Ranking of Political Science Departments&#8221;]]></article-title>
+<source><![CDATA[Political Studies Review]]></source>
+<year>2004</year>
+<volume>2</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>293-313</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KUHN]]></surname>
+<given-names><![CDATA[Thomas]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Structure of Scientific Revolutions]]></source>
+<year>1962</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEITE]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Posições e Divisões na Ciência Política Brasileira Contemporânea: Explicando sua Produção Acadêmica&#8221;]]></article-title>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2010</year>
+<volume>18</volume>
+<page-range>149-82</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEITE]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Campo de Produção da Ciência Política Brasileira Contemporânea: Uma Análise Histórico-estrutural de seus Princípios de Divisão a partir de Periódicos, Áreas e Abordagens]]></source>
+<year>2015</year>
+<publisher-loc><![CDATA[Curitiba ]]></publisher-loc>
+<publisher-name><![CDATA[Universidade Federal do Paraná]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEITE]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The Stratification of Diversity: Measuring the Hierarchy of Brazilian Political Science&#8221;]]></article-title>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2016</year>
+<volume>10</volume>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEITE]]></surname>
+<given-names><![CDATA[Fernando.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CODATO]]></surname>
+<given-names><![CDATA[Adriano]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Autonomização e Institucionalização da Ciência Política Brasileira: O Papel do Sistema Qualis-Capes&#8221;]]></article-title>
+<source><![CDATA[Revista de Discentes de Ciência Política da UFSCAR]]></source>
+<year>2013</year>
+<volume>1</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-21</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LYNCH]]></surname>
+<given-names><![CDATA[Christian Edward Cyril]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Cartografia do Pensamento Político Brasileiro: Conceito, História, Abordagens&#8221;]]></article-title>
+<source><![CDATA[Revista Brasileira de Ciência Política]]></source>
+<year>2016</year>
+<numero>19</numero>
+<issue>19</issue>
+<page-range>75-119</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARENCO]]></surname>
+<given-names><![CDATA[André]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[When Institutions Matter: CAPES and Political Science in Brazil&#8221;]]></article-title>
+<source><![CDATA[Revista de Ciência Política]]></source>
+<year>2015</year>
+<volume>35</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>33-46</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARENCO]]></surname>
+<given-names><![CDATA[André]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Cinco Décadas de Ciência Política no Brasil: Institucionalização e Pluralismo&#8221;]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Avritzer]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Milani]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Braga]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Ciência Política no Brasil: 1960-2015]]></source>
+<year>2016</year>
+<page-range>141-64</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MELO]]></surname>
+<given-names><![CDATA[Manuel Palácios Cunha]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[As Ciências Sociais no Brasil Contemporâneo, Sociologia]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IUPERJ]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MELO]]></surname>
+<given-names><![CDATA[Manuel Palácios Cunha]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Quem Explica o Brasil]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Juiz de Fora ]]></publisher-loc>
+<publisher-name><![CDATA[Editora UFJF]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOUSTAFA]]></surname>
+<given-names><![CDATA[Khaled]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The Disaster of the Impact Factor&#8221;]]></article-title>
+<source><![CDATA[Science and Engineering Ethics]]></source>
+<year>2015</year>
+<volume>21</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>139-42</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUGNAINI]]></surname>
+<given-names><![CDATA[Rogério]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JANNUZZI]]></surname>
+<given-names><![CDATA[Paulo de Martino]]></given-names>
+</name>
+<name>
+<surname><![CDATA[QUONIAM]]></surname>
+<given-names><![CDATA[Luc]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Indicadores Bibliométricos da Produção Científica Brasileira: Uma Análise a partir da Base Pascal]]></article-title>
+<source><![CDATA[Ciência da Informação]]></source>
+<year>2004</year>
+<volume>33</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>123-31</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<collab>OECD (Organisation for Economic Co-operation and Development)</collab>
+<source><![CDATA[Bibliometrics, em OECD Frascati Manual: The Organisation for Economic Co-operation and Development]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[OECD Publishing]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[Lilian]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NICOLAU]]></surname>
+<given-names><![CDATA[Jairo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Produção da Ciência Política Brasileira: Uma Análise dos Artigos Acadêmicos (1966-2013)]]></source>
+<year>2014</year>
+<conf-name><![CDATA[ IX Encontro da ABCP]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROCHA CARPIUC]]></surname>
+<given-names><![CDATA[Cecilia]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Women and Diversity in Latin American Political Science&#8221;]]></article-title>
+<source><![CDATA[European Political Science]]></source>
+<year>2016</year>
+<volume>15</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>457-75</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RUSSELL]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Retaining the Peers: How Peer Review Triumphs over League Tables and Faulty Accounting in the Assessment of Political Science Research&#8221;]]></article-title>
+<source><![CDATA[Political Studies Review]]></source>
+<year>2009</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>63-72</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[Maria Helena de Castro]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COUTINHO]]></surname>
+<given-names><![CDATA[Marcelo J. V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Política Comparada: Estado das Artes e Perspectivas no Brasil&#8221;]]></article-title>
+<source><![CDATA[BIB]]></source>
+<year>2000</year>
+<numero>54</numero>
+<issue>54</issue>
+<page-range>3-146</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOARES]]></surname>
+<given-names><![CDATA[Gláucio Ary Dillon]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[Cíntia Pinheiro Ribeiro de]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MOURA]]></surname>
+<given-names><![CDATA[Tatiana Whately de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Colaboração na Produção Científica na Ciência Política e na Sociologia Brasileiras&#8221;]]></article-title>
+<source><![CDATA[Sociedade e Estado]]></source>
+<year>2010</year>
+<volume>25</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>525-38</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAVARES]]></surname>
+<given-names><![CDATA[Francisco Mata Machado]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[Ian Caetano de]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Omissões e Seletividades da Ciência Política Brasileira: Lacunas Temáticas e seus Problemas Sócio-Epistêmicos&#8221;]]></article-title>
+<source><![CDATA[Revista Brasileira de Ciência Política]]></source>
+<year>2016</year>
+<numero>19</numero>
+<issue>19</issue>
+<page-range>11-45</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VALLE SILVA]]></surname>
+<given-names><![CDATA[Nelson do]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Relatório de Consultoria sobre Melhoria do Treinamento em Ciência Social Quantitativa e Aplicada no Brasil]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Laboratório Nacional de Computação Científica]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VEYNE]]></surname>
+<given-names><![CDATA[Paul]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Como se Escreve a História]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Editora da UnB]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VILLAS BÔAS]]></surname>
+<given-names><![CDATA[Glaucia]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Vocação das Ciências Sociais no Brasil: Um Estudo da sua Produção em Livros no Acervo da Biblioteca Nacional (1945-1966)]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação Biblioteca Nacional]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WEALE]]></surname>
+<given-names><![CDATA[Albert]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Metrics versus Peer Review?]]></article-title>
+<source><![CDATA[Political Studies Review]]></source>
+<year>2009</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>39-49</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WERNECK VIANNA]]></surname>
+<given-names><![CDATA[Luiz]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Doutores e Teses em Ciências Sociais&#8221;]]></article-title>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>1998</year>
+<volume>41</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>453-516</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

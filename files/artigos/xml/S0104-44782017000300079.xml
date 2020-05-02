@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0104-4478</journal-id>
+<journal-title><![CDATA[Revista de Sociologia e Política]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Sociol. Polit.]]></abbrev-journal-title>
+<issn>0104-4478</issn>
+<publisher>
+<publisher-name><![CDATA[Universidade Federal do Paraná]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0104-44782017000300079</article-id>
+<article-id pub-id-type="doi">10.1590/1678-987317256304</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Magnitude eleitoral e representação de mulheres nos municípios brasileiros]]></article-title>
+<article-title xml:lang="en"><![CDATA[Electoral Magnitude and Women&#8217;s Political Representation in Brazilian Municipalities]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meireles]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rubim Andrade]]></surname>
+<given-names><![CDATA[Luciana Vieira]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal de Minas Gerais  ]]></institution>
+<addr-line><![CDATA[Belo Horizonte MG]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade Federal de Minas Gerais  ]]></institution>
+<addr-line><![CDATA[Belo Horizonte MG]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2017</year>
+</pub-date>
+<volume>25</volume>
+<numero>63</numero>
+<fpage>79</fpage>
+<lpage>101</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-44782017000300079&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0104-44782017000300079&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0104-44782017000300079&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo É argumento corrente na literatura sobre representação política de mulheres que sistemas mais proporcionais aumentam as chances de mulheres serem eleitas. O objetivo deste artigo é testar esta hipótese usando dados dos municípios brasileiros. Explorando uma regra estabelecida pelo Tribunal Superior Eleitoral em 2004 e 2008, que fixou o número de vereadores de cada município de acordo com o número de habitantes, utilizamos regressão descontínua (RD) para estimar o efeito causal de uma cadeira a mais na representação política de mulheres nas câmaras municipais. Nossos resultados mostram que este efeito é substantivo: onde havia uma cadeira adicional, quase 40% mais mulheres foram eleitas, e a probabilidade de um município eleger ao menos uma mulher aumentou em cerca de 20 pontos percentuais. Por outro lado, a explicação deste fenômeno contraria as hipóteses da literatura: especificamente, mostramos que uma cadeira a mais aumentou apenas o número de candidatos homens concorrendo, o que fragmentou suas votações e os deixou com desempenhos eleitorais piores. Deste modo, mesmo não tendo suas votações afetadas pelo número de cadeiras, mais mulheres acabaram eleitas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract It is a commonly known on the literature of women&#8217;s political representation that a more proportional electoral system can enhance their odds of being elected. In this article, we test this hypothesis using data from more than 10,000 elections in Brazilian municipalities. Exploiting a rule enacted by the Brazilian Tribunal Superior Eleitoral (TSE) for the 2004 and 2008 elections, which created population thresholds to set the numbers of legislators, we use a Regression Discontinuity Design (RDD) to estimate the causal effect of a unit seat increase on the women&#8217;s representation at city councils. Our results show this effect is substantive: an additional seat leads to a 40% increase on the number of elected women, and the probability of a least one woman being elected increased by 20 percentage points. However, we do not find empirical support for the main causal mechanisms proposed in the literature. Specifically, we show that one additional seat increases only the number of running male candidates, which fragmented their vote share; as a result, even with the same performance, more women were elected.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[representação política de mulheres]]></kwd>
+<kwd lng="pt"><![CDATA[estudos de gênero]]></kwd>
+<kwd lng="pt"><![CDATA[magnitude eleitoral]]></kwd>
+<kwd lng="pt"><![CDATA[municípios brasileiros]]></kwd>
+<kwd lng="pt"><![CDATA[câmara de vereadores]]></kwd>
+<kwd lng="en"><![CDATA[women&#8217;s political representation]]></kwd>
+<kwd lng="en"><![CDATA[gender studies]]></kwd>
+<kwd lng="en"><![CDATA[electoral magnitude]]></kwd>
+<kwd lng="en"><![CDATA[Brazilian municipalities]]></kwd>
+<kwd lng="en"><![CDATA[local councils]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Araújo]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Partidos políticos e gênero]]></article-title>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2005</year>
+<volume>24</volume>
+<numero>24</numero>
+<issue>24</issue>
+<page-range>193-215</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Araújo]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Gênero e acesso ao poder legislativo no Brasil: as cotas entre as instituições e a cultura]]></article-title>
+<source><![CDATA[Revista Brasileira de Ciência Política]]></source>
+<year>2009</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>23-59</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bohn]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Mulheres brasileiras na disputa do legislativo municipal]]></article-title>
+<source><![CDATA[Perspectivas]]></source>
+<year>2010</year>
+<volume>35</volume>
+<page-range>63-89</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Boix]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Setting the Rules of the Game: The Choice of Electoral Systems in Advanced Democracies]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>1999</year>
+<volume>93</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>609-24</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Brollo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Troiano]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[What Happens When a Woman Wins an Election? Evidence from Close Races in Brazil]]></article-title>
+<source><![CDATA[Journal of Development Economics]]></source>
+<year>2015</year>
+<volume>122</volume>
+<page-range>28-45</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cepaluni]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mignozzetti]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Politicians Matter: Legislature Size and Welfare with Evidence from Brazil]]></article-title>
+<source><![CDATA[SSRN Working Paper]]></source>
+<year>2016</year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Corbi]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Papaioannou]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Surico]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Federal Transfer Multipliers. Quasi-Experimental Evidence from Brazil]]></article-title>
+<source><![CDATA[National Bureau of Economic Research]]></source>
+<year>2014</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dowling]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Miller]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Can Information Alter Perceptions about Women&#8217;s Chances of Winning Office? Evidence from a Panel Study]]></article-title>
+<source><![CDATA[Politics &amp; Gender]]></source>
+<year>2015</year>
+<volume>11</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>55-88</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Engstrom]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[District Magnitudes and the Election of Women to the Irish Dáil]]></article-title>
+<source><![CDATA[Electoral Studies]]></source>
+<year>1987</year>
+<volume>6</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>123-32</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Imbens]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kalyanaraman]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Optimal Bandwidth Choice for the Regression Discontinuity Estimator]]></article-title>
+<source><![CDATA[The Review of Economic Studies]]></source>
+<year>2011</year>
+<volume>79</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>933-59</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Imbens]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lemieux]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Regression Discontinuity Designs: A Guide to Practice]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>2008</year>
+<volume>142</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>615-35</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Massolo]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Gobiernos locales y mujeres: nuevos cambios y desafíos en América Latina]]></article-title>
+<source><![CDATA[Observatório América Latina Genera: Gestion del Conocimiento para la Equidad de Géner]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Matland]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Institutional Variables Affecting Female Representation in National Legislatures: The Case of Norway]]></article-title>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>1993</year>
+<volume>55</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>737-55</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Matos]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Movimento e Teoria Feminista: é possível reconstruir a teoria feminista a partir do Sul global?]]></article-title>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2010</year>
+<volume>18</volume>
+<numero>36</numero>
+<issue>36</issue>
+<page-range>67-92</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Matos]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramalho]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mais mulheres no poder: contribuição à Formação Política das Mulheres]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Secretaria de Políticas para as Mulheres]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McCrary]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Manipulation of the Running Variable in the Regression Discontinuity Design: A Density Test]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>2008</year>
+<volume>142</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>698-714</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Miguel]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Capital político e carreira eleitoral: algumas variáveis na eleição]]></article-title>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2003</year>
+<volume>20</volume>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>115-34</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Miguel]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Biroli]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Práticas de gênero e carreiras políticas: vertentes explicativas]]></article-title>
+<source><![CDATA[Estudos Feministas]]></source>
+<year>2010</year>
+<volume>18</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>653-79</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Miguel]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Queiroz]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Diferenças regionais e o êxito relativo de mulheres em eleições municipais no Brasil]]></article-title>
+<source><![CDATA[Revista Estudos Feministas]]></source>
+<year>2006</year>
+<volume>14</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>363-86</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Norris]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The Impact of Electoral Reform on Women&#8217;s Representation]]></article-title>
+<source><![CDATA[Acta Política]]></source>
+<year>2006</year>
+<volume>41</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>197-213</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pinto]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Uma história do feminismo no Brasil]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação Perseu Abramo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Renwick]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Politics of Electoral Reform: Changing the Rules of Democracy]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Cambridge, MA ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rezende]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qual o lugar reservado às mulheres? Uma análise generificada de comissões legislativas na Argentina, no Brasil e no Uruguai]]></source>
+<year>2015</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Universidade Federal de Minas Gerais]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rezende]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Assis]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Constituinte soberana para reforma política: oportunidades e limites para a ampliação da participação das mulheres no poder]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Ribas]]></surname>
+<given-names><![CDATA[L.O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Constituinte Exclusiva: um outro sistema político é possível]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Expressão Popular]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Reynolds]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Women in the Legislatures and Executives of the World: Knocking at the Highest Glass Ceiling]]></article-title>
+<source><![CDATA[World Politics]]></source>
+<year>1999</year>
+<volume>51</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>547-72</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Roberts]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Seawright]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cyr]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Do Electoral Laws Affect Women&#8217;s Representation?]]></article-title>
+<source><![CDATA[Comparative Political Studies]]></source>
+<year>2013</year>
+<volume>46</volume>
+<numero>12</numero>
+<issue>12</issue>
+<page-range>1555-81</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sacchet]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Democracia pela Metade: candidaturas e desempenho eleitoral das mulheres]]></article-title>
+<source><![CDATA[Cadernos ADENAUER]]></source>
+<year>2013</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>85-109</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sacchet]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Speck]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Financiamento eleitoral, representação política e gênero: uma análise das eleições de 2006]]></article-title>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2012</year>
+<volume>18</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>177-97</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Salmond]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Proportional Representation and Female Parliamentarians]]></article-title>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>2006</year>
+<volume>31</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>175-204</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schmidt]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The Election of Women in list PR Systems: Testing the Conventional Wisdom]]></article-title>
+<source><![CDATA[Electoral Studies]]></source>
+<year>2009</year>
+<volume>28</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>190-203</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schwindt-Bayer]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Power and Women&#8217;s Representation in Latin America]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Valdini]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Electoral Institutions and the Manifestation of Bias: The Effect of the Personal Vote on the Representation of Women]]></article-title>
+<source><![CDATA[Politics &amp; Gender]]></source>
+<year>2013</year>
+<volume>9</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>76-92</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Viotti]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Declaração e a plataforma de ação da IV Conferência Mundial sobre a mulher: Pequim 1995]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Frossard]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Instrumentos internacionais de direitos das mulheres]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Secretaria Especial de Políticas para Mulheres]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Young]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Representação política, identidade e minorias]]></article-title>
+<source><![CDATA[Lua Nova]]></source>
+<year>2006</year>
+<volume>67</volume>
+<page-range>139-90</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="">
+<collab>Brasil está na lanterna da representação feminina no parlamento</collab>
+<source><![CDATA[]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="">
+<collab>Brasil. Secretaria de Política para as Mulheres</collab>
+<source><![CDATA[II Plano Nacional de Política para as Mulheres]]></source>
+<year>2008</year>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="">
+<collab>Brasil. Secretaria de Política para as Mulheres</collab>
+<source><![CDATA[Mais Mulheres no Poder &#8211; Eu assumo este compromisso]]></source>
+<year>2014</year>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="">
+<collab>Brasil. Tribunal Superior Eleitoral</collab>
+<source><![CDATA[Repositório de dados eleitorais]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="">
+<collab>IPEA</collab>
+<source><![CDATA[Ipeadata]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

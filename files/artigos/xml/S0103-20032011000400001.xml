@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032011000400001</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032011000400001</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Determinantes de longo prazo do produto e da Produtividade Total dos Fatores da agropecuária brasileira no período 1974-2005]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Brigatte]]></surname>
+<given-names><![CDATA[Henrique]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Teixeira]]></surname>
+<given-names><![CDATA[Erly Cardoso]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Viçosa  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2011</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2011</year>
+</pub-date>
+<volume>49</volume>
+<numero>4</numero>
+<fpage>815</fpage>
+<lpage>836</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032011000400001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032011000400001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032011000400001&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O presente estudo desenvolve uma análise dos impactos exercidos pelas mais relevantes variáveis no Produto Interno Bruto (PIB) e na Produtividade Total dos Fatores (PTF) da agricultura ao longo do período entre 1974 e 2005. São considerados como determinantes do crescimento econômico: investimentos em infraestrutura de transportes, de energia elétrica, de pesquisa, irrigação e armazenagem agrícolas, além dos montantes de crédito rural e da educação dos trabalhadores do setor agropecuário. A análise é feita por meio do uso de cointegração pelo método de Johansen, e os resultados indicam que educação e investimentos em infraestrutura exercem impactos positivos no longo prazo sobre o produto e a produtividade da agropecuária. Contrariamente, não são detectadas relações de cointegração entre crédito rural e o produto e a produtividade do setor.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This study develops an analysis of the impacts of the most important variables in the Gross Domestic Product (GDP) and Total Factor Productivity (TFP) in agriculture in the period between 1974 and 2005. Investment in infrastructure for transport, energy, research, agricultural irrigation and storage and the amount of rural credit and education of workers in the agricultural sector are considered determinants of the economic growth. The analysis is done through the use of the Johansen cointegration method and the results suggest that education and investment in infrastructure have a positive impact on output and on agriculture yield in the long run. On the other hand, cointegration relationship between credit and production, and credit and agriculture yield were not detected.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Agropecuária brasileira]]></kwd>
+<kwd lng="pt"><![CDATA[PTF]]></kwd>
+<kwd lng="pt"><![CDATA[Cointegração]]></kwd>
+<kwd lng="en"><![CDATA[Brazilian agriculture]]></kwd>
+<kwd lng="en"><![CDATA[TFP]]></kwd>
+<kwd lng="en"><![CDATA[Cointegration]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Determinantes de longo prazo do produto e da Produtividade  Total dos Fatores da agropecu&aacute;ria brasileira no per&iacute;odo 1974-2005 </b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Henrique Brigatte<sup>I</sup>; Erly Cardoso Teixeira<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Mestre em Economia Aplicada pela Universidade Federal de Vi&ccedil;osa. E-mail: <a href="mailto:hbrigatte@yahoo.com.br">hbrigatte@yahoo.com.br</a>    <br>       <sup>II</sup>Professor titular da Universidade Federal de Vi&ccedil;osa. E-mail: <a href="mailto:teixeira@ufv.br">teixeira@ufv.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   presente estudo desenvolve uma an&aacute;lise dos impactos exercidos pelas mais   relevantes vari&aacute;veis no Produto Interno Bruto (PIB) e na Produtividade Total   dos Fatores (PTF) da agricultura ao longo do per&iacute;odo entre 1974 e 2005. S&atilde;o   considerados como determinantes do crescimento econ&ocirc;mico: investimentos em   infraestrutura de transportes, de energia el&eacute;trica, de pesquisa, irriga&ccedil;&atilde;o e   armazenagem agr&iacute;colas, al&eacute;m dos montantes de cr&eacute;dito rural e da educa&ccedil;&atilde;o dos   trabalhadores do setor agropecu&aacute;rio. A an&aacute;lise &eacute; feita por meio do uso de   cointegra&ccedil;&atilde;o pelo m&eacute;todo de Johansen, e os resultados indicam que educa&ccedil;&atilde;o e   investimentos em infraestrutura exercem impactos positivos no longo prazo sobre   o produto e a produtividade da agropecu&aacute;ria. Contrariamente, n&atilde;o s&atilde;o detectadas   rela&ccedil;&otilde;es de cointegra&ccedil;&atilde;o entre cr&eacute;dito rural e o produto e a produtividade do   setor. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chave: </b>Agropecu&aacute;ria   brasileira, PTF, Cointegra&ccedil;&atilde;o. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This   study develops an analysis of the impacts of the most important variables in   the Gross Domestic Product (GDP) and Total Factor Productivity (TFP) in   agriculture in the period between 1974 and 2005. Investment in infrastructure   for transport, energy, research, agricultural irrigation and storage and the   amount of rural credit and education of workers in the agricultural sector are   considered determinants of the economic growth. The analysis is done through   the use of the Johansen cointegration method and the results suggest that   education and investment in infrastructure have a positive impact on output and   on agriculture yield in the long run. On the other hand, cointegration   relationship between credit and production, and credit and agriculture yield   were not detected. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key words: </b>Brazilian   agriculture, TFP, Cointegration.    <br> </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Classifica&ccedil;&atilde;o JEL: </b>O13, C22.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Eacute;   extensamente reconhecido que uma das condi&ccedil;&otilde;es fundamentais para a garantia da   sustentabilidade no crescimento econ&ocirc;mico de um pa&iacute;s &eacute; a exist&ecirc;ncia de   infraestrutura adequada. Afinal, a infraestrutura dispon&iacute;vel &eacute; respons&aacute;vel pela   oferta dos recursos b&aacute;sicos que as empresas utilizam em seus processos   produtivos. Al&eacute;m disso, o desenvolvimento das condi&ccedil;&otilde;es de infraestrutura deve   ser acompanhado por avan&ccedil;os na concess&atilde;o de cr&eacute;dito e aperfei&ccedil;oamentos   constantes no capital humano. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Na   agropecu&aacute;ria brasileira, &eacute; razo&aacute;vel pensar que aumentos nos inves&shy;timentos em   infraestrutura, nas possibilidades de financiamento e nas melhorias na educa&ccedil;&atilde;o   dos seus trabalhadores podem levar a incrementos na produtividade, gerando,   consequentemente, crescimentos no produto e na renda. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Num   trabalho pioneiro explorando o tema, Aschauer (1989) evidencia a import&acirc;ncia de   investimentos p&uacute;blicos em infraestrutura, argumentando acerca do decl&iacute;nio da   produtividade da economia norte-americana ocorrida na d&eacute;cada de 1970. Ele   relaciona tal fato &agrave;s seguidas quedas nas taxas de investimento originado de   capital p&uacute;blico. A elasticidade encontrada para o produto, em rela&ccedil;&atilde;o ao volume   desses investimentos p&uacute;blicos, foi de 0,39, indicando que, para cada 1% de   aumento no estoque de capital p&uacute;blico empregado para tais investimentos,   ocorreria uma eleva&ccedil;&atilde;o de 0,39% na produ&ccedil;&atilde;o agregada. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ferreira   e Malliagros (1998), por exemplo, apresentam uma an&aacute;lise emp&iacute;rica do setor de   infraestrutura brasileiro no per&iacute;odo 1950-1995. Usando a metodologia   econom&eacute;trica de autorregress&atilde;o vetorial (<i>VAR</i>), os autores concentram-se   na estima&ccedil;&atilde;o das elasticidades de longo prazo do produto e da PTF em rela&ccedil;&atilde;o ao   capital e ao investimento em infraestrutura desagregados em cinco ramos &#150;   energia el&eacute;trica, telecomunica&ccedil;&otilde;es, ferrovias, rodovias e portos. Seus   resultados indicam a exist&ecirc;ncia de forte rela&ccedil;&atilde;o entre infraestrutura, produto   e produtividade no longo prazo, no Brasil. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Algumas   pesquisas, como a conduzida por Gasques e Concei&ccedil;&atilde;o (2000), fazem uso do &iacute;ndice   de Tornqvist para a obten&ccedil;&atilde;o de s&eacute;ries de PTF da agricultura para os anos entre   1970 e 1995. Algebricamente, o &iacute;ndice de Tornqvist consiste numa aproxima&ccedil;&atilde;o   discreta do &iacute;ndice cont&iacute;nuo de Divisia<a name="tx01"></a><a href="#nt01"><sup>1</sup></a> e &eacute; calculado como a soma de   raz&otilde;es logaritmizadas das quantidades de determinado produto e de determinado   insumo em diferentes per&iacute;odos de tempo, ponderadas, respectivamente, pelas   participa&ccedil;&otilde;es do produto no valor total da produ&ccedil;&atilde;o e do insumo no custo total.   Para que seja feita corretamente a constru&ccedil;&atilde;o da s&eacute;rie da PTF por meio do   &iacute;ndice de Tornqvist, &eacute; necess&aacute;rio que se possua disponibilidade de pre&ccedil;os e   quantidades referentes a todos os produtos e insumos considerados. Os   resultados do trabalho de Gasques e Concei&ccedil;&atilde;o (2000) indicam que a agricultura   passou por ganhos expressivos de produtividade ao longo do intervalo de tempo   analisado. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Um trabalho cl&aacute;ssico que analisa a PTF por meio do   &iacute;ndice de Divisia &eacute; o realizado por Jorgenson e Griliches (1967); as conclus&otilde;es   obtidas pelos autores s&atilde;o de que a PTF n&atilde;o mediria exatamente o efeito direto   dado por uma nova tecnologia, mas as externalidades associadas ao processo de   mudan&ccedil;a tecnol&oacute;gica. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Morrison   e Schwartz (1996), ao analisarem, para os Estados Unidos, a rela&ccedil;&atilde;o entre   infraestrutura e produtividade em n&iacute;vel estadual, aplicando o referencial das   teorias de produ&ccedil;&atilde;o por meio da abordagem das fun&ccedil;&otilde;es de custo das firmas,   concluem que os investimentos em infraestrutura propor&shy;cionam significativos   retornos e promovem aumentos na produtividade dos fatores das empresas.   Ressaltam, todavia, que os benef&iacute;cios sociais desses investimentos podem ou n&atilde;o   ser positivos, dependendo dos custos sociais advindos da sua execu&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Zhang   e Fan (2004), num estudo realizado para 290 distritos rurais da &Iacute;ndia,   encontraram evid&ecirc;ncias de que investimentos p&uacute;blicos em infraestrutura geram   efeitos positivos na PTF da agricultura indiana. Os valores das elasticidades   da produ&ccedil;&atilde;o encontradas foram de 0,042, com rela&ccedil;&atilde;o a investimentos p&uacute;blicos em   rodovias, e de 0,081 para investimentos em irriga&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">J&aacute;   Pires (2005) e Lucas (1993) procuram estabelecer uma rela&ccedil;&atilde;o entre cr&eacute;dito e   desenvolvimento do capital humano e as condi&ccedil;&otilde;es para a consecu&ccedil;&atilde;o de   crescimento econ&ocirc;mico, respectivamente. O primeiro indica que h&aacute; uma influ&ecirc;ncia   estatisticamente significativa do cr&eacute;dito no crescimento econ&ocirc;mico, enquanto o   segundo coloca o desenvolvimento do capital humano como condi&ccedil;&atilde;o essencial para   a obten&ccedil;&atilde;o de um cen&aacute;rio favor&aacute;vel ao crescimento econ&ocirc;mico e como principal   fator explicativo das diferen&ccedil;as existentes entre os n&iacute;veis de bem-estar social   dos pa&iacute;ses. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alguns trabalhos de Griliches   (1963a, 1963b, 1964) procuram demonstrar a contribui&ccedil;&atilde;o dada pela educa&ccedil;&atilde;o e   pelos investimentos em pesquisa e desenvolvimento   na produtividade da agricultura norte-americana. Os resultados indicam que   tanto a educa&ccedil;&atilde;o quanto os investimentos em pesquisa e desenvolvimento t&ecirc;m   reflexos positivos significativos no produto e na produtividade do setor, al&eacute;m   de mostrarem que a taxa de retorno social transferida &eacute; expressiva. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esse   trabalho busca analisar as rela&ccedil;&otilde;es de longo prazo que o PIB e a PTF da   agropecu&aacute;ria brasileira mant&ecirc;m com os investimentos em infraestrutura   realizados pelo governo federal no per&iacute;odo entre 1974 e 2005. A op&ccedil;&atilde;o em   concentrar o foco neste per&iacute;odo e nos investimentos federais deve-se &agrave; car&ecirc;ncia   de dados estaduais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Adicionalmente, mostrar-se-&atilde;o os efeitos   exercidos por vari&aacute;veis representativas de cr&eacute;dito rural e educa&ccedil;&atilde;o na produ&ccedil;&atilde;o   e na produtividade da agropecu&aacute;ria brasileira. A pesquisa, desse modo, procura   expor uma an&aacute;lise global acerca dos determinantes do crescimento de longo prazo   da atividade agr&iacute;cola do pa&iacute;s. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Referencial Te&oacute;rico </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os   efeitos exercidos por aumentos na taxa de investimento sobre a atividade   econ&ocirc;mica de um pa&iacute;s podem ser sintetizados pelo modelo de crescimento   econ&ocirc;mico de Solow. Ele fornece uma importante base para a compreens&atilde;o das   diferen&ccedil;as existentes entre os n&iacute;veis de riqueza dos pa&iacute;ses, por meio de   elementos que protagonizam pap&eacute;is decisivos na determina&ccedil;&atilde;o do investimento   proporcional &agrave; produ&ccedil;&atilde;o bruta que determinada na&ccedil;&atilde;o poder&aacute; efetivar. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo   Jones (2000), as conclus&otilde;es alcan&ccedil;adas pelo modelo, em sua formula&ccedil;&atilde;o original,   indicam que os investimentos podem colaborar com o crescimento econ&ocirc;mico.   Demonstra-se que, no estado estacion&aacute;rio (em que o montante de capital por   trabalhador permanece constante), um aumento na taxa de investimentos faz com   que o n&iacute;vel de produ&ccedil;&atilde;o da economia cres&ccedil;a mais rapidamente, levando ao aumento   do produto <i>per capita</i> e do volume de riqueza. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Posteriormente,   a fim de tentar solucionar alguns problemas inerentes ao modelo de Solow, foram   formuladas novas concep&ccedil;&otilde;es te&oacute;ricas, que colocaram o progresso tecnol&oacute;gico como elemento end&oacute;geno ao processo de   crescimento. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A disponibilidade de cr&eacute;dito &eacute; outro fator que se configura   como determinante do crescimento da economia. Para Lucas (1988), &eacute; especialmente   importante o papel exercido pelos fatores financeiros na economia real,   e a tem&aacute;tica vem sendo cada vez mais discutida e abordada na literatura   econ&ocirc;mica.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   aperfei&ccedil;oamento do capital humano tamb&eacute;m repercute positivamente no crescimento   da atividade produtiva. Jones (2000) estabelece uma vers&atilde;o simplificada do   arcabou&ccedil;o te&oacute;rico desenvolvido por Mankiw et al. (1992) para demonstrar que, no   estado estacion&aacute;rio, a vari&aacute;vel representativa do tempo que as pessoas   despendem no ac&uacute;mulo de conhecimento possui rela&ccedil;&atilde;o direta com o produto por   trabalhador ao longo da trajet&oacute;ria de crescimento equilibrado; desse modo, &eacute;   poss&iacute;vel que incrementos na educa&ccedil;&atilde;o da popula&ccedil;&atilde;o exer&ccedil;am impactos positivos no   n&iacute;vel de atividade econ&ocirc;mica. Modelos end&oacute;genos de crescimento como o de   Uzawa-Lucas tamb&eacute;m refor&ccedil;am o car&aacute;ter fundamental exercido pela educa&ccedil;&atilde;o no   crescimento econ&ocirc;mico. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>2.1. O res&iacute;duo de Solow </i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   artigo de Solow (1957) representou o princ&iacute;pio de uma abordagem te&oacute;rica mais   profunda com respeito ao crescimento econ&ocirc;mico. Em sua pesquisa, o autor prop&ocirc;s   a realiza&ccedil;&atilde;o de uma an&aacute;lise voltada &agrave; desagrega&ccedil;&atilde;o do crescimento econ&ocirc;mico   entre os j&aacute; conhecidos fatores de produ&ccedil;&atilde;o dados pelo capital e pelo trabalho e   um novo elemento pass&iacute;vel de estudo, denominado por ele de mudan&ccedil;a tecnol&oacute;gica,   ou simplesmente tecnologia. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este progresso tecnol&oacute;gico seria um   elemento meramente residual, mas n&atilde;o menos importante, em termos quantitativos,   para a explica&ccedil;&atilde;o do crescimento. Esse res&iacute;duo concentraria toda a parcela do   crescimento que n&atilde;o poderia ser explicada pela eleva&ccedil;&atilde;o dos fatores de produ&ccedil;&atilde;o   usuais; tal componente passou a ser denominado de res&iacute;duo de Solow, que   caracteriza o crescimento da Produtividade Total dos Fatores (PTF). </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Metodologia </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este   trabalho procura realizar uma investiga&ccedil;&atilde;o acerca dos efeitos causados no longo   prazo pelos investimentos em infraestrutura, pelo cr&eacute;dito rural e pela educa&ccedil;&atilde;o   dos trabalhadores agr&iacute;colas no PIB e na PTF da agropecu&aacute;ria brasileira. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No   caso da an&aacute;lise voltada para a PTF, &eacute; preciso que se obtenha uma medida   adequada para este &iacute;ndice de produtividade. No presente artigo, o procedimento   &eacute; econom&eacute;trico e tem como base o artigo de Solow (1957), no qual &eacute; desenvolvida   uma esp&eacute;cie de contabilidade do crescimento em que se demonstra como poderia   ser medido o progresso tecnol&oacute;gico (ou crescimento da PTF) a partir de uma   fun&ccedil;&atilde;o de produ&ccedil;&atilde;o do tipo Cobb-Douglas. Considera-se que as varia&ccedil;&otilde;es no   produto que n&atilde;o s&atilde;o explicadas por varia&ccedil;&otilde;es no emprego dos fatores de produ&ccedil;&atilde;o   capital e trabalho s&atilde;o explicadas pela PTF. Assim, a PTF pode ser dada como o   res&iacute;duo da fun&ccedil;&atilde;o de produ&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Portanto, analogamente a Mendes e   Teixeira (2006), procedendo-se &agrave; estima&ccedil;&atilde;o, por m&iacute;nimos quadrados ordin&aacute;rios   (MQO), da equa&ccedil;&atilde;o </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01eq01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em   que <i>Y<sub>t</sub> </i>representa   o PIB agropecu&aacute;rio, <i>K<sub>t</sub></i>, o capital agropecu&aacute;rio e <i>L<sub>t</sub></i>,o trabalho no   setor agropecu&aacute;rio medidos no tempo <i>t</i>, s&atilde;o obtidas as medidas das   elasticidades do produto em rela&ccedil;&atilde;o ao capital e ao trabalho &#150; dadas,   respectivamente, por <i>&#946;</i><sub>2</sub> e <i>&#946;</i><sub>3</sub>. Conv&eacute;m destacar   que os res&iacute;duos dados por <i>&#949;</i>t na equa&ccedil;&atilde;o (1) est&atilde;o logaritmizados, uma   vez que a especifica&ccedil;&atilde;o funcional adotada &eacute; log-log. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A estima&ccedil;&atilde;o do estoque de capital do   setor agropecu&aacute;rio foi feita com o uso do m&eacute;todo do invent&aacute;rio permanente. A   princ&iacute;pio, parte-se da lei de movimento do capital, dada por </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01eq02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em   que &#948; &eacute; a taxa de deprecia&ccedil;&atilde;o do capital agropecu&aacute;rio, e <i>I</i> &eacute; o   investimento realizado no per&iacute;odo em estudo. Generalizada, a express&atilde;o assume a   seguinte forma: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01eq03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir desta defini&ccedil;&atilde;o, e adotando-se o   racioc&iacute;nio proposto por Young (1995), alcan&ccedil;a-se a equa&ccedil;&atilde;o utilizada para a   determina&ccedil;&atilde;o do estoque de capital inicial <i>K<sub>0</sub></i>: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01eq04.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">sendo <i>g</i> a taxa m&eacute;dia de crescimento do investimento no per&iacute;odo anterior ao do   estoque de capital inicial. Procedeu-se da mesma forma que Barros (1999) para a   escolha da taxa de deprecia&ccedil;&atilde;o considerada neste trabalho, que foi de 6%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Assim, de posse das   vari&aacute;veis componentes da fun&ccedil;&atilde;o de produ&ccedil;&atilde;o (1), tem&shy;-se que </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01eq05.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">representa   o logaritmo da PTF. Para a obten&ccedil;&atilde;o da s&eacute;rie da PTF, toma-se o antilogaritmo   destes res&iacute;duos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O procedimento para investigar se as vari&aacute;veis consideradas   neste trabalho mant&ecirc;m rela&ccedil;&atilde;o de longo prazo com o PIB e a PTF da agropecu&aacute;ria   encontra respaldo te&oacute;rico em um conceito amplamente difundido em econometria, o   de cointegra&ccedil;&atilde;o, estudado dentro dos conceitos de s&eacute;ries temporais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A op&ccedil;&atilde;o por modelos de   cointegra&ccedil;&atilde;o<a name="tx02"></a><a href="#nt02"><sup>2</sup></a> se justifica nos casos em que as s&eacute;ries temporais analisadas   s&atilde;o n&atilde;o estacion&aacute;rias. Quando se diz que duas s&eacute;ries temporais s&atilde;o   cointegradas, ou que uma delas cointegra com a outra, significa simplesmente que as mesmas guardam, entre si, uma   rela&ccedil;&atilde;o de longo prazo, ou de equil&iacute;brio. Algo extremamente importante, dado   que a teoria econ&ocirc;mica frequentemente &eacute; abordada em termos de equil&iacute;brio   (GUJARATI, 2006). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste trabalho, foram utilizados os procedimentos propostos por   Johansen (1988) e Johansen e Juselius (1990), os quais consistem na estima&ccedil;&atilde;o   do(s) vetor(es) de cointegra&ccedil;&atilde;o a partir da constru&ccedil;&atilde;o de um modelo de vetor   autorregressivo (<i>VAR</i>). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As rela&ccedil;&otilde;es de longo prazo   mantidas pelo PIB e pela PTF da agropecu&aacute;ria com os determinantes considerados   ser&atilde;o estabelecidas de acordo com as seguintes proposi&ccedil;&otilde;es formuladas por   Ferreira e Malliagros (1998): </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01eq06.jpg"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01eq07.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em   que <i>I<sub>t</sub></i> representa um dos determinantes da an&aacute;lise. Lan&ccedil;ou-se m&atilde;o dessa   formula&ccedil;&atilde;o bivariada para o <i>VAR</i> (que fornecer&aacute; as conclus&otilde;es   relacionadas &agrave; exist&ecirc;ncia ou n&atilde;o de cointegra&ccedil;&atilde;o entre o PIB e PTF da agropecu&aacute;ria   e seus determinantes) pelo fato de as amostras colhidas terem sido de tamanho   limitado. Dessa forma, de modo a realizar uma an&aacute;lise que n&atilde;o implicasse a   perda de muitos graus de liberdade (a despeito da possibilidade de gera&ccedil;&atilde;o de   vieses devido &agrave; omiss&atilde;o de vari&aacute;veis relevantes no espa&ccedil;o de cointegra&ccedil;&atilde;o<a name="tx03"></a><a href="#nt03"><sup>3</sup></a>),   as rela&ccedil;&otilde;es foram tomadas por meio da constru&ccedil;&atilde;o de regress&otilde;es simples. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Espera-se que os sinais das elasticidades representadas pelos   coeficientes das regress&otilde;es (6) e (7) sejam positivos; assim, a expectativa &eacute;   de que &#966;<i>&gt;</i>0 e que &#951;<i>&gt;</i>0. Isso significaria que   aumentos nos investimentos em infraestrutura, maiores montantes de cr&eacute;dito   rural e aumento no n&iacute;vel de educa&ccedil;&atilde;o dos trabalhadores ocupados no setor   agropecu&aacute;rio influenciariam positivamente o PIB e a PTF da agropecu&aacute;ria   brasileira no longo prazo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os dados do PIB agropecu&aacute;rio anual (de 2000, em milh&otilde;es de   reais, deflacionados pelo deflator impl&iacute;cito do PIB), originados do IBGE   (Instituto Brasileiro de Geografia e Estat&iacute;stica), foram obtidos no Instituto   de Pesquisa Econ&ocirc;mica Aplicada (Ipea). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com rela&ccedil;&atilde;o &agrave; vari&aacute;vel   trabalho, que se refere ao n&uacute;mero de trabalhadores formais empregados na   agricultura, os dados foram colhidos por meio da s&eacute;rie constru&iacute;da por Mendes e   Teixeira (2006) para os anos de 1985 a 2005, e no IBGE para os anos de 1974 a   1984. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os n&uacute;meros do capital agropecu&aacute;rio &#91;de   2000, em milh&otilde;es de reais, deflacionados pelo &Iacute;ndice de Pre&ccedil;os ao Consumidor   (IPC) geral da Funda&ccedil;&atilde;o Get&uacute;lio Vargas (FGV), cujos dados foram coletados no   Ipea&#93; foram estimados considerando-se o total de terras utilizadas para   pastagens e para as principais culturas cultivadas no Brasil, al&eacute;m dos   investimentos realizados pelo setor na compra de m&aacute;quinas agr&iacute;colas   automotrizes. Primeiramente, obtiveram-se, na FGV, os pre&ccedil;os de venda de terras   para pastagens e lavouras no per&iacute;odo de 1977 a 2005 (encontrados em valores   correntes, e posteriormente deflacionados pelo IPC geral para o ano-base de   2000). Em seguida, foi feita a multiplica&ccedil;&atilde;o do total de &aacute;reas de pastagens   (obtidas junto ao IBGE) e para o cultivo de algod&atilde;o (arb&oacute;reo e herb&aacute;ceo),   arroz, cacau, caf&eacute;, cana, feij&atilde;o, laranja, mandioca, milho, soja e trigo   (medidos em hectares e obtidos na FGV) pelos valores dos pre&ccedil;os coletados. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em seguida, foi constru&iacute;da a s&eacute;rie do estoque de capital de   m&aacute;quinas agr&iacute;colas automotrizes. Esse procedimento foi realizado por meio da   aplica&ccedil;&atilde;o dos m&eacute;todos de Young (1995) e do invent&aacute;rio permanente aos dados de   investimentos realizados na compra de m&aacute;quinas agr&iacute;colas automotrizes,   fornecidos pela Associa&ccedil;&atilde;o Nacional dos Fabricantes de Ve&iacute;culos Automotores   (Anfavea). Tais valores, medidos em reais, de 2007, foram deflacionados para o   ano-base de 2000 pelo IPC geral. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para a obten&ccedil;&atilde;o do valor do estoque de capital inicial (ou seja,   de 1977), foi aplicada a metodologia de Young (1995) aos dados de investimentos   realizados na compra de m&aacute;quinas agr&iacute;colas entre 1966 e 1976. Para alcan&ccedil;ar os   dados para os anos posteriores, empregou-se, recursivamente, a equa&ccedil;&atilde;o da lei   de movimento do capital. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Assim, somaram-se os valores da utiliza&ccedil;&atilde;o de terras para   pastagens e lavouras &agrave; s&eacute;rie do estoque de m&aacute;quinas da agropecu&aacute;ria para obter   uma aproxima&ccedil;&atilde;o da s&eacute;rie do estoque de capital total do setor. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Desse modo, por meio das s&eacute;ries de PIB, trabalho e capital   pertencentes ao setor agropecu&aacute;rio, foram obtidas as estimativas da PTF da   agropecu&aacute;ria brasileira para o per&iacute;odo de 1977 a 2005. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto aos n&uacute;meros de investimentos em infraestrutura no setor   de transportes, as s&eacute;ries foram obtidas da base de dados de Ferreira e   Malliagros (1998), para os anos de 1974 a 1995, e Minist&eacute;rio dos Transportes,   de 1996 a 2005. Todos os valores foram deflacionados pelo IPC geral, para o   ano-base de 2000. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No setor de energia el&eacute;trica, a fonte de refer&ecirc;ncia para a   obten&ccedil;&atilde;o da <i>proxy </i>dos investimentos em eletricidade no meio rural,   representada pelo consumo de energia el&eacute;trica do setor agropecu&aacute;rio, em GWh,   foi a Empresa de Pesquisa Energ&eacute;tica (EPE), do Minist&eacute;rio de Minas e Energia   (MME). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">J&aacute; os valores para a <i>proxy</i> de investimento em pesquisa   agr&iacute;cola foram coletados em Gasques et al. (2006). Os dados referem-se aos   gastos executados pela Embrapa ao longo do per&iacute;odo em estudo e foram   deflacionados pelo IPC geral para o ano-base de 2000 (por escassez de dados,   n&uacute;meros de investimentos em pesquisa executados por institutos estaduais e por   centros universit&aacute;rios importantes no estudo de quest&otilde;es ligadas &agrave; agricultura,   que tamb&eacute;m constituem relevante parcela do investimento para o setor, n&atilde;o foram   inclu&iacute;dos na s&eacute;rie). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os investimentos em t&eacute;cnicas de   agricultura irrigada, representados pela <i>proxy</i> dada pelos hectares de   terras irrigadas no Brasil, foram encontrados nos trabalhos de Lima et al.   (2004) e Mendes e Teixeira (2006). Procedeu-se a interpola&ccedil;&atilde;o, usando a taxa   geom&eacute;trica de crescimento, para os anos nos quais n&atilde;o havia disponibilidade de   informa&ccedil;&otilde;es. Nas estima&ccedil;&otilde;es, foram usados os dados de hectares de terras   irrigadas proporcionais ao total de terras utilizadas no Brasil. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os n&uacute;meros da vari&aacute;vel <i>proxy </i>considerada como   investimentos em armazenagem agr&iacute;cola, dada pela capacidade est&aacute;tica dos   armaz&eacute;ns cadastrados na Conab (Companhia Nacional de Abastecimento), em mil   toneladas, foram obtidos na Companhia. A insufici&ecirc;ncia de dados fez com que a   an&aacute;lise voltada para esta vari&aacute;vel cobrisse somente o intervalo compreendido   entre 1980 e 2005. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A vari&aacute;vel representada pelo volume de cr&eacute;dito agr&iacute;cola   concedido ao setor agropecu&aacute;rio foi obtida por meio de dados coletados no Banco   Central do Brasil (Bacen); os valores foram deflacionados pelo IPC geral para o   ano-base de 2000. Esta vari&aacute;vel tamb&eacute;m &eacute; uma <i>proxy</i>, pois nem todo o   montante de cr&eacute;dito para a atividade agr&iacute;cola &eacute; originado de institui&ccedil;&otilde;es   oficiais como o Bacen. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por fim, os dados para a vari&aacute;vel <i>proxy</i> educacional, dada   pelo n&uacute;mero m&eacute;dio de anos de estudo da popula&ccedil;&atilde;o ocupada no setor agr&iacute;cola,   foram coletados de Freitas et al. (2007), e novamente foi utilizada   interpola&ccedil;&atilde;o pela taxa geom&eacute;trica de crescimento para o preenchimento completo   da s&eacute;rie no per&iacute;odo 1974-2005. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Todas as estima&ccedil;&otilde;es   econom&eacute;tricas foram realizadas com o uso do <i>software </i>estat&iacute;stico Eviews   5. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Resultados   e discuss&otilde;es </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A s&eacute;rie utilizada   para o PIB agropecu&aacute;rio, em n&iacute;vel, &eacute; n&atilde;o estacion&aacute;ria a 5% de signific&acirc;ncia   estat&iacute;stica<a name="tx04"></a><a href="#nt04"><sup>4</sup></a>; h&aacute; a presen&ccedil;a de somente uma raiz unit&aacute;ria, pois, tomando a   primeira diferen&ccedil;a da s&eacute;rie, verificou-se que esta foi estacion&aacute;ria. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dessa forma, a s&eacute;rie &eacute;<i> I(1)</i>, ou seja, integrada de ordem   1<i>. </i>Todas as vari&aacute;veis de infraestrutura, em n&iacute;vel, s&atilde;o tamb&eacute;m n&atilde;o   estacion&aacute;rias a pelo menos 10% de signific&acirc;ncia estat&iacute;stica; todas as s&eacute;ries   possuem apenas uma raiz unit&aacute;ria, uma vez que, tomadas em suas primeiras   diferen&ccedil;as, elas se tornaram estacion&aacute;rias. Essas s&eacute;ries, portanto, s&atilde;o <i>I(1)</i>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dado que a s&eacute;rie correspondente ao PIB agropecu&aacute;rio possui a   mesma ordem de integra&ccedil;&atilde;o em rela&ccedil;&atilde;o a todas as vari&aacute;veis de infraestrutura,   pode&shy;-se admitir a possibilidade de que elas sejam cointegradas, ou seja, que   elas possuam rela&ccedil;&atilde;o de longo prazo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Assim, a estima&ccedil;&atilde;o de modelos <i>VAR</i> bivariados foi   realizada, conforme a especifica&ccedil;&atilde;o dada pela equa&ccedil;&atilde;o (6), para se estabelecer   a rela&ccedil;&atilde;o de longo prazo baseada nesta mesma equa&ccedil;&atilde;o. A escolha quanto ao   n&uacute;mero adequado de defasagens foi feita de acordo com a minimiza&ccedil;&atilde;o do Crit&eacute;rio   de Informa&ccedil;&atilde;o de Akaike (CIA), do Crit&eacute;rio de Informa&ccedil;&atilde;o de Schwarz (CIS) e do   Crit&eacute;rio de Hannan-Quinn (HQ). Neste trabalho, os modelos foram constru&iacute;dos   contendo entre uma e tr&ecirc;s defasagens. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por meio dos procedimentos de Johansen (1988) e Johansen e Juselius   (1990), mostram-se, na <a href="#tab01">Tabela 1</a>, os resultados dos testes de cointegra&ccedil;&atilde;o. </font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01tab01.jpg" border="0" usemap="#Map">     <map name="Map">       <area shape="rect" coords="351,20,360,33" href="#nt05">     </map> </p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pela <a href="#tab01">Tabela 1</a>, percebe-se que, para a   vari&aacute;vel de investimentos em rodovias, os resultados dos testes do tra&ccedil;o e do   m&aacute;ximo autovalor s&atilde;o contradit&oacute;rios. No primeiro, &eacute; apontada a exist&ecirc;ncia de um   vetor de cointegra&ccedil;&atilde;o: a hip&oacute;tese nula de que n&atilde;o existe um vetor de   cointegra&ccedil;&atilde;o (r = 0) &eacute; rejeitada, enquanto a   hip&oacute;tese nula de que existe pelo menos um vetor de cointegra&ccedil;&atilde;o (r &#8804; 1)   n&atilde;o pode ser   rejeitada a 10% de signific&acirc;ncia. No segundo teste, a hip&oacute;tese nula de que n&atilde;o   existe um vetor de cointegra&ccedil;&atilde;o (r = 0) n&atilde;o pode ser rejeitada. Nesta e em   outras situa&ccedil;&otilde;es em que isso ocorreu, foram considerados os resultados dos   testes do tra&ccedil;o. Por meio de simula&ccedil;&otilde;es, L&uuml;tkepohl et al. (2001) demonstram   que, em pequenas amostras (como as utilizadas no presente trabalho), o poder do   teste do tra&ccedil;o &eacute; superior ao do teste do m&aacute;ximo autovalor, o que pode levar &agrave;   prefer&ecirc;ncia pelo uso do primeiro em detrimento do &uacute;ltimo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   sinal da elasticidade foi coerente com o esperado. Conforme o coeficiente   obtido, para cada 1% de aumento nos investimentos em rodovias, o PIB   agropecu&aacute;rio aumenta, em m&eacute;dia, 0,08%. O par&acirc;metro, por&eacute;m, n&atilde;o foi   estatisticamente diferente de zero, como se p&ocirc;de constatar por meio do valor da   estat&iacute;stica LR<a name="tx06"></a><a href="#nt06"><sup>6</sup></a>, o que limita   tal interpreta&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">J&aacute;   as s&eacute;ries de investimentos em ferrovias e portos n&atilde;o cointegraram. A expressiva   queda no volume de investimentos realizado pelo governo federal observada ao   longo dos &uacute;ltimos anos para estes dois setores demonstra que a atividade   agropecu&aacute;ria brasileira cresce, no longo prazo, independente dos avan&ccedil;os a   cargo de investimentos p&uacute;blicos na malha ferrovi&aacute;ria e na infraestrutura   portu&aacute;ria. Esta situa&ccedil;&atilde;o, por&eacute;m, pode n&atilde;o se sustentar, pois ambos os setores   caracterizam infraestruturas sobejamente importantes para o escoamento da   produ&ccedil;&atilde;o<a name="tx07"></a><a href="#nt07"><sup>7</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A   s&eacute;rie de energia el&eacute;trica cointegrou com o PIB agropecu&aacute;rio a 5% de   signific&acirc;ncia pelo teste do tra&ccedil;o. O coeficiente da elasticidade,   estatisticamente diferente de zero a 1% de signific&acirc;ncia pelo teste LR,   demonstra que o PIB agropecu&aacute;rio responde, no longo prazo, com aumento de 0,65%   a uma eleva&ccedil;&atilde;o m&eacute;dia de 1% nos investimentos em eletricidade na &aacute;rea rural.   Esta &eacute; uma rela&ccedil;&atilde;o plaus&iacute;vel, dado que aumentos nos investimentos em   eletricidade para o meio rural possibilitam a utiliza&ccedil;&atilde;o de maior n&uacute;mero de   equipamentos mecanizados e mais modernos, o que conduz a um aumento na   produ&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A   vari&aacute;vel de pesquisa na &aacute;rea agr&iacute;cola cointegrou tanto no teste do tra&ccedil;o quanto   no teste do m&aacute;ximo autovalor a 1% de signific&acirc;ncia, e o par&acirc;metro estimado   mostra que aumentos de 1% neste tipo de infraestrutura repercutem em incremento   m&eacute;dio de 1,72% no n&iacute;vel de atividade do setor agropecu&aacute;rio. Este par&acirc;metro   tamb&eacute;m foi, a 1% de signific&acirc;ncia, estatisticamente diferente de zero. Os   ganhos proporcionados pela produtividade durante a d&eacute;cada de 1980 para a   produ&ccedil;&atilde;o agropecu&aacute;ria brasileira s&atilde;o evid&ecirc;ncias fortes de que a rela&ccedil;&atilde;o   positiva entre produto e investimentos em pesquisa sustenta-se no longo prazo. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As   vari&aacute;veis de irriga&ccedil;&atilde;o e de armazenagem denotam infraestruturas t&iacute;picas da   atividade agropecu&aacute;ria. A primeira n&atilde;o cointegrou com o PIB agropecu&aacute;rio nem   mesmo a 10% de signific&acirc;ncia; esperava-se que estas vari&aacute;veis fossem cointegradas.   Assim, mesmo que tenha se percebido a evolu&ccedil;&atilde;o das &aacute;reas irrigadas, e que esses   aumentos tenham ocorrido junto &agrave; evolu&ccedil;&atilde;o hist&oacute;rica do PIB agropecu&aacute;rio, n&atilde;o   foi poss&iacute;vel estabelecer, estatisticamente, uma rela&ccedil;&atilde;o de longo prazo entre   irriga&ccedil;&atilde;o e PIB agr&iacute;cola. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com   rela&ccedil;&atilde;o &agrave; vari&aacute;vel de armazenagem agr&iacute;cola, observa-se que a elasti&shy;cidade de   longo prazo foi de 0,95%, de modo que investimentos destinados &agrave; amplia&ccedil;&atilde;o da   capacidade est&aacute;tica dos armaz&eacute;ns podem gerar ganhos de longo prazo no volume de   produ&ccedil;&atilde;o. O teste LR tamb&eacute;m confere respaldo estat&iacute;stico para esse valor, com   n&iacute;vel de signific&acirc;ncia de 5%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As s&eacute;ries de cr&eacute;dito rural e de   educa&ccedil;&atilde;o tamb&eacute;m foram testadas quanto &agrave; sua estacionariedade. Ambas possuem uma   raiz unit&aacute;ria, sendo, portanto, <i>I(1)</i>. Como t&ecirc;m a mesma ordem de   integra&ccedil;&atilde;o em rela&ccedil;&atilde;o &agrave; s&eacute;rie do PIB agropecu&aacute;rio, &eacute; poss&iacute;vel que estas sejam   cointegradas. A <a href="#tab02">Tabela 2</a> mostra os resultados. </font></p>     <p><a name="tab02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01tab02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nota-se, por meio da <a href="#tab02">Tabela 2</a>, que as   duas s&eacute;ries cointegraram &#150; cr&eacute;dito rural, a 5% de signific&acirc;ncia, e educa&ccedil;&atilde;o, a   1%. Com rela&ccedil;&atilde;o ao cr&eacute;dito rural, nota-se que a rela&ccedil;&atilde;o de cointegra&ccedil;&atilde;o foi   detectada como significativa, de modo que, para cada 1% de eleva&ccedil;&atilde;o m&eacute;dia no   cr&eacute;dito rural, ocorre aumento de 0,06% no PIB agropecu&aacute;rio. Todavia, essa   interpreta&ccedil;&atilde;o fica prejudicada pelo fato de o teste LR n&atilde;o garantir,   estatisticamente, que tal par&acirc;metro &eacute; diferente de zero. Sendo assim, n&atilde;o h&aacute;   garantia para a sustenta&ccedil;&atilde;o do argumento de que o cr&eacute;dito rural acompanhou, no   longo prazo, o PIB agropecu&aacute;rio. Na verdade, isso n&atilde;o carece de plausibilidade:   segundo Sant'Anna e Ferreira (2006), at&eacute; meados da d&eacute;cada de 1990, os recursos   de cr&eacute;dito rural estiveram mais associados a investimentos especulativos (como   aquisi&ccedil;&atilde;o de terras com o objetivo de prote&ccedil;&atilde;o de renda, &agrave; &eacute;poca em que   prevalecia um ambiente inflacion&aacute;rio, e posteriores opera&ccedil;&otilde;es de venda e de   arrendamento a pre&ccedil;os elevados) em detrimento dos produtivos, de modo que n&atilde;o   era poss&iacute;vel estabelecer uma associa&ccedil;&atilde;o entre montantes maiores de cr&eacute;dito com   aumentos na produ&ccedil;&atilde;o agr&iacute;cola. Essa situa&ccedil;&atilde;o somente se modificou a partir de   1996, quando o fim da infla&ccedil;&atilde;o marcou a queda nos pre&ccedil;os de venda e de   arrendamento da terra, e a consequente interrup&ccedil;&atilde;o de movimentos especulativos   com as terras por meio do sistema de financiamento rural. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quanto &agrave; educa&ccedil;&atilde;o   dos trabalhadores ocupados nas zonas rurais brasileiras, percebe-se que o   aumento m&eacute;dio de 1% nos anos de escolaridade deles produz eleva&ccedil;&atilde;o de 0,60% no   produto do setor agropecu&aacute;rio, no longo prazo. Tal par&acirc;metro &eacute; v&aacute;lido a 1% de   signific&acirc;ncia. A rela&ccedil;&atilde;o positiva era esperada, pois trabalhadores dotados de   maior instru&ccedil;&atilde;o dever&atilde;o possuir maiores condi&ccedil;&otilde;es de especializa&ccedil;&atilde;o e maior   n&iacute;vel de habilidade tamb&eacute;m nos campos, que utilizam cada vez mais bens de   capital intensivos em tecnologia aplicados &agrave; produ&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>4.1. Rela&ccedil;&otilde;es de longo prazo da PTF da agropecu&aacute;ria   brasileira </i></b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A evolu&ccedil;&atilde;o da s&eacute;rie da PTF da   agropecu&aacute;ria brasileira foi obtida segundo os procedimentos explicados na se&ccedil;&atilde;o   3. A <a href="#fig01">Figura 1</a> exp&otilde;e a varia&ccedil;&atilde;o da s&eacute;rie no per&iacute;odo estudado. </font></p>     <p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01fig01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   &iacute;ndice da PTF alcan&ccedil;a seus maiores valores ao longo da d&eacute;cada de 1980 e no   in&iacute;cio de 2000. Para os anos de 1980, a tend&ecirc;ncia da s&eacute;rie atrela-se aos   investimentos em pesquisa e em inova&ccedil;&otilde;es na produ&ccedil;&atilde;o agropecu&aacute;ria, refletindo   os gastos realizados nesta &aacute;rea, que alcan&ccedil;aram montantes expressivos principalmente   entre o final dos anos 70 e o in&iacute;cio da d&eacute;cada de 1980. No in&iacute;cio da d&eacute;cada de   1990, observam-se quedas expressivas no &iacute;ndice de produtividade, possivelmente   decorrentes dos diversos obst&aacute;culos conjunturais que pairaram sobre a economia   brasileira &agrave; &eacute;poca. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De modo geral, pode-se dizer que houve ganhos na PTF   do setor agropecu&aacute;rio brasileiro no intervalo em an&aacute;lise. A evolu&ccedil;&atilde;o m&eacute;dia da   PTF alcan&ccedil;ou seu maior valor na d&eacute;cada de 1980. Entre 1980 e 1989, por exemplo,   a expans&atilde;o alcan&ccedil;ou 2,53%, contra 0,47% do per&iacute;odo inteiro. O valor da taxa   m&eacute;dia de crescimento da PTF encontrado para o intervalo como um todo &eacute; inferior   se comparado aos obtidos por Gasques e Concei&ccedil;&atilde;o (2000) e por Mendes e Teixeira   (2006), de 2,33% e de 1,03%, respectivamente. Isto pode ter sido ocasionado   pelos diferentes m&eacute;todos de estima&ccedil;&atilde;o empregados para a PTF em rela&ccedil;&atilde;o aos   utilizados no presente estudo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ademais,   o fato de ambos os trabalhos supracitados terem analisado per&iacute;odos ligeiramente   distintos dos apreciados nesta pesquisa pode ter contribu&iacute;do para a disparidade   verificada entre os n&uacute;meros. A presente pesquisa, por exemplo, inclui na   an&aacute;lise os anos de 2004 e 2005. Particularmente em 2005, ano em que ocorreu o   agravamento da crise agropecu&aacute;ria iniciada em 2004, fatores como a pol&iacute;tica   cambial, a queda dos pre&ccedil;os internacionais da soja, milho e trigo e a estiagem   que se abateu sobre grandes regi&otilde;es produtoras do Brasil tornaram inevit&aacute;veis a   quebra de safra e a redu&ccedil;&atilde;o da produtividade (FAEP, 2006). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   teste de raiz unit&aacute;ria para a s&eacute;rie da PTF mostra que ela, em n&iacute;vel, &eacute; n&atilde;o   estacion&aacute;ria a 1% de signific&acirc;ncia; possui, ainda, uma raiz unit&aacute;ria apenas,   pois foi estacion&aacute;ria quando tomada em sua primeira diferen&ccedil;a. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As   s&eacute;ries dos determinantes da PTF foram todas n&atilde;o estacion&aacute;rias a pelo menos 10%   de signific&acirc;ncia tamb&eacute;m para o per&iacute;odo compreendido entre 1977 e 2005. Dessa   forma, as s&eacute;ries s&atilde;o <i>I(1)</i>, assim como a s&eacute;rie da PTF. Isso indica que   elas possuem a mesma ordem de integra&ccedil;&atilde;o, ou seja, &eacute; poss&iacute;vel que a PTF da   agropecu&aacute;ria mantenha rela&ccedil;&otilde;es de longo prazo com investimentos em   infraestrutura, cr&eacute;dito e educa&ccedil;&atilde;o dos trabalhadores agr&iacute;colas. A <a href="#tab03">Tabela 3</a> mostra os resultados da estima&ccedil;&atilde;o da rela&ccedil;&atilde;o (7). </font></p>     ]]></body>
+<body><![CDATA[<p><a name="tab03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01tab03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Observa-se que aumentos m&eacute;dios de 1% nos investimentos em   rodovias e portos levariam a eleva&ccedil;&otilde;es de 0,55% e 0,15% na PTF no longo prazo,   a 5% de signific&acirc;ncia no teste do tra&ccedil;o e a 10% em ambos os testes,   respectivamente. Dessa vez, ao contr&aacute;rio do observado na an&aacute;lise para o PIB   agropecu&aacute;rio, a signific&acirc;ncia estat&iacute;stica do par&acirc;metro dos investimentos em   rodovias &eacute; validada pelo teste LR, a 5% de signific&acirc;ncia, o que indica que a   produtividade agr&iacute;cola responde positivamente aos investimentos federais em estradas.   No tocante aos investimentos em infraestrutura portu&aacute;ria, percebe-se que,   apesar da constata&ccedil;&atilde;o de n&atilde;o ter havido rela&ccedil;&atilde;o de longo prazo destes com o PIB   agropecu&aacute;rio, foram encontradas evid&ecirc;ncias de cointegra&ccedil;&atilde;o com rela&ccedil;&atilde;o &agrave; PTF   (que tamb&eacute;m foram respaldadas pelos resultados do teste LR, a 10% de   signific&acirc;ncia). Defici&ecirc;ncias na infraestrutura de portos podem se traduzir em   maiores dificuldades nas importa&ccedil;&otilde;es de insumos importantes para a eleva&ccedil;&atilde;o da   produtividade agr&iacute;cola, como fertilizantes e adubos, e na exporta&ccedil;&atilde;o da   produ&ccedil;&atilde;o. Assim, &eacute; essencial que investimentos sejam estimulados neste setor   para a manuten&ccedil;&atilde;o e evolu&ccedil;&atilde;o da produtividade da agropecu&aacute;ria brasileira. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No tocante a ferrovias e armazenagem,   ambas tiveram confirmadas rela&ccedil;&otilde;es de cointegra&ccedil;&atilde;o com a PTF (a 10% de   signific&acirc;ncia, no caso de ferrovias, e a 5% para armazenagem), por&eacute;m com sinais   contr&aacute;rios aos esperados. Os resultados do teste LR confirmam que esses   coeficientes s&atilde;o v&aacute;lidos a 1% de signific&acirc;ncia; assim, &eacute; poss&iacute;vel que se prossiga   com a an&aacute;lise interpretativa das elasticidades. Com rela&ccedil;&atilde;o ao investimento   federal em ferrovias (que j&aacute; n&atilde;o havia cointegrado com rela&ccedil;&atilde;o ao PIB   agropecu&aacute;rio, de acordo com resultados expostos na subse&ccedil;&atilde;o 5.1.2), a   ocorr&ecirc;ncia de um sinal incoerente pode encontrar alguma explica&ccedil;&atilde;o no fato de   v&aacute;rios ramais ferrovi&aacute;rios terem sido desativados no per&iacute;odo 1960-1995   (FERREIRA e MALLIAGROS, 1998). Ora, isso talvez tenha impossibilitado a   observa&ccedil;&atilde;o de uma rela&ccedil;&atilde;o direta no longo prazo entre investimentos p&uacute;blicos em   ferrovias e a PTF da agropecu&aacute;ria. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">J&aacute; para o caso de armazenagem, &eacute; prov&aacute;vel que o fato de boa   parte da infraestrutura de armazenagem estar localizada em &aacute;reas urbanas   &#91;conforme atestado por Mendes e Teixeira (2006)&#93; possa ter algum poder explicativo   para a obten&ccedil;&atilde;o de uma elasticidade com sinal inverso em rela&ccedil;&atilde;o &agrave;quele   esperado (ainda que ele n&atilde;o tenha se verificado para o teste de cointegra&ccedil;&atilde;o do   PIB agropecu&aacute;rio). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No caso da vari&aacute;vel de investimentos em irriga&ccedil;&atilde;o, &eacute; prov&aacute;vel   que a limita&ccedil;&atilde;o provocada pela necessidade de interpola&ccedil;&atilde;o da s&eacute;rie de   propor&ccedil;&atilde;o de &aacute;reas irrigadas do total de terras utilizadas (j&aacute; comentada   anteriormente) possa ter colaborado para a inexist&ecirc;ncia de cointegra&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os investimentos em energia el&eacute;trica voltados para as zonas   rurais brasileiras tiveram rela&ccedil;&atilde;o de longo prazo positiva com a PTF.   Concluiu-se que, para cada 1% de aumento m&eacute;dio nesses investimentos, haveria   uma eleva&ccedil;&atilde;o de 0,64% na PTF (a 10% de signific&acirc;ncia no teste do tra&ccedil;o). O   teste LR garante que tal par&acirc;metro &eacute;, em termos estat&iacute;sticos, diferente de zero   a 10% de signific&acirc;ncia. Isso demonstra que a expans&atilde;o da energia el&eacute;trica nos   campos contribui para a obten&ccedil;&atilde;o de ganhos de produtividade na agropecu&aacute;ria,   por meio da maior possibilidade de uso de equipamentos mais modernos no   processo produtivo. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por sua vez, o valor da elasticidade da PTF em rela&ccedil;&atilde;o aos   investimentos em pesquisa agr&iacute;cola foi de 1,66. A signific&acirc;ncia estat&iacute;stica   desse coeficiente foi confirmada pelo teste LR a 5% de signific&acirc;ncia. Portanto,   percebe-se que a pesquisa agr&iacute;cola mant&eacute;m rela&ccedil;&otilde;es de longo prazo tanto com o   produto como tamb&eacute;m com a produtividade do setor agropecu&aacute;rio. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A repeti&ccedil;&atilde;o do   processo utilizado para os testes anteriores &#150; a correta especifica&ccedil;&atilde;o dos dois   modelos <i>VAR</i> bivariados conforme (7) &#150; antecedeu a estima&ccedil;&atilde;o dos testes   de cointegra&ccedil;&atilde;o da PTF com cr&eacute;dito rural e educa&ccedil;&atilde;o. Ap&oacute;s a conclus&atilde;o do   procedimento, foram realizados os testes, cujos resultados est&atilde;o expostos na <a href="#tab04">Tabela 4</a>. </font></p>     <p><a name="tab04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a01tab04.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">N&atilde;o   &eacute; identificada qualquer rela&ccedil;&atilde;o de longo prazo entre a PTF e cr&eacute;dito rural   (tanto pelo teste do tra&ccedil;o quanto pelo do m&aacute;ximo autovalor, como mostra a <a href="#tab04">Tabela 4</a>). Assim, &eacute; mais prudente considerar que, no longo prazo, as melhorias   ligadas &agrave; concess&atilde;o de cr&eacute;dito rural n&atilde;o tenham exercido consider&aacute;veis efeitos   sobre a PTF da agropecu&aacute;ria brasileira. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finalmente, a educa&ccedil;&atilde;o dos trabalhadores   empregados no setor analisado tamb&eacute;m possui rela&ccedil;&atilde;o de longo prazo positiva com   a PTF; a 5% de signific&acirc;ncia pelo teste do tra&ccedil;o e pelo teste do m&aacute;ximo   autovalor, verificou-se que uma eleva&ccedil;&atilde;o m&eacute;dia de 1% nos anos de escolaridade   desses trabalhadores promove aumento de 1,09% na produtividade dos fatores   (elasticidade estatisticamente diferente de zero, a 1% de signific&acirc;ncia pelo   teste LR). </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Conclus&otilde;es </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Comprova-se   que, no per&iacute;odo de estudo 1974-2005, investimentos em energia el&eacute;trica,   pesquisa agr&iacute;cola e armazenagem aumentam o PIB agropecu&aacute;rio no longo prazo,   sendo o efeito exercido pela pesquisa agr&iacute;cola o maior entre os observados.   Aumentos na educa&ccedil;&atilde;o dos trabalhadores agr&iacute;colas exercem impacto positivo no   produto agropecu&aacute;rio; j&aacute; os investimentos em rodovias, ferrovias, portos,   irriga&ccedil;&atilde;o, al&eacute;m de cr&eacute;dito rural, n&atilde;o mant&ecirc;m rela&ccedil;&atilde;o de longo prazo com o PIB   da agropecu&aacute;ria, no per&iacute;odo estudado. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entre 1980 e 1989, a PTF teve taxa de crescimento de   2,53%, contra 0,47% do per&iacute;odo inteiro. Com exce&ccedil;&atilde;o dos investimentos em   ferrovias e irriga&ccedil;&atilde;o, todos os demais determinantes de infraestrutura t&ecirc;m   rela&ccedil;&otilde;es de longo prazo com a PTF da agropecu&aacute;ria. Novamente, o impacto   positivo exercido pela vari&aacute;vel pesquisa agr&iacute;cola &eacute; o maior, seguido pelos   efeitos dos investimentos em energia el&eacute;trica, rodovias e portos. Educa&ccedil;&atilde;o   tamb&eacute;m mant&eacute;m rela&ccedil;&atilde;o positiva de cointegra&ccedil;&atilde;o com a PTF da agropecu&aacute;ria, ao   contr&aacute;rio dos investimentos em ferrovias e armazenagem, cujas elasticidades   apresentam sinal negativo. Cr&eacute;dito rural tamb&eacute;m n&atilde;o cointegra com a   produtividade agr&iacute;cola. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Conclui-se, assim, como fundamental que o   governo reverta a morosidade na realiza&ccedil;&atilde;o de investimentos em infraestrutura e   implemente melhorias na educa&ccedil;&atilde;o rural, a fim de acelerar as possibilidades de   expans&atilde;o do produto e da produtividade da agropecu&aacute;ria brasileira. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. Refer&ecirc;ncias Bibliogr&aacute;ficas </b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ASCHAUER,   D. A. Is public expenditure productive? <i>Journal of Monetary Economics</i>,   v. 23, nº 2, p. 177-200, 1989.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003201100040000100001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BANCO   CENTRAL DO BRASIL. <i>Anu&aacute;rio Estat&iacute;stico do Cr&eacute;dito Rural 2007</i>. Bras&iacute;lia,   2007. Dispon&iacute;vel em: <a href="http://www.bcb.gov.br/?RELRURAL2007" target="_blank">http://www.bcb.gov.br/?RELRURAL2007</a>. Acesso em: 20 out.   2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003201100040000100002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARROS,   A. L. M. <i>Capital, produtividade e crescimento da agricultura: </i>o Brasil   de 1970 a 1995. 149 f. Tese (Doutorado em Economia Aplicada) &#150; Escola Superior   de Agricultura "Luiz de Queiroz", Universidade de S&atilde;o Paulo, Piracicaba, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003201100040000100003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COMPANHIA   NACIONAL DE ABASTECIMENTO &#150; CONAB. Dispon&iacute;vel em: <a href="http://www.conab.gov.br/conabweb/download/armazenagem/serie_historica. xls" target="_blank">http://www.conab.gov.br/conabweb/download/armazenagem/serie_historica. xls</a>. Acesso   em: 15 out. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003201100040000100004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">EMPRESA   DE PESQUISA ENERG&Eacute;TICA &#150; EPE. <i>Consumo final e conserva&ccedil;&atilde;o de energia     el&eacute;trica (1970-2005)</i>. Bras&iacute;lia: EPE, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003201100040000100005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ENDERS,   W. <i>Applied econometric time series</i>. New York: John Wiley &amp; Sons,   Inc., 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003201100040000100006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FEDERA&Ccedil;&Atilde;O   DA AGRICULTURA DO ESTADO DO PARAN&Aacute; &#150; FAEP. <i>Queda nos pre&ccedil;os das commodities     afeta renda dos produtores rurais</i>. Dispon&iacute;vel em: <a href="http://www2.faep.com.br/boletim/bi898/bi898pag04.htm" target="_blank">http://www2.faep.com.br/boletim/bi898/bi898pag04.htm</a>. Acesso em: 28 out. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003201100040000100007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FERREIRA, P. C.;   MALLIAGROS, T. G. Impactos produtivos da infra-estrutura no Brasil: 1950-1995. <i>Pesquisa     e Planejamento Econ&ocirc;mico</i>, Rio de Janeiro, v. 2, p. 315-338, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003201100040000100008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FUNDA&Ccedil;&Atilde;O GET&Uacute;LIO VARGAS &#150; FGV. Dispon&iacute;vel   em: <a href="http://www.fgvdados.fgv.br" target="_blank">http://fgvdados.fgv.br</a>. Acesso em: 17 dez. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003201100040000100009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GASQUES,   J. G.; CONCEI&Ccedil;&Atilde;O, J. C. P. R. Produtividade total dos fatores na agricultura. <i>Pre&ccedil;os     Agr&iacute;colas</i>, Piracicaba, n. 165, p. 3-7, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003201100040000100010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GASQUES,   J. G.; VILLA VERDE, C. M.; BASTOS, E. T. Gastos p&uacute;blicos em agricultura:   retrospectiva e prioridades. <i>Revista Economia</i>, v. 7, nº 4, p. 209-237,   2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003201100040000100011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GRILICHES,   Z. Estimates of the aggregate agricultural production function from   cross-sectional data. <i>Journal of Farm Economics</i>, v. 45, nº 2, p.   419-428, 1963a.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003201100040000100012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">____________.   The sources of measured productivity growth: U.S. agriculture, 1940-1960. <i>Journal     of Political Economy</i>, v. 71, nº 4, p. 331-346, 1963b.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003201100040000100013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">____________.   Research expenditures, education, and the aggregate agricultural production   function. <i>American Economic Review</i>, v. 64, nº 6, p. 96l-974, 1964b.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003201100040000100014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GUJARATI,   D. N. <i>Econometria b&aacute;sica</i>. Rio de Janeiro: Elsevier, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003201100040000100015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">INSTITUTO   BRASILEIRO DE GEOGRAFIA E ESTAT&Iacute;STICA &#150; IBGE. Dispon&iacute;vel em: <a href="http://www.ibge.gov.br" target="_blank">http://www.ibge.gov.br</a>. Acesso em: 11 set. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0103-2003201100040000100016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">INSTITUTO   DE PESQUISA ECON&Ocirc;MICA APLICADA &#150; IPEA. Dispon&iacute;vel em: <a href="http://www.ipeadata.gov.br" target="_blank">http://www.ipeadata.gov.br</a>. Acesso em: 05 set. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0103-2003201100040000100017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHANSEN,   S. Statistical analysis of cointegrating vectors. <i>Journal of Economic     Dynamics and Control</i>, v. 12, p. 231-254, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0103-2003201100040000100018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHANSEN,   S.; JUSELIUS, K. Maximum likelihood estimation and inference on cointegration &#150;   with applications to the demand for money. <i>Oxford Bulletin of Economics and     Statistics</i>, v. 52, p. 169-210, 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0103-2003201100040000100019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JONES,   C.I. <i>Introdu&ccedil;&atilde;o &agrave; teoria do crescimento econ&ocirc;mico</i>. Rio de Janeiro:   Campus, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S0103-2003201100040000100020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JORGENSON,   D. W.; GRILICHES, Z. The explanation of the productivity change. <i>Review of     Economic Studies</i>, v. 34, nº 3, p. 349-383, 1967.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000197&pid=S0103-2003201100040000100021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LIMA,   J. E. F. W.; FERREIRA, R. S. A.; CHRISTOFIDIS, D. <i>O uso da irriga&ccedil;&atilde;o no     Brasil</i>. Dispon&iacute;vel em: <a href="http://www.cf.org.br/cf2004/irrigacao.doc" target="_blank">http://www.cf.org.br/cf2004/irrigacao.doc</a>. Acesso   em: 08 set. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S0103-2003201100040000100022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LUCAS,   R. Making a miracle. <i>Econometrica</i>, v. 61, nº 2, p. 251-272, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000201&pid=S0103-2003201100040000100023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">_______. On the   mechanics of economic development. <i>Journal of Monetary Economics</i>, v. 22,   p. 3-42, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000203&pid=S0103-2003201100040000100024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">L&Uuml;TKEPOHL, H.; SAIKKONEN, P.; TRENKLER,   C. Maximum eigenvalue versus trace tests for the cointegrating rank of a VAR   process. <i>The Econometrics Journal</i>, v. 4, nº 2, p. 287-310, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000205&pid=S0103-2003201100040000100025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MANKIW,   N. G.; ROMER, D.; WEIL, D. N. A contribution to the empirics of economic   growth. <i>The Quarterly Journal of Economics</i>, v. 107, nº 2, p. 407-437,   1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000207&pid=S0103-2003201100040000100026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MENDES, S. M.; TEIXEIRA,   E. C. Efeitos dos investimentos em infra-estrutura na produtividade total dos   fatores na agricultura. In: TEIXEIRA, E. C.; BRAGA, M.   J. (Eds.). <i>Investimento e crescimento econ&ocirc;mico no Brasil</i>. Vi&ccedil;osa: UFV,   DER, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000209&pid=S0103-2003201100040000100027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MINIST&Eacute;RIO   DOS TRANSPORTES. Dispon&iacute;vel em: <a href="http://www.transportes.gov.br" target="_blank">http://www.transportes.gov.br</a>. Acesso em: 10   set. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000211&pid=S0103-2003201100040000100028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MORRISON,   C. J.; SCHWARTZ, A. State infrastructure and productive performance. <i>The     American Economic Review</i>, v. 86, n. 5, p. 1095-1111, 1996.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000213&pid=S0103-2003201100040000100029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PIRES,   M. C. C.<i> Cr&eacute;dito e crescimento econ&ocirc;mico: evid&ecirc;ncias para os munic&iacute;pios     brasileiros</i>. VII Encontro de Economia da Regi&atilde;o Sul &#150; Anpec Sul, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000215&pid=S0103-2003201100040000100030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SANT'ANNA,   A. A.; FERREIRA, F. M. R. Cr&eacute;dito Rural: da especula&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o. <i>Vis&atilde;o do     Desenvolvimento &#150; BNDES</i>, nº 11, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000217&pid=S0103-2003201100040000100031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SOLOW,   R. M. Technical change and the aggregate production function. <i>Review of     Economics and Statistics</i>, v. 39, nº 8, p. 312-320, 1957.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000219&pid=S0103-2003201100040000100032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">YOUNG, A. The   tiranny of numbers: confronting the statistical realities of the East Asian   growth experience. <i>The Quarterly Journal of Economics</i>, v. 110, nº 3, p.   641-680, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000221&pid=S0103-2003201100040000100033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ZHANG, X.; FAN,   S. How productive is infrastructure? A new approach and evidence from rural   India. <i>American Journal of Agricultural Economics</i>, v. 86, nº 2, p. 492-501, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000223&pid=S0103-2003201100040000100034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="nt01"></a><a href="#tx01">1</a> Um &iacute;ndice de   Divisia consiste na soma ponderada de taxas de crescimento de componentes   espec&iacute;ficos, tais que as pondera&ccedil;&otilde;es correspondem &agrave;s participa&ccedil;&otilde;es desses   componentes no valor total.    <br>   <a name="nt02"></a><a href="#tx02">2</a> Mais   detalhes sobre o conceito de cointegra&ccedil;&atilde;o podem ser encontrados em Enders   (1995).     <br>   <a name="nt03"></a><a href="#tx03">3</a> Tais   vieses podem surgir a partir de poss&iacute;veis subestima&ccedil;&otilde;es ou superestima&ccedil;&otilde;es dos   coeficientes das vari&aacute;veis que representam as elasticidades do produto e da PTF   em rela&ccedil;&atilde;o aos determinantes mencionados.     <br>     <a name="nt04"></a><a href="#tx04">4</a> Conclus&otilde;es   obtidas pela execu&ccedil;&atilde;o do teste de raiz unit&aacute;ria ADF (Dickey-Fuller aumentado);   optou-se pela omiss&atilde;o destes e outros resultados dos testes de raiz unit&aacute;ria   por limita&ccedil;&atilde;o de espa&ccedil;o.     <br>     <a name="nt05"></a><a href="#tab01">5</a> Os   sinais das elasticidades e dos termos deterministas s&atilde;o os das rela&ccedil;&otilde;es de   longo prazo obtidas a partir dos vetores de cointegra&ccedil;&atilde;o, e n&atilde;o os dos   elementos dos pr&oacute;prios vetores (que possuem sinais inversos). O mesmo vale para   todos os testes de cointegra&ccedil;&atilde;o expostos na sequ&ecirc;ncia.     <br>     <a name="nt06" id="nt06"></a><a href="#tx06">6</a> Os resultados dos   testes LR (raz&atilde;o de verossimilhan&ccedil;a) de signific&acirc;ncia dos par&acirc;metros do   vetor de cointegra&ccedil;&atilde;o foram omitidos por limita&ccedil;&atilde;o de espa&ccedil;o.    ]]></body>
+<body><![CDATA[<br>     <a name="nt07"></a><a href="#tx07">7</a> Apesar de   reconhecer-se que a maioria da produ&ccedil;&atilde;o agropecu&aacute;ria escoada pelo territ&oacute;rio nacional utiliza transporte rodovi&aacute;rio. </font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ASCHAUER]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Is public expenditure productive?]]></article-title>
+<source><![CDATA[Journal of Monetary Economics]]></source>
+<year>1989</year>
+<volume>23</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>177-200</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>BANCO CENTRAL DO BRASIL</collab>
+<source><![CDATA[Anuário Estatístico do Crédito Rural 2007]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARROS]]></surname>
+<given-names><![CDATA[A. L. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Capital, produtividade e crescimento da agricultura: o Brasil de 1970 a 1995]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<collab>COMPANHIA NACIONAL DE ABASTECIMENTO</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<collab>EMPRESA DE PESQUISA ENERGÉTICA</collab>
+<source><![CDATA[Consumo final e conservação de energia elétrica (1970-2005)]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[EPE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENDERS]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied econometric time series]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons, Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<collab>FEDERAÇÃO DA AGRICULTURA DO ESTADO DO PARANÁ</collab>
+<source><![CDATA[Queda nos preços das commodities afeta renda dos produtores rurais]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[P. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MALLIAGROS]]></surname>
+<given-names><![CDATA[T.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Impactos produtivos da infra-estrutura no Brasil: 1950-1995]]></article-title>
+<source><![CDATA[Pesquisa e Planejamento Econômico]]></source>
+<year>1998</year>
+<volume>2</volume>
+<page-range>315-338</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<collab>FUNDAÇÃO GETÚLIO VARGAS</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CONCEIÇÃO]]></surname>
+<given-names><![CDATA[J. C. P. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Produtividade total dos fatores na agricultura]]></article-title>
+<source><![CDATA[Preços Agrícolas]]></source>
+<year>2000</year>
+<volume>165</volume>
+<page-range>3-7</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VILLA VERDE]]></surname>
+<given-names><![CDATA[C. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BASTOS]]></surname>
+<given-names><![CDATA[E.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Gastos públicos em agricultura: retrospectiva e prioridades]]></article-title>
+<source><![CDATA[Revista Economia]]></source>
+<year>2006</year>
+<volume>7</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>209-237</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRILICHES]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estimates of the aggregate agricultural production function from cross-sectional data]]></article-title>
+<source><![CDATA[Journal of Farm Economics]]></source>
+<year>1963</year>
+<month>a</month>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>419-428</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRILICHES]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The sources of measured productivity growth: U.S. agriculture, 1940-1960]]></article-title>
+<source><![CDATA[Journal of Political Economy]]></source>
+<year>1963</year>
+<month>b</month>
+<volume>71</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>331-346</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRILICHES]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Research expenditures, education, and the aggregate agricultural production function]]></article-title>
+<source><![CDATA[American Economic Review]]></source>
+<year>1964</year>
+<month>b</month>
+<volume>64</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>96l-974</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUJARATI]]></surname>
+<given-names><![CDATA[D.N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria básica]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<collab>INSTITUTO DE PESQUISA ECONÔMICA APLICADA</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical analysis of cointegrating vectors]]></article-title>
+<source><![CDATA[Journal of Economic Dynamics and Control]]></source>
+<year>1988</year>
+<volume>12</volume>
+<page-range>231-254</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUSELIUS]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Maximum likelihood estimation and inference on cointegration - with applications to the demand for money]]></article-title>
+<source><![CDATA[Oxford Bulletin of Economics and Statistics]]></source>
+<year>1990</year>
+<volume>52</volume>
+<page-range>169-210</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JONES]]></surname>
+<given-names><![CDATA[C.I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introdução à teoria do crescimento econômico]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Campus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JORGENSON]]></surname>
+<given-names><![CDATA[D. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRILICHES]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[The explanation of the productivity change]]></article-title>
+<source><![CDATA[Review of Economic Studies]]></source>
+<year>1967</year>
+<volume>34, nº. 3</volume>
+<page-range>349-383</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[J. E. F. W]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[R. S. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CHRISTOFIDIS]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O uso da irrigação no Brasil]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUCAS]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Making a miracle]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1993</year>
+<volume>61</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>251-272</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUCAS]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[On the mechanics of economic development]]></article-title>
+<source><![CDATA[Journal of Monetary Economics]]></source>
+<year>1988</year>
+<volume>22</volume>
+<page-range>3-42</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LÜTKEPOHL]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SAIKKONEN]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TRENKLER]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Maximum eigenvalue versus trace tests for the cointegrating rank of a VAR process]]></article-title>
+<source><![CDATA[The Econometrics Journal]]></source>
+<year>2001</year>
+<volume>4</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>287-310</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MANKIW]]></surname>
+<given-names><![CDATA[n. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROMER]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEIL]]></surname>
+<given-names><![CDATA[D.N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A contribution to the empirics of economic growth]]></article-title>
+<source><![CDATA[The Quarterly Journal of Economics]]></source>
+<year>1992</year>
+<volume>107</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>407-437</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MENDES]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[E.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Efeitos dos investimentos em infra-estrutura na produtividade total dos fatores na agricultura]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[E. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRAGA]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Investimento e crescimento econômico no Brasil]]></source>
+<year>DER,</year>
+<month> 2</month>
+<day>00</day>
+<publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[UFV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<collab>MINISTÉRIO DOS TRANSPORTES</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORRISON]]></surname>
+<given-names><![CDATA[C. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHWARTZ]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[State infrastructure and productive performance]]></article-title>
+<source><![CDATA[The American Economic Review]]></source>
+<year>1996</year>
+<volume>86</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>1095-1111</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIRES]]></surname>
+<given-names><![CDATA[M. C. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crédito e crescimento econômico: evidências para os municípios brasileiros]]></source>
+<year>2005</year>
+<conf-name><![CDATA[VII Encontro de Economia da Região Sul]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANT'ANNA]]></surname>
+<given-names><![CDATA[A. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[F. M. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crédito Rural: da especulação à produção: Visão do Desenvolvimento]]></source>
+<year>2006</year>
+<volume>11</volume>
+<publisher-name><![CDATA[BNDES]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SOLOW]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Technical change and the aggregate production function]]></article-title>
+<source><![CDATA[Review of Economics and Statistics]]></source>
+<year>1957</year>
+<volume>39</volume>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>312-320</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[YOUNG]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The tiranny of numbers: confronting the statistical realities of the East Asian growth experience]]></article-title>
+<source><![CDATA[The Quarterly Journal of Economics]]></source>
+<year>1995</year>
+<volume>110</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>641-680</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZHANG]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FAN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[How productive is infrastructure? A new approach and evidence from rural India]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>2004</year>
+<volume>86</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>492-501</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

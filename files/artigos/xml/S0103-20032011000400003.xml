@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032011000400003</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032011000400003</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Análise da volatilidade do retorno da commodity dendê: 1980-2008]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gontijo]]></surname>
+<given-names><![CDATA[Tiago Silveira]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Fernandes]]></surname>
+<given-names><![CDATA[Elaine Aparecida]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Saraiva]]></surname>
+<given-names><![CDATA[Márcio Balduino]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,UFV  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2011</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2011</year>
+</pub-date>
+<volume>49</volume>
+<numero>4</numero>
+<fpage>857</fpage>
+<lpage>874</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032011000400003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032011000400003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032011000400003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[A análise da variação de preços agrícolas é imprescindível na formulação de políticas públicas e decisões empresariais. Considerando-se a importância estratégica dos biocombustíveis para a economia brasileira e os objetivos sociais do programa do biodiesel para a agricultura familiar, o presente estudo tem o objetivo de quantificar a volatilidade e a reação dos preços da oleaginosa dendê, frente a choques sob modelos ARCH e GARCH. Os resultados obtidos para o preço do dendê mostram que choques de volatilidade perduram por períodos prolongados de tempo, aumentando o risco para produtores rurais.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The agricultural prices variation analysis is essential on the formulation of public policies and business decisions. Considering the strategic importance of the biofuels for the Brazilian economy and the social objectives of the biofuel programs for familiar agriculture, this study aims to quantify the volatility of palm oil prices and the reaction towards clash under ARCH and GARCH models. The results for palm oil quotes show that clashes of volatility last for long periods of time, increasing the risk for farmers.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Volatilidade de preço]]></kwd>
+<kwd lng="pt"><![CDATA[Óleo de palma]]></kwd>
+<kwd lng="pt"><![CDATA[Biodiesel]]></kwd>
+<kwd lng="pt"><![CDATA[Brasil]]></kwd>
+<kwd lng="pt"><![CDATA[Agricultura familiar]]></kwd>
+<kwd lng="en"><![CDATA[Volatility of prices]]></kwd>
+<kwd lng="en"><![CDATA[Palm oil]]></kwd>
+<kwd lng="en"><![CDATA[Biofuel]]></kwd>
+<kwd lng="en"><![CDATA[Brazil]]></kwd>
+<kwd lng="en"><![CDATA[Familiar agriculture]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>An&aacute;lise   da volatilidade do retorno da <i>commodity</i> dend&ecirc;: 1980-2008 </b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Tiago Silveira Gontijo<sup>I</sup>; Elaine Aparecida Fernandes<sup>II</sup>; M&aacute;rcio Balduino Saraiva<sup>III</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Mestrando em engenharia de produ&ccedil;&atilde;o pela Universidade Federal de Minas Gerais.    E-mail: <a href="mailto:economista@ufmg.br">economista@ufmg.br</a>    <br>     <sup>II</sup>Professora da UFV. E-mail: <a href="mailto:eafernandes@ufv.br">eafernandes@ufv.br</a>    <br>     <sup>III</sup>Mestrando em agroneg&oacute;cios e desenvolvimento regional pela Universidade Federal    de Mato Grosso. E-mail: <a href="mailto:marcio.saraiva@ufv.br">marcio.saraiva@ufv.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A   an&aacute;lise da varia&ccedil;&atilde;o de pre&ccedil;os agr&iacute;colas &eacute; imprescind&iacute;vel na formula&ccedil;&atilde;o de pol&iacute;ticas   p&uacute;blicas e decis&otilde;es empresariais. Considerando-se a import&acirc;ncia estrat&eacute;gica dos   biocombust&iacute;veis para a economia brasileira e os objetivos sociais do programa   do biodiesel para a agricultura familiar, o presente estudo tem o objetivo de   quantificar a volatilidade e a rea&ccedil;&atilde;o dos pre&ccedil;os da oleaginosa dend&ecirc;, frente a   choques sob modelos ARCH e GARCH. Os resultados obtidos para o pre&ccedil;o do dend&ecirc;   mostram que choques de volatilidade perduram por per&iacute;odos prolongados de tempo,   aumentando o risco para produtores rurais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chave: </b>Volatilidade   de pre&ccedil;o, &Oacute;leo de palma, Biodiesel, Brasil, Agricultura familiar. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   agricultural prices variation analysis is essential on the formulation of   public policies and business decisions. Considering the strategic importance of   the biofuels for the Brazilian economy and the social objectives of the biofuel   programs for familiar agriculture, this study aims to quantify the volatility   of palm oil prices and the reaction towards clash under ARCH and GARCH models. The   results for palm oil quotes show that clashes of volatility last for long   periods of time, increasing the risk for farmers. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key words: </b>Volatility   of prices, Palm oil, Biofuel, Brazil, Familiar agriculture.    <br>   <b>Classifica&ccedil;&atilde;o JEL: </b>Q42.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1.   Introdu&ccedil;&atilde;o</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   uso de biocombust&iacute;veis &eacute;, na atualidade, uma quest&atilde;o amplamente discutida na   literatura nacional<a name="tx01"></a><a href="#nt01"><sup>1</sup></a> e internacional<a name="tx02"></a><a href="#nt02"><sup>2</sup></a>, pois os   combust&iacute;veis f&oacute;sseis, os mais utilizados como fonte de energia, possuem   reservas terrestres finitas e s&atilde;o extremamente poluidores e causadores de   s&eacute;rios desequil&iacute;brios ao meio ambiente. Como consequ&ecirc;ncia, a produ&ccedil;&atilde;o mundial   dos biocombust&iacute;veis deve aumentar substancialmente, j&aacute; que &eacute; uma fonte   renov&aacute;vel de energia e permite, principalmente em pa&iacute;ses emergentes, a   possibilidade da produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de oleaginosas por pequenos   produtores, com fixa&ccedil;&atilde;o do homem no campo, gera&ccedil;&atilde;o de renda e inclus&atilde;o social.   Apesar de apresentar pontos positivos, tamb&eacute;m se questiona seu impacto sobre os   pre&ccedil;os e a escassez de alimentos. Deste modo, tornam-se relevantes estudos que   analisem o comportamento, em termos de varia&ccedil;&atilde;o de pre&ccedil;os, das plantas   geradoras de biocombust&iacute;veis, pois o seu cultivo pode afetar os seus produtores   e/ou consumidores. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   governo brasileiro tem estimulado a produ&ccedil;&atilde;o e comercializa&ccedil;&atilde;o do biodiesel,   sendo o marco principal a publica&ccedil;&atilde;o do Decreto nº 5.488, em 20 de maio de   2005, que regulamenta a Lei nº 11.097 (janeiro/2005). Esta lei disp&otilde;e sobre a   introdu&ccedil;&atilde;o do biodiesel na matriz energ&eacute;tica brasileira. Inicialmente, a   propor&ccedil;&atilde;o autorizada foi de 2% do diesel comum at&eacute; 2008 e 5% at&eacute; 2013 (ANP,   2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em   resposta a este programa, foram implantadas 62 unidades de produ&ccedil;&atilde;o, com   capacidade de produzir 3,76 milh&otilde;es de m&sup3; de biodiesel por ano. Em 2005, foram   produzidos 736 m&sup3; de biodiesel; em 2006, 69 mil m&sup3;; em 2007, 402 mil m&sup3;; e, em   2008, 918 mil m&sup3;. No que se refere a leil&otilde;es de biodiesel realizados pela ANP   (Ag&ecirc;ncia Nacional do Petr&oacute;leo, G&aacute;s Natural e Biocombust&iacute;veis), houve aumento   expressivo na import&acirc;ncia arrematada. Em 2005, foram arrematados 70 mil m&sup3;, ao   pre&ccedil;o m&eacute;dio de R$ 1,905/litro e, em 2008, essa import&acirc;ncia aumenta para 660 mil   m&sup3;, ao pre&ccedil;o m&eacute;dio de R$ 2,648/litro (BRASIL, 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Especificamente no caso do dend&ecirc;,   a sua cultura foi introduzida no Brasil por escravos africanos no in&iacute;cio do   s&eacute;culo XVII, dando origem aos dendezais subespont&acirc;neos no litoral baiano.   Voltada essencialmente para a subsist&ecirc;ncia de fam&iacute;lias pobres do litoral   nordestino, o primeiro cultivo planejado iniciou-se na d&eacute;cada de 1960 no Par&aacute;   por iniciativa da Superintend&ecirc;ncia de Desenvolvimento da Amaz&ocirc;nia (Sudam), com   a colabora&ccedil;&atilde;o do <i>Institut de Recherches pour l&ecirc;s Huiles et Oleagineux </i>(IRHO),   situado na Fran&ccedil;a (HOMMA et al., 2001). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O dend&ecirc; se destaca pelo elevado valor comercial para   o setor de alimentos (seu &oacute;leo &eacute; livre de gorduras 'trans'). O &oacute;leo de dend&ecirc;   possui tamb&eacute;m grande valor para a ind&uacute;stria qu&iacute;mica e de cosm&eacute;ticos, em virtude   da exist&ecirc;ncia de caroten&oacute;ides (betacaroteno) em sua composi&ccedil;&atilde;o e por ter   quantidades significativas de antioxidantes. A alta produtividade da esp&eacute;cie &eacute;   outra vantagem comparativa. Ap&oacute;s sete a oito anos de cultivo, a produtividade   pode chegar a 25 toneladas de cachos de frutos frescos por hectare, o   equivalente a cinco toneladas de &oacute;leo por hectare plantado (HOMMA et al.,   2001). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Neste   contexto, uma an&aacute;lise da volatilidade dos pre&ccedil;os do dend&ecirc; torna-se crucial, n&atilde;o   somente pelo fato de ser uma fonte interessante de biocombust&iacute;vel, como tamb&eacute;m   por poder provocar desest&iacute;mulos de produ&ccedil;&atilde;o em per&iacute;odos de baixa dos pre&ccedil;os ou   excesso de produ&ccedil;&atilde;o em per&iacute;odos de pre&ccedil;os muito elevados. Oscila&ccedil;&otilde;es c&iacute;clicas   e/ou sazonais podem comprometer fortemente a renda dos produtores rurais e   abalar os n&iacute;veis de consumo da popula&ccedil;&atilde;o urbana. Desse modo, o conhecimento do   padr&atilde;o de flutua&ccedil;&atilde;o sazonal ou volatilidade destes pre&ccedil;os pode ajudar na   implementa&ccedil;&atilde;o de pol&iacute;ticas de estabiliza&ccedil;&atilde;o das cota&ccedil;&otilde;es dos pre&ccedil;os dos   produtos ao longo do ano. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De   forma geral, esse trabalho busca observar o comportamento dos retornos dos   pre&ccedil;os do dend&ecirc; para a economia brasileira no per&iacute;odo de 1980 a 2008.   Especificamente, pretende-se: </font></p>     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">a)     Analisar a volatilidade condicional dos pre&ccedil;os do dend&ecirc; para a economia brasileira; </font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">b) Identificar o mecanismo de rea&ccedil;&atilde;o     e persist&ecirc;ncia da volatilidade frente a choques; </font></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">c) Inferir sobre poss&iacute;veis riscos     para o produtor rural. </font></p> </blockquote>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Existem   na literatura alguns estudos que tratam desse assunto. Como exemplos, podem-se   citar os trabalhos de Lamounier (2001), Campos (2007) e Silva (2005). O   presente estudo se difere dos supracitados, pois estuda a volatilidade da palma<a name="tx03"></a><a href="#nt03"><sup>3</sup></a>, que &eacute; pouco   explorada em pesquisas nacionais e internacionais. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m dessa introdu&ccedil;&atilde;o, este artigo cont&eacute;m   mais quatro se&ccedil;&otilde;es. Na pr&oacute;xima, tem-se uma breve descri&ccedil;&atilde;o da <i>commodity</i> &oacute;leo de palma como fonte de energia sustent&aacute;vel para uma dada economia. Na   se&ccedil;&atilde;o tr&ecirc;s, a metodologia utilizada foi discutida. Na se&ccedil;&atilde;o quatro, os   resultados foram apresentados e discutidos. Finalmente, na quinta e &uacute;ltima   se&ccedil;&atilde;o, est&atilde;o descritas as conclus&otilde;es do trabalho. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Dend&ecirc; no mundo e   no Brasil </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entre   as oleaginosas, a cultura do dend&ecirc; &eacute; a mais produtiva, com rendimento m&eacute;dio de   20 a 22 toneladas de cacho de fruto fresco por hectare/ano. Em termos de   extra&ccedil;&atilde;o de &oacute;leo, essa cultura tamb&eacute;m se destaca no que se refere &agrave;   produtividade, com ganho entre 4 e 5 toneladas de &oacute;leo/ha (SILVA, 2006). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No   mercado mundial de &oacute;leos e gorduras, o &oacute;leo de palma foi o mais produzido no   mundo (chegou a 43,9 milh&otilde;es de toneladas em 2008), seguido de perto apenas   pelo &oacute;leo de soja (33,8 milh&otilde;es de toneladas no mesmo ano). O maior produtor   foi a Indon&eacute;sia, 20,7 milh&otilde;es de toneladas, representando 47,2% da produ&ccedil;&atilde;o   mundial; seguida pela Mal&aacute;sia, com produ&ccedil;&atilde;o de 18,5 milh&otilde;es de toneladas (USDA,   2008). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em   termos de distribui&ccedil;&atilde;o da produ&ccedil;&atilde;o do &oacute;leo de palma, percebe-se que a maioria   dos pa&iacute;ses n&atilde;o possui representatividade na produ&ccedil;&atilde;o, dado que as exig&ecirc;ncias   climatol&oacute;gicas restringem o estabelecimento da cultura nos tr&oacute;picos, em geral,   em uma faixa de mais ou menos 10 graus de latitude em torno do Equador, em que   81% a 95% dos plantios existentes no mundo est&atilde;o localizados (FURLAN JUNIOR et   al., 2006). Os destaques s&atilde;o para pa&iacute;ses como Indon&eacute;sia e Mal&aacute;sia, que assumem   a lideran&ccedil;a na produ&ccedil;&atilde;o. Tail&acirc;ndia, Col&ocirc;mbia e Nig&eacute;ria tamb&eacute;m s&atilde;o importantes   produtores. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No   que se refere especificamente ao caso brasileiro, a produ&ccedil;&atilde;o nacional de &oacute;leo   de dend&ecirc; equivale a 0,25% da mundial, estimada em 43,9 milh&otilde;es de toneladas em   2008 (USDA, 2008). O Par&aacute; &eacute; o principal estado produtor, com produtividade   m&eacute;dia de 3,32 toneladas por hectare e 61,8 mil hectares plantados. Este estado   &eacute; seguido de longe pelo Amazonas, que possui apenas 7 mil hectares plantados   (AGRIANUAL, 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A   Bahia tamb&eacute;m se destaca na produ&ccedil;&atilde;o, pois possui condi&ccedil;&otilde;es edafoclim&aacute;ticas   favor&aacute;veis ao cultivo do dendezeiro, com &aacute;rea dispon&iacute;vel de 854 mil hectares de   terras situadas em regi&otilde;es litor&acirc;neas, que se estendem desde o Rec&ocirc;ncavo at&eacute; os   Tabuleiros do Sul da Bahia. Entretanto, apenas 41,486 mil hectares est&atilde;o sendo   cultivados. Apesar desse potencial, a maior parte da produ&ccedil;&atilde;o de &oacute;leo de dend&ecirc;   do estado &eacute; proveniente de dendezeiros subespont&acirc;neos de baixa produtividade,   exploradas de forma extrativista, sem m&atilde;o de obra especializada, com car&ecirc;ncia   de recursos e de assist&ecirc;ncia t&eacute;cnica (CONAB, 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Algumas   caracter&iacute;sticas marcantes do mercado de oleaginosas s&atilde;o a variabilidade e a   volatilidade dos pre&ccedil;os. Conforme Larson (1991), o &oacute;leo de palma apresenta um   comportamento vol&aacute;til significativo. Sendo assim, estudar essa volatilidade &eacute;   de suma import&acirc;ncia para se observar o comportamento do retorno da cultura do   dend&ecirc;. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De   acordo com Shamsudin e Arshad (1999), o pre&ccedil;o do &oacute;leo de palma &eacute; determinado   pela intera&ccedil;&atilde;o das for&ccedil;as de mercado, bem como pelas for&ccedil;as mercadol&oacute;gicas e as   barreiras ao com&eacute;rcio. A intera&ccedil;&atilde;o das for&ccedil;as de mercado caracteriza-se por   quest&otilde;es espec&iacute;ficas do mercado de gorduras e &oacute;leos. Entre estas   caracter&iacute;sticas, est&atilde;o o grau de substitui&ccedil;&atilde;o e as melhorias tecnol&oacute;gicas no   setor de refino e uso de gorduras e &oacute;leos. A complexidade da intera&ccedil;&atilde;o desta   s&eacute;rie de vari&aacute;veis do mercado faz com que a instabilidade dos pre&ccedil;os das   oleaginosas seja elevada. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em termos de comercializa&ccedil;&atilde;o, os principais centros   onde se determinam os pre&ccedil;os internacionais do &oacute;leo de palma s&atilde;o Kuala Lumpur,   Rotterdam e Londres. Os contratos a termo ou diferidos s&atilde;o efetuados por   agentes de venda, intermedi&aacute;rios de &oacute;leos e gorduras comest&iacute;veis e empresas   comerciais estatais (BAASTIAN, 1990). O <i>Malaysian Palm Board </i>(MPOB)   destaca-se mundialmente na comercializa&ccedil;&atilde;o, sendo o principal negociador de   contratos futuros para o &oacute;leo de dend&ecirc;. O MPOB consiste em uma ag&ecirc;ncia   governamental respons&aacute;vel pela promo&ccedil;&atilde;o da ind&uacute;stria do dend&ecirc; na Mal&aacute;sia e tem   conduzido, desde a d&eacute;cada de 1980, extensa pesquisa e desenvolvimento no uso de   &oacute;leo e biodiesel de palma (VILLELA, 2009). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No   mercado brasileiro, a comercializa&ccedil;&atilde;o &eacute; realizada atrav&eacute;s da venda direta &agrave;s   ind&uacute;strias de alimentos, sab&otilde;es, lubrificantes e ra&ccedil;&otilde;es. No caso de mercado   externo, forma-se um <i>pool</i> de empresas, capitaneadas pela Agropalma<a name="tx04"></a><a href="#nt04"><sup>4</sup></a>, as quais vendem   o &oacute;leo para <i>brokers</i> estrangeiros que   compram em grandes quantidades e o revendem em   quantidades menores. As exporta&ccedil;&otilde;es s&atilde;o feitas para Alemanha, Holanda e Reino   Unido. Entretanto, a parcela significativa de produ&ccedil;&atilde;o fica no mercado interno.   Os problemas centrais na comercializa&ccedil;&atilde;o da palma no Brasil s&atilde;o: dist&acirc;ncia dos   centros consumidores e condi&ccedil;&otilde;es desfavor&aacute;veis de escoamento da produ&ccedil;&atilde;o,   devido &agrave; baixa qualidade das rodovias e &agrave; falta de pontualidade de entrega   (LIMA et al., 2001). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Conforme Lima et al. (2001), a   determina&ccedil;&atilde;o dos pre&ccedil;os<a name="tx05"></a><a href="#nt05"><sup>5</sup></a> do &oacute;leo de palma &eacute; influenciada por   v&aacute;rios fatores. Um deles &eacute; a qualidade do &oacute;leo ofertado: &oacute;leos com acidez e   umidade superiores aos padr&otilde;es definidos pelo mercado t&ecirc;m redu&ccedil;&atilde;o no pre&ccedil;o de   comercializa&ccedil;&atilde;o. Por fim, na composi&ccedil;&atilde;o do pre&ccedil;o (no Brasil) incidem os   seguintes tributos: 12% de ICMS e 3,65% de PIS e Cofins. Sobre os pre&ccedil;os do   &oacute;leo de palma e de palmiste incidem 17% de ICMS e 3,65% de PIS/Cofins, quando a comercializa&ccedil;&atilde;o &eacute; feita dentro do estado   do Par&aacute;. Sobre a torta de palmiste, h&aacute; incid&ecirc;ncia de 3,65% de PIS/Cofins. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finalmente, para al&eacute;m de   ser a oleaginosa com maior produtividade agr&iacute;cola, &eacute; uma atividade que tem   balan&ccedil;o positivo de energia. Sendo assim, os seus subprodutos industriais t&ecirc;m   grande potencial para utiliza&ccedil;&atilde;o em cogera&ccedil;&atilde;o de energia el&eacute;trica,   principalmente em regi&otilde;es com baixa aptid&atilde;o para a instala&ccedil;&atilde;o de centrais   hidrel&eacute;tricas (VI&Eacute;GAS, 2000). </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Modelos   ARCH e GARCH </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir de s&eacute;ries temporais pode-se identificar o padr&atilde;o de   comportamento dos pre&ccedil;os e fazer previs&otilde;es para valores futuros, atrav&eacute;s da   an&aacute;lise dos componentes c&iacute;clicos, sazonais, de tend&ecirc;ncia e aleat&oacute;rios. Em   s&eacute;ries hist&oacute;ricas, &eacute; poss&iacute;vel observar erros de previs&atilde;o vari&aacute;veis,   caracterizando processos heteroced&aacute;sticos, que podem ser causados pela   instabilidade e incerteza no mercado financeiro em decorr&ecirc;ncia de mudan&ccedil;as nas pol&iacute;ticas   econ&ocirc;micas do governo e nas rela&ccedil;&otilde;es de troca entre pa&iacute;ses (GUJARATI, 2000). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para capturar tal correla&ccedil;&atilde;o, Engle (1982) desenvolveu o modelo   autorregressivo de heterocedasticidade condicional (ARCH). O pressuposto b&aacute;sico   deste modelo &eacute; de que a vari&acirc;ncia de "<i>&#949;<sub>t</sub></i>"   depende de " <i>&#949;<sup>2 </sup><sub>t-1</sub></i>".   O termo de erro <i>&#949;<sub>t</sub></i>, condicionado ao   per&iacute;odo (t-1) &eacute; distribu&iacute;do conforme <i>&#949;<sub>t</sub></i>&#8764;N&#91;0,(<i>&#945;</i><sub>0</sub>+<i>&#945;<sub>1</sub>&#949;<sup>2</sup><sub>t-1</sub></i>)&#93;. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esse processo pode ser generalizado para "r" defasagens de <i>&#949;</i><sup>2</sup>,   sendo chamado de ARCH (1). As restri&ccedil;&otilde;es param&eacute;tricas <i>&#945;<sub>i </sub>&#945;</i>&gt;   0 para todo "i" variando de 2 a "n" e &#8721; <i>&#945;<sub>i </sub></i>&lt;   1 s&atilde;o necess&aacute;rias para assegurar que a vari&acirc;ncia condicional seja positiva e   fracamente estacion&aacute;ria (ENGLE, 1982). A seguinte equa&ccedil;&atilde;o de vari&acirc;ncia   condicional define um modelo ARCH (r): </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03eq01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">em   que (<i>&#949;<sub>t</sub></i>) &eacute; uma sequ&ecirc;ncia de   vari&aacute;veis aleat&oacute;rias independentes e identicamente distribu&iacute;das, com a mesma   restri&ccedil;&atilde;o <i>&#945;0 </i>&gt; 0, <i>&#945;<sub>i </sub>&#8805;</i> 0,   i &gt; 0. Na pr&aacute;tica, sup&otilde;e-se usualmente <i>&#949;t </i>&#8764; N   (0,1) ou <i>&#949;<sub>t</sub></i> ~ tv<a name="tx06"></a><a href="#nt06"><sup>6</sup></a>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Partindo-se do pre&ccedil;o de um ativo no instante t, ent&atilde;o, a   varia&ccedil;&atilde;o entre os instantes t-1 e t &eacute; dada por "<i>P<sub>t</sub>= P<sub>t</sub>- P<sub>t</sub></i>-   1". Denotando-se <i>P<sub>t</sub>=log P<sub>t</sub></i>,   define&shy;-se o retorno por <i>rt=&#91;log(P<sub>t</sub>)-log(P<sub>t-1</sub>)&#93;</i>,   ou seja, toma-se o logaritmo dos pre&ccedil;os e depois a primeira diferen&ccedil;a (MORETTIN   e TOLOI, 2004). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Uma generaliza&ccedil;&atilde;o do   modelo ARCH pode apresentar menos par&acirc;metros do que um modelo autorregressivo   (AR) ou de <i>M&eacute;dia M&oacute;vel </i>(MA)<a name="tx07"></a><a href="#nt07"><sup>7</sup></a>.   Portanto, o modelo GARCH para a vari&acirc;ncia condicional pode ser usado para   descrever a volatilidade com menos par&acirc;metros do que um modelo ARCH   (BOLLERSLEV, 1986). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Segundo Bolelrslev (1986),   para o modelo GARCH de ordem (1,1), tem-se que a vari&acirc;ncia dos erros de um   modelo, no per&iacute;odo t, depender&aacute; de tr&ecirc;s termos, ou seja, de um termo m&eacute;dio ou   constante; de inova&ccedil;&otilde;es (choques) acerca da volatilidade, que &eacute; determinada   pelo quadrado dos res&iacute;duos (<i>&#949;</i><sup>2</sup><sub>t-1</sub>)   do per&iacute;odo t-1, representado pelo termo ARCH (informa&ccedil;&otilde;es defasadas da   volatilidade); e da revis&atilde;o da volatilidade feita no &uacute;ltimo per&iacute;odo (&#963;<sup>2</sup><sub>t-1</sub>),   que &eacute; o termo GARCH (vari&acirc;ncias previstas passadas). O modelo GARCH (1,1) pode   ser representado pela seguinte equa&ccedil;&atilde;o de vari&acirc;ncia condicional: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03eq02.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No GARCH (r, m), modelo   autorregressivo com heterocedasticidade condicional generalizada, tem-se que   "r" representa a ordem do componente ARCH e "m", a ordem do componente GARCH.   Sua generaliza&ccedil;&atilde;o &eacute; representada por: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03eq03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bollerslev (1986) coloca que a especifica&ccedil;&atilde;o mais robusta   verificada nas aplica&ccedil;&otilde;es &eacute; a do modelo GARCH (1,1), pois esta classe de modelo   apresenta poucas restri&ccedil;&otilde;es nos par&acirc;metros. Neste modelo, a condi&ccedil;&atilde;o suficiente   para que a vari&acirc;ncia condicional seja positiva com probabilidade 1 &eacute; &#969;<i>&gt;</i>0; <i>&#945;</i><sub>1</sub>&#8805;0 e <i>&#946;</i><sub>1</sub><i>&#8805;</i> 0<a name="tx08"></a><a href="#nt08"><sup>8</sup></a>. De forma a garantir a estacionaridade do modelo GARH (1,1)   ser&aacute; necess&aacute;rio tamb&eacute;m que <i>&#945;</i><sub>1</sub>+<i>&#946;</i><sub>1</sub><i>&lt;</i>1. A   partir dessas implica&ccedil;&otilde;es, pode-se afirmar que a persist&ecirc;ncia de choques na   volatilidade da s&eacute;rie de retornos &eacute; medida pela soma de <i>&#945;</i><sub>1</sub> e <i>&#946;</i><sub>1</sub>. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O somat&oacute;rio dos coeficientes que apresente valores baixos   (pr&oacute;ximos de 0) indica que um choque inicial sobre a volatilidade ir&aacute; provocar   efeitos r&aacute;pidos sobre o comportamento das s&eacute;ries e que, ap&oacute;s curto per&iacute;odo de   tempo, a vari&acirc;ncia da s&eacute;rie dever&aacute; convergir para sua m&eacute;dia hist&oacute;rica.   Entretanto, quanto maior (mais pr&oacute;ximo de 1) for o valor do coeficiente de   persist&ecirc;ncia, mais lentamente o   choque sobre a volatilidade ir&aacute; se dissipar (GREENE, 2002). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A estima&ccedil;&atilde;o dos   par&acirc;metros dos modelos &eacute; feita pelo m&eacute;todo de m&aacute;xima verossimilhan&ccedil;a   condicional ap&oacute;s adotar-se uma distribui&ccedil;&atilde;o param&eacute;trica para as inova&ccedil;&otilde;es. A   fun&ccedil;&atilde;o de m&aacute;xima verossimilhan&ccedil;a maximizada por m&eacute;todos num&eacute;ricos est&aacute; sujeita   &agrave;s restri&ccedil;&otilde;es de negatividade necess&aacute;rias. Neste trabalho, usou-se o m&eacute;todo de   Marquardt (1963). Para identificar a presen&ccedil;a de heterocedasticidade   condicional autorregressiva, aplicou-se o teste do tipo multiplicador de   Lagrange, proposto por Engle (1982), com a estat&iacute;stica de teste possuindo   distribui&ccedil;&atilde;o qui-quadrado. O modelo pode ser expresso da seguinte maneira: </font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03eq04.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Logo, compara-se o valor   calculado com o valor tabelado, para se testar a hip&oacute;tese nula de n&atilde;o evid&ecirc;ncia   de heterocedasticidade condicional. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Fonte de   Dados </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os dados secund&aacute;rios utilizados neste estudo correspondem aos   pre&ccedil;os m&eacute;dios mensais do &oacute;leo de palma coletados no mercado internacional. A   s&eacute;rie foi proveniente do Mercado Futuro da Mal&aacute;sia. Esses dados foram obtidos   junto ao <i>International Monetray Fund</i> (IMF, 2008), devido a sua   confiabilidade e por utilizar a principal rota de com&eacute;rcio internacional da <i>commodity</i> em estudo. Os pre&ccedil;os foram deflacionados em rela&ccedil;&atilde;o &agrave; infla&ccedil;&atilde;o norte americana,   utilizando&shy;-se a s&eacute;rie CPI-U do <i>Bureau Labor Service</i> (BLS, 2008). As   observa&ccedil;&otilde;es abrangem o per&iacute;odo de janeiro de 1980 a agosto de 2008 dos pre&ccedil;os do &oacute;leo   de dend&ecirc; (expressos em US$/t m&eacute;trica), perfazendo o total de 344 meses. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Resultados   e Discuss&atilde;o </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Conforme a <a href="#fig01">Figura 1</a>, os principais picos observados na s&eacute;rie   est&atilde;o em 1983-84 e 1997-98. O primeiro foi o resultado de v&aacute;rios fatores   coincidentes, incluindo-se a queda acentuada na cultura da soja nos Estados   Unidos<a name="tx09" id="tx09"></a><a href="#nt09"><sup>9</sup></a>, prolongamento do tempo quente e seco; redu&ccedil;&atilde;o na produ&ccedil;&atilde;o do   &oacute;leo de palma da Mal&aacute;sia, devido &agrave; combina&ccedil;&atilde;o de planta&ccedil;&otilde;es de palma no final   do ciclo, introdu&ccedil;&atilde;o de novas mudas e diminui&ccedil;&atilde;o da aplica&ccedil;&atilde;o de fertilizantes,   devido aos baixos pre&ccedil;os do &oacute;leo de palma que vigoravam anteriormente; e queda   na produ&ccedil;&atilde;o de copra nas Filipinas, ap&oacute;s um longo per&iacute;odo de seca e efeitos de   tuf&otilde;es. </font></p>     <p><a name="fig01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03fig01.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os anos de 1997-98 representaram outro pico significativo para o   pre&ccedil;o do &oacute;leo de palma. Este foi o per&iacute;odo em que a Mal&aacute;sia e os seus vizinhos   sofreram uma severa crise financeira. Os fatores de curto prazo que   contribu&iacute;ram para o aumento foram: baixas reservas de petr&oacute;leo, redu&ccedil;&atilde;o da   produtividade de soja (a oferta de &oacute;leo de palma era insuficiente para suportar   esta queda) e anomalias meteorol&oacute;gicas, nomeadamente o impacto do <i>El Ni&ntilde;o,</i> que resultou na seca sem precedentes na Mal&aacute;sia, Indon&eacute;sia e Filipinas. Al&eacute;m   disso, problemas cambiais impulsionaram os pre&ccedil;os de exporta&ccedil;&atilde;o de &oacute;leo de   palma em todos os embarques cotados em d&oacute;lares norte- americanos. Entretanto,   desde o final de 2008, os pre&ccedil;os t&ecirc;m ca&iacute;do drasticamente, devido &agrave; crise   financeira mundial. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#fig01">Figura 1</a> mostra o   comportamento das s&eacute;ries de pre&ccedil;o e retorno do dend&ecirc;, para o per&iacute;odo de 1980 a   2008. A partir desta figura, observa-se a exist&ecirc;ncia de per&iacute;odos com baixa e   alta volatilidade para a s&eacute;rie retorno, o que sinaliza uma rela&ccedil;&atilde;o de   depend&ecirc;ncia dessa s&eacute;rie em rela&ccedil;&atilde;o a seus per&iacute;odos defasados. Os pre&ccedil;os do   dend&ecirc;, por sua vez, refletem os impactos das crises financeiras </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#tab01">Tabela 1</a> apresenta   as estat&iacute;sticas descritivas para os retornos da <i>commodity</i>. O teste,   proposto por Jarque e Bera (1980), de normalidade prova a n&atilde;o normalidade dos   res&iacute;duos. A assimetria foi positiva. A estat&iacute;stica referente &agrave; curtose, que   mede o pico ou achatamento da distribui&ccedil;&atilde;o, excede 3 (valor normal), indicando   uma distribui&ccedil;&atilde;o com achatamento caudal. Os dados est&atilde;o agrupados no centro e   os retornos seguem uma distribui&ccedil;&atilde;o leptoc&uacute;rtica<a name="tx10"></a><a href="#nt10"><sup>10</sup></a>.   Sendo assim, a s&eacute;rie de retorno sinaliza presen&ccedil;a de heterocedasticidade e   blocos de volatilidade. </font></p>     <p><a name="tab01"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03tab01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Feita a an&aacute;lise descritiva inicial, o pr&oacute;ximo passo consiste na   realiza&ccedil;&atilde;o do teste de raiz unit&aacute;ria proposto por Dickey e Fuller (1979). Os   resultados indicam estacionariedade em primeira diferen&ccedil;a I(1) para os pre&ccedil;os   do &oacute;leo de dend&ecirc;. Os n&uacute;meros entre par&ecirc;nteses s&atilde;o os valores cr&iacute;ticos do teste   ao n&iacute;vel de 5% de probabilidade. </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v49n4/a03tab02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Em seguida, verificam-se e   corrigem-se os problemas de heterocedasticidade e autocorrela&ccedil;&atilde;o serial. Para   se detectar a poss&iacute;vel presen&ccedil;a de heterocedasticidade nos res&iacute;duos,   primeiramente &eacute; feita uma an&aacute;lise gr&aacute;fica dos res&iacute;duos ao quadrado do modelo.   Esses res&iacute;duos s&atilde;o confrontados com o retorno do dend&ecirc; (<a href="#fig02">Figura 2</a>). Percebe-se   que existe a possibilidade de heterocedasticidade, pois existe uma rela&ccedil;&atilde;o bem   definida entre os res&iacute;duos ao quadrado e o retorno dos pre&ccedil;os do &oacute;leo de palma.</font></p>     <p><a name="fig02"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03fig02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para uma detec&ccedil;&atilde;o mais intensa da possibilidade de vari&acirc;ncia n&atilde;o   constante nos erros do modelo, &eacute; realizado o teste de heterocedasticidade com   padr&atilde;o ARCH proposto por Engle (1982). A <a href="#tab03">Tabela 3</a> mostra os resultados dos   valores probabil&iacute;sticos relativos &agrave; hip&oacute;tese nula de presen&ccedil;a de   homocedasticidade nos retornos. Os resultados levam &agrave; rejei&ccedil;&atilde;o da hip&oacute;tese nula   de homocedasticidade para o caso do dend&ecirc;, sendo assim, &eacute; necess&aacute;rio ajustar um   modelo para corrigir a interfer&ecirc;ncia dos processos de heterocedasticidade   condicional autorregressiva. </font></p>     <p><a name="tab03"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v49n4/a03tab03.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para se detectar o problema de autocorrela&ccedil;&atilde;o serial, foi feito o teste   LM de Breusch e Godfrey (1981). Os resultados, que podem ser verificados na <a href="#tab04">Tabela 4</a>, mostram a presen&ccedil;a de autocorrela&ccedil;&atilde;o serial. </font></p>     <p><a name="tab04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03tab04.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Abaixo, seguem as fun&ccedil;&otilde;es de   autocorrela&ccedil;&atilde;o e autocorrela&ccedil;&atilde;o parcial (<a href="#fig03">Figuras 3</a> e <a href="#fig04">4</a>, respectivamente), a fim   de verificar a ordem dos vetores autorregressivos e m&eacute;dias m&oacute;veis. </font></p>     <p><a name="fig03"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v49n4/a03fig03.jpg"></p>     <p>&nbsp;</p>     <p><a name="fig04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v49n4/a03fig04.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outro   procedimento utilizado para eliminar o problema de heterocedasticidade foi a   pressuposi&ccedil;&atilde;o de erros robustos. O processo de truncamento, atrav&eacute;s da matriz   de covari&acirc;ncia, proposto por Newey e West (1987), foi aplicado ao modelo,   corrigindo assim, o problema de autocorrela&ccedil;&atilde;o e heterocedasticidade. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Foi   realizado um ajustamento do tipo ARCH (1) para a s&eacute;rie de retorno, pois, dados   os modelos autorregressivos e de m&eacute;dia m&oacute;vel, este processo foi o mais   adequado, ao n&iacute;vel de signific&acirc;ncia de 1% dos par&acirc;metros. As an&aacute;lises dos   correlogramas gerados e dos novos testes do efeito ARCH aceitaram a hip&oacute;tese   nula de homocedasticidade. Para se estimar um modelo que visualizasse a   componente volatilidade nas s&eacute;ries de retorno, foi realizada uma sele&ccedil;&atilde;o de   modelos GARCH, atrav&eacute;s da compara&ccedil;&atilde;o dos indicadores Akaike (AIC), Schwarz   (SBC) e do Logar&iacute;tmico da fun&ccedil;&atilde;o de Verossimilhan&ccedil;a, a fim de se obter o   modelo que melhor descrevesse a componente volatilidade da s&eacute;rie de dend&ecirc;. A <a href="#tab05">Tabela 5</a> mostra os resultados da realiza&ccedil;&atilde;o do teste. </font></p>     <p><a name="tab05"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v49n4/a03tab05.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A condi&ccedil;&atilde;o necess&aacute;ria para que a   vari&acirc;ncia seja positiva e fracamente estacion&aacute;ria implica que os par&acirc;metros da   regress&atilde;o sejam maiores que 0. Desse modo, o par&acirc;metro representado pelo ARCH &eacute;   a rea&ccedil;&atilde;o da volatilidade e o representado pelo GARCH, o &uacute;ltimo par&acirc;metro, &eacute; a   persist&ecirc;ncia da volatilidade. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O somat&oacute;rio dos   coeficientes ARCH e GARCH determina a persist&ecirc;ncia de riscos nos retornos. Para   a <i>commodity</i> &oacute;leo de dend&ecirc;,   esse valor foi de 0,954598, o que sinaliza forte persist&ecirc;ncia de choques sobre   a volatilidade. Isso significa que qualquer varia&ccedil;&atilde;o nos pre&ccedil;os de tal <i>commodity</i> pode corresponder &agrave; instabilidade para seus mercados, incluindo produtores, que   poder&atilde;o ter grandes baixas. A cultura de dend&ecirc; &eacute; fortemente suscet&iacute;vel a   choques sobre a volatilidade, que ir&atilde;o se dissipar vagarosamente, o que faz com   que o processo de revers&atilde;o &agrave; m&eacute;dia se torne lento. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os resultados indicam a necessidade de   pol&iacute;ticas que criem, facilitem e estimulem o acesso dos produtores desta <i>commodity </i>a instrumentos de prote&ccedil;&atilde;o baseados no mercado, uma vez que existem   evid&ecirc;ncias de que a utiliza&ccedil;&atilde;o destes instrumentos pode minimizar a exposi&ccedil;&atilde;o &agrave;   volatilidade pronunciada destes mercados. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. Considera&ccedil;&otilde;es finais </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Analisar   o comportamento serial dos pre&ccedil;os de produtos agr&iacute;colas &eacute; de fundamental   import&acirc;ncia na economia, uma vez que grandes oscila&ccedil;&otilde;es aumentam o grau de   incerteza dos agentes econ&ocirc;micos e preju&iacute;zos financeiros. Desse modo, a an&aacute;lise   de volatilidade &eacute; um mecanismo minimizador de riscos de fundamental   import&acirc;ncia. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para   captarem-se os termos da volatilidade condicional e identificar como &eacute; seu   mecanismo de rea&ccedil;&atilde;o e persist&ecirc;ncias frente a choques, estimaram-se os modelos   ARCH e GARCH para a s&eacute;rie de retorno do dend&ecirc;, que se caracterizou pelo   processo de heterocedasticidade condicional autorregressiva. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O   somat&oacute;rio dos coeficientes de rea&ccedil;&atilde;o (ARCH) com o coeficiente de persist&ecirc;ncia   da volatilidade (GARCH), que define se os riscos persistem na s&eacute;rie de retornos,   resultou em valores pr&oacute;ximos de 1 para a cultura do dend&ecirc;, indicando que   choques de volatilidade nos pre&ccedil;os ir&atilde;o perdurar por um longo tempo. Isto   significa que modifica&ccedil;&otilde;es geradas na cadeia produtiva de tal oleaginosa   representam incerteza quanto &agrave; varia&ccedil;&atilde;o dos pre&ccedil;os, podendo afetar consumidores   e produtores na economia. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Portanto,   a volatilidade e a rea&ccedil;&atilde;o dos pre&ccedil;os dos principais &oacute;leos vegetais frente a   choques positivos e negativos da oferta e demanda s&atilde;o par&acirc;metros importantes   para a tomada de decis&atilde;o na formula&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas e investimentos   privados em biodiesel. Proteger produtores e agentes envolvidos na cadeia de   oleaginosas &eacute; extremamente importante, porque este setor &eacute; uma realidade que   assumir&aacute; papel expressivo diante da modifica&ccedil;&atilde;o da matriz energ&eacute;tica mundial. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>7.   Refer&ecirc;ncias bibliogr&aacute;ficas </b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AGRIANUAL. <i>Anu&aacute;rio da Agricultura Brasileira.</i> S&atilde;o Paulo: FNP Consultoria e   Agroinformativos, 2009. 495p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003201100040000300001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AGROPALMA. <i>Produtos da linha convencional: </i>&Oacute;leo de palmiste. Dispon&iacute;vel em <a href="http://www.agropalma.com.br/default.aspx?pagid=GQDGTRUQ" target="_blank">http://www.agropalma.com.br/default.aspx?pagid=GQDGTRUQ</a>.   Acesso em 30 setembro de 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003201100040000300002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BAASTIAN,   Geoffrey F.Q. <i>Aceites vegetabbles y semillas oleaginosas: </i>guia del   comerciante, sistemas y tecnicas comerciales. Genebra: CCI, v.1, 1990.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003201100040000300003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BLS.   U.S. Bureau Labor Service. <i>Databases and Tables. </i>Dispon&iacute;vel em <a href="http://www.bls.gov" target="_blank">http://www.bls.gov</a>. Acesso em 20 set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003201100040000300004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BOLLERSLEV,   T. Generalized Autoregressive Conditional Heteroskedasticity. <i>Journal of     Econometrics</i>, 31:307-327, cap. 49, p. 2959 &#150; 3038, 1986.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003201100040000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BRASIL.   N&uacute;cleo de Assuntos Estrat&eacute;gicos da Presid&ecirc;ncia da Rep&uacute;blica. <i>Cadernos NAE</i><b>,</b> Bras&iacute;lia, nº 2, jan. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003201100040000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BRASIL.   Ag&ecirc;ncia Nacional de Petr&oacute;leo &#150; ANP. <i>Biodiesel</i><b>. </b>Dispon&iacute;vel em <a href="http://www.anp.gov.br/biocombustiveis/biodiesel.asp" target="_blank">http://www.anp.gov.br/biocombustiveis/biodiesel.asp</a>. Acesso em 07 mai. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003201100040000300007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BRASIL.   Minist&eacute;rio da Ci&ecirc;ncia e Tecnologia &#150; MCT. <i>Protocolo de Kyoto</i>. Dispon&iacute;vel   em <a href="http://www.mct.gov.br/upd_blob/4193.pdf" target="_blank">http://www.mct.gov.br/upd_blob/4193.pdf</a> . Acesso em 14 mai. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003201100040000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BREUSCH,   T.S. e GODFREY, L.G. <i>A review of recent work on testing for autocorrelation     in dynamic simultaneous models</i>. In macroeconomic analysis. Editores:   CURRIE, D.; NOBAY, R.; PEEL, D. Londres, 1981, cap. 4.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003201100040000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CAMPOS,   Arnoldo. <i>Biodiesel e agricultura familiar no Brasil:</i> resultados   socioecon&ocirc;micos e expectativa futura, 2006. Dispon&iacute;vel em <a href="http://www.biodiesel.gov.br/docs/ofuuturodaindustria%20-%20Biodiesel.pdf" target="_blank">http://www.biodiesel.gov.br/docs/ofuuturodaindustria%20-%20Biodiesel.pdf</a>. Acesso em 14   out. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003201100040000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CAMPOS,   K.C.; PIACENTI, C.A.; SILVA J&Uacute;NIOR, A.G. Agroenergia<b>: </b>A quest&atilde;o da   volatilidade de pre&ccedil;os e o efeito alavancagem dos produtos agr&iacute;colas. <i>Revista     de Pol&iacute;tica Agr&iacute;cola</i>, Bras&iacute;lia, DF, ano XVI &#150; nº 3, p. 34-48, jul./set.   2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003201100040000300011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CONAB. <i>Dendeicultura da Bahia</i>. Dispon&iacute;vel em <a href="http://www.conab.gov.br/ conabweb/download/sureg/BA/dendeicultura_na_bahia.pdf" target="_blank">http://www.conab.gov.br/   conabweb/download/sureg/BA/dendeicultura_na_bahia.pdf</a>. Acesso em 16 fev. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003201100040000300012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DICKEY, D.A.;   FULLER, W.A. Distribution of the estimators for autoregressive time series with   a unit root. <i>Journal of the American Statistical Association</i>, 1979. p. 427-431.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003201100040000300013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DUFEY, A. <i>Biofuels production, trade   and sustainable development: </i>emerging issues. 2006. Dispon&iacute;vel em <a href="http://www.pubs.iied.org/pdfs/15504IIED.pdf" target="_blank">http://pubs.iied.org/pdfs/15504IIED.pdf</a>. Acesso em 15   set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003201100040000300014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ENGLE   R.F. Autoregressive conditional heteroskedasticity with estimates of the   variance of U.K. inflation. <i>Econometrica, </i>Chicago, v.50, nº 4, p.987 &#150;   1008, Jul. 1982.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003201100040000300015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FAO.   Food and Agriculture Organization. <i>El Estado Mundial de la Agricultura y la     Alimentaci&oacute;n: Biocombustibles: </i>Perspectivas, Riesgos y Oportunidades.   2008. Dispon&iacute;vel em <a href="http://www.fao.org/docrep/011/i0100s/i0100s00.htm" target="_blank">http://www.fao.org/docrep/011/i0100s/i0100s00.htm</a>.   Acesso em 24 set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003201100040000300016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FURLAN   JUNIOR, J.; KALTNER, F.J.; AZEVEDO, G.F.P.; CAMPOS, I.A.<i> Biodiesel: </i>Porque   tem que ser dend&ecirc;. Bel&eacute;m, PA: Embrapa Amaz&ocirc;nia Oriental, 2006. 205 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003201100040000300017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GREENE,   W.H. <i>Econometric analysis.</i> Prentice Hall, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003201100040000300018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GUJARATI,   D.N. <i>Econometria b&aacute;sica</i><b>. </b>S&atilde;o Paulo: Makron books, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-2003201100040000300019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">HOMMA,   A.K.O.; FURLAN JUNIOR, J. <i>Desenvolvimento da dendeicultura na Amaz&ocirc;nia: </i>cronologia.   In: M&Uuml;LLER, A.A.; FURLAN JUNIOR, J. <i>Agroneg&oacute;cio do dend&ecirc;: </i>uma   alternativa social, econ&ocirc;mica e ambiental para o desenvolvimento sustent&aacute;vel da   Amaz&ocirc;nia. Bel&eacute;m: Embrapa Amaz&ocirc;nia Oriental, 2001. p.193-207.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S0103-2003201100040000300020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">IMF.   International Monetary Fund. <i>Data and Statistics. </i>Dispon&iacute;vel em <a href="http://www.imf.org" target="_blank">http://www.imf.org</a>. Acesso em 12 set. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-2003201100040000300021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JARQUE,   C., BERA, A. Efficient tests for normality homoskedasticity and serial   independence of regression residuals. <i>Econometric Letters</i><b>,</b> 6,   255-259, 1980.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003201100040000300022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">KNOTHE,   G., VAN GERPEN, J.; KRAHL, J.; RAMOS, L.P.. <i>Manual do Biodiesel. </i>S&atilde;o   Paulo: Edgard Bl&uuml;cher, 2006. 340 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-2003201100040000300023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LAMOUNIER,   W.M. <i>Comportamento dos pre&ccedil;os no mercado "spot" de caf&eacute; no Brasil: </i>an&aacute;lise   nos dom&iacute;nios do tempo e da freq&uuml;&ecirc;ncia. Vi&ccedil;osa: UFV &#150; DEA, 2001. 223 p. Tese de   Doutorado, apresentada &agrave; Universidade Federal de Vi&ccedil;osa.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003201100040000300024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LARSON,   D.F. <i>A World Bank View on the Price Prospect for Palm Oil</i><b>.</b> Paper   presented at the PORIM International Palm Oil Conference. Palm Oil Research   Institute of Malaysia, 9-14 Setembro, 1991, Kuala Lumpur.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0103-2003201100040000300025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LIMA, S.M.V.;   FREITAS FILHO, A.; CASTRO, A.M.G.; SOUZA, H.R.. <i>Desempenho da Cadeia     Produtiva do Dend&ecirc; na Amaz&ocirc;nia Legal.</i> In: Ant&ocirc;nio Agostinho M&uuml;ller; Jos&eacute;   Furlan J&uacute;nio. (Org.). <i>Agroneg&oacute;cio do dend&ecirc;: uma alternativa social,     econ&ocirc;mica e ambiental para o desenvolvimento sustent&aacute;vel da Amaz&ocirc;nia.</i> 1 ed.   Bel&eacute;m, Par&aacute;: Embrapa/Amaz&ocirc;nia Oriental, 2001, p. 251-288.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000186&pid=S0103-2003201100040000300026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MARQUARDT, D.W. An Algorithm for   Least-Squares Estimation of Nonlinear Parameters. <i>Journal Soc. Indust. on     Applied Mathematics</i><b>,</b> vol. 11, nº 2, pp. 431&#150;441, 1963.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000188&pid=S0103-2003201100040000300027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MORETTIN,   P.A.; TOLOI, C.M.C. <i>An&aacute;lise de s&eacute;ries temporais</i><b>. </b>S&atilde;o Paulo:   Edgard Bl&uuml;cher, 2004. 535 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000190&pid=S0103-2003201100040000300028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NELSON,   D.B.; CAO, C.Q. Inequality Constraints in the Univariate GARCH Model,<i> Journal of Business &amp; Economic Statistics,</i> vol. 10, pp. 229-235, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000192&pid=S0103-2003201100040000300029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NEWEY,   W.K.; WEST, K.D. A simple positive semi-definite, heteroskedasticity and   autocorrelation consistent covariance matrix. <i>Econometrica</i>,   55(3):703&#150;708, 1987.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000194&pid=S0103-2003201100040000300030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SHAMSUDIN,   M.N.; ARSHAD, F.M. <i>Short Term Forecast of Crude Palm Oil Prices. </i>Paper   presented at the International Congress of Palm Oil (PIPOC99), organised by   Palm Oil Research Institute of Malaysia and Ministry of Primary Industries,   Kuala Lumpur, 1-6 February 1999, 15p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000196&pid=S0103-2003201100040000300031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SILVA,   W.S.; S&Aacute;FADI, T.; CASTRO J&Uacute;NIOR, L.G.. Uma an&aacute;lise emp&iacute;rica da volatilidade do   retorno de commodities agr&iacute;colas utilizando modelos ARCH: os casos do caf&eacute; e da   soja.<i> Revista Economia e Sociologia Rural</i>, Bras&iacute;lia, DF, v.43, nº 1,   jan/mar. 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000198&pid=S0103-2003201100040000300032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SILVA,   J.S.O. <i>Produtividade de &oacute;leo de palma na cultura do dend&ecirc; na Amaz&ocirc;nia     Oriental: influ&ecirc;ncia do clima e do material gen&eacute;tico.</i> UFV, Vi&ccedil;osa. 2006. 81   p. (Disserta&ccedil;&atilde;o de Mestrado).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000200&pid=S0103-2003201100040000300033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">USDA.   Departamento de Agricultura dos Estados Unidos. <i>Data and Statistics. </i>Dispon&iacute;vel   em <a href="http://www.usda.gov/wps/portal/usdahome" target="_blank">http://www.usda.gov/wps/portal/usdahome</a>. Acesso em 15 abril de 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000202&pid=S0103-2003201100040000300034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VILLELA,   A. <i>O Dend&ecirc; como alternativa energ&eacute;tica sustent&aacute;vel em &aacute;reas degradadas da     Amaz&ocirc;nia. </i>UFRJ, Rio de Janeiro. 2009. 160 p. (Disserta&ccedil;&atilde;o de Mestrado).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000204&pid=S0103-2003201100040000300035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VOLPI,   G. <i>Sustainability and biofuels: </i>lessons from Brazil, presentation for   the Conference of the German Network on Renewable Energy, North-South, Bonn, 20   Jun., 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000206&pid=S0103-2003201100040000300036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">WHEELWRIGHT,   S.C.; MAKRIDAKIS, S. <i>Forecasting methods for management, </i>4th Ed, New   York: John Wiley &amp; Sons Inc. 1985.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000208&pid=S0103-2003201100040000300037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">WILKINSON, J.,   HERRERA S. <i>Agrofuels in Brazil: What is the outlook for its farming sector?     2008. </i>Dispon&iacute;vel em <a href="http://www.globalbioenergy.org/uploads/ media/0811_WilkinsonHerrera_-_Agrofuels_in_Brazil.pdf" target="_blank">http://www.globalbioenergy.org/uploads/       media/0811_WilkinsonHerrera_-_Agrofuels_in_Brazil.pdf</a>. Acesso em 15 ago. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000210&pid=S0103-2003201100040000300038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="nt01"></a><a href="#tx01">1</a> Knothe et al., (2006), Brasil (2005) e Campos (2006).     <br>       <a name="nt02"></a><a href="#tx02">2</a> Fao   (2008), Wilkinson (2008), Dufey (2006) e Volpi (2005).     <br>     <a name="nt03"></a><a href="#tx03">3</a> As express&otilde;es "azeite de dend&ecirc;",   "&oacute;leo de palma" e "&oacute;leo de dend&ecirc;" s&atilde;o utilizadas ao longo do artigo e se   equivalem.     <br>     <a name="nt04"></a><a href="#tx04">4</a> O   grupo Agropalma &eacute; um cons&oacute;rcio de capital 100% nacional que possui mais de 32   mil hectares de &aacute;reas de plantio e extra&ccedil;&atilde;o e reservas florestais monitoradas   de 59 mil hectares, situados nos munic&iacute;pios paraenses de Tail&acirc;ndia, Acar&aacute; e   Moju, a 200 quil&ocirc;metros de Bel&eacute;m (AGROPALMA, 2010).     <br>     <a name="nt05"></a><a href="#tx05">5</a> Em 1997, foi inaugurada a Companhia   Refinadora da Amaz&ocirc;nia (CRA), a primeira refinaria da regi&atilde;o Norte. A aus&ecirc;ncia   de uma empresa especializada no refino, no principal polo produtivo do Pa&iacute;s,   foi durante um longo per&iacute;odo um verdadeiro entrave ao processo de adequa&ccedil;&atilde;o e   negocia&ccedil;&atilde;o de pre&ccedil;os.     <br>     <a name="nt06"></a><a href="#tx06">6</a> tStudent(v).    <br>     <a name="nt07"></a><a href="#tx07">7</a> Os modelos AR e MA foram propostos por Wheelwright e Makridakis   (1985).     <br>     <a name="nt08"></a><a href="#tx08">8</a> Nelson e Cao (1992) forneceram as   condi&ccedil;&otilde;es suficientes e necess&aacute;rias para a positividade em modelos GARCH de   ordem mais elevada.     <br>     <a name="nt09"></a><a href="#tx09">9</a> Em decorr&ecirc;ncia do programa de subs&iacute;dio   do governo americano que privilegiou as seguintes culturas: trigo, arroz,   milho, sorgo e culturas de algod&atilde;o herb&aacute;ceo. </font></p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<collab>AGRIANUAL</collab>
+<source><![CDATA[Anuário da Agricultura Brasileira]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[FNP Consultoria e Agroinformativos]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>AGROPALMA</collab>
+<source><![CDATA[Produtos da linha convencional: Óleo de palmiste]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAASTIAN]]></surname>
+<given-names><![CDATA[Geoffrey F.Q]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Aceites vegetabbles y semillas oleaginosas: guia del comerciante, sistemas y tecnicas comerciales]]></source>
+<year>1990</year>
+<volume>1</volume>
+<publisher-loc><![CDATA[Genebra ]]></publisher-loc>
+<publisher-name><![CDATA[CCI]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLS]]></surname>
+<given-names><![CDATA[U.S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bureau Labor Service. Databases and Tables]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BOLLERSLEV]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Generalized Autoregressive Conditional Heteroskedasticity]]></article-title>
+<source><![CDATA[Journal of Econometrics]]></source>
+<year>1986</year>
+<volume>31</volume>
+<page-range>307-327</page-range><page-range>2959 - 3038</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<collab>BRASIL</collab>
+<source><![CDATA[Núcleo de Assuntos Estratégicos da Presidência da República]]></source>
+<year>jan.</year>
+<month> 2</month>
+<day>00</day>
+<volume>2</volume>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Cadernos NAE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<collab>BRASIL^dAgência Nacional de Petróleo</collab>
+<source><![CDATA[Biodiesel]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<collab>BRASIL^dMinistério da Ciência e Tecnologia</collab>
+<source><![CDATA[Protocolo de Kyoto]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BREUSCH]]></surname>
+<given-names><![CDATA[T.S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GODFREY]]></surname>
+<given-names><![CDATA[L.G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A review of recent work on testing for autocorrelation in dynamic simultaneous models. In macroeconomic analysis]]></source>
+<year>1981</year>
+<publisher-loc><![CDATA[Londres ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[Arnoldo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biodiesel e agricultura familiar no Brasil: resultados socioeconômicos e expectativa futura, 2006]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[K.C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PIACENTI]]></surname>
+<given-names><![CDATA[C.A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA JÚNIOR]]></surname>
+<given-names><![CDATA[A.G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Agroenergia: A questão da volatilidade de preços e o efeito alavancagem dos produtos agrícolas]]></article-title>
+<source><![CDATA[Revista de Política Agrícola]]></source>
+<year>jul.</year>
+<month>/s</month>
+<day>et</day>
+<volume>3</volume>
+<page-range>34-48</page-range><publisher-loc><![CDATA[Brasília^eDF DF]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>CONAB</collab>
+<source><![CDATA[Dendeicultura da Bahia]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D.A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FULLER]]></surname>
+<given-names><![CDATA[W.A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Distribution of the estimators for autoregressive time series with a unit root]]></article-title>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>1979</year>
+<page-range>427-431</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DUFEY]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biofuels production, trade and sustainable development: emerging issues]]></source>
+<year>2006</year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R.F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Autoregressive conditional heteroskedasticity with estimates of the variance of U.K. inflation]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>Jul.</year>
+<month> 1</month>
+<day>98</day>
+<volume>50</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>987 - 1008</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<collab>Food and Agriculture Organization</collab>
+<source><![CDATA[El Estado Mundial de la Agricultura y la Alimentación: Biocombustibles: Perspectivas, Riesgos y Oportunidades]]></source>
+<year>2008</year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FURLAN JUNIOR]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KALTNER]]></surname>
+<given-names><![CDATA[F.J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AZEVEDO]]></surname>
+<given-names><![CDATA[G.F.P]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAMPOS]]></surname>
+<given-names><![CDATA[I.A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biodiesel: Porque tem que ser dendê]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Belém^ePA PA]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa Amazônia Oriental]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREENE]]></surname>
+<given-names><![CDATA[W.H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric analysis]]></source>
+<year>2002</year>
+<publisher-name><![CDATA[Prentice Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GUJARATI]]></surname>
+<given-names><![CDATA[D.N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria básica]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Makron books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOMMA]]></surname>
+<given-names><![CDATA[A.K.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FURLAN JUNIOR]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Desenvolvimento da dendeicultura na Amazônia: cronologia]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[MÜLLER]]></surname>
+<given-names><![CDATA[A.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FURLAN JUNIOR]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Agronegócio do dendê: uma alternativa social, econômica e ambiental para o desenvolvimento sustentável da Amazônia]]></source>
+<year>2001</year>
+<page-range>193-207</page-range><publisher-loc><![CDATA[Belém ]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa Amazônia Oriental]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="">
+<collab>International Monetary Fund</collab>
+<source><![CDATA[Data and Statistics]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JARQUE]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERA]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Efficient tests for normality homoskedasticity and serial independence of regression residuals]]></article-title>
+<source><![CDATA[Econometric Letters]]></source>
+<year>1980</year>
+<volume>6</volume>
+<page-range>255-259</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KNOTHE]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VAN GERPEN]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KRAHL]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAMOS]]></surname>
+<given-names><![CDATA[L.P..]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manual do Biodiesel]]></source>
+<year>2006</year>
+<page-range>340 p</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Edgard Blücher]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAMOUNIER]]></surname>
+<given-names><![CDATA[W.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comportamento dos preços no mercado "spot" de café no Brasil: análise nos domínios do tempo e da freqüência]]></source>
+<year>2001</year>
+<page-range>223 p</page-range><publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[UFV - DEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LARSON]]></surname>
+<given-names><![CDATA[D.F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A World Bank View on the Price Prospect for Palm Oil]]></source>
+<year>9-14</year>
+<month> S</month>
+<day>et</day>
+<publisher-loc><![CDATA[Kuala Lumpur ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIMA]]></surname>
+<given-names><![CDATA[S.M.V]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FREITAS FILHO]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTRO]]></surname>
+<given-names><![CDATA[A.M.G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[H.R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Desempenho da Cadeia Produtiva do Dendê na Amazônia Legal]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[Antônio Agostinho]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Furlan Júnio]]></surname>
+<given-names><![CDATA[José]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Agronegócio do dendê: uma alternativa social, econômica e ambiental para o desenvolvimento sustentável da Amazônia]]></source>
+<year>2001</year>
+<edition>1</edition>
+<page-range>251-288</page-range><publisher-loc><![CDATA[Belém^ePará Pará]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa/Amazônia Oriental]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARQUARDT]]></surname>
+<given-names><![CDATA[D.W]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An Algorithm for Least-Squares Estimation of Nonlinear Parameters]]></article-title>
+<source><![CDATA[Journal Soc. Indust. on Applied Mathematics]]></source>
+<year>1963</year>
+<volume>11</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>431-441</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORETTIN]]></surname>
+<given-names><![CDATA[P.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOLOI]]></surname>
+<given-names><![CDATA[C.M.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de séries temporais]]></source>
+<year>2004</year>
+<page-range>535 p</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Edgard Blücher]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NELSON]]></surname>
+<given-names><![CDATA[D.B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CAO]]></surname>
+<given-names><![CDATA[C.Q]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Inequality Constraints in the Univariate GARCH Model]]></article-title>
+<source><![CDATA[Journal of Business & Economic Statistics]]></source>
+<year>1992</year>
+<volume>10</volume>
+<page-range>229-235</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEWEY]]></surname>
+<given-names><![CDATA[W.K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEST]]></surname>
+<given-names><![CDATA[K.D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A simple positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1987</year>
+<volume>55</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>703-708</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHAMSUDIN]]></surname>
+<given-names><![CDATA[M.N]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ARSHAD]]></surname>
+<given-names><![CDATA[F.M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Short Term Forecast of Crude Palm Oil Prices]]></source>
+<year></year>
+<conf-name><![CDATA[ International Congress of Palm Oil (PIPOC99)]]></conf-name>
+<conf-date>1-6 February 1999</conf-date>
+<conf-loc>Kuala Lumpur </conf-loc>
+<page-range>15p</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[W.S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SÁFADI]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTRO JÚNIOR]]></surname>
+<given-names><![CDATA[L.G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Uma análise empírica da volatilidade do retorno de commodities agrícolas utilizando modelos ARCH: os casos do café e da soja]]></article-title>
+<source><![CDATA[Revista Economia e Sociologia Rural]]></source>
+<year>jan/</year>
+<month>ma</month>
+<day>r.</day>
+<volume>43</volume>
+<numero>1</numero>
+<issue>1</issue>
+<publisher-loc><![CDATA[Brasília^eDF DF]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[J.S.O]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Produtividade de óleo de palma na cultura do dendê na Amazônia Oriental: influência do clima e do material genético]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[UFV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="">
+<collab>Departamento de Agricultura dos Estados Unidos</collab>
+<source><![CDATA[Data and Statistics]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VILLELA]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Dendê como alternativa energética sustentável em áreas degradadas da Amazônia]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[UFRJ]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VOLPI]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sustainability and biofuels: lessons from Brazil, presentation for the Conference of the German Network on Renewable Energy]]></source>
+<year>20 J</year>
+<month>un</month>
+<day>.,</day>
+<publisher-loc><![CDATA[North-South^eBonn Bonn]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WHEELWRIGHT]]></surname>
+<given-names><![CDATA[S.C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MAKRIDAKIS]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Forecasting methods for management]]></source>
+<year>1985</year>
+<edition>4</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons Inc]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WILKINSON]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HERRERA]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Agrofuels in Brazil: What is the outlook for its farming sector?]]></source>
+<year>2008</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

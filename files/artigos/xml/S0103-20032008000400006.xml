@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032008000400006</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032008000400006</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[O arroz no varejo e os fatores que influenciam o dispêndio das famílias consumidoras]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gameiro]]></surname>
+<given-names><![CDATA[Augusto Hauber]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gameiro]]></surname>
+<given-names><![CDATA[Mariana Bombo Perozzi]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade de São Paulo Faculdade de Medicina Veterinária e Zootecnia ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Estadual de Campinas Laboratório de Estudos Avançados em Jornalismo Projeto Arroz Brasileiro]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2008</year>
+</pub-date>
+<volume>46</volume>
+<numero>4</numero>
+<fpage>1043</fpage>
+<lpage>1065</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032008000400006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032008000400006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032008000400006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Apesar da idéia consagrada de que arroz é uma commodity e, portanto, pouco passível de diferenciação, há um grande número de produtos, com variação de tipo, classe, padrão, embalagem, marca etc. Observa-se significativa variabilidade nos preços, tanto entre diferentes marcas, fabricantes, lojas, como também para um mesmo produto, em um curto intervalo de tempo. Diante dessas constatações, questiona-se qual o efeito da estratégia de compra de arroz por parte dos consumidores sobre seus dispêndios. Este trabalho utiliza modelos matemáticos para simular o processo de decisão de compra dos consumidores com diferentes perfis de preferência, diante dos produtos nas gôndolas dos supermercados em uma cidade no estado do Rio Grande do Sul e outra em São Paulo.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Despite the well-known idea that rice is a commodity and thus it is unlikely to be differentiated, there is a large number of rice products available in the retail market, with different classification, standards, packages, brands etc. It can be observed significant variation in their prices, considering the brands, manufacturers, stores and also when the same product is considered in a short interval of time. Before these findings, we asked what the effects of rice purchasing strategies are over consumers' expenditures. This paper proposes a mathematical model to simulate the decision process of rice purchasing by consumers with different preferences, in front of products available in supermarkets in a city of Sao Paulo state and another in Rio Grande do Sul state (Brazil).]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Arroz]]></kwd>
+<kwd lng="pt"><![CDATA[marca]]></kwd>
+<kwd lng="pt"><![CDATA[varejo]]></kwd>
+<kwd lng="pt"><![CDATA[preferência]]></kwd>
+<kwd lng="pt"><![CDATA[consumidor]]></kwd>
+<kwd lng="en"><![CDATA[Rice]]></kwd>
+<kwd lng="en"><![CDATA[brand]]></kwd>
+<kwd lng="en"><![CDATA[retail]]></kwd>
+<kwd lng="en"><![CDATA[preference]]></kwd>
+<kwd lng="en"><![CDATA[consumer]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b><a name="inicio"></a>O arroz no varejo e os fatores que influenciam o disp&ecirc;ndio das fam&iacute;lias consumidoras<a href="#nt1"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Augusto Hauber Gameiro<sup>I</sup>; Mariana Bombo Perozzi Gameiro<sup>II</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Doutor em Economia Aplicada, professor Doutor da Faculdade de Medicina Veterin&aacute;ria e Zootecnia (FMVZ) e pesquisador do Grupo de Pesquisa e Extens&atilde;o em Log&iacute;stica Agroindustrial (Esalq-LOG), ambos da Universidade de S&atilde;o Paulo (USP). E-mail: <a href="mailto:gameiro@usp.br">gameiro@usp.br</a>     <br> <sup>II</sup>Especialista em Jornalismo Cient&iacute;fico, jornalista do Laborat&oacute;rio de Estudos Avan&ccedil;ados em Jornalismo (LABJOR) da Universidade Estadual de Campinas (Unicamp) e coordenadora do Projeto Arroz Brasileiro (<a href="http://www.arroz.agr.br" target="_blank">www.arroz.agr.br</a>). E-mail: <a href="mailto:mariana@natural.agr.br">mariana@natural.agr.br</a> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Apesar da id&eacute;ia consagrada de que arroz &eacute; uma <i>commodity </i>e, portanto, pouco pass&iacute;vel de diferencia&ccedil;&atilde;o, h&aacute; um grande n&uacute;mero de produtos, com varia&ccedil;&atilde;o de tipo, classe, padr&atilde;o, embalagem, marca etc. Observa-se significativa variabilidade nos pre&ccedil;os, tanto entre diferentes marcas, fabricantes, lojas, como tamb&eacute;m para um mesmo produto, em um curto intervalo de tempo. Diante dessas constata&ccedil;&otilde;es, questiona-se qual o efeito da estrat&eacute;gia de compra de arroz por parte dos consumidores sobre seus disp&ecirc;ndios. Este trabalho utiliza modelos matem&aacute;ticos para simular o processo de decis&atilde;o de compra dos consumidores com diferentes perfis de prefer&ecirc;ncia, diante dos produtos nas g&ocirc;ndolas dos supermercados em uma cidade no estado do Rio Grande do Sul e outra em S&atilde;o Paulo. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-chave:</b> Arroz; marca; varejo; prefer&ecirc;ncia; consumidor. </font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Despite the well-known idea that rice is a commodity and thus it is unlikely to be differentiated, there is a large number of rice products available in the retail market, with different classification, standards, packages, brands etc. It can be observed significant variation in their prices, considering the brands, manufacturers, stores and also when the same product is considered in a short interval of time. Before these findings, we asked what the effects of rice purchasing strategies are over consumers' expenditures. This paper proposes a mathematical model to simulate the decision process of rice purchasing by consumers with different preferences, in front of products available in supermarkets in a city of Sao Paulo state and another in Rio Grande do Sul state (Brazil). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Keywords:</b> Rice; brand; retail; preference; consumer.     <br> <b>Classifica&ccedil;&atilde;o JEL:</b> D12.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introdu&ccedil;&atilde;o </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O arroz &eacute; o principal componente da dieta b&aacute;sica da popula&ccedil;&atilde;o mundial, sendo respons&aacute;vel por 20% da fonte de energia alimentar, enquanto o trigo fornece 19% e o milho, 5% (Barata, 2005). O Brasil produziu 11.616,2 mil toneladas de arroz em casca na safra 2005/06, em uma &aacute;rea de 2.993,3 mil hectares (Conab, 2006). O Pa&iacute;s &eacute; o maior produtor de arroz do Ocidente - os pa&iacute;ses asi&aacute;ticos s&atilde;o os maiores produtores e consumidores mundiais. M&eacute;ndez del Villar (2002) sistematiza os padr&otilde;es de consumo de arroz em tr&ecirc;s grandes modelos. O modelo asi&aacute;tico corresponde a um consumo m&eacute;dio per capita superior a 100 kg ao ano. O modelo subtropical apresenta consumo m&eacute;dio de 35 a 65 kg ao ano. O Brasil inclui-se nesse grupo, com um consumo ao redor de 45 kg/habitante/ano de arroz beneficiado. No chamado modelo ocidental, o consumo per capita m&eacute;dio &eacute; baixo, equivalendo a cerca de 10 kg ao ano (Ferreira et al., 2005). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Apesar da import&acirc;ncia do arroz como um dos principais alimentos no Brasil, o consumo vem aumentando em um ritmo bem inferior ao crescimento da produ&ccedil;&atilde;o. Segundo Barata (2005), nos &uacute;ltimos anos, o aumento da popula&ccedil;&atilde;o brasileira vem sendo compensado por uma redu&ccedil;&atilde;o no consumo per capita do cereal, conseq&uuml;&ecirc;ncia de uma s&eacute;rie de modifica&ccedil;&otilde;es nos padr&otilde;es e h&aacute;bitos de consumo da popula&ccedil;&atilde;o. A quantidade anual de consumo per capita m&eacute;dio de arroz polido no Brasil caiu 46% em 30 anos, de acordo com a Pesquisa de Or&ccedil;amentos Familiares (POF 2002-2003), elaborada pelo Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), em compara&ccedil;&atilde;o com o Estudo Nacional de Despesa Familiar (Endef), realizado em 1974 (Lobo, 2004). Diante da queda no consumo, o Instituto Rio Grandense do Arroz (Irga) criou a "Campanha de Incentivo ao Consumo do Arroz". Segundo o Instituto, a redu&ccedil;&atilde;o no consumo n&atilde;o tem rela&ccedil;&atilde;o direta com o pre&ccedil;o do arroz, dado que, via de regra, o seu pre&ccedil;o &eacute; inferior ao dos produtos substitutos. Os fatores explicativos seriam: i) migra&ccedil;&atilde;o para produtos de maior valor agregado, na propor&ccedil;&atilde;o do aumento da renda familiar; ii) concorr&ecirc;ncia com farin&aacute;ceos, confirmando a tend&ecirc;ncia de alto consumo de p&atilde;es; iii) altera&ccedil;&atilde;o nos h&aacute;bitos alimentares em fun&ccedil;&atilde;o do menor tempo dispon&iacute;vel para as refei&ccedil;&otilde;es; iv) inser&ccedil;&atilde;o da mulher em outras atividades profissionais; v) desconhecimento das qualidades nutritivas e funcionais do produto na alimenta&ccedil;&atilde;o; vi) aus&ecirc;ncia de m&iacute;dia para a divulga&ccedil;&atilde;o e de incentivo ao consumo do arroz; e vii) mito de que "o arroz engorda" (Irga, 2006). Como uma das principais conseq&uuml;&ecirc;ncias dessa redu&ccedil;&atilde;o no consumo, atrelada ao aumento da oferta do produto, o Irga afirma estar havendo uma depress&atilde;o nos pre&ccedil;os pagos aos orizicultores, amea&ccedil;ando a sustentabilidade da atividade nos m&eacute;dio e longo prazos. De fato, Viana &amp; Souza (2006) confirmam a tend&ecirc;ncia de queda de pre&ccedil;os ao produtor, concluindo que, entre 1973 e 2005, a taxa m&eacute;dia da evolu&ccedil;&atilde;o dos pre&ccedil;os pagos aos produtores foi negativa, da ordem de -3,53% ao ano. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al&eacute;m dos significativos avan&ccedil;os na produtividade agr&iacute;cola, as empresas processadoras t&ecirc;m evolu&iacute;do de forma cont&iacute;nua. Elas passam por um processo de reestrutura&ccedil;&atilde;o, buscando novas estrat&eacute;gias e o melhor posicionamento no mercado, o que induz novos padr&otilde;es de competi&ccedil;&atilde;o (Ludwig, 2004). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diante dessas constata&ccedil;&otilde;es, o entendimento do mercado do arroz em todos os elos da cadeia &eacute; necess&aacute;rio. Diversos estudos versam sobre o mercado de arroz no Brasil, mas com foco na etapa de produ&ccedil;&atilde;o agr&iacute;cola, isto &eacute;, na comercializa&ccedil;&atilde;o entre agricultor e processador, ou ainda na influ&ecirc;ncia de pol&iacute;ticas agr&iacute;colas na comercializa&ccedil;&atilde;o (Ferreira et al., 2002, Ferreira et al., 2003, Miranda &amp; Figueiredo, 2003). Ultimamente, tamb&eacute;m t&ecirc;m surgido trabalhos voltados ao segmento das empresas processadoras. S&atilde;o exemplos recentes Dickow (2002), Ludwig (2004) e Dias &amp; Fensterseifer (2005). Todavia, estudos sobre o consumo de arroz ainda s&atilde;o poucos. A disserta&ccedil;&atilde;o de Barata (2005) &eacute; uma das poucas refer&ecirc;ncias. Trata-se de um completo estudo sobre o comportamento de 402 consumidores da Grande Porto Alegre. O artigo de Martins &amp; Gameiro (2006) &eacute; outra refer&ecirc;ncia. Os pesquisadores investigaram as marcas e pre&ccedil;os de todos os produtos de arroz em nove supermercados da cidade de Ribeir&atilde;o Preto (SP). A constata&ccedil;&atilde;o da grande diversidade de tipos, pre&ccedil;os, marcas e embalagens foi um dos motivos que estimulou a presente pesquisa. Este trabalho analisa os diferentes perfis de prefer&ecirc;ncia dos consumidores finais de arroz, diante dos produtos nas g&ocirc;ndolas dos supermercados em uma cidade no estado do Rio Grande do Sul e outra em S&atilde;o Paulo. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Metodologia</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A teoria econ&ocirc;mica do consumidor parte da premissa de que os consumidores s&atilde;o racionais e buscam sempre maximizar o seu grau de satisfa&ccedil;&atilde;o ou de utilidade, atrav&eacute;s da aquisi&ccedil;&atilde;o de uma determinada combina&ccedil;&atilde;o de produtos. V&aacute;rios fatores s&atilde;o considerados nessa busca pela maximiza&ccedil;&atilde;o da fun&ccedil;&atilde;o de utilidade: quantidade de produto, renda do consumidor, pre&ccedil;o do produto consumido, pre&ccedil;os dos produtos complementares e substitutos, "gostos" e expectativas. Assim, a teoria possibilita explicar como os consumidores tomam as decis&otilde;es de consumo; de que forma a demanda por produtos &eacute; determinada pelas prefer&ecirc;ncias e restri&ccedil;&otilde;es or&ccedil;ament&aacute;rias dos consumidores e por que diferentes produtos apresentam caracter&iacute;sticas de demanda distintas. Sob o ponto de vista microecon&ocirc;mico, uma das etapas da an&aacute;lise do comportamento do consumidor &eacute; a compara&ccedil;&atilde;o entre diferentes combina&ccedil;&otilde;es de mercadorias (cestas de mercado), que permite descrever suas prefer&ecirc;ncias. Uma outra etapa considera as restri&ccedil;&otilde;es or&ccedil;ament&aacute;rias. As prefer&ecirc;ncias s&atilde;o confrontadas com as restri&ccedil;&otilde;es or&ccedil;ament&aacute;rias, sendo poss&iacute;vel definir economicamente o processo de escolha do consumidor (Barata, 2005). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nesta pesquisa, s&atilde;o simuladas diversas decis&otilde;es poss&iacute;veis de serem tomadas pelos consumidores, aqui considerados como "fam&iacute;lias hipot&eacute;ticas". Suas prefer&ecirc;ncias ser&atilde;o modeladas pelo seu comportamento ao exigirem uma marca espec&iacute;fica ou um grupo de marcas l&iacute;deres, ou ao adquirir os produtos em um mercado preferido ou, ainda, ao fazer estoque quando os pre&ccedil;os se mostram mais atrativos. Adota-se como hip&oacute;tese que todas as fam&iacute;lias hipot&eacute;ticas s&atilde;o minimizadoras do seu disp&ecirc;ndio (custo) total anual da compra de arroz. A fun&ccedil;&atilde;o custo total anual de cada fam&iacute;lia estar&aacute; sujeita &agrave;s restri&ccedil;&otilde;es impostas por suas prefer&ecirc;ncias, mencionadas anteriormente. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Desde abril de 2005, no contexto do Projeto Arroz Brasileiro (Rossmann et al., 2003; Perozzi &amp; Rossmann, 2005), o arroz no varejo vem sendo estudado em seis supermercados, sendo tr&ecirc;s na cidade de Pelotas (RS) e tr&ecirc;s na cidade de Piracicaba (SP). Mensalmente, por meio de visitas pessoais de pesquisadores devidamente treinados, s&atilde;o coletados os pre&ccedil;os de todos os produtos relacionados ao arroz em gr&atilde;o (branco, parboilizado, integral, semipronto, risoto, carreteiro etc.). Para a realiza&ccedil;&atilde;o desta pesquisa, foram consideradas as informa&ccedil;&otilde;es mensais no per&iacute;odo compreendido entre julho de 2005 e junho de 2006 (12 meses), relativas ao arroz longo fino, polido, tipo 1 em embalagem pl&aacute;stica de 5 kg. Segundo Barata (2005), esse produto tem a prefer&ecirc;ncia de 75% dos consumidores amostrados na Grande Porto Alegre. Assim, por ser considerado a especifica&ccedil;&atilde;o mais consumida, foi eleita para esta pesquisa. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com os dados de pre&ccedil;os mensais das diferentes marcas nas diferentes lojas, simulou-se o comportamento de fam&iacute;lias hipot&eacute;ticas consumidoras de arroz, cuja prefer&ecirc;ncia poderia variar de acordo com os seguintes fatores: marca, local de compra e forma&ccedil;&atilde;o ou n&atilde;o de estoque. Fixou-se o consumo de arroz da fam&iacute;lia em 120 kg por ano. Para uma fam&iacute;lia de tr&ecirc;s pessoas, por exemplo, equivaleria a um consumo de 40 kg/ano, o que est&aacute; ao redor do consumo per capita nacional. As fam&iacute;lias, quando n&atilde;o optam por fazer estoques, adquirem, por hip&oacute;tese, a mesma quantidade mensal, no caso, 10 kg (ou dois pacotes de 5 kg de arroz) todos os meses. Quando &agrave; fam&iacute;lia &eacute; dada a possibilidade de fazer estoque, a mesma - tamb&eacute;m por hip&oacute;tese - s&oacute; pode adquirir, no m&aacute;ximo a cada compra, o equivalente ao consumo de tr&ecirc;s meses (30 kg ou 6 pacotes de arroz). Essa restri&ccedil;&atilde;o foi proposta porque, na realidade, as fam&iacute;lias nunca sabem quando os pre&ccedil;os ser&atilde;o os mais baratos. Assim, ainda que o modelo matem&aacute;tico possa considerar, n&atilde;o seria correto imaginar que elas possam adivinhar o momento de ocorr&ecirc;ncia dos pre&ccedil;os mais baixos para poder se suprir para o ano inteiro. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outra hip&oacute;tese do modelo &eacute; que n&atilde;o se considera o custo do tempo. Em termos financeiros, os fluxos mensais de disp&ecirc;ndio deveriam ser capitalizados para um mesmo per&iacute;odo, para que possam ser somados. Todavia, esse procedimento n&atilde;o seria poss&iacute;vel em um modelo linear tal como proposto. Como o per&iacute;odo &eacute; relativamente curto (12 meses), o efeito do tempo n&atilde;o &eacute; t&atilde;o significativo, de modo que se espera que esta limita&ccedil;&atilde;o n&atilde;o prejudique os resultados obtidos. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para facilitar a an&aacute;lise, as fam&iacute;lias hipot&eacute;ticas foram organizadas em quatro grupos: i) Grupo A: fam&iacute;lias fi&eacute;is &agrave;s marcas; ii) Grupo B: fam&iacute;lias exigentes em qualidade; iii) Grupo C: fam&iacute;lias fi&eacute;is aos supermercados; e iv) Grupo D: fam&iacute;lias "econ&ocirc;micas" (adquirem sempre o produto com pre&ccedil;o mais baixo em qualquer supermercado). Portanto, quando o texto se referir a um determinado n&uacute;mero de fam&iacute;lias componentes de determinado grupo e subgrupo, entende-se que s&atilde;o n&uacute;meros de fam&iacute;lias hipot&eacute;ticas que t&ecirc;m diferentes padr&otilde;es de comportamentos distintos; comportamento este, simulado pelo modelo. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O custo de aquisi&ccedil;&atilde;o (disp&ecirc;ndio) da quantidade anual necess&aacute;ria para cada fam&iacute;lia - que pode ser representado por uma equa&ccedil;&atilde;o linear do somat&oacute;rio das quantidades adquiridas mensalmente multiplicadas pelos respectivos pre&ccedil;os mensais - deve, portanto, ser minimizado. O modelo geral &eacute; assim representado: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06equ01.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sujeito a: </font></p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06equ02.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sendo <i>P<sub>plt</sub></i> o pre&ccedil;o do arroz da marca <i>p</i>, no local <i>l</i>, no per&iacute;odo <i>t</i>. <i>X<sub>plt</sub></i> &eacute; a quantidade de arroz equivalente, adquirida durante o m&ecirc;s <i>t</i>. O valor a ser assumido pelo somat&oacute;rio de <i>X<sub>plt</sub></i> em um per&iacute;odo de 12 meses foi fixado em 24 pacotes de 5 kg (equivalentes a um consumo de 120 kg por fam&iacute;lia/ano). Os demais par&acirc;metros foram assim definidos: i) Marcas (<i>p</i>): s&atilde;o consideradas 12 marcas de arroz, sendo quatro "l&iacute;deres": Tio Jo&atilde;o, Blue Ville, Prato Fino e Camil (o crit&eacute;rio para a elei&ccedil;&atilde;o das marcas disse respeito &agrave; sua freq&uuml;&ecirc;ncia de ocorr&ecirc;ncia nos supermercados pesquisados, conforme ser&aacute; mencionado mais detalhadamente nos resultados); ii) Locais (<i>l</i>): s&atilde;o considerados seis supermercados, sendo tr&ecirc;s na cidade de Pelotas - RS (Big, Guanabara e Pois-Pois) e tr&ecirc;s na cidade de Piracicaba - SP (Big, Carrefour e P&atilde;o de A&ccedil;&uacute;car). Para as duas cidades, tem-se, portanto, os tr&ecirc;s maiores supermercados existentes. Nas situa&ccedil;&otilde;es em que a fam&iacute;lia pode optar por locais diferentes, sua op&ccedil;&atilde;o fica restrita aos tr&ecirc;s supermercados da sua localidade; e iii) Per&iacute;odo (<i>t</i>): s&atilde;o considerados os 12 meses do ano, sendo o per&iacute;odo compreendido entre julho de 2005 e junho de 2006. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partir da defini&ccedil;&atilde;o do modelo geral, o padr&atilde;o de consumo de cada fam&iacute;lia - que s&atilde;o organizadas tamb&eacute;m em subgrupos - passa a ser definido seguindo suas especifica&ccedil;&otilde;es: </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>i) Grupo A: fam&iacute;lias fi&eacute;is &agrave;s marcas: Subgrupo 1A: </b>s&atilde;o fam&iacute;lias que consomem sempre a mesma marca, adquirida no mesmo supermercado e na mesma quantidade todos os meses. Assim, o conjunto formado por essas fam&iacute;lias pode ser composto por, no m&aacute;ximo: 12 marcas vezes 6 supermercados, resultando em 72 fam&iacute;lias (<a href="#qua1">Quadro 1</a>). <b>Subgrupo 2A: </b>s&atilde;o fam&iacute;lias que consomem sempre a mesma marca, mas pesquisam os pre&ccedil;os nos supermercados da sua cidade, adquirindo o produto com pre&ccedil;o inferior encontrado nas lojas. Tamb&eacute;m adquirem a mesma quantidade todos os meses. Assim, o conjunto formado por essas fam&iacute;lias pode ser composto por, no m&aacute;ximo: 12 marcas vezes 1 supermercado no RS, mais 12 marcas vezes 1 supermercado em SP, portanto 24 fam&iacute;lias (<a href="#qua1">Quadro 1</a>). <b>Subgrupo 3A: </b>s&atilde;o fam&iacute;lias que consomem a mesma marca, mas, al&eacute;m de pesquisarem os pre&ccedil;os nos supermercados, adotam a estrat&eacute;gia de fazer estoques (de, no m&aacute;ximo, tr&ecirc;s meses). O conjunto formado por essas fam&iacute;lias pode ser de, no m&aacute;ximo, 24 fam&iacute;lias. Este modelo &eacute; equivalente ao do subgrupo 2A, por&eacute;m, com diferen&ccedil;a na restri&ccedil;&atilde;o da quantidade adquirida mensalmente (<a href="#qua1">Quadro 1</a>). </font></p>     <p><a name="qua1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06qua01.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ii) Grupo B: fam&iacute;lias exigentes em marcas l&iacute;deres: Subgrupo 1B: </b>s&atilde;o fam&iacute;lias que consomem qualquer marca dentre as quatro l&iacute;deres, adquirida no mesmo supermercado e na mesma quantidade todos os meses. Assim, o conjunto formado por essas fam&iacute;lias pode ser composto por, no m&aacute;ximo, 6 fam&iacute;lias (uma para cada um dos supermercados) (<a href="#qua2">Quadro 2</a>). <b>Subgrupo 2B: </b>s&atilde;o fam&iacute;lias que consomem qualquer marca dentre as l&iacute;deres, mas pesquisam os pre&ccedil;os nos supermercados da sua cidade, adquirindo a de cota&ccedil;&atilde;o inferior encontrado. Tamb&eacute;m compram a mesma quantidade todos os meses. Assim, o conjunto formado por essas fam&iacute;lias pode, no m&aacute;ximo, ser composto por: 1 supermercado no RS, mais 1 supermercado em SP, portanto 2 fam&iacute;lias (<a href="#qua2">Quadro 2</a>). <b>Subgrupo 3B: </b>s&atilde;o fam&iacute;lias que consomem qualquer marca dentre as l&iacute;deres, mas, al&eacute;m de pesquisarem os pre&ccedil;os nos supermercados, adotam a estrat&eacute;gia de fazer estoques (de, no m&aacute;ximo, tr&ecirc;s meses). O conjunto formado por essas fam&iacute;lias pode ser de, no m&aacute;ximo, 2 fam&iacute;lias. Este modelo &eacute; equivalente ao do subgrupo 2B, por&eacute;m, com diferen&ccedil;a na restri&ccedil;&atilde;o da quantidade adquirida mensalmente (<a href="#qua2">Quadro 2</a>). </font></p>     <p><a name="qua2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06qua02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>iii) Grupo C: fam&iacute;lias fi&eacute;is aos supermercados: Subgrupo 1C: </b>s&atilde;o fam&iacute;lias que consomem o produto de pre&ccedil;o inferior, desde que adquirido no mesmo supermercado e na mesma quantidade todos os meses. Assim, o conjunto formado por essas fam&iacute;lias pode, no m&aacute;ximo, ser composto por: 1 marca vezes 6 supermercados, resultando em 6 fam&iacute;lias (<a href="#qua3">Quadro 3</a>). <b>Subgrupo 2C: </b>s&atilde;o fam&iacute;lias que consomem o produto de pre&ccedil;o inferior, adquirido no mesmo supermercado; mas adotam a estrat&eacute;gia de fazer estoques (de, no m&aacute;ximo, tr&ecirc;s meses). O conjunto formado por essas fam&iacute;lias pode ser de, no m&aacute;ximo, 6 fam&iacute;lias. Este modelo &eacute; equivalente ao do subgrupo 1C, por&eacute;m com diferen&ccedil;a na restri&ccedil;&atilde;o da quantidade adquirida mensalmente (<a href="#qua3">Quadro 3</a>). </font></p>     <p><a name="qua3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06qua03.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>iv) Grupo D: fam&iacute;lias "econ&ocirc;micas": Subgrupo 1D: </b>s&atilde;o fam&iacute;lias que consomem o produto de pre&ccedil;o inferior, adquirido no supermercado onde o mesmo pode ser encontrado com menor cota&ccedil;&atilde;o e na mesma quantidade todos os meses. O conjunto formado por essas fam&iacute;lias pode ser de 2 fam&iacute;lias (uma no RS e outra em SP) (<a href="#qua3">Quadro 3</a>). <b>Subgrupo 2D: </b>s&atilde;o fam&iacute;lias que consomem o produto de pre&ccedil;o inferior, adquirido no supermercado de menor cota&ccedil;&atilde;o, e adotam a estrat&eacute;gia de fazer estoques (de, no m&aacute;ximo, 3 meses). O conjunto formado por essas fam&iacute;lias pode ser de 2 fam&iacute;lias (uma no RS e outra em SP). Este modelo &eacute; equivalente ao do subgrupo 1D, por&eacute;m, com diferen&ccedil;a na restri&ccedil;&atilde;o da quantidade adquirida mensalmente (<a href="#qua3">Quadro 3</a>). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O processamento dos modelos foi realizado utilizando-se o software GAMS (Sistema Geral de Modelagem Alg&eacute;brica). </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Resultados e discuss&atilde;o</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A <a href="#tab1">Tabela 1</a> apresenta a lista de todas as marcas encontradas nos seis supermercados inclu&iacute;dos nesta pesquisa, realizada mensalmente entre julho de 2005 e junho de 2006. </font></p>     <p><a name="tab1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06tab01.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">O "&Iacute;ndice de Freq&uuml;&ecirc;ncia" refere-se &agrave; porcentagem das ocasi&otilde;es nas quais uma dada marca foi encontrada em um determinado supermercado em um certo m&ecirc;s. Assim, o &iacute;ndice de 100% significaria que a marca foi encontrada em todos os 12 meses em todos os seis supermercados visitados. Observa-se que nenhuma marca atingiu esse &iacute;ndice. As 12 marcas eleitas para compor as cestas das fam&iacute;lias da pesquisa apresentaram &iacute;ndices superiores a 30%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Das 146 fam&iacute;lias hipot&eacute;ticas idealizadas com seus padr&otilde;es de consumo distintos, apenas 75 poderiam ter sido estritamente verificadas na realidade. Tais informa&ccedil;&otilde;es s&atilde;o apresentadas na <a href="#tab2">Tabela 2</a>. </font></p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06tab02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A an&aacute;lise das <a href="#tab1">Tabelas 1</a> e <a href="#tab2">2</a> sugere que h&aacute; uma grande variabilidade na oferta da maioria das marcas de arroz existentes no varejo. As fam&iacute;lias do subgrupo 1A s&atilde;o aquelas que sempre consumiriam a mesma marca adquirida na mesma loja. Das 72 possibilidades, apenas 13 sempre encontrariam a sua marca preferida no seu supermercado preferido. Mesmo flexibilizando a exig&ecirc;ncia de ter que comprar em um mesmo supermercado, mas mantendo sua fidelidade &agrave;s marcas preferidas, algumas fam&iacute;lias do subgrupo 2A teriam dificuldade de se suprir, dependendo do m&ecirc;s: apenas 14 fam&iacute;lias foram verificadas na pr&aacute;tica, dentre um total te&oacute;rico de 24 possibilidades. Ainda no Grupo A, a possibilidade de adquirir a marca exclusiva em quantidade suficiente para tr&ecirc;s meses de consumo (estoque) facilitaria o suprimento das fam&iacute;lias do subgrupo 3A, sendo que 22 das 24 fam&iacute;lias poderiam adotar tal estrat&eacute;gia. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A an&aacute;lise dos custos m&iacute;nimos anuais de suprimento das fam&iacute;lias apresenta resultados bastante interessantes. As <a href="#tab1a">Tabelas 1A</a> e <a href="#tab2a">2A</a> do Anexo apresentam dados de custos do consumo anual das fam&iacute;lias para cada um dos modelos propostos, no Rio Grande do Sul e em S&atilde;o Paulo, respectivamente. Al&eacute;m da informa&ccedil;&atilde;o de custo m&iacute;nimo do consumo anual, foi calculada a varia&ccedil;&atilde;o entre esse custo e um custo de refer&ecirc;ncia representado pelo custo m&iacute;nimo do subgrupo 1D (das fam&iacute;lias "econ&ocirc;micas", que compram o produto de menor pre&ccedil;o encontrado em um dos tr&ecirc;s supermercados da sua cidade). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No escopo temporal e regional considerado na pesquisa, tem-se que uma fam&iacute;lia poderia se suprir a partir de um disp&ecirc;ndio anual m&iacute;nimo de R$ 89,52 at&eacute; um disp&ecirc;ndio m&aacute;ximo de R$ 235,14 por ano no Rio Grande do Sul. Trata-se de uma amplitude significativa de 163%. Para S&atilde;o Paulo, essa amplitude seria de 54%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As <a href="#tab3">Tabelas 3</a> e <a href="#tab4">4</a> apresentam as m&eacute;dias dos custos anuais m&iacute;nimos para cada subgrupo. Essa agrega&ccedil;&atilde;o facilita a compreens&atilde;o dos resultados. </font></p>     ]]></body>
+<body><![CDATA[<p><a name="tab3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06tab03.jpg"></p>     <p>&nbsp;</p>     <p><a name="tab4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06tab04.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As fam&iacute;lias do subgrupo 2D foram aquelas com as cestas de menor custo, para as duas localidades consideradas. Essas seriam fam&iacute;lias que consumiriam o produto de pre&ccedil;o mais baixo encontrado em um dos tr&ecirc;s supermercados da sua cidade, independentemente de marca ou loja. Al&eacute;m disso, essas fam&iacute;lias optariam por fazer estoques - suficientes para o abastecimento de at&eacute; tr&ecirc;s meses -, quando os produtos estivessem em promo&ccedil;&atilde;o. O custo dessas fam&iacute;lias, no Sul, seria 16,7% menor que a refer&ecirc;ncia, e, em S&atilde;o Paulo, 17,4% inferior. As fam&iacute;lias que optassem por formar estoque, desde que a escolha fosse sempre pelo produto com menor pre&ccedil;o, poderiam se dar o direito de realizar suas compras em um mesmo supermercado de sua prefer&ecirc;ncia (fam&iacute;lias do subgrupo 2C) que, ainda assim, teriam um custo inferior &agrave; refer&ecirc;ncia, nas duas localidades (-11,9% e -4%, respectivamente). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Agrave; exce&ccedil;&atilde;o desses dois subgrupos de fam&iacute;lias, as demais teriam de desembolsar mais por ano caso quisessem fazer valer suas prefer&ecirc;ncias, seja por uma marca l&iacute;der, seja por uma marca espec&iacute;fica ou, ainda, por um determinado supermercado. As fam&iacute;lias que desejassem adquirir uma dentre as quatro marcas l&iacute;deres do mercado, desde que realizassem estoques e pesquisassem no supermercado mais barato (subgrupo 3B), teriam um custo levemente superior ao da refer&ecirc;ncia (+6,6% no RS e +3,2% em SP). Tais fam&iacute;lias ficaram na quarta posi&ccedil;&atilde;o no ranking de menores custos, para as duas localidades. Em quinto lugar, tamb&eacute;m nas duas localidades, aparecem aquelas fam&iacute;lias estritamente fi&eacute;is aos supermercados, mas n&atilde;o fazem estoques, adquirindo o necess&aacute;rio para o consumo de um m&ecirc;s (fam&iacute;lias do subgrupo 1C). Na m&eacute;dia, essas fam&iacute;lias teriam um custo 6,8% maior que a refer&ecirc;ncia no RS, e 12,4% superior em SP. Em outras palavras, em m&eacute;dia, esse &eacute; o adicional que as fam&iacute;lias pagariam por escolher comprar sempre em uma mesma loja, mesmo que comprassem os produtos mais baratos dispon&iacute;veis. Da sexta posi&ccedil;&atilde;o a oitava surgiram diferen&ccedil;as ordinais entre os custos nos dois estados. No RS, uma fam&iacute;lia que fosse fiel a uma marca espec&iacute;fica, mas que fizesse estoques e procurasse sua marca no supermercado de pre&ccedil;o inferior (subgrupo 3A) teria um custo m&eacute;dio 23,5% maior que o referencial. Esse &eacute; o adicional m&eacute;dio pago pela sua fidelidade &agrave; marca, ainda que precisasse ser acompanhado por um esfor&ccedil;o de manuten&ccedil;&atilde;o de estoque e constante pesquisa nos supermercados concorrentes. Em SP, o adicional seria de 29,1%. A fam&iacute;lia que optasse por uma entre as quatro marcas l&iacute;deres, realizando compras sem fazer estoque, em qualquer supermercado (subgrupo 2B), teria de pagar um adicional m&eacute;dio de 23,8% no RS e de 13,5% em SP. Caso a fam&iacute;lia, al&eacute;m de desejar uma das marcas l&iacute;deres, optasse por adquirir sempre no mesmo supermercado, os desembolsos m&eacute;dios aumentam para 35,9% no RS e 27,9% em SP. A nona e d&eacute;cima posi&ccedil;&otilde;es s&atilde;o equivalentes para as duas localidades. As fam&iacute;lias ga&uacute;chas que mant&ecirc;m suas prefer&ecirc;ncias por consumir sempre a mesma marca, sem fazer estoque (subgrupo 2A), arcariam com um adicional de 36,8% e as paulistas, de 32,5%. Finalmente, &agrave;s fam&iacute;lias que mant&ecirc;m sua fidelidade &agrave;s marcas e &agrave;s lojas freq&uuml;entadas (1A), os adicionais passariam para 55,4% no RS e 38,6% em SP. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Os coment&aacute;rios foram feitos tomando-se as varia&ccedil;&otilde;es percentuais (custos adicionais) a serem incorridos pelas fam&iacute;lias consumidoras. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. Conclus&otilde;es</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A primeira conclus&atilde;o que, inclusive, refere-se a uma das motiva&ccedil;&otilde;es para a realiza&ccedil;&atilde;o desta pesquisa, &eacute; que h&aacute; uma significativa variabilidade local e temporal de marcas, pre&ccedil;os e disponibilidade na oferta de arroz longo-fino tipo 1 em embalagem de 5 kg no varejo. As donas-de-casa conhecem bem essa caracter&iacute;stica do mercado varejista de arroz nos grandes supermercados. Todavia, devem ser explorados os porqu&ecirc;s dessa variabilidade. A amplitude de custos (diferen&ccedil;a percentual do menor custo de consumo anual para o maior custo) encontrada em Pelotas foi de 163% e, em Piracicaba, de 54%, indicando que, apesar de se tratar de um mesmo produto, a marca e a estrat&eacute;gia do supermercado (que se reflete na pol&iacute;tica de pre&ccedil;os e promo&ccedil;&otilde;es) acabam tendo influ&ecirc;ncia significativa sobre os custos das fam&iacute;lias consumidoras de baixa renda. &Agrave; medida que a fam&iacute;lia passa a ser mais exigente para escolher entre algumas lojas espec&iacute;ficas (1C), ou entre um grupo de marcas (2B e 3B) ou uma marca espec&iacute;fica (1A e 2A), os adicionais a serem pagos v&atilde;o aumentando. As promo&ccedil;&otilde;es s&atilde;o estrat&eacute;gias importantes para os ofertantes terem suas demandas incrementadas pela queda do custo anual de consumo das fam&iacute;lias, permitindo &agrave;s mesmas, por exemplo, acesso mais f&aacute;cil &agrave;s marcas de ponta, denominadas "l&iacute;deres" nesta pesquisa (3B). N&atilde;o foi o prop&oacute;sito deste trabalho analisar detalhadamente a economicidade dos estoques, uma vez que os modelos s&atilde;o lineares e n&atilde;o consideram o custo de oportunidade (o valor do dinheiro ao longo do tempo). De qualquer forma, algumas infer&ecirc;ncias s&atilde;o poss&iacute;veis. Quando h&aacute; uma promo&ccedil;&atilde;o em determinada marca, as fam&iacute;lias podem inclu&iacute;-las em sua fun&ccedil;&atilde;o de custo a ser minimizada. Al&eacute;m disso, para as fam&iacute;lias fi&eacute;is estritas a uma marca, a oportunidade de comprar quantidades maiores para a forma&ccedil;&atilde;o de estoques reduz significativamente a varia&ccedil;&atilde;o com o custo de refer&ecirc;ncia. Esse fato foi particularmente mais significativo no Sul. No que se refere ao efeito da procura por produtos de cota&ccedil;&otilde;es inferiores nas diferentes lojas, h&aacute; de se considerar os custos dessas pesquisas, tanto em termos log&iacute;sticos para mudar de loja voltar para o mesmo se for necess&aacute;rio como em rela&ccedil;&atilde;o &agrave; oportunidade do tempo dispon&iacute;vel para tal. Devido &agrave; escassez de tempo da maior parte das fam&iacute;lias, bem como as dist&acirc;ncias geralmente existentes entre as lojas de cidades de m&eacute;dio e grande portes, os ganhos de pre&ccedil;o podem ser anulados e at&eacute; sobrepostos pelos custos da pesquisa, o que significaria n&atilde;o ser uma estrat&eacute;gia adequada. Observa-se que a fidelidade aos supermercados (ou a n&atilde;o-pesquisa em diferentes lojas) gerou adicionais relativamente pequenos. Portanto, adquirir em uma mesma loja parece ser vantajoso para as fam&iacute;lias de renda superior a dois sal&aacute;rios m&iacute;nimos, mesmo porque geralmente h&aacute; uma ou mais de uma marca em promo&ccedil;&atilde;o; da&iacute; compreende-se os objetivos dos supermercados em quase sempre manterem alguma promo&ccedil;&atilde;o de arroz. Como os custos log&iacute;sticos e de oportunidade do tempo das fam&iacute;lias n&atilde;o foram considerados na pesquisa, fica a sugest&atilde;o para trabalhos futuros, que possam melhor elucidar tal quest&atilde;o. Do ponto de vista dos ofertantes, ainda n&atilde;o &eacute; perfeitamente clara a pol&iacute;tica de forma&ccedil;&atilde;o de pre&ccedil;os no varejo, a partir da rela&ccedil;&atilde;o entre beneficiador e supermercado. Apesar da import&acirc;ncia das estrat&eacute;gias promocionais mencionadas, tamanha instabilidade na oferta pode dificultar a fideliza&ccedil;&atilde;o dos consumidores &agrave;s marcas, o que, no longo prazo, pode n&atilde;o ser a melhor estrat&eacute;gia. Ou ainda, talvez seja uma boa estrat&eacute;gia para o varejista, mas n&atilde;o para o propriet&aacute;rio da marca exatamente. Finalmente, deve-se considerar que, apesar das varia&ccedil;&otilde;es observadas nesta pesquisa, o fato &eacute; que as despesas com arroz - em que pese sua import&acirc;ncia nutricional - s&atilde;o relativamente modestas e decrescentes nos &uacute;ltimos anos. Portanto, como j&aacute; reconhecido pela literatura, n&iacute;veis mais elevados de renda fazem com que as prefer&ecirc;ncias das fam&iacute;lias por marcas espec&iacute;ficas e/ou supermercados possam ser manifestadas sem muito esfor&ccedil;o financeiro. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Refer&ecirc;ncias bibliogr&aacute;ficas </b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BARATA, Tiago Sarmento. <b>Caracteriza&ccedil;&atilde;o do consumo de arroz no Brasil: um estudo na Regi&atilde;o Metropolitana de Porto Alegre</b>. Disserta&ccedil;&atilde;o (Mestrado). Porto Alegre: UFRGS/Cepan. 2005. 93 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000089&pid=S0103-2003200800040000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CONAB. Companhia Nacional de Abastecimento. Central de Informa&ccedil;&otilde;es Agropecu&aacute;rias. S&eacute;ries Hist&oacute;ricas de Produ&ccedil;&atilde;o, &Aacute;rea Plantada e Produtividade. In: <a href="http://www.conab.gov.br/conabweb/index.php?PAG=101" target="_blank">http://www.conab.gov.br/conabweb/index.php?PAG=101</a>. Acessado em 19/12/2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000091&pid=S0103-2003200800040000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DIAS, M.F.P.; FENSTERSEIFER, J.E. <b>Crit&eacute;rios competitivos de opera&ccedil;&otilde;es agroindustriais: um estudo de caso no setor arrozeiro</b>. Revista Eletr&ocirc;nica de Administra&ccedil;&atilde;o. Porto Alegre, edi&ccedil;&atilde;o 45, v.11, n.3, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000093&pid=S0103-2003200800040000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DICKOW, Leila. <b>Ambiente externo e an&aacute;lise do portf&oacute;lio de produtos de uma ind&uacute;stria de arroz: um estudo de caso</b>. 2002. Disserta&ccedil;&atilde;o (mestrado profissional) da Universidade Federal do Rio Grande do Sul. Escola de Administra&ccedil;&atilde;o. Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Administra&ccedil;&atilde;o, Porto Alegre, 2002.  76p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000095&pid=S0103-2003200800040000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FERREIRA, C. M.; MENDEZ DEL VILLAR, P.; GAMEIRO, A. H.; ALMEIDA, P. N. A. <b>Estrat&eacute;gias, impactos das pol&iacute;ticas e entraves na comercializa&ccedil;&atilde;o do arroz de terras altas em Mato Grosso</b>. In: Congresso da cadeia produtiva de arroz, I / Reuni&atilde;o Nacional de Pesquisa De Arroz, VII, Florian&oacute;polis, 2002. Documentos 134. Santo Ant&ocirc;nio de Goi&aacute;s: Embrapa Arroz e Feij&atilde;o, 2002. p.88-91.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000097&pid=S0103-2003200800040000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FERREIRA, C.M., ALMEIDA, P.N.A., GAMEIRO, A.H. <b>Mercado e pre&ccedil;os do arroz no Brasil: &oacute;bices do arroz de terras altas</b>. In: Congresso Brasileiro de Economia e Sociologia Rural, XLI, Juiz de Fora, 2003. Anais. Embrapa Gado de Leite, 2003. p.48 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000099&pid=S0103-2003200800040000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FERREIRA, Carlos Magri; PINHEIRO, Beatriz da Silva; SOUSA, Ivan S&eacute;rgio Freire; MORAIS, Orlando Peixoto de. <b>Qualidade do arroz no Brasil: evolu&ccedil;&atilde;o e padroniza&ccedil;&atilde;o</b>. Santo Ant&ocirc;nio de Goi&aacute;s: Embrapa Arroz e Feij&atilde;o, 2005. 61 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000100&pid=S0103-2003200800040000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">IRGA. Instituto Rio Grandense do Arroz. Secretaria da Agricultura e Abastecimento. Governo do Estado do Rio Grande do Sul. Campanha de Incentivo ao Consumo de Arroz. In: <a href="http://200.96.107.174/comaarroz/paginas/acampanha.php" target="_blank">http://200.96.107.174/comaarroz/paginas/acampanha.php</a>. Acessado em 19/12/2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000102&pid=S0103-2003200800040000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LOBO, Irene. Consumo de arroz cai 46% em 30 anos, revela pesquisa do IBGE. Brasil Agora. Ag&ecirc;ncia Brasil. In: <a href="http://www.radiobras.gov.br" target="_blank">http://www.radiobras.gov.br</a>, 19/05/2004. Acessado em: 19/12/2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000104&pid=S0103-2003200800040000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LUDWIG, V. S. <b>A agroind&uacute;stria Processadora de Arroz: Um Estudo das Principais Caracter&iacute;sticas Organizacionais e Estrat&eacute;gicas das Empresas L&iacute;deres Ga&uacute;chas</b>. Disserta&ccedil;&atilde;o de Mestrado em Agroneg&oacute;cios da Universidade Federal do Rio Grande do Sul. Porto Alegre, 2004. 157p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000106&pid=S0103-2003200800040000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MARTINS, Ricardo Artur; GAMEIRO, Augusto Hauber. <b>A import&acirc;ncia do marketing na comercializa&ccedil;&atilde;o do arroz. </b>Ribeir&atilde;o Preto, 2005. In: GAMEIRO, Augusto Hauber (org.) Competitividade do agroneg&oacute;cio brasileiro: textos selecionados. Santa Cruz do Rio Pardo: Viena, 2006. v.1, 235p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000108&pid=S0103-2003200800040000600011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">M&Eacute;NDEZ DEL VILLAR, P. <b>Tend&ecirc;ncias da produ&ccedil;&atilde;o e do com&eacute;rcio mundial do arroz</b>. In: Congresso da Cadeia Produtiva de Arroz, 1.: Reuni&atilde;o Nacional de Pesquisa de Arroz, 7, 2002. p. 111-114. (Embrapa Arroz e Feij&atilde;o. Documentos, 134).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S0103-2003200800040000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MIRANDA, O.C.; FIGUEIREDO, A.M.R. <b>An&aacute;lise da transmiss&atilde;o de pre&ccedil;os na comercializa&ccedil;&atilde;o de arroz no Estado de Mato Grosso, no per&iacute;odo de 1991 a 2001</b>. In: Congresso Brasileiro de Economia e Sociologia Rural, XLI, Juiz de Fora, 2003. Anais. Juiz de Fora: Embrapa Gado de Leite, 2003. p.37 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S0103-2003200800040000600013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PEROZZI, M. B.; ROSSMANN, H. <b>A import&acirc;ncia da informa&ccedil;&atilde;o para a agricultura e o projeto arroz brasileiro</b>. In: Congresso Brasileiro de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural, 2, 2005, Piracicaba. Anais do 2 Congresso Brasileiro de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural. Piracicaba: Fealq, 2005. p. 273-277.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S0103-2003200800040000600014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ROSSMANN, H.; BARATA, T. S.; GAMEIRO, A. H. <b>Sistemas de informa&ccedil;&atilde;o na orizicultura brasileira</b>. In: Confer&ecirc;ncia Internacional de Arroz de Clima Templado, 3er, Punta del Este, 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S0103-2003200800040000600015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">VIANA, Jo&atilde;o Garibaldi Almeida; SOUZA, Renato Santos. <b>An&aacute;lise do comportamento dos pre&ccedil;os hist&oacute;ricos do arroz no Rio Grande do Sul de 1973 a 2005</b>. In: Congresso da Sociedade Brasileira de Economia e Sociologia Rural, XLIV, Fortaleza, 2006. Anais do XLIV Congresso Brasileiro de Economia e Sociologia Rural. CD-Rom.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S0103-2003200800040000600016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="nt1"></a><a href="#inicio">1</a> Os autores agradecem a: Eraci Silva Oleiro, Jo&atilde;o Lu&iacute;s Prietto Gameiro e Marcel Eduardo Bergamasco pelas relevantes contribui&ccedil;&otilde;es para esta pesquisa.</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>ANEXO </b></font></p>     <p><a name="tab1a"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06tab1a.jpg"></p>     <p>&nbsp;</p>     <p><a name="tab2a"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a06tab2a.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARATA]]></surname>
+<given-names><![CDATA[Tiago Sarmento]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Caracterização do consumo de arroz no Brasil: um estudo na Região Metropolitana de Porto Alegre]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>CONAB. Companhia Nacional de Abastecimento^dCentral de Informações Agropecuárias</collab>
+<article-title xml:lang="pt"><![CDATA[Séries Históricas de Produção, Área Plantada e Produtividade]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIAS]]></surname>
+<given-names><![CDATA[M.F.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FENSTERSEIFER]]></surname>
+<given-names><![CDATA[J.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Critérios competitivos de operações agroindustriais: um estudo de caso no setor arrozeiro]]></article-title>
+<source><![CDATA[Revista Eletrônica de Administração]]></source>
+<year>2005</year>
+<volume>11</volume>
+<numero>3</numero>
+<issue>3</issue>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DICKOW]]></surname>
+<given-names><![CDATA[Leila.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ambiente externo e análise do portfólio de produtos de uma indústria de arroz: um estudo de caso]]></source>
+<year>2002</year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[C. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MENDEZ DEL VILLAR]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GAMEIRO]]></surname>
+<given-names><![CDATA[A. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[P. N. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estratégias, impactos das políticas e entraves na comercialização do arroz de terras altas em Mato Grosso]]></article-title>
+<source><![CDATA[]]></source>
+<year>2002</year>
+<month>20</month>
+<day>02</day>
+<conf-name><![CDATA[IVII Congresso da cadeia produtiva de arrozReunião Nacional de pesquisa De Arroz]]></conf-name>
+<conf-loc> </conf-loc>
+<page-range>88-91</page-range><publisher-loc><![CDATA[FlorianópolisSanto Antônio de Goiás ]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa Arroz e Feijão]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALMEIDA]]></surname>
+<given-names><![CDATA[P.N.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GAMEIRO]]></surname>
+<given-names><![CDATA[A.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Mercado e preços do arroz no Brasil: óbices do arroz de terras altas]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2003</year>
+<conf-name><![CDATA[XLI Congresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-date>2003</conf-date>
+<conf-loc>Juiz de Fora </conf-loc>
+<page-range>48</page-range><publisher-name><![CDATA[Embrapa Gado de Leite]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA]]></surname>
+<given-names><![CDATA[Carlos Magri]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PINHEIRO]]></surname>
+<given-names><![CDATA[Beatriz da Silva]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUSA]]></surname>
+<given-names><![CDATA[Ivan Sérgio Freire]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORAIS]]></surname>
+<given-names><![CDATA[Orlando Peixoto de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Qualidade do arroz no Brasil: evolução e padronização]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Santo Antônio de Goiás ]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa Arroz e Feijão]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="">
+<collab>Governo do Estado do Rio Grande do Sul^dInstituto Rio Grandense do Arroz. Secretaria da Agricultura e Abastecimento.</collab>
+<source><![CDATA[Campanha de Incentivo ao Consumo de Arroz]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOBO]]></surname>
+<given-names><![CDATA[Irene]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Consumo de arroz cai 46% em 30 anos, revela pesquisa do IBGE. Brasil Agora. Agência Brasil]]></article-title>
+<source><![CDATA[]]></source>
+<year>19/0</year>
+<month>5/</month>
+<day>20</day>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LUDWIG]]></surname>
+<given-names><![CDATA[V. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A agroindústria Processadora de Arroz: Um Estudo das Principais Características Organizacionais e Estratégicas das Empresas Líderes Gaúchas]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MARTINS]]></surname>
+<given-names><![CDATA[Ricardo Artur]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GAMEIRO]]></surname>
+<given-names><![CDATA[Augusto Hauber]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A importância do marketing na comercialização do arroz]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[GAMEIRO]]></surname>
+<given-names><![CDATA[Augusto Hauber]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Competitividade do agronegócio brasileiro: textos selecionados]]></source>
+<year>2006</year>
+<volume>1</volume>
+<publisher-loc><![CDATA[Santa Cruz do Rio Pardo ]]></publisher-loc>
+<publisher-name><![CDATA[Viena]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MÉNDEZ DEL VILLAR]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Tendências da produção e do comércio mundial do arroz]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[17 Congresso da Cadeia Produtiva de ArrozReunião Nacional de Pesquisa de Arroz]]></conf-name>
+<conf-date>2002</conf-date>
+<conf-loc> </conf-loc>
+<page-range>111-114</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[O.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[A.M.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise da transmissão de preços na comercialização de arroz no Estado de Mato Grosso, no período de 1991 a 2001]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2003</year>
+<conf-name><![CDATA[XLI Congresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-date>2003</conf-date>
+<conf-loc>Juiz de Fora </conf-loc>
+<page-range>37</page-range><publisher-loc><![CDATA[Juiz de Fora ]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa Gado de Leite]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEROZZI]]></surname>
+<given-names><![CDATA[M. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSSMANN]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A importância da informação para a agricultura e o projeto arroz brasileiro]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2005</year>
+<conf-name><![CDATA[22 Congresso Brasileiro de Assistência Técnica e Extensão RuralCongresso Brasileiro de Assistência Técnica e Extensão Rural]]></conf-name>
+<conf-date>2005</conf-date>
+<conf-loc>Piracicaba </conf-loc>
+<page-range>273-277</page-range><publisher-name><![CDATA[Fealq]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSSMANN]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARATA]]></surname>
+<given-names><![CDATA[T. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GAMEIRO]]></surname>
+<given-names><![CDATA[A. H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Sistemas de informação na orizicultura brasileira]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[3 Conferência Internacional de Arroz de Clima Templado]]></conf-name>
+<conf-date>2003</conf-date>
+<conf-loc>Punta del Este </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VIANA]]></surname>
+<given-names><![CDATA[João Garibaldi Almeida]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[Renato Santos]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise do comportamento dos preços históricos do arroz no Rio Grande do Sul de 1973 a 2005]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year></year>
+<conf-name><![CDATA[XLIVXLIV Congresso da Sociedade Brasileira de Economia e Sociologia RuralCongresso Brasileiro de Economia e Sociologia Rural]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>Fortaleza </conf-loc>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

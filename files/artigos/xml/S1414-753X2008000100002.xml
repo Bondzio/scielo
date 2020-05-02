@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1414-753X</journal-id>
+<journal-title><![CDATA[Ambiente & Sociedade]]></journal-title>
+<abbrev-journal-title><![CDATA[Ambient. soc.]]></abbrev-journal-title>
+<issn>1414-753X</issn>
+<publisher>
+<publisher-name><![CDATA[ANPPAS - Revista Ambiente e Sociedade]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1414-753X2008000100002</article-id>
+<article-id pub-id-type="doi">10.1590/S1414-753X2008000100002</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Meteorologia e poluição atmosférica]]></article-title>
+<article-title xml:lang="en"><![CDATA[Meteorology and atmospheric pollution]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Moreira]]></surname>
+<given-names><![CDATA[Davidson Martins]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Tirabassi]]></surname>
+<given-names><![CDATA[Tiziano]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Moraes]]></surname>
+<given-names><![CDATA[Marcelo Romero de]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal do Pampa Programa de Pós-Graduação em Engenharia Mecânica ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal do Rio Grande do Sul  ]]></institution>
+<addr-line><![CDATA[Porto Alegre RS]]></addr-line>
+<country>Brasil</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Institute of Atmospheric Sciences and Climate  ]]></institution>
+<addr-line><![CDATA[Bologna ]]></addr-line>
+<country>Itália</country>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Empresa de Pesquisa Agropecuária e Extensão Rural  ]]></institution>
+<addr-line><![CDATA[Florianópolis SC]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2008</year>
+</pub-date>
+<volume>11</volume>
+<numero>1</numero>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1414-753X2008000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1414-753X2008000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1414-753X2008000100002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Neste trabalho apresentam-se os principais aspectos relacionados à meteorologia ligada ao processo de dispersão turbulenta de poluentes atmosféricos. Ressalta-se que a meteorologia desempenha um papel fundamental para o controle da qualidade do ar, pois os eventos meteorológicos guiam a dispersão de poluentes e sua deposição no solo. Discutem-se os recentes melhoramentos da descrição e previsão dos fenômenos que envolvem a poluição atmosférica considerando a melhoria da qualidade de vida da população.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This work shows the main aspects related to the meteorology linked to the process of turbulent dispersion of atmospheric pollutants. It is pointed out that meteorology is fundamental to air quality control, and meteorological events guide the pollutant dispersion and its deposition on the soil. Recent improvements on the description and forecast of the phenomena that involve atmospheric pollution, considering the population quality of life, are discussed.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Meteorologia]]></kwd>
+<kwd lng="pt"><![CDATA[Poluição do ar]]></kwd>
+<kwd lng="pt"><![CDATA[Qualidade do ar]]></kwd>
+<kwd lng="pt"><![CDATA[Dispersão de poluentes]]></kwd>
+<kwd lng="pt"><![CDATA[Modelos de dispersão]]></kwd>
+<kwd lng="en"><![CDATA[Meteorology]]></kwd>
+<kwd lng="en"><![CDATA[Air pollution]]></kwd>
+<kwd lng="en"><![CDATA[Air quality]]></kwd>
+<kwd lng="en"><![CDATA[Pollutant dispersion]]></kwd>
+<kwd lng="en"><![CDATA[Dispersion models]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ARTIGOS</b></font></p>    <p>&nbsp;</p>    <p><a name="top"></a><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>Meteorologia  e polui&ccedil;&atilde;o atmosf&eacute;rica</b></font></p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Meteorology  and atmospheric pollution</b></font></p>    <p>&nbsp;</p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Davidson  Martins Moreira<sup>I</sup>; Tiziano Tirabassi<sup>II</sup>; Marcelo Romero de  Moraes<sup>III</sup></b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Programa  de P&oacute;s-Gradua&ccedil;&atilde;o em Engenharia Mec&acirc;nica - PROMEC, Universidade  Federal do Pampa - UNIPAMPA, Universidade Federal do Rio Grande do Sul - UFRGS,  Porto Alegre, RS, Brasil    <br><sup>II</sup>Institute of Atmospheric Sciences and  Climate - ISAC/CNR - Bologna, It&aacute;lia    ]]></body>
+<body><![CDATA[<br><sup>III</sup>Empresa de Pesquisa  Agropecu&aacute;ria e Extens&atilde;o Rural - EPAGRI/CIRAM , Florian&oacute;polis,  SC, Brasil</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="#back">Autor  para correspond&ecirc;ncia</a></font></p>    <p>&nbsp;</p>    <p>&nbsp;</p><hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  Neste trabalho apresentam-se os principais aspectos relacionados &agrave; meteorologia  ligada ao processo de dispers&atilde;o turbulenta de poluentes atmosf&eacute;ricos.  Ressalta-se que a meteorologia desempenha um papel fundamental para o controle  da qualidade do ar, pois os eventos meteorol&oacute;gicos guiam a dispers&atilde;o  de poluentes e sua deposi&ccedil;&atilde;o no solo. Discutem-se os recentes melhoramentos  da descri&ccedil;&atilde;o e previs&atilde;o dos fen&ocirc;menos que envolvem  a polui&ccedil;&atilde;o atmosf&eacute;rica considerando a melhoria da qualidade  de vida da popula&ccedil;&atilde;o.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chave:  </b> Meteorologia. Polui&ccedil;&atilde;o do ar. Qualidade do ar. Dispers&atilde;o  de poluentes. Modelos de dispers&atilde;o.</font></p><hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  This work shows the main aspects related to the meteorology linked to the process  of turbulent dispersion of atmospheric pollutants. It is pointed out that meteorology  is fundamental to air quality control, and meteorological events guide the pollutant  dispersion and its deposition on the soil. Recent improvements on the description  and forecast of the phenomena that involve atmospheric pollution, considering  the population quality of life, are discussed.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Keywords:</b>  Meteorology. Air pollution. Air quality. Pollutant dispersion. Dispersion models.</font></p><hr size="1" noshade>      ]]></body>
+<body><![CDATA[<p>&nbsp;</p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1  <i>Introdu&ccedil;&atilde;o</i></b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O  controle da polui&ccedil;&atilde;o atmosf&eacute;rica em escala local ou regional  &eacute; realizado, usualmente, atrav&eacute;s de rede de monitoramento da qualidade  do ar. Esta rede constitui um instrumento &uacute;til para a seguran&ccedil;a  da sa&uacute;de humana e do ambiente, e permite analisar o benef&iacute;cio de  a&ccedil;&otilde;es de saneamento e predispor interven&ccedil;&otilde;es espec&iacute;ficas  no caso de acontecer supera&ccedil;&atilde;o dos n&iacute;veis do limiar estabelecido  pela legisla&ccedil;&atilde;o (MOREIRA; TIRABASSI, 2004a).</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por  motivos de car&aacute;ter econ&ocirc;mico e administrativo, o n&uacute;mero de  pontos de medida de uma rede &eacute; limitado e, acima de tudo, a disposi&ccedil;&atilde;o  espacial delas pode n&atilde;o ter sido estudada cuidadosamente, podendo estar  posicionada em um local pouco representativo. Por este motivo, os modelos matem&aacute;ticos  que simulam o transporte e a difus&atilde;o dos poluentes na atmosfera constituem  uma ferramenta importante para auxiliar as medidas de concentra&ccedil;&otilde;es  e saber a evolu&ccedil;&atilde;o das mesmas. Uma vez acertada a boa qualidade  da resposta fornecida por um modelo, isto permite analisar a contribui&ccedil;&atilde;o  das diversas fontes para a polui&ccedil;&atilde;o geral, e ent&atilde;o endere&ccedil;ar  corretamente eventuais a&ccedil;&otilde;es de limita&ccedil;&atilde;o das emiss&otilde;es.  Somente com modelos matem&aacute;ticos &eacute; poss&iacute;vel fazer previs&otilde;es  ou simular campos de concentra&ccedil;&atilde;o em conex&atilde;o com pol&iacute;ticas  de limita&ccedil;&atilde;o da libera&ccedil;&atilde;o de poluentes em concord&acirc;ncia  com planos de melhoria da qualidade de vida da popula&ccedil;&atilde;o. A introdu&ccedil;&atilde;o  da modelagem matem&aacute;tica produz um salto de qualidade na gest&atilde;o da  polui&ccedil;&atilde;o atmosf&eacute;rica em respeito &agrave;quela poss&iacute;vel  somente atrav&eacute;s de medidas, porque os modelos permitem fun&ccedil;&otilde;es  n&atilde;o acess&iacute;veis &agrave;s &uacute;ltimas.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na  utiliza&ccedil;&atilde;o dos modelos, grande import&acirc;ncia tem a descri&ccedil;&atilde;o  dos processos que governam o transporte e a difus&atilde;o dos poluentes. Estes  processos s&atilde;o geralmente descritos por pr&eacute;-processadores meteorol&oacute;gicos  para descrever o transporte devido ao vento e &agrave; sua variabilidade, que  &eacute; &uacute;til aos diversos modelos para calcular a dispers&atilde;o dos  poluentes. Eles resultam ser extremamente &uacute;teis quando se deve descrever  fen&ocirc;menos locais como as circula&ccedil;&otilde;es de brisa terra-mar e/ou  de vale-montanha.</font></p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2  <i>O transporte de poluentes</i></b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  atmosfera atua sobre as subst&acirc;ncias poluentes atrav&eacute;s de dois fen&ocirc;menos  fundamentais: o transporte e a difus&atilde;o. Para determinar o campo de vento  (respons&aacute;vel pelo transporte) existem v&aacute;rios procedimentos codificados  nos modelos matem&aacute;ticos chamados de modelos meteorol&oacute;gicos ou de  campo de vento. Os modelos meteorol&oacute;gicos s&atilde;o c&oacute;digos computacionais  que permitem reconstruir a evolu&ccedil;&atilde;o espa&ccedil;o-temporal da vari&aacute;vel  que descreve o fluido atmosf&eacute;rico. Podem ser utilizados sozinhos, para  validar as condi&ccedil;&otilde;es meteorol&oacute;gicas passadas ou futuras,  ou como pr&eacute;-processadores de modelos de dispers&atilde;o. A aplica&ccedil;&atilde;o  de modelos de qualidade do ar necessita, freq&uuml;entemente, um conhecimento  mais aprofundado da estrutura meteorol&oacute;gica da &aacute;rea em an&aacute;lise  do que as medidas podem fornecer, seja do detalhamento espa&ccedil;o-temporal,  seja da tipologia.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em  fun&ccedil;&atilde;o da escala espacial de aplica&ccedil;&atilde;o, os modelos  meteorol&oacute;gicos podem ser definidos da seguinte forma:</font></p><ul>     ]]></body>
+<body><![CDATA[<li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Modelos  de escala global: t&ecirc;m, como dom&iacute;nio de c&aacute;lculo, o planeta  inteiro e reconstroem a circula&ccedil;&atilde;o de grande escala;</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Modelos  de mesoescala: operam em uma escala espacial de 100 a qualquer milhar de quil&ocirc;metros;  e</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Modelos  de escala regional e local: operam em uma escala espacial da ordem de dezenas/centenas  de quil&ocirc;metros e permitem reconstruir a influ&ecirc;ncia local do fluxo  atmosf&eacute;rico (efeitos da orografia e presen&ccedil;a de interfaces heterog&ecirc;neas,  por exemplo).</font></li>    </ul>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os  modelos meteorol&oacute;gicos s&atilde;o, normalmente, aplicados como pr&eacute;-processadores  de modelos de qualidade do ar e podem, eventualmente, utilizar suas sa&iacute;das  em modelos de escala maior para a defini&ccedil;&atilde;o da circula&ccedil;&atilde;o  de grande escala. Os modelos meteorol&oacute;gicos podem ser separados em duas  grandes fam&iacute;lias: modelos diagn&oacute;sticos e modelos progn&oacute;sticos.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>2.1  Os modelos diagn&oacute;sticos</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os  modelos diagn&oacute;sticos consistem, fundamentalmente, em algoritmos para interpolar  as medidas efetuadas no dom&iacute;nio de c&aacute;lculo. Os modelos mais difundidos  que pertencem a este grupo s&atilde;o os considerados modelos massa-consistente,  baseados na equa&ccedil;&atilde;o de conserva&ccedil;&atilde;o da massa, da qual  vem o nome.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em  geral, tais modelos operam em coordenadas <i>terrain-following</i> (expressam  a altura em algum ponto do dom&iacute;nio de c&aacute;lculo como a altura no n&iacute;vel  do solo) e reconstroem o campo de vento atrav&eacute;s de dois passos: as medidas  s&atilde;o inicialmente interpoladas na grade de c&aacute;lculo, ent&atilde;o  o campo obtido vem ajustado de tal modo que em cada c&eacute;lula de c&aacute;lculo  seja respeitada a hip&oacute;tese de diverg&ecirc;ncia nula, que prov&ecirc;m  da suposi&ccedil;&atilde;o que a atmosfera &eacute; um fluido incompress&iacute;vel.  Com rela&ccedil;&atilde;o ao primeiro passo (interpola&ccedil;&atilde;o) existem  diversas possibilidades: seja para operar em base bi-dimensional ou tri-dimensional,  ponderar as medidas no inverso do quadrado da dist&acirc;ncia ou atrav&eacute;s  de express&otilde;es mais complexas, e &eacute; poss&iacute;vel definir, al&eacute;m  disso, diversos crit&eacute;rios, baseados nos quais, deve-se inserir ao menos  uma medida na interpola&ccedil;&atilde;o. Tamb&eacute;m o c&aacute;lculo da diverg&ecirc;ncia  pode ser efetuado atrav&eacute;s de diversas t&eacute;cnicas, como exemplo, dando  mais peso &agrave; varia&ccedil;&atilde;o do campo horizontal em rela&ccedil;&atilde;o  ao vertical ou vice-versa. Alguns modelos cont&ecirc;m algoritmos que permitem  corrigir, subseq&uuml;entemente, a estrutura do campo de vento, sobretudo na proximidade  do solo, dando conta de alguns fen&ocirc;menos locais (barreiras, vales, lagos).</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os  modelos diagn&oacute;sticos requerem, como entrada, informa&ccedil;&otilde;es  relativas &agrave; orografia e aos principais par&acirc;metros geof&iacute;sicos,  como tamb&eacute;m medidas de vento no solo e ao longo de um ou mais perfis verticais  para a freq&uuml;&ecirc;ncia temporal requerida. Em alguns casos, as medidas podem  ser integradas atrav&eacute;s dos valores calculados pelos modelos que operam  em uma escala maior.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os  modelos massa-consistente s&atilde;o largamente aplicados, seja como pr&eacute;-processador  de modelos de dispers&atilde;o de poluentes, seja como aux&iacute;lio para modelos  progn&oacute;sticos. S&atilde;o modelos bastante simples, que n&atilde;o necessitam  excessivos recursos de c&aacute;lculo e sem particulares limita&ccedil;&otilde;es  te&oacute;ricas, cujas performances s&atilde;o, por&eacute;m, fortemente condicionadas  pela representatividade da medida utilizada. &Eacute;, tamb&eacute;m, oportuno  dizer que n&atilde;o devem ser utilizados em condi&ccedil;&otilde;es de terreno  significativamente complexo. Exemplos de modelos diagn&oacute;sticos s&atilde;o  Minerve (GEAI, 1987) e CALMET (SCIRE et al., 1999).</font></p>    ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>2.2  Os modelos progn&oacute;sticos</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os  modelos progn&oacute;sticos permitem descrever a evolu&ccedil;&atilde;o do fen&ocirc;meno  atmosf&eacute;rico, sobre todo o dom&iacute;nio tri-dimensional considerado, atrav&eacute;s  da integra&ccedil;&atilde;o do sistema de equa&ccedil;&otilde;es diferenciais  constitu&iacute;do da equa&ccedil;&atilde;o de conserva&ccedil;&atilde;o da massa,  da quantidade de movimento, da energia cin&eacute;tica turbulenta, da umidade  e do calor. A integra&ccedil;&atilde;o do sistema consiste em reconstruir, n&atilde;o  somente o campo de vento, mas tamb&eacute;m o de temperatura e o comportamento  de alguma vari&aacute;vel da qual seja poss&iacute;vel retirar informa&ccedil;&otilde;es  sobre a turbul&ecirc;ncia. Estes modelos, que podem ser utilizados tamb&eacute;m  na fase de previs&otilde;es, s&atilde;o mais sofisticados do que os diagn&oacute;sticos,  e para serem aplicados corretamente necessitam maiores recursos de c&aacute;lculo,  diversos tipos de dados de entrada (por exemplo, uma reconstru&ccedil;&atilde;o  mais refinada da carater&iacute;stica da superf&iacute;cie) e um bom conhecimento  dos fen&ocirc;menos meteorol&oacute;gicos. Tais modelos se diferenciam pelo grau  de aproxima&ccedil;&atilde;o e pelo esquema num&eacute;rico adotado para resolver  as equa&ccedil;&otilde;es diferenciais. Entre as aproxima&ccedil;&otilde;es e  simplifica&ccedil;&otilde;es utilizadas, pode-se citar: aproxima&ccedil;&otilde;es  na implementa&ccedil;&atilde;o das equa&ccedil;&otilde;es, parametriza&ccedil;&otilde;es  dos fen&ocirc;menos n&atilde;o descritos pelas equa&ccedil;&otilde;es, sistema  de coordenadas e condi&ccedil;&otilde;es de contorno e iniciais.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>2.2.1  Aproxima&ccedil;&otilde;es na implementa&ccedil;&atilde;o das equa&ccedil;&otilde;es</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para  poder integrar o sistema de equa&ccedil;&otilde;es de movimento, &eacute; necess&aacute;rio  introduzir algumas hip&oacute;teses simplificativas: a aproxima&ccedil;&atilde;o  hidrost&aacute;tica e a de Boussinesq. A primeira hip&oacute;tese &eacute; a incompressibilidade  do ar, e a segunda sup&otilde;e que a temperatura, press&atilde;o e densidade  podem ser consideradas em equil&iacute;brio, exceto para uma pequena varia&ccedil;&atilde;o  devida ao movimento, que pode conduzir a consideradas varia&ccedil;&otilde;es  de densidade somente ao longo da vertical. O limite da aproxima&ccedil;&atilde;o  hidrost&aacute;tica &eacute; que, a rigor, n&atilde;o pode ser considerado v&aacute;lido  sobre terreno particularmente complexo, com inclina&ccedil;&otilde;es superiores  a 20-30 &deg;C. Neste caso, ser&aacute;, portanto, oportuno utilizar modelos n&atilde;o-hidrost&aacute;ticos.  &Eacute; poss&iacute;vel introduzir outras simplifica&ccedil;&otilde;es nas equa&ccedil;&otilde;es  tamb&eacute;m nas escalas de aplica&ccedil;&otilde;es do modelo em fun&ccedil;&atilde;o  das quais alguns fen&ocirc;menos podem ser considerados desprez&iacute;veis.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>2.2.2  Parametriza&ccedil;&otilde;es dos fen&ocirc;menos n&atilde;o descritos pelas equa&ccedil;&otilde;es</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os  principais processos n&atilde;o descritos explicitamente referem-se ao sistema  de nuvens, &agrave;s precipita&ccedil;&otilde;es e aos fluxos superficiais. Alguns  modelos possuem algor&iacute;tmos implementados que tratam estes processos e que  se diferenciam em fun&ccedil;&atilde;o da quantidade e do tipo de informa&ccedil;&otilde;es  utilizadas.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>2.2.3  Sistema de coordenadas</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para  tornar mais f&aacute;cil a integra&ccedil;&atilde;o das equa&ccedil;&otilde;es  diferenciais, geralmente se utiliza o sistema de coordenadas <i>terrain-following</i>  com limite superior fixo ou vari&aacute;vel, em coordenadas espaciais ou de press&atilde;o.  Todavia, nos casos de forte inclina&ccedil;&atilde;o, o sistema <i>terrain-following</i>  n&atilde;o &eacute; aplic&aacute;vel, e utilizam-se as coordenadas Cartesianas  e a introdu&ccedil;&atilde;o de obst&aacute;culos.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>2.2.4  Condi&ccedil;&otilde;es de contorno e iniciais</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os  modelos progn&oacute;sticos, baseando-se na integra&ccedil;&atilde;o de equa&ccedil;&otilde;es  diferenciais, necessitam da defini&ccedil;&atilde;o de condi&ccedil;&otilde;es  iniciais e de contorno. Estas informa&ccedil;&otilde;es dificilmente podem ser  deduzidas com o detalhamento necess&aacute;rio para um modelo, baseadas somente  em valores medidos. As condi&ccedil;&otilde;es iniciais, constitu&iacute;das do  campo 3D das vari&aacute;veis meteorol&oacute;gicas, podem, por exemplo, ser obtidas  integrando-se com modelos diagn&oacute;sticos as medidas e sa&iacute;das de modelos  de escala maior.</font></p>    ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As  condi&ccedil;&otilde;es de contorno tamb&eacute;m, fornecido algum passo de tempo,  podem ser encontradas atrav&eacute;s da simula&ccedil;&atilde;o com modelos que  operam em uma escala maior ou obtidas diretamente atrav&eacute;s de simula&ccedil;&otilde;es  acopladas (<i>nesting</i>) efetuadas no mesmo modelo.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As  medidas e as sa&iacute;das de outros modelos podem ser utilizadas tamb&eacute;m  para "for&ccedil;ar" o modelo progn&oacute;stico a assumir valores fixos em por&ccedil;&otilde;es  espec&iacute;ficas do dom&iacute;nio, em instante temporal escolhido. Esta opera&ccedil;&atilde;o  tem o nome de FDDA (<i>Four Dimension Data Assimilation</i>) e necessita t&eacute;cnicas  espec&iacute;ficas de interpola&ccedil;&atilde;o.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um  exemplo de modelo progn&oacute;stico hidrost&aacute;tico &eacute; o MM4 (ANTHES;  WARNER, 1978). Entre os modelos n&atilde;o-hidrost&aacute;ticos podem ser citados  o MM5 (GRELL et al.,&nbsp;1995) e RAMS (PIELKE et al., 1992) e o modelo de nova  gera&ccedil;&atilde;o WRF (SKAMAROCK et al., 2005).</font></p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3  <i>A circula&ccedil;&atilde;o local: circula&ccedil;&atilde;o de brisa</i></b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  circula&ccedil;&atilde;o de brisa &eacute; um fen&ocirc;meno local devido essencialmente  a um aquecimento diferente do solo. No caso de brisa terra-mar, o aquecimento  diferente do mar em rela&ccedil;&atilde;o &agrave; terra provoca, durante o dia  (mar mais frio que a terra), um fluxo, nas proximidades do solo, do mar para a  terra, onde o ar, mais quente e menos denso, sobe criando uma depress&atilde;o  que atrai ar frio do mar. Em n&iacute;veis mais altos, o ciclo se fecha com um  fluxo inverso da terra para o mar. Pela noite (terra mais fria que o mar), o ciclo  &eacute; o mesmo com o fluxo invertido: no solo da terra para o mar e em n&iacute;veis  mais altos do mar para a terra.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Durante  o dia, o ar proveniente do mar &eacute; mais est&aacute;vel que o da terra. Por  este motivo, na terra, elevando-se em altura, encontra-se primeiro uma camada  inst&aacute;vel e depois uma est&aacute;vel. A altura da camada inst&aacute;vel  aumenta com a dist&acirc;ncia do mar proporcionalmente &agrave; raiz da mesma  dist&acirc;ncia.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  brisa de vale-montanha &eacute; provocada pelas diferentes exposi&ccedil;&otilde;es  das paredes &agrave; radia&ccedil;&atilde;o solar. Durante o ciclo diurno se instaura  uma circula&ccedil;&atilde;o que afeta o fundo do vale e os cumes. Em particular,  a circula&ccedil;&atilde;o no vale pode ser sub-dividida em fluxos que afetam  a inclina&ccedil;&atilde;o lateral (vento anab&aacute;tico e catab&aacute;tico),  fluxo ao longo do vale e, naturalmente, os dois fen&ocirc;menos ao mesmo tempo.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Depois  do por do sol, o ar pr&oacute;ximo ao terreno nos lugares mais altos, se resfria  mais que o do fundo do vale, porque o terreno nas proximidades dos topos e dos  cumes se resfria atrav&eacute;s de processo radioativo e, como conseq&uuml;&ecirc;ncia,  resfria o ar restante. Em seguida, o ar se torna mais frio e denso e desce pela  inclina&ccedil;&atilde;o do vale, dando origem aos chamados ventos catab&aacute;ticos.  Tal fluxo afeta uma camada limitada do ar que desce com uma velocidade n&atilde;o  muito elevada. Ent&atilde;o, do fundo do vale parte um fluxo que atinge as partes  mais elevadas, fechando a circula&ccedil;&atilde;o. Com o tempo, o fluxo catab&aacute;tico  tende a resfriar o ar do fundo do vale e, como consequ&ecirc;ncia, cria uma invers&atilde;o  no perfil de temperatura no vale.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Depois  do amanhecer, o sol come&ccedil;a a aquecer as paredes do vale e, como consequ&ecirc;ncia,  o ar nas proximidades do terreno se aquece tornando-se menos denso, e ent&atilde;o  se eleva com um fluxo atrav&eacute;s de alturas mais elevadas chamado de vento  anab&aacute;tico. Tal fluxo tende a romper a invers&atilde;o de temperatura nas  alturas e instaura uma zona de mistura no fundo do vale que cresce no tempo afetando  as camadas da atmosfera mais elevadas.</font></p>    ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com  rela&ccedil;&atilde;o &agrave; circula&ccedil;&atilde;o no fundo do vale, salienta-se  que pela noite &eacute; caracterizada por um fluxo que desce ao longo do fundo  do vale em dire&ccedil;&atilde;o a boca do vale (vento de drenagem) com um fluxo  de retorno que sobe do vale em alturas elevadas. Durante o dia ocorre um fluxo  que sobe do vale (vento de vale) com um fluxo em dire&ccedil;&atilde;o contr&aacute;ria  em alturas mais elevadas.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Juntamente  a todos os fen&ocirc;menos descritos, vento catab&aacute;tico, anab&aacute;tico,  de drenagem e de vale, na realidade eles se combinam para dar origem a um fluxo  caracterizado, &agrave; noite, do fluxo nas proximidades do solo que descem ao  longo do vale e das inclina&ccedil;&otilde;es e que convergem no fundo do vale  e de um fluxo que vai para cima em alturas mais elevadas. De dia, a circula&ccedil;&atilde;o  &eacute; caracterizada pelo fluxo descendente ao longo do fundo do vale e em declive  nas inclina&ccedil;&otilde;es.</font></p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4  <i>A difus&atilde;o turbulenta de poluentes</i></b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  intera&ccedil;&atilde;o do campo de vento com o solo e do aquecimento do mesmo,  devido ao sol ou de seu resfriamento durante a noite por irradia&ccedil;&atilde;o  terrestre, produz um movimento ca&oacute;tico do ar conhecido como turbul&ecirc;ncia  atmosf&eacute;rica. Esta turbul&ecirc;ncia &eacute; respons&aacute;vel pela dispers&atilde;o  na atmosfera (a dilui&ccedil;&atilde;o dos poluentes na horizontal e na vertical).  Este &uacute;ltimo efeito &eacute; limitado pela altura da Camada Limite Planet&aacute;ria  (CLP), que por sua vez est&aacute; relacionada com a turbul&ecirc;ncia atmosf&eacute;rica.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Existem  in&uacute;meras aproxima&ccedil;&otilde;es para introduzir a turbul&ecirc;ncia  atmosf&eacute;rica nos modelos matem&aacute;ticos de dispers&atilde;o de poluentes.  A aproxima&ccedil;&atilde;o cl&aacute;ssica, e mais utilizada para resolver este  problema, &eacute; a parametriza&ccedil;&atilde;o do momento de segunda ordem,  assumindo uma analogia hipot&eacute;tica com a difus&atilde;o molecular. Este  tipo de aproxima&ccedil;&atilde;o &eacute; chamada teoria K ou teoria fluxo-gradiente,  pois assume que o fluxo de um dado campo seja proporcional ao gradiente de uma  apropriada vari&aacute;vel m&eacute;dia, isto &eacute;:</font></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x1.gif"></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde  F(c) &eacute; o fluxo turbulento da concentra&ccedil;&atilde;o, K &eacute; o coeficiente  de difus&atilde;o e <img src="/img/revistas/asoc/v11n1/01s2.gif" align="absmiddle">  &eacute; o gradiente da concentra&ccedil;&atilde;o.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  simplicidade da teoria K de difus&atilde;o turbulenta tem levado &agrave; utiliza&ccedil;&atilde;o  desta teoria como base matem&aacute;tica para simula&ccedil;&atilde;o da dispers&atilde;o  de poluentes fotoqu&iacute;micos na CLP em regi&atilde;o urbana. No passado, a  t&eacute;cnica de simula&ccedil;&atilde;o mais complexa fez amplo uso de modelos  de grade din&acirc;mica, em particular com a aplica&ccedil;&atilde;o do m&eacute;todo  num&eacute;rico de diferen&ccedil;as finitas e de fechamento K. Emergem, por&eacute;m,  algumas limita&ccedil;&otilde;es importantes destas aplica&ccedil;&otilde;es:</font></p><ul>      <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A aproxima&ccedil;&atilde;o  num&eacute;rica do termo de advec&ccedil;&atilde;o produz uma difus&atilde;o fict&iacute;cia;</font></li>    ]]></body>
+<body><![CDATA[<li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O  fechamento K &eacute; uma aproxima&ccedil;&atilde;o fundamentalmente incorreta  na condi&ccedil;&atilde;o de forte turbul&ecirc;ncia;</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As  concentra&ccedil;&otilde;es s&atilde;o calculadas como m&eacute;dia espacial dentro  da c&eacute;lula tridimensional da grade, e isto produz dificuldades no confronto  com medidas efetuadas em um &uacute;nico ponto do espa&ccedil;o;</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Eacute;  complexo ligar o coeficiente de difus&atilde;o K &agrave; medida experimental  na atmosfera; e</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Uma  correta aplica&ccedil;&atilde;o do fechamento K requer que a dimens&atilde;o da  grade deva ser menor que a da nuvem de poluentes, e esta &eacute; uma condi&ccedil;&atilde;o  dif&iacute;cil de satisfazer nas proximidades da fonte.</font></li>    </ul>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m  disso, ao contr&aacute;rio da difus&atilde;o molecular, a difus&atilde;o turbulenta  &eacute; dependente de escalas. Quando a nuvem cresce, turbilh&otilde;es maiores  s&atilde;o incorporados ao processo de expans&atilde;o, de forma que uma fra&ccedil;&atilde;o  progressivamente maior da energia cin&eacute;tica turbulenta est&aacute; dispon&iacute;vel  para a expans&atilde;o da nuvem. Por&eacute;m, turbilh&otilde;es maiores que a  pr&oacute;pria nuvem s&atilde;o relativamente sem import&acirc;ncia em sua expans&atilde;o.  Assim, a teoria de transfer&ecirc;ncia por gradiente trabalha bem quando a dimens&atilde;o  do material disperso &eacute; muito maior que o tamanho dos turbilh&otilde;es  envolvidos no processo de difus&atilde;o, ou seja, para libera&ccedil;&otilde;es  no n&iacute;vel do solo e para grandes tempos de difus&atilde;o. Especificamente  falando, deve-se introduzir um coeficiente de difus&atilde;o fun&ccedil;&atilde;o,  n&atilde;o somente em fun&ccedil;&atilde;o da estabilidade atmosf&eacute;rica  e altura de libera&ccedil;&atilde;o, mas tamb&eacute;m para tempo de viagem ou  dist&acirc;ncia da fonte. Tal depend&ecirc;ncia temporal por&eacute;m torna dif&iacute;cil  tratar a equa&ccedil;&atilde;o de difus&atilde;o em um sistema de coordenadas  fixo quando v&aacute;rias fontes devem ser tratadas simultaneamente. Caso contr&aacute;rio,  deve-se limitar a aplica&ccedil;&atilde;o da teoria K para grandes tempos de difus&atilde;o  (PASQUILL; SMITH, 1983). Um outro problema &eacute; que a hip&oacute;tese de transporte  por gradiente &eacute; inconsistente com caracter&iacute;sticas observadas da  difus&atilde;o turbulenta na parte superior da CLP, onde fluxos de material contr&aacute;rios  ao gradiente ocorrem (DEARDOFF; WILLIS, 1975).</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cabe  ressaltar que, diferentemente da difus&atilde;o molecular, a difus&atilde;o turbulenta  n&atilde;o &eacute; uma propriedade dos fluidos, mas da pr&oacute;pria turbul&ecirc;ncia  ou dos fluxos, e pode variar bastante de um fluxo para outro e de uma regi&atilde;o  para outra do mesmo fluxo. As rela&ccedil;&otilde;es anteriores s&atilde;o baseadas  essencialmente em uma analogia qualitativa entre difus&atilde;o molecular e turbulenta.  Para o fechamento de primeira ordem ser real&iacute;stico, o campo de concentra&ccedil;&atilde;o  m&eacute;dio deve ter uma escala de tempo muito maior do que o transporte turbulento.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Apesar  destes bem conhecidos limites, a teoria K &eacute; largamente utilizada em muitas  condi&ccedil;&otilde;es atmosf&eacute;ricas porque descreve o transporte difusivo  de forma Euleriana onde quase todas as medidas s&atilde;o Eulerianas, produzindo  resultados que concordam com dados experimentais t&atilde;o bem quanto qualquer  modelo mais complexo, e n&atilde;o &eacute; computacionalmente exigente, tanto  quanto os modelos de ordem superior.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  confian&ccedil;a na aproxima&ccedil;&atilde;o K depende fortemente do modo como  o coeficiente de difus&atilde;o &eacute; determinado tomando como base a estrutura  de turbul&ecirc;ncia na CLP e na habilidade do modelo para reproduzir dados de  difus&atilde;o experimentais. Uma grande variedade de formula&ccedil;&otilde;es  existe (ULKE, 2000). Muitas delas s&atilde;o baseadas na teoria de similaridade  e fornecem resultados diferentes para a mesma estabilidade atmosf&eacute;rica,  como tamb&eacute;m descontinuidades e saltos na transi&ccedil;&atilde;o entre  diferentes regimes de estabilidade da CLP. Por exemplo, aproxima&ccedil;&otilde;es  que estimam o coeficiente de difus&atilde;o K e os par&acirc;metros de dispers&atilde;o  como fun&ccedil;&otilde;es do tamanho dos grandes v&oacute;rtices na CLP e quantidade  de energia turbulenta foram propostas por Degrazia e Moraes (1992) recentemente,  Degrazia et al. (1997) e Degrazia et al. (2000). A principal id&eacute;ia das  aproxima&ccedil;&otilde;es &eacute; obter um esquema de coeficientes de difus&atilde;o  para aplica&ccedil;&otilde;es pr&aacute;ticas em modelagem da polui&ccedil;&atilde;o  do ar que revele as caracter&iacute;sticas essenciais da difus&atilde;o turbulenta,  mas que preserve, tanto quanto poss&iacute;vel, a simplicidade e a flexibilidade  da teoria K.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Degrazia  et al. (1997) e Degrazia et al. (2000) propuseram os perfis verticais do coeficiente  de difus&atilde;o obtidos por meio de t&eacute;cnicas espectrais. A deriva&ccedil;&atilde;o  de coeficientes de difus&atilde;o a partir de um espectro da turbul&ecirc;ncia  n&atilde;o estacion&aacute;rio &eacute; apresentada no trabalho de Goulart et  al. (2004). Aplica&ccedil;&otilde;es recentes das aproxima&ccedil;&otilde;es citadas  acima podem ser encontradas nos trabalhos de Moreira et al. (2004b), Moreira et  al. (2004c), Moreira et al. (2005a), Moreira et al. (2005b), Moreira et al. (2005c),  Moreira et al. (2005d) e Moreira et al. (2006). Uma aplica&ccedil;&atilde;o importante  para o caso de ventos fracos pode ser encontrada em Moreira et al. (2005e). Para  o caso de contaminantes radioativos cita-se Moreira et al. (2005c).</font></p>    ]]></body>
+<body><![CDATA[<p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5  <i>Express&otilde;es semi-emp&iacute;ricas para a descri&ccedil;&atilde;o da turbul&ecirc;ncia</i></b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em  um passado recente, muitos modelos (tamb&eacute;m aqueles recomendados pela <i>Environmental  Protection Agency</i> dos EUA) associavam a difus&atilde;o &agrave;s classes de  estabilidade atmosf&eacute;rica, por serem mais simples de avaliar. As classes  de estabilidade podem ser, realmente, calculadas com t&eacute;cnicas semi-emp&iacute;ricas  utilizando, como exemplo, o m&eacute;todo de Pasquill ou de Turner, baseados em  observa&ccedil;&otilde;es meteorol&oacute;gicas simples (<a href="#tab1">Tabelas  1</a> e <a href="#tab2">2</a>), ou de medidas do desvio padr&atilde;o da velocidade  vertical do vento </font><font size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>w</sub>,, da dire&ccedil;&atilde;o  lateral do vento </font><font size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>q</sub> , do gradiente vertical  de temperatura </font><font size="2">&#916;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">T/</font><font size="2">&#916;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">z, do  n&uacute;mero de Richardson, como ilustrado na <a href="#tab3">Tabela 3</a>.</font></p>    <p><a name="tab1"></a></p>    <p>&nbsp;</p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01t1.gif"></p>    <p>&nbsp;</p>    <p><a name="tab2"></a></p>    <p>&nbsp;</p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01t2.gif"></p>    ]]></body>
+<body><![CDATA[<p>&nbsp;</p>    <p><a name="tab3"></a></p>    <p>&nbsp;</p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01t3.gif"></p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Embora  os modelos mais utilizados, atualmente, adotem tais esquemas simples da turbul&ecirc;ncia  expressos em classes de estabilidade, esta aproxima&ccedil;&atilde;o tem o incoveniente  que cada classe cobre um grande intervalo de condi&ccedil;&otilde;es de estabilidade  atmosf&eacute;rica e resultam ser dependentes do lugar em que s&atilde;o avaliadas.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nos  dias atuais, est&aacute; em crescimento um modo mais correto de introduzir a turbul&ecirc;ncia  nos modelos. Os modelos que utilizam estes esquemas s&atilde;o chamados de "nova  gera&ccedil;&atilde;o" que, em seguida, ir&atilde;o conduzir para express&otilde;es  semi-emp&iacute;ricas ligadas &agrave;s classes de estabilidade, porque s&atilde;o  as mais utilizadas em prop&oacute;sitos operativos.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Uma  vez validada a classe de estabilidade, o par&acirc;metro de dispers&atilde;o (sigma)  vem expresso em fun&ccedil;&atilde;o da dist&acirc;ncia x, utilizando uma das  tantas f&oacute;rmulas dispon&iacute;veis na literatura obtidas em campanhas experimentais.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O  sigma de Pasquill-Gifford (GIFFORD, 1961), apresentada em forma anal&iacute;tica  por Green et al. (1980), escreve-se:</font></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x2e3.gif"></p>    ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  onde k<sub>1</sub>, k<sub>2</sub>, k<sub>3</sub>, k<sub>4</sub>, k<sub>5</sub>  s&atilde;o constantes que variam segundo a estabilidade atmosf&eacute;rica (ZANNETTI,  1990).</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O  sigma de Brookhaven (SMITH, 1968), para o qual se assume uma lei de pot&ecirc;ncia  (seja para </font><font size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>y</sub> ou para </font><font size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>z</sub>),  escreve-se:</font></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x4.gif"></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde  os coeficientes a e b variam em rela&ccedil;&atilde;o &agrave; classe de estabilidade.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No  sigma de Briggs (BRIGGS, 1973) vem distinta a difus&atilde;o no ambiente rural  (<i>Briggs open country</i>) e urbano (<i>Briggs urban</i>) (<a href="#tab4">Tabela  4</a>).</font></p>    <p><a name="tab4"></a></p>    <p>&nbsp;</p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01t4.gif"></p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pasquill  (ZANNETTI, 1990) prop&ocirc;s a seguinte express&atilde;o, de acordo com a teoria  estat&iacute;stica de Taylor (1921), para a difus&atilde;o:</font></p>    ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/asoc/v11n1/01x5.gif"></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x6.gif"></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde  </font><font size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>v</sub> e </font><font size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>w</sub>  s&atilde;o os desvios padr&otilde;es das componentes transversal e vertical da  velocidade do vento, S<sub>y</sub> e S<sub>z</sub> s&atilde;o as fun&ccedil;&otilde;es  universais do tempo de difus&atilde;o t e da escala de tempo Lagrangeano T<sub>L.</sub>.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Express&otilde;es  modernas do sigma, obtidas com t&eacute;cnica espectral, s&atilde;o apresentadas  em Mangia et al. (1998).</font></p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>6  <i>A meteorologia da camada limite planet&aacute;ria</i></b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As  observa&ccedil;&otilde;es realizadas no interior da CLP mostram muitas carater&iacute;sticas  consistentes e repetidas, o que sugere a possibilidade de desenvolver rela&ccedil;&otilde;es  emp&iacute;ricas entre as vari&aacute;veis que caracterizam o estado da CLP. A  teoria de similaridade &eacute; baseada na organiza&ccedil;&atilde;o das vari&aacute;veis  em grupos adimensionais e na dedu&ccedil;&atilde;o de rela&ccedil;&otilde;es emp&iacute;ricas  entre estes grupos, que s&atilde;o universais, ou seja, aplic&aacute;veis sempre  e em qualquer lugar (STULL, 1988).</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>6.1  Similaridade de Monin-Obukhov</b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  teoria de similaridade foi aplicada por Monin e Obukhov, em 1954, na camada superficial.  Segundo o procedimento sugerido da teoria de similaridade, um exame das dimens&otilde;es  relevantes conduz para individualizar tr&ecirc;s grandezas principais: z, u<sub>*</sub>,  </font><font size="2">&#952;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>*</sub>;</font></p><ul>     <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde:  z &eacute; a altura;</font></li>    ]]></body>
+<body><![CDATA[<li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">u<sub>*</sub>  &eacute; a velocidade de atrito (<i>friction velocity</i>), definida a partir  da rela&ccedil;&atilde;o:</font></li>    </ul>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x7.gif"></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde  |</font><font size="2">&#964;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">| representa a amplitude da tens&atilde;o superficial  de Reynolds, a qual, por sua vez, exprime o fluxo vertical total da componente  horizontal da quantidade de movimento medido pr&oacute;ximo a superficie e </font><font size="2">&#961;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  &eacute; a densidade do ar.</font></p>    <p><font size="2">&#952;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>*</sub>  &eacute; a escala de temperatura,  definida pela rela&ccedil;&atilde;o:</font></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x8.gif"></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  onde H &eacute; o fluxo de calor sens&iacute;vel, ou seja, a quantidade de calor  que a superf&iacute;cie troca com a atmosfera por convec&ccedil;&atilde;o e c<sub>p</sub>  &eacute; o calor espec&iacute;fico &agrave; press&atilde;o constante da atmosfera.  Isto &eacute; geralmente positivo durante o dia e &eacute; negativo &agrave; noite,  quando a superf&iacute;cie cede energia para a atmosfera sob a forma de radia&ccedil;&atilde;o.  Estas tr&ecirc;s vari&aacute;veis constituem um s&oacute; grupo (ou par&acirc;metro)  adimensional que satisfaz as condi&ccedil;&otilde;es impostas pela teoria de similaridade:</font></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x9.gif"></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde  L &eacute; o comprimento de Monin-Obukhov, um par&acirc;metro de escala definido  pela rela&ccedil;&atilde;o:</font></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x10.gif"></p>    ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  onde g &eacute; a acelera&ccedil;&atilde;o da gravidade e k &eacute; a constante  dimensional de Von Karman, cujo valor est&aacute; entre 0,35 e 0,42 (sendo 0,4  o valor mais utilizado).</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O  comprimento de Monin-Obukhov exprime a rela&ccedil;&atilde;o entre o fluxo turbulento  de origem mec&acirc;nica e convectiva, e &eacute; utilizado para avaliar o grau  de estabilidade atmosf&eacute;rica. Fisicamente, L representa a altura na qual  a turbul&ecirc;ncia mec&acirc;nica se iguala &agrave; t&eacute;rmica. Os efeitos  da turbul&ecirc;ncia mec&acirc;nica s&atilde;o predominantes na camada mais pr&oacute;xima  &agrave; superf&iacute;cie, isto &eacute;, para z &lt; |L|. De outra parte, os  efeitos da turbul&ecirc;ncia do tipo t&eacute;rmico podem dominar sobre os mec&acirc;nicos  em alturas elevadas, isto &eacute;, para z &gt; |L|. Ent&atilde;o, a rela&ccedil;&atilde;o  </font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> =&nbsp;z/L, utilizada para indicar o tipo de turbul&ecirc;ncia  que prevalece em determinadas condi&ccedil;&otilde;es atmosf&eacute;ricas, &eacute;  chamada de par&acirc;metro de estabilidade:</font></p><ul>     <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">para  </font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> fortemente negativo: domina a convec&ccedil;&atilde;o;</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">para  </font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> negativo, mas pequeno: domina a turbul&ecirc;ncia  mec&acirc;nica;</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">para  </font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> nulo: a turbul&ecirc;ncia &eacute; puramente mec&acirc;nica;</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">para  </font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> ligeiramente positivo: a turbul&ecirc;ncia mec&acirc;nica  &eacute; amortecida pela estratifica&ccedil;&atilde;o t&eacute;rmica; e</font></li>    <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2">para  </font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> fortemente positivo: a turbul&ecirc;ncia mec&acirc;nica  &eacute; reduto da estratifica&ccedil;&atilde;o t&eacute;rmica.</font></li>    </ul>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De  acordo com a hip&oacute;tese de Monin e Obukhov, o fluxo no solo e o perfil das  vari&aacute;veis meteorol&oacute;gicas m&eacute;dias, quando s&atilde;o normalizadas  por meio de apropriadas combina&ccedil;&otilde;es de u<sub>*</sub> e L, s&atilde;o  fun&ccedil;&otilde;es universais de z/L. As rela&ccedil;&otilde;es que se obt&eacute;m  da similaridade para o perfil m&eacute;dio da componente horizontal do vento e  da temperatura potencial s&atilde;o:</font></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x11e12.gif"></p>    ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">onde  </font><font size="2">&#934;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>m</sub> &eacute; a fun&ccedil;&atilde;o adimensional  do gradiente de velocidade do vento, enquanto </font><font size="2">&#934;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>h</sub>  &eacute; a do gradiente de temperatura.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Integrando-se  as Equa&ccedil;&otilde;es 11 e 12 entre z<sub>0</sub> e z obt&eacute;m-se a rela&ccedil;&atilde;o  para perfil vertical da componente horizontal do vento e para o perfil vertical  de temperatura:</font></p>    <p align="center"><img src="/img/revistas/asoc/v11n1/01x13e14.gif"></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">  A altura z<sub>0</sub> &eacute; o comprimento de rugosidade, que exprime uma medida  da rugosidade da superf&iacute;cie. </font><font size="2">&#936;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>m</sub> e  </font><font size="2">&#936;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>h</sub> s&atilde;o, respectivamente, a fun&ccedil;&atilde;o  universal do perfil de vento e de temperatura na Camada Superficial. Como se pode  observar, em uma atmosfera adiab&aacute;tica (onde </font><font size="2">&#936;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>m</sub>  = 0), o perfil de vento &eacute; do tipo logar&iacute;tmico, enquanto que em outros  casos &eacute; corrigido por uma fun&ccedil;&atilde;o da estabilidade atmosf&eacute;rica  definida pelos valores de L.</font></p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>7  <i>Conclus&otilde;es</i></b></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  meteorologia tem um papel fundamental em rela&ccedil;&atilde;o &agrave; qualidade  do ar. Na verdade s&atilde;o os eventos meteorol&oacute;gicos que guiam a dispers&atilde;o  de poluentes e a sua deposi&ccedil;&atilde;o no solo, uma vez que est&atilde;o  imersos na atmosfera.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os  modelos matem&aacute;ticos de dispers&atilde;o de poluentes na atmosfera s&atilde;o  um instrumento t&eacute;cnico indispens&aacute;vel para o controle da polui&ccedil;&atilde;o  atmosf&eacute;rica em escala local e regional. Os pr&eacute;-processadores meteorol&oacute;gicos  t&ecirc;m grande import&acirc;ncia, e isto se deve ao fato que, da medida meteorol&oacute;gica  no solo e em outras alturas, pode-se calcular sobre todo o dom&iacute;nio de simula&ccedil;&atilde;o  as vari&aacute;veis meteorol&oacute;gicas necess&aacute;rias para o c&aacute;lculo  do campo de concentra&ccedil;&atilde;o de poluentes.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A  maior parte dos modelos operativos para a estimativa da dispers&atilde;o de g&aacute;s  e part&iacute;culas na CLP utilizam esquemas simples da turbul&ecirc;ncia atmosf&eacute;rica  expressa em classes de estabilidade como as propostas por Pasquill-Gifford. Cada  classe cobre um grande intervalo de condi&ccedil;&otilde;es de estabilidade atmosf&eacute;rica  qe resultam dependentes do lugar em que s&atilde;o avaliadas.</font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nestes  &uacute;ltimos anos abriu-se a possibilidade do desenvolvimento de modelos que  descrevem a difus&atilde;o dos poluentes que utilizam como entrada dados meteorol&oacute;gicos  no solo (com possibilidade de serem adquiridos com uma rede meteorol&oacute;gica  autom&aacute;tica) que podem avaliar diretamente a turbul&ecirc;ncia atmosf&eacute;rica,  pelo valor do comprimento de Monin-Obukhov e da velocidade de atrito, abrindo,  assim, a perpectiva para modelos caracterizados por um maior conte&uacute;do cient&iacute;fico.  Recentemente, o melhoramento da descri&ccedil;&atilde;o e previs&atilde;o dos  fen&ocirc;menos de polui&ccedil;&atilde;o &eacute; devido ao aprimoramento dos  modelos meteorol&oacute;gicos de mesoescala, que hoje podem trabalhar com resolu&ccedil;&atilde;o  espacial melhor (grade mais refinada) e descrevem cen&aacute;rios sempre mais  complexos.</font></p>    ]]></body>
+<body><![CDATA[<p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Refer&ecirc;ncias  bibliogr&aacute;ficas</b></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ANTHES,  R. A.; WARNER, T. T. Development of hydrodinamic model suitable for air pollution  and other mesometeorology studies. <b>Mon. Wea. Rev.</b>, v. 106, n. 8, p. 1045-1078,  1978.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S1414-753X200800010000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BRIGGS,  G. A. <b>Diffusion estimation for small emissions, in environmental research laboratories</b>.  Environmental research laboratories air resources atmospheric turbulence and diffusion  laboratory, 1973. Annual report. USAEC Report ATDL-106.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S1414-753X200800010000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DEARDOFF,  J. W.; WILLIS, G. E. A parameterization of diffusion into the mixed layer. <b>Journal  of Applied Meteorology</b>, v. 14, n. 8, p. 1451-1458, 1975.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S1414-753X200800010000200003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DEGRAZIA,  G. A. et al. Turbulence parameterisation for PBL dispersion models in all stability  conditions. <b>Atmospheric Environment</b>, v. 34, n. 21, p. 3575-3583, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S1414-753X200800010000200004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DEGRAZIA,  G. A.; MORAES, O. L. L. A model for eddy diffusivity in a stable boundary layer.  <b>Boundary Layer Meteorology</b>, v. 58, n. 3, p. 205-214, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S1414-753X200800010000200005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DEGRAZIA,  G. A. et al. Validation of a new turbulent parameterisation for dispersion models  in a convective boundary layer. <b>Boundary Layer Meteorology</b>, v. 85, n. 2,  p. 243-254, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S1414-753X200800010000200006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GEAI,  P. <b>Methode D'Interpolation et de Reconstitution Tridimensionnelle d'un Champ  de Vent: Le code d'analyse objective MINERVE</b>. Electricite De France Rep. ARD-AID:  E34-E11, 1987. 177 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S1414-753X200800010000200007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GIFFORD,  F. A. Use of routine meteorological observations for estimating the atmospheric  dispersion. <b>Nucl. Safety</b>, v. 2, n. 4, p. 47-51, 1961.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S1414-753X200800010000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOULART,  A. G. et al. Derivation of eddy diffusivities from an unsteady turbulence spectrum.  <b>Atmos. Environ.</b> , v. 38, n. 36, p. 6121-6124, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S1414-753X200800010000200009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GREEN,  A. E.; SINGHAL, R. P.; VENKATESWAR, R. Analytic extension of the Gaussian plume  model. <b>JAPCA</b>, v. 30, n. 7, p. 773-776, 1980.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S1414-753X200800010000200010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GRELL,  G.; DUDHIA, J.; STAUFFER, D. R. <b>A description of the fifth generation Penn  State/NCAR mesoscale model (MM5)</b>. Boulder, Colorado: NCAR Tech, 1995. 117  p. Note NCAR/TN-398+STR.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S1414-753X200800010000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">IRWIN,  J. S. <b>Dispersion estimates suggestion: Processing of wind data</b>. Report  No. II-B-33. NC (USA): Research Triasngle Park, 1980.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S1414-753X200800010000200012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MANGIA,  C. et al. A new formulation of </font><font size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>y</sub> and </font><font size="2">&#963;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sub>z</sub>  for air quality dispersion models. In: <b>Air Pollution VI</b>, a cura di C.A.  Brebbia, C.F. Ratto. Southampton: Power Computational Mechanics Publications,  1998. p. 839-848.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S1414-753X200800010000200013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M.; TIRABASSI, T. Modelo matem&aacute;tico de dispers&atilde;o de poluentes  na atmosfera: um instrumento t&eacute;cnico para a gest&atilde;o ambiental. <b>Ambiente  &amp; Sociedade,</b> Campinas, v. 7, n. 2, p. 159-171, 2004a.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S1414-753X200800010000200014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M. et al. Analytical solution of the advection-diffusion equation with nonlocal  closure of the turbulent diffusion. <b>Environmental Modelling and Software</b>,  v. 20, n. 10, p. 1347-1351, 2004b.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S1414-753X200800010000200015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M. et al. Analytical solution of the Eulerian dispersion equation for nonstationary  conditions: development and evaluation. <b>Environmental Modelling and Software</b>,  v. 20, n. 9, p.&nbsp;1159 1165, 2004c.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S1414-753X200800010000200016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M. et al. Simulation of the dispersion of pollutants using two approaches for  the case of a low source in a SBL: evaluation of turbulence parameterisations.  <b>Water, Air and Soil Pollution</b>, v. 161, n. 1, p. 285-297, 2005a.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S1414-753X200800010000200017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M. et al. Near-source atmospheric pollutant dispersion using the new GILLT  method. <b>Atmos. Environ.,</b> v. 39, n. 34, p. 6289-6294, 2005b.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S1414-753X200800010000200018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M. et al. A semi-analytical model for the Tritium dispersion simulation in  the PBL from the ANGRA I nuclear power plant. <b>Ecological Modelling</b>, v.  189, n. 3, p. 413-424, 2005c.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S1414-753X200800010000200019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M. et al. Semi-analytical model for pollution dispersion in the planetary boundary  layer. <b>Atmos. Environ.,</b> v. 39, n. 14, p. 2689-2697, 2005d.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S1414-753X200800010000200020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M.; CARVALHO, J. C.; TIRABASSI, T. Plume dispersion simulation in low wind  conditions in the stable and convective boundary layers. <b>Atmos. Environ.</b>,  v. 39, n. 20, p. 3643-3650, 2005e.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000195&pid=S1414-753X200800010000200021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MOREIRA,  D. M. et al. The GILTT solution of the advection-diffusion equation for an inhomogeneous  and nonstationary PBL. <b>Atmos. Environ.,</b> v. 40, n. 14, p. 3186-3194, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000197&pid=S1414-753X200800010000200022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PASQUILL,  F.; SMITH, F. B. <b>Atmospheric diffusion</b>. New York: Wiley, 1983. 437 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000199&pid=S1414-753X200800010000200023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PIELKE,  R. A. et al. A comprehensive meteorological modeling system RAMS. <b>Meteorol.  Atmos. Phys.</b>, v. 49, n. 1, p. 69-91, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000201&pid=S1414-753X200800010000200024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SCIRE,  J. S. et al. <b>A user's guide for the CALMET meteorology model - Version 5.0</b>.  Earth Tech. Inc., 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000203&pid=S1414-753X200800010000200025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SKAMAROCK,  W. C. et al. <b>A Description of the Advanced Research WRF Version 2</b>. Technical  Note NCAR7TN-468+STR, NCAR. Boulder, Colorado, USA: NCAR, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000205&pid=S1414-753X200800010000200026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SMITH,  M. E. <b>Recommended guide for the prediction of the dispersion of airborne effluents</b>.  New York: American Society of Mechanical Engineers, 1968. 102 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000207&pid=S1414-753X200800010000200027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">STULL,  R. B. <b>An introduction to boundary layer meteorology</b>. Dordrecht: Kluwer  Academic Pub, 1988. 680 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000209&pid=S1414-753X200800010000200028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TAYLOR,  G. I. Diffusion by continuous movement. <b>Proc. Lond. Math. Soc.</b>, London,  v. 2, n. 20, p.&nbsp;196-211, 1921.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000211&pid=S1414-753X200800010000200029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ULKE,  A. G. New turbulent parameterisation for a dispersion model in the atmospheric  boundary layer. <b>Atmos. Environ.</b>, v. 34, n. 7, p. 1029-1042, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000213&pid=S1414-753X200800010000200030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ZANETTI,  P. Air Pollution Modelling. Southampton - UK: Comp. Mech. Publications, 1990.  500 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000215&pid=S1414-753X200800010000200031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>    <p>&nbsp;</p>    <p>&nbsp;</p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a name="back"></a><a href="#top"><img src="/img/revistas/asoc/v11n1/seta.gif" border="0"></a>  Autor para correspond&ecirc;ncia:    <br></b> Davidson Martins Moreira    <br>Laborat&oacute;rio  de Modelagem e Simula&ccedil;&atilde;o Computacional    <br>Universidade Federal do  Pampa - UNIPAMPA    ]]></body>
+<body><![CDATA[<br>Rua Carlos Barbosa, s/n, Bairro Get&uacute;lio Vargas    <br>  CEP 96412-420, Bag&eacute;, RS, Brasil    <br>Fone: (53) 3247-2367. Fax: (53) 3247-2367    <br>  E-mail: <a href="mailto:davidson@pq.cnpq.br">davidson@pq.cnpq.br</a></font></p>    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Recebido:  13/2/2006    <br>Aceito: 12/3/2007</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANTHES]]></surname>
+<given-names><![CDATA[R. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WARNER]]></surname>
+<given-names><![CDATA[T. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Development of hydrodinamic model suitable for air pollution and other mesometeorology studies]]></article-title>
+<source><![CDATA[Mon. Wea. Rev.]]></source>
+<year>1978</year>
+<volume>106</volume>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>1045-1078</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRIGGS]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diffusion estimation for small emissions, in environmental research laboratories: Environmental research laboratories air resources atmospheric turbulence and diffusion laboratory, 1973]]></source>
+<year></year>
+<publisher-name><![CDATA[USAEC Report ATDL]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DEARDOFF]]></surname>
+<given-names><![CDATA[J. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WILLIS]]></surname>
+<given-names><![CDATA[G. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A parameterization of diffusion into the mixed layer]]></article-title>
+<source><![CDATA[Journal of Applied Meteorology]]></source>
+<year>1975</year>
+<volume>14</volume>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>1451-1458</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DEGRAZIA]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Turbulence parameterisation for PBL dispersion models in all stability conditions]]></article-title>
+<source><![CDATA[Atmospheric Environment]]></source>
+<year>2000</year>
+<volume>34</volume>
+<numero>21</numero>
+<issue>21</issue>
+<page-range>3575-3583</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DEGRAZIA]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORAES]]></surname>
+<given-names><![CDATA[O. L. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A model for eddy diffusivity in a stable boundary layer]]></article-title>
+<source><![CDATA[Boundary Layer Meteorology]]></source>
+<year>1992</year>
+<volume>58</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>205-214</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DEGRAZIA]]></surname>
+<given-names><![CDATA[G. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Validation of a new turbulent parameterisation for dispersion models in a convective boundary layer]]></article-title>
+<source><![CDATA[Boundary Layer Meteorology]]></source>
+<year>1997</year>
+<volume>85</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>243-254</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GEAI]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Methode D'Interpolation et de Reconstitution Tridimensionnelle d'un Champ de Vent: Le code d'analyse objective MINERVE]]></source>
+<year>1987</year>
+<publisher-name><![CDATA[Electricite De France Rep. ARD-AID]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GIFFORD]]></surname>
+<given-names><![CDATA[F. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Use of routine meteorological observations for estimating the atmospheric dispersion]]></article-title>
+<source><![CDATA[Nucl. Safety]]></source>
+<year>1961</year>
+<volume>2</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>47-51</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOULART]]></surname>
+<given-names><![CDATA[A. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Derivation of eddy diffusivities from an unsteady turbulence spectrum]]></article-title>
+<source><![CDATA[Atmos. Environ.]]></source>
+<year>2004</year>
+<volume>38</volume>
+<numero>36</numero>
+<issue>36</issue>
+<page-range>6121-6124</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREEN]]></surname>
+<given-names><![CDATA[A. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SINGHAL]]></surname>
+<given-names><![CDATA[R. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VENKATESWAR]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Analytic extension of the Gaussian plume model]]></article-title>
+<source><![CDATA[JAPCA]]></source>
+<year>1980</year>
+<volume>30</volume>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>773-776</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRELL]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DUDHIA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STAUFFER]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A description of the fifth generation Penn State/NCAR mesoscale model (MM5)]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Boulder^eColorado Colorado]]></publisher-loc>
+<publisher-name><![CDATA[NCAR Tech]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[IRWIN]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dispersion estimates suggestion: Processing of wind data]]></source>
+<year>1980</year>
+<publisher-loc><![CDATA[^eNC NC]]></publisher-loc>
+<publisher-name><![CDATA[Research Triasngle Park]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MANGIA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A new formulation of &#963;y and &#963;z for air quality dispersion models]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Brebbia]]></surname>
+<given-names><![CDATA[a cura di C.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ratto]]></surname>
+<given-names><![CDATA[C.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Air Pollution VI]]></source>
+<year>1998</year>
+<page-range>839-848</page-range><publisher-loc><![CDATA[Southampton ]]></publisher-loc>
+<publisher-name><![CDATA[Power Computational Mechanics Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TIRABASSI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Modelo matemático de dispersão de poluentes na atmosfera: um instrumento técnico para a gestão ambiental]]></article-title>
+<source><![CDATA[Ambiente & Sociedade]]></source>
+<year>2004</year>
+<volume>7</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>159-171</page-range><publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Analytical solution of the advection-diffusion equation with nonlocal closure of the turbulent diffusion]]></article-title>
+<source><![CDATA[Environmental Modelling and Software]]></source>
+<year>2004</year>
+<volume>20</volume>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>1347-1351</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Analytical solution of the Eulerian dispersion equation for nonstationary conditions: development and evaluation]]></article-title>
+<source><![CDATA[Environmental Modelling and Software]]></source>
+<year>2004</year>
+<volume>20</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>1159 1165</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Simulation of the dispersion of pollutants using two approaches for the case of a low source in a SBL: evaluation of turbulence parameterisations]]></article-title>
+<source><![CDATA[Water, Air and Soil Pollution]]></source>
+<year>2005</year>
+<volume>161</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>285-297</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Near-source atmospheric pollutant dispersion using the new GILLT method]]></article-title>
+<source><![CDATA[Atmos. Environ.]]></source>
+<year>2005</year>
+<volume>39</volume>
+<numero>34</numero>
+<issue>34</issue>
+<page-range>6289-6294</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A semi-analytical model for the Tritium dispersion simulation in the PBL from the ANGRA I nuclear power plant]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2005</year>
+<volume>189</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>413-424</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Semi-analytical model for pollution dispersion in the planetary boundary layer]]></article-title>
+<source><![CDATA[Atmos. Environ.]]></source>
+<year>2005</year>
+<volume>39</volume>
+<numero>14</numero>
+<issue>14</issue>
+<page-range>2689-2697</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARVALHO]]></surname>
+<given-names><![CDATA[J. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TIRABASSI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plume dispersion simulation in low wind conditions in the stable and convective boundary layers]]></article-title>
+<source><![CDATA[Atmos. Environ.]]></source>
+<year>2005</year>
+<volume>39</volume>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>3643-3650</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOREIRA]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The GILTT solution of the advection-diffusion equation for an inhomogeneous and nonstationary PBL]]></article-title>
+<source><![CDATA[Atmos. Environ.]]></source>
+<year>2006</year>
+<volume>40</volume>
+<numero>14</numero>
+<issue>14</issue>
+<page-range>3186-3194</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PASQUILL]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[F. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Atmospheric diffusion]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Wiley]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIELKE]]></surname>
+<given-names><![CDATA[R. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A comprehensive meteorological modeling system RAMS]]></article-title>
+<source><![CDATA[Meteorol. Atmos. Phys.]]></source>
+<year>1992</year>
+<volume>49</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>69-91</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCIRE]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A user's guide for the CALMET meteorology model - Version 5.0]]></source>
+<year>1999</year>
+<publisher-name><![CDATA[Earth Tech. Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SKAMAROCK]]></surname>
+<given-names><![CDATA[W. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Description of the Advanced Research WRF Version 2: Technical Note NCAR7TN-468+STR, NCAR]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Boulder^eColorado Colorado]]></publisher-loc>
+<publisher-name><![CDATA[NCAR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[M. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Recommended guide for the prediction of the dispersion of airborne effluents]]></source>
+<year>1968</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[American Society of Mechanical Engineers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STULL]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An introduction to boundary layer meteorology]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+<publisher-name><![CDATA[Kluwer Academic Pub]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[G. I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Diffusion by continuous movement]]></article-title>
+<source><![CDATA[Proc. Lond. Math. Soc.]]></source>
+<year>1921</year>
+<volume>2</volume>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>196-211</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ULKE]]></surname>
+<given-names><![CDATA[A. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[New turbulent parameterisation for a dispersion model in the atmospheric boundary layer]]></article-title>
+<source><![CDATA[Atmos. Environ.]]></source>
+<year>2000</year>
+<volume>34</volume>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>1029-1042</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZANETTI]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Air Pollution Modelling]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Southampton ]]></publisher-loc>
+<publisher-name><![CDATA[Comp. Mech. Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

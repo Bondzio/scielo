@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1981-3821</journal-id>
+<journal-title><![CDATA[Brazilian Political Science Review]]></journal-title>
+<abbrev-journal-title><![CDATA[Bras. Political Sci. Rev.]]></abbrev-journal-title>
+<issn>1981-3821</issn>
+<publisher>
+<publisher-name><![CDATA[Associação Brasileira de Ciência Política]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1981-38212013000100003</article-id>
+<article-id pub-id-type="doi">10.1590/S1981-38212013000100003</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Investigating elite behavior through field experiment in Brazil: do candidates answer more to core or swing voters?]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Spada]]></surname>
+<given-names><![CDATA[Paolo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Guimarães]]></surname>
+<given-names><![CDATA[Feliciano de Sá]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Harvard Kennedy School Ash Center for Democratic Governance and Innovation ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>USA</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Escola Superior de Propaganda e Marketing  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2013</year>
+</pub-date>
+<volume>7</volume>
+<numero>1</numero>
+<fpage>56</fpage>
+<lpage>73</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1981-38212013000100003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S1981-38212013000100003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S1981-38212013000100003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[This paper explores recent advances in experimental methodology to analyze elite behavior. Using an email experiment conducted in the context of the Brazilian 2008 municipal elections, we studied whether candidates target "swing" or "core" voters during campaigns. Candidates from all parties - 1,000 candidates in all - were contacted by randomly generated citizens who identified themselves as either core or swing voters. Additionally, we randomized senders' past voting behavior and their gender. To identify the baseline answer rate, we employed a placebo treatment with no reference to the elections. Our results show that Brazilian candidates target any sender as long as she identifies herself as a potential voter. Within this general finding, models with city-specific fixed effects indicate that Brazilian politicians tend to target core voters. The paper contributes to the general experimental literature by providing an easily replicable design that can test the behavior of elite interaction with the public. At the same time, the paper extends the literature on core versus swing voters by providing an empirical test that can shed light on the effects of a specific political environment (type of election, voting rule, and party structure), and how it affects the relationship between candidates and voters during elections.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Experimental analysis]]></kwd>
+<kwd lng="en"><![CDATA[Electoral Studies]]></kwd>
+<kwd lng="en"><![CDATA[Urban Politics]]></kwd>
+<kwd lng="en"><![CDATA[Methodology]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ARTICLE</b></font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Investigating   elite behavior through field experiment in Brazil: do candidates answer more to   core or swing voters? <a href="#_ftn1" name="_ftnref1" title=""><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Paolo   Spada<sup>I</sup>; Feliciano   de S&aacute; Guimar&atilde;es<sup>II</sup></font></b></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Ash   Center for Democratic Governance and Innovation, Harvard Kennedy School, USA</font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>II</sup>Escola       Superior de Propaganda e Marketing (ESPM), Brazil</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This   paper explores recent advances in experimental methodology to analyze elite   behavior. Using an email experiment conducted in the context of the Brazilian   2008 municipal elections, we studied whether candidates target "swing" or   "core" voters during campaigns. Candidates from all parties &#150; 1,000 candidates   in all &#150; were contacted by randomly generated citizens who identified   themselves as either core or swing voters. Additionally, we randomized senders'   past voting behavior and their gender. To identify the baseline answer rate, we   employed a placebo treatment with no reference to the elections. Our results   show that Brazilian candidates target any sender as long as she identifies   herself as a potential voter. Within this general finding, models with   city-specific fixed effects indicate that Brazilian politicians tend to target   core voters. The paper contributes to the general experimental literature by   providing an easily replicable design that can test the behavior of elite   interaction with the public. At the same time, the paper extends the literature   on core versus swing voters by providing an empirical test that can shed light   on the effects of a specific political environment (type of election, voting   rule, and party structure), and how it affects the relationship between   candidates and voters during elections.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Keywords</b>: Experimental   analysis, Electoral Studies, Urban Politics, Methodology</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introduction</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   literature on how politicians allocate resources in order to optimize electoral   performance has generated intense debate in the social sciences. Some lean   towards Cox and McCubbins' 1986 model in which politicians allocate resources   to core voters (Calvo and Murillo, 2004; Ansolabehere and Snyder 2006; Nichter,   2008; Magaloni et al., 2008; Cox, 2009). Others prefer Lindbeck and Weibull's   1987 model (Schady, 2000; Case, 2001; Dahlberg and Johansson, 2002; Stokes,   2005) where politicians focus on undecided or swing voters. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Empirical   tests of the two models using non-experimental methods present mixed results (Schady,   2000; Dahlberg and Johansson, 2002; Calvo and Murillo, 2004; Stokes, 2005; Ansolabehere   and Snyder, 2006; Magaloni et al., 2008). Our study is the first to apply a   field experiment in order to further test some of the claims in this ongoing   debate. Through a modified "email experiment" we implemented a test in order to   shed some light on candidate behavior. This article is based on a field   experiment conducted in the context of the 2008 Brazilian municipal election.   We aim to elucidate if candidates are more responsive to swing or core voters'   demands, or if they answer indiscriminately.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">It   is important to mention that these empirical studies focus on traditional   clientelistic practices and distributive politics; they look to understand how   resources are allocated to certain group of voters through clientelistic   practices. Our paper has a different approach, which is to understand how   candidates answer to voters' demands. We want to verify whether politicians   target voters trough signaling mechanisms rather than resource distribution.   Answering to voters' demands is different from resorting to clientelistic   practices. Generally, we are interested in the discussion of distributive politics.   However, we tackle it via communication rather than spending or patronage   because our research design allows us to better gauge politicians' strategies   from that perspective. Therefore the results may shed light on the clientelism   agenda because the allocation of candidates' scarce time may mimic the process   of allocation of other resources, although this argument cannot be made based   on our experiment candidates' use of clientelistic practices towards certain   voters. We can argue, however, that candidates have a preference to   communicating with voters that present specific ideological characteristics. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Using   an experiment design we directly measure the candidates strategies towards   voters, while avoiding problems with endogeneity, collinearity, and self-selection   of the traditional distributive politics literature. Experiments are   complementary to more traditional empirical methods because they have a higher   degree of internal validity and ability to derive causal inference, as well as a   more precise measurement of the variables of interest (Gerber et al., 2004; Gerber   and Green, 2012). </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   logic of the "email experiment" design we propose is quite simple. We measure   the probability of a candidate or a candidate's staff to respond to emails sent   by different types of voters. During the weeks previous to the election, time   is a scarce resource for candidates and staff. If we consider the allocation of   time as an "investment", then a candidate seeking to win the election would   invest time where he or she expects to obtain the highest return, i.e. the   highest probability of gaining a vote. Therefore if the candidates consistently   targeted one type of sender it would mean this type of sender was considered on   average a better "investment". </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Our   experimental test is specifically designed to identify systematic patterns in   the candidate answering rate. The treatment is the voter type. Some voters   identify themselves as loyal supporters that will certainly vote for the   candidate (core), while others state that they are undecided (swing). We also   employ a "no identification" email, or placebo, in which the sender simply asks   a question with no reference to the coming election. This treatment aims to   capture the baseline-answering rate to a generic email during the electoral   period. Additional treatments investigate the effects of other characteristics   of the senders, such as past voting behavior, gender, and profession. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We   ran the experiment during the Brazilian municipal elections of October 2008.   The unique Brazilian institutional setting was the inspiration for the choice of   the Brazilian local election. In Brazilian elections parties often change   coalitions, and electors regularly vote on a personal basis. We sent an email   to each mayoral candidate in all the cities above 50,000 inhabitants. The email   asked if the candidate had the intention to lower the IPTU tax, a local tax on   property. A total of 1181 emails were sent, and 1051 responses were obtained.   Focusing on the difference between a treatment effect and the placebo effect   allows us to safely drop the missing values from the sample. The answer rate of   candidates demanded by core voters (123/358 = 34.3%) is only slightly higher   than the rate for candidates questioned by swing voters (103/340 = 30.2%). The senders   that did not offer any identification received a significantly lower proportion   of answers statistically (74/353 = 20.9%). The Brazilian results shows that   emails referring to the elections in the subject had a higher probability of   being answered, but also that Brazilian politicians, at first glance, seem not   to differentiate between swing and core voters when allocating time to answering   emails. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">With   some simple modifications our design can be used to investigate any type of   elite interaction with the public. As long as the researcher can alter the   signals received by the elite and treatments can be easily hidden among many   other similar signals from the public, it is possible to implement an   experimental design for studying elite behaviors. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   article will proceed as follows. Firstly, we will review the political economy   literature on politicians' behavior. Secondly, we will describe the design in   detail. In conclusion we will propose an experimental research agenda on elite   behavior.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>The debate on core voters and swing voters</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As   mentioned in the introduction, the literature on candidate behavior presents   two main models: the Cox and McCubbins (1986) model and the Lindbeck and   Weibull (1987) model. For the former, vote-maximizing politicians focus their   resources on core constituencies. In this framework, politicians perceive swing   voters as a risky investment, while core voters that have declared their   preferences are perceived as a safe investment. In addition, politicians seek   to prevent voters from abandoning their party. Contrastingly, in Lindbeck and   Weibull's framework, money spent on ideologically proximate voters is wasted,   since they will vote for the candidate's party regardless. The intuitive logic   behind this model is clearly summarized by Stokes (2005: 317): </font></p>     <blockquote>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Voters who are     predisposed in favor of a party on partisan or programmatic grounds cannot     credibly threaten to punish their favored party if it withholds distributive     rewards. Therefore the party should not waste rewards on them.</font></p> </blockquote>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">These   initial papers generated equilibrium results in which parties focused all their   resources either on swing or core voters (Cox and McCubbins, 1986 and Lindbeck   and Weibull, 1987). Subsequent papers expanded this analysis to allow parties   and candidates to adopt additional strategies. The current literature focuses   on four strategies; rewarding loyalists (core voters who will turnout); vote   buying (swing or opposition voters that will turnout); turnout buying (a core   voter that may not turnout) and double persuasion (swing or opposition voters   that may not turnout) (Nichter, 2008). Interestingly, while the earlier   literature had a clear equilibrium prediction, the more recent literature does   not present definite results. According to the modern literature, in   equilibrium we should observe different strategy portfolios depending on the   characteristics of the polity (e.g. voter loyalty, collective action costs,   propensity to turnout and existence of a party machine) that influence the   relative payoff of each strategy. Most current papers still propend towards one   main strategy, but contend that the party would also follow others.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nichter   (2008) and Cox (2009) have strengthened the "core vote model" by relaxing some   of its assumptions. Nichter questions the assumption that all voters turnout to   vote as some may abstain. Consequently, the party machine has to spend   resources among proximate voters in order to buy turnout, instead of simple   vote buying. In this model, politicians have to invest resources to convince a   latent core constituency to go to the polls. Similarly, Cox notes that models   on distributive politics focus solely on persuasion. Once coordination   (lowering similar competitors in the ballot) and mobilization (taking voters to   the polls) are included, it is possible to confirm that parties allocate   benefits to individuals who can provide coordination and mobilization services,   rather than brokers who are experts at identifying swing voters (Cox, 2009).   What Nichter (2008) and Cox (2009) show is that the "core vote model" can be   reinforced by questioning its unidimensionality. These authors demonstrate that   it is possible to strengthen the model by refining voter types and politicians'   behaviors.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In   a more recent paper, Dunning and Stokes (2008) seek to bridge the gap between   the swing and core voter models. They demonstrate that Nichter (2008) and Cox (2009)   are correct in questioning the fact that not all voters actually vote, but they   argue that these critics have not gone as far as they could in challenging the   unidimensionality of the "core vote model". They present a full two-dimensional   model. In their view, a party chooses how to distribute resources based on two   dimensions of voter difference: propensity to vote or abstain and ideological   position. The results are three-fold. Firstly, under general conditions parties   tend to buy both votes and turnout. Secondly, among supporters who go to the   polls anyway (non-abstainers) the party is better off targeting swing and   weakly opposed voters. When it comes to non-abstainers, the machine can gain   additional votes by spending resources on swing voters only. Thirdly, among   potential voters (those who may turn out if offered a benefit) the party will   target supporters. In other words, the party will try to take to the polls only   those who are likely to vote for it. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As   was mentioned in the introduction, empirical studies on the two models based on   non-experimental methods have had so far mixed results. There are empirical   records supporting the "swing voter model" (Schady, 2000; Dahlberg and   Johansson, 2002) and others more consistent with the "core voter model" (Calvo   and Murillo, 2004; Ansolabehere and Snyder 2006, and Magaloni et al., 2008). In   order to identify the voter groups (swing or core), these studies employ either   surveys estimating the distribution of political preferences among voters (Dahlberg   and Johansson, 2002; Stokes, 2005), or aggregate voter returns biased by   clientelistic actions of party patrons (Schady, 2000; Calvo and Murillo, 2004, 2009;   Magaloni et al., 2008). </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As   previously stated, these empirical studies are focused on distributive politics   (clientelistic practices). They attempt to understand how different   clientelistic practices work in different political environments, especially   resource allocation towards a group of voters. This paper has a different goal,   which is to understand how candidates answer to voters demands. Answering to voter   demands is clearly different than resorting to clientelistic practices,   although the results might shed light on the topic of clientelism due to the   fact that the allocation of candidates' scarce time might mimic the allocation   process of other resources.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Additionally,   it is important to keep in mind that our paper employs an ideological definition   of core and swing voters. This is different from some of the definitions   encountered in the relevant literature. As Calvo and Murillo (2004) note, among   the different definitions some authors highlight an adherence dimension, for   example a special identity between the party and a defined group of voters (Cox   and McCubbins, 1986). Others stress the loyalty of voters, such as the   ideological proximity to a party's political platforms (Stokes, 2005). Some   works emphasize the physical proximity to party networks (Calvo and Murillo,   2004), and others the relative riskiness of voters (Diaz-Cayeros, 2008). This   can be simplified into three main definitions; (a) Core voters have an   ideological preference toward a party; (b) Core voters are those that parties   may target more easily or cheaply (i.e. the leaky bucket is less leaky for them)   and (c) Core voters are less risky&nbsp; (due to their steady and certain behavior   through time) (Calvo and Murillo, 2009). However, mathematically the three   concepts lead to similar mechanics of altering the expected net-cost of buying   out voters. Thus, the current generation of models cannot distinguish among   them. It is also unclear if our experiment can clear these differences out. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In   this article, following Stokes 2005, we define core voters as loyal voters   whose ideological proximity to a party's political position prevents defection   based on tactical redistribution of benefits by other parties. Our test   explores the effect of the ideological position of voters (core and swing) on   candidates allocation of time and resources. Apparently, this core voter   definition should only be tested in countries where core voters have partisan   or programmatic (not clientelistic) links to parties. While weak partisan   identities would render Brazil an inappropriate setting to conduct the   experiment, the fact that we are manipulating voters ideological positions and   that the communication is individual should enhance the message credibility in the   minds of candidates (Samuels and Zucco, 2012).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   next section explores the experiment in detail. The same design may be employed   to test the reaction of candidates to voters that are more or less proximate,   or their riskiness, but in the current implementation we focus purely on   ideology and propensity to vote.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>The experimental design</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   "email experiment" design is a modification of the "cv experiment". In a "cv   experiment" different applications (e.g. CVs and housing applications) are sent   to multiple recipients to see if they respond in differently depending on the   characteristics of the sender, such as gender, race, and ethnicity (e.g. Firth   1981; Weichselbaumer 2003; Oreopoulos, 2009).&nbsp;&nbsp;&nbsp; </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In   the "contacting the candidate" design the recipient is not an employer but a   candidate running in political elections. The treatments randomly alter the   characteristics of the sender to investigate the behavior of aspiring   politicians during electoral campaigns. The variables that can be easily   recorded by the researcher are the answer rate, the content of the answer, and   the time taken to receive an answer. In the examples reviewed we will focus   only on the answer rate. When using emails as media, as in our implementations,   failure to contact is easily identified, and usually comes with an   identification code (e.g. a spam filter blocked the email, the mailbox was full   or the email did not exist).</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>The experimental design: the Brazilian municipal   elections of 2008</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   Brazilian electoral system for city Assemblies is rather unique: while an open   list allows voters to cast a vote for an individual candidate, it also gives   them the option of voting exclusively for the party (<i>voto de legenda</i>).   Mayors are chosen in single member districts, through a plurality system in   cities with a population of less than 200,000 and a majoritarian run-off system   in cities over that threshold. The Brazilian literature shows that politicians'   personal reputation is key to shaping voters' preferences (Nicolau, 2002;   Carreir&atilde;o and Kinzo, 2004; Carreir&atilde;o, 2007). Parties constantly struggle to   establish themselves and retain a set of loyal supporters. More importantly,   the highly fragmented party system induces the creation of large government   coalitions (Nicolau, 1996; Amorim Neto, 1998). It is very common to observe   traditional leftist parties, such as the Workers' Party (<i>Partido dos     Trabalhadores</i>) and the Socialist Party (<i>Partido Socialista Brasileiro</i>)   establishing coalitions with right wing parties, especially at a local level.   In such a scenario, it is more difficult for Brazilian voters to differentiate   left from right and vice versa (Ames and Smith, 2010). As we will hypothesize   in the conclusion, another possible consequence is that this very unique   institutional setting makes it more difficult for Brazilian candidates to   retain voter support between elections.&nbsp; </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   experiment was conducted on September 22<sup>nd</sup> 2008, two weeks before   the Municipal elections in Brazil. All emails were sent in one day using   newsletter software eliminating the possibility that an external shock would   change the answer rate of different days. We used 18 aliases, 9 males and 9   females. The structure of the email was identical for all <a href="mailto:name.surname@gmail.com">name.surname@gmail.com</a>. We randomized the   most common names and surnames found on a Brazilian website. In the event that   the email would not be available we added a number after the surname. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   experiment focused on the mayoral candidates in every city with more than 50,000   inhabitants (~550 cities). Candidates' emails were obtained from the Brazilian   Electoral Tribunal, with access to a list containing the majority of the   candidates. The number of candidates varies between two and more than 10 per   city, but not all candidates have an email account. Thus in our sample the   number of candidates varies between 1 and 7.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A   total of 1181 emails were sent. We excluded 173 emails from the sample: 103 due   to miscoding of the email and 70 because of sending duplicate emails to the   same recipient. Finally, 7 emails arrived after the Election Day. The total   available sample is 1008.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">An   interesting characteristic of this experiment is that it allows recording   contact failures and analyzing their reasons (e.g. the email account does not   exist, the email account is full). Probably due to the nature of the experiment   we had very few treatment failures. Candidates monitor their email accounts   frequently and thus no email bounced back due to a full email account. Given   that we are studying the difference between the treatment effect and the   placebo effect, and we do not have a traditional control group, we can simply   drop these missing values or contact failures from the sample. Thus the results   we present only apply to politicians who have an active email account.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Given   that the Brazilian experiment was conducted during a municipal election, it was   necessary to find a baseline question concerning   local politics. One important and constant issue of electoral campaigns in   Brazilian cities is the reduction of taxes, in particular the reduction of real   estate tax (IPTU). Therefore each alias asked the same question regarding the   reduction of IPTU. The reduction of taxes is usually a non-neutral question,   because it is more strongly advocated by right-wing coalitions. The presence of   a placebo treatment, in which the senders did not provide any identification,   addresses this problem. A comparison between the answer rates in the treatment   groups and the placebo illuminates the potential bias induced by the question   itself. The placebo group identifies the baseline effect of the message, which is   an average of all the potential effects of the elements of the email that were   not considered as a treatment (the question itself, the specific name of the   sender, the email provider and the time of the day the email was received).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Typically   candidates for the mayor office in Brazil are supported by large electoral   coalitions. These coalitions vary in composition dramatically. Parties that are   allied in one city are often running in opposite coalitions in other cities. In   addition, parties switch coalitions over the years in the same city. For these   reasons the concepts of left and right are difficult to apply in Brazil at the   municipal level. Therefore, we have phrased the treatment to investigate past   support. Some senders declared they have "always voted for the party of the   candidate". Others declared they have "never voted for the party of the   candidate". Finally, a group of senders did not provide any information   regarding past support. We also investigated the effect of gender. The   treatment scheme was therefore 3x3x2x2. The following three examples exemplify   some of the treatments. The original text was in Portuguese.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>Example 1:</i></b><i> Swing; Right; Entrepreneur; Male</i></font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>SUBJECT: A question from an undecided voter</i></font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>How do you do? My name is B and in the past I have always       voted for your party. In this election I am still undecided and I am not sure       if I will vote for you or for another candidate. I have a question regarding       the IPTU. In the past few years I have paid a lot of IPTU and I would like to       know if you will lower the tax rate. I believe that this could increase the tax       revenue of the city. Do you have any proposals concerning this matter?</i></font>    <br>         <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Best Regards</i></font>    <br>         <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Mr. B</i></font>    <br>         <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Small Entrepreneur</i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>Example 2:</i></b><i> Core; placebo; placebo; Female</i></font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>SUBJECT: A question from one of your supporters </i></font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>How do you do? My name is C. In the next election I       will vote for you. I have a question regarding the IPTU. In the past few years       I have paid a lot of IPTU and I would like to know if you will lower the tax rate.       I believe that this could increase the tax revenue of the city. Do you have any       proposals concerning this matter?</i></font>    ]]></body>
+<body><![CDATA[<br>         <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Best Regards</i></font>    <br>         <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Ms. C</i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>Example 3:</i></b><i> placebo; placebo; placebo;   Female</i></font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>SUBJECT: A question</i></font>    <br>     <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>How do you do? My name is B. I have a question regarding       the IPTU. In the last few years I have paid a lot of IPTU and I would like to       know if you will lower the tax rate. I believe that this could increase the tax       revenue of the city. Do you have any proposals concerning this matter?</i></font>    <br>       <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Best Regards</i></font>    <br>       <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Ms. B</i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Additionally,   in order to capture the possibility that the political dynamic in cities with   more than 200,000 registered voters may differ from the smaller cities (between   50,000 and 200,000 registered voters) we have stratified the treatments by   electoral system. Electoral rules in Brazil depend on the size of the   municipality. In cities with more than 200,000 registered voters there is a   second round (run off). That is, if in the first round a candidate does not   receive more than 50% of the valid votes, a second round is held a couple of   weeks later. In cities with less than 200,000 registered voters, the candidate   with the most votes wins, regardless of the 50% margin. In Brazil voting is   compulsory, but the law is not stringently enforced and there are still a   considerable number of people that do not vote. In our sample 269 candidates   were running in cities with a two-round system, while the remaining 789 were   running in smaller cities with a single round.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>The results</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">289   candidates responded to the email. This corresponds to 28.7% of the 1,008   contacts. Candidates from cities with more than 200,000 registered voters and,   consequently, with a run-off election answered slightly more than candidates   from smaller cities (33.4% vs. 27%). <a href="/img/revistas/bpsr/v7n1/a03tab01.jpg">Table 1</a> summarizes the design and displays   the answer rate for each treatment. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Core   voters received more answers (123/359=34.3%) than swing voters (92/294=31.3%),   but this difference is not statistically significant. Voters in the "no   identification" group receive significantly fewer replies than both groups   (74/355=20.8%). A t-test of difference in means between the no identification   group and the swing voters group (-10.4%) always rejected the null. The 95%   confidence interval on the difference is contained between -3% and -17%. Additionally,   the difference between the no identification group and the core treatment group   (-13.4%) is significantly different from zero, while the 95% confidence   interval on the difference is contained between -6.9% and -19.9%.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The lower answer rate to senders   in the no identification group could be due to the fact that the subject of the   email ("a question") contains no reference to the election, while the two other   groups contain explicit references ("a question from one of your supporters"   and "a question from an undecided voter").&nbsp; </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">On inspection of <a href="/img/revistas/bpsr/v7n1/a03tab01.jpg">Table 1</a> two things   stand out. Firstly, among the voters with no declared voting history, those   that sent a core voter message received a higher answer rate (36.7%) than those   that sent a swing message (28.5%). The usual battery of tests reveals that we   cannot rule out the possibility that the difference in the answer rate is zero.   The one tail t-test rejects the null at the 10% level (Pr=0.094), but the one   tail Fisher exact test does not reject the null (Pr=0.119). Thus there is only   a weak indication that the core group mean is larger than the swing group mean.   The 95% confidence interval on the difference is contained between -4% and 20%.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If we now turn our attention to   the first column we can see that among the voters that sent a message with no   identification, those that sent a "non supporter in the past" message received   a higher answer rate (26% vs. 19.7%). This difference is not statistically   significant in our sample. When considering the treatment gender and the   treatment "small entrepreneur" and all the possible interactions we find no   effect.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>The Brazilian case: main   considerations.</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The results of our analysis point   out that Brazilian candidates did not target either swing or core voters   specifically. They instead targeted any sender that could have been a potential   voter. As illustrated in <a href="/img/revistas/bpsr/v7n1/a03tab02.jpg">Table 2</a>, those senders that did not clearly identify   themselves as potential voters received on average 10% less answers:</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">These results could reflect   either the personalistic nature of Brazilian local elections (Nicolau, 2002;   Carreir&atilde;o and Kinzo, 2004; Carreir&atilde;o, 2007), the smaller amount of votes   required for election in small cities, or concerns regarding voters' turnout.   Therefore, to shed additional light on the Brazilian case we present a   multivariate analysis in <a href="/img/revistas/bpsr/v7n1/a03tab03.jpg">Table 3</a> that controls pre-treatment covariates that   might correlate with the answer rate. We also show a Linear Probability model   corrected for heteroskedasticity. To control unobserved municipality   characteristics we use city-specific dummies. The dependent variable is the rate   of answers to the senders. The placebos for the first and second treatment   group are the baseline reference, thus the first four coefficients must be   interpreted as the difference between the treatment effect and the placebo/no   identification email. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The first column is our basic   model using only the experimental treatments. As expected the model recovers   the treatment effects we discussed in the previous section. In the second   column we observe that when introducing city-specific fixed effects, the swing   coefficient becomes insignificant; the model does not detect any statistical   difference between the answer rate to senders that identified themselves as   swing voters or that did not provide any identification. The core coefficient decreases   instead, but remains positive and statistically significant (+10%, with a   p-value of 0.017). The 95% confidence interval for this estimate is contained   between 1.8% and 18.3%. The other treatments (past voting behavior, the sender   identifying themselves as a small entrepreneur) are not statistically   significant, apart from "Male". If the sender identified themselves as a male,   the probability of receiving an answer was slightly lower. This result is   borderline significant at the 10% level, and the 95% confidence interval for   this estimate is contained between -12% and 0.9%.&nbsp;&nbsp; </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The third column introduces three   additional controls. The first ("Education") is a measure of the education of   the candidate; it assumes value 1 if the candidate has completed high school.   The second is the age of the candidate, while the third identifies incumbents that   were running for re-election. While education has no significant impact on the   answer rate, the age of the candidate has a small negative impact and the   incumbency has the largest negative effect on the probability of receiving an   answer. The core coefficient remains positive and statistically significant   (+10.7% with a p-value of 0.011). The 95% confidence interval suggests a   slightly higher value contained between 2.5% and 18.9%.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finally, in the fourth column we   introduce a measurement of the political stance of the coalition supporting the   candidate. Due to the extreme regional differences and the nature of municipal   politics, coalitions are rather fluid in Brazil. Our simple classifications of Left,   Mixed and Right are rather crude. Therefore we present these results   separately, and we caution the reader to take them <i>cum granu salis</i>. From   column 4 we can see that the core treatment effect remains strongly significant   and around 10%, with a 95% confidence interval contained between 2.5% and   18.5%. The effect of incumbency remains most prominent, -22%, with a 95%   confidence interval contained between -32% and 11.8%. Finally, the age of the   candidate and the leaning toward the extreme right of the candidate's coalition   have a minor negative effect on the answer rate. These effects have a weak significance.   The 95% confidence interval for Age is contained between -0.07% and +0.001%,   while the one for the leaning of the coalition toward the extreme right is   contained between -7.5% and +0.01%.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The multivariate analysis reveals   that our experimental results concerning the answer rate to a swing voter are   due to city-specific effects. When we control for city-specific effects the   answer rate to senders that identified themselves as swing voters is not   statistically different from the answer rate to those that did not provide any   identification. The difference between the answer rate to the core voters and   the placebo voters, instead, remains large and statistically significant. Thus,   we conclude that in the 2008 Brazilian municipal elections candidates were   systematically targeting core voters rather than voters that did not provide   any identification. Regarding swing voters our model is silent, not identifying   any statistical difference either between core and swing voters, or between   swing and placebo voters. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If   we focus on the core voter effect, combining the swing and the placebo   treatment, we are able to identify a significantly positive difference between   voters that identified themselves as core and the others. This difference is positive at around   8%, and robust across specifications as can be observed in the first row of   <a href="/img/revistas/bpsr/v7n1/a03tab04.jpg">Table 4</a>. Thus we can display some evidence that during the Brazilian municipal   election of 2008 candidates were targeting more core voters, although it is   difficult to argue that such a pattern is widespread and systematic.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discussion</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The   experiment indicates that politicians at the municipal level in the Brazilian   2008 election cared equally about swing and core voters, but when we introduced   pre-treatment controls and city fixed effects, the results changed (<a href="/img/revistas/bpsr/v7n1/a03tab03.jpg">Tables 3</a> and <a href="/img/revistas/bpsr/v7n1/a03tab04.jpg">4</a>). We obtained some evidence that Brazilian politicians were focusing more   resources on core voters. However, it is difficult to argue that Brazilian   politicians definitely target core voters based on these findings. Despite the   fact that there might be a tendency for candidates to target core voters, only additional   data can confirm such a hypothesis. It is in fact more likely that our results reinforce   models that either consider two-dimensional strategies (Dunning and Stokes,   2008) in which the politicians have a more refined utility function that   targets both core and swing voters at the same time, or an indiscriminate   strategy resulting from an institutional setting that makes it more difficult   for candidates to concentrate their resources in one type of voters. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As   mentioned before, we hypothesize that the unique Brazilian institutional   environment makes it more difficult for politicians to rely on voter loyalty. Carey   and Shugart (1995) show that certain electoral rules create different   incentives for personal vs. partisan votes. They argue that in open list   systems there is an incentive for voters to seek personalistic strategies,   while in closed list systems there are incentives to vote for partisan behavior.   Therefore, it is possible that such patterns are affecting Brazilian majoritarian   elections, but we cannot precisely argue in which direction the institutional   characteristics of Brazilian elections are leading the results. However, we can   argue that Brazilian candidates seem to have invested resources on core voters,   while also targeting swing voters. Additionally, the indiscriminate way of   answering to voters could portray difficulties in formulating efficient   electoral strategies in a very complicated institutional setting. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Only   further replications of the same experiment and in-depth interviews could   clarify if Brazilian candidates truly target voters indiscriminately, and more   importantly how the institutional settings affect the results. Additional   replications of our design could elucidate potential behavioral patterns that   correlate with specific types of election and different political environments.   Although the impossibility of randomly assigning electoral rules will make it unfeasible   to experimentally identify such effects, these replications could further the   understanding of candidates' behavior and the possible effects of specific   political environments<a href="#_edn1" name="_ednref1" title=""><sup>2</sup></a>.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">It   is important to remember that although the overall response rate of candidates   is considered low (around 30%); this number shows some impressive and   unexpected mobilization from candidates in targeting potential voters. A   question that arises from this is, given that "talk is cheap" (and email even   cheaper), why are politicians not responding to everyone? If they answer   indiscriminately, why is the answer rate low since all emails received are   potential voters? Do candidates care about communicating with constituents who   have specific questions? Are there embedded costs in responding electronically   to voters in Brazilian politics that prevent candidates from presenting higher   response rates? These questions require further studies to be properly   answered. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>References</b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AMES,   Barry and SMITH, Amy E. (2010), Knowing Left from Right: Left-Right   Self-Identification and Ideology in Brazil, 2002-2006, <i>Journal of Politics     in Latin America</i>, vol. 2, nº 3, pp. 3-38.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000095&pid=S1981-3821201300010000300001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">AMORIM   NETO, Octavio. (1998), <i>Of Presidents, Parties, and Ministers: Cabinet     Formation and Legislative Decision-Making under Separation of Powers</i>, Unpublished   PhD dissertation, University of California, San Diego.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000097&pid=S1981-3821201300010000300002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ANSOLABEHERE,   Stephen, and SNYDER Jr., James. (2006), Party Control of State Government and   the Distribution of Public Expenditures, <i>Scandinavian Journal of Economics,</i> vol. 108, nº 4, pp. 547-569.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000099&pid=S1981-3821201300010000300003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CALVO,   Ernesto, and MURILLO, Maria V. (2004), Who Delivers? Partisan Clients in the   Argentine electoral market, <i>American Journal of Political Science</i>, vol.   48, nº 4, pp. 742-757.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000101&pid=S1981-3821201300010000300004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CALVO,   Ernesto, and MURILLO, Maria V. (2009), <i>Selecting Clients: Partisan Networks     and the Electoral Benefits of Targeted Distribution</i>, Paper prepared for   presentation at the Comparative Politics Workshop, Yale University, November.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000103&pid=S1981-3821201300010000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CAREY,   John, and SHUGART, Mathew S. (1995), Incentives to cultivate a personal vote: a   rank ordering of electoral formulas, <i>Electoral Studies</i>, vol. 14, nº 4,   pp. 417-439.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000105&pid=S1981-3821201300010000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CARREIR&Atilde;O,   Yan, and KINZO, Maria Dalva. (2004), Partidos Pol&iacute;ticos, Prefer&ecirc;ncia Partid&aacute;ria   e Decis&atilde;o Eleitoral no Brasil (1989/2000), <i>Revista Dados</i>, vol. 47, nº 1,   pp. 131-167.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000107&pid=S1981-3821201300010000300007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CARREIR&Atilde;O,   Yan. (2007), Relevant factors for the voting decision in the 2002 presidential   election: an analysis of the ESEB (Brazilian Electoral Study) Data, <i>Brazilian     Political Science Review</i>, vol. 1, nº 1, pp. 70-101.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000109&pid=S1981-3821201300010000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CASE,   Anne. (2001), Election Goal and Income Redistribution: recent evidence from   Albania, <i>European Economic Review</i>, vol. 45, nº 3, pp. 405-423.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000111&pid=S1981-3821201300010000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COX,   Gary, and McCUBBINS, Mathew. (1986), Electoral Politics as a Redistributive   Game, <i>The Journal of Politics</i>, vol. 48, nº 2, pp. 370-389.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000113&pid=S1981-3821201300010000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->&nbsp; </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">COX,   Gary. (2009), Swing Voters, Core Voters and Distributive Politics, In: <i>Political     Representation</i>, edited by Ian Shapiro, Susan Stokes, Elisabeth Wood and   Alexander S. Kirshner. New York: Cambridge University Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000115&pid=S1981-3821201300010000300011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DAHLBERG,   Matz, and JOHANSSON, Eva. (2002), On the Vote-purchasing Behavior of Incumbents   Governments, <i>American Political Science Review</i>, vol. 96, nº 2, pp.   27-40.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000117&pid=S1981-3821201300010000300012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DIAZ-CAYEROS,   Alberto. (2008), Electoral Risk and redistributive politics in Mexico and the   US, <i>Studies in Comparative International Development</i>, vol. 43, nº 2, pp.   129-150.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000119&pid=S1981-3821201300010000300013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DUNNING,   Thad, and STOKES, Susan. (2008), <i>Persuasion vs. Mobilization: When Do     Clientelist Parties Buy Votes or Turnout?, </i>Paper presented at the 66<sup>th</sup> Midwest Political Science Association Annual National Conference, Chicago, IL.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000121&pid=S1981-3821201300010000300014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FIRTH,   Michael. (1981), Racial Discrimination in the British Labor Market, <i>Industrial     and Labor Relations Review</i>, vol. 34, nº 2, pp. 265-272.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000123&pid=S1981-3821201300010000300015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GERBER,   Alan; GREEN, Donald, and KAPLAN, Edward. (2004), The Illusion of Learning from   Observational Research, In: <i>Problems and Methods in the Study of Politics</i>,   edited by Ian Shapiro, Roger Smith, and Tarek Massoud. New York: Cambridge   University Press.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S1981-3821201300010000300016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GERBER,   Alan, and GREEN, Donald. (2012), <i>Field Experiments: design, analysis, and     interpretation</i>. New York: W.W. Norton &amp; Company.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000127&pid=S1981-3821201300010000300017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GREEN,   Donald. (2009), <i>Regression Adjustments to Experimental Data: Do David     Freedman's Concerns Apply to Political Science?, </i>Paper presented at the 26<sup>th</sup> annual meeting of the Society for Political Methodology, Yale University, July   23-25. &lt;<a href="http://www.polmeth.wustl.edu/media/Paper/Green%20--%20Regression%20Adjustments%20to%20Experimental%20Data%20070809.pdf" target="_blank">http://www.polmeth.wustl.edu/media/Paper/Green     -- Regression Adjustments to Experimental Data 070809.pdf</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000129&pid=S1981-3821201300010000300018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">LINDBECK,   Assar, and WEIBULL, Jorgen. (1987), Balanced-budget Redistribution as the Outcome   of Political Competition, <i>Public Choice</i>, nº 52, pp. 273-297.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000131&pid=S1981-3821201300010000300019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MAGALONI,   Beatriz; DIAZ-CAYEROS, Alberto, and ESTEVEZ, Frederico. (2008), <i>The Core Voter     Model: evidence from Mexico</i>, Paper presented at 104<sup>th</sup> American Political   Science Association Meeting, Boston, MA.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S1981-3821201300010000300020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NICHTER,   Simeon. (2008), Vote Buying or Vote Turnout Buying? Machine Politics and the Secret   Ballot, <i>American Political Science Review</i>, vol. 102, nº1, pp. 19-31.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S1981-3821201300010000300021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NICOLAU,   Jairo. (1996), <i>Multipartidarismo e Democracia: Um Estudo sobre o Sistema     Partid&aacute;rio Brasileiro (1985-94).</i> Rio de Janeiro: Funda&ccedil;&atilde;o Getulio Vargas   Editora.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S1981-3821201300010000300022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">NICOLAU,   Jairo. (2002), Como Controlar o Representante? Considera&ccedil;&otilde;es sobre as elei&ccedil;&otilde;es   para a C&acirc;mara dos Deputados, <i>Revista Dados</i>, vol. 45, nº 2, pp. 219-236.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S1981-3821201300010000300023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">OREOPOULOS,   Philip. (2009), <i>Why Do Skilled Immigrants Struggle in the Labor Market? A     Field Experiment with Six Thousand Resumes, </i>NBER Working Paper Series nº   15036, National Bureau of Economic Research, Cambridge, &lt;<a href="http://www.nber.org/papers/w15036.pdf" target="_blank">http://www.nber.org/papers/w15036.pdf</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S1981-3821201300010000300024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SAMUELS,   David, and ZUCCO, Cesar. (2012), <i>The Power of Partisanship in Brazil: Evidence     from Survey Experiments</i>, Working paper,   &lt;<a href="http://cepesp.foles.wordpress.com/2013/03/samuels-zucco-rr.pdf" target="_blank">http://cepesp.foles.wordpress.com/2013/03/samuels-zucco-rr.pdf</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S1981-3821201300010000300025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SCHADY,   Norbert. (2000), The Political Economy of Expenditure by the Peruvian Social   Fund (FONCODES), <i>American Political Science Review</i>, vol. 94, nº 2, pp. 289-304.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S1981-3821201300010000300026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SPADA,   Paolo. (2007), <i>Political Competition, Candidate Rationality and Selective     Perception: a Field Experiment of Italian 2006 National Elections</i>, Paper   presented at the 65<sup>th</sup> Midwest Political Science Association Annual   National Conference, Chicago, IL.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S1981-3821201300010000300027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SPADA,   Paolo, GUIMAR&Atilde;ES, Feliciano S, CEPALUNI, Gabriel, and KERN, Holger. (2010), <i>On     Politicians' Office-seeking behavior: evidence from a pair of field experiments     in Brazil, </i>Paper presented at the 68<sup>th</sup> Midwest Political Science   Association Annual National Conference, Chicago, IL.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S1981-3821201300010000300028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">STOKES,   Susan. (2005), Perverse Accountability: a formal model of machine politics with   evidence from Argentina, <i>American Political Science Review</i>, vol. 99, nº 3,   pp. 315-326.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S1981-3821201300010000300029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">WEICHSELBAUMER,   Doris. (2003), Sexual Orientation Discrimination in Hiring, <i>Labour     Economics,</i> vol. 10, nº 6, pp. 629-642.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S1981-3821201300010000300030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Submitted in May 2012<br />   Accepted in March 2013</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Notes</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#_ftnref1" name="_ftn1" title="">1</a> We would like to thank Luis   Schiumerini and Jazmin Sierra for their thoughtful comments and proper review   of the paper. We also would like to thank Ernesto Calvo for his comments on one   of the first versions of the experiment. The two BPSR anonymous reviewers   provided important contributions towards the improvement on the interpretation   of the findings. <br />     <a href="#_ednref1" name="_edn1" title="">2</a> We   performed a similar experiment in the 2010 national election. Although the   national election has a rather different institutional setting compared to the   municipal election, we found no differences in answering rates between core and   swing voters. It is important to remember, however, that the 2010 experiment   was also testing other factors such as race and gender that might have biased   the results (Spada, Guimar&atilde;es, Cepaluni and Kern, 2010).</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMES]]></surname>
+<given-names><![CDATA[Barry]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[Amy E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Knowing Left from Right: Left-Right Self-Identification and Ideology in Brazil, 2002-2006]]></article-title>
+<source><![CDATA[Journal of Politics in Latin America]]></source>
+<year>2010</year>
+<volume>2</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>3-38</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMORIM NETO]]></surname>
+<given-names><![CDATA[Octavio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Of Presidents, Parties, and Ministers: Cabinet Formation and Legislative Decision-Making under Separation of Powers]]></source>
+<year>1998</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ANSOLABEHERE]]></surname>
+<given-names><![CDATA[Stephen]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SNYDER Jr.]]></surname>
+<given-names><![CDATA[James]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Party Control of State Government and the Distribution of Public Expenditures]]></article-title>
+<source><![CDATA[Scandinavian Journal of Economics]]></source>
+<year>2006</year>
+<volume>108</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>547-569</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CALVO]]></surname>
+<given-names><![CDATA[Ernesto]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MURILLO]]></surname>
+<given-names><![CDATA[Maria V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Who Delivers?: Partisan Clients in the Argentine electoral market]]></article-title>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2004</year>
+<volume>48</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>742-757</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CALVO]]></surname>
+<given-names><![CDATA[Ernesto]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MURILLO]]></surname>
+<given-names><![CDATA[Maria V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Selecting Clients: Partisan Networks and the Electoral Benefits of Targeted Distribution]]></source>
+<year>2009</year>
+<conf-name><![CDATA[ Comparative Politics Workshop]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CAREY]]></surname>
+<given-names><![CDATA[John]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHUGART]]></surname>
+<given-names><![CDATA[Mathew S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Incentives to cultivate a personal vote: a rank ordering of electoral formulas]]></article-title>
+<source><![CDATA[Electoral Studies]]></source>
+<year></year>
+<volume>14</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>417-439</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARREIRÃO]]></surname>
+<given-names><![CDATA[Yan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KINZO]]></surname>
+<given-names><![CDATA[Maria Dalva]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Partidos Políticos, Preferência Partidária e Decisão Eleitoral no Brasil (1989/2000)]]></article-title>
+<source><![CDATA[Revista Dados]]></source>
+<year>2004</year>
+<volume>47</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>131-167</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARREIRÃO]]></surname>
+<given-names><![CDATA[Yan]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Relevant factors for the voting decision in the 2002 presidential election: an analysis of the ESEB (Brazilian Electoral Study) Data]]></article-title>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2007</year>
+<volume>1</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>70-101</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CASE]]></surname>
+<given-names><![CDATA[Anne]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Election Goal and Income Redistribution: recent evidence from Albania]]></article-title>
+<source><![CDATA[European Economic Review]]></source>
+<year>2001</year>
+<volume>45</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>405-423</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COX]]></surname>
+<given-names><![CDATA[Gary]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McCUBBINS]]></surname>
+<given-names><![CDATA[Mathew]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Electoral Politics as a Redistributive Game]]></article-title>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>1986</year>
+<volume>48</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>370-389</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COX]]></surname>
+<given-names><![CDATA[Gary]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Swing Voters, Core Voters and Distributive Politics]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Shapiro]]></surname>
+<given-names><![CDATA[Ian]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stokes]]></surname>
+<given-names><![CDATA[Susan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wood]]></surname>
+<given-names><![CDATA[Elisabeth]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kirshner]]></surname>
+<given-names><![CDATA[Alexander S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Representation]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DAHLBERG]]></surname>
+<given-names><![CDATA[Matz]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JOHANSSON]]></surname>
+<given-names><![CDATA[Eva]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the Vote-purchasing Behavior of Incumbents Governments]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2002</year>
+<volume>96</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>27-40</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIAZ-CAYEROS]]></surname>
+<given-names><![CDATA[Alberto]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Electoral Risk and redistributive politics in Mexico and the US]]></article-title>
+<source><![CDATA[Studies in Comparative International Development]]></source>
+<year>2008</year>
+<volume>43</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>129-150</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DUNNING]]></surname>
+<given-names><![CDATA[Thad]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STOKES]]></surname>
+<given-names><![CDATA[Susan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Persuasion vs. Mobilization: When Do Clientelist Parties Buy Votes or Turnout?]]></source>
+<year>2008</year>
+<conf-name><![CDATA[66 Midwest Political Science Association Annual National Conference]]></conf-name>
+<conf-loc>Chicago IL</conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIRTH]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Racial Discrimination in the British Labor Market]]></article-title>
+<source><![CDATA[Industrial and Labor Relations Review]]></source>
+<year>1981</year>
+<volume>34</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>265-272</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GERBER]]></surname>
+<given-names><![CDATA[Alan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GREEN]]></surname>
+<given-names><![CDATA[Donald]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KAPLAN]]></surname>
+<given-names><![CDATA[Edward]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Illusion of Learning from Observational Research]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Shapiro]]></surname>
+<given-names><![CDATA[Ian]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[Roger]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Massoud]]></surname>
+<given-names><![CDATA[Tarek]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Problems and Methods in the Study of Politics]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GERBER]]></surname>
+<given-names><![CDATA[Alan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GREEN]]></surname>
+<given-names><![CDATA[Donald]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Field Experiments: design, analysis, and interpretation]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[W.W. Norton & Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GREEN]]></surname>
+<given-names><![CDATA[Donald]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Regression Adjustments to Experimental Data: Do David Freedman's Concerns Apply to Political Science?]]></source>
+<year>2009</year>
+<conf-name><![CDATA[26 annual meeting of the Society for Political Methodology]]></conf-name>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LINDBECK]]></surname>
+<given-names><![CDATA[Assar]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WEIBULL]]></surname>
+<given-names><![CDATA[Jorgen]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Balanced-budget Redistribution as the Outcome of Political Competition]]></article-title>
+<source><![CDATA[Public Choice]]></source>
+<year>1987</year>
+<numero>52</numero>
+<issue>52</issue>
+<page-range>273-297</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAGALONI]]></surname>
+<given-names><![CDATA[Beatriz]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DIAZ-CAYEROS]]></surname>
+<given-names><![CDATA[Alberto]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ESTEVEZ]]></surname>
+<given-names><![CDATA[Frederico]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Core Voter Model: evidence from Mexico]]></source>
+<year>2008</year>
+<conf-name><![CDATA[104 American Political Science Association Meeting]]></conf-name>
+<conf-loc>Boston MA</conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NICHTER]]></surname>
+<given-names><![CDATA[Simeon]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Vote Buying or Vote Turnout Buying?: Machine Politics and the Secret Ballot]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2008</year>
+<volume>102</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>19-31</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NICOLAU]]></surname>
+<given-names><![CDATA[Jairo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multipartidarismo e Democracia: Um Estudo sobre o Sistema Partidário Brasileiro (1985-94)]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Fundação Getulio Vargas Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NICOLAU]]></surname>
+<given-names><![CDATA[Jairo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Como Controlar o Representante?: Considerações sobre as eleições para a Câmara dos Deputados]]></article-title>
+<source><![CDATA[Revista Dados]]></source>
+<year>2002</year>
+<volume>45</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>219-236</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OREOPOULOS]]></surname>
+<given-names><![CDATA[Philip]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Why Do Skilled Immigrants Struggle in the Labor Market?: A Field Experiment with Six Thousand Resumes]]></source>
+<year>2009</year>
+<conf-name><![CDATA[ NBER Working Paper]]></conf-name>
+<conf-loc>Cambridge </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAMUELS]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZUCCO]]></surname>
+<given-names><![CDATA[Cesar]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Power of Partisanship in Brazil: Evidence from Survey Experiments]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SCHADY]]></surname>
+<given-names><![CDATA[Norbert]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Political Economy of Expenditure by the Peruvian Social Fund (FONCODES)]]></article-title>
+<source><![CDATA[American Political Science Revie]]></source>
+<year>2000</year>
+<volume>94</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>289-304</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPADA]]></surname>
+<given-names><![CDATA[Paolo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Competition, Candidate Rationality and Selective Perception: a Field Experiment of Italian 2006 National Elections]]></source>
+<year>2007</year>
+<conf-name><![CDATA[65 Midwest Political Science Association Annual National Conference]]></conf-name>
+<conf-loc>Chicago IL</conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPADA]]></surname>
+<given-names><![CDATA[Paolo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GUIMARÃES]]></surname>
+<given-names><![CDATA[Feliciano S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CEPALUNI]]></surname>
+<given-names><![CDATA[Gabriel]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KERN]]></surname>
+<given-names><![CDATA[Holger]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[On Politicians' Office-seeking behavior: evidence from a pair of field experiments in Brazil]]></source>
+<year>2010</year>
+<conf-name><![CDATA[68 Midwest Political Science Association Annual National Conference]]></conf-name>
+<conf-loc>Chicago IL</conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STOKES]]></surname>
+<given-names><![CDATA[Susan]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Perverse Accountability: a formal model of machine politics with evidence from Argentina]]></article-title>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2005</year>
+<volume>99</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>315-326</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WEICHSELBAUMER]]></surname>
+<given-names><![CDATA[Doris]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sexual Orientation Discrimination in Hiring]]></article-title>
+<source><![CDATA[Labour Economics]]></source>
+<year>2003</year>
+<volume>10</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>629-642</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

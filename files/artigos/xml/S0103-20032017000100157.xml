@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032017000100157</article-id>
+<article-id pub-id-type="doi">10.1590/1234-56781806-94790550109</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Avaliação Ex-post de Ato de Concentração na Indústria de Máquinas Agrícolas com o Uso de Séries Temporais1]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Rodrigo Peixoto da]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vian]]></surname>
+<given-names><![CDATA[Carlos Eduardo de Freitas]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade de São Paulo  ]]></institution>
+<addr-line><![CDATA[Piracicaba SP]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,Universidade de São Paulo  ]]></institution>
+<addr-line><![CDATA[Piracicaba SP]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>01</month>
+<year>2017</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>01</month>
+<year>2017</year>
+</pub-date>
+<volume>55</volume>
+<numero>1</numero>
+<fpage>157</fpage>
+<lpage>178</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032017000100157&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032017000100157&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032017000100157&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo: Este trabalho analisa a estrutura do mercado de tratores agrícolas no Brasil e mensura os impactos da concentração oriunda da aquisição da Valtra pela AGCO, as duas maiores empresas neste segmento, sobre o indicador de poder de mercado (índice de Lerner). Para isso, foi realizada a estimação de uma função demanda por tratores agrícolas incluindo variáveis de intervenção (dummies de intercepto e de inclinação) para que seus parâmetros fossem utilizados no cálculo do indicador. Utilizou-se para este fim a metodologia de análise de cointegração com um Modelo Vetorial de Correção de Erros (VECM). Os resultados indicam que a concentração não se refletiu em mudanças significativas nas elasticidades preço. No entanto, o poder de mercado, que é elevado em nível, aumentou significativamente após a fusão, devido à parcela de mercado que a AGCO conquistou.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract: This study analyses the structure of the market of agricultural tractors in Brazil and measures the impacts of concentration from the acquisition of Valtra by AGCO, the two larger companies in the local market, on the market power index (Lerner index). In order to do this, a demand function for agricultural tractors including intervention variables (dummies of intercept and slope) was conducted so that its parameters were used in the index. For this purpose, the methodology of Cointegration Analyses with a Vector Error Correction Model (VECM) was used. The results indicate that the concentration was not reflected in significant changes in price elasticities. On the other hand, the Lerner index, which is high in level, increased considerably after the merger due to the market share gains of AGCO.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Concentração de mercado]]></kwd>
+<kwd lng="pt"><![CDATA[tratores agrícolas]]></kwd>
+<kwd lng="pt"><![CDATA[cointegração]]></kwd>
+<kwd lng="pt"><![CDATA[modelo vetorial de correção de erros]]></kwd>
+<kwd lng="pt"><![CDATA[poder de mercado.]]></kwd>
+<kwd lng="en"><![CDATA[Market concentration]]></kwd>
+<kwd lng="en"><![CDATA[agricultural tractors]]></kwd>
+<kwd lng="en"><![CDATA[cointegration]]></kwd>
+<kwd lng="en"><![CDATA[vectorial error correction model]]></kwd>
+<kwd lng="en"><![CDATA[market power.]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Short-run, long-run and cross elasticities of gasoline demand in Brazil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[D. C. O]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BUENO]]></surname>
+<given-names><![CDATA[R. L. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Energy Economics]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Elsevier ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>ANFAVEA</collab>
+<source><![CDATA[Anuário da indústria automobilística brasileira]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<collab>ANFAVEA</collab>
+<source><![CDATA[Anuário da indústria automobilística brasileira]]></source>
+<year>2009</year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<collab>ANFAVEA</collab>
+<source><![CDATA[Anuário da indústria automobilística brasileira]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="">
+<collab>ANFAVEA</collab>
+<source><![CDATA[Base de dados estatísticos]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="">
+<collab>ANUÁRIO DO INSTITUTO DE ECONOMIA AGRÍCOLA</collab>
+<source><![CDATA[Estimativa de custo de operação de máquinas e implementos agrícolas]]></source>
+<year>2005</year>
+<volume>17</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>57</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<collab>ANUÁRIO ESTATÍSTICO DO CRÉDITO RURAL</collab>
+<source><![CDATA[ANUÁRIO ESTATÍSTICO DO CRÉDITO RURAL]]></source>
+<year>1999</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The estimation of degree of oligopoly power]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[APPELBAUM]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Econometrics, Lausanne]]></source>
+<year>1982</year>
+<volume>19</volume>
+<page-range>287-99</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAIN]]></surname>
+<given-names><![CDATA[J. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Barriers to New Competition]]></source>
+<year>1956</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAIN]]></surname>
+<given-names><![CDATA[J. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Industrial organization]]></source>
+<year>1968</year>
+<edition>2. ed.</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Oferta e demanda de máquinas agrícolas no Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BARICELO]]></surname>
+<given-names><![CDATA[L. G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C. J. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de política agrícola]]></source>
+<year>2013</year>
+<volume>22</volume>
+<page-range>67-83</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Contestable Markets: an Uprising in the Theory of Industry Structure]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAUMOL]]></surname>
+<given-names><![CDATA[W. J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PANZAR]]></surname>
+<given-names><![CDATA[J. C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WILLIG]]></surname>
+<given-names><![CDATA[R. D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The American Economic Review]]></source>
+<year>1983</year>
+<volume>73</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>491-6</page-range><publisher-loc><![CDATA[Pittsburgh ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BCB - Banco Central do]]></surname>
+<given-names><![CDATA[Brasil]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sistema gerenciador de séries temporais: banco de dados do Banco Central]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Concentração e poder de mercado na indústria brasileira de tratores]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRAGAGNOLO]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PITELLI]]></surname>
+<given-names><![CDATA[M. M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MORAES]]></surname>
+<given-names><![CDATA[M. A. F. D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Administração]]></source>
+<year>2010</year>
+<page-range>425-55</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The oligopoly solution concept is identified]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRESNAHAN]]></surname>
+<given-names><![CDATA[T. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economics Letters]]></source>
+<year>1982</year>
+<volume>19</volume>
+<page-range>87-92</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BRESNAHAN]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHMALENSEE]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WILLIG]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Handbook of Industrial Organization]]></source>
+<year>1989</year>
+<page-range>1011-57</page-range><publisher-loc><![CDATA[Amsterdã ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BUENO]]></surname>
+<given-names><![CDATA[R. D. L. D. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria de Séries Temporais]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Cengage Learning]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHURCH]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WARE]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Industrial organization: a Strategic Approach]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Irwin ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Deadweight Loss in Oligopoly: a New Approach]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DASKIN]]></surname>
+<given-names><![CDATA[A. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Southern Economic Journal]]></source>
+<year>1991</year>
+<volume>58</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>171-85</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Defining and meeting the demand for agricultural machinery in China: a case study of John Deere]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DAVIS]]></surname>
+<given-names><![CDATA[G. W]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BAILEY]]></surname>
+<given-names><![CDATA[D. V]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CHUDOBA]]></surname>
+<given-names><![CDATA[K. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Food and Agribusiness Management Review]]></source>
+<year>2010</year>
+<volume>13</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>97-120</page-range><publisher-name><![CDATA[College Station]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[An Almost Ideal Demand System]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DEATON]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUELLBAUER]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Economic Review]]></source>
+<year>1980</year>
+<month>a</month>
+<volume>70</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>312-26</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Theories of cartel stability and the Joint Executive Committee]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ELLISON]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RAND Journal of Economics]]></source>
+<year>1994</year>
+<volume>25</volume>
+<page-range>37-57</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENDERS]]></surname>
+<given-names><![CDATA[W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied Econometric Time Series]]></source>
+<year>2015</year>
+<edition>4. ed.</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Cointegration and Error Correction: Representation, Estimation and Testing]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica]]></source>
+<year>1987</year>
+<volume>55</volume>
+<page-range>521-276</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[De Mason e seus estudos de casos à firma jogando em um contexto estratégico: uma história do progresso nas teorias da organização industrial]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FONTENELE]]></surname>
+<given-names><![CDATA[A. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ensaios FEE]]></source>
+<year>2000</year>
+<volume>21</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>32-57</page-range><publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[La industria argentina de maquinaria agrícola]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GARCÍA]]></surname>
+<given-names><![CDATA[G. M. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de la CEPAL]]></source>
+<year>2008</year>
+<numero>96</numero>
+<issue>96</issue>
+<page-range>221-37</page-range><publisher-loc><![CDATA[Santiago do Chile ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GRILICHES]]></surname>
+<given-names><![CDATA[Z]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[The Demand for a Durable Input: U.S. Farm Tractors 1929-1957]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HARBER]]></surname>
+<given-names><![CDATA[A. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Demand for Durable Goods]]></source>
+<year>1960</year>
+<page-range>181- 207</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<collab>IEA - Instituto de Economia Agrícola</collab>
+<source><![CDATA[Banco de dados]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Estimation and hypotesis testing of cointegration vectors in gaussian vector autoregressive models]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHANSEN]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometrica]]></source>
+<year>1991</year>
+<volume>59</volume>
+<page-range>1551-80</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KUDRLE]]></surname>
+<given-names><![CDATA[R. T]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Agricultural tractors: a World Industry Study]]></source>
+<year>1975</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Ballinger Publishing Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LABINI]]></surname>
+<given-names><![CDATA[P. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Oligopólio e progresso técnico]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Abril]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Short-Run and Long-Run Elasticities of Diesel Demand in Korea]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIM]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Energy Economics]]></source>
+<year>2012</year>
+<publisher-name><![CDATA[Elsevier]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACKINNON]]></surname>
+<given-names><![CDATA[J. G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Critical Values for Cointegration Tests]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[ENGLE]]></surname>
+<given-names><![CDATA[R. F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRANGER]]></surname>
+<given-names><![CDATA[C. W. J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Long-Run Economic Relationships: readings in cointegration]]></source>
+<year>1991</year>
+<page-range>267-76</page-range><publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Price Production Policies of Large-Scale Enterprise]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MASON]]></surname>
+<given-names><![CDATA[E. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Economic Review]]></source>
+<year>1939</year>
+<volume>29</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>64-71</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORETTIN]]></surname>
+<given-names><![CDATA[P. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometria financeira: um curso de séries temporais financeiras]]></source>
+<year>2011</year>
+<edition>2. ed.</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Blucher]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Determinantes do comércio Brasil-China de commodities e produtos industriais: uma aplicação VECM]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORTATTI]]></surname>
+<given-names><![CDATA[C. M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[S. H. G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACCHI]]></surname>
+<given-names><![CDATA[M. R. P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia Aplicada]]></source>
+<year>2011</year>
+<volume>15</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>311-35</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Structural Breaks, Cointegration and Causality by VECM Analysis of Crude Oil and Food Price]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PALA]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Journal of Energy Economics and Policy]]></source>
+<year>2013</year>
+<volume>3</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>238-46</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A Study of Cartel Stability: the Joint Executive Committee, 1880-1886]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PORTER]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bell Journal of Economics]]></source>
+<year>1983</year>
+<volume>14</volume>
+<page-range>301-14</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POSSAS]]></surname>
+<given-names><![CDATA[M. L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estruturas de Mercado em Oligopólio]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[HUCITEC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="">
+<collab>SEAE - Secretaria de Acompanhamento Econômico</collab>
+<source><![CDATA[Ato de concentração nº 08012.007603/2003-66]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[R. P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A indústria de máquinas agrícolas, formação de um oligopólio, internacionalização e poder de mercado]]></source>
+<year>2015</year>
+<page-range>114</page-range><publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STEINDL]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pequeno e grande capital: problemas econômicos do tamanho das empresas]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Hucitec]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Linear Expenditure Systems and Demand Analysis: an Application to the Pattern of British Demand]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STONE]]></surname>
+<given-names><![CDATA[J. R. N]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Economic Journal]]></source>
+<year>1954</year>
+<volume>64</volume>
+<numero>255</numero>
+<issue>255</issue>
+<page-range>511-27</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TIROLE]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Theory of Industrial Organization]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[MIT Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VIAN]]></surname>
+<given-names><![CDATA[C. E. D. F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Dinâmica dos investimentos no subsetor de máquinas agrícolas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[SABBATINI]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Perspectivas do investimento no Brasil]]></source>
+<year>2009</year>
+<page-range>111-33</page-range><publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[Unicamp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Origens, evolução e tendências da indústria de máquinas agrícolas]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VIAN]]></surname>
+<given-names><![CDATA[C. E. D. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2013</year>
+<volume>51</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>719-44</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The importance of brand in the industrial purchase decision: a case study of UK tractor market]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WALLEY]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CUNSTANCE]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TAYLOR]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Business &amp; Industrial Marketing]]></source>
+<year>2007</year>
+<volume>22</volume>
+<page-range>383-93</page-range><publisher-loc><![CDATA[Bradford ]]></publisher-loc>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

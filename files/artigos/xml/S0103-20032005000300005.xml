@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032005000300005</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032005000300005</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Um estudo da viabilidade de um programa de seguro agrícola baseado em um índice de produtividade regional em Castro (PR)]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ozaki]]></surname>
+<given-names><![CDATA[Vitor Augusto]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Shirota]]></surname>
+<given-names><![CDATA[Ricardo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,USP ESALQ DEAS]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2005</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2005</year>
+</pub-date>
+<volume>43</volume>
+<numero>3</numero>
+<fpage>485</fpage>
+<lpage>503</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032005000300005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032005000300005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032005000300005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Este trabalho analisa a viabilidade de um seguro agrícola baseado em um índice de produtividade regional na região de Castro, no Estado do Paraná. Em particular estimam-se os seguintes indicadores: redução do risco sistêmico proveniente da aquisição deste tipo de contrato, o nível de cobertura ótimo, a correlação entre a produtividade regional e a produtividade individual, e o impacto do nível de agregação da produtividade nos indicadores relacionados. A análise empírica foi realizada para milho e soja, no período de 1990 a 2002, com dados municipais, e de 1994 a 2003, com dados individuais. Os resultados mostraram que o seguro regional poderia ser utilizado como uma alternativa plausível na região, visto que a maioria dos produtores se beneficiariam de uma relativa redução do risco sistêmico.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This article studies the viability of an area-based crop insurance in Castro county, in the State of Paraná. In particular we estimate the following indexes: reduction of the systemic risk, the optimum level of coverage, the correlation between the regional and the individual yields and the impact of the level of aggregation of yields on the risk reduction. The empirical analysis was carried through for corn and soybean, in the period of 1990 the 2002, with county data and in the period of 1994 the 2003, with individual data. Results shown that area-based crop insurance could be used as a reasonable alternative to manage risk in the region, due to the fact that most producers shown a relative risk reduction.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[seguro agrícola]]></kwd>
+<kwd lng="pt"><![CDATA[risco sistêmico]]></kwd>
+<kwd lng="pt"><![CDATA[correlação temporal]]></kwd>
+<kwd lng="en"><![CDATA[crop insurance]]></kwd>
+<kwd lng="en"><![CDATA[systemic risk]]></kwd>
+<kwd lng="en"><![CDATA[temporal correlation]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b><a name="top01"></a>Um    estudo da viabilidade de um programa de seguro agr&iacute;cola baseado em um    &iacute;ndice de produtividade regional em Castro (PR)<a href="#back01"><sup>*</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Vitor Augusto    Ozaki<sup>I</sup>; Ricardo Shirota<sup>II</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Doutor    em Economia Aplicada, Pesquisador PRODOC, USP/ESALQ/DEAS. <a href="mailto:vaozaki@esalq.usp.br">vaozaki@esalq.usp.br</a>    <br>   <sup>II</sup>Professor    Doutor e coordenador da P&oacute;s-gradua&ccedil;&atilde;o em Economia Aplicada    &#150; DEAS/ESALQ/USP. <a href="mailto:rshirota@esalq.usp.br">rshirota@esalq.usp.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> Este trabalho    analisa a viabilidade de um seguro agr&iacute;cola baseado em um &iacute;ndice    de produtividade regional na regi&atilde;o de Castro, no Estado do Paran&aacute;.    Em particular estimam-se os seguintes indicadores: redu&ccedil;&atilde;o do    risco sist&ecirc;mico proveniente da aquisi&ccedil;&atilde;o deste tipo de contrato,    o n&iacute;vel de cobertura &oacute;timo, a correla&ccedil;&atilde;o entre a    produtividade regional e a produtividade individual, e o impacto do n&iacute;vel    de agrega&ccedil;&atilde;o da produtividade nos indicadores relacionados. A    an&aacute;lise emp&iacute;rica foi realizada para milho e soja, no per&iacute;odo    de 1990 a 2002, com dados municipais, e de 1994 a 2003, com dados individuais.    Os resultados mostraram que o seguro regional poderia ser utilizado como uma    alternativa plaus&iacute;vel na regi&atilde;o, visto que a maioria dos produtores    se beneficiariam de uma relativa redu&ccedil;&atilde;o do risco sist&ecirc;mico.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chave:</b>    seguro agr&iacute;cola, risco sist&ecirc;mico, correla&ccedil;&atilde;o temporal</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Classifica&ccedil;&atilde;o    JEL:</b> Q19</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">This article    studies the viability of an area-based crop insurance in Castro county, in the    State of Paran&aacute;. In particular we estimate the following indexes: reduction    of the systemic risk, the optimum level of coverage, the correlation between    the regional and the individual yields and the impact of the level of aggregation    of yields on the risk reduction. The empirical analysis was carried through    for corn and soybean, in the period of 1990 the 2002, with county data and in    the period of 1994 the 2003, with individual data. Results shown that area-based    crop insurance could be used as a reasonable alternative to manage risk in the    region, due to the fact that most producers shown a relative risk reduction.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key words:</b>    crop insurance, systemic risk, temporal correlation</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Jel classification:</b>    Q19</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1 Introdu&ccedil;&atilde;o</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O seguro agr&iacute;cola tradicional, ou seja, aquele em que o mecanismo de compensa&ccedil;&atilde;o est&aacute; atrelado somente &agrave; produtividade individual, historicamente, tem apresentado diversos problemas nos pa&iacute;ses em que foi implantado, como EUA, Espanha, M&eacute;xico. (Hazell <i>et al</i>., 1986; Miranda, Skees, Hazell, 1999; Ozaki e Shirota, 2005).</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Diversos s&atilde;o    os empecilhos para o sucesso do seguro agr&iacute;cola naqueles pa&iacute;ses.    Dentre eles, destacam-se: o problema do risco moral<a name="top1"></a><a href="#back1"><sup>1</sup></a>;    a sele&ccedil;&atilde;o adversa<a name="top2"></a><a href="#back2"><sup>2</sup></a>;    o risco sist&ecirc;mico<a name="top3"></a><a href="#back3"><sup>3</sup></a>;    e, a inexist&ecirc;ncia de s&eacute;ries suficientemente longas de dados de    produtividade agr&iacute;cola individual. Este &uacute;ltimo ponto somado &agrave;    falta de uma metodologia atuarial adequada de precifica&ccedil;&atilde;o de    contratos de seguro agr&iacute;cola, resultam em taxas de pr&ecirc;mio inexatas    e mal calculadas com severas implica&ccedil;&otilde;es para as seguradoras<a name="top4"></a><a href="#back4"><sup>4</sup></a>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por outro lado, o seguro de produtividade regional, apresenta uma grande vantagem em rela&ccedil;&atilde;o ao seguro tradicional: a elimina&ccedil;&atilde;o, total ou parcial, do problema da assimetria de informa&ccedil;&atilde;o e redu&ccedil;&atilde;o dos altos custos associados &agrave; fiscaliza&ccedil;&atilde;o e &agrave; verifica&ccedil;&atilde;o do sinistro, principalmente quando o evento causador do preju&iacute;zo atinge uma &aacute;rea relativamente extensa.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As primeiras iniciativas de segurar a lavoura no Brasil ocorreram em meados da d&eacute;cada de 1950, com a institui&ccedil;&atilde;o da Companhia Nacional de Seguros Agr&iacute;colas (CNSA), atrav&eacute;s da Lei n&deg; 2.168, de janeiro de 1954. A Companhia operou durante apenas 13 anos, interrompendo suas atividades em 1966, devido aos elevados d&eacute;ficits que n&atilde;o conseguiram ser saneados pelo seu corpo administrativo, principalmente, em fun&ccedil;&atilde;o dos problemas j&aacute; colocados anteriormente (Santos, 1967).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Passados sete anos ap&oacute;s a dissolu&ccedil;&atilde;o da CNSA, o governo federal aprovou a Lei nº 5.969, de 11 de dezembro de 1973, criando o PROAGRO. No fim da d&eacute;cada de 90, ap&oacute;s sucessivos anos de d&eacute;ficit, o programa passou por uma reformula&ccedil;&atilde;o operacional, que possibilitou uma expressiva melhora em seus resultados no per&iacute;odo subsequente (Rossetti, 1998; Rossetti, 2001).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Recentemente, a    Lei nº 10.823, de 19 de dezembro de 2003, concedeu subven&ccedil;&atilde;o    ao pr&ecirc;mio na aquisi&ccedil;&atilde;o seguro agr&iacute;cola<a name="top02"></a><a href="#back02"><sup>**</sup></a>.    Esta medida tende a incentivar maior demanda de contratos de seguro agr&iacute;cola    pelos produtores no pa&iacute;s e tende a popularizar este mecanismo de administra&ccedil;&atilde;o    do risco agr&iacute;cola entre os produtores. Visto que, em fun&ccedil;&atilde;o    das altas taxas de pr&ecirc;mio, decorrentes do alto risco intr&iacute;nseco    &agrave; atividade agr&iacute;cola, poucos utilizavam o seguro agr&iacute;cola.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Este artigo analisa    a possibilidade da implanta&ccedil;&atilde;o de um seguro baseado em um indicador    de produtividade regional<a name="top5"></a><a href="#back5"><sup>5</sup></a>.    Diversos aspectos pertinentes ao desenho de um contrato de seguro agr&iacute;cola    s&atilde;o discutidos ao longo do trabalho mas, especificamente, ressalta-se    o problema do risco sist&ecirc;mico<a name="top6"></a><a href="#back6"><sup>6</sup></a>    e da correla&ccedil;&atilde;o existente entre a produtividade regional e municipal.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2 Revis&atilde;o    Metodol&oacute;gica</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O seguro baseado em um indicador de produtividade regional foi definido pela primeira vez em Halcrow (1949). Este tipo de seguro teria o pr&ecirc;mio e a indeniza&ccedil;&atilde;o baseados na produtividade de determinada &aacute;rea. A indeniza&ccedil;&atilde;o seria paga quando a produtividade m&eacute;dia da regi&atilde;o fosse menor do que um percentual da produtividade normal ou esperada. Esta produtividade seria calculada com base em uma m&eacute;dia ponderada da produtividade da regi&atilde;o em um determinado per&iacute;odo de tempo, levando em conta as mudan&ccedil;as econ&ocirc;micas e tecnol&oacute;gicas, que poderiam influenciar na varia&ccedil;&atilde;o da produtividade. O limite geogr&aacute;fico da regi&atilde;o, sua uniformidade e homogeneidade e a correla&ccedil;&atilde;o entre a produtividade dos produtores segurados com a da regi&atilde;o considerada, s&atilde;o alguns aspectos importantes neste tipo de seguro.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No modelo de Miranda    (1991), a produtividade individual &eacute; decomposta em um componente sist&ecirc;mico<a name="top7"></a><a href="#back7"><sup>7</sup></a>,    que s&atilde;o os fatores que afetam os produtores em uma determinada &aacute;rea,    e um componente n&atilde;o sist&ecirc;mico. Deste modo, a produtividade local    do produtor <i>i</i>, <img src="/img/revistas/resr/v43n3/27743s1.gif" align="absmiddle">, pode    ser caracterizada, da seguinte maneira:</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v43n3/27743x1.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que: <font face="Symbol">b</font><i><sub>i</sub></i>    representa a sensibilidade da produtividade individual aos fatores sist&ecirc;micos    que afetam a produtividade regional; &#181;<i><sub>i</sub></i> &eacute; a m&eacute;dia    da produtividade individual; &#181; &eacute; a m&eacute;dia da produtividade    regional; <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle"> &eacute; a produtividade    regional, o termo <font face="Symbol">b</font><i><sub>i</sub></i> ( <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">    &#150; &#181;) o risco sist&ecirc;mico; e, <img src="/img/revistas/resr/v43n3/27743s3.gif" align="absmiddle">    o risco n&atilde;o sist&ecirc;mico.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Desta forma, um    contrato de seguro de produtividade regional, cobra um pr&ecirc;mio <i>P</i>,    e paga uma indeniza&ccedil;&atilde;o<a name="top8"></a><a href="#back8"><sup>8</sup></a>    igual a (<i>y</i><sub>c</sub> &#150; <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">),    caso a produtividade regional <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">    seja menor que a produtividade cr&iacute;tica <i>y</i><sub>c</sub>. O mecanismo    de compensa&ccedil;&atilde;o ser&aacute; dado por <i>I</i> = <font face="Symbol">f</font>max    (y<sub>c</sub> &#150; <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">, 0),    onde <i>I</i> &eacute; a indeniza&ccedil;&atilde;o paga, em volume f&iacute;sico,    quando o gatilho de compensa&ccedil;&atilde;o representada pela produtividade    observada (<img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">) &eacute; menor    que a produtividade cr&iacute;tica (<i>y</i><sub>c</sub>), tamb&eacute;m denominada    limite do gatilho de compensa&ccedil;&atilde;o, e &eacute; <font face="Symbol">f</font>    o n&iacute;vel de cobertura.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A produtividade    l&iacute;quida individual <img src="/img/revistas/resr/v43n3/27743s4.GIF" align="absmiddle"> ser&aacute;    dada por <img src="/img/revistas/resr/v43n3/27743s4.GIF" align="absmiddle"> = <img src="/img/revistas/resr/v43n3/27743s1.gif" align="absmiddle">    &#150; <i>P</i> + <i>I</i>. Isto &eacute;, o produtor ter&aacute; uma produtividade    l&iacute;quida igual &agrave; produtividade obtida menos o pr&ecirc;mio pago    pelo seguro mais o eventual pagamento da indeniza&ccedil;&atilde;o. Supondo    que o pr&ecirc;mio seja justo, ou seja, <i>P</i> = <i>E</i>(<i>I</i>), e que    o risco de produtividade seja dado pela vari&acirc;ncia da produtividade l&iacute;quida,    ent&atilde;o: var(<img src="/img/revistas/resr/v43n3/27743s4.GIF" align="absmiddle">) = var(<img src="/img/revistas/resr/v43n3/27743s1.gif" align="absmiddle">)    + var(<i>I</i>) + 2cov(<img src="/img/revistas/resr/v43n3/27743s1.gif" align="absmiddle">, <i>I</i>).</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pela aquisi&ccedil;&atilde;o    do seguro, o produtor reduz seu risco de produtividade no montante equivalente    &agrave; diferen&ccedil;a entre a vari&acirc;ncia da produtividade local e a    vari&acirc;ncia da produtividade l&iacute;quida, dada pela eq. (2):</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x2.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como cov(<img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">,    <img src="/img/revistas/resr/v43n3/27743s3.gif" align="absmiddle">) = 0 e cov(<i>I</i>, <img src="/img/revistas/resr/v43n3/27743s3.gif" align="absmiddle">)    = 0, de acordo com (1), temos:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x3.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Miranda (1991)    define o "beta cr&iacute;tico", como:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x4.gif"></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como a produtividade    regional e a indeniza&ccedil;&atilde;o s&atilde;o negativamente correlacionadas,    ent&atilde;o <font face="Symbol">b</font><i><sub>c</sub></i> &gt; 0. Pode-se    verificar, levando em conta a equa&ccedil;&atilde;o (2), (3) e (4) que:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x5.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nota-se que, <font face="Symbol">b</font><i><sub>c</sub></i>    e a vari&acirc;ncia da indeniza&ccedil;&atilde;o ser&atilde;o determinados pela    distribui&ccedil;&atilde;o da produtividade regional e cr&iacute;tica sendo    desta forma, invariantes entre os diversos produtores em uma determinada &aacute;rea.    Al&eacute;m disso, a redu&ccedil;&atilde;o do risco de produtividade do produtor    ocorrer&aacute; somente quando o beta individual exceder o beta cr&iacute;tico.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Introduzindo <font face="Symbol">r</font><i><sub>i</sub></i>    = corr(<img src="/img/revistas/resr/v43n3/27743s1.gif" align="absmiddle"><i>,</i> <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">),    a correla&ccedil;&atilde;o entre a produtividade individual e a produtividade    regional, ent&atilde;o <font face="Symbol">b</font><i><sub>i</sub></i> poder&aacute;    ser escrita como:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x6.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Percebe-se pela    equa&ccedil;&atilde;o acima que, <i>ceteris paribus</i>, quanto menor o risco    de base, ou seja, quanto maior a correlac&atilde;o da produtividade individual    com a produtividade regional, maior ser&aacute; o valor de <font face="Symbol">b</font><i><sub>i</sub></i>    e, conseq&uuml;entemente, maior ser&aacute; a redu&ccedil;&atilde;o do risco    propiciado pelo seguro de produtividade regional. Al&eacute;m disso, a redu&ccedil;&atilde;o    do risco de produtividade ser&aacute; tanto maior quanto mais elevado for o    valor da vari&acirc;ncia da produtividade individual.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pela an&aacute;lise    at&eacute; agora realizada, nota-se que a redu&ccedil;&atilde;o do risco &eacute;    influenciada diretamente pelo beta individual. Para verificar a sensibilidade    do <font face="Symbol">D</font><i><sub>i</sub></i> entre produtores em uma certa    &aacute;rea &eacute; necess&aacute;rio verificar como o beta individual varia    nesta &aacute;rea e como a produtividade cr&iacute;tica afeta o beta cr&iacute;tico.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Seja <i>w<sub>i</sub></i>    a propor&ccedil;&atilde;o da &aacute;rea cultivada pelo produtor <i>i</i> na    &aacute;rea cultivada total, ent&atilde;o <img src="/img/revistas/resr/v43n3/27743x7a.gif" align="absmiddle">.    Sabendo que:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x7.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De (7), verifica-se    que <font face="Symbol">S</font><i><sub>i</sub> w<sub>i</sub></i> <font face="Symbol">b</font><i><sub>i</sub></i>    = 1, ou seja, teoricamente, a m&eacute;dia ponderada dos betas individuais deve    ser igual a um.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O beta cr&iacute;tico    &eacute; uma fun&ccedil;&atilde;o crescente da produtividade cr&iacute;tica.    Assim:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x8.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por (5) e (8),    nota-se que o seguro ter&aacute; um impacto redutor no risco sempre que <font face="Symbol">b</font><i><sub>i</sub></i>    &gt; 0,5. Na m&eacute;dia, o seguro ser&aacute; atrativo para os produtores,    pois o <font face="Symbol">b</font><i><sub>i</sub></i> m&eacute;dio dentro de    uma determinada &aacute;rea &eacute; igual a um. Se a produtividade individual    for negativamente correlacionada com a produtividade regional, isto &eacute;,    quando <font face="Symbol">b</font><i><sub>i</sub></i> <u>&lt;</u> 0, a aquisi&ccedil;&atilde;o    do seguro resulta em aumento do risco.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Caso o produtor    possa escolher um valor de <font face="Symbol">f</font> (maior ou menor do que    100%) o n&iacute;vel de cobertura &oacute;timo que maximiza a redu&ccedil;&atilde;o    do risco &eacute; dado por:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x9.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nota-se que, como    <font face="Symbol">b</font><i><sub>c</sub></i> &eacute; positivamente relacionado    com <i>y</i><sub>c</sub>, o n&iacute;vel de cobertura se reduz com o aumento    de <i>y</i><sub>c</sub> e, tamb&eacute;m, quando <font face="Symbol">b</font><i><sub>c</sub></i>    atinge seu valor m&aacute;ximo. Ent&atilde;o, o n&iacute;vel de cobertura atingir&aacute;    o valor m&iacute;nimo, ao redor de <font face="Symbol">b</font><i><sub>i</sub></i>.    Al&eacute;m disso, como o <font face="Symbol">b</font><i><sub>i</sub></i> m&eacute;dio    &eacute; igual a um, espera-se que o n&iacute;vel de cobertura &oacute;timo    tenha um valor maior do que 100% para grande parte dos produtores.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O n&iacute;vel    &oacute;timo de cobertura <font face="Symbol">f</font><sub>i</sub><sup>*</sup>    reduzir&aacute; o seu risco de produtividade em:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x10.gif"></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que: <font face="Symbol">r</font>=    corr(<i>I,<img src="/img/revistas/resr/v43n3/27743s5.gif" align="absmiddle"></i>). Lembrando que    a vari&acirc;ncia da produtividade individual &eacute; dada por:</font></p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743x11.gif"></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em que, o primeiro    termo do lado direito da igualdade corresponde ao componente sist&ecirc;mico    e o segundo ao n&atilde;o-sist&ecirc;mico. Percebe-se que a redu&ccedil;&atilde;o    do risco, dada por (10), &eacute; uma propor&ccedil;&atilde;o <font face="Symbol">r</font><sup>2</sup>    do componente sist&ecirc;mico, <img src="/img/revistas/resr/v43n3/27743x11a.gif" align="absmiddle">.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O seguro baseado em um indicador de produtividade regional elimina uma parcela do risco sist&ecirc;mico enfrentado pelo produtor, mas n&atilde;o elimina o risco n&atilde;o sist&ecirc;mico.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Outro artigo, posterior    ao trabalho de Miranda, analisa outros tipos de contratos e suas implica&ccedil;&otilde;es    na redu&ccedil;&atilde;o do risco e na taxa de pr&ecirc;mio como, por exemplo,    em Smith <i>et al</i>. (1994). Mahul (1999), tomando como base o artigo de Miranda    (1991), generaliza o modelo em um contexto, na qual um indiv&iacute;duo avesso    ao risco maximiza a utilidade esperada da produtividade l&iacute;quida, sujeito    a uma fun&ccedil;&atilde;o de indeniza&ccedil;&atilde;o n&atilde;o negativa    e o pr&ecirc;mio como uma fun&ccedil;&atilde;o da indeniza&ccedil;&atilde;o    esperada<a name="top9"></a><a href="#back9"><sup>9</sup></a>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Miranda (1991)    e Mahul (1999) consideraram que a rela&ccedil;&atilde;o entre a produtividade    individual <img src="/img/revistas/resr/v43n3/27743s1.gif" align="absmiddle"> e a produtividade    regional <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle"> segue um modelo linear    aditivo (MLA), ou seja, o modelo pode ser entendido como uma regress&atilde;o    linear onde a vari&aacute;vel dependente &eacute; representada pela produtividade    individual e a independente, pela produtividade regional. Al&eacute;m disso,    os riscos sist&ecirc;mico e n&atilde;o-sist&ecirc;mico s&atilde;o aditivos no    modelo.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mas problemas podem aparecer se a rela&ccedil;&atilde;o entre as produtividades n&atilde;o forem do tipo MLA, consequentemente os resultados encontrados pelos autores podem n&atilde;o ser mais v&aacute;lidos. Neste contexto, Ramaswami e Roe (2004) verificam teoricamente se outros tipos de modelos estruturais podem ser expressos na forma MLA.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m disso,    afirmam que quanto maior o n&iacute;vel de agrega&ccedil;&atilde;o, maior a    redu&ccedil;&atilde;o do risco sist&ecirc;mico e maior ser&aacute; o aumento    do risco n&atilde;o-sist&ecirc;mico. Caso a suposi&ccedil;&atilde;o da exist&ecirc;ncia    de um grande n&uacute;mero de produtores for relaxada, de modo que se possa    considerar um pequeno n&uacute;mero de produtores no universo de agrega&ccedil;&atilde;o,    ent&atilde;o os resultados encontrados usando-se o MLA e a rela&ccedil;&atilde;o    linear entre a produtividade individual e regional continuam os mesmos. A diferen&ccedil;a    &eacute; que, neste caso, os estimadores de <font face="Symbol">b</font><sub>i</sub>    obtidos por m&iacute;nimos quadrados ser&atilde;o inconsistentes.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Baseados no trabalho de Halcrow (1949) e Miranda (1991), Skees <i>et al</i>. (1997) realizaram um estudo detalhado objetivando a formula&ccedil;&atilde;o, precifica&ccedil;&atilde;o e implementa&ccedil;&atilde;o de um contrato de seguro baseado em um indicador regional de produtividade.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Embora o problema da assimetria de informa&ccedil;&atilde;o tenha recebido maior aten&ccedil;&atilde;o na literatura econ&ocirc;mica do seguro, o risco sist&ecirc;mico representa, segundo Miranda e Glauber (1997), a principal causa do fracasso na emerg&ecirc;ncia de um mercado privado de seguro agr&iacute;cola.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A fim de verificar    a possibilidade do seguro baseado em um &iacute;ndice de produtividade regional    na regi&atilde;o de Castro no Estado do Paran&aacute;, foram utilizadas s&eacute;ries    de produtividade agr&iacute;cola de milho e soja para, respectivamente, 26 e    40 produtores, no per&iacute;odo de 1994 a 2003<a name="top10"></a><a href="#back10"><sup>10</sup></a>.    Os dados municipais foram liberados pelo Instituto Brasileiro de Geografia e    Estat&iacute;stica (IBGE), no per&iacute;odo de 1990 a 2002, para milho e soja.</font></p>     <p>&nbsp;</p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3 Resultados    e discuss&atilde;o</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>3.1 N&iacute;vel de agrega&ccedil;&atilde;o: "municipal"</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Conforme destacado anteriormente, por Halcrow, o limite geogr&aacute;fico da &aacute;rea, sua uniformidade e homogeneidade e a correla&ccedil;&atilde;o entre a produtividade em n&iacute;vel de produtor e da &aacute;rea considerada s&atilde;o pontos que merecem destaque no design de um contrato de seguro agr&iacute;cola regional.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Skees <i>et al</i>. (1997) salientam que para se alcan&ccedil;ar a m&aacute;xima correla&ccedil;&atilde;o poss&iacute;vel entre a produtividade individual e regional, deve-se selecionar o maior n&uacute;mero de produtores situados em uma &aacute;rea com caracter&iacute;sticas similares de solo e clima.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O limite geogr&aacute;fico    da &aacute;rea que ir&aacute; compor o universo de produtores &eacute; um ponto    que ser&aacute; abordado com maiores detalhes mais adiante. Na amostra analisada    dos produtores, todos se encontravam na &aacute;rea considerada entre boa a    regular, dentro de uma escala que vai de boa (1) a desfavor&aacute;vel (10),    tendo em vista o potencial agr&iacute;cola, de acordo com a fertilidade, caracter&iacute;sticas    f&iacute;sicas e morfol&oacute;gicas do solo e topografia (IBGE, 2004)<a name="top11"></a><a href="#back11"><sup>11</sup></a>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Conforme destacou    Miranda, quanto maior a correla&ccedil;&atilde;o entre a produtividade individual    e a regional, maior ser&aacute; o valor de <font face="Symbol">b</font><i><sub>i</sub></i>    e, consequentemente, maior a redu&ccedil;&atilde;o do risco proveniente da aquisi&ccedil;&atilde;o    de um contrato de seguro agr&iacute;cola regional. Considerando que o n&iacute;vel    de agrega&ccedil;&atilde;o &eacute; municipal, o <font face="Symbol">b</font><i><sub>i</sub></i>    foi calculado, de acordo, com a equa&ccedil;&atilde;o (6) e a correla&ccedil;&atilde;o    das s&eacute;ries de produtividade foi representada pelo coeficiente de correla&ccedil;&atilde;o    de Pearson, dada por <img src="/img/revistas/resr/v43n3/27743x12.gif" align="absmiddle">. Em que    <img src="/img/revistas/resr/v43n3/27743s6.gif" align="absmiddle"> &eacute; o desvio padr&atilde;o    da produtividade regional e <img src="/img/revistas/resr/v43n3/27743s7.gif" align="absmiddle">,    o desvio padr&atilde;o da produtividade individual e <i>n</i> o n&uacute;mero    de observa&ccedil;&otilde;es.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como pode ser visto,    atrav&eacute;s da eq. 6, o <font face="Symbol">b</font><i><sub>i</sub></i> depende    n&atilde;o somente de <font face="Symbol">r</font><i><sub>i</sub></i>, mas tamb&eacute;m    da vari&acirc;ncia da s&eacute;rie de produtividade individual. Desta forma,    quanto maior <font face="Symbol">r</font><i><sub>i</sub></i> e <img src="/img/revistas/resr/v43n3/27743s7.gif" align="absmiddle">,    maior ser&aacute; o valor de <font face="Symbol">b</font><i><sub>i</sub></i>.    A <a href="#tab1">Tabela 1</a> mostra os coeficientes de correla&ccedil;&atilde;o,    <font face="Symbol">b</font><i><sub>i</sub></i>'s, em ordem decrescente, a redu&ccedil;&atilde;o    do risco resultante da aquisi&ccedil;&atilde;o do contrato de seguro regional    e calculada, a partir da equa&ccedil;&atilde;o (5) e percentual da redu&ccedil;&atilde;o    em rela&ccedil;&atilde;o ao risco total. A redu&ccedil;&atilde;o do risco foi    calculada para os n&iacute;veis de produtividade cr&iacute;tica, <font face="Symbol">a</font><i><sub>i</sub></i>    igual a 60 a 120%, em m&uacute;ltiplos de 5<a name="top12"></a><a href="#back12"><sup>12</sup></a>.</font></p>     <p><a name="tab1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743t1.gif" usemap="#Map" border="0">    <map name="Map">     <area shape="rect" coords="461,31,471,41" href="#back13">   </map> </p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743t1c.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Maiores valores    de correla&ccedil;&atilde;o n&atilde;o significam, necessariamente, maiores    valores de <font face="Symbol">b</font><i><sub>i</sub></i>, como pode ser visto    nos n&uacute;meros 17 e 18, na <a href="#tab1">Tabela 1</a>, &agrave; esquerda.    O valor de <font face="Symbol">b</font><i><sub>i</sub></i> &eacute; afetado    tamb&eacute;m pelo valor da variabilidade da produtividade de cada produtor.    Os cinco &uacute;ltimos produtores apresentaram valores de <font face="Symbol">b</font><i><sub>i</sub></i>    negativos, na <a href="#tab1">Tabela 1</a>. Isto quer dizer que a cobertura    do seguro regional n&atilde;o implica em redu&ccedil;&atilde;o do risco, pelo    contr&aacute;rio, significa aumento do risco deste produtor. O mesmo ocorre    para os 11 &uacute;ltimos produtores na <a href="#tab1">Tabela 1</a>, &agrave;    direita.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Produtores que possuem alta correla&ccedil;&atilde;o com a produtividade regional e alta variabilidade na produtividade poderiam se beneficiar do seguro agr&iacute;cola regional, pois maior seria a redu&ccedil;&atilde;o do risco sist&ecirc;mico. Na situa&ccedil;&atilde;o oposta, produtores com baixa correla&ccedil;&atilde;o e baixa variabilidade n&atilde;o se beneficiariam com tal mecanismo de seguro. Aqueles com correla&ccedil;&atilde;o negativa seriam prejudicados se demandassem contratos de seguro.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nas tabelas, nota-se    que a aquisi&ccedil;&atilde;o deste contrato de seguro pode ser risco redutor    ou risco crescente, para um mesmo produtor, em fun&ccedil;&atilde;o do beta    cr&iacute;tico <font face="Symbol">b</font><i><sub>c</sub></i>, definido pela    equa&ccedil;&atilde;o (4). Caso <font face="Symbol">b</font><i><sub>c</sub></i>    seja maior do que <font face="Symbol">b</font><i><sub>i</sub></i>, ent&atilde;o    o contrato de seguro ser&aacute; risco crescente. Por exemplo, o beta cr&iacute;tico    com <font face="Symbol">a</font><i><sub>i</sub></i> = 95% &eacute; de 0,1923.    Pela <a href="#tab1">Tabela 1</a> (esquerda), percebe-se que o <font face="Symbol">b</font><i><sub>i</sub></i>    do produtor 1 &eacute; igual a 0,2122, maior que o beta cr&iacute;tico. Mas    com <font face="Symbol">a</font><i><sub>i</sub></i> = 100%, este mesmo <font face="Symbol">b</font><i><sub>i</sub></i>    &eacute; menor do que o beta cr&iacute;tico (0,34), por isso a redu&ccedil;&atilde;o    do risco &eacute; negativa para este produtor aos n&iacute;veis de 100 a 120%.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m disso,    quanto maior o <font face="Symbol">b</font><i><sub>i</sub></i> , maior ser&aacute;    a redu&ccedil;&atilde;o do risco, para todos os n&iacute;veis de y<i><sub>c</sub></i>.    Percebe-se que o beta cr&iacute;tico se estabiliza no valor m&aacute;ximo de    0,5, com o aumento da produtividade cr&iacute;tica, conforme j&aacute; apontava    Miranda.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na escolha &oacute;tima,    <font face="Symbol">f</font><i><sub>i</sub></i><sup>*</sup> ser&aacute; no m&iacute;nimo    <font face="Symbol">b</font><i><sub>i</sub></i> quando <font face="Symbol">b</font><i><sub>c</sub></i>    atingir seu valor m&aacute;ximo. Percebe-se, desta forma, que quando <font face="Symbol">b</font><i><sub>c</sub></i>    for igual a 0,5, <font face="Symbol">a</font><i><sub>i</sub></i> = 1,1, na <a href="#tab1">Tabela    1</a>. O valor de <font face="Symbol">f</font><i><sub>i</sub></i><sup>*</sup>    para o produtor 14, por exemplo, &eacute; igual a 1,8267 (para este valor de    <font face="Symbol">a</font><i><sub>i</sub></i>), o mesmo valor de <font face="Symbol">b</font><i><sub>i</sub></i>    encontrado na <a href="#tab1">Tabela 1</a>. Este resultado j&aacute; era esperado,    pois conforme ressalta Mahul (1999), se <font face="Symbol">b</font><i><sub>i</sub></i>    &gt; 0, ent&atilde;o o n&iacute;vel de cobertura &oacute;timo <font face="Symbol">f</font><i><sub>i</sub></i><sup>*</sup>    = <font face="Symbol">b</font><i><sub>i</sub></i>. Al&eacute;m disso, o n&iacute;vel    &oacute;timo de cobertura ser&aacute; inversamente proporcional ao aumento da    produtividade cr&iacute;tica.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O n&iacute;vel    &oacute;timo de cobertura permite conhecer a m&aacute;xima redu&ccedil;&atilde;o    do risco de produtividade em virtude da aquisi&ccedil;&atilde;o de um contrato    de seguro regional. Se o produtor optar pelo n&iacute;vel de cobertura &oacute;timo,    ent&atilde;o tal redu&ccedil;&atilde;o ser&aacute; igual a 49, 75 e 97% para    <font face="Symbol">a</font><i><sub>i</sub></i> = 0,95, 1, 1,05 e de 100% para    os demais <font face="Symbol">a</font><i><sub>i</sub></i>'s, no caso do milho    e de 29, 64 e 90% para <font face="Symbol">a</font><i><sub>i</sub></i> = 0,95,    1, 1,05 e de 100% para os demais <font face="Symbol">a</font><i><sub>i</sub></i>'s.    Pois, percebe-se que a redu&ccedil;&atilde;o do risco, dada pela eq. (10), &eacute;    uma propor&ccedil;&atilde;o <font face="Symbol">r</font>= corr(<i>I, </i><img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">)    do componente sist&ecirc;mico, <img src="/img/revistas/resr/v43n3/27743s8.gif" align="absmiddle">.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nota-se, desta    forma, que quanto maior <font face="Symbol">a</font><i><sub>i</sub></i>, maior    ser&aacute; a redu&ccedil;&atilde;o do risco sist&ecirc;mico e maior o pr&ecirc;mio    cobrado pelo seguro. De modo que, ao n&iacute;vel de 1,05, quase todo o risco    ser&aacute; eliminado pela aquisi&ccedil;&atilde;o do seguro, nos dois casos.    Para n&iacute;veis maiores do que 1,05, todo o risco &eacute; eliminado. O seguro    regional elimina certa propor&ccedil;&atilde;o do risco sist&ecirc;mico, mas    n&atilde;o elimina o risco n&atilde;o sist&ecirc;mico. O produtor deve administrar    este risco remanescente, de modo individual.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Todos os produtores    com correla&ccedil;&atilde;o positiva (<a href="#tab1">Tabela 1</a>) poderiam    demandar pelo seguro regional, com diferentes n&iacute;veis de cobertura e dedutibilidades,    mas aqueles com maior correla&ccedil;&atilde;o e variabilidade na produtividade    poderiam ter um benef&iacute;cio maior em fun&ccedil;&atilde;o da aquisi&ccedil;&atilde;o    deste tipo de seguro.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>3.2 N&iacute;vel de agrega&ccedil;&atilde;o: "cluster"</i></b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">At&eacute; agora    a an&aacute;lise foi realizada utilizando-se o n&iacute;vel de agrega&ccedil;&atilde;o    da produtividade regional <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle"> municipal.    Conforme aponta Halcrow, o c&aacute;lculo de <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">    poderia ser realizado atrav&eacute;s da sele&ccedil;&atilde;o de 15 a 20 propriedades    e o resultado estendido para compreender toda a &aacute;rea. Desta forma, considera-se    que <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle"> = <font face="Symbol">S</font><i><sub>i</sub> w<sub>i</sub></i> <img src="/img/revistas/resr/v43n3/27743s1.gif" align="absmiddle">, onde    <i>w<sub>i</sub></i> &eacute; a propor&ccedil;&atilde;o da &aacute;rea cultivada    pelo produtor <i>i</i> na &aacute;rea cultivada total, <font face="Symbol">S</font><i><sub>i</sub> w<sub>i</sub></i> = 1 e <i>i</i> = 1, ..., 26 e 1, ..., 40, para a cultura    do milho e soja, respectivamente.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <a href="#tab2">Tabela    2</a> mostra a diferen&ccedil;a nas produtividades, em rela&ccedil;&atilde;o    ao n&iacute;vel de agrega&ccedil;&atilde;o. A produtividade <i>cluster</i> reflete    a agrega&ccedil;&atilde;o de 26 produtores de milho e 40 de soja, situados na    regi&atilde;o de Castro. A produtividade do munic&iacute;pio corresponde &agrave;    m&eacute;dia municipal. Como pode ser observado na tabela quanto menor o n&iacute;vel    de agrega&ccedil;&atilde;o, maior a variabilidade da produtividade.</font></p>     <p><a name="tab2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743t2.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O fato de se reduzir consideravelmente o n&iacute;vel de agrega&ccedil;&atilde;o fez com que a correla&ccedil;&atilde;o entre a produtividade individual e a regional aumentasse. A correla&ccedil;&atilde;o m&eacute;dia aumentou de 0,25, no n&iacute;vel de agrega&ccedil;&atilde;o municipal para 0,51, na agrega&ccedil;&atilde;o <i>cluster</i>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m disso,    dos 26 produtores de milho, somente 3 apresentaram correla&ccedil;&atilde;o    maior do que 0,5 e 5 produtores tiveram tal coeficiente menor do que zero, na    <a href="#tab1">Tabela 1</a>, enquanto que 16 produtores apresentaram valor    maior do que 0,5 e apenas 2 com coeficiente menor do que zero, na <a href="#tab3">Tabela    3</a>.</font></p>     ]]></body>
+<body><![CDATA[<p><a name="tab3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743t3.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No caso da soja,    a correla&ccedil;&atilde;o m&eacute;dia aumentou de 0,17, no caso da agrega&ccedil;&atilde;o    municipal, para 0,41, na agrega&ccedil;&atilde;o <i>cluster</i>. Al&eacute;m    disso, dos 40 produtores de milho, 9 apresentaram correla&ccedil;&atilde;o maior    do que 0,5 e 11, valores menores do que zero para este coeficiente, na <a href="#tab1">Tabela    1</a>, enquanto que 19 apresentaram valores maiores do que 0,5 e 5, cujo coeficiente    de correla&ccedil;&atilde;o foi menor do que zero, na <a href="#tab4">Tabela    4</a>.</font></p>     <p><a name="tab4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v43n3/27743t4.gif"></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As <a href="#tab3">Tabelas    3</a> e <a href="#tab4">4</a> ainda mostram a redu&ccedil;&atilde;o do risco    de cada produtor como percentual do risco total. A redu&ccedil;&atilde;o m&eacute;dia    para os n&iacute;veis de 95 a 120% &eacute; de 12, 23,33, 38, 40 e 40%, na <a href="#tab3">Tabela    3</a> e de 5, 21, 31, 31, 31 e 31%, na <a href="#tab4">Tabela 4</a>.</font></p>      ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Retomando as <a href="#tab1">Tabelas    1</a> e <a href="#tab2">2</a>, observa-se que a redu&ccedil;&atilde;o m&eacute;dia    para os mesmos <font face="Symbol">a</font><i><sub>i</sub></i>'s foi de 4,6,    10, 15,4, 16,6, 16,6 e 16,6%, na <a href="#tab1">Tabela 1</a> e de 2,6, 17,6,    32,9, 39,2, 39,7 e 39,7%, na <a href="#tab2">Tabela 2</a>. Desta forma, nota-se    que quanto maior o n&iacute;vel de agrega&ccedil;&atilde;o utilizado no design    do contrato, maior ser&aacute; a redu&ccedil;&atilde;o do risco m&eacute;dio,    dado o valor de <font face="Symbol">a</font>.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Novamente, neste    caso, quanto maior <font face="Symbol">b</font><i><sub>i</sub></i>, maior ser&aacute;    a redu&ccedil;&atilde;o do risco dado <font face="Symbol">b</font><i><sub>c</sub></i>    e a variabilidade da indeniza&ccedil;&atilde;o, proveniente da aquisi&ccedil;&atilde;o    de um contrato regional. Pela <a href="#tab4">Tabela 4</a>, acima, percebe-se    que a variabilidade <i>cluster</i> &eacute; maior do que a variabilidade municipal.    Neste caso, de acordo com a eq. (11), se o <img src="/img/revistas/resr/v43n3/27743s9.gif" align="absmiddle">    for maior para todos os produtores quando o n&iacute;vel de agrega&ccedil;&atilde;o    for <i>cluster</i> do que no caso municipal, ent&atilde;o o componente sist&ecirc;mico    ser&aacute; maior para o primeiro n&iacute;vel de agrega&ccedil;&atilde;o.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Mas no caso em    que o <img src="/img/revistas/resr/v43n3/27743s9.gif" align="absmiddle"> &eacute; menor, o risco    sist&ecirc;mico poder&aacute; ou n&atilde;o ser maior na agrega&ccedil;&atilde;o    municipal. Isto de fato ocorre para 4 dos 26 produtores de milho e para 11 dos    40 produtores de soja.</font></p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4 Conclus&atilde;o</b></font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O presente trabalho vem analisar a possibilidade de implementar um tipo de seguro baseado na produtividade regional. O seguro regional, se implantado na regi&atilde;o de Castro, no Estado do Paran&aacute;, pode ser utilizado como um importante instrumento de administra&ccedil;&atilde;o do risco sist&ecirc;mico pelos produtores.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pelos resultados do trabalho, 81% e 92% dos produtores de milho se beneficiariam de alguma redu&ccedil;&atilde;o do risco sist&ecirc;mico, pela aquisi&ccedil;&atilde;o deste tipo de seguro, respectivamente, para o n&iacute;vel de agrega&ccedil;&atilde;o municipal e <i>cluster</i>. No caso da soja, este percentual foi de 73 e 88%, respectivamente. O n&iacute;vel de agrega&ccedil;&atilde;o <i>cluster</i> mostrou-se mais eficaz em reduzir o risco sist&ecirc;mico, pois em termos m&eacute;dios, para todos os a's, a redu&ccedil;&atilde;o do risco foi maior neste tipo de agrega&ccedil;&atilde;o.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na an&aacute;lise da correla&ccedil;&atilde;o, observou-se que a maioria dos produtores apresentou correla&ccedil;&atilde;o positiva. Isto implica um menor ou maior grau de redu&ccedil;&atilde;o do risco sist&ecirc;mico devido &agrave; aquisi&ccedil;&atilde;o deste tipo de contrato. Al&eacute;m disso, a correla&ccedil;&atilde;o m&eacute;dia entre a produtividade regional e individual mais do que dobrou quando considerado o n&iacute;vel de agrega&ccedil;&atilde;o <i>cluster</i>, para ambas as culturas.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sendo assim, se tal seguro for implantado na regi&atilde;o analisada, recomenda-se que o n&iacute;vel de agrega&ccedil;&atilde;o utilizado seja <i>cluster</i>, em acordo com as caracter&iacute;sticas homog&ecirc;neas de solo, clima e tecnologia e tamb&eacute;m, de acordo com o zoneamento agr&iacute;cola do Minist&eacute;rio da Agricultura.</font></p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nota-se, por&eacute;m,    que a cobertura do risco n&atilde;o-sist&ecirc;mico recai totalmente sobre os    produtores. Uma forma de reduzir tal risco, seria a aquisi&ccedil;&atilde;o    de um contrato de seguro que cobrisse eventuais redu&ccedil;&otilde;es na produtividade    individual e reduzisse as varia&ccedil;&otilde;es locais da produtividade agr&iacute;cola.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>Refer&ecirc;ncias    bibliogr&aacute;ficas</b></font></p>      <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">AKERLOF, G.A. The market for "lemons": quality uncertainty and the market mechanism. <b>Quarterly Journal of Economics</b>, v.84, n.3, p.488-500, Aug. 1970.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000125&pid=S0103-2003200500030000500001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">GOODWIN, B.K. An empirical analysis of the demand for multiple peril crop insurance. <b>American Journal of Agricultural Economics</b>, v.75, p.425-434, May 1993.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003200500030000500002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HALCROW, H. G. Actuarial structures for crop insurance. <b>Journal of Farm Economics</b>, v.31, n.3, p. 418-443, ago 1949.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000127&pid=S0103-2003200500030000500003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HAZELL, P.; POMAREDA, C.; VALD&Eacute;S, A. Crop insurance for agricultural development. Baltimore: The Johns Hopkins University Press, 1986. 322p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003200500030000500004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MAHUL, O. Optimum area yield crop insurance. <b>American Journal of Agricultural Economics</b>, v.81, n.1, p. 75-82, fev. 1999.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000129&pid=S0103-2003200500030000500005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MIRANDA, M. J. Area-yield crop insurance reconsidered. <b>American Journal of Agricultural Economics</b>, v.73, n.2, p. 233-242, maio 1991.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003200500030000500006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MIRANDA, M. J.; GLAUBER, J. W. Systemic risk, reinsurance, and the failure of crop insurance markets. <b>American Journal of Agricultural Economics</b>, v.79, n.1, p. 206-215, fev 1997.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000131&pid=S0103-2003200500030000500007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MIRANDA, M; SKEES, J.; HAZELL, P. Innovations in agricultural and natural disaster insurance for developing countries. Working paper, Dep. of Agr., Envir. and Development. Econ., The Ohio State University, 1999.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200500030000500008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">OZAKI, V.A. M&eacute;todos atuariais aplicados &agrave; determina&ccedil;&atilde;o da taxa de pr&ecirc;mio de contratos de seguro agr&iacute;cola: um estudo de caso. Piracicaba, 2005. 324p. Tese (Doutorado) &#150; Escola Superior de Agricultura "Luiz de Queiroz", Universidade de S&atilde;o Paulo.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000133&pid=S0103-2003200500030000500009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">OZAKI, V.A.; SHIROTA, R. A experi&ecirc;ncia do seguro agr&iacute;cola nos EUA: evolu&ccedil;&atilde;o e performance. Revista Brasileira de Risco e Seguro, v.1, n.2, Ago/Nov 2005. (no prelo)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200500030000500010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">QUINT&Atilde;O, C. Seguro agr&iacute;cola: crescimento do mercado depende do governo. Gazeta Mercantil. S&atilde;o Paulo, 26 Set 2005. Agroneg&oacute;cio, B-12.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0103-2003200500030000500011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RAMASWAMI, B.; ROE, T. L. Aggregation in area-yield crop insurance: the linear additive model. <b>American Journal of Agricultural Economics</b>, v.86, n.2, p. 420-431, 2004.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003200500030000500012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ROSSETTI, L.A. Seguridade e zoneamento agr&iacute;cola no Brasil: novos rumos. In: SIMP&Oacute;SIO INTERNACIONAL DE SECURIDADE E ZONEAMENTO AGR&Iacute;COLA DO MERCOSUL, 1., Bras&iacute;lia, 1998. <b>Anais</b>. Bras&iacute;lia: Minist&eacute;rio da Agricultura e Abastecimento/CER/PROAGRO/GM, 1998. p.1-10.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S0103-2003200500030000500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ROSSETTI, L.A. Zoneamento agr&iacute;cola em aplica&ccedil;&otilde;es de cr&eacute;dito e securidade rural no Brasil: aspectos atuariais e de pol&iacute;tica agr&iacute;cola. <b>Revista Brasileira de Agrometeorologia</b>, v.9, n.3, p.386-399, 2001.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200500030000500014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SANTOS, C. G. O seguro rural. Revista do IRB, v.28, n.166, p.17-29, Dez. 1967.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S0103-2003200500030000500015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SKEES, J. R.; BLACK, J. R.; BARNETT, B. J. Designing and rating an area yield crop insurance. <b>American Journal of Agricultural Economics</b>, v.79, n.2, p. 430-438, maio 1997.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200500030000500016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SMITH, V. H.; CHOUINARD,    H. H.; BAQUET, A. E. Almost ideal area yield crop insurance contracts. <b>Agricultural    and Resource Economics Review</b>, v.23, n.1, abril 1994.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0103-2003200500030000500017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Recebido em mar&ccedil;o    de 2005 e revisto em agosto de 2005</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back01"></a><a href="#top01">*</a>    Os autores agradecem a Marco Ant&ocirc;nio Prado da Castrolanda, Willem B. Bouwman,    Eltje Jan Loman Filho, Carlos Proen&ccedil;a, Rodrigo Tsukahara e Leandro Gimenez    da Funda&ccedil;&atilde;o ABC pelos dados cedidos e a CAPES pelo apoio financeiro.    <br>   <a name="back02"></a><a href="#top02">**</a> Em Quint&atilde;o (2005), Ozaki    discute, entre outras coisas, as poss&iacute;veis implica&ccedil;&otilde;es    do subs&iacute;dio ao pr&ecirc;mio no mercado de seguro agr&iacute;cola.    <br>   <a name="back1"></a><a href="#top1">1</a> Situa&ccedil;&atilde;o na qual o segurado    decide por tomar certas decis&otilde;es, que poderiam aumentar a probabilidade    de sinistro. Isto acarretaria no aumento do volume das indeniza&ccedil;&otilde;es    pagas pela seguradora (Goodwin, 1993).    <br>   <a name="back2"></a><a href="#top2">2</a> A sele&ccedil;&atilde;o adversa &eacute;    a situa&ccedil;&atilde;o em que &agrave; medida que o pr&ecirc;mio se eleva,    apenas as pessoas que realmente necessitam do seguro adquirem o contrato, selecionando,    deste modo, somente aqueles indiv&iacute;duos mais arriscados na carteira de    seguros (Akerlof, 1970).    <br>   <a name="back3"></a><a href="#top3">3</a> Quando um evento causador do sinistro    ocorre, (por exemplo, uma seca) este n&atilde;o afeta apenas um produtor mas    muitos produtores em uma vasta extens&atilde;o territorial. Tal fen&ocirc;meno    ilustra o que se denomina risco sist&ecirc;mico ou risco de evento generalizado.    <br>   <a name="back4"></a><a href="#top4">4</a> Historicamente, no Brasil, todos os    problemas citados ocorrem de maneira severa. Uma ampla revis&atilde;o sobre    a hist&oacute;ria do seguro agr&iacute;cola no Brasil, bem como seus principais    problemas, podem ser encontrados em Ozaki (2005).    ]]></body>
+<body><![CDATA[<br>   <a name="back5"></a><a href="#top5">5</a> O seguro baseado em &iacute;ndices    de produtividade &eacute; largamente difundido nos Estados Unidos, India, Su&eacute;cia    e Canad&aacute; (Miranda, Skees e Hazel, 1999) e, atualmente, &eacute; ofertado    no Brasil no Estado do Rio Grande do Sul.    <br>   <a name="back6"></a><a href="#top6">6</a> Um determinado evento clim&aacute;tico    ocorrido em certo per&iacute;odo de tempo que cause danos a uma certa cultura    atinge n&atilde;o apenas um produtor, mas toda uma vasta extens&atilde;o de    terra e muitos produtores, de modo que a pressuposi&ccedil;&atilde;o b&aacute;sica    para a segurabilidade, que &eacute; a independ&ecirc;ncia entre os eventos,    &eacute; violada. Este tipo de risco &eacute; chamado sist&ecirc;mico.    <br>   <a name="back7"></a><a href="#top7">7</a> O componente sist&ecirc;mico ou n&atilde;o    diversific&aacute;vel ocorre devido ao fato do preju&iacute;zo ao n&iacute;vel    do produtor conter uma alta correla&ccedil;&atilde;o espacial, ou seja, um evento    clim&aacute;tico extremo, como por exemplo, uma geada que poderia afetar uma    grande quantidade de produtores em uma vasta extens&atilde;o de territ&oacute;rio.    Este evento generalizado se traduz na inexist&ecirc;ncia de independ&ecirc;ncia    entre os eventos, conseq&uuml;entemente, elevando o risco de uma seguradora    administrar uma carteira agr&iacute;cola. Tendo a seguradora que se responsabilizar    pelo risco adicional, o aumento da taxa do pr&ecirc;mio &eacute; inevit&aacute;vel,    caso n&atilde;o exista a possibilidade da transfer&ecirc;ncia deste risco para    um mercado ressegurador nacional ou internacional ou atrav&eacute;s do mercado    financeiro.    <br>   <a name="back8"></a><a href="#top8">8</a> A indeniza&ccedil;&atilde;o e o pr&ecirc;mio    s&atilde;o expressos em unidade f&iacute;sicas, neste modelo y<sub>c</sub> =<font face="Symbol">a</font><sub><i>i</i></sub>&#181;,    <font face="Symbol">a</font><sub><i>i</i></sub> e &eacute; o percentual de garantia.    <br>   <a name="back9"></a><a href="#top9">9</a> A fun&ccedil;&atilde;o de indeniza&ccedil;&atilde;o    &eacute; dada por <img src="/img/revistas/resr/v43n3/27743s10.gif" align="absmiddle"> e o pr&ecirc;mio,    <i>P</i> = c&#91;E <i>I(y</i>)&#93;. Nota-se que <img src="/img/revistas/resr/v43n3/27743s11.gif" align="absmiddle">.    Caso c'(<i>I</i>) = 1, ent&atilde;o define-se o seguro como atuarialmente justo,    isto &eacute;, a firma seguradora tem como &uacute;nico componente de sua estrutura    de custos aqueles destinados ao pagamento da indeniza&ccedil;&atilde;o.    <br>   <a name="back10"></a><a href="#top10">10</a> Fornecidos pela Cooperativa Castrolanda,    por interm&eacute;dio da Funda&ccedil;&atilde;o ABC.    <br>   <a name="back11"></a><a href="#top11">11</a> <a href="http://www.ibge.gov.br" target="_blank">http://www.ibge.gov.br</a>    <br>   <a name="back12"></a><a href="#top12">12</a> Em fun&ccedil;&atilde;o da s&eacute;rie    ser relativamente curta, as indeniza&ccedil;&otilde;es dadas por <i>I</i> =    <font face="Symbol">f</font>max (y<sub>c</sub> &#150; <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">,    0), resultaram em valores nulos para todos os anos, ou seja, esta &eacute; a    situa&ccedil;&atilde;o em que <img src="/img/revistas/resr/v43n3/27743s2.gif" align="absmiddle">    &eacute; maior do que y<sub>c</sub> em todos os anos, para variando de 60 a    90%. Consequentemente, n&atilde;o se define nem nestes casos.    <br>   <a name="back13"></a><a href="#tab1">13</a>    A redu&ccedil;&atilde;o de risco m&aacute;xima foi atingida quando <font face="Symbol">a</font><sub><i>i</i></sub>    = 1,1 e 1,15, para o milho e soja, respectivamente.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AKERLOF]]></surname>
+<given-names><![CDATA[G.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The market for "lemons": quality uncertainty and the market mechanism]]></article-title>
+<source><![CDATA[Quarterly Journal of Economics]]></source>
+<year>Aug.</year>
+<month> 1</month>
+<day>97</day>
+<volume>84</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>488-500</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An empirical analysis of the demand for multiple peril crop insurance]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>May </year>
+<month>19</month>
+<day>93</day>
+<volume>75</volume>
+<page-range>425-434</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HALCROW]]></surname>
+<given-names><![CDATA[H. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Actuarial structures for crop insurance]]></article-title>
+<source><![CDATA[Journal of Farm Economics]]></source>
+<year>ago </year>
+<month>19</month>
+<day>49</day>
+<volume>31</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>418-443</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAZELL]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[POMAREDA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[VALDÉS]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crop insurance for agricultural development]]></source>
+<year>1986</year>
+<publisher-loc><![CDATA[Baltimore ]]></publisher-loc>
+<publisher-name><![CDATA[The Johns Hopkins University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAHUL]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Optimum area yield crop insurance]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>fev.</year>
+<month> 1</month>
+<day>99</day>
+<volume>81</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>75-82</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Area-yield crop insurance reconsidered]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>maio</year>
+<month> 1</month>
+<day>99</day>
+<volume>73</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>233-242</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GLAUBER]]></surname>
+<given-names><![CDATA[J. W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Systemic risk, reinsurance, and the failure of crop insurance markets]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>fev </year>
+<month>19</month>
+<day>97</day>
+<volume>79</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>206-215</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MIRANDA]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SKEES]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HAZELL]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Innovations in agricultural and natural disaster insurance for developing countries: Working paper, Dep. of Agr., Envir. and Development. Econ.]]></source>
+<year>1999</year>
+<publisher-name><![CDATA[The Ohio State University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OZAKI]]></surname>
+<given-names><![CDATA[V.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Métodos atuariais aplicados à determinação da taxa de prêmio de contratos de seguro agrícola: um estudo de caso]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Piracicaba ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OZAKI]]></surname>
+<given-names><![CDATA[V.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHIROTA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A experiência do seguro agrícola nos EUA: evolução e performance]]></article-title>
+<source><![CDATA[Revista Brasileira de Risco e Seguro]]></source>
+<year>Ago/</year>
+<month>No</month>
+<day>v </day>
+<volume>1</volume>
+<numero>2</numero>
+<issue>2</issue>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QUINTÃO]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Seguro agrícola: crescimento do mercado depende do governo]]></article-title>
+<source><![CDATA[Gazeta Mercantil]]></source>
+<year>26 S</year>
+<month>et</month>
+<day> 2</day>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAMASWAMI]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROE]]></surname>
+<given-names><![CDATA[T. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Aggregation in area-yield crop insurance: the linear additive model]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>2004</year>
+<volume>86</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>420-431</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSSETTI]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Seguridade e zoneamento agrícola no Brasil: novos rumos]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>1998</year>
+<conf-name><![CDATA[1 SIMPÓSIO INTERNACIONAL DE SECURIDADE E ZONEAMENTO AGRÍCOLA DO MERCOSUL]]></conf-name>
+<conf-date>1998</conf-date>
+<conf-loc>Brasília </conf-loc>
+<page-range>1-10</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Ministério da Agricultura e Abastecimento/CER/PROAGRO/GM]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSSETTI]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Zoneamento agrícola em aplicações de crédito e securidade rural no Brasil: aspectos atuariais e de política agrícola]]></article-title>
+<source><![CDATA[Revista Brasileira de Agrometeorologia]]></source>
+<year>2001</year>
+<volume>9</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>386-399</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[C. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O seguro rural]]></article-title>
+<source><![CDATA[Revista do IRB]]></source>
+<year>Dez.</year>
+<month> 1</month>
+<day>96</day>
+<volume>28</volume>
+<numero>166</numero>
+<issue>166</issue>
+<page-range>17-29</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SKEES]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLACK]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARNETT]]></surname>
+<given-names><![CDATA[B. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Designing and rating an area yield crop insurance]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>maio</year>
+<month> 1</month>
+<day>99</day>
+<volume>79</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>430-438</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[V. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CHOUINARD]]></surname>
+<given-names><![CDATA[H. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BAQUET]]></surname>
+<given-names><![CDATA[A. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Almost ideal area yield crop insurance contracts]]></article-title>
+<source><![CDATA[Agricultural and Resource Economics Review]]></source>
+<year>abri</year>
+<month>l </month>
+<day>19</day>
+<volume>23</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

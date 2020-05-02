@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032008000400011</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032008000400011</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[The meat market in Brazil: a partial equilibrium model]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Souza]]></surname>
+<given-names><![CDATA[Geraldo da Silva e]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Alves]]></surname>
+<given-names><![CDATA[Eliseu]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gazzola]]></surname>
+<given-names><![CDATA[Rosaura]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Marra]]></surname>
+<given-names><![CDATA[Renner]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Embrapa  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Embrapa  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Embrapa  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Embrapa  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2008</year>
+</pub-date>
+<volume>46</volume>
+<numero>4</numero>
+<fpage>1189</fpage>
+<lpage>1208</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032008000400011&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032008000400011&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032008000400011&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Um modelo de equilíbrio parcial para o mercado brasileiro de carnes é ajustado por meio de mínimos quadrados em três estágios. O modelo mostra-se consistente com as observações e pode ser usado para simulações. Neste contexto, comparam-se simulações para o futuro próximo com as projeções da OECD/Aglink. Para ilustrar o emprego do modelo em simulações de políticas investiga-se o efeito de um aumento relativo no preço do milho nos mercados de carne suína e de frango, coeteris paribus.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[A partial equilibrium model for the meat market is fit to Brazilian data by three stages least squares. The model is consistent with the data and may be used for simulation purposes. In this context we compare model simulations for the near future with the OECD/ Aglink outlook. To illustrate using the model for simulations in policy assessments, we investigate the effect of a relative increase in corn price on the poultry and pork markets, coeteris paribus.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Mercado de carnes]]></kwd>
+<kwd lng="pt"><![CDATA[elasticidades]]></kwd>
+<kwd lng="pt"><![CDATA[mínimos quadrados em três estágios]]></kwd>
+<kwd lng="pt"><![CDATA[sistema de equações simultâneas]]></kwd>
+<kwd lng="en"><![CDATA[Meat markets]]></kwd>
+<kwd lng="en"><![CDATA[elasticities]]></kwd>
+<kwd lng="en"><![CDATA[three stage least squares]]></kwd>
+<kwd lng="en"><![CDATA[simultaneous system of equations]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b><a name="not01"></a>The meat market in Brazil: a partial equilibrium model<a href="#not"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Geraldo da Silva e Souza<sup>I</sup>; Eliseu Alves<sup>II</sup>; Rosaura Gazzola<sup>III</sup>; Renner Marra<sup>IV</sup></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>I</sup>Pesquisadores da Embrapa. E-mail: <a href="mailto:geraldo.souza@embrapa.br">geraldo.souza@embrapa.br</a>    <br>  <sup>II</sup>Pesquisadores da Embrapa.  E-mail: <a href="mailto:eliseu.alves@embrapa.br">eliseu.alves@embrapa.br</a>    <br>  <sup>III</sup>Pesquisadores da Embrapa. E-mail: <a href="mailto:rosaura.gazzola@embrapa.br">rosaura.gazzola@embrapa.br</a>    <br>  <sup>IV</sup>Pesquisadores da Embrapa. E-mail: <a href="mailto:renner.marra@embrapa.br">renner.marra@embrapa.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>ABSTRACT</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A partial equilibrium    model for the meat market is fit to Brazilian data by three stages least squares.    The model is consistent with the data and may be used for simulation purposes.    In this context we compare model simulations for the near future with the OECD/    Aglink outlook. To illustrate using the model for simulations in policy assessments,    we investigate the effect of a relative increase in corn price on the poultry    and pork markets, <i>coeteris paribus. </i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key Words: </b>Meat    markets, elasticities, three stage least squares, simultaneous system of equations.        <br>   <b>JEL:</b> C 32</font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Um modelo de equil&iacute;brio    parcial para o mercado brasileiro de carnes &eacute; ajustado por meio de m&iacute;nimos    quadrados em tr&ecirc;s est&aacute;gios. O modelo mostra-se consistente com    as observa&ccedil;&otilde;es e pode ser usado para simula&ccedil;&otilde;es.    Neste contexto, comparam-se simula&ccedil;&otilde;es para o futuro pr&oacute;ximo    com as proje&ccedil;&otilde;es da OECD/Aglink. Para ilustrar o emprego do modelo    em simula&ccedil;&otilde;es de pol&iacute;ticas investiga-se o efeito de um    aumento relativo no pre&ccedil;o do milho nos mercados de carne su&iacute;na    e de frango, <i>coeteris paribus.</i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palavras-Chave:    </b>Mercado de carnes, elasticidades, m&iacute;nimos quadrados em tr&ecirc;s    est&aacute;gios, sistema de equa&ccedil;&otilde;es simult&acirc;neas.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1. Introduction</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">As pointed by Gazzola et al. (2006), researchers and institutions have been showing a growing interest in the usage of outlook models for agricultural commodities. Typical examples are provided by OECD (2006), Contini et al. (2006), Trostle (2006), USDA (2007) and FAPRI (2007). Among these models, one with great appeal is the partial equilibrium model Aglink developed by OECD. The advantage of having a partial equilibrium model relative to unstructured time series models is the possibility of using it to assess the effects of sector polices via simulation. Indeed this is the general motivation of computable equilibrium models.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The problem with the approach is that the models are rarely supported by the data. Elasticities are computed elsewhere and freely used to specify equations. The Aglink/2006 outlook for the meat market for example is examined in detail in Gazzola et al. (2006). These authors show in their article that elasticities estimated from regressions differ markedly from the ones used in the specification of the meat market models and there are frequent sign inversions indicating probable specification errors.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">For the current analysis, a set of equations to explain the meat market (beef, poultry and pork) that is consistent with the observations available is proposed based on the OECD/Aglink data. Elasticities are estimated by three stage least squares directly from models suggested by economic theory. The response functions are linear in natural logs and therefore belong to the Cobb-Douglas family. The poultry market was the only market for which the demand function was difficult to identify. In this case we used a statistical correction to the Aglink specification to adjust the own price elasticity.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">To illustrate simulations from the estimated model we consider a three step forward outlook and the effect of a 1 percent increase in corn price in the poultry and pork markets. All key macroeconomic variables are kept constant in this last exercise. The outlook, on the other hand, is based on time series projections of these variables via state space models (Dickey and Brocklebank, 2004) as suggested in Gazzola et al. (2006).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Our discussion in the article proceeds as follows. In Section 2, we update the descriptive discussion in Gazzola et al. (2006) on the meat market. In Section 3 we discuss the general approach followed to specify our partial equilibrium model and show the systems fitted for beef, poultry and pork. In Section 4 we show simulation exercises derived from the equations fitted in Section 3. Finally in Section 5 we summarize the main findings and present our conclusions from the statistical exercise.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2. Descriptive aspects of the meat market</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The study of the world meat market is of extreme importance to Brazil since meat exports represent a sizable chunk of total Brazilian exports. The descriptive aspects of the meat market are shown in Gazzola et al. (2006). Here we update their description to include final 2005 and 2006 information. The agribusinesses in Brazil represented in 2006, 35.95% of the total Brazilian exports and 17% of this total are due to meat exports (MDIC, 2007).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">These figures motivate the need for a continuous observation on the variables composing the meat market. That is also the fundamental economic reason why organizations like the Ministry of Agriculture and Embrapa are showing an increasing interest in the development of econometric models explaining the agents' behaviors in the meat market and in other commodities markets likewise important for the Brazilian agribusinesses.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A typical instance of the need of models to assess economic impacts is the recent issue raised by the US interest to increase its ethanol production. The general expectations are for increase in corn price. Since poultry and pork feed in Brazil are heavily based on corn, an increase in the international price of corn will affect the corn market in Brazil and indirectly the poultry and pork prices affecting demand, production and exports in these markets.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The quantitative importance of the meat aggregate, which is dominated by beef, pork and poultry, for the Brazilian economy, can be inferred from <a href="#tab01">Table 1</a> where we show the evolution in the recent past of the total Brazilian exports, the exports generated by the agribusinesses as a whole and of the meat exports. The total of meat exports has been growing steadily, representing, in 2006, 6.29% of the total volume of the Brazilian exports and 17.48% of the total exports generated by the agribusinesses.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="tab01"></a></font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a11tab01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The Brazilian participation is also relevant in terms of world aggregates. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">OECD (2007) data indicate that the world production of meat is concentrated basically in the United States, European Union, China, Brazil and OAS (Other Asian Countries - see OECD (2007) definitions).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Based on OECD data, those countries and aggregates represented 61% of beef production in the world, 84% of the pork production and 75% of the poultry production in the period 1995-2006.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In this same period Brazil was the third world producer of beef and fifth of poultry and pork and it has by far the largest geometric annual growth rates of poultry and pork production, overcoming the United States, European Union, China and the aggregate OAS. Brazil is second in beef growth being dominated only by China.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Using OECD (2007) data Brazilian production rates are 4.70% (±0.27%) for beef, 7.42% (±1.15%) for pork and 8.83% (±0.34%) for poultry.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In terms of world exports in 2006, Brazil is the largest beef exporter with 2.59 million tons (ABIEC, 2007; FAO, 2007) and of poultry meat with 2.71 million tons (ABEF, 2007; USDA, 2007).</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In terms of pork meat exports Brazil is fourth trailing the European Union, United States and Canada (OECD, 2007; USDA, 2007).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">During the period 1995-2006 (OECD, 2007) Brazil shows the highest rates of geometric annual growth for beef, pork and poultry exports. The estimated rates are 24.01% (±1.4%) for beef, 30.43% (± 3.14%) for pork and 20.89% (±1.39%) for poultry.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finally, looking at meat consumption for the period 1995-2006, Brazil occupies the third position in beef, the fifth (OECD, 2007) for poultry and the eighth position in the consumption of pork meat (OECD, 2007).</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Partial equilibrium models for beef, poultry and pork </b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The partial equilibrium models we consider for beef, poultry and pork all obey some variation of the following simple structure. The basic model, excluding identities, is a system with three equations given by </font></p>     <p><img src="/img/revistas/resr/v46n4/a11form01.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">where q<sub><i>c</i></sub>is the demand function, q<sub><i>p </i></sub>can be considered as the supply function, e<i>x </i>denotes exports, <i>p </i>is own price, p<sub><i>s</i></sub> is a price vector of substitutes, <i>i </i>is <i>per capita </i>income, <i>pop </i>is population, <i>v </i>and <i>u </i>are covariates or lagged values of consumption or production, is <i>p <sub>in </sub></i> a vector or index of input prices, <i>r </i>is the (Brazilian -Selic) interest rate, <i>c </i>is the exchange rate, and the </font>&#949;<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sub><i>l </i></sub>are non observable errors. All variables measured in natural logs.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Relationships are assumed to be linear so that all response functions belong to the Cobb-Douglas family. Prices for beef, poultry and pork are computed dividing the OECD (2007) price (Atlantic price for beef and pork and USA for poultry) by the USA consumer price index and multiplying the result by the exchange rate.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#tab02">Table 2</a> describes the main variables used in our models. The source information on annual data is available in the Embrapa-SGE (2007) outlook data base. We used the period 1995-2006 in our analysis.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="tab02"></a></font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a11tab02.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.1 The beef market</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#tab03">Table 3</a> shows three stage least squares estimates for the beef market. The system fitted is given by</font></p>     <p><img src="/img/revistas/resr/v46n4/a11form02.jpg"></p>     <p><a name="tab03"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a11tab03.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The R-square coefficients for these equations are 78.8%, 81.0% and 77.1%, respectively. The inclusion of prices of substitutes (poultry and pork) did not improve the model as well as the use of an input price index. All signs have the expected direction.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>3.2 The poultry market</i></b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The several alternatives we considered for the poultry market did not lead to an acceptable functional form for the demand equation with proper signs of the coefficients. For this reason instead of fitting the demand function directly we used the residual from the OECD demand specification relative to the observed demand as the dependent variable. The procedure was used to compute the price elasticity. Corrections for the income and population elasticities in the Aglink formulation were not needed. The partial equilibrium model for the poultry market is</font></p>     <p>  <img src="/img/revistas/resr/v46n4/a11form03.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Here</font></p>     <p><img src="/img/revistas/resr/v46n4/a11form04.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The expression inside parenthesis is, but for a constant term, the OCDE/Aglink specification of the Brazilian poultry demand function. The variable dummy is an indicator and was introduced to take into account effects of the bird flu (avian influenza) since 2003.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Since all variables are measured in natural logs the demand price elasticity is given by </font></p>     <p><img src="/img/revistas/resr/v46n4/a11form05.jpg"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We notice that we did not find significant the input price index in the production curve neither the exchange rate in the export equation.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#tab04">Table 4</a> shows three stage least squares for the poultry market. R squares for the system equations are 80.2%, 85.1% and 87.6%, respectively.</font></p>     <p><a name="tab04"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a11tab04.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i><b>3.3 The pork market</b></i></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The set of behavioral equations for the pork market is given by </font></p>     <p><img src="/img/revistas/resr/v46n4/a11form06.jpg" ></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">For model specification in the pork market we did not find significant the inclusion of beef as a substitute. The variable <i>dummy</i><sub>* </sub>is an indicator variable shifting the demand equation since the 2000. We noticed a significant level shift in the demand curve beginning in 2000. As with the poultry and the beef markets we did not find the input index significant. It seems that here, as with the other markets, that the interest rate is capturing the effect of input prices.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="#tab05">Table 5</a> shows the estimates for the pork market. Apparently we produced here the best fit of all models. R squares for the equations are 99.3%, 81.5%, and 90.3%, respectively for domestic demand, supply and exports, respectively.</font></p>     <p><a name="tab05"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a11tab05.jpg"></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4. A simulation exercise</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We now use the results of Section 4 to simulate the meat market model in two instances. Firstly we produce an outlook for demand, supply, exports and prices for three years ahead. The results are compared with the OECD/Aglink values. Since the models are different as well as the assumptions made on key macroeconomic variables we do not expect a close agreement of these figures. Secondly we inspect the effect of a 1% increase in corn price on the poultry and pork markets.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The assessment of such impact has been of concern lately due to a suspected substantial shift of corn production to ethanol production in the United States. The action will very likely increase corn price with a spill over effect on the corn, poultry and pork markets in Brazil. The analysis we set forth in this context is coeteris paribus since we keep constant per capita income, the interest rate, the exchange rate and the demographics.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The outlook for the meat market is shown in <a href="#tab06">Table 6</a> in log form. Aglink/OECD forecasts are also shown. For the poultry market we found best to estimate the quantities consumed via the supply function. The supply function was estimated using three stage least squares replacing the production curve by the supply function in the analysis. The equation fitted, in log form, is</font></p>     <p><img src="/img/revistas/resr/v46n4/a11form07.jpg"></p>     ]]></body>
+<body><![CDATA[<p><a name="tab06"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a11tab06.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In <a href="#tab06">Tables 6</a> and <a href="#tab07">7</a> we show forecasts, for years 2007, 2008 and 2009, as reported by OECD/Aglink and those obtained simulating the markets equations (Model). <a href="#tab07">Table 7</a> show forecasts in their original units and <a href="#tab06">Table 6</a> shows their natural logs. We see that, although the values are somewhat in the same order of magnitude, the Model outlook is consistently lower than the OECD/Aglink outlook. This is due to model differences and to the assumptions imbedded in the forecast of the exogenous variables in use. Typically we use state space forecasts of the economic aggregates which lead to more conservative (lower) estimates. We are using the value 2.2 for the exchange rate in 2009 and OECD 2.48. Another example is income. We assume a 2% increase in <i>per capita </i>income during the period 2007-2009 and OECD/Aglink 4.9%.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="tab07"></a></font></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v46n4/a11tab07.jpg"></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v46n4/a11fig01.jpg"></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">To assess the impact of corn prices in the pork and poultry markets we use a transfer function approach, regressing, via three stage least squares, the prices of pork and poultry on the price of corn. These equations were estimated adding the corresponding equations to the respective market equations. This procedure avoids spurious regressions (Johnston and Dinardo, 1994).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The equations estimated are</font></p>     <p><img src="/img/revistas/resr/v46n4/a11form08.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">for poultry prices and</font></p>     <p><img src="/img/revistas/resr/v46n4/a11form09.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">for pork prices.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Using the chain rule one obtains, for the poultry market, the following partial derivatives for domestic demand, production and exports, respectively. These derivatives serve the purpose to estimate the impact of a relative increase in corn price on the poultry market. Similar expressions may be worked out for the pork market.</font></p>     <p><img src="/img/revistas/resr/v46n4/a11form10.jpg"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">First we analyze the poultry market. Based on the estimation results of <a href="#tab04">Table 4</a>, the expected decrease in the domestic demand for poultry resulting from a 1% relative increase in corn price is estimated by</font></p>     <p><img src="/img/revistas/resr/v46n4/a11form11.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Using the system of equations which led to the transfer function parameter the estimate would be -1.14%. Therefore we could reasonably expect a decrease in the range -1.14% to -1.05%.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">For production the expected increase is </font></p>     <p><img src="/img/revistas/resr/v46n4/a11form12.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Using the alternative system the figure is 0.728% and the range for increase in production is somewhere between 0.539% and 0.728%. For exports we get an increase of</font></p>     <p><img src="/img/revistas/resr/v46n4/a11form13.jpg"></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The appropriate increase of exports will likely be in the interval from 1.016% to 1.310%.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The same order of ideas applied to the pork market leads to the ranges (-0,088%, -0.074%), (0.358%, 0.431%), and (0.873%, 1.017%) for domestic demand, production and exports, respectively.</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5. Summary and conclusions</b></font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This article presents descriptive statistics related to the world meat markets emphasizing the Brazilian participation. From this analysis we conclude that the Brazilian share in the meat market is growing steadily. Meat exports represent a significant percentage of the total exports in Brazil generated by the agricultural sector.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This profile justifies the effort made by Brazilian institutions to derive econometric models not only capable to produce reliable forecasts but also adequate to assess the effects of exogenous shocks and of specific policies affecting the market. We seemed to have achieved this objective for the meat market. Even with the small number of observations available we were able to define models in accordance with economic theory and supported by the data.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">These results, for this kind of application, are original in Brazil.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">To illustrate the use of the estimated system of equations we simulated the structure for the near future and compared the results with the OECD/Aglink predictions. Our simulations are consistently more conservative. Here we should stress the fact that long run forecasts are meaningless since it is almost impossible to predict the evolution of key macroeconomic variables like <i>per capita </i>income, inflation, interest rates and exchange rates far into the future. Both, time series and structural models will, inevitably, produce confidence intervals so large that they will not be of practical use. As far as OECD's Aglink general outlook is concerned, as shown in Gazzola et al. (2006), the Brazilian data do not support the corresponding computable partial equilibrium model.</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finally in regard to the study of shocks we considered the effect of a relative 1% price increase in corn price on the poultry and pork markets. On the poultry market the domestic demand would decrease by 1.053%, production would increase by 0.539% and exports would increase by 1.016%. On the pork market domestic demand would decrease by 0.088%, production would increase by 0.358% and exports would increase by 0.873%. </font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Besides the purpose of illustration, the estimation of the expected impact of an increase in corn price is of much interest to corn, poultry and pork producers, since corn is an important component of the production costs of poultry and pork.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>6. References</b></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ABEF. <b>Associa&ccedil;&atilde;o Brasileira dos Produtores e Exportadores de Frangos</b>. 2007. Available in: &lt;<a href="http://www.abef.com.br/" target="_blank">http://www.abef.com.br/</a>&gt;. Access on: March 20, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003200800040001100001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">ABIEC. <b>Associa&ccedil;&atilde;o Brasileira das Ind&uacute;strias Exportadoras de Carne</b>. 2007. Available in: &lt;<a href="http://www.abiec.com.br/tabela.asp?id_ periodo=2/" target="_blank">http://www.abiec.com.br/tabela.asp?id_ periodo=2/</a>&gt;. Access on: March 20, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003200800040001100002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BROCKLEBANK, J. C.; DICKEY, D. A. <b>SAS system for forecasting time series</b>. 2<sup>nd</sup> ed. Cary: SAS Publishing, 2004. 420 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003200800040001100003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CONTINI, E.; GASQUES, J. G.; LEONARDI, R. B. A.; BASTOS, E. T. Proje&ccedil;&otilde;es do agroneg&oacute;cio no Brasil e no mundo. <b>Revista de Pol&iacute;tica Agr&iacute;cola</b>, Bras&iacute;lia: CONAB, v. 14, n. 1, p. 45-56, jan./mar. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003200800040001100004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FAPRI. <b>World Agricultural Outlook</b>. Iowa State University. 2007. 76p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003200800040001100005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FAO. Food and Agriculture Organization of the United Nations. <b>FAOSTAT</b>. 2007. Available in: &lt;<a href="http://faostat.fao.org/" target="_blank">http://faostat.fao.org/</a>&gt;Access on: March 12, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003200800040001100006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">GAZZOLA, R.; COELHO,    C. H. M.; SOUZA, G. S.; MARRA, R.; OLIVEIRA, </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A.    J. Mercado de carnes: aspectos descritivos e experi&ecirc;ncias com o uso de    modelos de equil&iacute;brio parcial e de espa&ccedil;o de estados. <b>Revista    de Pol&iacute;tica Agr&iacute;cola</b>, Bras&iacute;lia: CONAB, v. 14, n. 1,    p. 84-101, jan./mar. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003200800040001100007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">JOHNSTON, J.; DINARDO, J. <b>Econometric methods</b>. 4<sup>th</sup> ed. New York: McGraw-Hill, 1997. 531 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003200800040001100008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">MDIC. <b>Minist&eacute;rio do Desenvolvimento, Ind&uacute;stria e Com&eacute;rcio Exterior</b>. 2007. Available in: &lt;<a href="http://aliceweb.mdic.gov.br/" target="_blank">http://aliceweb.mdic.gov.br/</a>&gt;. Access on: March 14, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003200800040001100009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">OECD-FAO. Organisation for Economic Co-Operation and Development-Food and Agriculture Organization of the United Nations. <b>Agricultural Outlook 2006-2015</b>. 212 p. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003200800040001100010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">OECD. <b>Organisation for Economic Co-operation and Development.</b>Available in: &lt;<a href="http://www.oecd.org/login/0,2955,en_17642234_17642806_1_1_1_1_1,00.html?appId=13" target="_blank">https://www.oecd.org/login/0,2955,en_17642234_17642806_1_1_1_1_1,00.html?appId=13</a>&gt;. Access on: March 20, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003200800040001100011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>STATA v. 9.2</b>. StataCorp LP, College Station, TX, USA. 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003200800040001100012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">TROSTLE, R. G. Agricultural trade: International Ag Baseline Projections. <b>Revista de Pol&iacute;tica Agr&iacute;cola</b>, Bras&iacute;lia: CONAB, v. 14, n. 1, p. 102-116, jan./mar. 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003200800040001100013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">USDA. United States Department of Agriculture. 2007. <b>USDA Agricultural Projections to 2016. </b>Office of the Chief Economist, World Agricultural Outlook Board, U.S. Department of Agriculture. Prepared by the Interagency Agricultural Projections Committee. Long-term Projections Report OCE-2007-1, 110 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003200800040001100014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="not"></a><a href="#not01">1</a> We are grateful to CNPq for supporting this research. </font></p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<collab>Associação Brasileira dos Produtores e Exportadores de Frangos</collab>
+<source><![CDATA[]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<collab>Associação Brasileira das Indústrias Exportadoras de Carne</collab>
+<source><![CDATA[]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BROCKLEBANK]]></surname>
+<given-names><![CDATA[J. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DICKEY]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[SAS system for forecasting time series]]></source>
+<year>2004</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Cary ]]></publisher-loc>
+<publisher-name><![CDATA[SAS Publishing]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CONTINI]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEONARDI]]></surname>
+<given-names><![CDATA[R. B. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BASTOS]]></surname>
+<given-names><![CDATA[E. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Projeções do agronegócio no Brasil e no mundo]]></article-title>
+<source><![CDATA[Revista de Política Agrícola]]></source>
+<year>jan.</year>
+<month>/m</month>
+<day>ar</day>
+<volume>14</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>45-56</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[CONAB]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<collab>FAPRI</collab>
+<source><![CDATA[World Agricultural Outlook]]></source>
+<year>2007</year>
+<publisher-name><![CDATA[Iowa State University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="">
+<collab>Food and Agriculture Organization of the United Nations</collab>
+<source><![CDATA[FAOSTAT]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GAZZOLA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[C. H. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUZA]]></surname>
+<given-names><![CDATA[G. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MARRA]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[A. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Mercado de carnes: aspectos descritivos e experiências com o uso de modelos de equilíbrio parcial e de espaço de estados]]></article-title>
+<source><![CDATA[Revista de Política Agrícola]]></source>
+<year>jan.</year>
+<month>/m</month>
+<day>ar</day>
+<volume>14</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>84-101</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[CONAB]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JOHNSTON]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DINARDO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Econometric methods]]></source>
+<year>1997</year>
+<edition>4</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<collab>Ministério do Desenvolvimento, Indústria e Comércio Exterior</collab>
+<source><![CDATA[]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<collab>Organisation for Economic Co-Operation and Development-Food and Agriculture Organization of the United Nations</collab>
+<source><![CDATA[Agricultural Outlook 2006-2015]]></source>
+<year>2006</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<collab>Organisation for Economic Co-operation and Development</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<source><![CDATA[STATA v. 9.2]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[^eTX TX]]></publisher-loc>
+<publisher-name><![CDATA[StataCorp LP, College Station]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TROSTLE]]></surname>
+<given-names><![CDATA[R. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agricultural trade: International Ag Baseline Projections]]></article-title>
+<source><![CDATA[Revista de Política Agrícola]]></source>
+<year>jan.</year>
+<month>/m</month>
+<day>ar</day>
+<volume>14</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>102-116</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[CONAB]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<collab>United States Department of Agriculture</collab>
+<source><![CDATA[USDA Agricultural Projections to 2016]]></source>
+<year>2007</year>
+<publisher-name><![CDATA[Office of the Chief Economist, World Agricultural Outlook Board, U.S. Department of Agriculture. Prepared by the Interagency Agricultural Projections Committee]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032014000400009</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032014000400009</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Qual a direção da convergência na produtividade da mão de obra na agropecuária de Minas Gerais?]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Pessoa]]></surname>
+<given-names><![CDATA[Filipe de Morais Cangussu]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Braga]]></surname>
+<given-names><![CDATA[Marcelo José]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Salvato]]></surname>
+<given-names><![CDATA[Márcio Antônio]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Coronel]]></surname>
+<given-names><![CDATA[Daniel Arruda]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidade Federal de Viçosa Instituto Federal de Educação, Ciência e Tecnologia de Brasília ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,UFV  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Fundação Getúlio Vargas do Rio de Janeiro  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Universidade Federal de Santa Maria  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>52</volume>
+<numero>4</numero>
+<fpage>783</fpage>
+<lpage>800</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032014000400009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032014000400009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032014000400009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O presente estudo tem como objetivo investigar se existiu um processo de convergência da produtividade da mão de obra no setor agropecuário mineiro, ao longo do período de 1970 a 2006, e em que regiões agropecuárias de baixa produtividade estariam reduzindo o hiato existente em relação às regiões agropecuárias de alta produtividade. Para tal finalidade, desagregou-se o estado em municípios e, como metodologias de teste, utilizaram-se densidades de distribuição e um processo estacionário de primeira ordem de Markov, em sua versão discreta. Os resultados demonstram que as distribuições de produtividade dos municípios sofreram um deslocamento de massa para a esquerda, indicando piora na produtividade, e que sua dinâmica de evolução apresentou um processo de convergência em direção a classes inferiores de produtividade.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[This study aims to investigate if there is a convergence process of labor productivity in the agricultural sector of Minas Gerais State over the period 1970 to 2006, and in which regions of low agricultural productivity the gap in relation to the regions with high agricultural productivity has been reducing. For this purpose, the state is disaggregated into municipalities, and as testing methodologies are used density distribution and a first order Markov process in its discrete and continuous versions. The results show that the distributions of productivity of municipalities have suffered mass displacement to the left, indicating a worsening in it and its dynamics of development showed a process of convergence towards the lower classes of productivity.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Convergência]]></kwd>
+<kwd lng="pt"><![CDATA[cadeias de Markov]]></kwd>
+<kwd lng="pt"><![CDATA[produtividade]]></kwd>
+<kwd lng="pt"><![CDATA[setor agropecuário]]></kwd>
+<kwd lng="en"><![CDATA[Convergence]]></kwd>
+<kwd lng="en"><![CDATA[Markov chains]]></kwd>
+<kwd lng="en"><![CDATA[labor-productivity]]></kwd>
+<kwd lng="en"><![CDATA[agricultural sector]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana"><b><a name="title"></a>Qual a dire&ccedil;&atilde;o da converg&ecirc;ncia na produtividade da m&atilde;o de obra na agropecu&aacute;ria de Minas Gerais?<a href="#nt01"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>Filipe de Morais Cangussu Pessoa<sup>I</sup>; Marcelo Jos&eacute; Braga<sup>II</sup>; M&aacute;rcio Ant&ocirc;nio Salvato<sup>III</sup>; Daniel Arruda Coronel<sup>IV</sup></b></font></p>     <p><font size="2" face="Verdana"><sup>I</sup>Doutorando e Mestre em Economia Aplicada pela Universidade Federal de Vi&ccedil;osa (UFV) e Economista do Instituto Federal de Educa&ccedil;&atilde;o, Ci&ecirc;ncia e Tecnologia de Bras&iacute;lia (IFB). E&#45;mail: <a href="mailto:filipe_morais_pessoa@yahoo.com.br">filipe_morais_pessoa@yahoo.com.br</a>    <br>   <sup>II</sup>Coordenador do Programa de P&oacute;s&#45;gradua&ccedil;&atilde;o em Economia Aplicada da UFV e Bolsista de Produtividade do CNPq. E&#45;mail: <a href="mailto:mjbraga@ufv.br">mjbraga@ufv.br</a>    <br>   <sup>III</sup>Professor Adjunto do Instituto Brasileiro de Mercado de Capitais (IBMEC&#45;MG) e Coordenador do Curso de Ci&ecirc;ncias Econ&ocirc;micas do IBMEC&#45;MG e Doutor em Economia pela Funda&ccedil;&atilde;o Get&uacute;lio Vargas do Rio de Janeiro (FGV&#45;RJ). E&#45;mail: <a href="mailto:marcio.salvato@gmail.com">marcio.salvato@gmail.com</a>    <br>   <sup> IV</sup>Professor Adjunto do Programa de P&oacute;s&#45;gradua&ccedil;&atilde;o em Administra&ccedil;&atilde;o, Diretor da Editora da Universidade Federal de Santa Maria (UFSM) e Doutor em Economia Aplicada pela UFV. E&#45;mail: <a href="mailto:daniel.coronel@uol.com.br">daniel.coronel@uol.com.br</a> </font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><b>RESUMO</b></font></p>     <p><font size="2" face="Verdana">O presente estudo tem como objetivo investigar se existiu um processo de converg&ecirc;ncia da produtividade da m&atilde;o de obra no setor agropecu&aacute;rio mineiro, ao longo do per&iacute;odo de 1970 a 2006, e em que regi&otilde;es agropecu&aacute;rias de baixa produtividade estariam reduzindo o hiato existente em rela&ccedil;&atilde;o &agrave;s regi&otilde;es agropecu&aacute;rias de alta produtividade. Para tal finalidade, desagregou&#45;se o estado em munic&iacute;pios e, como metodologias de teste, utilizaram&#45;se densidades de distribui&ccedil;&atilde;o e um processo estacion&aacute;rio de primeira ordem de Markov, em sua vers&atilde;o discreta. Os resultados demonstram que as distribui&ccedil;&otilde;es de produtividade dos munic&iacute;pios sofreram um deslocamento de massa para a esquerda, indicando piora na produtividade, e que sua din&acirc;mica de evolu&ccedil;&atilde;o apresentou um processo de converg&ecirc;ncia em dire&ccedil;&atilde;o a classes inferiores de produtividade. </font></p>     <p><font size="2" face="Verdana"><b>Palavras&#45;chaves: </b>Converg&ecirc;ncia, cadeias de Markov, produtividade, setor agropecu&aacute;rio.</font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>ABSTRACT</B></font></p>     <p><font size="2" face="Verdana">This study aims to investigate if there is a convergence process of labor productivity in the agricultural sector of Minas Gerais State over the period 1970 to 2006, and in which regions of low agricultural productivity the gap in relation to the regions with high agricultural productivity has been reducing. For this purpose, the state is disaggregated into municipalities, and as testing methodologies are used density distribution and a first order Markov process in its discrete and continuous versions. The results show that the distributions of productivity of municipalities have suffered mass displacement to the left, indicating a worsening in it and its dynamics of development showed a process of convergence towards the lower classes of productivity.</font></p>     <p><font size="2" face="Verdana"><b>Key&#45;words: </b>Convergence, Markov chains, labor&#45;productivity, agricultural sector.    <br>   <b>Classifica&ccedil;&atilde;o JEL:</b> O47, C14, C21.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O setor agropecu&aacute;rio brasileiro, a partir da d&eacute;cada de 1960, pode ser caracterizado pela intensifica&ccedil;&atilde;o do uso de insumos, m&aacute;quinas e equipamentos modernos, aspecto que se desenvolveu impulsionado pelo pacote tecnol&oacute;gico conhecido como Revolu&ccedil;&atilde;o Verde. O cons&oacute;rcio desses fatores com os edafoclim&aacute;ticos (clima, solo e condi&ccedil;&otilde;es do tempo) favor&aacute;veis criou condi&ccedil;&otilde;es prop&iacute;cias para o incremento e a sustenta&ccedil;&atilde;o de taxas positivas de crescimento da oferta de produtos agropecu&aacute;rios de alta qualidade e a custos menores. A utiliza&ccedil;&atilde;o dessas novas tecnologias resultou em ganhos expressivos de produtividade agr&iacute;cola no Brasil, conforme mostrado por Gasques <i>et al</i>. (2004), Vicente (2006) e Gon&ccedil;alves (2007), e favoreceram a diversifica&ccedil;&atilde;o e a amplia&ccedil;&atilde;o da produ&ccedil;&atilde;o em todas as regi&otilde;es do pa&iacute;s.</font></p>     <p><font size="2" face="Verdana">Concomitante a tal quadro, verifica&#45;se, nas &uacute;ltimas d&eacute;cadas, no Brasil, um &ecirc;xodo rural expressivo. Mais especificamente em Minas Gerais, a popula&ccedil;&atilde;o rural, como porcentagem da popula&ccedil;&atilde;o urbana, segundo dados divulgados pela Secretaria de Estado de Agricultura, Pecu&aacute;ria e Abastecimento (SEAPA, 2010), passou de 32,1%, em 1980, para 15,3% em 2006, din&acirc;mica t&iacute;pica de uma economia em crescimento (GOLLIN <i>et al.</i>, 2002; YANG e ZHU, 2008). Assim, para a agropecu&aacute;ria do estado cumprir com as fun&ccedil;&otilde;es estabelecidas pelas pol&iacute;ticas macroecon&ocirc;mica e setorial, como oferta crescente de alimentos para consumo dom&eacute;stico, amplia&ccedil;&atilde;o do mercado para produtos da ind&uacute;stria, expans&atilde;o da oferta da poupan&ccedil;a e gera&ccedil;&atilde;o de divisas externas, devido ao decl&iacute;nio de sua m&atilde;o de obra, &eacute; imprescind&iacute;vel aumentar a produtividade deste fator. Al&eacute;m disso, a eleva&ccedil;&atilde;o da produtividade da m&atilde;o de obra do setor agropecu&aacute;rio mineiro neste processo se faz necess&aacute;ria tendo em vista a preocupa&ccedil;&atilde;o de elevar a renda do trabalhador rural, para que este tenha incentivo em permanecer no campo (STULP, 2004). </font></p>     <p><font size="2" face="Verdana">Os trabalhos de Gasques e Concei&ccedil;&atilde;o (2000) e Freitas, Bacha e Fossati (2007) apontaram o aumento da produtividade da m&atilde;o de obra na agropecu&aacute;ria mineira a partir da d&eacute;cada de 1970, o que revela o resultado de pol&iacute;ticas governamentais voltadas para a moderniza&ccedil;&atilde;o do setor. </font></p>     <p><font size="2" face="Verdana">Como informa Curi (1997), dentre as a&ccedil;&otilde;es de pol&iacute;tica de moderniza&ccedil;&atilde;o do setor agropecu&aacute;rio mineiro, destacam&#45;se os programas de incorpora&ccedil;&atilde;o de terras baratas do cerrado ao processo produtivo, financiados e comandados pelo poder p&uacute;blico durante o per&iacute;odo 1960&#45;1980, e a reestrutura&ccedil;&atilde;o do arcabou&ccedil;o institucional respons&aacute;vel pela condu&ccedil;&atilde;o da pol&iacute;tica agr&iacute;cola (cr&eacute;dito rural subsidiado para aquisi&ccedil;&atilde;o de m&aacute;quinas, equipamentos e fertilizantes agr&iacute;colas; pre&ccedil;os m&iacute;nimos de garantia; pesquisa e assist&ecirc;ncia t&eacute;cnica).</font></p>     <p><font size="2" face="Verdana">Contudo, esse processo de moderniza&ccedil;&atilde;o n&atilde;o ocorreu de maneira uniforme, visto que contemplou regi&otilde;es e produtos distintos, o que, de certa forma, agravou a heterogeneidade do desenvolvimento agr&aacute;rio no estado, levando a uma situa&ccedil;&atilde;o de moderniza&ccedil;&atilde;o parcial. Isto porque os instrumentos de pol&iacute;tica utilizados tinham abrang&ecirc;ncia nacional e adotaram um pacote tecnol&oacute;gico relativamente inflex&iacute;vel, que n&atilde;o se adequava ao perfil de todos os produtores rurais, principalmente o do produtor mineiro, e essa falta de flexibilidade foi grandemente respons&aacute;vel pelo crescimento das disparidades regionais (MEYER e BRAGA, 1998). </font></p>     <p><font size="2" face="Verdana">Do exposto, verifica&#45;se que h&aacute;, apesar do crescimento da produtividade da m&atilde;o de obra na agropecu&aacute;ria, em Minas Gerais, um quadro de disparidades entre suas regi&otilde;es, impulsionado principalmente por um processo de moderniza&ccedil;&atilde;o agr&iacute;cola que n&atilde;o contemplou todo o estado. Diante desse contexto, tem&#45;se o arcabou&ccedil;o fundamental que justifica a an&aacute;lise, qual seja, investigar se por tr&aacute;s deste aumento de produtividade e das disparidades existentes no estado h&aacute; uma tend&ecirc;ncia de regi&otilde;es com baixa produtividade estarem reduzindo o hiato existente entre as regi&otilde;es com alta produtividade, embasado no processo de converg&ecirc;ncia advogado pela literatura de crescimento econ&ocirc;mico. Nesse &acirc;mbito, o estudo dessa vari&aacute;vel assume um papel importante, j&aacute; que "&eacute; uma estat&iacute;stica sint&eacute;tica &uacute;til acerca do n&iacute;vel de desenvolvimento econ&ocirc;mico no sentido que est&aacute; altamente correlacionada com outros indicadores de qualidade de vida" (JONES, 2000, p. 3). </font></p>     <p><font size="2" face="Verdana">Apesar de existirem trabalhos na literatura nacional que estudaram o processo de converg&ecirc;ncia em Minas Gerais, poucos s&atilde;o os voltados para o setor agropecu&aacute;rio. Em vista disso, o presente trabalho visa preencher essa lacuna, utilizando como metodologias de an&aacute;lise densidades de distribui&ccedil;&atilde;o e matrizes de transi&ccedil;&atilde;o de Markov. Essa abordagem refina as metodologias de </font><font>&#946;</font><font size="2" face="verdana"> e </font><font>&#963;</font><font size="2" face="verdana">&#45;converg&ecirc;ncia, tradicionalmente utilizadas para tal finalidade, ao fornecer informa&ccedil;&atilde;o do formato de toda a distribui&ccedil;&atilde;o de produtividade da m&atilde;o de obra e de como ela evolui. </font></p>     <p><font size="2" face="Verdana">O artigo est&aacute; estruturado em tr&ecirc;s se&ccedil;&otilde;es, al&eacute;m desta introdu&ccedil;&atilde;o. Na segunda se&ccedil;&atilde;o, s&atilde;o apresentados os procedimentos metodol&oacute;gicos; na terceira se&ccedil;&atilde;o, os resultados obtidos s&atilde;o analisados e discutidos e, por fim, s&atilde;o apresentadas algumas considera&ccedil;&otilde;es finais.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>2. Metodologia</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana"><i>2.1 Densidades de distribui&ccedil;&atilde;o</i></font></p>     <p><font size="2" face="Verdana">A literatura de crescimento econ&ocirc;mico iniciou a aplica&ccedil;&atilde;o de densidades de distribui&ccedil;&atilde;o para an&aacute;lise da evolu&ccedil;&atilde;o da produtividade (QUAH, 1993) visando contornar as defici&ecirc;ncias das metodologias tradicionalmente empregadas para o estudo de converg&ecirc;ncia, principalmente no que tange &agrave; aus&ecirc;ncia de informa&ccedil;&atilde;o intradistribui&ccedil;&atilde;o, j&aacute; que as regress&otilde;es <I>cross&#45;section</I> e o c&ocirc;mputo de dispers&atilde;o revelam informa&ccedil;&otilde;es m&eacute;dias da amostra como um todo, n&atilde;o sendo poss&iacute;vel captar particularidades de suas por&ccedil;&otilde;es.</font></p>     <p><font size="2" face="Verdana">Esta an&aacute;lise pode ser feita pela discretiza&ccedil;&atilde;o do espa&ccedil;o de produtividades, por meio da constru&ccedil;&atilde;o de histogramas, os quais permitem uma visualiza&ccedil;&atilde;o gr&aacute;fica das frequ&ecirc;ncias relativas. Na constru&ccedil;&atilde;o do histograma, as economias analisadas s&atilde;o agrupadas em intervalos de produtividade de tamanho fixo. Em seguida, contam&#45;se quantas economias pertencem a cada intervalo e desenha&#45;se uma barra proporcional ao n&uacute;mero contado. Um problema existente na discretiza&ccedil;&atilde;o de um espa&ccedil;o cont&iacute;nuo &eacute; a possibilidade de obten&ccedil;&atilde;o de resultados diferentes, dependendo da origem ou do tamanho dos intervalos escolhidos (GONDIM e BARRETO 2004).</font></p>     <p><font size="2" face="Verdana">Para evitar as distor&ccedil;&otilde;es produzidas pela discretiza&ccedil;&atilde;o, pode&#45;se estimar uma densidade de distribui&ccedil;&atilde;o pelo m&eacute;todo de suaviza&ccedil;&atilde;o por n&uacute;cleo (<I>kernel smoothing</I>). Este m&eacute;todo considera cada economia de uma amostra de tamanho n o ponto central de um intervalo de tamanho h. No presente contexto, utilizou&#45;se uma fun&ccedil;&atilde;o de pondera&ccedil;&atilde;o com n&uacute;cleo Gaussiano.</font></p>     <p><font size="2" face="Verdana">Na an&aacute;lise das densidades, uma curva mais concentrada (leptoc&uacute;rtica) indica uma maior converg&ecirc;ncia, ao passo que uma curva mais achatada (platic&uacute;rtica) indica maior dispers&atilde;o da produtividade, portanto, maior diverg&ecirc;ncia. Al&eacute;m disso, permite&#45;se a identifica&ccedil;&atilde;o de moda(s) e, consequentemente, caracter&iacute;sticas como estratifica&ccedil;&atilde;o e polariza&ccedil;&atilde;o. Estes dois termos foram cunhados em Quah (1997). O primeiro denota a forma&ccedil;&atilde;o de dois grupos opostos (duas modas na distribui&ccedil;&atilde;o), um de alta renda e outro de baixa renda, e o segundo denota uma situa&ccedil;&atilde;o em que n&atilde;o s&oacute; dois grupos, mas diversos (mais de duas modas na distribui&ccedil;&atilde;o) s&atilde;o formados.</font></p>     <p><font size="2" face="Verdana"><i>2.2 Processo estacion&aacute;rio de primeira ordem de Markov</i></font></p>     <p><font size="2" face="Verdana">O c&aacute;lculo de densidades de distribui&ccedil;&atilde;o carece, contudo, de informa&ccedil;&otilde;es quanto ao mecanismo que gera uma determinada evolu&ccedil;&atilde;o da distribui&ccedil;&atilde;o. Tem&#45;se uma distribui&ccedil;&atilde;o no per&iacute;odo t e outra no per&iacute;odo t + 1, mas n&atilde;o se sabe a din&acirc;mica respons&aacute;vel por transformar tal distribui&ccedil;&atilde;o entre os per&iacute;odos.</font></p>     <p><font size="2" face="Verdana">Para preencher esta lacuna, Quah (1992, 1993) utiliza um processo estacion&aacute;rio de primeira ordem de Markov por meio de matrizes de transi&ccedil;&atilde;o, o qual &eacute; capaz de gerar uma "lei de movimento" que revele como a distribui&ccedil;&atilde;o evolui no tempo.</font></p>     <p><font size="2" face="Verdana">Trata&#45;se de um sistema de equa&ccedil;&otilde;es em diferen&ccedil;as, em que a solu&ccedil;&atilde;o ser&aacute; a condi&ccedil;&atilde;o da economia no seu estado estacion&aacute;rio, ap&oacute;s a converg&ecirc;ncia/diverg&ecirc;ncia da produtividade, ou seja,</font></p>     <p align="center"><img src="/img/revistas/resr/v52n4/a09frm01.jpg"></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">em que Y &eacute; um vetor linha de produtividades em dois per&iacute;odos de tempo distintos; M, descreve a transi&ccedil;&atilde;o de um vetor de produtividades para outro.</font></p>     <p><font size="2" face="Verdana">Em outras palavras, M pode ser interpretada como uma matriz de probabilidades de transi&ccedil;&atilde;o: para quaisquer duas classes de produtividade i e j (i, j </font><font>&#8712;</font><font size="2" face="verdana"> C), em que C denota o conjunto de todas as classes de produtividade, os elementos M<SUB>ij</SUB> definem a probabilidade de se mover de uma classe i para uma classe j entre os per&iacute;odos de tempo t e t + 1, j&aacute; a diagonal principal representa a probabilidade de se permanecer na mesma classe. Suponha&#45;se que uma economia r est&aacute; na classe i(<img src="/img/revistas/resr/v52n4/a09img01.jpg" align="absmiddle"> </font><font>&#8712;</font><font size="2" face="verdana"> i) no tempo t, se a seq&uuml;&ecirc;ncia {<img src="/img/revistas/resr/v52n4/a09img02.jpg" align="absmiddle">, ...} satisfaz a rela&ccedil;&atilde;o</font></p>     <p align="center"><img src="/img/revistas/resr/v52n4/a09frm02.jpg"></p>     <p><font size="2" face="Verdana">para qualquer i </font><font>&#8712;</font><font size="2" face="verdana"> C, e para qualquer economia, ent&atilde;o a evolu&ccedil;&atilde;o da distribui&ccedil;&atilde;o de produtividades Y descrita pela Equa&ccedil;&atilde;o (1) pode ser analisada como um processo estacion&aacute;rio de primeira ordem de Markov<a name="tx04"></a><a href="#nt04"><sup>4</sup></a>. </font></p>     <p><font size="2" face="Verdana">A matriz de probabilidades de transi&ccedil;&atilde;o de n&iacute;veis de produtividade &eacute; constru&iacute;da pelo uso da raz&atilde;o desta vari&aacute;vel em rela&ccedil;&atilde;o &agrave; m&eacute;dia do estado. Dessa forma, a m&eacute;dia estadual passa a ser um, e as economias t&ecirc;m suas posi&ccedil;&otilde;es relativas classificadas por essa m&eacute;dia, obedecendo a classes relativas de n&iacute;veis de produtividade. O intuito deste procedimento &eacute; possibilitar a classifica&ccedil;&atilde;o das duas distribui&ccedil;&otilde;es (t e t + 1) em um mesmo intervalo de classes. Mediante a organiza&ccedil;&atilde;o das duas distribui&ccedil;&otilde;es em uma mesma estrutura de classes, ser&aacute; poss&iacute;vel examinar como as economias migram de uma classe para outra. Com base nessas migra&ccedil;&otilde;es, ser&aacute; constru&iacute;da a matriz de probabilidades de transi&ccedil;&atilde;o de Markov (MAGRINI, 1999).</font></p>     <p><font size="2" face="Verdana">O grande desafio neste tipo de abordagem &eacute; definir um crit&eacute;rio de constru&ccedil;&atilde;o da matriz de Markov que n&atilde;o seja arbitr&aacute;rio a ponto de retirar a propriedade markoviana do processo. No presente estudo, ser&aacute; utilizado o crit&eacute;rio de Magrini (1999), que &eacute; uma alternativa ao m&eacute;todo de Quah (1992), o qual busca determinar as classes de forma a se ter um n&uacute;mero uniforme de representa&ccedil;&otilde;es entre as classes, contudo, "&#091;...&#093; they are totally subjective and may represent a source of potential problems given that inappropriate discretisation can remove the Markov property from a first&#45;order Markov process" (CHUNG, 1960 <I>apud</I> MAGRINI, 1999). O crit&eacute;rio de Magrini (1999) baseia&#45;se em elementos estat&iacute;sticos e ser&aacute; descrito em detalhes adiante. </font></p>     <p><font size="2" face="Verdana">Neste crit&eacute;rio, antes de estabelecer a constru&ccedil;&atilde;o da matriz de Markov, procede&#45;se ao teste de normalidade Kolmogorov&#45;Smirnov de cada uma das duas distribui&ccedil;&otilde;es de produtividade da m&atilde;o de obra agropecu&aacute;ria para as economias em an&aacute;lise (munic&iacute;pios mineiros). Os testes de normalidade s&atilde;o necess&aacute;rios, uma vez que a constru&ccedil;&atilde;o das classes de n&iacute;veis de produtividade requer a hip&oacute;tese de normalidade<a name="tx05"></a><a href="#nt05"><sup>5</sup></a> da distribui&ccedil;&atilde;o dos dados, necess&aacute;ria para estabelecer sua amplitude, a qual ser&aacute; denominada h. </font></p>     <p><font size="2" face="Verdana">O valor de h, ou seja, a amplitude de classe &eacute; importante para a estimativa da fun&ccedil;&atilde;o densidade de probabilidade. Existe um <I>trade&#45;off</I> para a escolha de h. Uma amplitude de classe muito grande faz com que haja grande n&uacute;mero de pontos em cada intervalo, perdendo informa&ccedil;&atilde;o importante &agrave; respeito da din&acirc;mica interna da distribui&ccedil;&atilde;o. Com uma amplitude de classe pequena, aumenta&#45;se a possibilidade de ter classes de produtividade que n&atilde;o se comunicam, inviabilizando a montagem da matriz. Dessa forma, o valor de h deve ser escolhido para se fazer uma escolha &oacute;tima para o <I>trade&#45;off</I> entre perda de din&acirc;mica interna e perda de comunica&ccedil;&atilde;o entre as classes de produtividade.</font></p>     <p><font size="2" face="Verdana">De acordo com Magrini (1999), quando a distribui&ccedil;&atilde;o &eacute; normal, o valor &oacute;timo do intervalo de classe &eacute; dado por h = 2,72s n<SUP>&#45;1/3</SUP>, em que s &eacute; o desvio&#45;padr&atilde;o da distribui&ccedil;&atilde;o e n, o n&uacute;mero de observa&ccedil;&otilde;es.</font></p>     <p><font size="2" face="Verdana">Definidas as classes de produtividade, pode&#45;se estimar a matriz de transi&ccedil;&atilde;o, de Markov, a partir de um estimador de m&aacute;xima verossimilhan&ccedil;a da probabilidade de transi&ccedil;&atilde;o, comparando o n&uacute;mero de economias que pertencem a certa classe no per&iacute;odo t e migram para outras classes ou permanecem na mesma, no per&iacute;odo t + 1. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Como crit&eacute;rio de converg&ecirc;ncia, pode&#45;se afirmar que haver&aacute; converg&ecirc;ncia quando a norma dos autovalores reais ou complexos de M<SUB>t</SUB> for menor que a unidade. Como as somas das linhas da matriz de Markov M<SUB>t</SUB> t&ecirc;m que ser 1, pois trata&#45;se de uma matriz de probabilidades, obt&eacute;m&#45;se sempre um autovalor 1. Portanto, sempre haver&aacute; converg&ecirc;ncia para um ou mais vetores de distribui&ccedil;&atilde;o de produtividade da m&atilde;o de obra agropecu&aacute;ria. A presen&ccedil;a de um &uacute;nico autovalor unit&aacute;rio e dos demais com norma menor que 1 indica que se tem um processo de converg&ecirc;ncia para uma &uacute;nica distribui&ccedil;&atilde;o de probabilidade que ser&aacute; linear no autovetor correspondente ao autovalor unit&aacute;rio. Com esse vetor de converg&ecirc;ncia, pode&#45;se descrever a estrutura da produtividade da m&atilde;o de obra agropecu&aacute;ria, &agrave; qual tende a evolu&ccedil;&atilde;o temporal do processo estoc&aacute;stico (SIMON e BLUME, 2004). </font></p>     <p><font size="2" face="Verdana">Definida a matriz de Markov M, procede&#45;se &agrave; solu&ccedil;&atilde;o do sistema de equa&ccedil;&otilde;es (1)<a name="tx06"></a><a href="#nt06"><sup>6</sup></a>. Ademais, pode&#45;se estimar a velocidade com que o equil&iacute;brio de longo prazo &eacute; alcan&ccedil;ado atrav&eacute;s da segunda raiz caracter&iacute;stica. Essa velocidade representa o tempo necess&aacute;rio para percorrer a metade da dist&acirc;ncia entre a posi&ccedil;&atilde;o inicial e a de equil&iacute;brio de longo prazo (dm), denominado na literatura de meia&#45;vida. Algebricamente, tem&#45;se dm= &#150;log 2/log|r<sub>2</sub>|, em que r<SUB>2</SUB> &eacute; o segundo maior autovalor (MAGRINI, 1999).</font></p>     <p><font size="2" face="Verdana">A utiliza&ccedil;&atilde;o de matriz de probabilidades de transi&ccedil;&atilde;o para modelar a "lei de movimento" &eacute; bastante aceita na literatura. Segundo Bulli (2001), a teoria que embasa esta metodologia &eacute; acess&iacute;vel e consolidada. Al&eacute;m disso, a estima&ccedil;&atilde;o da matriz &eacute; computacionalmente simples e os resultados s&atilde;o f&aacute;ceis de interpretar e serem apresentados. </font></p>     <p><font size="2" face="Verdana">A maior cr&iacute;tica que esta abordagem sofre reside no fato de discretizar um espa&ccedil;o cont&iacute;nuo, o que, se feito de maneira inapropriada, pode distorcer ou mesmo retirar a propriedade de Markov do processo e, al&eacute;m disso, como no caso do histograma, pode produzir resultados diferentes dependendo dos intervalos escolhidos na constru&ccedil;&atilde;o das classes de produtividade. A fim de aperfei&ccedil;oar a forma de gerar a "lei de movimento", evitando a discretiza&ccedil;&atilde;o dos dados, Quah (1997) recorre ao uso de n&uacute;cleo estoc&aacute;stico para estimar a probabilidade de transi&ccedil;&atilde;o<a name="tx07"></a><a href="#nt07"><sup>7</sup></a>.</font></p>     <p><font size="2" face="Verdana"><i>2.3 Procedimentos utilizados e fonte de dados</i></font></p>     <p><font size="2" face="Verdana">Na an&aacute;lise emp&iacute;rica, a vari&aacute;vel produtividade da m&atilde;o de obra na agropecu&aacute;ria foi constru&iacute;da para os munic&iacute;pios de Minas Gerais, nos anos de 1970, 1975, 1980, 1985, 1996 e 2006. Os anos foram selecionados segundo crit&eacute;rio de disponibilidade de dados, j&aacute; que, nestes anos, foram realizados censos agropecu&aacute;rios nacionais.</font></p>     <p><font size="2" face="Verdana">Para os prop&oacute;sitos do estudo, definiu&#45;se produtividade da m&atilde;o de obra na agropecu&aacute;ria como a raz&atilde;o entre o valor total adicionado da agropecu&aacute;ria (R$ do ano 2000 deflacionado pelo deflator impl&iacute;cito do produto interno bruto nacional (PIB)) e o total do pessoal ocupado na agropecu&aacute;ria. Este procedimento &eacute; o mesmo utilizado por Stulp (2004) e Fochezatto e Stulp (2008). Toda a an&aacute;lise desenvolvida para os munic&iacute;pios foi pautada na vari&aacute;vel <I>produtividade relativa da m&atilde;o de obra na agropecu&aacute;ria</I>, que &eacute; a raz&atilde;o entre a produtividade da m&atilde;o de obra dos munic&iacute;pios e a m&eacute;dia do estado. De acordo com Le Gallo (2001), &eacute; prefer&iacute;vel trabalhar em termos relativos ao inv&eacute;s de absolutos para que comovimentos e tend&ecirc;ncias sejam retirados da s&eacute;rie.</font></p>     <p><font size="2" face="Verdana">Em fun&ccedil;&atilde;o do aumento no n&uacute;mero de munic&iacute;pios<a name="tx08"></a><a href="#nt08"><sup>8</sup></a> ao longo do per&iacute;odo de estudo, foi preciso uma compatibiliza&ccedil;&atilde;o dos dados. Esta compatibiliza&ccedil;&atilde;o foi efetuada com base no hist&oacute;rico de emancipa&ccedil;&otilde;es municipais. Desta forma, munic&iacute;pios emancipados ao longo do per&iacute;odo de 1970 a 2006 foram incorporados aos de origem.</font></p>     <p><font size="2" face="Verdana">Os dados de valor total adicionado da agropecu&aacute;ria e total do pessoal ocupado na agropecu&aacute;ria foram obtidos junto ao Instituto de Pesquisa Econ&ocirc;mica Aplicada &#150; dados macroecon&ocirc;micos e regionais (IPEADATA, 2011) referentes aos Censos Agropecu&aacute;rios dos anos de 1970, 1975, 1980, 1985, 1996 e 2006, publicados pelo Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE).</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana"><b>3. An&aacute;lise e discuss&atilde;o dos resultados</b></font></p>     <p><font size="2" face="Verdana"><i>3.1 Primeiras Evid&ecirc;ncias</i></font></p>     <p><font size="2" face="Verdana">A <a href="/img/revistas/resr/v52n4/a09fig01.jpg">Figura 1</a> apresenta a disposi&ccedil;&atilde;o espacial da produtividade relativa da m&atilde;o de obra na agropecu&aacute;ria para os munic&iacute;pios mineiros com base em cinco intervalos de produtividade e seis pontos distintos do tempo, quais sejam, 1970, 1975, 1980, 1985, 1996 e 2006. Esta sequ&ecirc;ncia temporal deve ser lida, na figura, da esquerda para a direita.</font></p>     <p><font size="2" face="Verdana">Para a primeira faixa de produtividade, v&ecirc;&#45;se que sua localiza&ccedil;&atilde;o predominante est&aacute; na regi&atilde;o Norte do estado, caracter&iacute;stica que se mant&eacute;m ao longo dos anos selecionados. Outro movimento marcante &eacute; a redu&ccedil;&atilde;o do n&uacute;mero de munic&iacute;pios na segunda faixa, em detrimento dos munic&iacute;pios da primeira faixa na por&ccedil;&atilde;o Norte, Centro&#45;Leste e Sudeste do estado.</font></p>     <p><font size="2" face="Verdana">A terceira e quarta faixas est&atilde;o situadas, em sua maior parte, nas regi&otilde;es Oeste e Sul do estado, contudo, no decorrer do per&iacute;odo, os munic&iacute;pios da regi&atilde;o Sul passam a pertencer &agrave; segunda faixa, e os munic&iacute;pios da regi&atilde;o Oeste, na quarta faixa, passam para a terceira e quinta faixas. Outro movimento que se torna mais n&iacute;tido, com o passar dos anos, &eacute; a separa&ccedil;&atilde;o que ocorre entre regi&otilde;es de baixa produtividade e m&eacute;dia/alta produtividade. No primeiro grupo, situam&#45;se as regi&otilde;es Norte, Nordeste, Leste, Centro&#45;Leste e Sudeste e, no segundo grupo, est&atilde;o as regi&otilde;es Noroeste, Oeste, Centro&#45;Oeste, Sudoeste e Sul.</font></p>     <p><font size="2" face="Verdana">De maneira geral, o que se nota, por este tipo de an&aacute;lise, &eacute; que economias situadas na</font></p> <ul>       <li>         <p><font size="2" face="Verdana">primeira faixa de produtividade, permanecem nesta;</font></p>   </li>       <li>         <p><font size="2" face="Verdana">segunda faixa de produtividade, migram para a primeira;</font></p>   </li>       ]]></body>
+<body><![CDATA[<li>         <p><font size="2" face="Verdana">terceira e quarta faixa, migram para a quinta faixa, contudo, este movimento contempla poucas economias, sendo significativo somente no extremo&#45;oeste do estado.</font></p>   </li>     </ul>     <p><font size="2" face="Verdana">Se as faixas um e dois de produtividade (que est&atilde;o abaixo da m&eacute;dia do estado) tivessem um peso reduzido na composi&ccedil;&atilde;o do total do pessoal ocupado na agropecu&aacute;ria, poder&#45;se&#45;ia avaliar o quadro acima esbo&ccedil;ado como um ind&iacute;cio de que estas regi&otilde;es estariam experimentando um processo de industrializa&ccedil;&atilde;o que, gerando incentivos &agrave; migra&ccedil;&atilde;o da agropecu&aacute;ria para outros setores, tenderia a reduzir a import&acirc;ncia daquele setor e, consequentemente, o impacto dessa din&acirc;mica para a popula&ccedil;&atilde;o local. Contudo, ao longo dos anos selecionados, essas faixas contemplaram, em m&eacute;dia, 65%<a name="tx10"></a><a href="#nt10"><sup>10</sup></a>, do total da popula&ccedil;&atilde;o<a name="tx11"></a><a href="#nt11"><sup>11</sup></a> ocupada nesse setor.</font></p>     <p><font size="2" face="Verdana">Tendo em vista o exposto acima, nota&#45;se que as primeiras evid&ecirc;ncias da an&aacute;lise espacial da produtividade relativa da m&atilde;o de obra na agropecu&aacute;ria, ao longo do estado, sugerem que n&atilde;o h&aacute; um processo de converg&ecirc;ncia, em que regi&otilde;es de baixa produtividade estariam alcan&ccedil;ando regi&otilde;es de alta produtividade, dado que a dicotomia existente entre, principalmente, a por&ccedil;&atilde;o Norte/Nordeste do estado e sua por&ccedil;&atilde;o Oeste/Sudoeste/Sul, tende a se manter e aumentar ao longo do per&iacute;odo de an&aacute;lise. </font></p>     <p><font size="2" face="Verdana"><i>3.2 Densidades de distribui&ccedil;&atilde;o</i></font></p>     <p><font size="2" face="Verdana">A <a href="/img/revistas/resr/v52n4/a09fig02.jpg">Figura 2</a> mostra as densidades<a name="tx12"></a><a href="#nt12"><sup>12</sup></a> da produtividade relativa<a name="tx13"></a><a href="#nt13"><sup>13</sup></a> da m&atilde;o de obra na agropecu&aacute;ria dos munic&iacute;pios mineiros para os anos de 1970, 1975, 1980, 1985, 1996 e 2006. A figura deve ser lida em sequ&ecirc;ncia horizontal. Cada gr&aacute;fico compara as densidades do per&iacute;odo inicial (em negrito, come&ccedil;ando em 1970) e o per&iacute;odo final, 2006 (em pontilhado), o que possibilita visualizar o movimento das densidades de distribui&ccedil;&atilde;o ao longo do per&iacute;odo analisado em cada janela de transi&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana">Na an&aacute;lise desta figura, uma densidade mais concentrada (leptoc&uacute;rtica) indica uma maior converg&ecirc;ncia, enquanto que uma densidade mais achatada (platic&uacute;rtica) indica maior dispers&atilde;o das produtividades, consequentemente, maior diverg&ecirc;ncia. </font></p>     <p><font size="2" face="Verdana">A primeira caracter&iacute;stica que emerge &eacute; a predomin&acirc;ncia de uma distribui&ccedil;&atilde;o unimodal, com deslocamento para a esquerda em todos os per&iacute;odos, sendo a exce&ccedil;&atilde;o, o per&iacute;odo de 1985 a 2006, que apresenta um ganho de massa na cauda direita superior ao da cauda esquerda. Outra caracter&iacute;stica percebida pela an&aacute;lise da <a href="/img/revistas/resr/v52n4/a09fig02.jpg">Figura 2</a> &eacute; a presen&ccedil;a de pequenas modas na extremidade da cauda direita das distribui&ccedil;&otilde;es, sugerindo um ind&iacute;cio de polariza&ccedil;&atilde;o entre regi&otilde;es de alta e baixa produtividade.</font></p>     <p><font size="2" face="Verdana">Em geral, a din&acirc;mica que parece estar ocorrendo em grande parte dos munic&iacute;pios mineiros &eacute; de converg&ecirc;ncia para classes inferiores de produtividade relativa da m&atilde;o de obra na agropecu&aacute;ria. Entretanto, ainda n&atilde;o &eacute; poss&iacute;vel identificar em que estratos de produtividade est&atilde;o ocorrendo as migra&ccedil;&otilde;es que levaram a este fen&ocirc;meno, o que &eacute; necess&aacute;rio para que se possa fornecer uma poss&iacute;vel explica&ccedil;&atilde;o. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Isso ocorre porque a an&aacute;lise das densidades revela o comportamento da popula&ccedil;&atilde;o de produtividades nos per&iacute;odos selecionados sendo, basicamente, est&aacute;tica ao comparar densidades entre dois pontos no tempo, portanto, carece de uma "lei de movimento" que seja capaz de elucidar a din&acirc;mica que leva a uma ou outra distribui&ccedil;&atilde;o. S&atilde;o munic&iacute;pios de alta produtividade que deixam de s&ecirc;&#45;lo, ou munic&iacute;pios de baixa produtividade que agravam ainda mais sua situa&ccedil;&atilde;o? Existe persist&ecirc;ncia na distribui&ccedil;&atilde;o? Onde ela &eacute; mais acentuada? Visando preencher esta lacuna, apresenta&#45;se os resultados da subse&ccedil;&atilde;o seguinte.</font></p>     <p><font size="2" face="Verdana"><i>3.3 Matrizes de transi&ccedil;&atilde;o de Markov</i></font></p>     <p><font size="2" face="Verdana">Para o teste de normalidade de Kolmogorov&#45;Smirnov, adotando&#45;se o n&iacute;vel de signific&acirc;ncia de 1%, os resultados indicam que nenhuma das distribui&ccedil;&otilde;es de produtividade relativa da m&atilde;o de obra na agropecu&aacute;ria de Minas Gerais segue uma distribui&ccedil;&atilde;o normal<a name="tx15"></a><a href="#nt15"><sup>15</sup></a>. Mesmo diante desse resultado, adotou&#45;se o procedimento de Magrini (1999) para o c&aacute;lculo do intervalo de classes, seguindo a sugest&atilde;o desse autor de que o m&eacute;todo se ajusta mesmo em observa&ccedil;&otilde;es que n&atilde;o sigam uma distribui&ccedil;&atilde;o normal.</font></p>     <p><font size="2" face="Verdana">Com base nas classes de produtividade obtidas &eacute; que foram estimadas as matrizes de transi&ccedil;&atilde;o de Markov representadas na <a href="/img/revistas/resr/v52n4/a09tab01.jpg">Tabela 1</a>. Ao analis&aacute;&#45;la, o que se nota &eacute; uma alta probabilidade de munic&iacute;pios que estavam na primeira classe no per&iacute;odo inicial permanecerem nesta mesma classe no per&iacute;odo final, qualquer que seja o per&iacute;odo em quest&atilde;o. Tal fato mostra que, ao longo do per&iacute;odo sob estudo, pouca mobilidade existe para os munic&iacute;pios situados no extremo inferior da distribui&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana">Outro resultado demonstrado pelas estimativas contidas na <a href="/img/revistas/resr/v52n4/a09tab01.jpg">Tabela 1</a> &eacute; a predomin&acirc;ncia de probabilidades mais altas abaixo da diagonal principal da matriz, o que denota que, quando existe transi&ccedil;&atilde;o, essa ocorre com maior chance para classes inferiores.</font></p>     <p><font size="2" face="Verdana">Ap&oacute;s a constru&ccedil;&atilde;o das matrizes de transi&ccedil;&atilde;o de Markov, pode&#45;se resolver o sistema de equa&ccedil;&otilde;es em diferen&ccedil;as que ir&aacute; gerar a trajet&oacute;ria das classes de produtividade at&eacute; o estado estacion&aacute;rio. A <a href="/img/revistas/resr/v52n4/a09tab02.jpg">Tabela 2</a> faz essa exposi&ccedil;&atilde;o mostrando a distribui&ccedil;&atilde;o no per&iacute;odo inicial, at&eacute; tr&ecirc;s itera&ccedil;&otilde;es &agrave; frente e no estado estacion&aacute;rio. </font></p>     <p><font size="2" face="Verdana">Em geral, os munic&iacute;pios est&atilde;o migrando para a classe mais inferior de produtividade, classe um. No ano de 1970, esta classe possu&iacute;a 23,82% dos munic&iacute;pios, em 2006, 37,34% e no estado estacion&aacute;rio passa a ter 42,16%. Essa din&acirc;mica permanece inalterada para os per&iacute;odos 1975 a 2006, 1980 a 2006 e 1996 a 2006, o que revela que o setor n&atilde;o est&aacute; conseguindo propiciar uma perspectiva de que sua trajet&oacute;ria de crescimento esteja voltada para classes superiores de produtividade (acima da m&eacute;dia do estado). </font></p>     <p><font size="2" face="Verdana">Esse resultado torna&#45;se mais acentuado ao se analisar todas as classes que est&atilde;o abaixo da m&eacute;dia estadual. Ter&#45;se&#45;ia, no estado estacion&aacute;rio, 72,68%, 74,49%, 68,44%, 51,54% e 74,89% dos munic&iacute;pios ocupando tais classes, para os per&iacute;odos 1970 a 2006, 1975 a 2006, 1980 a 2006, 1985 a 2006 e 1996 a 2006, respectivamente. </font></p>     <p><font size="2" face="Verdana">No c&aacute;lculo de meia&#45;vida, o per&iacute;odo que apresentou o menor valor foi 1996 a 2006, e o de maior valor foi 1970 a 2006. Nesses casos, levar&#45;se&#45;iam 15 e 44 anos, respectivamente, para que metade do caminho at&eacute; o estado estacion&aacute;rio fosse percorrido.</font></p>     <p><font size="2" face="Verdana">Stulp (2004), ao analisar converg&ecirc;ncia da produtividade da m&atilde;o de obra na agropecu&aacute;ria ga&uacute;cha, no per&iacute;odo de 1975 a 1996, encontrou resultados distintos dos aqui apresentados em termos da dire&ccedil;&atilde;o em que ocorrem as migra&ccedil;&otilde;es. Das quatro classes identificadas, obteve&#45;se uma din&acirc;mica que aponta para uma migra&ccedil;&atilde;o das regi&otilde;es que ocupam as classes abaixo da m&eacute;dia estadual (classes 1 e 2) em dire&ccedil;&atilde;o a classe 3 (acima da m&eacute;dia do estado), e migra&ccedil;&atilde;o da classe 4 para a classe 3. Ainda assim, no estado estacion&aacute;rio, t&ecirc;m&#45;se 62% das regi&otilde;es ocupando as classes abaixo da m&eacute;dia do estado. Para o c&aacute;lculo de meia&#45;vida, esse autor encontra o valor de 49 anos, bem pr&oacute;ximo dos valores aqui obtidos, principalmente para o per&iacute;odo de transi&ccedil;&atilde;o de 1975 a 2006. Fochezatto e Stulp (2008), estudando converg&ecirc;ncia da produtividade da m&atilde;o de obra na agropecu&aacute;ria entre os estados brasileiros, no per&iacute;odo de 1990 a 2000, identificam quatro classes de produtividade. O resultado aponta para ocorr&ecirc;ncia de diverg&ecirc;ncia entre os estados, pois cresce o n&uacute;mero de estados que participam das classes 1 e 4. Para o c&aacute;lculo de meia&#45;vida, obteve&#45;se o valor de 7 anos, um valor bem baixo, indicando que os estados j&aacute; est&atilde;o bem pr&oacute;ximos de sua distribui&ccedil;&atilde;o de longo prazo.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Diante dos resultados expostos, pode&#45;se responder &agrave;s quest&otilde;es levantadas ao final da subse&ccedil;&atilde;o 3.2. S&atilde;o munic&iacute;pios de alta produtividade que deixam de s&ecirc;&#45;lo, ou munic&iacute;pios de baixa produtividade que agravam ainda mais sua situa&ccedil;&atilde;o? Pela din&acirc;mica obtida com a solu&ccedil;&atilde;o do sistema de equa&ccedil;&otilde;es em diferen&ccedil;as, percebe&#45;se que ambos os movimentos ocorrem, ou seja, munic&iacute;pios de baixa produtividade migram para classes de produtividade ainda mais baixas e munic&iacute;pios de classes de produtividade intermedi&aacute;ria e elevada tamb&eacute;m. Isso se torna claro pela redu&ccedil;&atilde;o geral no percentual de munic&iacute;pios contidos nas classes de produtividade que n&atilde;o a classe 1 e pelo incremento desta. Cabe ressaltar que a redu&ccedil;&atilde;o nas classes mais elevadas &eacute; modesta se comparada &agrave; redu&ccedil;&atilde;o nas classes mais baixas.</font></p>     <p><font size="2" face="Verdana">Percebe&#45;se tamb&eacute;m a exist&ecirc;ncia de persist&ecirc;ncia na distribui&ccedil;&atilde;o, sendo mais acentuada nas classes inferiores de produtividade. Isso se tornou evidente pelas altas probabilidades nas primeiras entradas da matriz de Markov.</font></p>     <p><font size="2" face="Verdana">Uma poss&iacute;vel explica&ccedil;&atilde;o para esta persist&ecirc;ncia &eacute; a discrep&acirc;ncia existente na implanta&ccedil;&atilde;o da pol&iacute;tica de moderniza&ccedil;&atilde;o do setor agropecu&aacute;rio mineiro (cr&eacute;dito rural subsidiado; pre&ccedil;os m&iacute;nimos de garantia; pesquisa e assist&ecirc;ncia t&eacute;cnica). Como destacam Ferreira J&uacute;nior <i>et al</i>. (2004), a utiliza&ccedil;&atilde;o desses instrumentos contemplou regi&otilde;es e produtos distintos no territ&oacute;rio do estado e contribuiu para acentuar ainda mais a heterogeneidade do desenvolvimento agr&aacute;rio, pois levou a uma situa&ccedil;&atilde;o de moderniza&ccedil;&atilde;o parcial.</font></p>     <p><font size="2" face="Verdana">Outra quest&atilde;o que merece ser levada em considera&ccedil;&atilde;o &eacute;: o crit&eacute;rio de constru&ccedil;&atilde;o dos intervalos de classe influencia os resultados obtidos? Visando robustecer os resultados encontrados, a <a href="/img/revistas/resr/v52n4/a09fig03.jpg">Figura 3</a> apresenta a distribui&ccedil;&atilde;o, no estado estacion&aacute;rio, para a produtividade relativa da m&atilde;o de obra na agropecu&aacute;ria dos munic&iacute;pios de Minas Gerais pelo m&eacute;todo de Quah (1992), assumindo&#45;se a exist&ecirc;ncia de dez classes de produtividade, e Magrini (1999).</font></p>     <p><font size="2" face="Verdana">Como se depreende da an&aacute;lise da <a href="/img/revistas/resr/v52n4/a09fig03.jpg">Figura 3</a>, os resultados n&atilde;o sofrem altera&ccedil;&otilde;es qualitativas quando se considera o m&eacute;todo de Quah (1992) para a constru&ccedil;&atilde;o dos intervalos de classe. Em geral, os fen&ocirc;menos de alta persist&ecirc;ncia e munic&iacute;pios migrando para classes inferiores continuam a ocorrer, o que robustece os resultados encontrados.</font></p>     <p><font size="2" face="Verdana">Por fim, um &uacute;ltimo questionamento como teste de robustez dos resultados seria o seguinte: as conclus&otilde;es obtidas com os resultados at&eacute; aqui encontrados sofrem altera&ccedil;&otilde;es se janelas de transi&ccedil;&atilde;o intermedi&aacute;rias s&atilde;o levadas em considera&ccedil;&atilde;o? Ou seja, ao se considerar transi&ccedil;&otilde;es entre os per&iacute;odos de 1970 a 1975, 1970 a 1980, 1970 a 1985, 1970 a 1996 e assim por diante, haver&aacute; altera&ccedil;&otilde;es qualitativas nos resultados reportados?</font></p>     <p><font size="2" face="Verdana">Os dados da <a href="/img/revistas/resr/v52n4/a09fig04.jpg">Figura 4</a> buscam elucidar esta quest&atilde;o ao se considerarem diversas janelas de transi&ccedil;&atilde;o intermedi&aacute;rias, apresentando as distribui&ccedil;&otilde;es iniciais e do estado estacion&aacute;rio, com seus respectivos valores, utilizando&#45;se o m&eacute;todo de Quah (1992) e levando&#45;se em considera&ccedil;&atilde;o a exist&ecirc;ncia de dez classes de produtividade.</font></p>     <p><font size="2" face="Verdana">Como se depreende da an&aacute;lise da <a href="/img/revistas/resr/v52n4/a09fig04.jpg">Figura 4</a>, a &uacute;nica altera&ccedil;&atilde;o qualitativa significativa ocorre na janela de transi&ccedil;&atilde;o 1985 a 1996 reportado pelo painel (d). Nota&#45;se que essas altera&ccedil;&otilde;es ocorrem nas classes um e dez. Com rela&ccedil;&atilde;o &agrave; classe um, a transi&ccedil;&atilde;o 1985&#45;1996 previa, no estado estacion&aacute;rio, que 6,70% dos munic&iacute;pios estariam nesta classe, enquanto que a transi&ccedil;&atilde;o 1985&#45;2006 previa 14,60%. Dado que, em 1985, 8,17 % dos munic&iacute;pios estavam, de fato, nesta classe, tem&#45;se que, dependendo da janela de transi&ccedil;&atilde;o adotada, pode&#45;se inferir aumento ou decr&eacute;scimo de munic&iacute;pios que migram para a classe um. O mesmo ocorre com a classe dez, s&oacute; que, desta vez, em um movimento contr&aacute;rio. Ao se adotar a janela de transi&ccedil;&atilde;o 1985&#45;1996, chegar&#45;se&#45;ia &agrave; conclus&atilde;o de que, no estado estacion&aacute;rio, haveria um aumento de munic&iacute;pios que migrariam para esta classe, o contr&aacute;rio ocorrendo para a janela de transi&ccedil;&atilde;o 1985&#45;2006.</font></p>     <p><font size="2" face="Verdana">Em outras palavras, o fato de se estender a janela de transi&ccedil;&atilde;o em dez anos gerou mudan&ccedil;as qualitativas nos resultados. Como a metodologia &eacute;, basicamente, de descri&ccedil;&atilde;o da evolu&ccedil;&atilde;o da distribui&ccedil;&atilde;o da produtividade, qualquer tentativa de fornecer explica&ccedil;&otilde;es, neste contexto, seriam meramente especula&ccedil;&otilde;es. O fato &eacute; que algum choque estrutural ocorreu sobre o setor agropecu&aacute;rio mineiro, no per&iacute;odo p&oacute;s&#45;1996, que foi capaz de gerar mudan&ccedil;as qualitativas nas duas classes extremas retro mencionadas.</font></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana"><b>4. Conclus&otilde;es</b></font></p>     <p><font size="2" face="Verdana">As disparidades regionais existentes no estado de Minas Gerais s&atilde;o um fato notadamente reconhecido e documentado, situa&ccedil;&atilde;o que se estende ao seu setor agropecu&aacute;rio. &Agrave; luz desse contexto e do recente bom desempenho produtivo desse setor, este trabalho procurou investigar se existe alguma tend&ecirc;ncia para que a dist&acirc;ncia entre regi&otilde;es agropecu&aacute;rias de elevada e baixa produtividade venha a diminuir, tomando por base o per&iacute;odo compreendido entre 1970 e 2006. Para tanto, utilizou&#45;se como vari&aacute;vel de an&aacute;lise a produtividade relativa da m&atilde;o de obra na agropecu&aacute;ria dos munic&iacute;pios do estado, buscando avaliar a exist&ecirc;ncia ou n&atilde;o de um processo de converg&ecirc;ncia sob a &oacute;tica de diferentes metodologias de teste.</font></p>     <p><font size="2" face="Verdana">Os resultados encontrados demonstram que a densidade de distribui&ccedil;&atilde;o sofreu, ao longo do per&iacute;odo de estudo, um deslocamento de massa para a esquerda, denotando uma piora em sua distribui&ccedil;&atilde;o de produtividades. Quanto &agrave; sua din&acirc;mica, esbo&ccedil;ada pelo c&aacute;lculo das matrizes de Markov, nota&#45;se uma trajet&oacute;ria de transi&ccedil;&atilde;o que converge para as classes inferiores de produtividade. Outro ponto a se destacar &eacute; que, no estado estacion&aacute;rio, a maior parte dos munic&iacute;pios situa&#45;se em classes de produtividade que est&atilde;o abaixo da m&eacute;dia do estado. </font></p>     <p><font size="2" face="Verdana">Conclui&#45;se, assim, que o crescimento econ&ocirc;mico n&atilde;o est&aacute; sendo capaz de reduzir as diferen&ccedil;as regionais, segundo o que apontam as metodologias propostas, e que as pol&iacute;ticas p&uacute;blicas direcionadas ao setor deveriam ser revistas, visando n&atilde;o somente ao crescimento da produ&ccedil;&atilde;o. </font></p>     <p><font size="2" face="Verdana">A principal defici&ecirc;ncia da presente pesquisa est&aacute; em seu car&aacute;ter predominantemente descritivo e n&atilde;o t&atilde;o explicativo. Essa &eacute; uma lacuna que futuros trabalhos poder&atilde;o preencher mediante o uso de esquemas condicionantes, que s&atilde;o capazes de mensurar como determinadas vari&aacute;veis afetam a distribui&ccedil;&atilde;o de produtividades, bem como sua probabilidade de transi&ccedil;&atilde;o. Com isso, ser&aacute; poss&iacute;vel identificar quais as principais vari&aacute;veis respons&aacute;veis por influenciar positivamente a trajet&oacute;ria de crescimento da produtividade.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>5. Refer&ecirc;ncias bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana">ALVES, L. F. e FONTES, R. Clubes de converg&ecirc;ncia entre os munic&iacute;pios de Minas Gerais. <I>Revista Econ&ocirc;mica do Nordeste</I>, v. 32, nº especial, 2001, p. 546&#45;568.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000110&pid=S0103-2003201400040000900001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">BULLI, S. Distribution dynamics and cross&#45;country convergence: a new approach. <I>Scottish Journal of Political Economy</I>, v. 42, p. 226&#45;243, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000112&pid=S0103-2003201400040000900002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CALDEIRA, T. A. <I>et al</I>. Educa&ccedil;&atilde;o, Cr&eacute;dito e Converg&ecirc;ncia de Renda Agropecu&aacute;ria em Minas Gerais. In: XIV Semin&aacute;rio sobre a Economia Mineira, 2010, Diamantina, MG. <I>Anais...</I> Diamantina: CEDEPLAR, 2010. p.1&#45;20.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000114&pid=S0103-2003201400040000900003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">CURI, W. F. <I>Efici&ecirc;ncia e fonte de crescimento da agricultura mineira na din&acirc;mica de ajustamento da economia brasileira</I>. 1997. Disserta&ccedil;&atilde;o (Mestrado em Economia Aplicada) &#150; Universidade Federal de Vi&ccedil;osa, Vi&ccedil;osa, MG.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S0103-2003201400040000900004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DRENNAN, M. P. e LOBO, J. A Simple Test for Convergence of Metropolitan Income in the United States. <I>Journal of Urban Economics</I>, n. 46, p&#45;350&#45;359, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0103-2003201400040000900005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FERREIRA J&Uacute;NIOR, S. <I>et al</I>. A moderniza&ccedil;&atilde;o agropecu&aacute;ria nas microrregi&otilde;es do estado de Minas Gerais. <I>Revista de Economia e Sociologia Rural</I>, Bras&iacute;lia&#45;DF, v. 42, n. 1, p. 271&#45;290, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0103-2003201400040000900006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FIGUEIR&Ecirc;DO, L., LEAL FILHO, R. S. e AGUIAR, C. Matriz de Probabilidades de Transi&ccedil;&atilde;o por Estimador de N&uacute;cleo para as Rendas Relativas das Microrregi&otilde;es de Minas Gerais. In: XIV Semin&aacute;rio sobre a Economia Mineira, 2010, Diamantina, MG. <I>Anais...</I> Diamantina: CEDEPLAR, 2006. p.1&#45;20.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0103-2003201400040000900007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FOCHEZATTO, A. e STULP, V. J. An&aacute;lise de converg&ecirc;ncia da produtividade da m&atilde;o&#45;de&#45;obra agropecu&aacute;ria entre os estados brasileiros: aplica&ccedil;&atilde;o de matrizes de Markov, 1990&#45;2000. <I>Revista de Economia e Sociologia Rural</I>, v. 46, n. 3, p. 739&#45;765, jul./set. 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0103-2003201400040000900008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">FREITAS, C. A., BACHA, C. J. C. e FOSSATTI, D. M. Avalia&ccedil;&atilde;o do desenvolvimento do setor agropecu&aacute;rio no Brasil. <I>Economia e Sociedade</I> (UNICAMP), v. 16, n. 1, p. 111&#45;124, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003201400040000900009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GASQUES, J. G. e CONCEI&Ccedil;&Atilde;O, J. C. P. R. <I>Transforma&ccedil;&otilde;es estruturais da agricultura e produtividade total dos fatores</I>. Bras&iacute;lia: IPEA, 2000. (Texto para Discuss&atilde;o, 768).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003201400040000900010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. <I>et al</I>. <I>Condicionantes da produtividade da agropecu&aacute;ria brasileira</I>. Bras&iacute;lia: IPEA, 2004. (Texto para Discuss&atilde;o, n. 1017).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003201400040000900011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GOLLIN, D., PARENTE, S. e ROGERSON, R. The Role of Agriculture in Development. <I>The American Economic Review</I>, v. 92, n. 2, p. 160&#45;164, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003201400040000900012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GON&Ccedil;ALVES, J. S. Crescimento do produto e conte&uacute;do da produtividade na agropecu&aacute;ria brasileira do per&iacute;odo 1975&#45;2003. <I>Informa&ccedil;&otilde;es Econ&ocirc;micas</I>, v. 37, n. 8, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003201400040000900013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">GONDIM, J. e BARRETO, F. A. O uso do n&uacute;cleo estoc&aacute;stico para identifica&ccedil;&atilde;o de clubes de converg&ecirc;ncia entre estados e munic&iacute;pios brasileiros. In: ENCONTRO NACIONAL DE ECONOMIA, 32, 2004, Salvador. <I>Anais...</I> Salvador: ANPEC, 2004. p. 1&#45;15.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003201400040000900014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">INSTITUTO DE PESQUISA ECON&Ocirc;MICA APLICADA &#150; IPEA. <I>Conta Nacionais</I>. 2009. Dispon&iacute;vel em: &lt;<a href="http://www.ipeadata.gov.br" target="_blank">www.ipeadata.gov.br</a>&gt;. Acesso em: 20 jul. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003201400040000900015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">JONES, C. I. <I>Introdu&ccedil;&atilde;o &agrave; teoria do crescimento econ&ocirc;mico</I>. Rio de Janeiro: Elsevier, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003201400040000900016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LE GALLO, J. <I>Space&#45;time analysis of GDP disparities among European regions</I>: a Markov chains approach. Dijon/Fran&ccedil;a: University of Burgundy, Mar. 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003201400040000900017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MAGRINI, S. The evolution of income disparities among the regions of the European Union. <I>Regional Science and Urban Economics</I>, v. 29, p. 257&#45;281, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003201400040000900018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MEYER, L. F. F. e BRAGA, M. J. O crescimento das desigualdades tecnol&oacute;gicas na agricultura mineira. <I>Revista de Economia e Sociologia Rural</I>, Bras&iacute;lia, v. 36, n. 01, p. 59&#45;90, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003201400040000900019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">PIMENTEL, E. A. e HADDAD, E. A. <I>An&aacute;lise da distribui&ccedil;&atilde;o espacial da renda no Estado de Minas Gerais</I>: uma abordagem setorial. S&atilde;o Paulo: Nereus, 2004 (Texto para Discuss&atilde;o nº 02&#45;2004).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003201400040000900020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">QUAH, D. <I>Empirical cross&#45;section Dynamics in Economic Growth</I>. LSE Working Paper, 1992.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003201400040000900021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. Galton's fallacy and testes of the convergence hypothesis. <I>Scandinavian Journal of Economics</I>, v. 95, n. 4, p. 427&#45;443, 1993.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003201400040000900022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. Empirics for growth and distribution: stratification, polarization and convergence clubs. <I>Journal of Economic Growth</I>, v. 2, n. 1, p. 27&#45;59, 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003201400040000900023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SALVATO, M. A. <I>et al</I>. Disparidades Regionais em Minas Gerais. In: XIV Semin&aacute;rio sobre a Economia Mineira, 2006, Diamantina, MG. <I>Anais...</I> Diamantina: CEDEPLAR, 2006. p.1&#45;20.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003201400040000900024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SECRETARIA DE ESTADO DE AGRICULTURA, PECU&Aacute;RIA E ABASTECIMENTO. (<I>SEAPA</I>). Dispon&iacute;vel em: &lt;<a href="http://www.agricultura.mg.br" target="_blank">http://www.agricultura.mg.br</a>&gt;. Acesso em: 20 ago. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003201400040000900025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SILVA, E., FONTES, R. e ALVES, L. F. Crescimento e Desigualdade em Minas Gerais. In: FONTES, R. e FONTES, M. (Eds.). <I>Crescimento e Desigualdade Regional em Minas Gerais</I>. Vi&ccedil;osa: Editora Folha de Vi&ccedil;osa, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003201400040000900026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">SIMON, C. P. e BLUME, L <I>Matem&aacute;tica para Economistas</I>. Porto Alegre: Bookman, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003201400040000900027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">STULP, V. J. Evolu&ccedil;&atilde;o Regional da Produtividade da M&atilde;o&#45;de&#45;Obra na Agropecu&aacute;ria Ga&uacute;cha: uma Aplica&ccedil;&atilde;o da Matriz de Markov. <I>Revista de Economia e Sociologia Rural</I>, v. 42, n. 02, p. 293&#45;316, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003201400040000900028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">VICENTE, J. R. <I>Compara&ccedil;&atilde;o da produtividade agr&iacute;cola entre as unidades da federa&ccedil;&atilde;o, 1970&#45;1995</I>. Dispon&iacute;vel em: &lt;<a href="http://www.iea.sp.gov.br/out/verTexto.php?codTexto=8083" target="_blank">http://www.iea.sp.gov.br/out/verTexto.php?codTexto=8083</a>&gt;. Acesso em: 10 fev. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003201400040000900029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">YANG, D. T. e ZHU, X. <I>Modernization of agriculture and long&#45;term growth</I>. Dispon&iacute;vel em: &lt;<a href="http://www.gsm.pku.edu.cn/UserFiles/0708&#45;28(6).pdf" target="_blank">http://www.gsm.pku.edu.cn/UserFiles/0708&#45;28(6).pdf</a>&gt;. Acesso em: 19 fev. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003201400040000900030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><a name="nt01"></a><a href="#title">1</a>. Os autores agradecem ao apoio do Conselho Nacional de Desenvolvimento Cient&iacute;fico e Tecnol&oacute;gico (CNPq).    ]]></body>
+<body><![CDATA[<br>   <a name="nt02"></a><a href="#tx02">2</a>. Por exemplo, Alves e Fontes (2001), Pimentel e Haddad (2004), Silva <I>et al</I>. (2005), Figueir&ecirc;do, Leal Filho e Aguiar (2006) e Salvato <I>et al.</I> (2006).    <br>   <a name="nt03"></a><a href="#tx03">3</a>. Caldeira <I>et al.</I> (2010) analisam converg&ecirc;ncia no setor agropecu&aacute;rio mineiro no per&iacute;odo de 1996 a 2006, utilizando como vari&aacute;vel de estudo o PIB agropecu&aacute;rio <I>per capita </I>com base nas metodologias de teste de </font><font>&#946;</font><font size="2" face="verdana">&#45;converg&ecirc;ncia absoluta e condicional e os testes de Quah (1993) e Drennan e Lobo (1999).    <br>   <a name="nt04"></a><a href="#tx04">4</a>. Economias aqui e ao longo do presente estudo devem ser entendidas como regi&otilde;es agropecu&aacute;rias.    <br>   <a name="nt05"></a><a href="#tx05">5</a>. Conforme observam Quah (1992) e Magrini (1999), a defini&ccedil;&atilde;o do processo de Markov na equa&ccedil;&atilde;o (2) n&atilde;o &eacute; trivial, j&aacute; que ela implica que a probabilidade de transi&ccedil;&atilde;o entre quaisquer dois estados (classes de produtividade, no presente caso) &eacute; independente do tempo. A suposi&ccedil;&atilde;o de homogeneidade temporal pode parecer forte, tendo em vista que pol&iacute;ticas e condi&ccedil;&otilde;es econ&ocirc;micas mudam ao longo do tempo, implicando mudan&ccedil;as nas probabilidades de transi&ccedil;&atilde;o. Contudo, esta suposi&ccedil;&atilde;o &eacute; equivalente a analisar converg&ecirc;ncia em dire&ccedil;&atilde;o ao estado estacion&aacute;rio rodando regress&otilde;es (de se&ccedil;&atilde;o cruzada ou s&eacute;rie temporal) ao longo de per&iacute;odos delimitados de tempo. O principal objetivo de todas estas abordagens n&atilde;o &eacute; o de fornecer previs&otilde;es acuradas do futuro, mas sim, de esclarecer a natureza do processo de desenvolvimento econ&ocirc;mico que caracteriza a regi&atilde;o sob estudo, ao longo do per&iacute;odo de an&aacute;lise.    <br>   <a name="nt06"></a><a href="#tx06">6</a>. Para Magrini (1999), o crit&eacute;rio seria v&aacute;lido mesmo em situa&ccedil;&otilde;es onde as observa&ccedil;&otilde;es n&atilde;o seguissem uma distribui&ccedil;&atilde;o normal.    <br>   <a name="nt07"></a><a href="#tx07">7</a>. Para maiores detalhes ver Simon e Blume (2004).    <br>   <a name="nt08"></a><a href="#tx08">8</a>. Realizaram&#45;se as estima&ccedil;&otilde;es dos n&uacute;cleos estoc&aacute;sticos para o presente contexto, contudo, tendo em vista n&atilde;o ter&#45;se obtido altera&ccedil;&otilde;es qualitativas nos resultados, optou&#45;se por n&atilde;o report&aacute;&#45;los aqui. Tais resultados podem ser obtidos junto aos autores.    <br>   <a name="nt09"></a><a href="#tx09">9</a>. Em 1970, Minas Gerais possu&iacute;a 722 munic&iacute;pios, j&aacute; em 2006, esse n&uacute;mero foi para 853.    <br>   <a name="nt10"></a><a href="#tx10">10</a>. Como a produtividade da m&atilde;o de obra est&aacute; normalizada pela m&eacute;dia do estado o valor de 0,5 na legenda de cada gr&aacute;fico refere&#45;se &agrave; metade da m&eacute;dia estadual, o valor de 2, a duas vezes a m&eacute;dia do estado e assim por diante.    <br>   <a name="nt11"></a><a href="#tx11">11</a>. Os percentuais foram de 64% em 1970, 64% em 1975, 62% em 1980, 70% em 1985, 64% em 1996 e 65% em 2006.    ]]></body>
+<body><![CDATA[<br>   <a name="nt12"></a><a href="#tx12">12</a>. A popula&ccedil;&atilde;o total ocupada no setor foi de 1.979.935 em 1970, 2.189.945 em 1975, 2.284.550 em 1980, 2.660.130 em 1985, 2.000.046 em 1996 e 1.896.924 em 2006.    <br>   <a name="nt13"></a><a href="#tx13">13</a>. Estas densidades foram estimadas pelo m&eacute;todo de suaviza&ccedil;&atilde;o do n&uacute;cleo gaussiano conforme descrito no referencial anal&iacute;tico.    <br>   <a name="nt14"></a><a href="#tx14">14</a>. Como a produtividade da m&atilde;o de obra est&aacute; normalizada pela m&eacute;dia do estado, o valor de 0,5 no eixo horizontal de cada gr&aacute;fico refere&#45;se &agrave; metade da m&eacute;dia estadual, o valor de 2, a duas vezes a m&eacute;dia do estado e assim por diante.    <br>   <a name="nt15"></a><a href="#tx15">15</a>. Este resultado foi omitido por quest&otilde;es de espa&ccedil;o e pode ser obtido junto aos autores.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[L. F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FONTES]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Clubes de convergência entre os municípios de Minas Gerais]]></article-title>
+<source><![CDATA[Revista Econômica do Nordeste]]></source>
+<year>2001</year>
+<volume>v. 32</volume>
+<page-range>546-568</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BULLI]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Distribution dynamics and cross-country convergence: a new approach]]></article-title>
+<source><![CDATA[Scottish Journal of Political Economy]]></source>
+<year>2001</year>
+<volume>v. 42</volume>
+<page-range>226-243</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CALDEIRA]]></surname>
+<given-names><![CDATA[T. A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Educação, Crédito e Convergência de Renda Agropecuária em Minas Gerais]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year>2010</year>
+<conf-name><![CDATA[XIV Seminário sobre a Economia Mineira]]></conf-name>
+<conf-date>2010</conf-date>
+<conf-loc> </conf-loc>
+<page-range>1-20</page-range><publisher-loc><![CDATA[Diamantina ]]></publisher-loc>
+<publisher-name><![CDATA[CEDEPLAR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CURI]]></surname>
+<given-names><![CDATA[W. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Eficiência e fonte de crescimento da agricultura mineira na dinâmica de ajustamento da economia brasileira]]></source>
+<year>1997</year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRENNAN]]></surname>
+<given-names><![CDATA[M. P]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOBO]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A Simple Test for Convergence of Metropolitan Income in the United States]]></article-title>
+<source><![CDATA[Journal of Urban Economics]]></source>
+<year>1999</year>
+<numero>n. 46</numero>
+<issue>n. 46</issue>
+<page-range>350-359</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FERREIRA JÚNIOR]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A modernização agropecuária nas microrregiões do estado de Minas Gerais]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2004</year>
+<volume>42</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>271-290</page-range><publisher-loc><![CDATA[Brasília^eDF DF]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIRÊDO]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEAL FILHO]]></surname>
+<given-names><![CDATA[R. S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AGUIAR]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Matriz de Probabilidades de Transição por Estimador de Núcleo para as Rendas Relativas das Microrregiões de Minas Gerais]]></article-title>
+<source><![CDATA[Anais..]]></source>
+<year>2006</year>
+<conf-name><![CDATA[XIV Seminário sobre a Economia Mineira]]></conf-name>
+<conf-date>2010</conf-date>
+<conf-loc>Diamantina MG</conf-loc>
+<page-range>1-20</page-range><publisher-loc><![CDATA[Diamantina ]]></publisher-loc>
+<publisher-name><![CDATA[CEDEPLAR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FOCHEZATTO]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[STULP]]></surname>
+<given-names><![CDATA[V. J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise de convergência da produtividade da mão-de-obra agropecuária entre os estados brasileiros: aplicação de matrizes de Markov, 1990-2000]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>jul.</year>
+<month>/s</month>
+<day>et</day>
+<volume>46</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>739-765</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREITAS]]></surname>
+<given-names><![CDATA[C. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BACHA]]></surname>
+<given-names><![CDATA[C. J. C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FOSSATTI]]></surname>
+<given-names><![CDATA[D. M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Avaliação do desenvolvimento do setor agropecuário no Brasil]]></article-title>
+<source><![CDATA[Economia e Sociedade (UNICAMP)]]></source>
+<year>2007</year>
+<volume>16</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>111-124</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CONCEIÇÃO]]></surname>
+<given-names><![CDATA[J. C. P. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Transformações estruturais da agricultura e produtividade total dos fatores]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GASQUES]]></surname>
+<given-names><![CDATA[J. G]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+</person-group>
+<source><![CDATA[Condicionantes da produtividade da agropecuária brasileira]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GOLLIN]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARENTE]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROGERSON]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Role of Agriculture in Development]]></article-title>
+<source><![CDATA[The American Economic Review]]></source>
+<year>2002</year>
+<volume>92</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>160-164</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONÇALVES]]></surname>
+<given-names><![CDATA[J. S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Crescimento do produto e conteúdo da produtividade na agropecuária brasileira do período 1975-2003]]></article-title>
+<source><![CDATA[Informações Econômicas]]></source>
+<year>2007</year>
+<volume>37</volume>
+<numero>8</numero>
+<issue>8</issue>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[GONDIM]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BARRETO]]></surname>
+<given-names><![CDATA[F. A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O uso do núcleo estocástico para identificação de clubes de convergência entre estados e municípios brasileiros]]></article-title>
+<source><![CDATA[Anais..]]></source>
+<year>2004</year>
+<conf-name><![CDATA[32 ENCONTRO NACIONAL DE ECONOMIA]]></conf-name>
+<conf-date>2004</conf-date>
+<conf-loc>Salvador </conf-loc>
+<page-range>1-15</page-range><publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[ANPEC]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<collab>INSTITUTO DE PESQUISA ECONÔMICA APLICADA</collab>
+<source><![CDATA[Conta Nacionais]]></source>
+<year>2009</year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JONES]]></surname>
+<given-names><![CDATA[C. I]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introdução à teoria do crescimento econômico]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LE GALLO]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Space-time analysis of GDP disparities among European regions: a Markov chains approach]]></source>
+<year>Mar.</year>
+<month> 2</month>
+<day>00</day>
+<publisher-loc><![CDATA[Dijon ]]></publisher-loc>
+<publisher-name><![CDATA[University of Burgundy]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAGRINI]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The evolution of income disparities among the regions of the European Union]]></article-title>
+<source><![CDATA[Regional Science and Urban Economics]]></source>
+<year>1999</year>
+<volume>29</volume>
+<page-range>257-281</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MEYER]]></surname>
+<given-names><![CDATA[L. F. F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BRAGA]]></surname>
+<given-names><![CDATA[M. J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O crescimento das desigualdades tecnológicas na agricultura mineira]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>1998</year>
+<volume>36</volume>
+<numero>01</numero>
+<issue>01</issue>
+<page-range>59-90</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PIMENTEL]]></surname>
+<given-names><![CDATA[E. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HADDAD]]></surname>
+<given-names><![CDATA[E. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise da distribuição espacial da renda no Estado de Minas Gerais: uma abordagem setorial]]></source>
+<year>2004</year>
+<month>20</month>
+<day>04</day>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Nereus]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QUAH]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Empirical cross-section Dynamics in Economic Growth]]></source>
+<year>1992</year>
+<publisher-name><![CDATA[LSE Working Paper]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QUAH]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Galton's fallacy and testes of the convergence hypothesis]]></article-title>
+<source><![CDATA[Scandinavian Journal of Economics]]></source>
+<year>1993</year>
+<volume>95</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>427-443</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[QUAH]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Empirics for growth and distribution: stratification, polarization and convergence clubs]]></article-title>
+<source><![CDATA[Journal of Economic Growth]]></source>
+<year>1997</year>
+<volume>2</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>27-59</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SALVATO]]></surname>
+<given-names><![CDATA[M. A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Disparidades Regionais em Minas Gerais]]></article-title>
+<source><![CDATA[Anais...]]></source>
+<year>2006</year>
+<conf-name><![CDATA[XIV Seminário sobre a Economia Mineira]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>Diamantina MG</conf-loc>
+<page-range>1-20</page-range><publisher-loc><![CDATA[Diamantina ]]></publisher-loc>
+<publisher-name><![CDATA[CEDEPLAR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<collab>SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FONTES]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALVES]]></surname>
+<given-names><![CDATA[L. F]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Crescimento e Desigualdade em Minas Gerais]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[FONTES]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FONTES]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crescimento e Desigualdade Regional em Minas Gerais]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Viçosa ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Folha de Viçosa]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SIMON]]></surname>
+<given-names><![CDATA[C. P]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLUME]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Matemática para Economistas]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+<publisher-name><![CDATA[Bookman]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STULP]]></surname>
+<given-names><![CDATA[V. J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Evolução Regional da Produtividade da Mão-de-Obra na Agropecuária Gaúcha: uma Aplicação da Matriz de Markov]]></article-title>
+<source><![CDATA[Revista de Economia e Sociologia Rural]]></source>
+<year>2004</year>
+<volume>42</volume>
+<numero>02</numero>
+<issue>02</issue>
+<page-range>293-316</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VICENTE]]></surname>
+<given-names><![CDATA[J. R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparação da produtividade agrícola entre as unidades da federação, 1970-1995]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[YANG]]></surname>
+<given-names><![CDATA[D. T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZHU]]></surname>
+<given-names><![CDATA[X]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modernization of agriculture and long-term growth]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

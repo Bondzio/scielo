@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0104-6276</journal-id>
+<journal-title><![CDATA[Opinião Pública]]></journal-title>
+<abbrev-journal-title><![CDATA[Opin. Publica]]></abbrev-journal-title>
+<issn>0104-6276</issn>
+<publisher>
+<publisher-name><![CDATA[ Centro de Estudos de Opinião Pública da Universidade Estadual de Campinas]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0104-62762014000200219</article-id>
+<article-id pub-id-type="doi">10.1590/1807-01912014202219</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Padrões distintos de bem-estar no Brasil: uma análise temporal]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Sátyro]]></surname>
+<given-names><![CDATA[Natália Guimarães Duarte]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade Federal de Minas Gerais Departamento de Ciência Política ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>08</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>08</month>
+<year>2014</year>
+</pub-date>
+<volume>20</volume>
+<numero>2</numero>
+<fpage>219</fpage>
+<lpage>251</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0104-62762014000200219&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0104-62762014000200219&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0104-62762014000200219&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O objetivo do artigo é mostrar a existência de diferentes mundos de bem-estar no Brasil. Sugerimos aqui tanto a existência de distintos mundos de bem-estar entre os estados brasileiros quanto uma mudança fundamental em nosso sistema de proteção social no período posterior à Constituição de 1988. A conclusão é que a discrepância entre os mundos de bem-estar encontrados nos estados nos permite dizer que no Brasil há categorias distintas de cidadãos, com acessos diferenciados a serviços básicos. Os estados apresentam distintos legados e, portanto, distintas trajetórias nas três décadas analisadas, mas há uma tendência à convergência nesse bem-estar. Essa heterogeneidade se traduz em padrões distintos de segurança social. Para isso, a metodologia utilizada foi basicamente análise descritiva através de séries temporais e análise de conglomerado.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The objective of this paper is to show the existence of different worlds of welfare in Brazil. We suggest that as the existence of distinct worlds of welfare across Brazilian states as a fundamental change in welfare after the 1988 Constitution. The conclusion is the discrepancy between the worlds of welfare found between states allows us to say that in Brazil there are distinct categories of citizens, with differentiated access to basic services. We also show that states have different legacies and therefore different trajectories in the three decades analyzed, but there is a trend towards convergence in welfare. This heterogeneity is reflected in distinct patterns of social welfare. For this, the methodology used was basically a descriptive analysis based in time series and cluster analyses.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Estado de bem-estar]]></kwd>
+<kwd lng="pt"><![CDATA[políticas sociais]]></kwd>
+<kwd lng="pt"><![CDATA[estados brasileiros]]></kwd>
+<kwd lng="pt"><![CDATA[análise de cluster]]></kwd>
+<kwd lng="en"><![CDATA[welfare state]]></kwd>
+<kwd lng="en"><![CDATA[social policies]]></kwd>
+<kwd lng="en"><![CDATA[Brazilian states]]></kwd>
+<kwd lng="en"><![CDATA[cluster analysis]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["States and social policies"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Amenta]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Skocpol]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Annual Review of Sociology]]></source>
+<year>1986</year>
+<volume>vol.12</volume>
+<page-range>p.131-57</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Emergência e desenvolvimento do Welfare State: teorias explicativas"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Arretche]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[BIB - Boletim Informativo Bibliográfico de Ciências Sociais]]></source>
+<year>1995</year>
+<numero>n° 39</numero>
+<issue>n° 39</issue>
+<page-range>p.3-40</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<article-title xml:lang="pt"><![CDATA["A especificidade do 'Welfare State' brasileiro"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Aureliano]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Draibe]]></surname>
+<given-names><![CDATA[S.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Economia e desenvolvimento:reflexões sobre a natureza do bem-estar]]></source>
+<year>1989</year>
+<volume>vol.1</volume>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[MPAS/ CEPAL]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baltar]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Estrutura ocupacional regional nos anos 90"]]></source>
+<year>2000</year>
+<conf-name><![CDATA[ XII Encontro Nacional de Estudos Populacionais]]></conf-name>
+<conf-date>2000</conf-date>
+<conf-loc>Caxambu </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barros]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Corseuil]]></surname>
+<given-names><![CDATA[C. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leite]]></surname>
+<given-names><![CDATA[P. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Mercado de trabalho e pobreza no Brasil]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Henriques]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desigualdade e pobreza no Brasil]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Foguel]]></surname>
+<given-names><![CDATA[M. N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ulyssea]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desigualdade de Renda no Brasil:Uma Análise da Queda Recente]]></source>
+<year>2007</year>
+<volume>vol. 2</volume>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Castles]]></surname>
+<given-names><![CDATA[F.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The future of the welfare state:crisis myths and crisis realities]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford Univ. Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["What welfare states do: a disaggregated expenditure approach"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Castles]]></surname>
+<given-names><![CDATA[F.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Social Policy]]></source>
+<year>2008</year>
+<numero>n° 38</numero>
+<issue>n° 38</issue>
+<page-range>p.45-62</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Castro]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cardoso Jr]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Políticas sociais no Brasil: gastos do governo federal de 1988 a 2002]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Jaccoud]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Questão social e políticas sociais no Brasil contemporâneo]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clasen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Reforming European welfare states:Germany and the United Kingdom compared]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford Univ. Press.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clasen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Siegel]]></surname>
+<given-names><![CDATA[N. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Comparative welfare state analysis and the 'dependent variable problem']]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Clasen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Siegel]]></surname>
+<given-names><![CDATA[N. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Investigating welfare state change.The 'dependent variable problem' in comparative analysis]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Cheltenham ]]></publisher-loc>
+<publisher-name><![CDATA[Edward Elgar]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Notas sobre a Evolução do Mercado de Trabalho no Brasil"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dedecca]]></surname>
+<given-names><![CDATA[C.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia Política]]></source>
+<year>2005</year>
+<volume>vol. 25</volume>
+<numero>nº1^s97</numero>
+<issue>nº1^s97</issue>
+<supplement>97</supplement>
+<page-range>p. 94-111</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Welfare State no Brasil: Características e Perspectivas"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Draibe]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cadernos de Pesquisa]]></source>
+<year>1993</year>
+<numero>n°8</numero>
+<issue>n°8</issue>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[NEPP/Unicamp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["América Latina: o Sistema de Proteção Social na Década da Crise e das Reformas"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Draibe]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cadernos de Pesquisa]]></source>
+<year>1995</year>
+<numero>n°30</numero>
+<issue>n°30</issue>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[NEPP/Unicamp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA[" A política social do governo FHC e o sistema de proteção social"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Draibe]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tempo social]]></source>
+<year>2003</year>
+<volume>vol.15</volume>
+<numero>n&#730;2</numero>
+<issue>n&#730;2</issue>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Brasil 1980-2000: Proteção e Insegurança Sociais em Tempos Difíceis"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Draibe]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cadernos de Pesquisa]]></source>
+<year>2005</year>
+<numero>n° 65</numero>
+<issue>n° 65</issue>
+<publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+<publisher-name><![CDATA[NEPP/Unicamp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Draibe]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estado de bem-estar, desenvolvimento econômico e cidadania: algumas lições da literatura contemporânea]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Hochman]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arretche]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Políticas Públicas no Brasil]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Ed. FioCruz]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="es"><![CDATA["Estado de bienestar, desarollo econômico y ciudadania: algunas lecciones de la literatura contemporânea"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hochman]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arretche]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Riesco]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudios y perspectiva]]></source>
+<year>2006</year>
+<volume>55</volume>
+<publisher-name><![CDATA[CEPAL]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Esping-Andersen]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Politics against markets -the Social Democratic Road to Power]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Power and Distributional Regimes"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Esping-Andersen]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Politics &amp; Society]]></source>
+<year>1985</year>
+<volume>vol.2</volume>
+<numero>n°14</numero>
+<issue>n°14</issue>
+<page-range>p.223-56</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Esping-Andersen]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The three worlds of welfare capitalism]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Polity Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["As Três Economias Políticas do Welfare State"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Esping-Andersen]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Lua Nova]]></source>
+<year>1991</year>
+<numero>nº 24</numero>
+<issue>nº 24</issue>
+<page-range>p.85-116</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Esping-Andersen]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Social foundations of postindustrial economies]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Evans]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rueschmeyer]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Skocpol]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bringing the State Back]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[F.H.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Os Determinantes da Desigualdade de Renda no Brasil: Luta de Classes ou Heterogeneidade Educacional]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Henriques]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desigualdade e Pobreza no Brasil]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Brazilian size distribution of income"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fishlow]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Economic Review]]></source>
+<year>1972</year>
+<volume>vol. 62</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p.391-402</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<article-title xml:lang="pt"><![CDATA[A montagem do padrão de seguridade social na América Latina]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fleury]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estado sem cidadãos: seguridade social na América Latina]]></source>
+<year>1994</year>
+<publisher-name><![CDATA[Editora Fiocruz]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Huber]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stephens]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Development and crisis of the welfare state:parties and policies in global markets]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ibarra]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA["Pobreza, Distribuição de Renda e Mercado de Trabalho: 1990-2006"]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Immergut]]></surname>
+<given-names><![CDATA[E.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[As regras do jogo:a lógica da política de saúde na França, na Suíça e na Suécia]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<collab>Ipea</collab>
+<source><![CDATA[Boletim de políticas sociais: análise e acompanhamento]]></source>
+<year>2009</year>
+<volume>vol. 17</volume>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Korpi]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The democratic class struggle]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Marshall]]></surname>
+<given-names><![CDATA[T. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cidadania, Classe Social e Status]]></source>
+<year>1967</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Zahar]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Rearranjos familiares de inserção, precarização do trabalho e emprobrecimento"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Montali]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista Brasileira Est. Pop]]></source>
+<year>2004</year>
+<volume>vol.21</volume>
+<numero>n°2</numero>
+<issue>n°2</issue>
+<page-range>p.195-216</page-range><publisher-loc><![CDATA[Campinas ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["A análise de agrupamentos como instrumento de apoio à melhoria da qualidade dos serviços aos clientes"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Moori]]></surname>
+<given-names><![CDATA[R.G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marcondes]]></surname>
+<given-names><![CDATA[R.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ávila]]></surname>
+<given-names><![CDATA[R.T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Administração Contemporânea]]></source>
+<year>2002</year>
+<volume>vol. 6</volume>
+<numero>n° 1</numero>
+<issue>n° 1</issue>
+<page-range>p. 63-84</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[North]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Five Propositions about Institutional Change]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Knight]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sened]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Explaining Social Institutions]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Ann Arbor ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Michigan Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["Increasing Returns, Path Dependence, and the Study of Politics"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pierson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2000</year>
+<volume>vol.94</volume>
+<numero>n° 2</numero>
+<issue>n° 2</issue>
+<page-range>p.251-67</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["The new politics of the welfare state"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pierson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[World Politics]]></source>
+<year>2001</year>
+<page-range>p.143-79</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Resende]]></surname>
+<given-names><![CDATA[G.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mata]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carvalho]]></surname>
+<given-names><![CDATA[A. X. Y]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Crescimento Pró-pobre e Distribuição de Renda das Capitais dos Estados Brasileiros]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Carvalho]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ensaios de Economia Regional e Urbano]]></source>
+<year>2007</year>
+<page-range>p. 21-46</page-range><publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[IPEA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Transformações no mercado de trabalho no Brasil durante a crise: 1980-1983"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Saboia]]></surname>
+<given-names><![CDATA[J.L.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Economia Política]]></source>
+<year>1986</year>
+<volume>vol 6</volume>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[W.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cidadania e Justiça:a política social na ordem brasileira]]></source>
+<year>1979</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Editora Campus Ltda]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sátyro]]></surname>
+<given-names><![CDATA[N.G.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Proteção social no Brasil (verbete de dicionário)]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Política Estadual e Desigualdade: Por que alguns estados redistribuem mais do que outros?"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sátyro]]></surname>
+<given-names><![CDATA[N.G.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dados]]></source>
+<year>2013</year>
+<volume>vol.56</volume>
+<page-range>p.497-530</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="en"><![CDATA["The pathy of Brazilian social assistance policy post - 1988: the significance of institutions and ideas"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sátyro]]></surname>
+<given-names><![CDATA[N.G.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cunha]]></surname>
+<given-names><![CDATA[E.S.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Political Science Review]]></source>
+<year>2014</year>
+<volume>vol.8</volume>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Skocpol]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Bringing the State Back in: strategies of analysis in current research]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Evans]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rueschemeyer]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Skocpol]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bringing the State Back in]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Skocpol]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Bringing the State Back in: strategies of analysis in current research]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Evans]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rueschemeyer]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Skocpol]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Protecting Soldiers and Mothers:the Political Origins of Social Policy in the United States]]></source>
+<year>1992</year>
+<publisher-loc><![CDATA[Cambridge, MA ]]></publisher-loc>
+<publisher-name><![CDATA[The Belknap Press of Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<article-title xml:lang="pt"><![CDATA["Regiões metropolitanas: condicionantes do regime político"]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Souza]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Lua Nova]]></source>
+<year>2003</year>
+<numero>nº 59</numero>
+<issue>nº 59</issue>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Titmuss]]></surname>
+<given-names><![CDATA[R. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[What is social policy?]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Abel-Smith]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Titmuss]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Social Policy]]></source>
+<year>1974</year>
+<page-range>p. 23-33</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[George Allen and Unwin]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Weir]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Orloff]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Skocpol]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Political Formation of the U.S. Welfare State]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

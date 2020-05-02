@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032010000100010</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032010000100010</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Desempenho social no agronegócio brasileiro: aplicando DEA no segmento de usinas de processamento de cana-de-açúcar]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Macedo]]></surname>
+<given-names><![CDATA[Marcelo Alvaro da Silva]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Cípola]]></surname>
+<given-names><![CDATA[Fabrício Carvalho]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[Antonio Francisco Ritter]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,UFRJ FACC ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2010</year>
+</pub-date>
+<volume>48</volume>
+<numero>1</numero>
+<fpage>223</fpage>
+<lpage>243</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032010000100010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032010000100010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032010000100010&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[A importância das questões socioambientais nas empresas advém da crescente demanda da sociedade por informações a respeito dos impactos que as atividades empresariais exercem sobre os trabalhadores, a comunidade e o meio ambiente. A partir daí, as empresas começam a ter que provar que o seu custo-benefício é positivo, na medida em que agregam valor à economia e à sociedade, respeitam os direitos humanos de seus colaboradores e, ainda, desenvolvem todo o seu processo operacional sem agredir o meio ambiente. É nesse contexto que se insere este trabalho, cujo objetivo é verificar, por meio da aplicação de Análise Envoltória de Dados (DEA), a relação entre capacidade de investimento e benefícios socioambientais, de forma que, quanto maiores forem os benefícios para uma menor capacidade de investimento, maior será a eficiência e, por conseguinte, o desempenho socioambiental da empresa. Os resultados do estudo, que envolveu 19 usinas de processamento de cana-de-açúcar no Brasil, mostram que a Agrovale (principal benchmark) apresenta o melhor e a São José Estiva, o menor desempenho socioambiental. Além disso, observou-se uma relação entre desempenho socioambiental e tamanho (medido pela receita), com as maiores empresas tendo desempenho melhores.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The importance of social and environmental tags in companies comes from increasing demand, by the society itself, of information concerning impacts that the business create over the employees, community and environment. Therefore, companies needed to prove that its cost-benefit is positive, because they add value to economy and to society, because they respect the employees human rights and, in addition, because they develop its operational process without damaging environment. This research has the main focus to verify, through the application of Data Envelopment Analysis (DEA), the relation between investment capacity and social and environmental benefits, in a way that the higher are the benefits to a lower investment capacity, higher will be the efficiency and, as a result, the social and environmental performance. The study results of nineteen sugar cane mills in Brazil show that Agrovale (top benchmark) is the best one and São José Estiva is the smaller in terms of social and environmental performance. In addition, it was observed a relation between social and environmental practice and the size (measured by income), where bigger companies had best performances.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[desempenho socioambiental]]></kwd>
+<kwd lng="pt"><![CDATA[agronegócio]]></kwd>
+<kwd lng="pt"><![CDATA[DEA]]></kwd>
+<kwd lng="en"><![CDATA[Social and Environmental Performance]]></kwd>
+<kwd lng="en"><![CDATA[Agribusiness]]></kwd>
+<kwd lng="en"><![CDATA[DEA]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>Desempenho social    no agroneg&oacute;cio brasileiro: aplicando DEA no segmento de usinas de processamento    de cana-de-a&ccedil;&uacute;car</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Marcelo Alvaro    da Silva Macedo<sup>I</sup>; Fabr&iacute;cio Carvalho C&iacute;pola<sup>II</sup>;    Antonio Francisco Ritter Ferreira<sup>III</sup>&nbsp;</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Doutor    em Engenharia de Produ&ccedil;&atilde;o pela COPPE/UFRJ. Professor do Mestrado    em Ci&ecirc;ncias Cont&aacute;beis da FACC/UFRJ. Email: <a href="mailto:malvaro.facc.ufrj@gmail.com">malvaro.facc.ufrj@gmail.com</a>    <br>   <sup>II</sup>Mestre em Gest&atilde;o e Estrat&eacute;gia em Neg&oacute;cios    pelo PPGEN/UFRuralRJ. Email: <a href="mailto:fcipola@terra.com.br">fcipola@terra.com.br</a>    <br>   <sup>III</sup>Mestre em Gest&atilde;o e Estrat&eacute;gia em Neg&oacute;cios    pelo PPGEN/UFRuralRJ. Email: <a href="mailto:afritter@yahoo.com.br">afritter@yahoo.com.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A import&acirc;ncia    das quest&otilde;es socioambientais nas empresas adv&eacute;m da crescente demanda    da sociedade por informa&ccedil;&otilde;es a respeito dos impactos que as atividades    empresariais exercem sobre os trabalhadores, a comunidade e o meio ambiente.    A partir da&iacute;, as empresas come&ccedil;am a ter que provar que o seu custo-benef&iacute;cio    &eacute; positivo, na medida em que agregam valor &agrave; economia e &agrave;    sociedade, respeitam os direitos humanos de seus colaboradores e, ainda, desenvolvem    todo o seu processo operacional sem agredir o meio ambiente. &Eacute; nesse    contexto que se insere este trabalho, cujo objetivo &eacute; verificar, por    meio da aplica&ccedil;&atilde;o de An&aacute;lise Envolt&oacute;ria de Dados    (DEA), a rela&ccedil;&atilde;o entre capacidade de investimento e benef&iacute;cios    socioambientais, de forma que, quanto maiores forem os benef&iacute;cios para    uma menor capacidade de investimento, maior ser&aacute; a efici&ecirc;ncia e,    por conseguinte, o desempenho socioambiental da empresa. Os resultados do estudo,    que envolveu 19 usinas de processamento de cana-de-a&ccedil;&uacute;car no Brasil,    mostram que a Agrovale (principal <i>benchmark</i>) apresenta o melhor e a S&atilde;o    Jos&eacute; Estiva, o menor desempenho socioambiental. Al&eacute;m disso, observou-se    uma rela&ccedil;&atilde;o entre desempenho socioambiental e tamanho (medido    pela receita), com as maiores empresas tendo desempenho melhores.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chaves:</b>    desempenho socioambiental, agroneg&oacute;cio, DEA.</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The importance    of social and environmental tags in companies comes from increasing demand,    by the society itself, of information concerning impacts that the business create    over the employees, community and environment. Therefore, companies needed to    prove that its cost-benefit is positive, because they add value to economy and    to society, because they respect the employees human rights and, in addition,    because they develop its operational process without damaging environment. This    research has the main focus to verify, through the application of Data Envelopment    Analysis (DEA), the relation between investment capacity and social and environmental    benefits, in a way that the higher are the benefits to a lower investment capacity,    higher will be the efficiency and, as a result, the social and environmental    performance. The study results of nineteen sugar cane mills in Brazil show that    Agrovale (top benchmark) is the best one and S&atilde;o Jos&eacute; Estiva is    the smaller in terms of social and environmental performance. In addition, it    was observed a relation between social and environmental practice and the size    (measured by income), where bigger companies had best performances.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key-words:</b>    Social and Environmental Performance; Agribusiness; DEA    <br>   <b>Classifica&ccedil;&atilde;o JEL:</b> M14, Q01, C67, D61</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1. Introdu&ccedil;&atilde;o&nbsp;</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Segundo Dias e    Siqueira (2006), durante anos diversas organiza&ccedil;&otilde;es se preocuparam    somente com a obten&ccedil;&atilde;o de lucros cada vez maiores, sugando da    sociedade tudo o que fosse necess&aacute;rio para o alcance de tal objetivo,    e deixando, frequentemente, nada ou quase nada em troca.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com o passar do    tempo, p&ocirc;de-se perceber o surgimento e o incremento de movimentos sociais    no seio da popula&ccedil;&atilde;o, cobrando melhores condi&ccedil;&otilde;es    de trabalho, respeito ao meio ambiente, redu&ccedil;&atilde;o das desigualdades    sociais e raciais, entre outras mudan&ccedil;as. Isso fez com que as organiza&ccedil;&otilde;es    passassem a dar maior import&acirc;ncia para esses fatores at&eacute; ent&atilde;o    menosprezados (DIAS E SIQUEIRA, 2006).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por conta disso,    o tema responsabilidade social ocupa hoje grande espa&ccedil;o na produ&ccedil;&atilde;o    acad&ecirc;mica, na m&iacute;dia e nos neg&oacute;cios. Contudo, torna-se oportuno    pontuar que seu conceito &eacute; complexo, com a busca pela sua defini&ccedil;&atilde;o    encontrando-se ainda em curso. Pode-se dizer que a responsabilidade social,    em sua ess&ecirc;ncia, implica em qualquer rela&ccedil;&atilde;o da empresa    com seus <i>stakeholders</i> - seja na esfera ambiental, social, pol&iacute;tica,    econ&ocirc;mica ou legal -, a qual deve ser orientada pela transpar&ecirc;ncia    e pela &eacute;tica.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Estudos realizados    no Brasil e no mundo procuraram ilustrar se a pr&aacute;tica de a&ccedil;&otilde;es    de responsabilidade social gera benef&iacute;cios para as organiza&ccedil;&otilde;es.    Por&eacute;m, n&atilde;o se encontram facilmente, na literatura, muitos estudos    que fa&ccedil;am uma an&aacute;lise entre a capacidade de investimento socioambiental    e a realiza&ccedil;&atilde;o de esfor&ccedil;os nesse sentido.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&Eacute; nesse    contexto que se insere esta pesquisa. Realiza-se um estudo do comportamento    comparativo entre 19 usinas de processamento de cana-de-a&ccedil;&uacute;car    no Brasil, utilizando a An&aacute;lise Envolt&oacute;ria de Dados (DEA), com    o objetivo de analisar o desempenho socioambiental das mesmas. Em outras palavras,    procura-se verificar qual a efici&ecirc;ncia de cada usina na convers&atilde;o    da capacidade de investimento (<i>input</i>), medida pela receita, em benef&iacute;cios    socioambientais (<i>outputs</i>), medidos pelos indicadores sociais internos    e externos e pelos indicadores ambientais.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A l&oacute;gica    do estudo &eacute; observar a rela&ccedil;&atilde;o entre capacidade de investimento    e benef&iacute;cios socioambientais, de forma que quanto maiores forem os benef&iacute;cios    para uma menor capacidade de investimento, maior ser&aacute; a efici&ecirc;ncia    e, por conseguinte, o desempenho socioambiental da usina. Isso significa que    um desempenho socioambiental superior est&aacute; diretamente relacionado &agrave;    gera&ccedil;&atilde;o do m&aacute;ximo de benef&iacute;cios socioambientais,    comparativamente falando, dada a capacidade de investimento.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. Responsabilidade    social&nbsp;</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para autores como    Melo Neto e Froes (1999), Ten&oacute;rio (2004), Ashley (2002), Pena <i>et al.</i>    (2005), Parente e Gelman (2006) e Puppim (2005), al&eacute;m do Instituto Ethos    (2006), a responsabilidade social pode ser conceituada como um compromisso da    empresa com a sociedade, sendo que a participa&ccedil;&atilde;o das empresas    n&atilde;o se limita a gerar lucros, empregos e ao pagamento de impostos. Esta    &eacute; uma forma de gest&atilde;o definida pela rela&ccedil;&atilde;o &eacute;tica    e transparente da empresa com todos os p&uacute;blicos com os quais ela se relaciona,    sendo vista, portanto, como uma forma de <i>accountability</i> do desempenho    empresarial no que tange a sua maneira de agir, de impactar e de se relacionar    com seus <i>stakeholders</i>. Em outras palavras, a responsabilidade social    tem como principal caracter&iacute;stica a coer&ecirc;ncia &eacute;tica nas    pr&aacute;ticas e rela&ccedil;&otilde;es com seus diversos p&uacute;blicos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">H&aacute; grande    controv&eacute;rsia sobre o desenvolvimento de a&ccedil;&otilde;es de responsabilidade    social por parte das organiza&ccedil;&otilde;es e sua aceita&ccedil;&atilde;o    pelos gestores. O conflito existente encontra-se nas teorias dos <i>stockholders</i>    e dos <i>stakeholders</i>, uma vez que cada grupo apresenta uma l&oacute;gica    negando e incentivando as pr&aacute;ticas de responsabilidade social empresarial.    Tal controv&eacute;rsia &eacute; ressaltada por Parente e Terepins (2006), que    afirmam que somente quando os gastos com pr&aacute;ticas de responsabilidade    social empresarial gerarem, simultaneamente, ganhos sociais e benef&iacute;cios    econ&ocirc;micos, ter-se-&aacute; uma converg&ecirc;ncia entre filantropia corporativa    e os interesses dos acionistas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Segundo Friedman    (1970), na teoria dos <i>stockholders</i> (ou <i>shareholders</i>), a &uacute;nica    responsabilidade social de uma organiza&ccedil;&atilde;o &eacute; a gera&ccedil;&atilde;o    de lucros e riqueza para seus acionistas, sendo sua responsabilidade m&aacute;xima,    portanto, o aumento do desempenho econ&ocirc;mico. Quaisquer a&ccedil;&otilde;es    diferentes desta podem colocar em risco a sobreviv&ecirc;ncia da empresa, al&eacute;m    de dar origem a um problema de ag&ecirc;ncia entre os acionistas e os gestores.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nessa linha, esta    teoria mostra uma rela&ccedil;&atilde;o negativa entre responsabilidade social    e <i>performance</i> financeira, de modo que responsabilidades adicionais que    n&atilde;o sejam atreladas ao incremento dos resultados financeiros colocam    as empresas em desvantagem em rela&ccedil;&atilde;o a organiza&ccedil;&otilde;es    que possuam menores, ou mesmo inexistentes, a&ccedil;&otilde;es e pr&aacute;ticas    de responsabilidade social.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">J&aacute; na teoria    dos <i>stakeholders</i>, Freeman (1994) afirma que a gest&atilde;o com base    neste p&uacute;blico envolve a aloca&ccedil;&atilde;o de recursos organizacionais    e considera os impactos desta aloca&ccedil;&atilde;o em v&aacute;rios grupos    de interesse dentro e fora da organiza&ccedil;&atilde;o. Tal teoria pode ser    vista, segundo Lea (1999), como uma resposta &agrave; vis&atilde;o da maximiza&ccedil;&atilde;o    &uacute;nica da riqueza dos acionistas (teoria dos <i>stockholders</i>), pois    sugere que haja aten&ccedil;&atilde;o por parte da empresa a uma multiplicidade    de grupos relacionados &agrave; mesma. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Este ide&aacute;rio    relaciona o desempenho financeiro com os <i>stakeholders</i> de forma positiva,    n&atilde;o existindo qualquer desvio na fun&ccedil;&atilde;o da empresa. Assim,    mesmo que seja dif&iacute;cil agregar o econ&ocirc;mico e o social, de modo    a medir os efeitos para <i>stakeholders</i> e <i>stockholders</i> de forma integrada,    o resultado final da atividade empresarial precisa levar em considera&ccedil;&atilde;o    os retornos que otimizem n&atilde;o somente os acionistas, mas tamb&eacute;m    as demais partes interessadas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A visualiza&ccedil;&atilde;o    do ambiente em que a empresa opera, no tocante aos agentes que a influencia    e que s&atilde;o influenciados por suas a&ccedil;&otilde;es (tendo tais influ&ecirc;ncias    uma rela&ccedil;&atilde;o custo-benef&iacute;cio), leva a tratar sua atua&ccedil;&atilde;o    com par&acirc;metros atrelados aos v&aacute;rios <i>stakeholders</i>. Para isso,    &eacute; importante definir, medir e monitorar os interesses destes, al&eacute;m    de associ&aacute;-los aos indicadores de desempenho da empresa.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A teoria dos <i>stakeholders</i>    pode ser vista como aquela que preconiza a congru&ecirc;ncia entre os objetivos    empresariais e sociais, j&aacute; que estes estariam interligados ou, nas palavras    de Drucker (2001), uma vez que as institui&ccedil;&otilde;es s&oacute; podem    existir dentro de um ambiente social e s&atilde;o, de fato, &oacute;rg&atilde;os    da sociedade, tais problemas sociais as afetam. Para Drucker (2001), portanto,    &eacute; dif&iacute;cil haver uma organiza&ccedil;&atilde;o saud&aacute;vel    em uma sociedade que n&atilde;o seja tamb&eacute;m s&atilde;.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m disso,    na teoria dos <i>stakeholders</i> &eacute; assumida implicitamente a necessidade    da exist&ecirc;ncia de um equil&iacute;brio nas a&ccedil;&otilde;es de cunho    social no cerne da empresa. Se uma organiza&ccedil;&atilde;o vai assumir uma    postura socialmente respons&aacute;vel, ela n&atilde;o pode se descuidar de    sua atividade fim. N&atilde;o pode se esquecer de que precisa alcan&ccedil;ar    um n&iacute;vel m&iacute;nimo de lucratividade para assegurar a continuidade    das opera&ccedil;&otilde;es. N&atilde;o pode se descuidar de ser uma empresa    inovadora, lan&ccedil;ando novos produtos que estejam em conformidade com os    anseios do mercado. N&atilde;o pode deixar de recrutar as melhores mentes dispon&iacute;veis    para manter ou aumentar o n&iacute;vel de competitividade da organiza&ccedil;&atilde;o.    N&atilde;o pode se esquecer que a sociedade n&atilde;o tem nada a ganhar e tudo    a perder, se a capacidade da institui&ccedil;&atilde;o de desempenhar sua tarefa    espec&iacute;fica for reduzida ou prejudicada. Isso exige que os gestores aliem    dois conceitos: sustentabilidade e valor ao acionista (DRUCKER, 2001).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cabe destacar que    o debate atual centra-se na sustentabilidade dos neg&oacute;cios, definida por    Rezende e Santos (2006) como a capacidade das empresas de aliar sucesso financeiro    com atua&ccedil;&atilde;o social e equil&iacute;brio ambiental. No contexto    dos neg&oacute;cios, para Vellani e Ribeir&atilde;o (2006), a sustentabilidade    pode ter tr&ecirc;s dimens&otilde;es: a econ&ocirc;mica, a social e a ambiental,    conhecidas como <i>Triple Bottom Line</i> (TBL). </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O TBL reflete a    necessidade de as empresas serem gerenciadas com foco na sustentabilidade econ&ocirc;mica,    ao administrar empresas lucrativas e geradoras de valor; na sustentabilidade    social, ao estimular a educa&ccedil;&atilde;o, cultura, lazer e justi&ccedil;a    social &agrave; comunidade; e na sustentabilidade ecol&oacute;gica, ao manter    ecossistemas vivos, com diversidade e vida (VELLANI e RIBEIR&Atilde;O, 2006).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A amplid&atilde;o    do conceito de responsabilidade social, associado &agrave; necessidade de manuten&ccedil;&atilde;o    da integridade financeira e operacional da empresa, pode levar a diferentes    interpreta&ccedil;&otilde;es de como se dar&aacute; a operacionaliza&ccedil;&atilde;o    da responsabilidade social das sociedades empresariais. Donnely Jr., Gibson    e Ivancevich (1995) abrigam as interpreta&ccedil;&otilde;es de responsabilidade    social em tr&ecirc;s grandes grupos: a obriga&ccedil;&atilde;o social, a rea&ccedil;&atilde;o    social e a sensibilidade social.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A responsabilidade    social como obriga&ccedil;&atilde;o social determina que tudo aquilo que &eacute;    legal para obter benef&iacute;cios &eacute; socialmente respons&aacute;vel;    da mesma forma, os atos ilegais ou que n&atilde;o sejam direcionados para a    obten&ccedil;&atilde;o de benef&iacute;cios s&atilde;o socialmente irrespons&aacute;veis.    Essa linha de pensamento est&aacute; em conson&acirc;ncia com a ideia de que    os acionistas s&atilde;o os donos da empresa e, desde que n&atilde;o haja ilegalidade,    eles devem ser priorizados. Qualquer ato que n&atilde;o implique em aumento    da efici&ecirc;ncia e leve &agrave; redu&ccedil;&atilde;o da lucratividade &eacute;    inaceit&aacute;vel, j&aacute; que conduziria a pre&ccedil;os mais altos e redu&ccedil;&atilde;o    nos dividendos distribu&iacute;dos. </font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Essa abordagem,    com base na teoria dos <i>stockholders,</i> &eacute; evidenciada por Friedman    (1984), que afirma haver uma, e s&oacute; uma, responsabilidade social do capital    - usar seus recursos e dedicar-se a atividades destinadas a aumentar seus lucros    at&eacute; onde permane&ccedil;a dentro das regras do jogo, o que significa    participar de uma competi&ccedil;&atilde;o livre e aberta, sem enganos ou fraude.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em s&iacute;ntese,    com base na teoria dos <i>stockholders,</i> se teria uma vis&atilde;o legalista    da responsabilidade social da empresa. Obviamente que, sob essa &oacute;tica,    a contribui&ccedil;&atilde;o social de uma empresa seria t&atilde;o ampla quanto    obrigasse a legisla&ccedil;&atilde;o de um pa&iacute;s, o que, em muitos casos,    principalmente nas na&ccedil;&otilde;es em desenvolvimento, seria um problema.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">J&aacute; a abordagem    da rea&ccedil;&atilde;o social - segunda interpreta&ccedil;&atilde;o de responsabilidade    social - considera que a sociedade espera das empresas algo mais do que bens    e servi&ccedil;os de qualidade e direciona demandas a essas organiza&ccedil;&otilde;es,    que reagiriam atendendo aos apelos de grupos sociais.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No terceiro enfoque    - sensibilidade social -, as empresas n&atilde;o apenas reagiriam &agrave;s    demandas sociais, mas se antecipariam &agrave;s mesmas, adotando uma postura    pr&oacute;-ativa. Segundo Donnely Jr., Gibson e Ivancevich (1995), essa perspectiva    constitui o significado mais amplo de responsabilidade social, pois coloca os    gerentes e suas organiza&ccedil;&otilde;es em uma posi&ccedil;&atilde;o de responsabilidade    social muito distante da tradicional, dedicada exclusivamente a fins e meios    econ&ocirc;micos. Tal enfoque &eacute; fruto de uma gest&atilde;o que envolve    a considera&ccedil;&atilde;o dos impactos da aloca&ccedil;&atilde;o de recursos    organizacionais em v&aacute;rios grupos de interesse, dentro e fora da organiza&ccedil;&atilde;o,    e que enfatiza o gerenciamento ativo do ambiente do neg&oacute;cio, dos relacionamentos    entre os participantes e a consequente promo&ccedil;&atilde;o dos diferentes    interesses. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Assim, uma empresa    sob essa &oacute;tica estaria, por exemplo, atuando junto a seus funcion&aacute;rios,    reduzindo suas emiss&otilde;es de efluentes e os n&iacute;veis de contamina&ccedil;&atilde;o    atmosf&eacute;rica como uma avalia&ccedil;&atilde;o do que a sociedade deseja,    mesmo que seus segmentos organizados ainda n&atilde;o tenham se manifestado.    &Eacute; importante perceber, no entanto, que a abordagem da rea&ccedil;&atilde;o    social tamb&eacute;m poderia levar a empresa a atuar nesse sentido, possivelmente    de uma forma mais limitada.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Conforme se p&ocirc;de    observar, diferentes s&atilde;o as abordagens de responsabilidade social, indo    desde a limitada abordagem cristalizada na vis&atilde;o da teoria dos <i>stockholders</i>    at&eacute; a ampla perspectiva fundamentada na teoria dos <i>stakeholders</i>.    A diferen&ccedil;a b&aacute;sica entre as duas &eacute; uma quest&atilde;o de    amplitude de vis&atilde;o, no que se refere &agrave;s possibilidades de as empresas    terem benef&iacute;cios financeiros com seus investimentos sociais. Enquanto    a teoria dos <i>stockholders</i> parece ter uma vis&atilde;o de sistema fechado    de empresa, voltado &agrave; racionaliza&ccedil;&atilde;o de opera&ccedil;&otilde;es,    maximiza&ccedil;&atilde;o de efici&ecirc;ncia e redu&ccedil;&atilde;o de custo,    a teoria dos <i>stakeholders</i> tem uma vis&atilde;o de empresa como sistema    aberto que afeta e &eacute; afetado pelo meio que o cerca.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Macedo <i>et al.</i>    (2007) ilustram que &eacute; crescente o n&uacute;mero de empresas no Brasil    e no mundo que, ao longo dos &uacute;ltimos dez anos, optaram por trilhar o    caminho ditado por preceitos da responsabilidade social. Por conta disso, os    autores destacam que, hoje em dia, os procedimentos de avalia&ccedil;&atilde;o    da <i>performance</i> social e ambiental das empresas precisam ser calcados    em metodologias que permitam o controle do processo, o mapeamento de novas a&ccedil;&otilde;es    ou corre&ccedil;&otilde;es e o grau de efici&ecirc;ncia que as a&ccedil;&otilde;es    sociais e ambientais est&atilde;o atingindo. Como todo processo dentro de uma    organiza&ccedil;&atilde;o, a <i>performance</i> socioambiental precisa de gerenciamento.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nesse sentido,    v&aacute;rios estudos procuraram analisar o desempenho socioambiental, dentre    os quais destaca-se os de Abreu <i>et al.</i> (2006), Machado <i>et al.</i>    (2006), Milani Filho (2007), Bernardo <i>et al.</i> (2006), Bertagnolli <i>et    al.</i> (2006), Rezende e Santos (2006), Macedo e C&iacute;pola (2007) e Macedo    <i>et al.</i> (2007). Na an&aacute;lise desses trabalhos, percebe-se que o foco    principal &eacute; verificar se existe vantagem operacional, mercadol&oacute;gica    e/ou financeira pela ado&ccedil;&atilde;o de pr&aacute;ticas socioambientalmente    sustent&aacute;veis. </font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. Metodologia&nbsp;</b></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esta pesquisa pode    ser caracterizada, de acordo com o exposto por Vergara (2004), como sendo explorat&oacute;ria,    descritiva e quantitativa, pois se procura, por meio da aplica&ccedil;&atilde;o    da an&aacute;lise envolt&oacute;ria de dados &agrave;s informa&ccedil;&otilde;es    dos balan&ccedil;os sociais das usinas de processamento de cana-de-a&ccedil;&uacute;car    que fazem parte da amostra, expor caracter&iacute;sticas a respeito do desempenho    socioambiental destas. Al&eacute;m disso, n&atilde;o se observam muitos outros    estudos que abordem o assunto sob a perspectiva do desempenho socioambiental,    tendo este trabalho o objetivo de faz&ecirc;-lo de maneira explorat&oacute;ria.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O processo de amostragem    &eacute; n&atilde;o probabil&iacute;stico, pois parte-se de um universo naturalmente    restrito, considerando que as usinas foram escolhidas pela disponibilidade e    acessibilidade &agrave;s informa&ccedil;&otilde;es necess&aacute;rias ao estudo,    dispon&iacute;veis no site do Ibase (Instituto Brasileiro de An&aacute;lises    Sociais e Econ&ocirc;micas). Isso traz algumas limita&ccedil;&otilde;es de infer&ecirc;ncia,    mas n&atilde;o invalida os resultados da pesquisa, j&aacute; que n&atilde;o    se tem o intuito de generalizar os achados. Apesar dessa limita&ccedil;&atilde;o,    cabe ressaltar que se teve o cuidado de escolher um ramo, do qual algumas empresas    fossem, assumidamente, representativas de boas pr&aacute;ticas de responsabilidade    socioambiental.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esta pesquisa foi    feita a partir de dados prim&aacute;rios colhidos nas edi&ccedil;&otilde;es    de 2004, 2005 e 2006 dos Balan&ccedil;os Sociais - modelo Ibase, das seguintes    usinas: Agrovale, Alvorada, Cerradinho, Cocal, Dedini, Della, Guarani, Iracema,    Jalles Mac, Mandu, Para&iacute;so, Ruette, Santa Cruz, S&atilde;o Domingos,    S&atilde;o Jos&eacute; Estiva, S&atilde;o Manoel, S&atilde;o Martinho, Vale    do Ivai e Vista Alegre. Essas 19 usinas est&atilde;o distribu&iacute;das por    todas as regi&otilde;es brasileiras, exceto a regi&atilde;o Norte, com a maioria    localizada no Sudeste, mais especificamente, no estado de S&atilde;o Paulo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De cada uma das    usinas selecionadas, foram coletadas as seguintes informa&ccedil;&otilde;es:    Indicadores Sociais Internos, Indicadores Sociais Externos, Investimentos em    Meio Ambiente e Receita L&iacute;quida.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A escolha das vari&aacute;veis    de <i>output</i> se deve ao fato destes serem os principais grupos que representam    a atua&ccedil;&atilde;o socioambiental das empresas dentro de seus Balan&ccedil;os    Sociais. Cabe ressaltar que, no caso de usinas de processamento de cana-de-a&ccedil;&uacute;car,    as caracter&iacute;sticas desta atividade justificam por si s&oacute; a an&aacute;lise    do desempenho socioambiental, j&aacute; que esta atividade &eacute; constantemente    questionada em termos de a&ccedil;&otilde;es sociais (principalmente relacionadas    &agrave; m&atilde;o-de-obra) e ambientais. A seguir, tem-se uma descri&ccedil;&atilde;o    sucinta de cada &iacute;ndice:</font></p>     <blockquote>        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149; Indicadores      Sociais Internos: Representa o <i>output</i> 01 e mede o total de recursos      investidos no bem-estar dos funcion&aacute;rios. Dentre esses recursos est&atilde;o      os gastos com alimenta&ccedil;&atilde;o, seguran&ccedil;a no trabalho, previd&ecirc;ncia      privada e social, sa&uacute;de, educa&ccedil;&atilde;o, cultura, capacita&ccedil;&atilde;o      e desenvolvimento profissional, creches, entre outros. &Eacute; um &iacute;ndice      do tipo quanto maior, melhor o desempenho.</font></p>       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149; Indicadores      Sociais Externos: Indicador que representa o <i>output</i> 02, sendo obtido      pela soma de todos os recursos investidos pela empresas em benef&iacute;cio      da sociedade, em &aacute;reas como: educa&ccedil;&atilde;o, esporte, sa&uacute;de,      cultura, etc. &Eacute; um &iacute;ndice do tipo quanto maior, melhor o desempenho.</font></p>       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149; Investimentos      em Meio Ambiente: Representa o <i>output</i> 03 e mede os investimentos na      &aacute;rea ambiental, tanto relacionados &agrave; opera&ccedil;&atilde;o      da empresa (que s&atilde;o importantes neste setor), quanto aos externos &agrave;      opera&ccedil;&atilde;o. Por conta disso, &eacute; um &iacute;ndice do tipo      quanto maior, melhor o desempenho.</font> </p>       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149; Receita      L&iacute;quida: Representa o <i>input</i> 01 e mede o faturamento l&iacute;quido      da empresa (receita bruta menos dedu&ccedil;&otilde;es e impostos sobre vendas).      &Eacute; utilizado na an&aacute;lise como uma <i>proxy</i> da disponibilidade      de recursos da empresa para investir na &aacute;rea socioambiental. &Eacute;      um &iacute;ndice do tipo quanto menor, melhor o desempenho.</font> </p> </blockquote>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um grande n&uacute;mero    de diferentes vari&aacute;veis, como as de <i>output</i> apresentadas anteriormente,    pode ser utilizado para avaliar a efici&ecirc;ncia socioambiental de unidades    organizacionais, sendo que cada uma pode ser vista como um vetor de desempenho    socioambiental que representa um dado aspecto da performance. Estes seriam modelos    de avalia&ccedil;&atilde;o de desempenho socioambiental monocriteriais.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O que se busca    neste artigo &eacute; apresentar uma metodologia multidimensional, na qual seja    poss&iacute;vel avaliar o desempenho socioambiental de cada usina de modo multicriterial,    ou seja, considerando de maneira integrada todos os vetores de desempenho apresentados.    Al&eacute;m disso, busca-se uma vis&atilde;o ao longo do tempo, para evitar    oscila&ccedil;&otilde;es espor&aacute;dicas e pontuais.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Isso &eacute; feito    por meio da utiliza&ccedil;&atilde;o da An&aacute;lise Envolt&oacute;ria de    Dados (DEA), que mostra o qu&atilde;o uma usina &eacute; eficiente, no tratamento    de seus <i>inputs</i> e <i>outputs</i>, em rela&ccedil;&atilde;o &agrave;s outras.    Esta an&aacute;lise fornece um indicador que varia de zero a um ou de 0% a 100%,    sendo que somente as usinas que obt&ecirc;m &iacute;ndice de efici&ecirc;ncia    igual a um &eacute; que s&atilde;o efetivamente eficientes, ou seja, fazem parte    da fronteira eficiente. Em termos pr&aacute;ticos, o modelo procura identificar    a efici&ecirc;ncia socioambiental de uma usina comparando-a com os melhores    desempenhos observados em cada ano.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Lins e Meza (2000)    dizem que um caminho intuitivo para introduzir DEA &eacute; por meio de forma    de raz&atilde;o. Para cada unidade, procura-se obter uma medida de raz&atilde;o    de todos os <i>outputs</i> sobre todos os <i>inputs</i> ou, ainda, de todos    os <i>inputs</i> sobre todos os <i>outputs</i>. Ou seja, a modelagem procura    encontrar os pesos &oacute;timos <i>u</i><sub><i>j</i></sub> e vi para a resolu&ccedil;&atilde;o    de um dos seguintes problemas de programa&ccedil;&atilde;o matem&aacute;tica:</font></p>     <p align="center"><img src="/img/revistas/resr/v48n1/10txt01.gif"></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No modelo com orienta&ccedil;&atilde;o    <i>input</i>, c &eacute; a unidade DMU (<i>Decision Making Units</i>) que est&aacute;    sendo avaliada. O problema apresentado envolve a procura de valores para <i>u</i>    e <i>v</i>, que s&atilde;o os pesos, de modo que maximize a soma ponderada dos    <i>outputs</i> (<i>y</i><sub><i>j</i></sub>) dividida pela soma ponderada dos    <i>inputs</i> (<i>x</i><sub><i>i</i></sub>) da DMU em estudo, sujeita &agrave;    restri&ccedil;&atilde;o de que esse quociente seja menor ou igual a um, para    todas as DMUs. Esta fun&ccedil;&atilde;o est&aacute; sujeita &agrave; restri&ccedil;&atilde;o    de que, quando o mesmo conjunto de coeficientes de entrada e sa&iacute;da (os    v&aacute;rios <i>v</i><sub><i>i</i></sub>e <i>u</i><sub><i>j</i></sub>) for    aplicado a todas as outras unidades que est&atilde;o sendo comparadas, nenhuma    unidade exceder&aacute; 100% de efici&ecirc;ncia ou uma raz&atilde;o de 1,00.<sub>&nbsp;</sub></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">J&aacute; no modelo    com orienta&ccedil;&atilde;o <i>output</i>, a efici&ecirc;ncia &eacute; calculada    pelo inverso da fun&ccedil;&atilde;o objetivo, ou seja, efici&ecirc;ncia = 1/E.    Este problema define a rela&ccedil;&atilde;o dos <i>inputs</i> sobre os <i>outputs</i>,    em que <i>c</i> &eacute; o &iacute;ndice da unidade que est&aacute; sendo avaliada.    T&ecirc;m-se neste problema as mesmas vari&aacute;veis de decis&atilde;o <i>u</i><sub><i>j</i></sub>    e <i>v</i><sub><i>i</i></sub>, por&eacute;m, o intuito &eacute; minimizar a    soma ponderada dos <i>inputs</i> (<i>x</i><sub><i>i</i></sub>) dividida pela    soma ponderada dos <i>outputs</i> (<i>y</i><sub><i>j</i></sub>) da DMU em estudo,    sujeita &agrave; restri&ccedil;&atilde;o de que esse quociente seja maior ou    igual a um, para todas as DMUs. <sub>&nbsp;</sub></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Como este trabalho    procura obter o m&aacute;ximo de benef&iacute;cios socioambientais, dada a capacidade    de investimento, tem-se como finalidade descobrir n&atilde;o s&oacute; o desempenho    socioambiental, mas tamb&eacute;m os pontos &oacute;timos de investimento que    cada empresa deveria atingir. Para tanto, o modelo utilizado ter&aacute; uma    orienta&ccedil;&atilde;o a <i>output</i>, ou seja, procura-se minimizar a rela&ccedil;&atilde;o    <i>inputs</i>/<i>outputs</i>, em que a efici&ecirc;ncia &eacute; o inverso da    fun&ccedil;&atilde;o objetivo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Segundo Charnes    <i>et al.</i> (1994), este &eacute; um problema fracion&aacute;rio (n&atilde;o    linear) de programa&ccedil;&atilde;o matem&aacute;tica de dif&iacute;cil solu&ccedil;&atilde;o,    que pode ser facilmente resolvido transformando a rela&ccedil;&atilde;o em uma    fun&ccedil;&atilde;o linear, simplesmente considerando o denominador da fun&ccedil;&atilde;o    objetivo igual a um. De acordo com Coelli <i>et al.</i> (1998), os modelos DEA-CRS-I    e DEA-CRS-O podem, ent&atilde;o, ser apresentados da seguinte maneira:</font></p>     <p align="center"><img src="/img/revistas/resr/v48n1/10txt02.gif"></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Estas formas do    problema s&atilde;o conhecidas como problemas dos multiplicadores, como tamb&eacute;m    s&atilde;o chamados os pesos, <i>u</i><sub><i>j</i></sub> e <i>v</i><sub><i>i</i></sub>.    O PPL CRS/M/O &eacute; utilizado para modelar a an&aacute;lise dos dados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Segundo Macedo    e C&iacute;pola (2007), quanto menor a rela&ccedil;&atilde;o &aring;<i>inputs</i>    / &aring;<i>outputs,</i> maior a efici&ecirc;ncia. Para cada DMU a ser analisada,    formula-se um problema de otimiza&ccedil;&atilde;o com o objetivo de determinar    os valores que esta DMU atribuiria aos multiplicadores u e v, de modo a aparecer    com a maior efici&ecirc;ncia poss&iacute;vel. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Dessa forma, o    problema consiste em achar os valores das vari&aacute;veis <i>u</i><sub><i>j</i></sub>    e <i>v</i><sub><i>i</i></sub>, que s&atilde;o os pesos (import&acirc;ncia relativa    de cada vari&aacute;vel), de modo que se minimize a soma ponderada dos <i>inputs</i>    (<i>input</i> &#147;virtual&#148;) dividida pela soma ponderada dos <i>outputs</i>    (<i>output</i> &#147;virtual&#148;) da DMU em estudo, sujeita &agrave; restri&ccedil;&atilde;o    de que esse quociente seja maior ou igual a um, para todas as DMUs.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para an&aacute;lise    do desempenho socioambiental das usinas, utilizou-se um modelo DEA-CRS que combinasse    os <i>outputs</i> 01, 02 e 03 e o <i>input</i> 01. Ou seja, procurou-se verificar    o desempenho socioambiental de cada organiza&ccedil;&atilde;o por meio da an&aacute;lise    anual da combina&ccedil;&atilde;o entre Indicadores Sociais Internos e Externos    e Investimentos em Meio Ambiente com a Receita L&iacute;quida. Os dados utilizados    na an&aacute;lise podem ser vistos a seguir (<a href="#q1">quadros 1</a>, <a href="#q2">2</a>    e <a href="#q3">3</a>), apresentados por ano e por usina.</font></p>     <p><a name="q1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n1/10q01.gif"></p>     <p>&nbsp;</p>     <p><a name="q2"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v48n1/10q02.gif"></p>     <p>&nbsp;</p>     <p><a name="q3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n1/10q03.gif"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por fim, procurou-se    verificar se existia rela&ccedil;&atilde;o entre tamanho e desempenho socioambiental.    Ou seja, buscou-se fazer uma compara&ccedil;&atilde;o do desempenho socioambiental    das maiores empresas com o das menores, em termos de receita l&iacute;quida.    Para isso, utilizou-se do teste de diferen&ccedil;a de m&eacute;dias denominado    Teste de Desigualdade de Chebyshev.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Este, segundo Kazmier    (1982), &eacute; apropriado quando a amostra for pequena (<i>n</i>&nbsp;&lt;&nbsp;30)    e n&atilde;o se fizer a hip&oacute;tese de que os dados sejam normalmente distribu&iacute;dos.    A forma da desigualdade de Chebyshev indica a probabilidade m&aacute;xima de    que a m&eacute;dia da amostra esteja localizada a mais do que <i>k</i> unidades    de erro padr&atilde;o da m&eacute;dia da popula&ccedil;&atilde;o (KAZMIER, 1982).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para usar essa    desigualdade, conclui Kazmier, simplesmente determina-se a diferen&ccedil;a    entre as m&eacute;dias, em unidade de erro padr&atilde;o, ou seja, divide-se    esta diferen&ccedil;a pelo valor do erro padr&atilde;o. O inverso do quadrado    deste valor &eacute;, ent&atilde;o, comparado com o n&iacute;vel de signific&acirc;ncia    pr&eacute;-determinado para a an&aacute;lise. Caso o resultado seja maior que    o n&iacute;vel de signific&acirc;ncia, aceita-se H0 (as m&eacute;dias s&atilde;o    iguais). Caso seja menor, rejeita-se H0 e aceita-se, assim, H1 (as m&eacute;dias    s&atilde;o diferentes).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste trabalho,    tem-se o objetivo de verificar se a m&eacute;dia dos &iacute;ndices das maiores    empresas &eacute; igual ou diferente da das menores, ao n&iacute;vel de signific&acirc;ncia    de 10%. Em caso de diferen&ccedil;as encontradas, p&ocirc;de-se observar se    existia alguma domin&acirc;ncia de um grupo sobre o outro, em fun&ccedil;&atilde;o    do intervalo de confian&ccedil;a (IC) constru&iacute;do. Este foi constru&iacute;do    somando-se e subtraindo-se da m&eacute;dia o valor do produto de <i>k</i> (utilizando    o n&iacute;vel de signific&acirc;ncia) pelo erro padr&atilde;o. Se os valores    estiverem dentro do IC, tem-se a igualdade ratificada.</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. Apresenta&ccedil;&atilde;o    e An&aacute;lise dos Resultados&nbsp;</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com base nas informa&ccedil;&otilde;es    das usinas sob an&aacute;lise, montou-se o modelo de avalia&ccedil;&atilde;o    de efici&ecirc;ncia para cada ano. Em todas as an&aacute;lises, utilizou-se    o modelo CRS com orienta&ccedil;&atilde;o <i>output</i>. Para obter-se a efici&ecirc;ncia    de cada DMU, utilizou-se um software de DEA, apresentado por Meza <i>et al..</i>    (2003), denominado Siad (Sistema Integrado de Apoio &agrave; Decis&atilde;o).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O <a href="#q4">quadro    4</a> mostra os resultados obtidos na an&aacute;lise para cada ano. Al&eacute;m    disso, analisaram-se os n&iacute;veis ideais e as mudan&ccedil;as nos n&iacute;veis    de <i>outputs</i> nas usinas ineficientes, para que as mesmas se tornem eficientes.    Cabe ressaltar que a an&aacute;lise &eacute; feita sob a &oacute;tica de melhorias/incremento    dos <i>outputs</i>, conforme mostra os <a href="#q5">quadros 5</a>, <a href="#q6">6</a>    e <a href="#q7">7</a>, para cada um dos tr&ecirc;s anos de an&aacute;lise.</font></p>     <p><a name="q4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n1/10q04.gif"></p>     <p>&nbsp;</p>     <p><a name="q5"></a></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/resr/v48n1/10q05.gif"></p>     <p>&nbsp;</p>     <p><a name="q6"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n1/10q06.gif"></p>     <p>&nbsp;</p>     <p><a name="q7"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n1/10q07.gif"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Com base nos resultados    do <a href="#q4">quadro 4</a>, foi poss&iacute;vel verificar, quanto ao desempenho,    que apenas tr&ecirc;s das 19 usinas (Agrovale, Cocal e Guarani) foram eficientes    no ano de 2004. J&aacute; em 2005, apenas a Agrovale, a Guarani, a Jalles Mac    e a Mandu foram eficientes. E, por fim, em 2006, t&ecirc;m-se quatro unidades    eficientes: Agrovale, Mandu, S&atilde;o Manoel e S&atilde;o Martinho. Numa consolida&ccedil;&atilde;o    dos tr&ecirc;s anos, percebe-se que apenas a Agrovale alcan&ccedil;ou desempenho    m&aacute;ximo. A Guarani, a Jalles Mac e a S&atilde;o Martinho s&atilde;o exatamente    as outras tr&ecirc;s melhores, depois das eficientes (com desempenho superior    a 90%). Na verdade, estas usinas foram as que melhor combinaram os <i>input</i>    (menor) e <i>outputs</i> (maiores). Assim, a primeira n&atilde;o precisa melhorar    em nada seu desempenho, enquanto as outras tr&ecirc;s precisam de pequenas melhorias    em seus indicadores para atingir efici&ecirc;ncia de 100%. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ainda no <a href="#q4">quadro    4</a>, nota-se que, em geral, a S&atilde;o Jos&eacute; Estiva apresenta &iacute;ndices    de efici&ecirc;ncia baix&iacute;ssimos em todos os anos. Esta &eacute; exatamente    a usina com menor desempenho socioambiental entre as analisadas. Esse resultado    demonstra que, comparativamente com as outras empresas do setor, o n&iacute;vel    de investimento que a usina tem na &aacute;rea socioambiental &eacute; insuficiente.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na &uacute;ltima    coluna do <a href="#q4">quadro 4</a>, tem-se um ranking consolidado para o per&iacute;odo    de an&aacute;lise, o qual aponta a posi&ccedil;&atilde;o relativa de cada usina    no que diz respeito ao desempenho socioambiental. Apesar de a Agrovale ser a    melhor empresa em termos socioambientais e ser apenas a 13ª em tamanho, percebe-se    que, em m&eacute;dia, o desempenho socioambiental das maiores usinas &eacute;    superior ao das menores, ao n&iacute;vel de signific&acirc;ncia de 10%, pelo    teste de desigualdade de Chebyshev, comparando o grupo das cinco maiores com    o das cinco menores, em termos de receita l&iacute;quida. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Da an&aacute;lise    dos <a href="#q5">quadros 5</a>, <a href="#q6">6</a> e <a href="#q7">7</a>,    percebe-se que as usinas de maior desempenho s&atilde;o aquelas que necessitam    de menores transforma&ccedil;&otilde;es em seus <i>outputs</i>. Ou seja, usinas    como a Agrovale, que &eacute; eficiente nos tr&ecirc;s anos e que, por isso,    n&atilde;o tem necessidade de mudan&ccedil;as nos n&iacute;veis de investimento    socioambientais, e outras com bons desempenhos, como a Guarani (eficiente em    dois dos tr&ecirc;s anos e a segunda maior em efici&ecirc;ncia m&eacute;dia    no per&iacute;odo), a Jalles Mac (terceira maior efici&ecirc;ncia m&eacute;dia    no per&iacute;odo) e a S&atilde;o Martinho (quarta maior efici&ecirc;ncia),    que precisam de pequenos ajustes em seus indicadores socioambientais, podem    ser destacadas como as melhores em termos relativos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por outro lado,    usinas como a S&atilde;o Jos&eacute; Estiva, Delta e Vista Alegre, que apresentam    &iacute;ndices de desempenho muito baixos, necessitam de grandes transforma&ccedil;&otilde;es    para alcan&ccedil;arem um desempenho compat&iacute;vel com seu n&iacute;vel    de receita.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vale mencionar    nesta an&aacute;lise usinas que j&aacute; mudaram radicalmente seu desempenho    socioambiental, melhorando consideravelmente sua atua&ccedil;&atilde;o. Nesse    sentido, destaca-se a Mandu e a S&atilde;o Manoel, que v&ecirc;m crescendo em    termos de desempenho socioambiental, obtendo, no caso da Mandu, efici&ecirc;ncia    nos dois &uacute;ltimos anos e, no caso da S&atilde;o Manoel, um crescimento    que culminou num desempenho de 100% em 2006. &Eacute; importante perceber a    melhoria relativa dessas empresas, que, apesar de aumentarem sua capacidade    de investimento (receita), elevaram ainda mais o impacto de suas a&ccedil;&otilde;es    socioambientais.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Uma outra an&aacute;lise    interessante gerada pelo uso da DEA &eacute; a de <i>benchmarking</i>. P&ocirc;de-se    perceber que a Agrovale &eacute; a usina que mais aparece como <i>benchmark</i>    para as outras em todas as an&aacute;lises. Isso se d&aacute; pelo fato de ser    uma usina de destaque, em termos de desempenho multicriterial, em rela&ccedil;&atilde;o    &agrave;s vari&aacute;veis estudadas no per&iacute;odo.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por &uacute;ltimo,    procederam-se duas an&aacute;lises sobre os resultados de cada ano em rela&ccedil;&atilde;o    &agrave;s vari&aacute;veis de <i>output</i>. A primeira foi dos pesos atribu&iacute;dos    aos vetores de desempenho, para saber com base em pesos iguais a zero as vari&aacute;veis    que estavam sendo &#147;desprezadas&#148; na an&aacute;lise de desempenho. Em    linhas gerais, quando uma vari&aacute;vel tem peso (u ou v) igual a zero, isso    representa que estas vari&aacute;veis s&atilde;o naturalmente problem&aacute;ticas    na obten&ccedil;&atilde;o dos &iacute;ndices de efici&ecirc;ncia. Como a modelagem    procura os melhores &iacute;ndices de desempenho, dadas as caracter&iacute;sticas    de <i>inputs</i> e <i>outputs</i>, para cada DMU, esta atribui zero a toda vari&aacute;vel    que possa atrapalhar o objetivo de maximizar a efici&ecirc;ncia. A segunda diz    respeito a uma an&aacute;lise da necessidade m&eacute;dia de melhoria nas vari&aacute;veis.    Para isso, observou-se o quanto cada vari&aacute;vel <i>output</i> precisava    melhorar na m&eacute;dia em cada DMU n&atilde;o eficiente, de modo a torn&aacute;-la    eficiente.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Destas duas an&aacute;lises,    p&ocirc;de-se identificar, ent&atilde;o, que o investimento ambiental era a    vari&aacute;vel <i>output</i> problem&aacute;tica, ou seja, a que mais aparecia    com peso zero e a que mais necessitava de incremento para chegar ao valor de    refer&ecirc;ncia.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por fim, no <a href="/img/revistas/resr/v48n1/10q08.gif">quadro    8</a>, tem-se uma vis&atilde;o geral do setor sob duas perspectivas: a situa&ccedil;&atilde;o    atual em termos socioambientais e a situa&ccedil;&atilde;o gerada pelos indicadores    propostos pela an&aacute;lise conduzida neste trabalho. Pela an&aacute;lise    do <a href="/img/revistas/resr/v48n1/10q08.gif">quadro 8</a>, nota-se o grau    de melhoria no aumento da m&eacute;dia e da mediana de investimentos sociais    internos e externos e ambientais. Al&eacute;m disso, o grau de dispers&atilde;o    relativo (DP/M&eacute;dia) diminuiu, mostrando que as usinas passam a ter um    comportamento mais coeso. Em rela&ccedil;&atilde;o ao ISI m&eacute;dio, percebe-se    uma melhoria em termos gerais de pouco mais de 50% em cada um dos tr&ecirc;s    anos. J&aacute; o ISE tem melhorias propostas na ordem de 35% para 2004 e de    cerca de 20% para 2005 e 2006. Por fim, o n&iacute;vel de investimento ambiental    aumentaria em torno de 70% em 2004 e aproximadamente 30% nos dois anos seguintes.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As informa&ccedil;&otilde;es    contidas nos <a href="/img/revistas/resr/v48n1/html/10q5a8.htm">quadros de 5    a 8</a> poderiam at&eacute; ser utilizadas na formula&ccedil;&atilde;o de pol&iacute;ticas    p&uacute;blicas que tivessem como foco regular a a&ccedil;&atilde;o socioambiental    das empresas do setor. A partir dos aspectos de melhorias tra&ccedil;ados pela    an&aacute;lise de <i>benchmarking</i> entre as empresas eficientes e n&atilde;o    eficientes, poder-se-ia planejar n&iacute;veis &oacute;timos de a&ccedil;&atilde;o    socioambiental nas perspectivas ambiental e social interna e externa. Com isso,    haveria garantia de que todo o setor estaria num mesmo n&iacute;vel de contribui&ccedil;&atilde;o    para as quest&otilde;es sociais e ambientais, ou seja, num mesmo patamar de    efici&ecirc;ncia socioambiental, considerando o n&iacute;vel de atividade da    empresa - atrav&eacute;s de sua receita - e os n&iacute;veis de investimentos    socioambientais.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Conclus&otilde;es&nbsp;</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Procurou-se analisar,    neste trabalho, o desempenho socioambiental de usinas processadoras de cana-de-a&ccedil;&uacute;car    no Brasil, no per&iacute;odo de 2004 a 2006. Os resultados mostram que as melhores    usinas - Agrovale, Guarani, Jalles Mac e S&atilde;o Martinho - s&atilde;o exatamente    aquelas que mais investem na &aacute;rea socioambiental. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ao mesmo tempo,    nota-se que v&aacute;rias usinas precisam melhorar bastante, como &eacute; o    caso da S&atilde;o Jos&eacute; Estiva, da Delta e da Vista Alegre, que obtiveram    os menores &iacute;ndices de desempenho socioambiental. Por&eacute;m, as usinas    com maiores efici&ecirc;ncias necessitam de pequenas altera&ccedil;&otilde;es    em seus indicadores socioambientais para atingirem a performance m&aacute;xima.    Al&eacute;m disso, observou-se que as melhores empresas em termos de desempenho    tamb&eacute;m eram, em m&eacute;dia, as maiores. Ou seja, as empresas maiores    tinham desempenhos socioambientais estatisticamente superiores.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em rela&ccedil;&atilde;o    aos indicadores socioambientais, observa-se que os investimentos ambientais    s&atilde;o aqueles que precisam de maiores incrementos na amostra analisada.    Isso demonstra que existe a possibilidade de melhorias de atua&ccedil;&atilde;o    das usinas neste item. Esse resultado surpreende, visto que, nesta atividade,    talvez fosse plaus&iacute;vel esperar que os investimentos ambientais fossem    mais importantes. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De modo geral,    nota-se que a resposta mais importante desta metodologia &eacute; a caracteriza&ccedil;&atilde;o    de uma medida de efici&ecirc;ncia, que faz com que a decis&atilde;o fique orientada    por um &uacute;nico indicador, constru&iacute;do a partir de v&aacute;rias abordagens    de desempenho diferentes. Vale ressaltar que isso facilita o processo decis&oacute;rio,    pois, em vez de considerar v&aacute;rios &iacute;ndices para concluir a respeito    do desempenho socioambiental da empresa ou da unidade sob an&aacute;lise, utiliza-se    apenas da medida de efici&ecirc;ncia da DEA. Al&eacute;m disso, existem outras    informa&ccedil;&otilde;es oriundas desta metodologia que podem ser utilizadas    para auxiliar a empresa na busca pela excel&ecirc;ncia socioambiental.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os resultados deste    estudo prop&otilde;em uma nova percep&ccedil;&atilde;o sobre o desempenho socioambiental    de empresas, que n&atilde;o se encontra dispon&iacute;vel aos gestores e ao    mercado em geral atrav&eacute;s dos m&eacute;todos tradicionais de an&aacute;lise    dos balan&ccedil;os sociais. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ou seja, a partir    de informa&ccedil;&otilde;es que n&atilde;o estariam dispon&iacute;veis pelas    t&eacute;cnicas convencionais, os resultados da an&aacute;lise envolt&oacute;ria    de dados podem proporcionar melhores condi&ccedil;&otilde;es de an&aacute;lise    da efici&ecirc;ncia da empresa frente &agrave; sociedade. Al&eacute;m disso,    a DEA mune a administra&ccedil;&atilde;o das empresas de informa&ccedil;&otilde;es    adicionais sobre os maiores determinantes de efici&ecirc;ncia ou inefici&ecirc;ncia,    partindo-se de vari&aacute;veis pr&eacute;-selecionadas, pois oferece uma an&aacute;lise    de <i>benchmarking</i>, com a qual o gestor pode avaliar as altera&ccedil;&otilde;es    necess&aacute;rias para que a organiza&ccedil;&atilde;o possa se tornar eficiente    em termos de competitividade socioambiental. </font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por fim, este assunto    n&atilde;o se encontra encerrado, pois ainda h&aacute; muito a ser explorado    desta metodologia na an&aacute;lise e avalia&ccedil;&atilde;o do desempenho    socioambiental de empresas, que &eacute; uma &aacute;rea ainda nos prim&oacute;rdios    de sua constru&ccedil;&atilde;o. </font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>6. Refer&ecirc;ncias    Bibliogr&aacute;ficas&nbsp;</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ABREU, M. C. S.;    SOARES, F. A.; CASTRO J&Uacute;NIOR, O. V. Efeito da conduta social sobre a    performance econ&ocirc;mica dentro do modelo ECP Triplo: evid&ecirc;ncias na    ind&uacute;stria t&ecirc;xtil brasileira. In: SIMP&Oacute;SIO DE ADMINISTRA&Ccedil;&Atilde;O    DA PRODU&Ccedil;&Atilde;O, LOG&Iacute;STICA E OPERA&Ccedil;&Otilde;ES INTERNACIONAIS,    9, 2006. <i>Anais do IX SIMPOI</i>. S&atilde;o Paulo: FGV/EAESP, 2006. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000135&pid=S0103-2003201000010001000001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ASHLEY, P. A. <i>&Eacute;tica    e responsabilidade social nos neg&oacute;cios</i>. S&atilde;o Paulo: Saraiva,    2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000137&pid=S0103-2003201000010001000002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BERNARDO, D. C.    R.; PESSANHA, G. R. G.; SILVA, S. S.; AVILA, R. C. Investimentos em responsabilidade    social empresarial criam valor para as empresas? Um estudo das companhias de    capital aberto no Brasil. In: SEMIN&Aacute;RIOS EM ADMINISTRA&Ccedil;&Atilde;O,    9, 2006, S&atilde;o Paulo. <i>Anais do IX Semead</i>. S&atilde;o Paulo: FEA/USP,    2006, 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000139&pid=S0103-2003201000010001000003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BERTAGNOLLI, D.    D. O.; OTT, E.; DAMACENA, C. Estudo sobre a influ&ecirc;ncia dos investimentos    sociais e ambientais no desempenho econ&ocirc;mico das empresas. In: CONGRESSO    USP DE CONTROLADORIA E CONTABILIDADE, 6, 2006. S&atilde;o Paulo. <i>Anais do    VI Congresso USP de Controladoria e Contabilidade</i>. S&atilde;o Paulo: FEA/USP,    2006. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0103-2003201000010001000004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">CHARNES, A.; COOPER,    W. W.; LEWIN, A. Y.; SEIFORD, L. M. <i>Data Envelopment Analysis</i>. 2. ed.    Boston: KAP, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S0103-2003201000010001000005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">COELLI, T.; RAO,    D. S. P.; BALTESE, G. E. <i>An Introduction to Efficiency and Productivity Analysis</i>.    Boston: KAP, 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0103-2003201000010001000006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DIAS, L. N. S.;    SIQUEIRA, J. R. M. An&aacute;lise da evolu&ccedil;&atilde;o qualitativa dos    balan&ccedil;os sociais da Petrobras no per&iacute;odo de 2000 a 2004. In: CONGRESSO    USP DE CONTROLADORIA E CONTABILIDADE, 6, 2006, S&atilde;o Paulo. <i>Anais do    VI Congresso USP de Controladoria e Contabilidade</i>. S&atilde;o Paulo: FEA/USP,    2006. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0103-2003201000010001000007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DONNELY Jr., J.    H.; GIBSON, J. L.; IVANCEVICH, J. M. <i>Fundamentos de Direcci&oacute;n y Administraci&oacute;n    de Empresas</i>. M&eacute;xico: Irwin, 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S0103-2003201000010001000008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">DRUCKER, P. <i>A    Administra&ccedil;&atilde;o</i>. S&atilde;o Paulo: Nobel, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0103-2003201000010001000009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FREEMAN, R. E.    The politics of stakeholders theory: some future directions. <i>Business Ethics    Quarterly</i>. v. 4, n. 4, p. 409-422, 1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003201000010001000010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FRIEDMAN, M. The    social responsibility of business is increase its profits. <i>New York Times    Magazine</i>. n. 33, p. 122-126, set 1970.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0103-2003201000010001000011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">FRIEDMAN, M. <i>Capitalismo    e Liberdade</i>. S&atilde;o Paulo: Abril Cultural, 1984.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003201000010001000012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INSTITUTO ETHOS    DE EMPRESAS E RESPONSABILIDADE SOCIAL. <i>Responsabilidade social empresarial    nos processos gerenciais e nas cadeias de valor</i>. S&atilde;o Paulo: Ethos,    2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003201000010001000013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">KAZMIER, L. J.    <i>Estat&iacute;stica Aplicada &agrave; Economia e Administra&ccedil;&atilde;o</i>.    S&atilde;o Paulo: McGraw-Hill, 1982.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000161&pid=S0103-2003201000010001000014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LEA, D. Corporate    and public responsibility, stakeholder theory and the developing world. <i>Business    Ethics: A European Review</i>. v.8, n.3, p.151-162, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000163&pid=S0103-2003201000010001000015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">LINS, M. P. &nbsp;E.;    MEZA, L. &Acirc;. <i>An&aacute;lise Envolt&oacute;ria de Dados e Perspectivas    de Integra&ccedil;&atilde;o no Ambiente de Apoio &agrave; Decis&atilde;o</i>.    Rio de Janeiro: COPPE/UFRJ, 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000165&pid=S0103-2003201000010001000016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MACEDO, M. A. S.;    C&Iacute;POLA, F. C. Social and environmental performance analysis: using DEA    in the case study of six major siderurgical companies in Brazil. In: SIMP&Oacute;SIO    DE ADMINISTRA&Ccedil;&Atilde;O DA PRODU&Ccedil;&Atilde;O, LOG&Iacute;STICA E    OPERA&Ccedil;&Otilde;ES INTERNACIONAIS, 10, 2007. <i>Anais do X SIMPOI</i>.    Rio de Janeiro: FGV/EAESP, 2007. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000167&pid=S0103-2003201000010001000017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MACEDO, M. A. S.;    SOUSA, A. C.; SOUSA, A. C. C.; C&Iacute;POLA, F. C. Desempenho de empresas socialmente    respons&aacute;veis: uma an&aacute;lise por &iacute;ndices cont&aacute;bil-financeiros.    <i>Revista Produ&ccedil;&atilde;o Online</i>, ed. Especial, p. 1-22, dez 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000169&pid=S0103-2003201000010001000018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MACHADO, R. T.    M.; BERNARDO, D. C. R.; PEREIRA, N. C.; PESSANHA, G. R. G. Investimentos ambientais    e sociais externos: um estudo comparativo das companhias de capital aberto no    Brasil. In: ENCONTRO DA ASSOCIA&Ccedil;&Atilde;O NACIONAL DE P&Oacute;S-GRADUA&Ccedil;&Atilde;O    E PESQUISA EM ADMINISTRA&Ccedil;&Atilde;O, 30, 2006, Salvador. <i>Anais do XXX    EnANPAD</i>. Salvador: ANPAD, 2006, 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000171&pid=S0103-2003201000010001000019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MELO NETO, F. P.;    FROES, C. Q. <i>Responsabilidade Social e Cidadania Empresarial: a administra&ccedil;&atilde;o    do terceiro setor</i>. Rio de Janeiro: Qualitymark, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000173&pid=S0103-2003201000010001000020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MEZA, L. A.; BIONDI    NETO, L; SOARES DE MELLO, J. C. C. B.; GOMES. E. G.; COELHO, P. H. G. SIAD -    Sistema Integrado de Apoio &agrave; Decis&atilde;o: uma implementa&ccedil;&atilde;o    computacional de modelos de an&aacute;lise de envolt&oacute;ria de dados. In:    SIMP&Oacute;SIO DE PESQUISA OPERACIONAL DA MARINHA, 6, 2003, Rio de Janeiro.    <i>Anais do VI SPOLM</i>. Rio de Janeiro: CASNAV, 2003. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000175&pid=S0103-2003201000010001000021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MILANI FILHO, M.    A. F. Responsabilidade social e investimento social privado: entre o discurso    e a evidencia&ccedil;&atilde;o. In: CONGRESSO USP DE CONTROLADORIA E CONTABILIDADE,    7, 2007, S&atilde;o Paulo. <i>Anais do VII Congresso USP de Controladoria e    Contabilidade</i>. S&atilde;o Paulo: FEA/USP, 2007. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000177&pid=S0103-2003201000010001000022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PARENTE, J.; GELMAN,    J. J. <i>Varejo e responsabilidade social, vis&atilde;o estrat&eacute;gica e    pr&aacute;ticas no Brasil</i>. Porto Alegre: Bookman, 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000179&pid=S0103-2003201000010001000023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PARENTE, J.; TEREPINS,    F. M. Responsabilidade Social Empresarial do Varejo no Brasil: um estudo multicasos    em empresas de grande porte. In: SIMP&Oacute;SIO DE ADMINISTRA&Ccedil;&Atilde;O    DA PRODU&Ccedil;&Atilde;O, LOG&Iacute;STICA E OPERA&Ccedil;&Otilde;ES INTERNACIONAIS,    9, 2006, S&atilde;o Paulo. <i>Anais do IX SIMPOI</i>. S&atilde;o Paulo: FGV/EAESP,    2006. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000181&pid=S0103-2003201000010001000024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PENA, R. P. M.;    COELHO, H. M. Q.; CARVALHO NETO, A. M.; TEODOSIO, A. S.; DIAS, A. S.; FERNANDES,    T. Responsabilidade social empresarial e estrat&eacute;gia: um estudo sobre    a gest&atilde;o do p&uacute;blico interno em empresas signat&aacute;rias do    Global Compact. In: ENCONTRO DE ESTUDOS EM ESTRAT&Eacute;GIA, 2, 2005. <i>Anais    do II 3 E&acute;s</i>. Rio de Janeiro: ANPAD, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000183&pid=S0103-2003201000010001000025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PUPPIM, J. A. O.    Uma avalia&ccedil;&atilde;o dos balan&ccedil;os sociais das 500 maiores. <i>RAE    Eletr&ocirc;nica</i>. v. 4, n. 1, 2005. Dispon&iacute;vel em &lt;<a href="http://www.rae.com.br/eletronica" target="_blank">www.rae.com.br/eletronica</a>&gt;    Acesso em 10 Jan 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000185&pid=S0103-2003201000010001000026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">REZENDE, I. A.    C.; SANTOS, L. S. R. An&aacute;lise da Rentabilidade e Performance dos Investimentos    Socialmente Respons&aacute;veis: um estudo emp&iacute;rico no mercado brasileiro.    In: ENCONTRO DA ASSOCIA&Ccedil;&Atilde;O NACIONAL DE P&Oacute;S-GRADUA&Ccedil;&Atilde;O    E PESQUISA EM ADMINISTRA&Ccedil;&Atilde;O, 30, 2006, Salvador. <i>Anais do XXX    EnANPAD</i>. Salvador: ANPAD, 2006. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000187&pid=S0103-2003201000010001000027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TENORIO, F. G.    <i>Responsabilidade Social Empresarial</i>: teoria e pr&aacute;tica. Rio de    Janeiro: FGV, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000189&pid=S0103-2003201000010001000028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VELLANI, C. L.;    RIBEIR&Atilde;O, M. S. A Sustentabilidade e a Contabilidade. In: SIMP&Oacute;SIO    DE ADMINISTRA&Ccedil;&Atilde;O DA PRODU&Ccedil;&Atilde;O, LOG&Iacute;STICA E    OPERA&Ccedil;&Otilde;ES INTERNACIONAIS, 9, 2006, S&atilde;o Paulo. <i>Anais    do IX SIMPOI</i>. S&atilde;o Paulo: FGV/EAESP, 2006. 1 CD.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000191&pid=S0103-2003201000010001000029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VERGARA, S. C.    <i>Projetos e Relat&oacute;rios de Pesquisa em Administra&ccedil;&atilde;o</i>.    5. ed. S&atilde;o Paulo: Atlas, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000193&pid=S0103-2003201000010001000030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ABREU]]></surname>
+<given-names><![CDATA[M. C. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES]]></surname>
+<given-names><![CDATA[F. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CASTRO JÚNIOR]]></surname>
+<given-names><![CDATA[O. V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Efeito da conduta social sobre a performance econômica dentro do modelo ECP Triplo: evidências na indústria têxtil brasileira]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2006</year>
+<conf-name><![CDATA[9IX SIMPÓSIO DE ADMINISTRAÇÃO DA PRODUÇÃO, LOGÍSTICA E OPERAÇÕES INTERNACIONAISSIMPOI]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[FGVEAESP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ASHLEY]]></surname>
+<given-names><![CDATA[P. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ética e responsabilidade social nos negócios]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Saraiva]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERNARDO]]></surname>
+<given-names><![CDATA[D. C. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PESSANHA]]></surname>
+<given-names><![CDATA[G. R. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[S. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AVILA]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Investimentos em responsabilidade social empresarial criam valor para as empresas?: Um estudo das companhias de capital aberto no Brasil]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2006</year>
+<conf-name><![CDATA[9IX SEMINÁRIOS EM ADMINISTRAÇÃOSemead]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>São Paulo </conf-loc>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[FEA/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BERTAGNOLLI]]></surname>
+<given-names><![CDATA[D. D. O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OTT]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DAMACENA]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Estudo sobre a influência dos investimentos sociais e ambientais no desempenho econômico das empresas]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2006</year>
+<conf-name><![CDATA[6VI CONGRESSO USP DE CONTROLADORIA E CONTABILIDADECongresso USP de Controladoria e Contabilidade]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[São PauloSão Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[FEA/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHARNES]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COOPER]]></surname>
+<given-names><![CDATA[W. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEWIN]]></surname>
+<given-names><![CDATA[A. Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SEIFORD]]></surname>
+<given-names><![CDATA[L. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Data Envelopment Analysis]]></source>
+<year>1994</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[KAP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COELLI]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RAO]]></surname>
+<given-names><![CDATA[D. S. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BALTESE]]></surname>
+<given-names><![CDATA[G. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An Introduction to Efficiency and Productivity Analysis]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[KAP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DIAS]]></surname>
+<given-names><![CDATA[L. N. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SIQUEIRA]]></surname>
+<given-names><![CDATA[J. R. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise da evolução qualitativa dos balanços sociais da Petrobras no período de 2000 a 2004]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2006</year>
+<conf-name><![CDATA[6VI CONGRESSO USP DE CONTROLADORIA E CONTABILIDADECongresso USP de Controladoria e Contabilidade]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>São Paulo </conf-loc>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[FEA/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DONNELY Jr.]]></surname>
+<given-names><![CDATA[J. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GIBSON]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IVANCEVICH]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fundamentos de Dirección y Administración de Empresas]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[México ]]></publisher-loc>
+<publisher-name><![CDATA[Irwin]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRUCKER]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Administração]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Nobel]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREEMAN]]></surname>
+<given-names><![CDATA[R. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The politics of stakeholders theory: some future directions]]></article-title>
+<source><![CDATA[Business Ethics Quarterly]]></source>
+<year>1994</year>
+<volume>4</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>409-422</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRIEDMAN]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The social responsibility of business is increase its profits]]></article-title>
+<source><![CDATA[New York Times Magazine]]></source>
+<year>set </year>
+<month>19</month>
+<day>70</day>
+<numero>33</numero>
+<issue>33</issue>
+<page-range>122-126</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FRIEDMAN]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Capitalismo e Liberdade]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Abril Cultural]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<collab>INSTITUTO ETHOS DE EMPRESAS E RESPONSABILIDADE SOCIAL</collab>
+<source><![CDATA[Responsabilidade social empresarial nos processos gerenciais e nas cadeias de valor]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Ethos]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KAZMIER]]></surname>
+<given-names><![CDATA[L. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estatística Aplicada à Economia e Administração]]></source>
+<year>1982</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEA]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Corporate and public responsibility, stakeholder theory and the developing world]]></article-title>
+<source><![CDATA[Business Ethics: A European Review]]></source>
+<year>1999</year>
+<volume>8</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>151-162</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LINS]]></surname>
+<given-names><![CDATA[M. P. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MEZA]]></surname>
+<given-names><![CDATA[L. Â.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise Envoltória de Dados e Perspectivas de Integração no Ambiente de Apoio à Decisão]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[COPPE/UFRJ]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACEDO]]></surname>
+<given-names><![CDATA[M. A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CÍPOLA]]></surname>
+<given-names><![CDATA[F. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Social and environmental performance analysis: using DEA in the case study of six major siderurgical companies in Brazil]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2007</year>
+<conf-name><![CDATA[10X SIMPÓSIO DE ADMINISTRAÇÃO DA PRODUÇÃO, LOGÍSTICA E OPERAÇÕES INTERNACIONAISSIMPOI]]></conf-name>
+<conf-date>2007</conf-date>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV/EAESP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACEDO]]></surname>
+<given-names><![CDATA[M. A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUSA]]></surname>
+<given-names><![CDATA[A. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOUSA]]></surname>
+<given-names><![CDATA[A. C. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CÍPOLA]]></surname>
+<given-names><![CDATA[F. C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Desempenho de empresas socialmente responsáveis: uma análise por índices contábil-financeiros]]></article-title>
+<source><![CDATA[Revista Produção Online]]></source>
+<year>dez </year>
+<month>20</month>
+<day>07</day>
+<page-range>1-22</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MACHADO]]></surname>
+<given-names><![CDATA[R. T. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERNARDO]]></surname>
+<given-names><![CDATA[D. C. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[N. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PESSANHA]]></surname>
+<given-names><![CDATA[G. R. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Investimentos ambientais e sociais externos: um estudo comparativo das companhias de capital aberto no Brasil]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2006</year>
+<conf-name><![CDATA[30XXX ENCONTRO DA ASSOCIAÇÃO NACIONAL DE PÓS-GRADUAÇÃO E PESQUISA EM ADMINISTRAÇÃOEnANPAD]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>Salvador </conf-loc>
+<publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[ANPAD]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MELO NETO]]></surname>
+<given-names><![CDATA[F. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FROES]]></surname>
+<given-names><![CDATA[C. Q.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Responsabilidade Social e Cidadania Empresarial: a administração do terceiro setor]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Qualitymark]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MEZA]]></surname>
+<given-names><![CDATA[L. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BIONDI NETO]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SOARES DE MELLO]]></surname>
+<given-names><![CDATA[J. C. C. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOMES]]></surname>
+<given-names><![CDATA[E. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[P. H. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[SIAD - Sistema Integrado de Apoio à Decisão: uma implementação computacional de modelos de análise de envoltória de dados]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2003</year>
+<conf-name><![CDATA[6VI SIMPÓSIO DE PESQUISA OPERACIONAL DA MARINHASPOLM]]></conf-name>
+<conf-date>2003</conf-date>
+<conf-loc>Rio de Janeiro </conf-loc>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[CASNAV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MILANI FILHO]]></surname>
+<given-names><![CDATA[M. A. F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Responsabilidade social e investimento social privado: entre o discurso e a evidenciação]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2007</year>
+<conf-name><![CDATA[7VII CONGRESSO USP DE CONTROLADORIA E CONTABILIDADECongresso USP de Controladoria e Contabilidade]]></conf-name>
+<conf-date>2007</conf-date>
+<conf-loc>São Paulo </conf-loc>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[FEA/USP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PARENTE]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GELMAN]]></surname>
+<given-names><![CDATA[J. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Varejo e responsabilidade social, visão estratégica e práticas no Brasil]]></source>
+<year>2006</year>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+<publisher-name><![CDATA[Bookman]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PARENTE]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEREPINS]]></surname>
+<given-names><![CDATA[F. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Responsabilidade Social Empresarial do Varejo no Brasil: um estudo multicasos em empresas de grande porte]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2006</year>
+<conf-name><![CDATA[9IX SIMPÓSIO DE ADMINISTRAÇÃO DA PRODUÇÃO, LOGÍSTICA E OPERAÇÕES INTERNACIONAISSIMPOI]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>São Paulo </conf-loc>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[FGVEAESP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PENA]]></surname>
+<given-names><![CDATA[R. P. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[COELHO]]></surname>
+<given-names><![CDATA[H. M. Q.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CARVALHO NETO]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEODOSIO]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[DIAS]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FERNANDES]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Responsabilidade social empresarial e estratégia: um estudo sobre a gestão do público interno em empresas signatárias do Global Compact]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2005</year>
+<conf-name><![CDATA[2 ENCONTRO DE ESTUDOS EM ESTRATÉGIA]]></conf-name>
+<conf-date>2005</conf-date>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[ANPAD]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PUPPIM]]></surname>
+<given-names><![CDATA[J. A. O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Uma avaliação dos balanços sociais das 500 maiores]]></article-title>
+<source><![CDATA[RAE Eletrônica]]></source>
+<year>2005</year>
+<volume>4</volume>
+<numero>1</numero>
+<issue>1</issue>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[REZENDE]]></surname>
+<given-names><![CDATA[I. A. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[L. S. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Análise da Rentabilidade e Performance dos Investimentos Socialmente Responsáveis: um estudo empírico no mercado brasileiro]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2006</year>
+<conf-name><![CDATA[30XXX ENCONTRO DA ASSOCIAÇÃO NACIONAL DE PÓS-GRADUAÇÃO E PESQUISA EM ADMINISTRAÇÃOEnANPAD]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>Salvador </conf-loc>
+<publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+<publisher-name><![CDATA[ANPAD]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TENORIO]]></surname>
+<given-names><![CDATA[F. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Responsabilidade Social Empresarial: teoria e prática]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VELLANI]]></surname>
+<given-names><![CDATA[C. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RIBEIRÃO]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A Sustentabilidade e a Contabilidade]]></article-title>
+<source><![CDATA[Anais]]></source>
+<year>2006</year>
+<conf-name><![CDATA[9IX SIMPÓSIO DE ADMINISTRAÇÃO DA PRODUÇÃO, LOGÍSTICA E OPERAÇÕES INTERNACIONAISSIMPOI]]></conf-name>
+<conf-date>2006</conf-date>
+<conf-loc>São Paulo </conf-loc>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[FGVEAESP]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VERGARA]]></surname>
+<given-names><![CDATA[S. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Projetos e Relatórios de Pesquisa em Administração]]></source>
+<year>2004</year>
+<edition>5</edition>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Atlas]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

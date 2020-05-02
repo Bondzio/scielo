@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032014000400006</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032014000400006</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[A distribuição normal-assimétrica como modelo para produtividade de milho aplicada ao seguro agrícola]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[Caroline Oliveira]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Scalon]]></surname>
+<given-names><![CDATA[João Domingos]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ozaki]]></surname>
+<given-names><![CDATA[Vitor Augusto]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,CEFET/RJ Centro Federal de Educação Tecnológica Celso Suckow da Fonseca ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidade Federal de Lavras Departamento de Ciências Exatas ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,USP Escola Superior de Agricultura Luiz de Queiroz Departamento de Economia, Administração e Sociologia]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>52</volume>
+<numero>4</numero>
+<fpage>725</fpage>
+<lpage>742</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032014000400006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032014000400006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032014000400006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O seguro agrícola comercializado no Brasil usa como parâmetro a produtividade agrícola média municipal dos últimos quatro ou cinco anos para se determinar a produtividade garantida. Diversos pesquisadores consideram que usar um modelo probabilístico para a distribuição de produtividade agrícola é uma metodologia mais adequada para a precificação de risco. Este estudo propõe a distribuição normal-assimétrica como uma alternativa à distribuição normal para modelar a distribuição da produtividade agrícola no Brasil. Foram analisadas séries de produtividade de milho, no período de 1981 a 2007, em 30 municípios do Paraná. A distribuição normal-assimétrica apresentou melhores ajustes do que a distribuição normal para a grande maioria dos municípios e, consequentemente, acarretou melhores estimativas para o pagamento esperado do seguro agrícola.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The crop insurance sold in Brazil is estimated using the average of the municipal agricultural productivity of the last four or five years. Many researchers believe that using a probabilistic model for the distribution of agricultural productivity is a better methodology for this purpose. This study advocates using the skew-normal distribution as an alternative to the normal distribution to model the distribution of agricultural productivity in Brazil. We analyzed series of corn yield from 1981 to 2007, in 30 counties in Paraná State, Brazil. The skew-normal distribution showed better fits than the normal distribution for the vast majority of the counties, and, consequently, led to better estimates for the expected payment of crop insurance.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[adequabilidade do ajuste]]></kwd>
+<kwd lng="pt"><![CDATA[APH]]></kwd>
+<kwd lng="pt"><![CDATA[pagamento esperado]]></kwd>
+<kwd lng="pt"><![CDATA[séries temporais]]></kwd>
+<kwd lng="en"><![CDATA[goodness of fit]]></kwd>
+<kwd lng="en"><![CDATA[APH]]></kwd>
+<kwd lng="en"><![CDATA[expected payment]]></kwd>
+<kwd lng="en"><![CDATA[time series]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><font size="4" face="Verdana"><b><a name="title"></a>A distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica como modelo para produtividade de milho aplicada ao seguro agr&iacute;cola<a href="#nt"><sup>1</sup></a></b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><b>Caroline Oliveira Santos<sup>I</sup>; Jo&atilde;o Domingos Scalon<sup>II</sup>; Vitor Augusto Ozaki<sup>III</sup></b></font></p>     <p><font size="2" face="Verdana"><sup>I</sup>Professora do Centro Federal de Educa&ccedil;&atilde;o Tecnol&oacute;gica Celso Suckow da Fonseca (CEFET/RJ). E&#45;mail: <a href="mailto:carolineoliviera@yahoo.com.br">carolineoliviera@yahoo.com.br</a>    <br>   <sup>II</sup>Professor do Departamento de Ci&ecirc;ncias Exatas da Universidade Federal de Lavras (UFLA). E&#45;mail: <a href="mailto:scalon@dex.ufla.br">scalon@dex.ufla.br</a>    <br>   <sup> III</sup>Professor do Departamento de Economia, Administra&ccedil;&atilde;o e Sociologia da Escola Superior de Agricultura Luiz de Queiroz (ESALQ/USP) e Coordenador do GRUPO GESER &#150; Gest&atilde;o em Seguros e Riscos. E&#45;mail: <a href="mailto:vitorozaki@gmail.com">vitorozaki@gmail.com</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">O seguro agr&iacute;cola comercializado no Brasil usa como par&acirc;metro a produtividade agr&iacute;cola m&eacute;dia municipal dos &uacute;ltimos quatro ou cinco anos para se determinar a produtividade garantida. Diversos pesquisadores consideram que usar um modelo probabil&iacute;stico para a distribui&ccedil;&atilde;o de produtividade agr&iacute;cola &eacute; uma metodologia mais adequada para a precifica&ccedil;&atilde;o de risco. Este estudo prop&otilde;e a distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica como uma alternativa &agrave; distribui&ccedil;&atilde;o normal para modelar a distribui&ccedil;&atilde;o da produtividade agr&iacute;cola no Brasil. Foram analisadas s&eacute;ries de produtividade de milho, no per&iacute;odo de 1981 a 2007, em 30 munic&iacute;pios do Paran&aacute;. A distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica apresentou melhores ajustes do que a distribui&ccedil;&atilde;o normal para a grande maioria dos munic&iacute;pios e, consequentemente, acarretou melhores estimativas para o pagamento esperado do seguro agr&iacute;cola.</font></p>     <p><font size="2" face="Verdana"><b>Palavras&#45;chaves:</b> adequabilidade do ajuste, APH, pagamento esperado, s&eacute;ries temporais.</font></p> <hr size="1" noshade>     <p><font size="2" face="Verdana"><b>ABSTRACT</B></font></p>     <p><font size="2" face="Verdana">The crop insurance sold in Brazil is estimated using the average of the municipal agricultural productivity of the last four or five years. Many researchers believe that using a probabilistic model for the distribution of agricultural productivity is a better methodology for this purpose. This study advocates using the skew&#45;normal distribution as an alternative to the normal distribution to model the distribution of agricultural productivity in Brazil. We analyzed series of corn yield from 1981 to 2007, in 30 counties in Paran&aacute; State, Brazil. The skew&#45;normal distribution showed better fits than the normal distribution for the vast majority of the counties, and, consequently, led to better estimates for the expected payment of crop insurance.</font></p>     <p><font size="2" face="Verdana"><b>Key&#45;words:</b> goodness of fit, APH, expected payment, time series.    <br>   <b>Classifica&ccedil;&atilde;o JEL:</b> C22, Q19.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     <p><font size="2" face="Verdana">A agricultura &eacute; uma das mais antigas atividades desempenhadas pelo ser humano. O desenvolvimento da agricultura fez com que ela se tornasse um grande neg&oacute;cio, fundamental para a exist&ecirc;ncia humana. A agricultura &eacute; uma atividade desprovida de mecanismos de defesa contra ocorr&ecirc;ncias que fogem ao controle do produtor rural. As pragas e os eventos clim&aacute;ticos severos podem determinar uma queda na produtividade agr&iacute;cola esperada. Conforme afirma Ozaki (2005), a quebra de safra pode lesar n&atilde;o s&oacute; o produtor atingido, mas a din&acirc;mica econ&ocirc;mica de toda uma regi&atilde;o ou, at&eacute; mesmo, de um pa&iacute;s, dependendo de qu&atilde;o bruscos e abrangentes sejam o evento clim&aacute;tico ou a ocorr&ecirc;ncia de doen&ccedil;as e pragas.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">A queda na produ&ccedil;&atilde;o agr&iacute;cola cria s&eacute;rios problemas para produtores que adquiriram empr&eacute;stimo para custeio da safra, desencorajando&#45;os a continuar na atividade. Por este motivo &eacute; importante que o governo atente para o equil&iacute;brio do mercado de produtos agr&iacute;colas, assegurando pre&ccedil;os m&iacute;nimos para esses produtos. Os produtores desenvolveram alguns mecanismos de defesa e atenua&ccedil;&atilde;o do risco, tais como a diversifica&ccedil;&atilde;o de culturas, a diversifica&ccedil;&atilde;o espacial e intersetorial e a utiliza&ccedil;&atilde;o de seguros (OZAKI, 2005).</font></p>     <p><font size="2" face="Verdana">Ozaki (2006) afirma que o seguro &eacute; uma das formas mais eficazes de se transferir o risco dos produtores para outros agentes econ&ocirc;micos. Tarifas precisas s&atilde;o essenciais para o bom desenvolvimento de um programa de seguros. Os pr&ecirc;mios de seguro se destinam a cobrir perdas ao longo do tempo. O que a seguradora procura fazer &eacute; estimar rendimentos de safras futuras, no intuito de prever as perdas esperadas e pagamentos.</font></p>     <p><font size="2" face="Verdana">Desde 2003, os produtores rurais brasileiros est&atilde;o tendo maiores incentivos do governo federal, com a implementa&ccedil;&atilde;o do Programa de Subven&ccedil;&atilde;o ao Pr&ecirc;mio do Seguro Rural. Este programa visa reduzir o custo do seguro para o produtor rural, auxiliando&#45;o com a subven&ccedil;&atilde;o de um percentual do valor do pr&ecirc;mio, incentivando e proporcionando, aos mesmos, maior estabilidade de renda. Estes incentivos geram condi&ccedil;&otilde;es favor&aacute;veis para o crescimento do setor de seguro agr&iacute;cola, entretanto exige o desenvolvimento de meios para quantificar e precificar este tipo de seguro.</font></p>     <p><font size="2" face="Verdana">O seguro agr&iacute;cola tem algumas peculiaridades que o diferencia de outros tipos de seguro, tais como falta de dados, defici&ecirc;ncia de normatiza&ccedil;&atilde;o e/ou ag&ecirc;ncia normatizadora, dif&iacute;cil precifica&ccedil;&atilde;o, elevada exposi&ccedil;&atilde;o &agrave;s cat&aacute;strofes, alto custo de fiscaliza&ccedil;&atilde;o e peritagem. Tais peculiaridades fazem com que o seguro agr&iacute;cola tenha pr&ecirc;mios elevados. O que desestimula o desenvolvimento do mercado, tornando&#45;o desinteressante para a iniciativa privada. </font></p>     <p><font size="2" face="Verdana">O seguro agr&iacute;cola mais vendido no Brasil &eacute; o seguro de custeio, que assegura ao produtor uma produtividade m&iacute;nima com um pre&ccedil;o garantido. Este seguro tem como estimador a produtividade agr&iacute;cola m&eacute;dia municipal dos &uacute;ltimos quatro anos, fato que pode causar distor&ccedil;&otilde;es no c&aacute;lculo do pr&ecirc;mio do seguro.</font></p>     <p><font size="2" face="Verdana">Al&eacute;m disso, estudos tamb&eacute;m apontam que se as taxas de pr&ecirc;mio n&atilde;o est&atilde;o bem definidas, a seguradora pode ter problemas de sele&ccedil;&atilde;o adversa e risco moral (COBLE <i>et al</i>., 1997; JUST, CALVIN e QUIGGIN, 1999; OZAKI, 2005). Conforme descrito por Ozaki (2005), a sele&ccedil;&atilde;o adversa ocorre quando a seguradora faz seguro para propriedades rurais com alta probabilidade de ocorr&ecirc;ncia de sinistros, n&atilde;o conseguindo distinguir entre os diferentes grupos de risco. A sele&ccedil;&atilde;o adversa pode levar a seguradora &agrave; ru&iacute;na. O risco moral se refere ao fato de que a decis&atilde;o &oacute;tima do segurado pode mudar em fun&ccedil;&atilde;o da aquisi&ccedil;&atilde;o do seguro. Ozaki (2005) afirma, ainda, que, de modo geral, o risco moral ocorre no seguro agr&iacute;cola quando a firma seguradora &eacute; incapaz de observar se o produtor utilizou adequadamente ou n&atilde;o o fator de produ&ccedil;&atilde;o (fertilizantes, defensivos, etc.).</font></p>     <p><font size="2" face="Verdana">Ao inv&eacute;s de usar a produtividade agr&iacute;cola m&eacute;dia dos &uacute;ltimos anos, v&aacute;rios pesquisadores prop&otilde;em o emprego de modelos probabil&iacute;sticos que possam ser ajustados aos dados de produtividade de determinada cultura obtidos em um longo per&iacute;odo de tempo (ATWOOD <i>et al</i>., 2002, 2003; CARRIQUIRY, BABCOCK e HART, 2008; JUST e WENINGER, 1999; SHERRICK <i>et al</i>., 2004). A partir desse modelo probabil&iacute;stico pode ser feita a previs&atilde;o dos pagamentos esperados para o ano subsequente aos dados da s&eacute;rie. Esses pesquisadores argumentam que uma modelagem precisa do comportamento dos rendimentos para diversas culturas por distribui&ccedil;&otilde;es de probabilidade &eacute; de fundamental import&acirc;ncia para o c&aacute;lculo das taxas de pr&ecirc;mio do seguro. Assim, devem&#45;se concentrar esfor&ccedil;os no sentido de identificar a distribui&ccedil;&atilde;o que melhor representa os rendimentos da produtividade agr&iacute;cola para cada tipo de cultura.</font></p>     <p><font size="2" face="Verdana">O c&aacute;lculo dos pagamentos esperados e/ou taxas para o seguro agr&iacute;cola pode levar em conta distribui&ccedil;&otilde;es de produtividade param&eacute;tricas (SHERRICK <i>et al</i>., 2004) e ou n&atilde;o&#45;param&eacute;tricas (OZAKI, GOODWIN e SHIROTA, 2008; TURVEY e ZHAO, 1999). A grande vantagem das densidades param&eacute;tricas &eacute; que, em geral, seu ajuste n&atilde;o requer uma s&eacute;rie de produtividade muito longa. Os m&eacute;todos n&atilde;o&#45;param&eacute;tricos, apesar de serem mais flex&iacute;veis para descrever diferentes formas de densidades, n&atilde;o s&atilde;o aplic&aacute;veis quando h&aacute; limita&ccedil;&atilde;o de dados.</font></p>     <p><font size="2" face="Verdana">A import&acirc;ncia das distribui&ccedil;&otilde;es de produtividade foi analisada por Zanini <i>et al</i>. (2001), sob o ponto de vista econ&ocirc;mico, tendo em vista os valores do seguro. Neste estudo, os autores tiram proveito de um conjunto de dados de alta qualidade, que cont&eacute;m um n&uacute;mero relativamente grande de fazendas observadas em um longo per&iacute;odo de tempo, na maior regi&atilde;o produtora de milho e soja dos Estados Unidos. Os autores mostraram que h&aacute; grandes diferen&ccedil;as de pagamentos esperados de produtos de seguros agr&iacute;colas, dependendo da parametriza&ccedil;&atilde;o escolhida para representar a produtividade.</font></p>     <p><font size="2" face="Verdana">Just e Weninger (1999) utilizaram extensivas bases de dados de produtividade para defender o uso do modelo normal no c&aacute;lculo do seguro agr&iacute;cola. Entretanto, o uso indiscriminado da distribui&ccedil;&atilde;o normal, para representar a produtividade, vem sendo questionado por diversos pesquisadores. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Atwood <I>et al</I>. (2003) apontaram problemas no trabalho de Just e Weninger (1999) que falharam por n&atilde;o terem considerado que a tend&ecirc;ncia pode ter introduzido erro do tipo I, ou seja, rejeitando a normalidade quando a distribui&ccedil;&atilde;o &eacute; normal. Atwood <I>et al</I>. (2003) tamb&eacute;m afirmam que as tend&ecirc;ncias de estimativas individuais, tendo como base dados de curto prazo, tendem a enviesar a an&aacute;lise tamb&eacute;m na dire&ccedil;&atilde;o do erro do tipo II, ou seja, falhando ao rejeitar normalidade quando a distribui&ccedil;&atilde;o &eacute; realmente n&atilde;o&#45;normal. Al&eacute;m disso, esses autores destacam os problemas de se trabalhar com um conjunto com poucos dados de produtividade, uma vez que podem ser introduzidos desvios em testes de normalidade.</font></p>     <p><font size="2" face="Verdana">Sherrick <i>et al</i>. (2004) utilizaram dados de milho e soja de 26 fazendas localizadas na maior regi&atilde;o produtora dos Estados Unidos, entre os anos de 1972 a 1999, para ajustar as distribui&ccedil;&otilde;es normal, log&iacute;stica, Weibull, beta e log&#45;normal. Os autores conclu&iacute;ram que as distribui&ccedil;&otilde;es beta e Weibull forneceram os melhores ajustes, o que sugere a import&acirc;ncia de se considerar distribui&ccedil;&otilde;es que permitam assimetria &agrave; esquerda.</font></p>     <p><font size="2" face="Verdana">Os resultados obtidos por Sherrick <i>et al</i>. (2004) tamb&eacute;m demonstram que a escolha da distribui&ccedil;&atilde;o pode ter um impacto significativo nos valores esperados de pagamentos do seguro. Assim, a distribui&ccedil;&atilde;o de probabilidade da produtividade n&atilde;o deve ser simplesmente aceita como uma premissa n&atilde;o examinada, nem ser escolhida de acordo com a conveni&ecirc;ncia, sem se avaliar a signific&acirc;ncia econ&ocirc;mica desta suposi&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana">Ozaki <i>et al</i>. (2008) utilizaram diversos m&eacute;todos para precificar contratos de seguro agr&iacute;cola com base na produ&ccedil;&atilde;o por &aacute;rea para dados agregados de produtividade do Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), no estado do Paran&aacute;. As distribui&ccedil;&otilde;es param&eacute;tricas normal e beta foram ajustadas para as s&eacute;ries de milho, soja e trigo dos munic&iacute;pios de Cascavel, Guarapuava e Tibagi. Os resultados mostraram que as taxas de seguro provenientes da distribui&ccedil;&atilde;o beta s&atilde;o superiores &agrave;s taxas da normal para todos os n&iacute;veis cobertura, considerando as taxas emp&iacute;ricas e as taxas n&atilde;o&#45;param&eacute;tricas para milho, soja e trigo. Os resultados sugerem, ainda, alguma assimetria positiva na distribui&ccedil;&atilde;o beta. Os autores compararam esses resultados com os obtidos utilizando uma abordagem n&atilde;o&#45;param&eacute;trica e conclu&iacute;ram que, para todos os n&iacute;veis de cobertura, as taxas foram mais elevadas na abordagem n&atilde;o&#45;param&eacute;trica. Isso significa que as companhias de seguros est&atilde;o subestimando os pre&ccedil;os dos contratos de seguro. A taxa de pr&ecirc;mio pura &eacute; realmente maior que a taxa de pr&ecirc;mio cobrada. A conse­qu&ecirc;ncia para a empresa seguradora &eacute; a perda financeira devido &agrave; menor taxa cobrada. Produtores de alto risco encontram nesta situa&ccedil;&atilde;o atrativa a demanda do contrato de seguro, aumentando a probabilidade de receber a indeniza&ccedil;&atilde;o.</font></p>     <p><font size="2" face="Verdana">Tendo como base o que foi apresentado anteriormente, este trabalho foi realizado com o objetivo de propor a distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica como um modelo alternativo &agrave; distribui&ccedil;&atilde;o normal para a estima&ccedil;&atilde;o dos pagamentos esperados do seguro agr&iacute;cola da cultura do milho dentro do cen&aacute;rio agr&iacute;cola brasileiro. Ademais, considera&#45;se no estudo n&atilde;o o c&aacute;lculo da taxa de pr&ecirc;mio, mas o c&aacute;lculo do pr&ecirc;mio em reais por hectare. </font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>2. Dados de produtividade</b></font></p>     <p><font size="2" face="Verdana">As s&eacute;ries de produtividade analisadas neste trabalho s&atilde;o do per&iacute;odo de safras de 1980/1981 a 2006/2007 e foram coletadas em trinta munic&iacute;pios que apresentaram as maiores produtividades de milho no estado do Paran&aacute;, no ano de 2007. Optou&#45;se por utilizar apenas as s&eacute;ries dos munic&iacute;pios que apresentavam, no m&iacute;nimo, 18 anos de observa&ccedil;&atilde;o, no per&iacute;odo analisado. Os dados s&atilde;o do rendimento m&eacute;dio da produ&ccedil;&atilde;o da lavoura de milho (em gr&atilde;o) e a unidade &eacute; quilogramas por hectare (kg/ha) (1 ha = 10.000 m<SUP>2</SUP>) e foram coletados pela Secretaria de Agricultura e Abastecimento do Paran&aacute; (Seab), nos anos de 1981 a 1989 e pelo Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), de 1990 a 2007.</font></p>     <p><font size="2" face="Verdana">Os trinta munic&iacute;pios selecionados, em ordem decrescente de produtividade de milho (kg/ha), foram Mari&oacute;polis, Ibema, Catanduvas, Pato Branco, Castro, Pira&iacute; do Sul, Ponta Grossa, Tibagi, Vitorino, Arapoti, Jaguaria&iacute;va, Guarania&ccedil;u, Clevel&acirc;ndia, C&eacute;u Azul, S&atilde;o Jo&atilde;o, Seng&eacute;s, Renascen&ccedil;a, Maril&acirc;ndia do Sul, Ipiranga, Campo do Tenente, Nova Prata do Igua&ccedil;u, Florest&oacute;polis, Mangueirinha, Ver&ecirc;, Palmeira, Campo Bonito, Balsa Nova, Laranjeiras do Sul, Pranchita e Guarapuava.</font></p>     <p><font size="2" face="Verdana">Espera&#45;se que essas s&eacute;ries de produtividade de milho sejam caracterizadas por apresentarem tend&ecirc;ncia devido, em parte, ao avan&ccedil;o das tecnologias utilizadas nas lavouras, como t&eacute;cnicas de plantio, maquin&aacute;rio, insumos, etc. Al&eacute;m disso, tamb&eacute;m se espera que algumas s&eacute;ries possam apresentar depend&ecirc;ncia temporal e vari&acirc;ncia n&atilde;o constante. Evidentemente, n&atilde;o &eacute; poss&iacute;vel ajustar distribui&ccedil;&otilde;es de probabilidade diretamente aos dados de produtividade que sejam dependentes e que apresentem tend&ecirc;ncia temporal. Assim, antes de ajustar os modelos probabil&iacute;sticos para a produtividade, ser&aacute; necess&aacute;rio utilizar t&eacute;cnicas estat&iacute;sticas que tornem os dados de produtividade sem tend&ecirc;ncia, independentes e homoced&aacute;sticos.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Para verificar a presen&ccedil;a de tend&ecirc;ncia foi utilizado o teste n&atilde;o&#45;param&eacute;trico proposto por Phillips e Perron (1988). O teste considera modelos com um desvio de ajuste e uma tend&ecirc;ncia temporal para que eles possam ser usados para discriminar entre a raiz unit&aacute;ria n&atilde;o estacion&aacute;ria e acerca de uma tend&ecirc;ncia determin&iacute;stica estacion&aacute;ria (ou estocasticamente estacion&aacute;ria). O teste confronta a hip&oacute;tese nula de que os dados t&ecirc;m raiz unit&aacute;ria contra a hip&oacute;tese alternativa de que os dados s&atilde;o estocasticamente estacion&aacute;rios.</font></p>     <p><font size="2" face="Verdana">Uma vez detectada a presen&ccedil;a de tend&ecirc;ncia na s&eacute;rie de produtividade, a mesma pode ser retirada por dois m&eacute;todos, dependendo do tipo da tend&ecirc;ncia. Quando se tem a presen&ccedil;a de tend&ecirc;ncia determin&iacute;stica, a mesma pode ser retirada com o uso de um modelo polinomial para representar os dados. O modelo de regress&atilde;o linear simples &eacute; um dos exemplos de modelagem que pode servir para retirar a tend&ecirc;ncia determin&iacute;stica dos dados e tornar uma s&eacute;rie estacion&aacute;ria a partir do uso de seus res&iacute;duos (CHARNET <i>et al</i>., 2008). Na presen&ccedil;a de tend&ecirc;ncia estoc&aacute;stica, a mesma pode ser retirada por meio da realiza&ccedil;&atilde;o de um processo de passeio aleat&oacute;rio (diferencia&ccedil;&atilde;o) da s&eacute;rie, at&eacute; obter&#45;se um res&iacute;duo sem tend&ecirc;ncia (EHLERS, 2007).</font></p>     <p><font size="2" face="Verdana">Uma vez que a s&eacute;rie de produtividade est&aacute; sem tend&ecirc;ncia, passa&#45;se a verificar a presen&ccedil;a de depend&ecirc;ncia entre as observa&ccedil;&otilde;es, ou seja, o quanto o valor de uma observa&ccedil;&atilde;o influencia nos valores de observa&ccedil;&otilde;es pr&oacute;ximas. Em geral, quando se retira a tend&ecirc;ncia, automaticamente, a s&eacute;rie tende a ficar independente. Entretanto, &eacute; sempre prudente avaliar a independ&ecirc;ncia dos dados.</font></p>     <p><font size="2" face="Verdana">Para verificar se uma s&eacute;rie apresenta valores independentes, recorre&#45;se a m&eacute;todos para an&aacute;lise de autocorrela&ccedil;&atilde;o. Estes m&eacute;todos verificam o quanto as realiza&ccedil;&otilde;es de uma vari&aacute;vel aleat&oacute;ria (observa&ccedil;&otilde;es) est&atilde;o correlacionadas e, portanto, quantificam a rela&ccedil;&atilde;o de depend&ecirc;ncia entre as observa&ccedil;&otilde;es. Os m&eacute;todos mais utilizados para esta finalidade s&atilde;o o teste de Durbin&#45;Watson, descrito em Draper e Smith (1998), e o gr&aacute;fico da fun&ccedil;&atilde;o de autocorrela&ccedil;&atilde;o (autocorrelograma), descrito em Lages (2004).</font></p>     <p><font size="2" face="Verdana">Ap&oacute;s a execu&ccedil;&atilde;o destes procedimentos, caso n&atilde;o tenha sido detectada autocorrela&ccedil;&atilde;o serial, prossegue&#45;se com a verifica&ccedil;&atilde;o de poss&iacute;vel heterocedasticidade. Caso exista presen&ccedil;a de autocorrela&ccedil;&atilde;o mesmo depois de retirada a tend&ecirc;ncia (seja pelo modelo de regress&atilde;o ou pelo processo de passeio aleat&oacute;rio), deve&#45;se desconsiderar o modelo que havia sido ajustado e prosseguir com o ajuste de um modelo autorregressivo. </font></p>     <p><font size="2" face="Verdana">Um processo autorregressivo (AR) pode ser usado como modelo se for admiss&iacute;vel adotar que o valor atual de uma s&eacute;rie temporal depende do seu passado imediato mais um erro aleat&oacute;rio. A ordem do modelo AR pode ser definida pela avalia&ccedil;&atilde;o do gr&aacute;fico da fun&ccedil;&atilde;o de autocorrela&ccedil;&atilde;o parcial (EHLERS, 2007).</font></p>     <p><font size="2" face="Verdana">Depois de definida a ordem do modelo AR, &eacute; necess&aacute;rio averiguar novamente a presen&ccedil;a de autocorrela&ccedil;&atilde;o serial por meio da elabora&ccedil;&atilde;o de um novo autocorrelograma para os res&iacute;duos obtidos. Deve&#45;se destacar a possibilidade de uso de outros tipos de procedimentos para eliminar a autocorrela&ccedil;&atilde;o, como, por exemplo, o uso de modelos autorregressivos m&eacute;dias m&oacute;veis (ARMA) (EHLERS, 2007).</font></p>     <p><font size="2" face="Verdana">Resumindo, depois da tend&ecirc;ncia ter sido retirada, havendo presen&ccedil;a de depend&ecirc;ncia entre os dados, a mesma pode ser retirada por meio de um processo autorregressivo at&eacute; se obter um res&iacute;duo independente.</font></p>     <p><font size="2" face="Verdana">Corrigidas a tend&ecirc;ncia e a depend&ecirc;ncia das s&eacute;ries, passa&#45;se a &uacute;ltima etapa da prepara&ccedil;&atilde;o dos dados antes do ajuste dos modelos probabil&iacute;sticos para a produtividade, ou seja, verificar a hip&oacute;tese de homocedasticidade. Mais uma vez, em geral, quando se retira a tend&ecirc;ncia, a s&eacute;rie pode ficar homoced&aacute;stica. Entretanto, &eacute; sempre prudente verificar a hip&oacute;tese de homocedasticidade dos dados.</font></p>     <p><font size="2" face="Verdana">A fim de se avaliar a presen&ccedil;a de heterocedasticidade nas s&eacute;ries de dados, pode&#45;se usar o teste proposto por Breusch e Pagan (1979) que foi originariamente desenvolvido para verificar a presen&ccedil;a de dist&uacute;rbios heteroced&aacute;sticos em um modelo de regress&atilde;o linear. A hip&oacute;tese nula do teste &eacute; que a s&eacute;rie &eacute; homoced&aacute;stica. Sob a hip&oacute;tese nula, a estat&iacute;stica do teste segue uma distribui&ccedil;&atilde;o qui&#45;quadrado com graus de liberdade igual ao n&uacute;mero de regressores. Uma forma de obter uma s&eacute;rie homoced&aacute;stica &eacute; fazer alguma transforma&ccedil;&atilde;o nos dados descrita em Draper e Smith (1998) e Charnet <i>et al</i>. (2008).</font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>3. Modelos para a produtividade agr&iacute;cola</b></font></p>     <p><font size="2" face="Verdana">Com a s&eacute;rie de produtividade estacion&aacute;ria, independente e homoced&aacute;stica &eacute; poss&iacute;vel ajustar os dados por uma distribui&ccedil;&atilde;o de probabilidade. Neste artigo ser&atilde;o ajustadas as distribui&ccedil;&otilde;es normal e normal&#45;assim&eacute;trica.</font></p>     <p><font size="2" face="Verdana">A fam&iacute;lia de distribui&ccedil;&otilde;es de probabilidade normal depende de dois par&acirc;metros, a m&eacute;dia populacional, denotada por </font><font>&#181;</font><font size="2" face="verdana"> e, a vari&acirc;ncia tamb&eacute;m populacional denotada por </font><font>&#963;</font><font size="2" face="verdana"><SUP>2</SUP>. Sua fun&ccedil;&atilde;o densidade de probabilidade (ou simplesmente densidade) &eacute; dada por Mood <i>et al</i>. (1974).</font></p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v52n4/a06frm01.jpg"></font></p>     <p><font size="2" face="Verdana">sendo x </font><font>&#8712;</font><font size="2" face="verdana">&#093;&#150;</font><font>&#8734;</font><font size="2" face="verdana">; +</font><font>&#8734;</font><font size="2" face="verdana">&#091;.</font></p>     <p><font size="2" face="Verdana">O c&aacute;lculo de probabilidades da distribui&ccedil;&atilde;o normal &eacute; feito pela integral definida no intervalo da vari&aacute;vel aleat&oacute;ria objeto de estudo. O c&aacute;lculo deve ser realizado utilizando m&eacute;todos num&eacute;ricos de integra&ccedil;&atilde;o, pois n&atilde;o existe uma express&atilde;o expl&iacute;cita da fun&ccedil;&atilde;o densidade de probabilidade acumulada da normal. N&atilde;o se pode deixar de ressaltar a exist&ecirc;ncia das propriedades de simetria da distribui&ccedil;&atilde;o normal. Para a modelagem dos dados, na estima&ccedil;&atilde;o dos par&acirc;metros de m&eacute;dia e vari&acirc;ncia da densidade normal s&atilde;o utilizados estimadores de m&aacute;xima verossimilhan&ccedil;a. </font></p>     <p><font size="2" face="Verdana">A fam&iacute;lia de distribui&ccedil;&otilde;es de probabilidade normal&#45;assim&eacute;trica depende do par&acirc;metro de assimetria denotado por </font><font>&#945;</font><font size="2" face="verdana">. Esta distribui&ccedil;&atilde;o foi introduzida, pela primeira vez, por O'Hagan e Leonard (1976) para a normal padronizada. No caso da distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica, com par&acirc;metros de loca&ccedil;&atilde;o &#091;</font><font>&#181;</font><font size="2" face="verdana"> </font><font>&#8712;</font><font size="2" face="verdana"> <img src="/img/revistas/resr/v52n4/a06img01.jpg" align="absmiddle">&#093; e escala &#091;</font><font>&#963;</font><font size="2" face="verdana"> &gt; 0&#093;, a densidade, reproduzida de Oliveira (2009), &eacute; dada por</font></p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v52n4/a06frm02.jpg"></font></p>     <p><font size="2" face="Verdana">em que y </font><font>&#8712;</font><font size="2" face="verdana"> <img src="/img/revistas/resr/v52n4/a06img01.jpg" align="absmiddle">. Os s&iacute;mbolos </font><font>&#981;</font><font size="2" face="verdana">(.) e </font><font>&#934;</font><font size="2" face="verdana">(.) s&atilde;o utilizados para denotar, respectivamente, as fun&ccedil;&otilde;es densidade e de distribui&ccedil;&atilde;o do modelo normal.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Neste estudo, foram utilizados os estimadores de m&aacute;xima verossimilhan&ccedil;a para a estima&ccedil;&atilde;o dos par&acirc;metros de assimetria, loca&ccedil;&atilde;o e escala da normal&#45;assim&eacute;trica. Observa&#45;se, no entanto, que a fun&ccedil;&atilde;o de verossimilhan&ccedil;a da normal&#45;assim&eacute;trica n&atilde;o apresenta forma fechada. Assim, utilizam&#45;se m&eacute;todos num&eacute;ricos para a obten&ccedil;&atilde;o das estimativas (OLIVEIRA, 2009).</font></p>     <p><font size="2" face="Verdana">Ap&oacute;s o ajuste das distribui&ccedil;&otilde;es de probabilidade para a produtividade agr&iacute;cola, testou&#45;se a adequabilidade do ajuste. Para tal, existem diferentes m&eacute;todos. Neste estudo, foi utilizado o teste de Kolmogorov&#45;Smirnov que investiga a signific&acirc;ncia da diferen&ccedil;a entre a fun&ccedil;&atilde;o distribui&ccedil;&atilde;o emp&iacute;rica observada e a fun&ccedil;&atilde;o distribui&ccedil;&atilde;o de refer&ecirc;ncia (MOOD <i>et al</i>., 1974).</font></p>     <p><font size="2" face="Verdana">Caso o teste de Kolmogorov&#45;Smirnov indique que as duas distribui&ccedil;&otilde;es ajustadas podem ser usadas para representar os dados, deve&#45;se definir, entre os dois modelos analisados, aquele que &eacute; mais adequado. Para este fim, foi usada a soma de quadrados do erro calculada a partir de cada um dos modelos ajustados para cada uma das s&eacute;ries corrigidas. Utilizou&#45;se como modelo da distribui&ccedil;&atilde;o de probabilidade aquele que apresentou a menor soma de quadrados do erro.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>4. C&aacute;lculo do pr&ecirc;mio de seguro</b></font></p>     <p><font size="2" face="Verdana">Para estimar o pagamento esperado, por unidade de &aacute;rea do seguro agr&iacute;cola, utilizou&#45;se o <I>Actual Production History</I> (APH) (c&aacute;lculo da produ&ccedil;&atilde;o hist&oacute;rica real) que &eacute; apresentado por Ozaki (2005) e Sherrick <I>et al</I>. (2004). O pagamento esperado &eacute; usado para fornecer uma estimativa dos valores das indeniza&ccedil;&otilde;es por unidade de &aacute;rea em rela&ccedil;&atilde;o a cada unidade segurada. Em &uacute;ltima inst&acirc;ncia, a teoria econ&ocirc;mica do seguro mostra que a indeniza&ccedil;&atilde;o esperada pode ser entendida como o pr&ecirc;mio puro de risco. Ou seja, o pr&ecirc;mio sem os carregamentos. Para a utiliza&ccedil;&atilde;o do APH, deve&#45;se fazer a uni&atilde;o entre as fun&ccedil;&otilde;es densidade de probabilidade das distribui&ccedil;&otilde;es de produtividade que foram ajustadas e a f&oacute;rmula que estima o valor do pagamento esperado do seguro. </font></p>     <p><font size="2" face="Verdana">A seguradora faz um pagamento de indeniza&ccedil;&atilde;o a um produtor, caso perceba rendimentos inferiores sob o n&iacute;vel garantido selecionado (70%, por exemplo) usando a fun&ccedil;&atilde;o</font></p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v52n4/a06frm03.jpg"></font></p>     <p><font size="2" face="Verdana">em que Y<SUB>g</SUB> &eacute; a produtividade garantida, h &eacute; o n&iacute;vel de cobertura do seguro e <img src="/img/revistas/resr/v52n4/a06img02.jpg" align="absmiddle"> &eacute; a produtividade comprovada obtida pela m&eacute;dia aritm&eacute;tica simples do hist&oacute;rico das produtividades reais usando, pelo menos, os valores da produtividade de quatro anos anteriores.</font></p>     <p><font size="2" face="Verdana">Pagamentos de indeniza&ccedil;&otilde;es s&atilde;o acionados quando a produtividade real, y, fica abaixo da produtividade garantida, Y<SUB>g</SUB>, e os produtores recebem como indeniza&ccedil;&atilde;o a diferen&ccedil;a entre Y<SUB>g</SUB> e a produtividade real com um pre&ccedil;o garantido que &eacute; definido no momento do plantio pela seguradora. Ent&atilde;o, a produtividade garantida que ficar abaixo do n&iacute;vel de produtividade esperado tem uma fun&ccedil;&atilde;o de pagamento por unidade de &aacute;rea dada por</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v52n4/a06frm04.jpg"></font></p>     <p><font size="2" face="Verdana">sendo P<SUB>g</SUB> o pre&ccedil;o definido na contrata&ccedil;&atilde;o do seguro.</font></p>     <p><font size="2" face="Verdana">O pagamento esperado por unidade de &aacute;rea, E(G), para o APH, pode ser calculado pela express&atilde;o</font></p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v52n4/a06frm05.jpg"></font></p>     <p><font size="2" face="Verdana">em que f(y) &eacute; a densidade do modelo probabil&iacute;stico ajustado para cada um dos munic&iacute;pios.</font></p>     <p><font size="2" face="Verdana">Todos os c&aacute;lculos foram realizados utilizando fun&ccedil;&otilde;es dispon&iacute;veis e/ou desenvolvidas no R (R Core Team, 2014). Para obter a densidade, estimativas de m&aacute;xima verossimilhan&ccedil;a e outras fun&ccedil;&otilde;es relativas &agrave; distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica foi utilizada a biblioteca <I>fGarch </I>tamb&eacute;m dispon&iacute;vel no R.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>5. Resultados e discuss&atilde;o</b></font></p>     <p><font size="2" face="Verdana">A agricultura &eacute; uma atividade suscet&iacute;vel a diversos eventos clim&aacute;ticos como enchentes, granizo, geada, seca, dentre outros. A necessidade do seguro agr&iacute;cola fica mais evidente diante de problemas clim&aacute;ticos que se apresentam com frequ&ecirc;ncia cada vez maior e trazem grandes preju&iacute;zos ao setor. Uma dificuldade enfrentada pelas seguradoras brasileiras &eacute; o c&aacute;lculo das taxas para o seguro agr&iacute;cola, pois ainda n&atilde;o est&aacute; dispon&iacute;vel uma teoria atuarial consolidada voltada para esta &aacute;rea.</font></p>     <p><font size="2" face="Verdana">O seguro agr&iacute;cola mais comercializado no Brasil &eacute; o seguro agr&iacute;cola de custeio que assegura o custeio. Por&eacute;m, o tipo de seguro analisado refere&#45;se ao seguro de produtividade, que possui muitas semelhan&ccedil;as com o seguro de custeio. A diferen&ccedil;a fundamental encontra&#45;se na forma de c&aacute;lculo do limite m&aacute;ximo de indeniza&ccedil;&atilde;o. Ao inv&eacute;s, da multiplica&ccedil;&atilde;o do custeio por hectare pela &aacute;rea total segurada, utiliza&#45;se a multiplica&ccedil;&atilde;o do pre&ccedil;o do produto, em reais por saca/tonelada, na contrata&ccedil;&atilde;o do seguro, vezes a produtividade segurada, em sacas/toneladas por hectare, vezes a &aacute;rea total segurada, em hectares. </font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Em geral, as seguradoras brasileiras utilizam a produtividade agr&iacute;cola m&eacute;dia municipal dos &uacute;ltimos quatro anos para estimar os valores das taxas de pr&ecirc;mio e os pagamentos esperados do seguro. Esta pr&aacute;tica &eacute; criticada por diversos pesquisadores tais como Atwood <I>et al</I>. (2002, 2003), Carriquiry <I>et al</I>. (2008), Just e Weninger (1999), Lawas (2005), Ozaki (2005) e Sherrick <I>et al</I>. (2004) que argumentam que uma modelagem precisa do comportamento dos rendimentos para diversas culturas, por distribui&ccedil;&otilde;es de probabilidade, &eacute; de fundamental import&acirc;ncia para a precifica&ccedil;&atilde;o adequada do contrato de seguro.</font></p>     <p><font size="2" face="Verdana">O n&atilde;o uso de modelos que descrevem a produtividade agr&iacute;cola brasileira para o c&aacute;lculo dos pagamentos esperados do seguro pode ser creditado n&atilde;o somente &agrave; limitada quantidade de estudos sobre modelos que sejam adequados &agrave; produtividade brasileira, mas tamb&eacute;m &agrave; falta de dados apropriados para esta finalidade.</font></p>     <p><font size="2" face="Verdana">Alguns autores, como Sherrick <i>et al</i>. (2004), sugerem que os dados para o estudo da produtividade devem ter algumas caracter&iacute;sticas, tais como (a) alta qualidade; (b) s&eacute;rie suficientemente longa (ter, no m&iacute;nimo, vinte observa&ccedil;&otilde;es no per&iacute;odo amostral usado no estudo, para que as s&eacute;ries possam refletir, precisamente, a estrutura de risco dos produtores); (c) grande n&uacute;mero de fazendas e (d) fazendas com caracter&iacute;sticas parecidas em rela&ccedil;&atilde;o &agrave; irriga&ccedil;&atilde;o, latitude, longitude e etc. </font></p>     <p><font size="2" face="Verdana">Embora sejam feitas as recomenda&ccedil;&otilde;es anteriores, na pr&aacute;tica, no Brasil n&atilde;o se tem informa&ccedil;&otilde;es oficiais com uma caracteriza&ccedil;&atilde;o sobre as fazendas. Existem apenas s&eacute;ries suficientemente longas de dados de produtividade de algumas culturas em n&iacute;vel de munic&iacute;pio. Na <a href="/img/revistas/resr/v52n4/a06tab01.jpg">Tabela 1</a> s&atilde;o mostradas algumas estat&iacute;sticas descritivas para os dados de produtividade de milho dos munic&iacute;pios analisados a partir das s&eacute;ries brutas (sem a retirada da tend&ecirc;ncia). </font></p>     <p><font size="2" face="Verdana">A <a href="/img/revistas/resr/v52n4/a06tab01.jpg">Tabela 1</a> mostra que as produtividades m&eacute;dias de milho entre os munic&iacute;pios foi 4053,6 kg/ha, com uma produtividade m&iacute;nima de 2901,8 kg/ha e m&aacute;xima de 5978,3 kg/ha. A variabilidade da produtividade m&eacute;dia de milho difere entre os munic&iacute;pios amostrados com desvios padr&atilde;o que v&atilde;o de 1094,6 a 2500,2 kg/ha. Todas as s&eacute;ries de produtividade de milho do Paran&aacute; exibiram assimetria positiva, ou seja, &agrave; direita. Os coeficientes de assimetria variaram de 0,03 a 1,88 com uma m&eacute;dia de 0,72. A maioria das s&eacute;ries (70%) foram classificadas como platic&uacute;rticas. </font></p>     <p><font size="2" face="Verdana">Na <a href="/img/revistas/resr/v52n4/a06fig01.jpg">Figura 1</a>, a seguir, s&atilde;o mostrados os gr&aacute;ficos das s&eacute;ries originais de produtividade de milho (kg/ha) para cada um dos munic&iacute;pios considerados.</font></p>     <p><font size="2" face="Verdana">Deve&#45;se ressaltar que a teoria atuarial de segurabilidade &eacute; baseada em alguns pressupostos tais como independ&ecirc;ncia entre os eventos e homocedasticidade. Entretanto, conforme explicitado na revis&atilde;o de literatura, existe um risco sist&ecirc;mico associado ao seguro agr&iacute;cola e a pressuposi&ccedil;&atilde;o de independ&ecirc;ncia entre as unidades seguradas &eacute; violada, fazendo com que o risco agregado seja maior que o risco individual (OZAKI, 2005, 2007). Este fato n&atilde;o somente dificulta a quantifica&ccedil;&atilde;o dos riscos associados &agrave; atividade, mas tamb&eacute;m impede o uso de modelos probabil&iacute;sticos diretamente nas s&eacute;ries brutas, para o c&aacute;lculo do pagamento esperado do seguro.</font></p>     <p><font size="2" face="Verdana">A <a href="/img/revistas/resr/v52n4/a06fig01.jpg">Figura 1</a> mostra a presen&ccedil;a de tend&ecirc;ncia nas s&eacute;ries de produtividade de todos os munic&iacute;pios analisados. Essa tend&ecirc;ncia se deve em parte, ao fato do avan&ccedil;o das tecnologias utilizadas nas lavouras de milho, como t&eacute;cnicas de plantio, maquin&aacute;rio, insumos, etc. A presen&ccedil;a de tend&ecirc;ncia nas s&eacute;ries de produtividade analisadas contrasta com as s&eacute;ries de produtividade de milho, praticamente estacion&aacute;rias, observadas na maior regi&atilde;o produtora dos Estados Unidos (SHERRICK <i>et al</i>., 2004).</font></p>     <p><font size="2" face="Verdana">Apesar da inspe&ccedil;&atilde;o visual dos gr&aacute;ficos da <a href="/img/revistas/resr/v52n4/a06fig01.jpg">Figura 1</a> indicar a presen&ccedil;a de algum tipo de tend&ecirc;ncia (estocasticamente estacion&aacute;ria/determin&iacute;stica ou estoc&aacute;stica), tamb&eacute;m se adotou o teste de Phillips&#45;Perron para o mesmo prop&oacute;sito. Segundo Sherick <I>et al</I>. (2004) este teste &eacute; uma das abordagens mais comuns para testar a exist&ecirc;ncia de tend&ecirc;ncia estoc&aacute;stica. Enders (1995) e Sherrick <I>et al</I>. (2004) argumentam em favor do teste para avaliar a possibilidade de tend&ecirc;ncia estocasticamente estacion&aacute;ria, pois permite um conjunto mais fraco de hip&oacute;teses sobre o processo de erro e apresenta um maior poder para rejeitar uma hip&oacute;tese nula falsa de uma raiz unit&aacute;ria. O teste de Phillips&#45;Perron rejeitou a hip&oacute;tese de estacionaridade (p &gt; 0,05) para dezesseis das trinta s&eacute;ries analisadas. Assim, foram utilizadas as t&eacute;cnicas de regress&atilde;o linear simples, passeio aleat&oacute;rio (diferencia&ccedil;&atilde;o da s&eacute;rie) e processos auto&#45;regressivos de ordem um para contornar o problema de tend&ecirc;ncia das s&eacute;ries de produtividade de acordo com o tipo de tend&ecirc;ncia encontrada.</font></p>     <p><font size="2" face="Verdana">Deve&#45;se observar que o n&uacute;mero de observa&ccedil;&otilde;es da s&eacute;rie sem tend&ecirc;ncia pode diferir do n&uacute;mero de observa&ccedil;&otilde;es da s&eacute;rie original de acordo com o m&eacute;todo utilizado na retirada da tend&ecirc;ncia. Por exemplo, a cada vez que um modelo de passeio aleat&oacute;rio simples &eacute; utilizado para se obter uma s&eacute;rie sem tend&ecirc;ncia, a s&eacute;rie original perde uma observa&ccedil;&atilde;o.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Ap&oacute;s empregar as t&eacute;cnicas de regress&atilde;o linear simples, diferencia&ccedil;&atilde;o da s&eacute;rie e processos auto&#45;regressivos, dependendo do tipo de tend&ecirc;ncia observada na s&eacute;rie de produtividade, novamente, foi realizada a an&aacute;lise de tend&ecirc;ncia. O teste de Phillips&#45;Perron aceitou a hip&oacute;tese de s&eacute;rie estocasticamente estacion&aacute;ria (p &lt; 0,05) para todas as s&eacute;ries analisadas. </font></p>     <p><font size="2" face="Verdana">Retirada a tend&ecirc;ncia dos dados, verificou&#45;se a hip&oacute;tese de independ&ecirc;ncia entre as observa&ccedil;&otilde;es atrav&eacute;s do uso do teste de Durbin&#45;Watson e do gr&aacute;fico da fun&ccedil;&atilde;o de autocorrela&ccedil;&atilde;o. O teste de Durbin&#45;Watson mostrou que, com exce&ccedil;&atilde;o dos munic&iacute;pios de Castro, Mangueirinha e Guarapuava, os demais apresentaram s&eacute;ries com dados independentes (p &gt; 0,05). Os autocorrelogramas mostraram que os munic&iacute;pios de Pira&iacute; do Sul, Tibagi, Jaguaria&iacute;va, Seng&eacute;s, Campo do Tenente e Ver&ecirc; apresentaram problemas de depend&ecirc;ncia. Neste caso, para estas cidades foi usado um modelo AR(1).</font></p>     <p><font size="2" face="Verdana">Corrigidas a tend&ecirc;ncia e a depend&ecirc;ncia das s&eacute;ries, passou&#45;se a &uacute;ltima etapa da prepara&ccedil;&atilde;o dos dados, antes do ajuste das densidades, ou seja, verificar a hip&oacute;tese de homocedasticidade. O teste de Breusch&#45;Pagan mostrou que as s&eacute;ries de produtividade eram homoced&aacute;sticas (p &gt; 0,05), com exce&ccedil;&atilde;o dos munic&iacute;pios de Arapoti e S&atilde;o Jo&atilde;o, onde foi detectada apenas a presen&ccedil;a de uma heterocedasticidade leve e, portanto, fez&#45;se a op&ccedil;&atilde;o de n&atilde;o realizar transforma&ccedil;&otilde;es para corrigir a vari&acirc;ncia dessas cidades.</font></p>     <p><font size="2" face="Verdana">Com a s&eacute;rie corrigida &eacute; poss&iacute;vel modelar os dados por uma distribui&ccedil;&atilde;o de probabilidade. A <a href="/img/revistas/resr/v52n4/a06fig02.jpg">Figura 2</a>, a seguir, mostra as densidades normal e normal&#45;assim&eacute;trica ajustadas para as s&eacute;ries corrigidas de produtividade de milho (kg/ha) dos munic&iacute;pios do Paran&aacute;.</font></p>     <p><font size="2" face="Verdana">Observa&#45;se na <a href="/img/revistas/resr/v52n4/a06fig02.jpg">Figura 2</a> que para os munic&iacute;pios de C&eacute;u Azul, Jaguaria&iacute;va, Laranjeiras do Sul, Nova Prata do Igua&ccedil;u e Ponta Grossa n&atilde;o houve converg&ecirc;ncia dos estimadores de m&aacute;xima verossimilhan&ccedil;a da normal&#45;assim&eacute;trica e, portanto, impossibilitou o seu ajuste.</font></p>     <p><font size="2" face="Verdana">Ap&oacute;s o ajuste das densidades normal e normal&#45;assim&eacute;trica para as distribui&ccedil;&otilde;es de produtividade agr&iacute;cola, testou&#45;se a adequabilidade dos ajustes utilizando o teste de Kolmogorov&#45;Smirnov (ks). A densidade normal n&atilde;o apresentou ajuste estatisticamente significante, ao n&iacute;vel de 10%, apenas para a distribui&ccedil;&atilde;o de produtividade do munic&iacute;pio de Jaguaria&iacute;va, por este motivo, n&atilde;o foi apresentado na <a href="/img/revistas/resr/v52n4/a06fig02.jpg">Figura 2</a> o gr&aacute;fico relativo ao referido munic&iacute;pio. A densidade normal&#45;assim&eacute;trica apresentou ajuste estatisticamente significante, ao n&iacute;vel de 10%, para todos os munic&iacute;pios em que a densidade foi ajustada. </font></p>     <p><font size="2" face="Verdana">A <a href="#tab02">Tabela 2</a> mostra a soma dos quadrados dos erros de cada uma das s&eacute;ries corrigidas para as distribui&ccedil;&otilde;es normal e normal&#45;assim&eacute;trica ajustadas. </font></p>     <p><font size="2" face="Verdana"><a name="tab02"></a></font></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v52n4/a06tab02.jpg"></font></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font size="2" face="Verdana">A <a href="#tab02">Tabela 2</a> mostra que a densidade normal&#45;assim&eacute;trica apresentou as menores somas de quadrados dos erros para todas as distribui&ccedil;&otilde;es de produtividade dos munic&iacute;pios em que foi poss&iacute;vel ajustar a densidade. Assim, pode&#45;se concluir que a normal&#45;assim&eacute;trica foi a distribui&ccedil;&atilde;o com melhor ajuste para todas as s&eacute;ries em que foi poss&iacute;vel o ajuste das duas distribui&ccedil;&otilde;es analisadas.</font></p>     <p><font size="2" face="Verdana">Na &uacute;ltima etapa do processo, o APH &eacute; usado para fornecer estimativas dos valores esperados das indeniza&ccedil;&otilde;es por unidade de &aacute;rea em rela&ccedil;&atilde;o a cada unidade segurada. Neste caso &eacute; feita a uni&atilde;o entre a fun&ccedil;&atilde;o densidade de probabilidade da distribui&ccedil;&atilde;o de produtividade que foi ajustada e a f&oacute;rmula que estima o valor do pagamento esperado do seguro (equa&ccedil;&atilde;o 5).</font></p>     <p><font size="2" face="Verdana">A <a href="#tab03">Tabela 3</a> mostra os valores estimados (em R$/ha) para o pagamento esperado do seguro agr&iacute;cola para cada uma das cidades selecionadas do Paran&aacute; com base no APH. Para obter os valores estimados foi usado o indicador Cepea/Esalq &#150; Milho (31&#45;01&#45;2011) com um pre&ccedil;o do milho de R$ 32,11 por saca de 60 quilogramas para ilustrar os c&aacute;lculos e simular o pre&ccedil;o do milho previsto em contrato.</font></p>     <p><font size="2" face="Verdana"><a name="tab03"></a></font></p>     <p>&nbsp;</p>     <p align="center"><font size="2" face="Verdana"><img src="/img/revistas/resr/v52n4/a06tab03.jpg"></font></p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Os valores estimados apresentados na <a href="#tab03">Tabela 3</a> mostram estimativas para a indeniza&ccedil;&atilde;o esperada por unidade de &aacute;rea (ha). Os valores estimados mostram, em moeda corrente (R$), a diferen&ccedil;a entre a produtividade real e a produtividade esperada, prevista em contrato, que a seguradora dever&aacute; "completar" em dinheiro caso ocorra sinistro no munic&iacute;pio. Por exemplo, no munic&iacute;pio de Catanduvas a previs&atilde;o &eacute; que a seguradora pagar&aacute; uma indeniza&ccedil;&atilde;o no valor de R$14,45, por hectare, de acordo com a distribui&ccedil;&atilde;o normal e de R$16,61 de acordo com a normal&#45;assim&eacute;trica. </font></p>     <p><font size="2" face="Verdana">A <a href="#tab03">Tabela 3</a> mostra que utilizando o APH, os pagamentos esperados com o uso da distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica foram maiores que os estimados pela distribui&ccedil;&atilde;o normal em 9 dos 25 munic&iacute;pios com um n&iacute;vel de 70% de cobertura. Este fato sugere alguma assimetria positiva na distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica. Estes resultados corroboram os resultados obtidos por Ozaki <i>et al</i>. (2008) que apontaram, para os munic&iacute;pios de Cascavel, Guarapuava e Tibagi, alguma assimetria positiva com o uso da distribui&ccedil;&atilde;o beta.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">As distribui&ccedil;&otilde;es normal e normal&#45;assim&eacute;trica foram escolhidas para este estudo por apresentarem a possibilidade de ajuste de uma s&eacute;rie que contenha valores de observa&ccedil;&otilde;es positivos e negativos. Conforme apresentado na introdu&ccedil;&atilde;o, existem outras distribui&ccedil;&otilde;es como a log&#45;normal, beta, etc. que poderiam ser testadas. Entretanto, as s&eacute;ries de produtividade utilizadas neste trabalho apresentaram tend&ecirc;ncia, o que exigiu m&eacute;todos de corre&ccedil;&atilde;o das mesmas. Sabe&#45;se que as s&eacute;ries corrigidas podem apresentar valores negativos, fato que impossibilita o uso de algumas distribui&ccedil;&otilde;es param&eacute;tricas, como &eacute; o caso da densidade log&#45;normal.</font></p>     <p><font size="2" face="Verdana">Deve&#45;se destacar que o modelo normal n&atilde;o pode deixar de ser examinado, pois a distribui&ccedil;&atilde;o normal &eacute; utilizada frequentemente em v&aacute;rios artigos da &aacute;rea, tais como Atwood, <I>et al</I>. (2002 e 2003), Just e Weninger (1999), Kapiamba (2005), Ram&iacute;rez <I>et al</I>. (2001), Ozaki <I>et al</I>. (2008), Sherrick <I>et al</I>. (2004) e Zanini <I>et al</I>. (2001), entre outros.</font></p>     <p><font size="2" face="Verdana">Uma vantagem da distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica em rela&ccedil;&atilde;o &agrave; normal &eacute; a possibilidade de assimetria. Uma desvantagem da distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica em rela&ccedil;&atilde;o &agrave; normal &eacute; possibilidade de n&atilde;o ocorrer converg&ecirc;ncia no algoritmo que estima os par&acirc;metros do modelo. Ressalta&#45;se que ambos os modelos apresentam uma limita&ccedil;&atilde;o que &eacute; a impossibilidade de bimodalidade ou multimodalidade da distribui&ccedil;&atilde;o de produtividade.</font></p>     <p><font size="2" face="Verdana">Observa&#45;se que a distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica apresenta alguma assimetria positiva em rela&ccedil;&atilde;o &agrave; normal e, portanto, sugere que a normal estaria subestimando o pagamento esperado em alguns munic&iacute;pios. O pr&ecirc;mio leva em conta o valor do pagamento esperado, como consequ&ecirc;ncia, pode&#45;se subestim&aacute;&#45;lo e cobrar menos do que o necess&aacute;rio para compensar as perdas e ainda, em caso de sinistro, a seguradora dever&aacute; fazer um pagamento maior do que o previsto. </font></p>     <p><font size="2" face="Verdana">Propriet&aacute;rios de fazendas com maior probabilidade de ocorr&ecirc;ncia de sinistro encontram no cen&aacute;rio descrito acima um atrativo para fazer o seguro de produtividade de suas lavouras. Estes resultados corroboram o estudo de Ozaki e Silva (2009) que usaram um m&eacute;todo alternativo baseado em modelos hier&aacute;rquicos bayesianos sob a suposi&ccedil;&atilde;o da distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica para precificar contratos de seguro agr&iacute;cola para munic&iacute;pios do Paran&aacute; e conclu&iacute;ram que os m&eacute;todos utilizados para este fim no mercado de seguros subestimam os pr&ecirc;mios, podendo trazer preju&iacute;zos &agrave;s seguradoras.</font></p>     <p><font size="2" face="Verdana">Deve&#45;se observar que neste estudo foram utilizados dados, em n&iacute;vel de munic&iacute;pio, logo o seguro teria os mesmos pr&ecirc;mios e valores estimados de indeniza&ccedil;&otilde;es para cada unidade de &aacute;rea, de cada fazenda, dentro do mesmo munic&iacute;pio. Este fato n&atilde;o permite a avalia&ccedil;&atilde;o de diferen&ccedil;as entre as fazendas.</font></p>     <p><font size="2" face="Verdana">Outro fato que deve ser destacado &eacute; o modo de pagamento das indeniza&ccedil;&otilde;es aos segurados. Ap&oacute;s a constata&ccedil;&atilde;o de sinistro no seguro agr&iacute;cola, as seguradoras pagam as indeniza&ccedil;&otilde;es "completando" em dinheiro o percentual de produtividade que ficou abaixo do n&iacute;vel contratado a um pre&ccedil;o estabelecido previamente no contrato.</font></p>     <p><font size="2" face="Verdana">Finalmente, pode&#45;se destacar que este estudo prop&ocirc;s a densidade normal&#45;assim&eacute;trica como uma alternativa para modelar dados de produtividade agr&iacute;cola no Brasil que, at&eacute; o momento, n&atilde;o foi considerada em trabalhos te&oacute;ricos para o c&aacute;lculo dos pagamentos esperados do seguro. Embora n&atilde;o tenha sido poss&iacute;vel comparar os resultados obtidos com dados reais de pagamentos esperados de seguradoras, de maneira geral, pode&#45;se concluir que a distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica forneceu um melhor ajuste que a distribui&ccedil;&atilde;o normal para a produtividade de milho nos munic&iacute;pios analisados. Espera&#45;se que os resultados possam contribuir para o progresso do seguro agr&iacute;cola brasileiro e que sejam &uacute;teis para outros pesquisadores da &aacute;rea.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>6. Conclus&otilde;es</b></font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Neste trabalho apresentou&#45;se, pela primeira vez, a distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica como um modelo alternativo para a estimativa do pagamento esperado de seguro agr&iacute;cola no Brasil. Os resultados mostraram que a distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica &eacute; um modelo competitivo para explicar as distribui&ccedil;&otilde;es de produtividade agr&iacute;cola de milho e, portanto, pode ser utilizada para o c&aacute;lculo dos pagamentos esperados no seguro agr&iacute;cola de milho no Brasil. Assim, a distribui&ccedil;&atilde;o normal&#45;assim&eacute;trica pode substituir, para esse fim, n&atilde;o somente a distribui&ccedil;&atilde;o normal, mas tamb&eacute;m o m&eacute;todo da produtividade m&eacute;dia dos anos anteriores.</font></p>     <p>&nbsp;</p>     <p><font size="3" face="Verdana"><b>7. Refer&ecirc;ncias bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font size="2" face="Verdana">ATWOOD, J., SHAIK, S. E WATTS, M. Can normality of yields be assumed for crop insurance? <I>Canadian Journal of Agricultural Economics</I>, v. 50, p. 171&#45;184, 2002.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003201400040000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">______., SHAIK, S. e WATTS, M. Are Crop Yields Normally Distributed? A Reexamination. <I>American Journal of Agricultural Economics</I>, v. 85, p. 888&#45;901, nov. 2003.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003201400040000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">BREUSCH, T. S. e PAGAN, A. R. A simple test for heteroscedasticity and random coefficient variation. <I>Econometrica</I>, v. 47, n. 5, 1979.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003201400040000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">CARRIQUIRY, M. A., BABCOCK, B. A. e HART, C. E. Using a farmer's beta for improved estimation of expected yields. <I>Journal of Agricultural and Resource Economics</I>, v. 33, p. 52&#45;68, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003201400040000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">CHARNET, R. <i>et al</i>. <I>An&aacute;lise de modelos de regress&atilde;o linear com aplica&ccedil;&otilde;es</I>. 2. ed. Campinas, SP: Ed. Unicamp, 2008. 368 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003201400040000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">COBLE, K.H. <I>et al</I>. An Expected Indemnity Approach to the Measurement of Moral Hazard in Crop Insurance. <I>American Journal of Agricultural Economics</I>, v. 79, p. 216&#45;26, fev. 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003201400040000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">DRAPER, N. R. e SMITH, H. <I>Applied Regression Analisys</I>. 3. ed. New York: Ed. John Willey e Sons, 1998. 704 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003201400040000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">EHLERS, R. S. <I>An&aacute;lise de s&eacute;ries temporais</I>. Laborat&oacute;rio de Estat&iacute;stica e Geoinforma&ccedil;&atilde;o, Universidade Federal do Paran&aacute;, 4. ed., 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003201400040000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ENDERS, W. <I>Applied econometric time series</I>. 1. ed. New York: John Wiley &amp; Sons, 480 p., 1995.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000142&pid=S0103-2003201400040000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">INDICADOR CEPEA/ESALQ &#150; Milho (Fonte: Cepea). Pre&ccedil;o Milho em 31&#45;01&#45;2011: R$ 32,11 por saca de 60 kg com varia&ccedil;&atilde;o de +0,03%, fechamento em 31&#45;01&#45;2011. BRASIL (BM&amp;F). Dispon&iacute;vel em: &lt;<a href="http://www.noticiasagricolas.com.br/cotacoes.php?id=20" target="_blank">http://www.noticiasagricolas.com.br/cotacoes.php?id=20</a>&gt;. Acesso em: 1 fev. 2010.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S0103-2003201400040000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">JUST, R. E., CALVIN, L. e QUIGGIN, J. Adverse selection in crop insurance: actuarial and asymmetric information incentives. <I>American Journal of Agricultural Economics</I>, v. 81, p. 834&#45;849, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S0103-2003201400040000600011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">______. e WENINGER, Q. Are Crop Yields Normally Distributed?. <I>American Journal of Agricultural Economics</I>, v. 81, p. 278&#45;304, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S0103-2003201400040000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">KAPIAMBA, L. F. Modeling Heteroskedasticity of Crop Yield Distributions: Implications for Normality. Selected Paper Prepared for Presentation at the <I>American Agricultural Economics Association Annual Meeting</I>, Providence, Rhode Island, July 24&#45;27, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S0103-2003201400040000600013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">LAGES, W. F. Descri&ccedil;&atilde;o de sinais aleat&oacute;rios. Universidade Federal do Rio Grande do Sul, Programa de P&oacute;s&#45;Gradua&ccedil;&atilde;o em Engenharia El&eacute;trica, Disciplina ELE00071&#45;T&oacute;picos Especiais em Automa&ccedil;&atilde;o e Controle II, 2004. Dispon&iacute;vel em: &lt;<a href="http://www.ece.ufrgs.br/~fetter/ele00071/dec/signals.pdf" target="_blank">www.ece.ufrgs.br/~fetter/ele00071/dec/signals.pdf</a>&gt;. Acesso em: 24 jan. 2011.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S0103-2003201400040000600014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">LAWAS, C. P. B.S. <I>Crop Insurance Premium Rate Impacts of Flexible Parametric Yield Distributions</I>: an Evaluation of the Johnson Family of Distributions. 2005. 81 p.. Tese. (Mestrado em Ci&ecirc;ncias) Texas Tech University, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S0103-2003201400040000600015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">MOOD, A. M., GRAYBILL, F. A. e BOES, D. C. <I>Introduction to the Theory of Statistics</I>. Ed. McGraw&#45;Hill, 577 p. 1974.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S0103-2003201400040000600016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">MORETTIN, P. A. e TOLOI, C. M. C. <I>An&aacute;lise de S&eacute;ries Temporais</I>. 2. ed. S&atilde;o Paulo: Egard Blucher, 538 p., 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000158&pid=S0103-2003201400040000600017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">O'HAGAN, A. e LEONARD, T. Bayes estimation subject to uncertainty about parameter constraints. <I>Biometrika</I>, v. 63, n. 1, p. 201&#45;203, 1976.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000160&pid=S0103-2003201400040000600018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">OLIVEIRA, M. S. de. <I>Compara&ccedil;&otilde;es M&uacute;ltiplas Bayesianas com Erro Normal assim&eacute;trico</I>. 2009. 154 p. Tese. (Doutorado em Estat&iacute;stica e Experimenta&ccedil;&atilde;o Agropecu&aacute;ria). Universidade Federal de Lavras, Lavras, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000162&pid=S0103-2003201400040000600019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">OZAKI, V. A. <I>M&eacute;todos atuariais aplicados &agrave; determina&ccedil;&atilde;o da taxa de pr&ecirc;mio de contratos de seguro agr&iacute;cola</I>: um estudo de caso. 2005. 324 p. Tese (Doutorado em Economia Aplicada). Escola Superior de Agricultura "Luiz de Queiroz", Piracicaba, SP, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000164&pid=S0103-2003201400040000600020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">______. O governo federal e o mercado de seguro agr&iacute;cola: aprendendo com o passado e construindo o futuro. In: <I>XLIV Congresso da Sociedade Brasileira de Economia e Sociologia Rural (SOBER)</I>, 2006, Fortaleza. XLIV Congresso da Sociedade Brasileira de Economia e Sociologia Rural (SOBER), 2006.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000166&pid=S0103-2003201400040000600021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. O papel do seguro na gest&atilde;o do risco agr&iacute;cola e os empecilhos para o seu desenvolvimento. <I>Revista Brasileira de Risco e Seguro</I> (online), v. 2, p. 75&#45;92, 2007.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000168&pid=S0103-2003201400040000600022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">______., GOODWIN, B. K. e SHIROTA, R. Parametric and non&#45;parametric statistical modeling of crop yield: implications for pricing crop insurance contracts. <I>Applied Economics</I>, v. 40, p. 1151&#45;1164, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000170&pid=S0103-2003201400040000600023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">______. e SILVA, R. S. Bayesian ratemaking procedure of crop insurance contracts with skewed distribution. <I>Journal of Applied Statistics</I>. v. 36, p. 443&#45;452, 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000172&pid=S0103-2003201400040000600024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">PHILLIPS, P. C. B. e PERRON, P. Testing for a unit root in time series regression. <I>Biometrika</I>, v. 75, n. 2, p. 335&#45;346, 1988.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000174&pid=S0103-2003201400040000600025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">R CORE TEAM. <I>R: a language and environment for statistical computing</I>. Vienna, Austria: R Foundation for Statistical Computing, 2014. Dispon&iacute;vel em: &lt;<a href="http://www.R&#45;project.org" target="_blank">http://www.R&#45;project.org</a>&gt;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000176&pid=S0103-2003201400040000600026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->. </font></p>     <!-- ref --><p><font size="2" face="Verdana">RAM&Iacute;REZ, O. A., MISRA, S. e FIELD, J. Are crop yieds normally distributed? <I>Annual meeting of the American Agricultural Economics Association</I>, Chicago, Illinois, August 05&#45;08, 2001.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000178&pid=S0103-2003201400040000600027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">SHERRICK, B. J., ZANINI, F. C., SCHNITKEY, G. D. e IRWIN, S. H. Crop Insurance Valuation under Alternative Yield Distributions. <I>American Journal of Agricultural Economics</I>, v. 86, n. 2, p. 406&#45;419, 2004.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000180&pid=S0103-2003201400040000600028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> </font></p>     <!-- ref --><p><font size="2" face="Verdana">TURVEY, C. G. e ZHAO, J. Parametric and non&#45;parametric crop yield distributions and their effects on all&#45;risk crop insurance premiums. <I>Working Paper WP99/05. Department of Agricultural Economics and Businees</I>. University of Guelph, 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000182&pid=S0103-2003201400040000600029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font size="2" face="Verdana">ZANINI, F. C. <I>et al</I>. Crop insurance valuation under alternative yield distributions. <I>Proceedings of the NCR&#45;134 Conference on Applied Commodity Price Analysis</I>, Forecasting, and Market Risk Management. St. Louis, MO. 2001. &#091;<a href="http://www.farmdoc.uiuc.edu/nccc134" target="_blank">http://www.farmdoc.uiuc.edu/nccc134</a>&#093;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000184&pid=S0103-2003201400040000600030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref -->.</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana"><a name="nt"></a><a href="#title">1</a>. Os autores agradecem aos dois revisores pelos coment&aacute;rios e sugest&otilde;es que muito contribu&iacute;ram para melhoria da qualidade do artigo. O presente trabalho foi financiado pelo projeto Procad/CNPq. C.O.S. agradece &agrave; Capes e ao CNPq pela bolsa. </font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ATWOOD]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHAIK]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WATTS]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Can normality of yields be assumed for crop insurance?]]></article-title>
+<source><![CDATA[Canadian Journal of Agricultural Economics]]></source>
+<year>2002</year>
+<volume>v. 50</volume>
+<page-range>171-184</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ATWOOD]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHAIK]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WATTS]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Are Crop Yields Normally Distributed? A Reexamination]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>nov.</year>
+<month> 2</month>
+<day>00</day>
+<volume>v. 85</volume>
+<page-range>888-901</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BREUSCH]]></surname>
+<given-names><![CDATA[T. S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PAGAN]]></surname>
+<given-names><![CDATA[A. R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A simple test for heteroscedasticity and random coefficient variation]]></article-title>
+<source><![CDATA[Econometrica]]></source>
+<year>1979</year>
+<volume>v. 47</volume>
+<numero>n. 5</numero>
+<issue>n. 5</issue>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARRIQUIRY]]></surname>
+<given-names><![CDATA[M. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BABCOCK]]></surname>
+<given-names><![CDATA[B. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HART]]></surname>
+<given-names><![CDATA[C. E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using a farmer's beta for improved estimation of expected yields]]></article-title>
+<source><![CDATA[Journal of Agricultural and Resource Economics]]></source>
+<year>2008</year>
+<volume>v. 33</volume>
+<page-range>52-68</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHARNET]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de modelos de regressão linear com aplicações]]></source>
+<year>2008</year>
+<edition>2. ed</edition>
+<page-range>368</page-range><publisher-loc><![CDATA[Campinas^eSP SP]]></publisher-loc>
+<publisher-name><![CDATA[Ed. Unicamp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[COBLE]]></surname>
+<given-names><![CDATA[K.H]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An Expected Indemnity Approach to the Measurement of Moral Hazard in Crop Insurance]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>26, </year>
+<month>fe</month>
+<day>v.</day>
+<volume>v. 79</volume>
+<page-range>216</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DRAPER]]></surname>
+<given-names><![CDATA[N. R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SMITH]]></surname>
+<given-names><![CDATA[H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied Regression Analisys]]></source>
+<year>1998</year>
+<edition>3. ed</edition>
+<page-range>704</page-range><publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Ed. John Willey e Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[EHLERS]]></surname>
+<given-names><![CDATA[R. S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de séries temporais]]></source>
+<year>2007</year>
+<edition>4. ed</edition>
+<publisher-name><![CDATA[Laboratório de Estatística e Geoinformação, Universidade Federal do Paraná]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENDERS]]></surname>
+<given-names><![CDATA[W]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied econometric time series]]></source>
+<year>1995</year>
+<edition>1. ed</edition>
+<page-range>480</page-range><publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<collab>CEPEA/ESALQ</collab>
+<source><![CDATA[Preço Milho em 31-01-2011: R$ 32,11 por saca de 60 kg com variação de +0,03%, fechamento em 31-01-2011]]></source>
+<year></year>
+<publisher-name><![CDATA[BM & F]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JUST]]></surname>
+<given-names><![CDATA[R. E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CALVIN]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[QUIGGIN]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Adverse selection in crop insurance: actuarial and asymmetric information incentives]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>1999</year>
+<volume>v. 81</volume>
+<page-range>834-849</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JUST]]></surname>
+<given-names><![CDATA[R. E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WENINGER]]></surname>
+<given-names><![CDATA[Q]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Are Crop Yields Normally Distributed?]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>1999</year>
+<volume>v. 81</volume>
+<page-range>278-304</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KAPIAMBA]]></surname>
+<given-names><![CDATA[L. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modeling Heteroskedasticity of Crop Yield Distributions: Implications for Normality. Selected Paper Prepared for Presentation at the American Agricultural Economics]]></source>
+<year>July</year>
+<month> 2</month>
+<day>4-</day>
+<publisher-loc><![CDATA[Rhode Island ]]></publisher-loc>
+<publisher-name><![CDATA[Association Annual Meeting, Providence]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAGES]]></surname>
+<given-names><![CDATA[W. F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Descrição de sinais aleatórios]]></source>
+<year>2004</year>
+<publisher-name><![CDATA[Universidade Federal do Rio Grande do Sul, Programa de Pós-Graduação em Engenharia Elétrica, Disciplina ELE00071-Tópicos Especiais em Automação e Controle II]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAWAS]]></surname>
+<given-names><![CDATA[C. P. B.S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crop Insurance Premium Rate Impacts of Flexible Parametric Yield Distributions: an Evaluation of the Johnson Family of Distributions]]></source>
+<year>2005</year>
+<page-range>81</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MOOD]]></surname>
+<given-names><![CDATA[A. M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GRAYBILL]]></surname>
+<given-names><![CDATA[F. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BOES]]></surname>
+<given-names><![CDATA[D. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to the Theory of Statistics]]></source>
+<year>1974</year>
+<page-range>577</page-range><publisher-name><![CDATA[Ed. McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MORETTIN]]></surname>
+<given-names><![CDATA[P. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TOLOI]]></surname>
+<given-names><![CDATA[C. M. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de Séries Temporais]]></source>
+<year>2006</year>
+<edition>2. ed</edition>
+<page-range>538</page-range><publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Egard Blucher]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[O'HAGAN]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEONARD]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Bayes estimation subject to uncertainty about parameter constraints]]></article-title>
+<source><![CDATA[Biometrika]]></source>
+<year>1976</year>
+<volume>v. 63</volume>
+<numero>n. 1</numero>
+<issue>n. 1</issue>
+<page-range>201-203</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OLIVEIRA]]></surname>
+<given-names><![CDATA[M. S. de]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparações Múltiplas Bayesianas com Erro Normal assimétrico]]></source>
+<year>2009</year>
+<page-range>154</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OZAKI]]></surname>
+<given-names><![CDATA[V. A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Métodos atuariais aplicados à determinação da taxa de prêmio de contratos de seguro agrícola: um estudo de caso]]></source>
+<year>2005</year>
+<page-range>324</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OZAKI]]></surname>
+<given-names><![CDATA[V. A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O governo federal e o mercado de seguro agrícola: aprendendo com o passado e construindo o futuro]]></article-title>
+<source><![CDATA[XLIV Congresso da Sociedade Brasileira de Economia e Sociologia Rural (SOBER)]]></source>
+<year>2006</year>
+<month>20</month>
+<day>06</day>
+<conf-name><![CDATA[XLIV Congresso da Sociedade Brasileira de Economia e Sociologia Rural]]></conf-name>
+<conf-loc> </conf-loc>
+<publisher-loc><![CDATA[Fortaleza ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OZAKI]]></surname>
+<given-names><![CDATA[V. A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[O papel do seguro na gestão do risco agrícola e os empecilhos para o seu desenvolvimento]]></article-title>
+<source><![CDATA[Revista Brasileira de Risco e Seguro (online)]]></source>
+<year>2007</year>
+<volume>v. 2</volume>
+<page-range>75-92</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OZAKI]]></surname>
+<given-names><![CDATA[V. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GOODWIN]]></surname>
+<given-names><![CDATA[B. K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SHIROTA]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Parametric and non-parametric statistical modeling of crop yield: implications for pricing crop insurance]]></article-title>
+<source><![CDATA[Applied Economics]]></source>
+<year>2008</year>
+<volume>v. 40</volume>
+<page-range>1151-1164</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OZAKI]]></surname>
+<given-names><![CDATA[V. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SILVA]]></surname>
+<given-names><![CDATA[R. S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Bayesian ratemaking procedure of crop insurance contracts with skewed distribution]]></article-title>
+<source><![CDATA[Journal of Applied Statistics]]></source>
+<year>2009</year>
+<volume>v. 36</volume>
+<page-range>443-452</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PHILLIPS]]></surname>
+<given-names><![CDATA[P. C. B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PERRON]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Testing for a unit root in time series regression]]></article-title>
+<source><![CDATA[Biometrika]]></source>
+<year>1988</year>
+<volume>v. 75</volume>
+<numero>n. 2</numero>
+<issue>n. 2</issue>
+<page-range>335-346</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<collab>R CORE TEAM</collab>
+<source><![CDATA[R: a language and environment for statistical computing]]></source>
+<year>2014</year>
+<publisher-loc><![CDATA[^eAustria Austria]]></publisher-loc>
+<publisher-name><![CDATA[R Foundation for Statistical Computing]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RAMÍREZ]]></surname>
+<given-names><![CDATA[O. A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MISRA]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIELD]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Are crop yieds normally distributed? Annual meeting of the American Agricultural Economics Association]]></source>
+<year>Augu</year>
+<month>st</month>
+<day> 0</day>
+<publisher-loc><![CDATA[Chicago^eIllinois Illinois]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHERRICK]]></surname>
+<given-names><![CDATA[B. J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZANINI]]></surname>
+<given-names><![CDATA[F. C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SCHNITKEY]]></surname>
+<given-names><![CDATA[G. D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IRWIN]]></surname>
+<given-names><![CDATA[S. H]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Crop Insurance Valuation under Alternative Yield Distributions]]></article-title>
+<source><![CDATA[American Journal of Agricultural Economics]]></source>
+<year>2004</year>
+<volume>v. 86</volume>
+<numero>n. 2</numero>
+<issue>n. 2</issue>
+<page-range>406-419</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TURVEY]]></surname>
+<given-names><![CDATA[C. G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ZHAO]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Parametric and non-parametric crop yield distributions and their effects on all-risk crop insurance premiums]]></source>
+<year>1999</year>
+<publisher-name><![CDATA[Working Paper WP99/05. Department of Agricultural Economics and Businees. University of Guelph]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZANINI]]></surname>
+<given-names><![CDATA[F. C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Crop insurance valuation under alternative yield distributions. Proceedings of the NCR-134 Conference on Applied Commodity Price Analysis]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[St. Louis^eMO MO]]></publisher-loc>
+<publisher-name><![CDATA[Forecasting, and Market Risk Management]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

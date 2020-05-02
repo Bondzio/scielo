@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2070</journal-id>
+<journal-title><![CDATA[Tempo Social]]></journal-title>
+<abbrev-journal-title><![CDATA[Tempo soc.]]></abbrev-journal-title>
+<issn>0103-2070</issn>
+<publisher>
+<publisher-name><![CDATA[Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20702016000200105</article-id>
+<article-id pub-id-type="doi">10.11606/0103-2070.ts.2016.110049</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Voto assimétrico, classes e mobilidade social no Brasil]]></article-title>
+<article-title xml:lang="en"><![CDATA[Asimmetric vote, class and social mobility in Brazil]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ribeiro]]></surname>
+<given-names><![CDATA[Carlos Antonio Costa]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Israel]]></surname>
+<given-names><![CDATA[Vinicius Pinheiro]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade do Estado do Rio de Janeiro  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<aff id="Af2">
+<institution><![CDATA[,ufrj  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>Brazil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>08</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>08</month>
+<year>2016</year>
+</pub-date>
+<volume>28</volume>
+<numero>2</numero>
+<fpage>105</fpage>
+<lpage>130</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20702016000200105&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20702016000200105&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20702016000200105&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[Resumo Este artigo analisa a relação entre a estrutura de classes, os padrões de mobilidade social dos eleitores e a declaração retrospectiva de voto no segundo turno da eleição presidencial de 2006. As análises permitem discutir a hipótese do voto assimétrico, segundo a qual a correlação entre classes sociais e voto é mediada pelos padrões de mobilidade intergeracional ascendente e descendente. Outras hipóteses correlatas também são discutidas a partir das análises empíricas baseadas na estimação de modelos hierárquicos bayesianos.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Abstract This paper analyzes the relationship among class structure, patterns of social mobility and voting at the Brazilian presidential election of 2006. The analysis aims to discuss and test the hypothesis of asymmetrical vote claiming that the correlation between social class and voting is mediated by the patterns of upward and downward intergenerational mobility. Other ancillary hypothesis are also discussed and empirically tested. All statistical estimations are done using Bayesian hierarchical models.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Classes sociais]]></kwd>
+<kwd lng="pt"><![CDATA[Mobilidade social]]></kwd>
+<kwd lng="pt"><![CDATA[Voto]]></kwd>
+<kwd lng="en"><![CDATA[Social class]]></kwd>
+<kwd lng="en"><![CDATA[Social mobility]]></kwd>
+<kwd lng="en"><![CDATA[Vote]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[A suggested index of the association of social class and voting]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alford]]></surname>
+<given-names><![CDATA[Robert R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Public Opinion Quarterly]]></source>
+<year>1962</year>
+<volume>3</volume>
+<numero>26</numero>
+<issue>26</issue>
+<page-range>417-25</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alford]]></surname>
+<given-names><![CDATA[Robert R]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Party and society: the Anglo-American democracies]]></source>
+<year>1963</year>
+<publisher-loc><![CDATA[Westport ]]></publisher-loc>
+<publisher-name><![CDATA[Greenwood]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Social mobility and interpersonal relations]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Blau]]></surname>
+<given-names><![CDATA[Peter M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Sociological Review]]></source>
+<year>1956</year>
+<volume>21</volume>
+<page-range>290-5</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Are social classes dying?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clark]]></surname>
+<given-names><![CDATA[Terry Nichols]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lipset]]></surname>
+<given-names><![CDATA[Seymour Martin]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Sociology]]></source>
+<year>1991</year>
+<volume>4</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>347-410</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The political consequences of social mobility]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clifford]]></surname>
+<given-names><![CDATA[Peter]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Heath]]></surname>
+<given-names><![CDATA[Anthony F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of the Royal Statistical Society, Series A]]></source>
+<year>1993</year>
+<volume>156</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>51-61</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carreirão]]></surname>
+<given-names><![CDATA[Yan de Souza]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A decisão do voto nas eleições presidenciais brasileiras]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Florianópolis/Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Editora da ufsc/Editora fgv]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cogdon]]></surname>
+<given-names><![CDATA[Peter]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bayesian models for categorical data]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Chichester ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Class mobility and political preferences: individual and contextual effect]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Graaf]]></surname>
+<given-names><![CDATA[De]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dirk]]></surname>
+<given-names><![CDATA[Nan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Sociology]]></source>
+<year>1995</year>
+<volume>4</volume>
+<numero>100</numero>
+<issue>100</issue>
+<page-range>997-1027</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Downs]]></surname>
+<given-names><![CDATA[Anthony]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An economic theory of democracy]]></source>
+<year>1957</year>
+<publisher-loc><![CDATA[Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Harper]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Erickson]]></surname>
+<given-names><![CDATA[Robert]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goldthorpe]]></surname>
+<given-names><![CDATA[John H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The constant flux: a study of class mobility in industrial societies]]></source>
+<year>1993</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Evans]]></surname>
+<given-names><![CDATA[Geoffrey]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The end of class politics? Class voting in comparative context]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Evans]]></surname>
+<given-names><![CDATA[Geoffrey]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Graaf]]></surname>
+<given-names><![CDATA[Nan Dirk]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political choice matters: explaining the strength of class and religious cleavages in cross-national perspective]]></source>
+<year>2013</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gamerman]]></surname>
+<given-names><![CDATA[Dani]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lopes]]></surname>
+<given-names><![CDATA[Hedibert F]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Markov chain Monte Carlo: stochastic simulation for Bayesian inference]]></source>
+<year>2006</year>
+<edition>2. ed</edition>
+<publisher-loc><![CDATA[Boca Raton/Londres/Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman & Hall/crc]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gelman]]></surname>
+<given-names><![CDATA[Andrew]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bayesian data analysis]]></source>
+<year>2003</year>
+<edition>2. ed</edition>
+<publisher-loc><![CDATA[Boca Raton/Londres/Nova York/Washington ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman & Hall/crc]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gill]]></surname>
+<given-names><![CDATA[Jeff]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bayesian methods: a social and behavioral science approach]]></source>
+<year>2015</year>
+<edition>3. ed</edition>
+<publisher-loc><![CDATA[Boca Raton/Londres /Nova York ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman & Hall/crc]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Goldthorpe]]></surname>
+<given-names><![CDATA[John H]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Social mobility and class structure in modern Britain]]></source>
+<year>1980</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Clarendon]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Heath]]></surname>
+<given-names><![CDATA[Anthony Francis]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[How Britain votes]]></source>
+<year>1985</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Pergamon]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The persistence of classes in post-industrial societies]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hout]]></surname>
+<given-names><![CDATA[Mike]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[International Sociology]]></source>
+<year>1993</year>
+<volume>3</volume>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>259-77</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Korpi]]></surname>
+<given-names><![CDATA[Walter]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The democratic class struggle]]></source>
+<year>1983</year>
+<publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge & Kegan Paul]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Competição partidária e voto nas eleições presidenciais no Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Limongi]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guarnieri]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2015</year>
+<volume>1</volume>
+<numero>21</numero>
+<issue>21</issue>
+<page-range>60-86</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lipset]]></surname>
+<given-names><![CDATA[Seymour Martin]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bendix]]></surname>
+<given-names><![CDATA[Reinhard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Social mobility in industrial society]]></source>
+<year>1959</year>
+<publisher-loc><![CDATA[Berkeley ]]></publisher-loc>
+<publisher-name><![CDATA[University of California Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Marx]]></surname>
+<given-names><![CDATA[Karl]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The eighteenth brumaire of Louis Bonaparte]]></source>
+<year>1926</year>
+<publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Unwin]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Migon]]></surname>
+<given-names><![CDATA[Helio S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gamerman]]></surname>
+<given-names><![CDATA[Dani]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Statistical inference: an integrated approach]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Arnold]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Migon]]></surname>
+<given-names><![CDATA[Helio S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modelos hierárquicos e aplicações]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[São Pedro ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nieuwbeerta]]></surname>
+<given-names><![CDATA[Paul]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The democratic class struggle in twenty countries, 1945-1990]]></source>
+<year>1995</year>
+<publisher-loc><![CDATA[Amsterdã ]]></publisher-loc>
+<publisher-name><![CDATA[Thesis Publishers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[The effects of class mobility on class voting in post-war western industrialized countries]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nieuwbeerta]]></surname>
+<given-names><![CDATA[Paul]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[European Sociological Review]]></source>
+<year>2000</year>
+<volume>4</volume>
+<numero>16</numero>
+<issue>16</issue>
+<page-range>327-48</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Mobilidade social ascendente e voto: as eleições presidenciais de 2010 no Brasil]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peixoto]]></surname>
+<given-names><![CDATA[Vitor]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rennó]]></surname>
+<given-names><![CDATA[Lucio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Opinião Pública]]></source>
+<year>2011</year>
+<volume>2</volume>
+<numero>17</numero>
+<issue>17</issue>
+<page-range>304-32</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ribeiro]]></surname>
+<given-names><![CDATA[Carlos Antonio Costa]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estrutura de classe e mobilidade social no Brasil]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Bauru ]]></publisher-loc>
+<publisher-name><![CDATA[Edusc]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ribeiro]]></surname>
+<given-names><![CDATA[Carlos Antonio Costa]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desigualdade de oportunidades no Brasil]]></source>
+<year>2009</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[Argumentum]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Singer]]></surname>
+<given-names><![CDATA[André]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os sentidos do lulismo: reforma gradual e pacto conservador]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Companhia das Letras]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[Diagonal mobility models: a substantively motivated class of designs for the analysis of mobility effects]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sobel]]></surname>
+<given-names><![CDATA[Michael E]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Sociological Review]]></source>
+<year>1981</year>
+<volume>6</volume>
+<numero>46</numero>
+<issue>46</issue>
+<page-range>893-906</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

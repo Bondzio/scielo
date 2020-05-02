@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0011-5258</journal-id>
+<journal-title><![CDATA[Dados]]></journal-title>
+<abbrev-journal-title><![CDATA[Dados]]></abbrev-journal-title>
+<issn>0011-5258</issn>
+<publisher>
+<publisher-name><![CDATA[Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ)]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0011-52582016000100091</article-id>
+<article-id pub-id-type="doi">10.1590/00115258201672</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Governo e Oposição no Senado Brasileiro (1989-2010)]]></article-title>
+<article-title xml:lang="en"><![CDATA[Government and Opposition in the Brazilian Senate (1989-2010)]]></article-title>
+<article-title xml:lang="fr"><![CDATA[Gouvernement et Opposition au Sénat Brésilien (1989-2010)]]></article-title>
+<article-title xml:lang="es"><![CDATA[Gobierno y Oposición en el Senado Brasileño (1989-2010)]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Izumi]]></surname>
+<given-names><![CDATA[Mauricio Yoshida]]></given-names>
+</name>
+<xref ref-type="aff" rid="Aff"/>
+</contrib>
+</contrib-group>
+<aff id="Af1">
+<institution><![CDATA[,Universidade de São Paulo  ]]></institution>
+<addr-line><![CDATA[São Paulo SP]]></addr-line>
+<country>Brasil</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>03</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>03</month>
+<year>2016</year>
+</pub-date>
+<volume>59</volume>
+<numero>1</numero>
+<fpage>91</fpage>
+<lpage>138</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0011-52582016000100091&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0011-52582016000100091&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0011-52582016000100091&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[RESUMO Este artigo tem por objetivo avaliar o comportamento em votações nominais dos senadores brasileiros entre 1989 e 2010. A questão central a ser respondida é quantas e quais dimensões são necessárias para representar razoavelmente bem as preferências de nossos senadores. Mostraremos que uma só dimensão que expressa o conflito entre governo e oposição é suficiente. Para verificar isso, utilizaremos técnicas de estimação de pontos ideais baseadas na teoria espacial do voto. Em particular, defenderemos o uso do método não paramétrico &#8220;optimal classification&#8221;.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[ABSTRACT This article&#8217;s aim is to evaluate the behavior in role-call votes of Brazilian senators between 1980 and 2010. The central issue to be responded is how many and which dimensions are necessary to reasonably represent the preferences of our senators. The authors show that a single dimension expressing the conflict between government and opposition is sufficient. In order to verify this, techniques estimating the ideal points based on the spatial theory of votes are employed as well as the non-parametric optimal classification method.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="fr"><p><![CDATA[RÉSUMÉ Cet article a pour but d&#8217;analyser le comportement des sénateurs brésiliens lors des scrutins publics tenus entre 1989 et 2010. La question centrale à laquelle il s&#8217;agit de répondre est de savoir quelles sont les dimensions nécessaires à la représentation raisonnable des préférences de nos sénateurs. Nous montrerons qu&#8217;une seule dimension exprimant le conflit entre gouvernement et opposition est suffisante. Pour vérifier cet état de fait, nous avons utilisé des techniques d&#8217;estimation des points idéaux basées sur la théorie spatiale du vote. Nous nous appuierons en particulier sur l&#8217;usage d&#8217;une méthode non paramétrique du type &#8220;optimal classification&#8221;.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[RESUMEN Este artículo tiene como objetivo analizar el comportamiento en votaciones nominales de los senadores brasileños entre 1989 y 2010. La cuestión central a ser respondida es la siguiente: ¿cuántas y cuáles dimensiones son necesarias para representar razonablemente bien las preferencias de nuestros senadores? Mostraremos que sólo una dimensión que expresa el conflicto entre el gobierno y la oposición es suficiente. Para verificar esa asertiva, utilizaremos técnicas de estimación de puntos ideales basadas en la teoría espacial del voto y defenderemos el uso del método no paramétrico del tipo &#8220;optimal classification&#8221;.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[Legislativo]]></kwd>
+<kwd lng="pt"><![CDATA[Senado]]></kwd>
+<kwd lng="pt"><![CDATA[estimação de pontos ideais]]></kwd>
+<kwd lng="pt"><![CDATA[Optimal Classification]]></kwd>
+<kwd lng="pt"><![CDATA[coalizão]]></kwd>
+<kwd lng="en"><![CDATA[Legislative]]></kwd>
+<kwd lng="en"><![CDATA[Senate]]></kwd>
+<kwd lng="en"><![CDATA[estimation of ideal points]]></kwd>
+<kwd lng="en"><![CDATA[Optimal Classification]]></kwd>
+<kwd lng="en"><![CDATA[coalition]]></kwd>
+<kwd lng="fr"><![CDATA[pouvoir législatif]]></kwd>
+<kwd lng="fr"><![CDATA[Sénat]]></kwd>
+<kwd lng="fr"><![CDATA[estimation des points idéaux]]></kwd>
+<kwd lng="fr"><![CDATA[Optimal Classification]]></kwd>
+<kwd lng="fr"><![CDATA[coalition]]></kwd>
+<kwd lng="es"><![CDATA[legislativo]]></kwd>
+<kwd lng="es"><![CDATA[senado]]></kwd>
+<kwd lng="es"><![CDATA[estimativa de puntos ideales]]></kwd>
+<kwd lng="es"><![CDATA[Optimal Classification]]></kwd>
+<kwd lng="es"><![CDATA[coalición]]></kwd>
+</kwd-group>
+</article-meta>
+</front><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Presidencialismo de Coalizão: O Dilema Institucional Brasileiro&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ABRANCHES]]></surname>
+<given-names><![CDATA[Sérgio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>1988</year>
+<volume>vol. 31</volume>
+<numero>no 1</numero>
+<issue>no 1</issue>
+<page-range>5-38</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ABRÚCIO]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os Barões da Federação: Os Governadores e a Redemocratização Brasileira]]></source>
+<year>1998</year>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[Hucitec]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Policy Positions in the Chilean Senate: An Analysis of Coauthorship and Roll Call Data&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALEMÁN]]></surname>
+<given-names><![CDATA[Eduardo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Political Science Review (Online)]]></source>
+<year>2008</year>
+<volume>vol. 3</volume>
+<numero>no se</numero>
+<issue>no se</issue>
+<page-range>74-92</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Legislative Preferences, Political Parties, and Coalition Unity in Chile]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALEMÁN]]></surname>
+<given-names><![CDATA[Eduardo]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SAIEGH]]></surname>
+<given-names><![CDATA[Sebastián]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparative Politics]]></source>
+<year>2007</year>
+<volume>vol. 39</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>253-72</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;The Politics of Coalition Formation and Survival in Multiparty Presidential Democracies: The Case of Uruguay, 1989-1999&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ALTMAN]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Party Politics]]></source>
+<year>2000</year>
+<volume>vol. 6</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>259-83</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMES]]></surname>
+<given-names><![CDATA[Barry]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Party Discipline in the Chamber of Deputies&#8221;]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Morgenstern]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nacif]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislative Politics in Latin America]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMES]]></surname>
+<given-names><![CDATA[Barry]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Os Entraves da Democracia no Brasil]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Gabinetes Presidenciais, Ciclos Eleitorais e Disciplina Legislativa no Brasil&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMORIM NETO]]></surname>
+<given-names><![CDATA[Octavio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2000</year>
+<volume>vol. 43</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>479-519</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;A Conexão Presidencial: Facções pró e Antigoverno e Disciplina Partidária no Brasil&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[AMORIM NETO]]></surname>
+<given-names><![CDATA[Octavio]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[Fabiano]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2001</year>
+<volume>vol. 44</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>291-321</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;The Veto Power of Sub-National Governments in Brazil: Political Institutions and Parliamentary Behaviour in the Post-1988 Period&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARRETCHE]]></surname>
+<given-names><![CDATA[Marta]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Political Science Review (Online)]]></source>
+<year>2007</year>
+<volume>vol. 2</volume>
+<numero>no se</numero>
+<issue>no se</issue>
+<page-range>40-73</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Federalism, Bicameralism, and Institutional Change: General Trends and One Case-Study&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ARRETCHE]]></surname>
+<given-names><![CDATA[Marta]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Political Science Review (Online)]]></source>
+<year>2010</year>
+<volume>vol. 5</volume>
+<numero>no se</numero>
+<issue>no se</issue>
+<page-range>10-31</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Comparable Preference Estimates Across Time and Institutions for the Court, Congress, and Presidency&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAILEY]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2007</year>
+<volume>vol. 51</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>433-48</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BLACK]]></surname>
+<given-names><![CDATA[Duncan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Theory of Committees and Elections]]></source>
+<year>1958</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;The Structure of Utility in spatial Models of Voting&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARROLL]]></surname>
+<given-names><![CDATA[Royce]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2013</year>
+<volume>vol. 57</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>1008-28</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Legislative Voting Behavior, Seen and Unseen: A Theory of Roll-Call Vote Selection&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARRUBBA]]></surname>
+<given-names><![CDATA[Clifford]]></given-names>
+</name>
+<name>
+<surname><![CDATA[GABEL]]></surname>
+<given-names><![CDATA[Matthew]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HUG]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>2008</year>
+<volume>vol. 33</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>543-72</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Off the Record: Unrecorded Legislative Votes, Selection Bias and Roll-Call Vote Analysis&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CARRUBA]]></surname>
+<given-names><![CDATA[Clifford]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2006</year>
+<volume>vol. 36</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>691-704</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Partidos Políticos e Governadores como Determinantes do Comportamento Legislativo na Câmara dos Deputados, 1988-2006&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CHEIBUB]]></surname>
+<given-names><![CDATA[José]]></given-names>
+</name>
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[Argelina]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMONGI]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2009</year>
+<volume>vol. 52</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>263-99</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="">
+<article-title xml:lang=""><![CDATA[&#8220;Using Roll Call Estimates to Test Models of Politics&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLINTON]]></surname>
+<given-names><![CDATA[Joshua]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Annual Review of Political Science]]></source>
+<year>2012</year>
+<volume>vol. 15</volume>
+<page-range>79-99</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;The Statistical Analysis of Roll Call Data&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CLINTON]]></surname>
+<given-names><![CDATA[Joshua]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JACKMAN]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+<name>
+<surname><![CDATA[RIVERS]]></surname>
+<given-names><![CDATA[Douglas]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2004</year>
+<volume>vol. 98</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>355-70</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Dimensions, Issues, and Bills: Appropriations Voting on the House Floor&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[CRESPIN]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROHDE]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>2010</year>
+<volume>vol. 72</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>976-89</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DESPOSATO]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Impact of Party-Switching on Legislative Behavior in Brazil]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Parties for Rent? Ambition, Ideology, and Party Switching in Brazil&#8217;s Chamber of Deputies&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DESPOSATO]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2005</year>
+<volume>vol. 50</volume>
+<numero>no 1</numero>
+<issue>no 1</issue>
+<page-range>62-80</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;The Impact of Electoral Rules on Legislative Parties: Lessons from the Brazilian Senate and Chamber of Deputies&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DESPOSATO]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Politics]]></source>
+<year>2006</year>
+<volume>vol. 68</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>1018-30</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[DOWNS]]></surname>
+<given-names><![CDATA[Anthony]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An Economic Theory of Democracy]]></source>
+<year>1957</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Harper & Row]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ENELOW]]></surname>
+<given-names><![CDATA[James]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HINICH]]></surname>
+<given-names><![CDATA[Melvin]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Spatial Theory of Voting: An Introduction]]></source>
+<year>1984</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Government Coalitions in Brazilian Democracy&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[Argelina]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Brazilian Political Science Review (Online)]]></source>
+<year>2011</year>
+<volume>vol.1</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>182-216</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[Argelina]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LIMONGI]]></surname>
+<given-names><![CDATA[Fernando]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Executivo e Legislativo na Nova Ordem Constitucional]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[FGV Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Presidential Power, Legislative Organization, and Party Behavior in Brazil&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FIGUEIREDO]]></surname>
+<given-names><![CDATA[Argelina]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comparative Politics]]></source>
+<year>2000</year>
+<volume>vol. 32</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>151-70</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Migração Partidária na Câmara dos Deputados de 1987 a 2009&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[FREITAS]]></surname>
+<given-names><![CDATA[Andréa]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2012</year>
+<volume>vol. 55</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>951-86</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HINICH]]></surname>
+<given-names><![CDATA[Melvin]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUNGER]]></surname>
+<given-names><![CDATA[Michael]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Analytical Politics]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Party Behaviour in the Parliamentary Arena: The Case of the Korean National Assembly&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HIX]]></surname>
+<given-names><![CDATA[Simone]]></given-names>
+</name>
+<name>
+<surname><![CDATA[JUN]]></surname>
+<given-names><![CDATA[Hae-Won]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Party politics]]></source>
+<year>2009</year>
+<volume>vol. 15</volume>
+<numero>no 6</numero>
+<issue>no 6</issue>
+<page-range>667-94</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Stability in competition&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HOTELLING]]></surname>
+<given-names><![CDATA[Harold]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Economic Journal]]></source>
+<year>1929</year>
+<volume>vol. 39</volume>
+<numero>no 153</numero>
+<issue>no 153</issue>
+<page-range>41-57</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Selection Effects in Roll Call Votes&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HUG]]></surname>
+<given-names><![CDATA[Simon]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2010</year>
+<volume>vol. 40</volume>
+<numero>no 1</numero>
+<issue>no 1</issue>
+<page-range>225-35</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JONES]]></surname>
+<given-names><![CDATA[Mark]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HWANG]]></surname>
+<given-names><![CDATA[Wonjae]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2005</year>
+<volume>vol. 49</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>267-82</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[JONES]]></surname>
+<given-names><![CDATA[Mark]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HWANG]]></surname>
+<given-names><![CDATA[Wonjae]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MICOZI]]></surname>
+<given-names><![CDATA[Juan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Government and Opposition in Argentina, 1989-2007: Understanding Inter-Party Dynamics through Roll Call Vote Analysis]]></source>
+<year>2008</year>
+<conf-name><![CDATA[ Trabalho apresentado no simpósio New Frontiers on Institutional Research in Latin America]]></conf-name>
+<conf-loc>Hamburgo </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Ideological Adaptation? The Survival Instinct of Threatened Legislators&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KOUSSER]]></surname>
+<given-names><![CDATA[Thad]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LEWIS]]></surname>
+<given-names><![CDATA[Jeffrey]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MASKET]]></surname>
+<given-names><![CDATA[Seth]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Politics]]></source>
+<year>2007</year>
+<volume>vol. 69</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>828-43</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Where&#8217;s the Party?&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KREHBIEL]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>1993</year>
+<volume>vol. 23</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>235-66</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Party Discipline and Measures of Partisanship&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KREHBIEL]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2000</year>
+<volume>vol. 44</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>212-27</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LAMOUNIER]]></surname>
+<given-names><![CDATA[Bolívar]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;A Democracia Brasileira de 1985 à Década de 90: A Síndrome da Paralisia Hiperativa&#8221;]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Velloso]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Governabilidade, Sistema Político e Violência Urbana]]></source>
+<year>1994</year>
+<page-range>26-63</page-range><publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[José Olympio]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Ideologia, Democracia e Comportamento Parlamentar: A Câmara dos Deputados (1991-1998)&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LEONI]]></surname>
+<given-names><![CDATA[Eduardo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2002</year>
+<volume>vol. 45</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>361-86</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LIJPHART]]></surname>
+<given-names><![CDATA[Arendt]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Patterns of Democracy: Government Forms and Performance in Thirty-Six Democracies]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[New Haven ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Bicameralism in the Americas: Around the Extremes of Symmetry and Incongruence&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LLANOS]]></surname>
+<given-names><![CDATA[Mariana]]></given-names>
+</name>
+<name>
+<surname><![CDATA[NOLTE]]></surname>
+<given-names><![CDATA[Detlef]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Legislative Studies]]></source>
+<year>2003</year>
+<volume>vol. 9</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>54-86</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Council of Elders? The Senate and its Members in the Southern Cone&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LLANOS]]></surname>
+<given-names><![CDATA[Mariana]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SÁNCHEZ]]></surname>
+<given-names><![CDATA[Francisco]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Latin American Research Review]]></source>
+<year>2006</year>
+<volume>vol. 41</volume>
+<numero>no 1</numero>
+<issue>no 1</issue>
+<page-range>133-52</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;O Senado no Brasil Recente: Política e Ajuste Fiscal&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[LOUREIRO]]></surname>
+<given-names><![CDATA[Maria]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[São Paulo em Perspectiva]]></source>
+<year>2001</year>
+<volume>vol. 15</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>53-61</page-range></nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MAINWARING]]></surname>
+<given-names><![CDATA[Scott]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sistemas Partidários em Novas Democracias: O Caso do Brasil]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+<publisher-name><![CDATA[Mercado Aberto]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCCARTY]]></surname>
+<given-names><![CDATA[Nolan]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[&#8220;Measuring Legislative Preferences&#8221;]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Schickler]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lee]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Oxford Handbook of American Congress]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;The Hunt for Party Discipline in Congress&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCCARTY]]></surname>
+<given-names><![CDATA[Nolan]]></given-names>
+</name>
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSENTHAL]]></surname>
+<given-names><![CDATA[Howard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2001</year>
+<volume>vol. 95</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>673-88</page-range></nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Intransitivities in Multidimensional Voting Models and Some Implications for Agenda Control&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MCKELVEY]]></surname>
+<given-names><![CDATA[Richard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Journal of Economic Theory]]></source>
+<year>1976</year>
+<volume>vol. 12</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>472-82</page-range></nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MELO]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Retirando as Cadeiras do Lugar: Migração Partidária na Câmara dos Deputados, 1985-2002]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[UFMG Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Czar Rule in the Russian Congress of People&#8217;s Deputies?]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MYAGKOV]]></surname>
+<given-names><![CDATA[Mikhail]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KIEWIET]]></surname>
+<given-names><![CDATA[D. Roderick]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>1996</year>
+<volume>vol. 21</volume>
+<numero>no 1</numero>
+<issue>no 1</issue>
+<page-range>5-40</page-range></nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEIVA]]></surname>
+<given-names><![CDATA[Pedro]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudo Comparado de Câmaras Altas: Os Poderes e o Papel dos Senados nos Sistemas Presidencialistas]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[Iuperj]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Os Determinantes da Existência e dos Poderes das Câmaras Altas: Federalismo ou Presidencialismo?&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEIVA]]></surname>
+<given-names><![CDATA[Pedro]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2006</year>
+<volume>vol. 49</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>269-99</page-range></nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Coesão e Disciplina Partidária no Senado Federal&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEIVA]]></surname>
+<given-names><![CDATA[Pedro]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2011</year>
+<month>a</month>
+<volume>vol. 54</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>289-318</page-range></nlm-citation>
+</ref>
+<ref id="B54">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Disciplina Partidária e Apoio ao Governo no Bicameralismo Brasileiro&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEIVA]]></surname>
+<given-names><![CDATA[Pedro]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2011</year>
+<month>b</month>
+<volume>vol. 19</volume>
+<numero>no 39</numero>
+<issue>no 39</issue>
+<page-range>183-96</page-range></nlm-citation>
+</ref>
+<ref id="B55">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Os &#8216;Doutores&#8217; da Federação: Formação Acadêmica dos Senadores Brasileiros e Variáveis Associadas&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NEIVA]]></surname>
+<given-names><![CDATA[Pedro]]></given-names>
+</name>
+<name>
+<surname><![CDATA[IZUMI]]></surname>
+<given-names><![CDATA[Mauricio]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revista de Sociologia e Política]]></source>
+<year>2012</year>
+<volume>vol. 20</volume>
+<numero>no 41</numero>
+<issue>no 41</issue>
+<page-range>171-92</page-range></nlm-citation>
+</ref>
+<ref id="B56">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Dynamics of Congressional Loyalty: Party Defection and Roll-Call Behavior, 1947-97&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOKKEN]]></surname>
+<given-names><![CDATA[Timothy]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>2000</year>
+<volume>vol. 25</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>417-44</page-range></nlm-citation>
+</ref>
+<ref id="B57">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Congressional Party Defection in American History&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[NOKKEN]]></surname>
+<given-names><![CDATA[Timothy]]></given-names>
+</name>
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>2004</year>
+<volume>vol. 29</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>545-68</page-range></nlm-citation>
+</ref>
+<ref id="B58">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Comportamento Estratégico em Presidencialismo de Coalizão: As Relações entre Executivo e Legislativo na Elaboração do Orçamento Brasileiro&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[Bernardo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2002</year>
+<volume>vol. 45</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>265-301</page-range></nlm-citation>
+</ref>
+<ref id="B59">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Partidos Fracos na Arena Eleitoral e Partidos Fortes na Arena Legislativa: A Conexão Eleitoral no Brasil&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[PEREIRA]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MUELLER]]></surname>
+<given-names><![CDATA[Bernardo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2003</year>
+<volume>vol. 46</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>735-71</page-range></nlm-citation>
+</ref>
+<ref id="B60">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Nonparametric Unfolding of Binary Choice Data&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Analysis]]></source>
+<year>2000</year>
+<volume>vol. 8</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>211-37</page-range></nlm-citation>
+</ref>
+<ref id="B61">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Spatial Models of Parliamentary Voting]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B62">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;A Spatial Model for Legislative Roll Call Analysis&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ROSENTHAL]]></surname>
+<given-names><![CDATA[Howard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>1985</year>
+<volume>vol. 29</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>357-84</page-range></nlm-citation>
+</ref>
+<ref id="B63">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Patterns of Congressional Voting&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>1991</year>
+<volume>vol. 35</volume>
+<numero>no 1</numero>
+<issue>no 1</issue>
+<page-range>228-78</page-range></nlm-citation>
+</ref>
+<ref id="B64">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[POOLE]]></surname>
+<given-names><![CDATA[Keith]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ideology and Congress]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[New Jersey ]]></publisher-loc>
+<publisher-name><![CDATA[Transaction Pub]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B65">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;O Conteúdo da Produção Legislativa Brasileira: Leis Nacionais ou Políticas Paroquiais&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[RICCI]]></surname>
+<given-names><![CDATA[Paolo]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>2003</year>
+<volume>vol. 46</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>699-734</page-range></nlm-citation>
+</ref>
+<ref id="B66">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Analyzing Roll Calls with Perfect Spatial Voting: France1946-1958&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ROSENTHAL]]></surname>
+<given-names><![CDATA[Howard]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Voeten]]></surname>
+<given-names><![CDATA[Erik]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Journal of Political Science]]></source>
+<year>2004</year>
+<volume>vol. 48</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>620-32</page-range></nlm-citation>
+</ref>
+<ref id="B67">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAMUELS]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ambition, Federalism, and Legislative Politics in Brazil]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B68">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;The Value of a Vote: Malapportionment in Comparative Perspective&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SAMUELS]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+<name>
+<surname><![CDATA[SNYDER]]></surname>
+<given-names><![CDATA[Richard]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[British Journal of Political Science]]></source>
+<year>2001</year>
+<volume>vol. 31</volume>
+<numero>no 4</numero>
+<issue>no 4</issue>
+<page-range>651-71</page-range></nlm-citation>
+</ref>
+<ref id="B69">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SANTOS]]></surname>
+<given-names><![CDATA[Fabiano]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[O Poder Legislativo no Presidencialismo de Coalizão]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Belo Horizonte ]]></publisher-loc>
+<publisher-name><![CDATA[UFMG Editora]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B70">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;A Bridge to Somewhere: Mapping State and Congressional Ideology on a Cross-Institutional Common Space&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SHOR]]></surname>
+<given-names><![CDATA[Boris]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BERRY]]></surname>
+<given-names><![CDATA[Christopher]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MCCARTY]]></surname>
+<given-names><![CDATA[Nolan]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Legislative Studies Quarterly]]></source>
+<year>2010</year>
+<volume>vol. 35</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>417-48</page-range></nlm-citation>
+</ref>
+<ref id="B71">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;UK OC OK? Interpreting Optimal Classification Scores for the U.K. House of Commons&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPIRLING]]></surname>
+<given-names><![CDATA[Arthur]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MCLEAN]]></surname>
+<given-names><![CDATA[Iain]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Political Analysis]]></source>
+<year>2007</year>
+<volume>vol. 15</volume>
+<numero>no 1</numero>
+<issue>no 1</issue>
+<page-range>85-96</page-range></nlm-citation>
+</ref>
+<ref id="B72">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Para uma Nova Análise Comparativa do Federalismo e da Democracia: Federações que Restringem ou Ampliam o Poder do Demos&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STEPAN]]></surname>
+<given-names><![CDATA[Alfred]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[DADOS &#8211; Revista de Ciências Sociais]]></source>
+<year>1999</year>
+<volume>vol. 42</volume>
+<numero>no 2</numero>
+<issue>no 2</issue>
+<page-range>197-251</page-range></nlm-citation>
+</ref>
+<ref id="B73">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Congressional Voting over Legislative Careers: Shifting Positions and Changing Constraints&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[STRATMANN]]></surname>
+<given-names><![CDATA[Thomas]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American Political Science Review]]></source>
+<year>2000</year>
+<volume>vol. 94</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>665-76</page-range></nlm-citation>
+</ref>
+<ref id="B74">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TSEBELIS]]></surname>
+<given-names><![CDATA[George]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MONEY]]></surname>
+<given-names><![CDATA[Jeannette]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bicameralism]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B75">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Ideology or What? Legislative Behavior in Multiparty Presidential Settings&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZUCCO]]></surname>
+<given-names><![CDATA[César]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Journal of Politics]]></source>
+<year>2009</year>
+<volume>vol. 71</volume>
+<numero>no 3</numero>
+<issue>no 3</issue>
+<page-range>1076-92</page-range></nlm-citation>
+</ref>
+<ref id="B76">
+<nlm-citation citation-type="journal">
+<article-title xml:lang=""><![CDATA[&#8220;Legislative Coalitions in Presidential Systems: The Case of Uruguay&#8221;]]></article-title>
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ZUCCO]]></surname>
+<given-names><![CDATA[César]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Latin American Politics and Society]]></source>
+<year>2013</year>
+<volume>vol. 55</volume>
+<numero>no1</numero>
+<issue>no1</issue>
+<page-range>96-118</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

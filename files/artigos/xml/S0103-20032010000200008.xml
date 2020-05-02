@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>0103-2003</journal-id>
+<journal-title><![CDATA[Revista de Economia e Sociologia Rural]]></journal-title>
+<abbrev-journal-title><![CDATA[Rev. Econ. Sociol. Rural]]></abbrev-journal-title>
+<issn>0103-2003</issn>
+<publisher>
+<publisher-name><![CDATA[Sociedade Brasileira de Economia e Sociologia Rural]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S0103-20032010000200008</article-id>
+<article-id pub-id-type="doi">10.1590/S0103-20032010000200008</article-id>
+<title-group>
+<article-title xml:lang="pt"><![CDATA[Abordagem conexionista para análise espacial exploratória de dados socioeconômicos de territórios rurais]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Silva]]></surname>
+<given-names><![CDATA[Marcos Aurélio Santos da]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Siqueira]]></surname>
+<given-names><![CDATA[Edmar Ramos de]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Teixeira]]></surname>
+<given-names><![CDATA[Olívio Alberto]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A">
+<institution><![CDATA[,  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>06</month>
+<year>2010</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>06</month>
+<year>2010</year>
+</pub-date>
+<volume>48</volume>
+<numero>2</numero>
+<fpage>429</fpage>
+<lpage>446</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-20032010000200008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0103-20032010000200008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0103-20032010000200008&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[O uso de técnicas de análise multivariada para avaliação espacial exploratória de dados agregados por áreas rurais tem se mostrado útil na caracterização e tipologia territorial. Ganha destaque nesta tarefa a abordagem conexionista, em especial a rede neural não supervisionada do tipo Mapa Auto-Organizável (MAO), ao agregar funções de análise de agrupamentos e de visualização de dados. Este trabalho estudou a capacidade da rede MAO no processo de avaliação exploratória de dados oriundos de múltiplas fontes para fins de determinação de agregados locais no Território Rural Centro-Sul de Sergipe (TRCSS). Os resultados evidenciaram que, apesar de homogêneo, o TRCSS apresenta subgrupos territoriais com diferenças significativas para as variáveis estudadas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The use of multivariate analysis techniques for exploratory spatial study of rural geospatial data has being useful in territorial characterization and typology. Connectionist approach is a very efficient computational method for these tasks, mainly the Self-Organizing Map (SOM). Through the use of SOM clustering and data visualization can be conducted simultaneously. This paper assesses the capacity of SOM algorithm in the task of exploratory multisource data analysis for local aggregation verification in the Center-South Rural Territory of Sergipe State, Brazil. Results shown that, despite the homogeneity of the region, there are significant differences among sub-groups of municipalities that compose the territory.]]></p></abstract>
+<kwd-group>
+<kwd lng="pt"><![CDATA[mapa auto-organizável]]></kwd>
+<kwd lng="pt"><![CDATA[visualização]]></kwd>
+<kwd lng="pt"><![CDATA[agrupamento]]></kwd>
+<kwd lng="pt"><![CDATA[território]]></kwd>
+<kwd lng="en"><![CDATA[self-organizing maps]]></kwd>
+<kwd lng="en"><![CDATA[visualization]]></kwd>
+<kwd lng="en"><![CDATA[clustering]]></kwd>
+<kwd lng="en"><![CDATA[territory]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p><a name="top"></a><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>Abordagem    conexionista para an&aacute;lise espacial explorat&oacute;ria de dados socioecon&ocirc;micos    de territ&oacute;rios rurais</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Marcos Aur&eacute;lio    Santos da Silva<sup>I</sup>; Edmar Ramos de Siqueira<sup>II</sup>; Ol&iacute;vio    Alberto Teixeira<sup>III</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>E-mail:    <a href="mailto:aurelio@cpatc.embrapa.br">aurelio@cpatc.embrapa.br</a>    <br>   <sup>II</sup>E-mail: <a href="mailto:edmar@cpatc.embrapa.br">edmar@cpatc.embrapa.br</a>    <br>   <sup>III</sup>E-mail: <a href="mailto:teixeira@ufs.br">teixeira@ufs.br</a></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O uso de t&eacute;cnicas    de an&aacute;lise multivariada para avalia&ccedil;&atilde;o espacial explorat&oacute;ria    de dados agregados por &aacute;reas rurais tem se mostrado &uacute;til na caracteriza&ccedil;&atilde;o    e tipologia territorial. Ganha destaque nesta tarefa a abordagem conexionista,    em especial a rede neural n&atilde;o supervisionada do tipo Mapa Auto-Organiz&aacute;vel    (MAO), ao agregar fun&ccedil;&otilde;es de an&aacute;lise de agrupamentos e    de visualiza&ccedil;&atilde;o de dados. Este trabalho estudou a capacidade da    rede MAO no processo de avalia&ccedil;&atilde;o explorat&oacute;ria de dados    oriundos de m&uacute;ltiplas fontes para fins de determina&ccedil;&atilde;o    de agregados locais no Territ&oacute;rio Rural Centro-Sul de Sergipe (TRCSS).    Os resultados evidenciaram que, apesar de homog&ecirc;neo, o TRCSS apresenta    subgrupos territoriais com diferen&ccedil;as significativas para as vari&aacute;veis    estudadas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Palavras-chave:    </b> mapa auto-organiz&aacute;vel, visualiza&ccedil;&atilde;o, agrupamento,    territ&oacute;rio.</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The use of multivariate    analysis techniques for exploratory spatial study of rural geospatial data has    being useful in territorial characterization and typology. Connectionist approach    is a very efficient computational method for these tasks, mainly the Self-Organizing    Map (SOM). Through the use of SOM clustering and data visualization can be conducted    simultaneously. This paper assesses the capacity of SOM algorithm in the task    of exploratory multisource data analysis for local aggregation verification    in the Center-South Rural Territory of Sergipe State, Brazil. Results shown    that, despite the homogeneity of the region, there are significant differences    among sub-groups of municipalities that compose the territory.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Key-words:</b>    self-organizing maps, visualization, clustering, territory.    <br>   <b>Classifica&ccedil;&atilde;o JEL:</b> C630, R120.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>1. Introdu&ccedil;&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Desde 2003, importantes    aspectos das pol&iacute;ticas p&uacute;blicas de desenvolvimento rural brasileiro    foram definidos a partir de recortes territoriais. Assim, a defini&ccedil;&atilde;o    de territ&oacute;rio rural adotada pelo Minist&eacute;rio do Desenvolvimento    Agr&aacute;rio (MDA) &eacute; clara quanto &agrave; multidimensionalidade dos    fatores constituintes e formadores desse espa&ccedil;o (MDA, 2005). Embora a    coes&atilde;o sociocultural seja um dos pilares da identidade regional, componentes    biof&iacute;sicos tamb&eacute;m auxiliam na 'delimita&ccedil;&atilde;o' do territ&oacute;rio,    ao determinar a fonte de recursos naturais e econ&ocirc;micos que afetar&atilde;o    o padr&atilde;o de ocupa&ccedil;&atilde;o espacial. Vale ressaltar a forte tend&ecirc;ncia    de concentra&ccedil;&atilde;o populacional em ambientes favor&aacute;veis (com    oferta h&iacute;drica, qualidade dos solos, acesso a mercados etc.).</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o MDA, outra    etapa fundamental na constru&ccedil;&atilde;o de territ&oacute;rios consiste    na defini&ccedil;&atilde;o dos conceitos de empoderamento e governan&ccedil;a.    O primeiro diz respeito &agrave; tomada de consci&ecirc;ncia por meio do acesso    a informa&ccedil;&otilde;es sobre territ&oacute;rio, cidadania, direitos e deveres,    bem como da maior capacidade de comunica&ccedil;&atilde;o em f&oacute;runs colegiados    representativos e democr&aacute;ticos. Uma boa governan&ccedil;a denota coes&atilde;o    social, atrav&eacute;s da diversidade de representa&ccedil;&atilde;o nos ambientes    decis&oacute;rios, com amplo controle social a partir da tomada de decis&atilde;o    colegiada bem articulada, com base em demandas, fatos e dados reais. Observa-se,    portanto, que a oferta de informa&ccedil;&atilde;o estruturada e organizada    sobre o territ&oacute;rio constitui-se fator determinante no estudo e entendimento    do mesmo, al&eacute;m de auxiliar os processos de empoderamento e governan&ccedil;a    (SABOURIN e TEIXEIRA, 2002).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Este trabalho avaliou    a presen&ccedil;a ou aus&ecirc;ncia de agregados locais no Territ&oacute;rio    Rural Centro-Sul de Sergipe<a name="top1"></a><a href="#back1"><sup>1</sup></a>    (TRCSS), assim como tend&ecirc;ncias de aproxima&ccedil;&atilde;o e distanciamento    de munic&iacute;pios no espa&ccedil;o de atributos para os per&iacute;odos de    refer&ecirc;ncia 1996 e 2006. A abordagem conexionista foi adotada para a an&aacute;lise    de agregados territoriais, devido a suas caracter&iacute;sticas b&aacute;sicas    de reconhecimento de padr&otilde;es complexos em dados reais (HAYKIN, 2001).    A rede neural n&atilde;o supervisionada Mapa Auto-Organiz&aacute;vel (MAO) aplicada    neste trabalho tamb&eacute;m combina a capacidade de an&aacute;lise de agrupamentos    com mecanismos de visualiza&ccedil;&atilde;o de dados (KOHONEN, 2001).</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>2. Mapas Auto-Organiz&aacute;veis</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O Mapa Auto-Organiz&aacute;vel    (MAO) consiste num algoritmo de quantiza&ccedil;&atilde;o vetorial e ordena&ccedil;&atilde;o    de dados, motivado por estudos do comportamento do c&oacute;rtex cerebral (KOHONEN,    2001). A rede MAO organiza os sinais de entrada (dados) num reticulado de neur&ocirc;nios    uni, bi ou tridimensional, associados a vetores de c&oacute;digo <i>w<sub>j</sub>=&#91;w<sub>j1</sub>,w<sub>j2</sub>,...,w<sub>jd</sub>&#93;<sup>    T</sup></i>, que representar&atilde;o o conjunto de dados de entrada da rede.    Esse ordenamento possibilita a visualiza&ccedil;&atilde;o dos dados e a consequente    parti&ccedil;&atilde;o dos mesmos em grupos homog&ecirc;neos em termos dos atributos    considerados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O reticulado hexagonal,    <i>MxN,</i> representado pelos <i>m (m = M.N)</i> neur&ocirc;nios, constitui    a arquitetura b&aacute;sica da rede MAO. O vetor de vari&aacute;veis aleat&oacute;rias    <i>x<sub>k</sub>=&#91;</i></font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><sub>1</sub>,</i>    </font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><sub>2</sub>,...,</i>    </font><font size="2">&#958;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i><sub>d</sub>&#93;<sup>T</sup></i>    corresponde aos sinais de entrada da rede. Um conjunto de <i>n</i> inst&acirc;ncias    de <i>x<sub>k</sub></i> deve ser apresentado &agrave; rede MAO para que, ap&oacute;s    o seu processamento, essas inst&acirc;ncias sejam representadas pelos vetores    de c&oacute;digo <i>w</i> de forma ordenada no reticulado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Tem-se, a seguir,    o algoritmo da rede MAO, considerando aprendizagem em lote:</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1: inicia&ccedil;&atilde;o    linear dos vetores de c&oacute;digo <i>w</i>;</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2: defini&ccedil;&atilde;o    dos par&acirc;metros de processamento da rede MAO;</font></p>     <blockquote>        ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2.1: n&uacute;mero      de itera&ccedil;&otilde;es de aprendizagem <i>T, t(0) = 1;</i></font></p>       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2.2: dimens&otilde;es      <i>M</i> e <i>N</i> da rede MAO;</font></p>       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2.3: raio inicial,      </font><font size="2">&#948;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>(0)</i>,      do processo de atualiza&ccedil;&atilde;o dos vetores de c&oacute;digo.</font></p> </blockquote>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3: para cada tempo    <i>t</i> discreto e natural at&eacute; <i>T</i> fa&ccedil;a;</font></p>     <blockquote>        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3.1: para todo      <i>x<sub>k</sub></i> encontre o neur&ocirc;nio <i>c</i> que seja o mais similar      a <i>x<sub>k</sub></i> segundo a dist&acirc;ncia euclidiana (<i>d<sub>ij</sub></i>),      <i>c = argmin<sub>j</sub>{||w<sub>k</sub> - w<sub>j</sub>||}, j=1,2,...,m</i>,      sendo <i>m</i> correspondente ao n&uacute;mero de neur&ocirc;nios da rede.</font></p>       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3.2: atualize      os vetores de c&oacute;digo do neur&ocirc;nio <i>c</i> e de seus vizinhos      segundo o raio </font><font size="2">&#948;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">      conforme as equa&ccedil;&otilde;es:</font></p> </blockquote>     <p align="center"><img src="/img/revistas/resr/v48n2/08x01a03.jpg" align="absmiddle"></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">em que <i>s<sub>i</sub></i>    representa o somat&oacute;rio dos padr&otilde;es relativos &agrave; regi&atilde;o    de Voronoi <i>V<sub>i</sub></i> e <i>n<sub>Vi</sub></i> corresponde ao n&uacute;mero    de amostras do conjunto de Voronoi do neur&ocirc;nio <i>i</i>. O termo <i>h(t)</i>    &eacute; a fun&ccedil;&atilde;o que determina a vizinhan&ccedil;a entre o neur&ocirc;nio    vencedor <i>c</i> e seus vizinhos.</font></p>     <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">    <img src="/img/revistas/resr/v48n2/08x04.jpg" align="absmiddle"> </font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ap&oacute;s o processamento    do algoritmo MAO, tem-se que a rede apresenta as seguintes propriedades:</font></p>     <blockquote>        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">i) cada inst&acirc;ncia      do vetor de entrada <i>x<sub>k</sub></i> est&aacute; associada a um &uacute;nico      neur&ocirc;nio;</font></p>       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ii) cada vetor      de c&oacute;digo <i>w<sub>j</sub></i> codifica ou representa o conjunto de      dados associados ao neur&ocirc;nio <i>j</i>;</font></p>       <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">iii) a proximidade      f&iacute;sica entre os neur&ocirc;nios e seus dados associados denota tamb&eacute;m      proximidade no espa&ccedil;o de atributos. Todavia, pode haver neur&ocirc;nios      vizinhos que n&atilde;o sejam similares entre si.</font></p> </blockquote>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">S&atilde;o essas    propriedades que permitem a detec&ccedil;&atilde;o de agrupamentos nos dados.    Os m&eacute;todos tradicionais de an&aacute;lise como o k-m&eacute;dias e a    abordagem hier&aacute;rquica sobre os vetores de c&oacute;digo t&ecirc;m sido    bastante aplicados (VESANTO e ALHONIEMI, 2000). No entanto, as an&aacute;lises    das proje&ccedil;&otilde;es dos vetores de c&oacute;digo, para o caso das redes    com reticulado bidimensional, se mostram mais efetivas na detec&ccedil;&atilde;o    de agrupamentos com estruturas complexas (ULTSCH, 1993; KASKI e KOHONEN, 1996;    VESANTO, 1997; VESANTO, 1999).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A forma de proje&ccedil;&atilde;o    adotada neste trabalho baseou-se nos Planos de Componentes (PC's) (KOHONEN,    2001), gerados, um para cada vari&aacute;vel, a partir dos vetores de c&oacute;digo    <i>w</i>. Gera-se, ent&atilde;o, um padr&atilde;o coropl&eacute;tico para a    rede MAO, no qual, para cada vari&aacute;vel <i>i,</i> se colore um neur&ocirc;nio    <i>j</i> de acordo com o valor <i>w<sub>ji</sub></i> do vetor de c&oacute;digo.    A <a href="#f1">Figura 1</a> mostra as etapas de gera&ccedil;&atilde;o de dois    planos componentes relativos ao processamento de uma rede MAO 2D, hexagonal    e de dimens&otilde;es 3x4 (<a href="#f1">Figura 1a</a>). Processaram-se 12 vetores    de entrada de dimens&atilde;o igual a dois com posterior rotula&ccedil;&atilde;o    (<a href="#f1">Figura&nbsp;1b</a>). Foram gerados os PC's para as vari&aacute;veis    &iacute;ndice de pobreza e IDHM-Renda (<a href="#f1">Figura&nbsp;1c</a> <a href="#f1">e</a>    <a href="#f1">d</a>).</font></p>     <p><a name="f1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/08f01.jpg"></p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Rede MAO 2D, hexagonal    e de dimens&otilde;es 3x4 antes do processamento (a). Rede neural rotulada ap&oacute;s    o processamento (b). PC's para as vari&aacute;veis &iacute;ndice de pobreza    e IDHM-Renda (c) e (d).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> A interpreta&ccedil;&atilde;o    dos planos de componentes (PC) &eacute; bastante intuitiva. Cada PC corresponde    a uma distribui&ccedil;&atilde;o dos valores dos vetores representativos da    rede MAO. O intervalo de valores assumidos por w, para cada componente, ser&aacute;    convertido em escalas de cinza segundo o seguinte padr&atilde;o: o valor mais    baixo &eacute; representado pela cor branca, e os demais valores, em ordem crescente,    assumem tonalidades de cinza at&eacute; que o valor mais alto seja representado    pela cor preta. Para cada rede MAO, t&ecirc;m-se <i>d</i> PC's, sendo que <i>d</i>    corresponde &agrave; dimens&atilde;o do vetor <i>x<sub>k</sub></i>. A partir    dos PC's, &eacute; poss&iacute;vel verificar a presen&ccedil;a de dados at&iacute;picos    (MU&Ntilde;OZ e MURUZ&Aacute;BAL, 1998), avaliar correla&ccedil;&atilde;o entre    vari&aacute;veis (VESANTO e AHOLA, 1999), al&eacute;m de estudar a depend&ecirc;ncia    espacial dos componentes em an&aacute;lise (BA&Ccedil;&Atilde;O et al., 2008;    SPIELMAN e THILL, 2008).</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>3. An&aacute;lise    de dados geoespaciais a partir dos Mapas Auto-Organiz&aacute;veis (MAO)</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Embora a rede MAO    esteja se consolidando como uma ferramenta eficiente de an&aacute;lise explorat&oacute;ria    de dados, poucos s&atilde;o os trabalhos relacionados &agrave; depend&ecirc;ncia    espacial (OPENSHAW, BLAKE e WYMER, 1994; SPIELMAN e THILL, 2008). Considerando    que n&atilde;o h&aacute; uma teoria para validar a primeira lei de Tobler (1970),    que afirma que localidades pr&oacute;ximas s&atilde;o mais parecidas que as    que est&atilde;o distantes umas da outras, muitas pesquisas emp&iacute;ricas    sugerem formas de abordagem pr&aacute;tica para esse problema.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Kaski e Kohonen    (1996) elaboraram um dos primeiros estudos sobre o uso dos planos de componentes    para avalia&ccedil;&atilde;o de agregados territoriais, a partir de informa&ccedil;&otilde;es    estat&iacute;sticas de um determinado conjunto de pa&iacute;ses. Apesar de os    dados estarem associados a localiza&ccedil;&otilde;es geogr&aacute;ficas, n&atilde;o    foi efetuada an&aacute;lise alguma de depend&ecirc;ncia espacial. J&aacute;    o trabalho de Winter e Hewitson (1994) procurou, mesmo que de forma restrita,    usar os PC's como mecanismo de avalia&ccedil;&atilde;o da distribui&ccedil;&atilde;o    espacial, com base em dados demogr&aacute;ficos. Openshaw e Openshaw (1997)    enfatizaram a capacidade da rede MAO na an&aacute;lise espacial, destacando,    sobretudo, as possibilidades de uso de variados m&eacute;todos de visualiza&ccedil;&atilde;o    dos dados.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Trabalhos mais    recentes apontam para o crescimento de t&eacute;cnicas e m&eacute;todos vinculados    &agrave; rede MAO para a an&aacute;lise da depend&ecirc;ncia espacial. Ba&ccedil;&atilde;o    et al. (2005) incluem explicitamente no algoritmo de processamento da rede as    coordenadas geogr&aacute;ficas dos dados multivariados oriundos do censo demogr&aacute;fico.    Esse procedimento for&ccedil;a a exist&ecirc;ncia de rela&ccedil;&atilde;o de    proximidade dos espa&ccedil;os f&iacute;sicos e de atributos, mas impede a verifica&ccedil;&atilde;o    explorat&oacute;ria da depend&ecirc;ncia espacial.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A an&aacute;lise    temporal, neste trabalho, foi realizada a partir do uso de duas redes MAO para    interpreta&ccedil;&atilde;o dos dois conjuntos de dados de refer&ecirc;ncia:    de 1996 e 2006. Skupin e Hagelman (2005) avaliaram a fus&atilde;o dos dados    temporais num &uacute;nico conjunto, para serem interpretados atrav&eacute;s    dos PC's de redes com <i>m &gt;&gt; n</i> e uso de interpoladores sobre os PC's,    para posterior interpreta&ccedil;&atilde;o visual das trajet&oacute;rias das    unidades de estudo no mapa neural. Embora seja efetiva, essa estrat&eacute;gia    deve ser aplicada ap&oacute;s a an&aacute;lise dos m&eacute;todos b&aacute;sicos    de visualiza&ccedil;&atilde;o de dados com a rede MAO.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Spielman e Thill    (2008) elaboraram estudo bastante conclusivo sobre generaliza&ccedil;&atilde;o    descritiva de dados geodemogr&aacute;ficos, com alto n&iacute;vel de acoplamento    entre o algoritmo MAO e o Sistema de Informa&ccedil;&atilde;o Geogr&aacute;fica    (SIG), usado para gera&ccedil;&atilde;o dos mapas s&iacute;ntese. Por&eacute;m,    os PC's n&atilde;o foram usados para a an&aacute;lise dos dados. Os autores    inverteram o processo de associa&ccedil;&atilde;o, partindo do mapa f&iacute;sico    para o mapa neural. Essa t&eacute;cnica, apesar de eficiente, depende do desenvolvimento    de ferramentas de liga&ccedil;&atilde;o entre a rede MAO e o SIG.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Neste trabalho,    adotou-se a rede MAO bidimensional 20x15, com reticulado hexagonal, fun&ccedil;&atilde;o    de vizinhan&ccedil;a gaussiana, inicia&ccedil;&atilde;o linear dos vetores de    c&oacute;digo, algoritmo de aprendizagem em lote unif&aacute;sico com 1.000    itera&ccedil;&otilde;es e raio inicial de atualiza&ccedil;&atilde;o dos vetores    de c&oacute;digo igual a 15. O pacote SOMToolbox (VESANTO et al., 1999) foi    usado para processamento dos dados.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>4. O Territ&oacute;rio    Rural Centro-Sul de Sergipe (TRCSS)</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A composi&ccedil;&atilde;o    inicial do Territ&oacute;rio Rural Centro-Sul de Sergipe (TRCSS) continha 15    munic&iacute;pios: Tomar do Geru (TG), Umba&uacute;ba (UMB), S&atilde;o Crist&oacute;v&atilde;o    (SC), Itabaianinha (ITN), Salgado (SAL), Est&acirc;ncia (EST), Riach&atilde;o    do Dantas (RDD), Cristin&aacute;polis (CRP), Itaporanga D'Ajuda (IAJ), Indiaroba    (IND), Santa Luzia do Itanhy (SLI), Pedrinhas (PDR), Lagarto (LGT), Arau&aacute;    (ARA) e Boquim (BUI).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O Territ&oacute;rio    ocupa uma &aacute;rea de 5.441,80 km<sup>2</sup>, com as principais atividades    econ&ocirc;micas da regi&atilde;o concentradas na agricultura. H&aacute; forte    participa&ccedil;&atilde;o das lavouras permanentes (citros e coco), das pastagens    (destaca-se o rebanho bovino), al&eacute;m de expressiva presen&ccedil;a da    agricultura familiar.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para a an&aacute;lise    explorat&oacute;ria de agregados regionais no TRCSS e a avalia&ccedil;&atilde;o    de tend&ecirc;ncia entre os per&iacute;odos de refer&ecirc;ncia 1996 e 2006,    considerou-se como popula&ccedil;&atilde;o de estudo todos os munic&iacute;pios    do estado (74), exceto Aracaju, e 34 vari&aacute;veis oriundas dos censos agropecu&aacute;rios    do IBGE (Instituto Brasileiro de Geografia e Estat&iacute;stica) de 1996 (IBGE,    2009a) e 2006 (IBGE, 2008), as m&eacute;dias aritm&eacute;ticas da Produ&ccedil;&atilde;o    Agr&iacute;cola Municipal de 1991-1996 e de 2001-2006 (IBGE, 2009b) e informa&ccedil;&otilde;es    de 1991 e 2000 relativas ao Atlas de Desenvolvimento Humano no Brasil, do Programa    das Na&ccedil;&otilde;es Unidas para o Desenvolvimento (PNUD, 2009), divididas    em nove fatores, conforme a <a href="#t1">Tabela 1</a>.</font></p>     <p><a name="t1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/08t01.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O munic&iacute;pio    de Aracaju foi retirado da popula&ccedil;&atilde;o por ter caracter&iacute;sticas    bastante distintas dos demais. Apresenta valores extremos para a maioria das    vari&aacute;veis, o que aproximaria as outras cidades no espa&ccedil;o de atributos,    impossibilitando a visualiza&ccedil;&atilde;o dos dados no mapa neural de forma    clara.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A escolha das vari&aacute;veis    baseou-se na disponibilidade de informa&ccedil;&otilde;es sobre os per&iacute;odos    pr&oacute;ximos a 1996 e a 2006, referenciais dos censos agropecu&aacute;rios.    Como h&aacute; diferen&ccedil;as entre as vari&aacute;veis adotadas entre os    dois censos e, considerando que o IBGE liberou somente dados preliminares do    censo 2006, as componentes dos censos restringiram-se aos fatores uso da terra,    tratores, efetivo de animais e produ&ccedil;&atilde;o animal. Os dados sobre    produ&ccedil;&atilde;o vegetal vieram da PAM/IBGE (Pesquisa Agr&iacute;cola    Municipal do IBGE), sendo que, para o ano refer&ecirc;ncia 1996, adotou-se a    m&eacute;dia da produ&ccedil;&atilde;o agr&iacute;cola entre 1991 e 1996 e,    analogamente, para o ano refer&ecirc;ncia 2006, a m&eacute;dia da produ&ccedil;&atilde;o    agr&iacute;cola entre 2001 e 2006.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Considerando o    objetivo de incluir no processo de an&aacute;lise vari&aacute;veis n&atilde;o    relacionadas com fatores eminentemente agr&iacute;colas e, levando em conta    a restri&ccedil;&atilde;o da necessidade de compara&ccedil;&atilde;o temporal,    adotaram-se vari&aacute;veis referentes aos fatores educa&ccedil;&atilde;o,    longevidade, renda e pobreza do Atlas de Desenvolvimento Humano no Brasil/PNUD.    Para o ano refer&ecirc;ncia 1996, foram utilizados os valores relativos ao ano    de 1991 e, da mesma forma, para o ano refer&ecirc;ncia 2006, os valores de 2000.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>5. Resultados    e discuss&atilde;o</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ap&oacute;s o processamento    da rede MAO, para cada ano refer&ecirc;ncia (1996 e 2006), rotularam-se os neur&ocirc;nios    com as siglas municipais, de forma que a proximidade no espa&ccedil;o de atributos    entre dois munic&iacute;pios pudesse ser observada atrav&eacute;s da proximidade    f&iacute;sica no reticulado neural. Assim, em 1996, constatou-se dispers&atilde;o    no espa&ccedil;o de atributos entre os munic&iacute;pios do TRCSS, com a consequente    presen&ccedil;a de cidades isoladas como LGT, EST, SAL, SC e IAJ. J&aacute;    em 2006, observou-se uma aproxima&ccedil;&atilde;o entre os munic&iacute;pios    do TRCSS, exceto SC, que permaneceu isolado das demais cidades do territ&oacute;rio    (<a href="#f2">Figura 2a</a> e <a href="#f2">2b</a>).</font></p>     <p><a name="f2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/08f02.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A tend&ecirc;ncia    &agrave; homogeneiza&ccedil;&atilde;o no espa&ccedil;o de atributos dos munic&iacute;pios    do TRCSS &eacute; um fator extremamente relevante quando se tem como prop&oacute;sito    a elabora&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas regionais de    desenvolvimento. No entanto, a visualiza&ccedil;&atilde;o da distribui&ccedil;&atilde;o    dos munic&iacute;pios no mapa neural n&atilde;o informa em que dire&ccedil;&atilde;o    estar&aacute; indo esse processo de equipara&ccedil;&atilde;o. Para fazer a    avalia&ccedil;&atilde;o qualitativa da distribui&ccedil;&atilde;o das cidades,    conforme os valores das vari&aacute;veis (atrav&eacute;s da visualiza&ccedil;&atilde;o    dos vetores de c&oacute;digo), gerou-se os PC's.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">S&atilde;o 34 planos    de componentes para cada ano refer&ecirc;ncia, conforme as <a href="#f3">Figuras    3</a> e <a href="#f4">4</a>. Embora todos os munic&iacute;pios estejam representados    nos PC's, far-se-&aacute; refer&ecirc;ncia somente &agrave;queles do territ&oacute;rio    em an&aacute;lise. O grande n&uacute;mero de PC's impede que todos sejam apresentados    com os r&oacute;tulos perfeitamente vis&iacute;veis. Logo, recomenda-se consulta    &agrave; <a href="#f2">Figura 2</a> para associa&ccedil;&atilde;o do neur&ocirc;nio    com o munic&iacute;pio.</font></p>     <p><a name="f3"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/08f03.jpg"></p>     <p>&nbsp;</p>     <p><a name="f4"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/08f04.jpg"></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para os dados de    refer&ecirc;ncia de 1996 (planos de componentes da <a href="#f3">Figura 3</a>),    observa-se predom&iacute;nio de munic&iacute;pios com grande percentual do seu    territ&oacute;rio coberto por pastagens. Destaque para o reduzido n&uacute;mero    de cidades com grande percentual da &aacute;rea coberta por lavouras, incluindo    PDR, UMB e BUI.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quanto ao fator    efetivo de animais, verifica-se correla&ccedil;&atilde;o entre as vari&aacute;veis    efetivo de bovinos e ovinos e entre as vari&aacute;veis efetivo de caprinos    e su&iacute;nos. S&atilde;o Crist&oacute;v&atilde;o (SC) apresenta valores de    efetivo de su&iacute;nos e aves bem acima da m&eacute;dia dos demais munic&iacute;pios.    Para o fator produ&ccedil;&atilde;o animal, destaca-se novamente SC, com produ&ccedil;&atilde;o    de ovos bastante superior &agrave; m&eacute;dia do estado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Os PC's relativos    ao fator educa&ccedil;&atilde;o mostram claramente correla&ccedil;&atilde;o    entre IDHM-Educa&ccedil;&atilde;o e taxa de alfabetiza&ccedil;&atilde;o, entre    taxa bruta de frequ&ecirc;ncia &agrave; escola e taxa bruta de freq&uuml;&ecirc;ncia    ao fundamental, e entre as vari&aacute;veis taxa bruta de frequ&ecirc;ncia ao    ensino m&eacute;dio e taxa bruta de frequ&ecirc;ncia ao superior. Os munic&iacute;pios    de LGT, EST, SAL e SC apresentaram os melhores &iacute;ndices para o fator educa&ccedil;&atilde;o,    sendo que SC registrou, ainda, os melhores &iacute;ndices relacionados ao fator    longevidade.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As duas vari&aacute;veis    referentes &agrave; renda tiveram correla&ccedil;&atilde;o. Os munic&iacute;pios    de EST, LGT, BUI, PDR e UMB apresentaram os melhores &iacute;ndices relativos    &agrave; renda. O fator pobreza mostrou que h&aacute; correla&ccedil;&atilde;o    entre as vari&aacute;veis percentual de indigentes e intensidade da pobreza    e entre as vari&aacute;veis percentual de pobres, percentual de crian&ccedil;as    indigentes e percentual de crian&ccedil;as pobres. Os melhores &iacute;ndices    para esse fator foram registrados pelos munic&iacute;pios de EST, LGT, PDR,    UMB e BUI. Para o fator produ&ccedil;&atilde;o vegetal, as vari&aacute;veis    obtiveram alto grau de homogeneidade, com destaque para a produ&ccedil;&atilde;o    de mandioca em LGT. Para esse fator, o TRCSS mostrou voca&ccedil;&atilde;o para    a produ&ccedil;&atilde;o de banana (todos os munic&iacute;pios do TRCSS) e coco    (EST e IAJ).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quanto &agrave;s    vari&aacute;veis do ano refer&ecirc;ncia 2006 (<a href="#f4">Figura 4</a>),    observa-se dados at&iacute;picos para o fator uso da terra, que n&atilde;o apresenta    rela&ccedil;&atilde;o alguma com o TRCSS. O fator efetivo de animais mostrou    correla&ccedil;&atilde;o entre as vari&aacute;veis efetivo de aves e su&iacute;nos    e entre o efetivo de caprinos e ovinos. O munic&iacute;pio de SC registrou grande    concentra&ccedil;&atilde;o de su&iacute;nos e aves. Para o fator produ&ccedil;&atilde;o    animal, destacou-se novamente o SC, com a maior produ&ccedil;&atilde;o de ovos    do estado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o fator educa&ccedil;&atilde;o,    houve correla&ccedil;&atilde;o entre as vari&aacute;veis IDHM-Educa&ccedil;&atilde;o    e taxa de alfabetiza&ccedil;&atilde;o e entre taxa bruta de frequ&ecirc;ncia    &agrave; escola e taxa bruta de frequ&ecirc;ncia ao fundamental. Os munic&iacute;pios    de EST, IAJ e SC registraram os melhores &iacute;ndices para esse fator. As    duas vari&aacute;veis relacionadas ao fator longevidade apresentaram correla&ccedil;&atilde;o.    Todos os munic&iacute;pios do TRCSS obtiveram baixa longevidade, exceto SC.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As vari&aacute;veis    do fator renda tiveram correla&ccedil;&atilde;o, sendo que a maioria dos munic&iacute;pios    do TRCSS apresentou &iacute;ndices de m&eacute;dio para alto, exceto IND, RDD,    SLI e TG. Sobre o fator pobreza, houve correla&ccedil;&atilde;o entre as vari&aacute;veis    percentual de indigentes, percentual de pobres, percentual de crian&ccedil;as    indigentes e percentual de crian&ccedil;as pobres, e entre as vari&aacute;veis    intensidade da pobreza e intensidade da indig&ecirc;ncia. O munic&iacute;pio    de SC registrou os melhores &iacute;ndices para esse fator; ARA, UMB, EST, IND    e LGT apresentaram resultados intermedi&aacute;rios; e as demais cidades do    TRCSS obtiveram dados bem inferiores.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Para o fator produ&ccedil;&atilde;o    vegetal, as vari&aacute;veis apontaram alto grau de homogeneidade, com destaque    para a produ&ccedil;&atilde;o de mandioca em LGT. Para esse fator, o TRCSS mostrou    voca&ccedil;&atilde;o para a produ&ccedil;&atilde;o de laranja (todos os munic&iacute;pios    do TRCSS) e coco (EST e IAJ).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A an&aacute;lise    dos planos de componentes apontou que a dispers&atilde;o no espa&ccedil;o de    atributos em 1996 est&aacute; relacionada &agrave; maior varia&ccedil;&atilde;o    das vari&aacute;veis dos fatores educa&ccedil;&atilde;o, longevidade, renda    e pobreza. Para os fatores vinculados &agrave; atividade agropecu&aacute;ria    (uso da terra, efetivo de animais, produ&ccedil;&atilde;o animal e produ&ccedil;&atilde;o    vegetal), observou-se menor varia&ccedil;&atilde;o em 1996, tendendo para maior    homogeneidade em 2006.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">S&atilde;o Crist&oacute;v&atilde;o    destaca-se dos demais munic&iacute;pios do TRCSS em praticamente todos os fatores    avaliados. Os seus indicadores n&atilde;o agropecu&aacute;rios est&atilde;o    muito pr&oacute;ximos dos daqueles munic&iacute;pios da Grande Aracaju, como    Nossa Senhora do Socorro e Aracaju.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quando se comparam    os planos de componentes relativos &agrave; renda e pobreza, verifica-se que,    para os dados de refer&ecirc;ncia 2006, houve avan&ccedil;os no n&uacute;mero    de munic&iacute;pios com indicadores positivos para ambos os fatores. No TRCSS,    observa-se crescimento da renda e diminui&ccedil;&atilde;o da pobreza em CRP,    ITN, SC, ARA e SAL. Em BUI, UMB e PDR, nota-se pequena contra&ccedil;&atilde;o    da renda e leve aumento da pobreza. Os demais munic&iacute;pios permaneceram    relativamente no mesmo patamar em rela&ccedil;&atilde;o ao estado.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Segundo a distribui&ccedil;&atilde;o    no espa&ccedil;o de atributos (rede MAO) dos munic&iacute;pios, a partir dos    dados de refer&ecirc;ncia 2006, tem-se a seguinte parti&ccedil;&atilde;o (<a href="#f5">Figura    5</a>): IND, TG, SLI, RDD e CRP formariam o grupo 1, caracterizado por elevados    &iacute;ndices de pobreza, baixos n&iacute;veis educacionais, de renda e de    longevidade. Os munic&iacute;pios de EST e IAJ comporiam um segundo grupo, marcado    por baixos &iacute;ndices de pobreza, elevados &iacute;ndices educacionais,    de longevidade e de renda. Os munic&iacute;pios de LGT e SC formariam dois grupos    unit&aacute;rios com caracter&iacute;sticas bem distintas, enquanto SC destaca-se    pela presen&ccedil;a de valores extremos e bons n&iacute;veis para os indicadores    sociais, LGT apresenta-se mais pr&oacute;ximo das demais cidades do TRCSS, embora    se diferencie levemente em alguns aspectos. Por fim, ARA, PDR, BUI, SAL, UMB    e ITN formariam um agrupamento de munic&iacute;pios caracterizados por apresentarem-se    entre os dois extremos (grupos 1 e 2).</font></p>     <p><a name="f5"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/resr/v48n2/08f05.jpg"></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>6. Conclus&otilde;es</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O Mapa Auto-Organiz&aacute;vel    (MAO) de Kohonen mostrou-se eficaz na tarefa de an&aacute;lise espacial explorat&oacute;ria    de dados multivariados. A partir da sua aplica&ccedil;&atilde;o, foi poss&iacute;vel    identificar possibilidades de correla&ccedil;&atilde;o entre vari&aacute;veis,    detectar dados at&iacute;picos, analisar tend&ecirc;ncia na aproxima&ccedil;&atilde;o/distanciamento    de munic&iacute;pios, bem como avaliar agregados locais com indica&ccedil;&atilde;o    de depend&ecirc;ncia espacial.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O TRCSS configura-se    como um territ&oacute;rio homog&ecirc;neo, embora se tenha constatado que, para    as vari&aacute;veis analisadas, o munic&iacute;pio de S&atilde;o Crist&oacute;v&atilde;o    mostrou-se bastante distante dos demais. Cinco subagregados (<a href="#f5">Figura    5</a>) locais, com forte depend&ecirc;ncia espacial, foram identificados pela    an&aacute;lise dos planos de componentes, o que mostra a necessidade de refinamento    das pol&iacute;ticas p&uacute;blicas direcionadas ao territ&oacute;rio.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vale destacar que,    com a publica&ccedil;&atilde;o do IBGE das demais componentes do censo agropecu&aacute;rio    de 2006, ser&aacute; poss&iacute;vel realizar a agrega&ccedil;&atilde;o de mais    vari&aacute;veis ao processo anal&iacute;tico. Dessa maneira, a an&aacute;lise    regional poder&aacute; ser incrementada a partir da inclus&atilde;o de novos    fatores em futuros estudos, dentre os quais se destacam: t&eacute;cnicas de    cultivo, investimentos, perfil do pessoal ocupado no campo e assist&ecirc;ncia    t&eacute;cnica.</font></p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por fim, espera-se    que o m&eacute;todo de an&aacute;lise explorat&oacute;ria de dados multivariados    geoespaciais exposto neste trabalho possa colaborar no processo de caracteriza&ccedil;&atilde;o    dos Territ&oacute;rios Rurais e da Cidadania j&aacute; definidos pelo Minist&eacute;rio    do Desenvolvimento Agr&aacute;rio (MDA), bem como auxiliar na constru&ccedil;&atilde;o    de outros recortes regionais para efeito de planejamento e elabora&ccedil;&atilde;o    de pol&iacute;ticas p&uacute;blicas.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>7. Refer&ecirc;ncias    Bibliogr&aacute;ficas</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">BA&Ccedil;&Atilde;O,    F., LOBO, V.; PAINHO, M. The self-organizing map, the Geo-SOM, and relevant    variants for geosciences. <i>Computers &amp; Geosciences</i>, v. 31, p. 155-163,    2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000116&pid=S0103-2003201000020000800001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">HAYKIN, S. <i>Redes    neurais: princ&iacute;pios e pr&aacute;ticas.</i> Porto Alegre: Bookman, 2001.    900 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000118&pid=S0103-2003201000020000800002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INSTITUTO BRASILEIRO    DE GEOGRAFIA E ESTAT&Iacute;STICA (IBGE). <i>Censo agropecu&aacute;rio 1996</i>.    IBGE- Rio de Janeiro: IBGE - Sistema IBGE de recupera&ccedil;&atilde;o autom&aacute;tica    - SIDRA. Dispon&iacute;vel: <a href="http://www.ibge.gov.br" target="_blank">http://www.ibge.gov.br</a>    - acesso fev. 2009a.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000120&pid=S0103-2003201000020000800003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INSTITUTO BRASILEIRO    DE GEOGRAFIA E ESTAT&Iacute;STICA (IBGE). <i>Produ&ccedil;&atilde;o Agr&iacute;cola    Municipal</i>. Rio de Janeiro: IBGE - Sistema IBGE de recupera&ccedil;&atilde;o    autom&aacute;tica - SIDRA. Dispon&iacute;vel: <a href="http://www.ibge.gov.br" target="_blank">http://www.ibge.gov.br</a>    - acesso fev. 2009b.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000122&pid=S0103-2003201000020000800004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">INSTITUTO BRASILEIRO    DE GEOGRAFIA E ESTAT&Iacute;STICA (IBGE). <i>Censo Agropecu&aacute;rio - 2006    Resultados Preliminares</i>. Rio de Janeiro: IBGE, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000124&pid=S0103-2003201000020000800005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">KASKI, S.; KOHONEN,    T. Exploratory data analysis by the Self-Organizing Map: structures of welfare    and poverty in the world. In: Neural Networks in the Capital Markets, 3., 1996,    London. <i>Proceedings...</i> London: World Scientific, 1996. p. 498-507.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000126&pid=S0103-2003201000020000800006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">KOHONEN, T. <i>Self-Organizing    Maps</i>. Berlin: Springer, 2001. 501 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000128&pid=S0103-2003201000020000800007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MINIST&Eacute;RIO    DO DESENVOLVIMENTO AGR&Aacute;RIO (MDA). Refer&ecirc;ncias para a gest&atilde;o    social de territ&oacute;rios rurais. Bras&iacute;lia, DF:MDA. S&eacute;rie Documentos    nº 3, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000130&pid=S0103-2003201000020000800008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">MU&Ntilde;OZ, A.;    MURUZ&Aacute;BAL, J. Self-Organizing Maps for outlier detection. <i>Neurocomputing</i>,    v. 18, n. 1-3, p. 33-60, January 1998.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000132&pid=S0103-2003201000020000800009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">OPENSHAW, S.; BLAKE,    M.; WYMER, C. <i>Using neurocomputing methods to classify britain's residential    areas</i>. Leeds, 1994. (Working paper 94/17).    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000134&pid=S0103-2003201000020000800010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">OPENSHAW, S.; OPENSHAW,    C. <i>Artificial intelligence in geography</i>. Chichester: John Wiley and Sons,    1997. 348 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000136&pid=S0103-2003201000020000800011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">PROGRAMA DAS NA&Ccedil;&Otilde;ES    UNIDAS PARA O DESENVOLVIMENTO (PNUD). Atlas do desenvolvimento humano no Brasil.    Dispon&iacute;vel em: &lt;<a href="http://www.pnud.org.br/atlas/" target="_blank">http://www.pnud.org.br/atlas/</a>&gt;.    Acesso em: 15 jan. 2009.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000138&pid=S0103-2003201000020000800012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SABOURIN, E.; TEIXEIRA,    O.A. <i>Planejamento e desenvolvimento dos territ&oacute;rios rurais</i>: conceitos,    controv&eacute;rsias, experi&ecirc;ncias. Bras&iacute;lia: Embrapa, 2002</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000140&pid=S0103-2003201000020000800013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SKUPIN,A.; HAGELMAN,    R. Viisualizing demographic trajectories with self-organizing maps. <i>Geoinformatica</i>,    v. 9, n. 2, 159-179, 2005.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000141&pid=S0103-2003201000020000800014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SPIELMAN, S.E.;    THILL, J.-C. Social area analysis, data mining and GIS. <i>Computers, Environment    and Urban Systems</i>, v. 32, p. 110-122, 2008.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S0103-2003201000020000800015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">TOBLER, W.R. A    computer movie simulating urban growth in the detroit region. <i>Economic Geography</i>,    v.46, p.234-240, 1970.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S0103-2003201000020000800016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">ULTSCH, A. Knowledge    extraction from self-organizing neural networks. In: Opitz, O. ed. <i>Information    and Classification</i>. Berlin: Springer, 1993. p. 301-306.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S0103-2003201000020000800017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VESANTO, J. <i>Data    mining techniques based on the Self-Organizing Map</i>. 1997. 245 p. Disserta&ccedil;&atilde;o    (Mestrado em Computa&ccedil;&atilde;o) - Helsinki University of Technology,    Helsinki. 1997.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000149&pid=S0103-2003201000020000800018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VESANTO, J. SOM    based data visualization methods. <i>Intelligent Data Analysis</i>, v. 3, n.    2, p. 111-126, August 1999.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S0103-2003201000020000800019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VESANTO, J.; AHOLA,    J. Hunting for correlations in data using the Self-Organizing Map. In: International    ICSC Congress on Computational Intelligence Methods and Applications (CIMA '99),    1999, Rochester, NY. <i>Proceedings...</i> Rochester, NY: ICSC Academic Press,    1999. p. 279-285.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S0103-2003201000020000800020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VESANTO, J.; ALHONIEMI,    E. Clustering of the Self-Organizing Map. <i>IEEE Transactions on Neural Networks</i>,    v. 11, n. 3, p. 586-600, May 2000.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S0103-2003201000020000800021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">VESANTO, J.; HIMBERG,    J.; ALHONIEMI, E.; PARHANKANGAS, J. Self-Organizing Map in matlab: the SOM toolbox.    In: Matlab DSP Conference, 1999, Espoo, Finland. <i>Proceedings...</i> Espoo,    Finland: Comsol Oy, 1999. p. 35-40.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S0103-2003201000020000800022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">WINTER, K.; HEWITSON,    B.C. Self-organizing maps: applications to census data. In: HEWITSON, B.C.;    CRANE, R.G. <i>Neural nets</i>: applications in geography, Dordrecht: Kluwer,    1994.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000159&pid=S0103-2003201000020000800023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="back1"></a><a href="#top1">1</a>    Ao final de 2008, a SDT/MDA alterou a composi&ccedil;&atilde;o do TRCSS de forma    que os munic&iacute;pios de Lagarto e Riach&atilde;o do Dantas migraram para    o Territ&oacute;rio Sert&atilde;o Ocidental de Sergipe, S&atilde;o Crist&oacute;v&atilde;o    tamb&eacute;m foi exclu&iacute;do do TRCSS. Apesar da altera&ccedil;&atilde;o,    o estudo foi mantido para o TRCSS, atualmente denominado de Territ&oacute;rio    Sul de Sergipe.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[BAÇÃO]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[LOBO]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PAINHO]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The self-organizing map, the Geo-SOM, and relevant variants for geosciences]]></article-title>
+<source><![CDATA[Computers & Geosciences]]></source>
+<year>2005</year>
+<volume>31</volume>
+<page-range>155-163</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[HAYKIN]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Redes neurais: princípios e práticas]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Porto Alegre ]]></publisher-loc>
+<publisher-name><![CDATA[Bookman]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA</collab>
+<source><![CDATA[Censo agropecuário 1996]]></source>
+<year></year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IBGEIBGE - Sistema IBGE de recuperação automática - SIDRA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA</collab>
+<source><![CDATA[Produção Agrícola Municipal]]></source>
+<year></year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IBGE - Sistema IBGE de recuperação automática - SIDRA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<collab>INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA</collab>
+<source><![CDATA[Censo Agropecuário: 2006 Resultados Preliminares]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+<publisher-name><![CDATA[IBGE]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KASKI]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[KOHONEN]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Exploratory data analysis by the Self-Organizing Map: structures of welfare and poverty in the world]]></article-title>
+<source><![CDATA[Proceedings...]]></source>
+<year>1996</year>
+<conf-name><![CDATA[3 Neural Networks in the Capital Markets]]></conf-name>
+<conf-date>1996</conf-date>
+<conf-loc>London </conf-loc>
+<page-range>498-507</page-range><publisher-loc><![CDATA[London ]]></publisher-loc>
+<publisher-name><![CDATA[World Scientific]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[KOHONEN]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Self-Organizing Maps]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<collab>MINISTÉRIO DO DESENVOLVIMENTO AGRÁRIO</collab>
+<source><![CDATA[Referências para a gestão social de territórios rurais]]></source>
+<year>2005</year>
+<publisher-loc><![CDATA[Brasília^eDF DF]]></publisher-loc>
+<publisher-name><![CDATA[MDA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MUÑOZ]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MURUZÁBAL]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Self-Organizing Maps for outlier detection]]></article-title>
+<source><![CDATA[Neurocomputing]]></source>
+<year>Janu</year>
+<month>ar</month>
+<day>y </day>
+<volume>18</volume>
+<numero>1-3</numero>
+<issue>1-3</issue>
+<page-range>33-60</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OPENSHAW]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[BLAKE]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[WYMER]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Using neurocomputing methods to classify britain's residential areas]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Leeds ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OPENSHAW]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[OPENSHAW]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Artificial intelligence in geography]]></source>
+<year>1997</year>
+<publisher-loc><![CDATA[Chichester ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley and Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO</collab>
+<source><![CDATA[Atlas do desenvolvimento humano no Brasil]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SABOURIN]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[TEIXEIRA]]></surname>
+<given-names><![CDATA[O.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Planejamento e desenvolvimento dos territórios rurais: conceitos, controvérsias, experiências]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Brasília ]]></publisher-loc>
+<publisher-name><![CDATA[Embrapa]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SKUPIN]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HAGELMAN]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Viisualizing demographic trajectories with self-organizing maps]]></article-title>
+<source><![CDATA[Geoinformatica]]></source>
+<year>2005</year>
+<volume>9</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>159-179</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[SPIELMAN]]></surname>
+<given-names><![CDATA[S.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[THILL]]></surname>
+<given-names><![CDATA[J.-C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Social area analysis, data mining and GIS]]></article-title>
+<source><![CDATA[Computers, Environment and Urban Systems]]></source>
+<year>2008</year>
+<volume>32</volume>
+<page-range>110-122</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[TOBLER]]></surname>
+<given-names><![CDATA[W.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A computer movie simulating urban growth in the detroit region]]></article-title>
+<source><![CDATA[Economic Geography]]></source>
+<year>1970</year>
+<volume>46</volume>
+<page-range>234-240</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[ULTSCH]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Knowledge extraction from self-organizing neural networks]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Opitz]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Information and Classification]]></source>
+<year>1993</year>
+<page-range>301-306</page-range><publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VESANTO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Data mining techniques based on the Self-Organizing Map]]></source>
+<year>1997</year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VESANTO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[SOM based data visualization methods]]></article-title>
+<source><![CDATA[Intelligent Data Analysis]]></source>
+<year>Augu</year>
+<month>st</month>
+<day> 1</day>
+<volume>3</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>111-126</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VESANTO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[AHOLA]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Hunting for correlations in data using the Self-Organizing Map]]></article-title>
+<source><![CDATA[International ICSC Congress on Computational Intelligence Methods and Applications (CIMA '99)Proceedings...]]></source>
+<year>1999</year>
+<month>19</month>
+<day>99</day>
+<page-range>279-285</page-range><publisher-loc><![CDATA[Rochester^eNYRochester^eNY NYNY]]></publisher-loc>
+<publisher-name><![CDATA[ICSC Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VESANTO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALHONIEMI]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Clustering of the Self-Organizing Map]]></article-title>
+<source><![CDATA[IEEE Transactions on Neural Networks]]></source>
+<year>May </year>
+<month>20</month>
+<day>00</day>
+<volume>11</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>586-600</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[VESANTO]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HIMBERG]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ALHONIEMI]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[PARHANKANGAS]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Self-Organizing Map in matlab: the SOM toolbox]]></article-title>
+<source><![CDATA[Proceedings...]]></source>
+<year>1999</year>
+<conf-name><![CDATA[ Matlab DSP Conference]]></conf-name>
+<conf-date>1999</conf-date>
+<conf-loc>Espoo </conf-loc>
+<page-range>35-40</page-range><publisher-loc><![CDATA[Espoo ]]></publisher-loc>
+<publisher-name><![CDATA[Comsol Oy]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[WINTER]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[HEWITSON]]></surname>
+<given-names><![CDATA[B.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Self-organizing maps: applications to census data]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[HEWITSON]]></surname>
+<given-names><![CDATA[B.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[CRANE]]></surname>
+<given-names><![CDATA[R.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Neural nets: applications in geography]]></source>
+<year>1994</year>
+<publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+<publisher-name><![CDATA[Kluwer]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

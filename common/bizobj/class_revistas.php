@@ -36,7 +36,7 @@ class class_revistas {
 	function update($sql) {
 		
 		if (!is_numeric($this->rev_id))
-			die("O código para alteração é inválido. Classe: class_revistas.");
+			die("O codigo para alteracao eh invalido. Classe: class_revistas.");
 		
 		$query = "UPDATE revistas SET ";
 		if ($this->rev_dt_download)
@@ -52,6 +52,20 @@ class class_revistas {
 		return true;
 	}
 	
+	function insert($sql) {
+		$query = "INSERT INTO revistas (rev_nome,
+										rev_url) 
+									VALUES ('".
+										$this->rev_nome."', '"
+										.$this->rev_url."');";
+		if (!$sql->query($query)) {
+			$this->error = "Error insert: ".$sql->error;
+			return false;
+		}
+		
+		return true;
+	}
+
 	function fetch() {
 		
 		if ($row = $this->result->fetch_array(MYSQLI_ASSOC)) {

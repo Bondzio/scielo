@@ -13,14 +13,14 @@ $artigos = new class_artigos;
 if ($artigos->select($sql)) {
     while ($artigos->fetch()) {
         $pid = "S".$artigos->pid.$artigos->art_num;
-        $file = "files/artigos/".$artigos->art_dt_download."_".$pid.".xml";
+        $file = "files/artigos/xml/".$pid.".xml";
         
         echo "\n\n -- \n\nExtraindo dados do arquivo: ".$file."\n";
-	echo "ID: ".$artigos->art_id."\n";
-	echo "PID: ".$artigos->pid."\n";
-	echo "NUM: ".$artigos->art_num."\n";
+	    echo "ID: ".$artigos->art_id."\n";
+	    echo "PID: ".$artigos->pid."\n";
+	    echo "NUM: ".$artigos->art_num."\n";
 	
-	$xml = new XMLtoArray(file_get_contents($file, "r"));
+	    $xml = new XMLtoArray(file_get_contents($file, "r"));
 		
         $xml->getArray();
 		

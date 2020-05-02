@@ -2,7 +2,7 @@
 
 require "common/class/class-XMLtoArray.php";
 
-$dir    	= "./files/artigos/";
+$dir    	= "./files/artigos/xml/";
 $output["pt"] 	= "./files/resumos/pt/";
 $output["en"] 	= "./files/resumos/en/";
 $output["fr"] 	= "./files/resumos/fr/";

@@ -15,7 +15,7 @@ if ($revistas->select($sql)) {
 		
         echo " - Acessando a revista: ".retirarAcento($revistas->rev_nome)."\n";
 		
-        $file = "files/revistas/".date("Y-m-d")."_".str_replace(array(" ",":"), "_", retirarAcento($revistas->rev_nome)).".html";
+        $file = "files/revistas/".str_replace(array(" ",":"), "_", retirarAcento($revistas->rev_nome)).".html";
         $handle = @fopen($revistas->rev_url, "r");
         if ($handle) {
             echo "  + Salvando os dados da revista offline...";
@@ -37,7 +37,7 @@ if ($revistas->select($sql)) {
             $revistas2->rev_id = $revistas->rev_id;
             $revistas2->rev_dt_download = date("Y-m-d");
             $revistas2->update($sql);
-            echo "[OK] \n";
+            echo "[OK]\n";
 			
             fclose($handle);
         }
@@ -45,6 +45,6 @@ if ($revistas->select($sql)) {
 } else
     die("Não há revistas cadastradas");
 
-echo "[Fim]"
+echo "[Fim]\n"
 
 ?>

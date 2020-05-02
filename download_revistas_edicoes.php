@@ -16,7 +16,7 @@ if ($edicoes->select($sql)) {
         //echo " - Acessando a revista: ".retirarAcento($edicoes->rev_nome)."\n";
         $conteudo = "";
 		
-        $file = "files/revistas/".date("Y-m-d")."_".str_replace(array(" ",":"), "_", retirarAcento($edicoes->rev_nome))."_".$edicoes->pid.".html";
+        $file = "files/revistas/".str_replace(array(" ",":"), "_", retirarAcento($edicoes->rev_nome))."_".$edicoes->pid.".html";
         $url = "http://www.scielo.br/scielo.php?script=sci_issuetoc&pid=".$edicoes->pid."&lng=pt&nrm=iso";
 		
         $handle = @fopen($url, "r");

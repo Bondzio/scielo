@@ -59,14 +59,19 @@ class class_artigos {
 						r.pid
 							FROM artigos a 	JOIN pid_revistas r ON (a.pidrev_id = r.pidrev_id)
 								WHERE 1 = 1 ";
-		if ($this->art_id)
+		if ($this->art_id) {
 			$query .= " AND art_id = ".$this->art_id;
-		if ($this->pidrev_id)
+		}
+		if ($this->pidrev_id) {
 			$query .= " AND pidrev_id = ".$this->pidrev_id;
-		if ($this->art_num)
+		}
+		if ($this->art_num) {
 			$query .= " AND art_num = '".$this->art_num."'";
+		}
+		if ($this->art_dt_download) {
+			$query .= " AND art_dt_download = '".$this->art_dt_download."'";
+		}
 		$query .= " ORDER BY a.art_id;";
-		
 		if (!$this->result = $sql->query($query))
 			die("Error select: ".$sql->error);
 		

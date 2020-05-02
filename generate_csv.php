@@ -8,7 +8,8 @@ require "common/bizobj/class_artigos_biblio_auts_relatorios.php";
 require "common/bizobj/class_palavras_chave.php";
 
 function escapar($m) {
-    return str_replace(array(";", "\""), array(",", "'"), trim($m));
+	$m = html_entity_decode(utf8_encode($m));
+	return str_replace(array(";", "\""), array(",", "'"), trim($m));
 }
 
 echo "[Inicio] \n";
@@ -74,7 +75,7 @@ if ($artigos->select($sql)) {
                 $palavras->art_id = $artigos->art_id;
                 if ($palavras->select($sql)) {
                     while ($palavras->fetch()) {
-                       $kwd .= utf8_decode($palavras->pch_palavra).", ";
+                       $kwd .= $palavras->pch_palavra.", ";
                     }
                     $kwd = substr($kwd, 0 , -2);
                 }
@@ -89,21 +90,21 @@ if ($artigos->select($sql)) {
 		$l .= escapar($givennames)."; ";
 		$l .= escapar($surname)."; ";
 		$l .= escapar($autores_completo)."; ";
-		$l .= $instituicao."; ";
-		$l .= $artigos->rev_nome."; ";
+		$l .= escapar($instituicao)."; ";
+		$l .= escapar($artigos->rev_nome)."; ";
 		$l .= $artigos->art_ano."; ";
 		$l .= escapar($artigos->art_resumo_pt)."; ";
 		$l .= escapar($artigos->art_resumo_fr)."; ";
 		$l .= escapar($artigos->art_resumo_en)."; ";
 		$l .= escapar($artigos->art_resumo_es)."; ";
                 $l .= escapar($kwd)."; ";
-		$l .= $artigos->art_publisher_name."; ";
-		$l .= $biblio_givennames."; ";
-		$l .= $biblio_surname."; ";
-		$l .= $biblio_completo."\n";
+		$l .= escapar($artigos->art_publisher_name)."; ";
+		$l .= escapar($biblio_givennames)."; ";
+		$l .= escapar($biblio_surname)."; ";
+		$l .= escapar($biblio_completo)."\n";
 		fwrite($fp, $l);
 	}
 	fclose($fp);
 }
 
-echo "[Fim]";
+echo "[Fim]\n";

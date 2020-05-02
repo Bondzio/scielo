@@ -26,7 +26,7 @@ class class_pid_revistas {
 		if ($this->pidrev_id)
 			$query .= " AND pidrev_id = ".$this->pidrev_id;
 		if ($this->rev_id)
-			$query .= " AND rev_id = ".$this->rev_id;
+			$query .= " AND pd.rev_id = ".$this->rev_id;
 		if ($this->pid)
 			$query .= " AND pid = '".$this->pid."' ORDER BY pd.pidrev_id";
 		$query .= ";";
@@ -73,7 +73,7 @@ class class_pid_revistas {
 	function update($sql) {
 		
 		if (!is_numeric($this->pidrev_id))
-			die("O código para alteração é inválido. Classe: class_pid_revistas.");
+			die("O cï¿½digo para alteraï¿½ï¿½o ï¿½ invï¿½lido. Classe: class_pid_revistas.");
 		
 		$query = "UPDATE pid_revistas SET ";
 		if ($this->pidrev_dt_download)

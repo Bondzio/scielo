@@ -15,18 +15,18 @@ if ($revistas->select($sql)) {
 	
         echo " - Acessando a revista salva offline: ".retirarAcento($revistas->rev_nome)."\n";
 		
-        $file = "files/revistas/".$revistas->rev_dt_download."_".str_replace(" ", "_", retirarAcento($revistas->rev_nome)).".html";
+        $file = "files/revistas/".str_replace(" ", "_", retirarAcento($revistas->rev_nome)).".html";
         $handle = @fopen($file, "r");
         if ($handle) {
             echo "  + Extraindo os pIDs da revista e salvando no banco de dados...";
-			
+            
             $pid = array();
 			
             while (!feof($handle)) {
                 $buffer = fgets($handle, 4096);
 				
                 //<A href="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=0102-690920130002&amp;lng=pt&amp;nrm=iso">
-                $pattern = '/http:\/\/www\.scielo\.br\/scielo\.php\?script=sci_issuetoc&amp;pid=([0-9]{4}-[0-9]*)&amp;lng=pt&amp;nrm=iso/';
+                $pattern = '/http:\/\/www\.scielo\.br\/scielo\.php\?script=sci_issuetoc&amp;pid=([0-9]{4}-[A-Z0-9]*)&amp;lng=pt&amp;nrm=iso/';
                 if (preg_match_all($pattern, $buffer, $pid_arr)) {
                     for ($i = 0; $i < sizeof($pid_arr[1]); ++$i) {
                         $p_rev = new class_pid_revistas;
